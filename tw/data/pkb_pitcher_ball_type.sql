@@ -1,0 +1,17 @@
+insert into pkb_pitcher_ball_type values (1, 1, '直球');
+insert into pkb_pitcher_ball_type values (1, 2, '曲球');
+insert into pkb_pitcher_ball_type values (2, 3, '直球');
+insert into pkb_pitcher_ball_type values (2, 4, '伸卡球');
+insert into pkb_pitcher_ball_type values (2, 6, 'S曲球');
+insert into pkb_pitcher_ball_type values (3, 7, '直球');
+insert into pkb_pitcher_ball_type values (3, 8, '曲球');
+insert into pkb_pitcher_ball_type values (3, 9, '滑球');
+insert into pkb_pitcher_ball_type values (3, 5, '伸卡球');
+insert into pkb_pitcher_ball_type values (3, 16, '噴射球');
+insert into pkb_pitcher_ball_type values (3, 10, '初音☆幻覺球');
+insert into pkb_pitcher_ball_type values (3, 11, '初音☆消失球');
+insert into pkb_pitcher_ball_type values (4, 12, '直球');
+insert into pkb_pitcher_ball_type values (4, 13, '曲球');
+insert into pkb_pitcher_ball_type values (4, 14, '伸卡球');
+insert into pkb_pitcher_ball_type values (4, 17, '昇龍終結球');
+insert into pkb_pitcher_ball_type values (4, 18, '昇龍擺尾球');

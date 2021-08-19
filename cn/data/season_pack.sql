@@ -1,0 +1,11 @@
+insert into season_pack values (9, 17001001, 1, 403, '每日宝石礼包·第{1}天道具包', '每日宝石礼包·未收取的宝石', 0, 30, 3, 0, 104, 0, 1, 0, 2000);
+insert into season_pack values (15, 0, 0, 0, '', '', 0, 7, 3, 1, 103, 3, 0, 1, 0);
+insert into season_pack values (18, 0, 0, 0, '', '', 0, 30, 3, 1, 103, 3, 0, 1, 0);
+insert into season_pack values (50, 17001101, 0, 403, '特惠宝石月卡·第{1}天道具包', '特惠宝石月卡·未收取的宝石', 0, 30, 3, 0, 0, 0, 10, 0, 0);
+insert into season_pack values (51, 17001102, 0, 405, '体力礼包中的第{1}天的道具包', '', 0, 30, 3, 0, 0, 0, 11, 0, 0);
+insert into season_pack values (10019, 17001002, 2, 405, '7天体力支援礼包中的第{1}天的道具包', '', 9402, 7, 0, 0, 103, 1, 2, 0, 0);
+insert into season_pack values (10020, 0, 2, 0, '', '', 9403, 0, 0, 0, 0, 0, 3, 0, 0);
+insert into season_pack values (10021, 0, 4, 0, '', '', 9404, 0, 0, 0, 0, 0, 4, 0, 0);
+insert into season_pack values (10022, 0, 6, 0, '', '', 9405, 0, 0, 0, 0, 0, 5, 0, 0);
+insert into season_pack values (10023, 0, 8, 0, '', '', 9406, 0, 0, 0, 0, 0, 6, 0, 0);
+insert into season_pack values (10028, 0, 1, 0, '', '', 9319, 0, 0, 0, 908, 0, 9, 0, 0);

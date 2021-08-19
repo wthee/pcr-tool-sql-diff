@@ -1,0 +1,11 @@
+insert into tower_area_data values (1, 70, 81000104, 'bgm_M125', 0);
+insert into tower_area_data values (2, 110, 81000104, 'bgm_M125', 0);
+insert into tower_area_data values (3, 130, 81000104, 'bgm_M125', 0);
+insert into tower_area_data values (4, 150, 81000104, 'bgm_M125', 0);
+insert into tower_area_data values (5, 170, 81000104, 'bgm_M125', 0);
+insert into tower_area_data values (6, 190, 81000104, 'bgm_M125', 0);
+insert into tower_area_data values (7, 210, 81000104, 'bgm_M125', 0);
+insert into tower_area_data values (8, 230, 81000104, 'bgm_M125', 0);
+insert into tower_area_data values (9, 250, 81000104, 'bgm_M125', 0);
+insert into tower_area_data values (10, 270, 81000104, 'bgm_M125', 0);
+insert into tower_area_data values (11, 290, 81000104, 'bgm_M125', 0);

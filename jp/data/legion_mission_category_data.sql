@@ -1,0 +1,5 @@
+insert into legion_mission_category_data values (1000, '共通');
+insert into legion_mission_category_data values (1005, 'ミソラ');
+insert into legion_mission_category_data values (1006, 'ランファ');
+insert into legion_mission_category_data values (1007, 'アゾールド');
+insert into legion_mission_category_data values (1008, 'カリザ');

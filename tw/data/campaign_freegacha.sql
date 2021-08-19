@@ -1,0 +1,16 @@
+insert into campaign_freegacha values (1, 1, 0, 1, '2018/11/08 16:00:00', '2018/11/12 15:59:59', 0, 0, 0);
+insert into campaign_freegacha values (2, 2, 0, 1, '2018/11/30 16:00:00', '2018/12/04 15:59:59', 0, 0, 0);
+insert into campaign_freegacha values (3, 3, 0, 1, '2019/02/13 16:00:00', '2019/02/23 15:59:59', 0, 0, 0);
+insert into campaign_freegacha values (4, 4, 0, 1, '2019/05/03 16:00:00', '2019/05/14 15:59:59', 0, 0, 0);
+insert into campaign_freegacha values (5, 5, 0, 1, '2019/07/01 16:00:00', '2019/07/15 15:59:59', 0, 0, 0);
+insert into campaign_freegacha values (6, 6, 0, 1, '2019/08/01 16:00:00', '2019/08/15 15:59:59', 0, 0, 0);
+insert into campaign_freegacha values (7, 7, 0, 1, '2019/12/13 16:00:00', '2019/12/30 15:59:59', 0, 0, 0);
+insert into campaign_freegacha values (8, 8, 0, 1, '2020/04/22 16:00:00', '2020/05/08 15:59:59', 1, 0, 0);
+insert into campaign_freegacha values (9, 9, 0, 1, '2020/06/22 16:00:00', '2020/07/07 15:59:59', 1, 0, 0);
+insert into campaign_freegacha values (10, 10, 0, 1, '2020/08/03 16:00:00', '2020/08/09 15:59:59', 1, 0, 0);
+insert into campaign_freegacha values (11, 11, 0, 1, '2020/12/21 05:00:00', '2021/01/06 15:59:59', 1, 0, 0);
+insert into campaign_freegacha values (12, 12, 0, 1, '2021/02/11 16:00:00', '2021/02/18 04:59:59', 1, 0, 0);
+insert into campaign_freegacha values (13, 13, 0, 1, '2021/04/16 16:00:00', '2021/04/22 15:59:59', 1, 0, 0);
+insert into campaign_freegacha values (14, 14, 0, 1, '2021/04/27 16:00:00', '2021/05/03 15:59:59', 1, 0, 0);
+insert into campaign_freegacha values (15, 15, 0, 1, '2021/06/19 05:00:00', '2021/07/02 04:59:59', 1, 0, 0);
+insert into campaign_freegacha values (16, 16, 0, 0, '2021/07/02 05:00:00', '2021/08/02 04:59:59', 1, 15, 14);

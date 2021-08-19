@@ -1,0 +1,15 @@
+insert into nyx_story_data values (11, 1, 1, '', '', '0', 10065105, 0, 1, 5038600);
+insert into nyx_story_data values (12, 2, 1, '高等部１年\u3000チエル', '次世代へ継承すべき新言語', '0', 10065105, 0, 0, 0);
+insert into nyx_story_data values (13, 3, 1, '高等部２年\u3000クロエ', '私はとても作文が苦手です', '0', 10065107, 0, 0, 0);
+insert into nyx_story_data values (14, 4, 1, '高等部３年\u3000ユニ', '飛翔へと至るまで', '0', 10065109, 0, 0, 0);
+insert into nyx_story_data values (21, 5, 2, '', '', '0', 10065111, 0, 2, 5038601);
+insert into nyx_story_data values (22, 6, 2, '記入担当\u3000アキノ', '閃きましたわ！', '0', 10065111, 0, 0, 0);
+insert into nyx_story_data values (23, 7, 2, '記入担当\u3000タマキ', '組み立てにゃ！', '0', 10065112, 0, 0, 0);
+insert into nyx_story_data values (24, 8, 2, '記入担当\u3000ユカリ', '私こんなの書いたっけ…？', '0', 10065113, 0, 0, 0);
+insert into nyx_story_data values (25, 9, 2, '記入担当\u3000ミフユ', 'このままにしておけないわ', '0', 10065114, 0, 0, 0);
+insert into nyx_story_data values (26, 10, 2, '総括', '特別講座を終えて', '0', 10065115, 0, 0, 0);
+insert into nyx_story_data values (31, 11, 3, '', '', '0', 10065115, 1, 2, 5038602);
+insert into nyx_story_data values (32, 12, 3, '浪漫継承計画', '開発記－考察', '0', 10065115, 1, 0, 0);
+insert into nyx_story_data values (33, 13, 3, '未全充溢計画', '開発記－試作機完成', '0', 10065115, 2, 0, 0);
+insert into nyx_story_data values (34, 14, 3, '画竜点睛計画', '開発記－最終工程', '0', 10065115, 3, 0, 0);
+insert into nyx_story_data values (35, 15, 3, '', '', '2021/04/25 21:00:00', 10065115, 3, 3, 5038603);

@@ -1,0 +1,5 @@
+insert into sekai_unlock_story_condition values (4004001, 1001, 1, 0, '2020/04/01');
+insert into sekai_unlock_story_condition values (4004002, 1001, 0, 1001104, '2020/04/01');
+insert into sekai_unlock_story_condition values (4004003, 1001, 0, 1001106, '2020/04/01');
+insert into sekai_unlock_story_condition values (4004004, 1001, 0, 1001110, '2020/04/01');
+insert into sekai_unlock_story_condition values (4004005, 1001, 0, 0, '2020/04/02');

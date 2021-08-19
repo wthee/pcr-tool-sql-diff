@@ -1,0 +1,9 @@
+insert into equipment_donation values (10, 2, 10, 10);
+insert into equipment_donation values (20, 2, 10, 10);
+insert into equipment_donation values (30, 2, 10, 10);
+insert into equipment_donation values (40, 2, 10, 10);
+insert into equipment_donation values (50, 2, 10, 10);
+insert into equipment_donation values (60, 2, 10, 10);
+insert into equipment_donation values (70, 2, 10, 10);
+insert into equipment_donation values (80, 2, 10, 10);
+insert into equipment_donation values (999, 2, 10, 10);

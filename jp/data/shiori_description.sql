@@ -1,0 +1,12 @@
+insert into shiori_description values (101, 1, 'サイドストーリーでは、特別なストーリーを楽しめます。\\nイベントストーリーはイベントクエストを進めると解放されていきます。');
+insert into shiori_description values (201, 2, 'ミッションを達成すると解放できるキャラが登場します。\\nミッションクリアを目指しましょう。');
+insert into shiori_description values (301, 3, 'ボスに挑戦すると、信頼度エピソードが発生する\\nことがございます。会話の結果によって信頼度がアップし、\\n特定の信頼度に到達するとプレゼントがもらえます。');
+insert into shiori_description values (20005, 4, 'ミッションを達成すると解放できるキャラが登場します。\\nミッションクリアを目指しましょう。');
+insert into shiori_description values (20007, 5, 'ミッションを達成すると解放できるキャラが登場します。\\nミッションクリアを目指しましょう。');
+insert into shiori_description values (20009, 6, 'ミッションを達成すると解放できるキャラが登場します。\\nミッションクリアを目指しましょう。');
+insert into shiori_description values (20010, 7, 'ミッションを達成すると解放できるキャラが登場します。\\nミッションクリアを目指しましょう。');
+insert into shiori_description values (20011, 8, 'ミッションを達成すると解放できるキャラが登場します。\\nミッションクリアを目指しましょう。');
+insert into shiori_description values (20013, 9, 'ミッションを達成すると解放できるキャラが登場します。\\nミッションクリアを目指しましょう。');
+insert into shiori_description values (20015, 10, 'ミッションを達成すると解放できるキャラが登場します。\\nミッションクリアを目指しましょう。');
+insert into shiori_description values (20016, 11, 'ミッションを達成すると解放できるキャラが登場します。\\nミッションクリアを目指しましょう。');
+insert into shiori_description values (20018, 12, 'ミッションを達成すると解放できるキャラが登場します。\\nミッションクリアを目指しましょう。');

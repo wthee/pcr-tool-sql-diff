@@ -1,0 +1,12 @@
+insert into sekai_add_times_data values (1, 1002, 6, 10, '2021/04/01', 0);
+insert into sekai_add_times_data values (2, 1002, 2, 10, '2021/04/01 02:00:00', 120);
+insert into sekai_add_times_data values (3, 1002, 2, 10, '2021/04/01 04:00:00', 120);
+insert into sekai_add_times_data values (4, 1002, 2, 10, '2021/04/01 06:00:00', 120);
+insert into sekai_add_times_data values (5, 1002, 2, 10, '2021/04/01 08:00:00', 120);
+insert into sekai_add_times_data values (6, 1002, 2, 10, '2021/04/01 10:00:00', 120);
+insert into sekai_add_times_data values (7, 1002, 2, 10, '2021/04/01 12:00:00', 120);
+insert into sekai_add_times_data values (8, 1002, 2, 10, '2021/04/01 14:00:00', 120);
+insert into sekai_add_times_data values (9, 1002, 2, 10, '2021/04/01 16:00:00', 120);
+insert into sekai_add_times_data values (10, 1002, 2, 10, '2021/04/01 18:00:00', 120);
+insert into sekai_add_times_data values (11, 1002, 2, 10, '2021/04/01 20:00:00', 120);
+insert into sekai_add_times_data values (12, 1002, 2, 10, '2021/04/01 22:00:00', 120);

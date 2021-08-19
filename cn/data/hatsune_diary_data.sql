@@ -1,0 +1,17 @@
+insert into hatsune_diary_data values (1, 0, 1, 'どうしてこんな\\nことに……？', '2030/01/01 1:00:00', '2019/08/31 5:00:00', 5023000, 0);
+insert into hatsune_diary_data values (2, 0, 2, 'ごきげんようが\\n言えなくて', '2030/01/01 1:00:00', '2019/08/31 5:00:00', 5023001, 0);
+insert into hatsune_diary_data values (3, 0, 3, 'やっちゃった！', '2030/01/01 1:00:00', '2019/08/31 5:00:00', 5023002, 0);
+insert into hatsune_diary_data values (4, 0, 4, 'ユニさんは\\nこんな人', '2030/01/01 1:00:00', '2019/09/01 5:00:00', 5023002, 0);
+insert into hatsune_diary_data values (5, 0, 5, 'クロエさんは\\nこんな人', '2030/01/01 1:00:00', '2019/09/01 5:00:00', 5023002, 0);
+insert into hatsune_diary_data values (6, 0, 6, 'チエルさんは\\nこんな人', '2030/01/01 1:00:00', '2019/09/01 5:00:00', 5023002, 0);
+insert into hatsune_diary_data values (7, 0, 7, '知的な\\nユニさん', '2030/01/01 1:00:00', '2019/09/02 5:00:00', 5023003, 0);
+insert into hatsune_diary_data values (8, 0, 8, '優しい\\nクロエさん', '2030/01/01 1:00:00', '2019/09/02 5:00:00', 5023003, 0);
+insert into hatsune_diary_data values (9, 0, 9, '憧れの\\nチエルさん', '2030/01/01 1:00:00', '2019/09/02 5:00:00', 5023003, 0);
+insert into hatsune_diary_data values (10, 0, 10, '特別講座の\\n練習', '2030/01/01 1:00:00', '2019/09/03 5:00:00', 5023003, 0);
+insert into hatsune_diary_data values (11, 0, 11, 'いよいよ\\n特別講座', '2030/01/01 1:00:00', '2019/09/03 5:00:00', 5023004, 0);
+insert into hatsune_diary_data values (12, 0, 12, 'さすがBB団の\\n団長さん！', '2030/01/01 1:00:00', '2019/09/03 5:00:00', 5023005, 0);
+insert into hatsune_diary_data values (13, 0, 13, 'マンドラゴラで\\nパニック', '2030/01/01 1:00:00', '2019/09/03 5:00:00', 5023006, 0);
+insert into hatsune_diary_data values (14, 0, 14, '最終日', '2030/01/01 1:00:00', '2019/09/14 5:00:00', 5023006, 1);
+insert into hatsune_diary_data values (15, 1, 0, '', '2030/01/01 1:00:00', '2019/09/14 21:00:00', 5023000, 0);
+insert into hatsune_diary_data values (16, 1, 0, '', '2030/01/01 1:00:00', '2019/09/14 21:00:00', 5023000, 0);
+insert into hatsune_diary_data values (17, 1, 0, '', '2030/01/01 1:00:00', '2019/09/14 21:00:00', 5023000, 0);

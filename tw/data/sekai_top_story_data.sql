@@ -1,0 +1,4 @@
+insert into sekai_top_story_data values (1002, 4004105, '2021/04/01 09:00:00', '2021/04/01 11:59:59');
+insert into sekai_top_story_data values (1002, 4004106, '2021/04/01 12:00:00', '2021/04/01 14:59:59');
+insert into sekai_top_story_data values (1002, 4004107, '2021/04/01 15:00:00', '2021/04/01 18:59:59');
+insert into sekai_top_story_data values (1002, 4004108, '2021/04/01 19:00:00', '2021/04/01 21:59:59');

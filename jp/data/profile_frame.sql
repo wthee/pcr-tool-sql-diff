@@ -1,0 +1,11 @@
+insert into profile_frame values (1, 'おまかせ', 1, '2020-02-15 15:00:00', '', 1);
+insert into profile_frame values (2, 'デフォルト', 2, '2020-02-15 15:00:00', '', 2);
+insert into profile_frame values (3, 'アニバーサリー', 3, '2020-02-15 15:00:00', '', 3);
+insert into profile_frame values (4, 'ピンク', 1, '2020-02-15 15:00:00', '', 4);
+insert into profile_frame values (5, 'レッド', 1, '2020-02-15 15:00:00', '', 5);
+insert into profile_frame values (6, 'イエロー', 1, '2020-02-15 15:00:00', '', 6);
+insert into profile_frame values (7, 'グリーン', 1, '2020-02-15 15:00:00', '', 7);
+insert into profile_frame values (8, 'ライトブルー', 1, '2020-02-15 15:00:00', '', 8);
+insert into profile_frame values (9, 'ブルー', 1, '2020-02-15 15:00:00', '', 9);
+insert into profile_frame values (10, 'パープル', 1, '2020-02-15 15:00:00', '', 10);
+insert into profile_frame values (11, 'グレー', 1, '2020-02-15 15:00:00', '', 11);

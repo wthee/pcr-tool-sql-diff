@@ -1,0 +1,10 @@
+insert into shiori_unlock_unit_condition values (10, 107601, 20004, 72004021, 'ボスNORMAL討伐で解放！', '[3C404E]イベントを進めて、ボスに挑戦！\\nボスNORMALを討伐すると、\\n限定キャラ解放！！[-]', '[3C404E]ボスNORMAL討伐で解放！');
+insert into shiori_unlock_unit_condition values (12, 108001, 20005, 72005021, 'ボスNORMAL討伐で解放！', '[3C404E]イベントを進めて、ボスに挑戦！\\nボスNORMALを討伐すると、\\n限定キャラ解放！！[-]', '[3C404E]ボスNORMAL討伐で解放！');
+insert into shiori_unlock_unit_condition values (15, 108201, 20007, 72007021, 'ボスNORMAL討伐で解放！', '[3C404E]イベントを進めて、ボスに挑戦！\\nボスNORMALを討伐すると、\\n限定キャラ解放！！[-]', '[3C404E]ボスNORMAL討伐で解放！');
+insert into shiori_unlock_unit_condition values (17, 108501, 20009, 72009021, 'ボスNORMAL討伐で解放！', '[3C404E]イベントを進めて、ボスに挑戦！\\nボスNORMALを討伐すると、\\n限定キャラ解放！！[-]', '[3C404E]ボスNORMAL討伐で解放！');
+insert into shiori_unlock_unit_condition values (19, 108901, 20010, 72010021, 'ボスNORMAL討伐で解放！', '[3C404E]イベントを進めて、ボスに挑戦！\\nボスNORMALを討伐すると、\\n限定キャラ解放！！[-]', '[3C404E]ボスNORMAL討伐で解放！');
+insert into shiori_unlock_unit_condition values (21, 109001, 20011, 72011021, 'ボスNORMAL討伐で解放！', '[3C404E]イベントを進めて、ボスに挑戦！\\nボスNORMALを討伐すると、\\n限定キャラ解放！！[-]', '[3C404E]ボスNORMAL討伐で解放！');
+insert into shiori_unlock_unit_condition values (22, 109301, 20013, 72013021, 'ボスNORMAL討伐で解放！', '[3C404E]イベントを進めて、ボスに挑戦！\\nボスNORMALを討伐すると、\\n限定キャラ解放！！[-]', '[3C404E]ボスNORMAL討伐で解放！');
+insert into shiori_unlock_unit_condition values (23, 110101, 20015, 72015021, 'ボスNORMAL討伐で解放！', '[3C404E]イベントを進めて、ボスに挑戦！\\nボスNORMALを討伐すると、\\n限定キャラ解放！！[-]', '[3C404E]ボスNORMAL討伐で解放！');
+insert into shiori_unlock_unit_condition values (24, 110501, 20016, 72016021, 'ボスNORMAL討伐で解放！', '[3C404E]イベントを進めて、ボスに挑戦！\\nボスNORMALを討伐すると、\\n限定キャラ解放！！[-]', '[3C404E]ボスNORMAL討伐で解放！');
+insert into shiori_unlock_unit_condition values (25, 111201, 20018, 72018021, 'ボスNORMAL討伐で解放！', '[3C404E]イベントを進めて、ボスに挑戦！\\nボスNORMALを討伐すると、\\n限定キャラ解放！！[-]', '[3C404E]ボスNORMAL討伐で解放！');

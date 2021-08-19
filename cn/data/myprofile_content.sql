@@ -1,0 +1,12 @@
+insert into myprofile_content values (1, '粉色', '2020-01-01 0:00:00', '', 12);
+insert into myprofile_content values (2, '红色', '2020-01-01 0:00:00', '', 13);
+insert into myprofile_content values (3, '黄色', '2020-01-01 0:00:00', '', 14);
+insert into myprofile_content values (4, '绿色', '2020-01-01 0:00:00', '', 15);
+insert into myprofile_content values (5, '浅蓝色', '2020-01-01 0:00:00', '', 16);
+insert into myprofile_content values (6, '蓝色', '2020-01-01 0:00:00', '', 17);
+insert into myprofile_content values (7, '紫色', '2020-01-01 0:00:00', '', 18);
+insert into myprofile_content values (8, '灰色', '2020-01-01 0:00:00', '', 19);
+insert into myprofile_content values (9, '夏日沙滩的朝阳', '2019-06-30 12:00:00', '', 9);
+insert into myprofile_content values (10, '夏日沙滩的夕阳', '2019-06-30 12:00:00', '', 10);
+insert into myprofile_content values (11, '夏日沙滩的星空', '2019-06-30 12:00:00', '', 11);
+insert into myprofile_content values (12, '海底背景', '2021-08-19 11:00:00', '', 8);

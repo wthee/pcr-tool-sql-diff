@@ -1,0 +1,12 @@
+insert into room_effect values (1, 1, 0, 0, 0);
+insert into room_effect values (2, 2, 0, 0, 0);
+insert into room_effect values (3, 3, 0, 0, 0);
+insert into room_effect values (4, 4, 0, 0, 0);
+insert into room_effect values (5, 5, 0, 0, 0);
+insert into room_effect values (6, 6, 0, 0, 0);
+insert into room_effect values (7, 7, 0, 0, 0);
+insert into room_effect values (8, 8, 0, 0, 0);
+insert into room_effect values (9, 0, 1, 0, 0);
+insert into room_effect values (10, 0, 0, 1, 0);
+insert into room_effect values (11, 11, 0, 0, 0);
+insert into room_effect values (13, 0, 0, 0, 1);

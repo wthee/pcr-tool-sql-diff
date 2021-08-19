@@ -1,0 +1,12 @@
+insert into tme_map_data values (1101, 10069, 0, 1, 0, 1);
+insert into tme_map_data values (1102, 10069, 0, 1, 0, 1);
+insert into tme_map_data values (1103, 10069, 5042002, 1, 1, 0);
+insert into tme_map_data values (1104, 10069, 0, 1, 0, 1);
+insert into tme_map_data values (1105, 10069, 5042003, 1, 1, 0);
+insert into tme_map_data values (1106, 10069, 0, 1, 0, 1);
+insert into tme_map_data values (1107, 10069, 5042005, 1, 2, 0);
+insert into tme_map_data values (1201, 10069, 5042007, 2, 1, 0);
+insert into tme_map_data values (1202, 10069, 5042007, 2, 2, 0);
+insert into tme_map_data values (1203, 10069, 0, 2, 0, 1);
+insert into tme_map_data values (1204, 10069, 0, 2, 0, 1);
+insert into tme_map_data values (1301, 10069, 0, 1, 0, 0);

@@ -1,0 +1,5 @@
+insert into legion_extermination_reward values (1005, 8, 91002, 1000, 12, 94002, 1250000, 2, 20003, 25, 2, 23001, 20, 0, 0, 0);
+insert into legion_extermination_reward values (1006, 8, 91002, 1000, 12, 94002, 1250000, 2, 20003, 25, 2, 23001, 20, 0, 0, 0);
+insert into legion_extermination_reward values (1007, 8, 91002, 1000, 12, 94002, 1250000, 2, 20003, 25, 2, 23001, 20, 0, 0, 0);
+insert into legion_extermination_reward values (1008, 8, 91002, 1000, 12, 94002, 1250000, 2, 20003, 25, 2, 23001, 20, 0, 0, 0);
+insert into legion_extermination_reward values (2002, 8, 91002, 1500, 12, 94002, 5000000, 2, 20004, 10, 2, 23001, 50, 0, 0, 0);

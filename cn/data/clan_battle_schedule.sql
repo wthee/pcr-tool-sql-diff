@@ -1,0 +1,17 @@
+insert into clan_battle_schedule values (1001, 5, 0, 1, 1, 2, 'bgm_M90', 1, '2020/05/07 5:00:00', '2020/06/02 4:59:59');
+insert into clan_battle_schedule values (1002, 6, 1001, 1, 1, 2, 'bgm_M97', 2, '2020/06/02 5:00:00', '2020/06/30 4:59:59');
+insert into clan_battle_schedule values (1003, 6, 1002, 1, 1, 2, 'bgm_M104', 1, '2020/06/30 5:00:00', '2020/07/28 4:59:59');
+insert into clan_battle_schedule values (1004, 7, 1003, 1, 1, 2, 'bgm_M115', 2, '2020/07/28 5:00:00', '2020/08/24 4:59:59');
+insert into clan_battle_schedule values (1005, 8, 1004, 1, 1, 2, 'bgm_M119', 1, '2020/08/24 5:00:00', '2020/09/22 4:59:59');
+insert into clan_battle_schedule values (1006, 9, 1005, 1, 1, 2, 'bgm_M132', 2, '2020/09/22 5:00:00', '2020/10/20 4:59:59');
+insert into clan_battle_schedule values (1007, 10, 1006, 1, 1, 2, 'bgm_M139', 1, '2020/10/20 5:00:00', '2020/11/17 4:59:59');
+insert into clan_battle_schedule values (1008, 11, 1007, 1, 1, 2, 'bgm_M166', 2, '2020/11/17 5:00:00', '2020/12/14 4:59:59');
+insert into clan_battle_schedule values (1009, 12, 1008, 1, 1, 2, 'bgm_M175', 1, '2020/12/14 5:00:00', '2021/01/12 4:59:59');
+insert into clan_battle_schedule values (1010, 1, 1009, 1, 1, 2, 'bgm_M181', 2, '2021/01/12 5:00:00', '2021/02/05 4:59:59');
+insert into clan_battle_schedule values (1011, 2, 1010, 1, 1, 2, 'bgm_M186', 1, '2021/02/05 5:00:00', '2021/03/09 4:59:59');
+insert into clan_battle_schedule values (1012, 3, 1011, 1, 1, 2, 'bgm_M205', 2, '2021/03/09 5:00:00', '2021/04/11 4:59:59');
+insert into clan_battle_schedule values (1013, 4, 1012, 1, 1, 2, 'bgm_M90', 1, '2021/04/11 5:00:00', '2021/05/09 4:59:59');
+insert into clan_battle_schedule values (1014, 5, 1013, 1, 1, 2, 'bgm_M97', 2, '2021/05/09 5:00:00', '2021/06/08 4:59:59');
+insert into clan_battle_schedule values (1015, 6, 1014, 1, 1, 2, 'bgm_M104', 1, '2021/6/08 5:00:00', '2021/07/06 4:59:59');
+insert into clan_battle_schedule values (1016, 7, 1015, 1, 1, 2, 'bgm_M115', 2, '2021/07/06 5:00:00', '2021/08/03 4:59:59');
+insert into clan_battle_schedule values (1017, 8, 1016, 1, 1, 2, 'bgm_M119', 1, '2021/08/03 5:00:00', '2021/08/31 4:59:59');

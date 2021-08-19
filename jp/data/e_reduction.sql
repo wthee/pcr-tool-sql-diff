@@ -1,0 +1,10 @@
+insert into e_reduction values (1, 171, 18, 0.05, 14, 0.025, 10, 0.0, 0, 0.0, 0, 0.0);
+insert into e_reduction values (2, 161, 17, 0.05, 13, 0.025, 9, 0.0, 0, 0.0, 0, 0.0);
+insert into e_reduction values (3, 152, 16, 0.05, 12, 0.025, 8, 0.0, 0, 0.0, 0, 0.0);
+insert into e_reduction values (4, 143, 15, 0.05, 11, 0.025, 7, 0.0, 0, 0.0, 0, 0.0);
+insert into e_reduction values (5, 134, 14, 0.05, 10, 0.025, 6, 0.0, 0, 0.0, 0, 0.0);
+insert into e_reduction values (6, 125, 13, 0.05, 9, 0.025, 5, 0.0, 0, 0.0, 0, 0.0);
+insert into e_reduction values (7, 116, 12, 0.05, 8, 0.025, 4, 0.0, 0, 0.0, 0, 0.0);
+insert into e_reduction values (8, 107, 11, 0.05, 7, 0.025, 3, 0.0, 0, 0.0, 0, 0.0);
+insert into e_reduction values (9, 101, 10, 0.05, 6, 0.025, 2, 0.0, 0, 0.0, 0, 0.0);
+insert into e_reduction values (10, 1, 0, 0.0, 0, 0.0, 0, 0.0, 0, 0.0, 0, 0.0);

@@ -1,0 +1,12 @@
+insert into sekai_boss_damage_rank_reward values (1, 1001200, 1, 50, 12, 94002, 1000000, 2, 20004, 20, 2, 23001, 50, 0, 0, 0, 0, 0, 0);
+insert into sekai_boss_damage_rank_reward values (2, 1001200, 51, 100, 12, 94002, 800000, 2, 20004, 20, 2, 23001, 40, 0, 0, 0, 0, 0, 0);
+insert into sekai_boss_damage_rank_reward values (3, 1001200, 101, 200, 12, 94002, 700000, 2, 20004, 15, 2, 23001, 40, 0, 0, 0, 0, 0, 0);
+insert into sekai_boss_damage_rank_reward values (4, 1001200, 201, 500, 12, 94002, 600000, 2, 20004, 15, 2, 23001, 35, 0, 0, 0, 0, 0, 0);
+insert into sekai_boss_damage_rank_reward values (5, 1001200, 501, 1000, 12, 94002, 500000, 2, 20004, 10, 2, 23001, 35, 0, 0, 0, 0, 0, 0);
+insert into sekai_boss_damage_rank_reward values (6, 1001200, 1001, 1500, 12, 94002, 400000, 2, 20004, 10, 2, 23001, 30, 0, 0, 0, 0, 0, 0);
+insert into sekai_boss_damage_rank_reward values (7, 1001200, 1501, 2000, 12, 94002, 300000, 2, 20004, 10, 2, 23001, 25, 0, 0, 0, 0, 0, 0);
+insert into sekai_boss_damage_rank_reward values (8, 1001200, 2001, 3000, 12, 94002, 300000, 2, 20003, 20, 2, 23001, 25, 0, 0, 0, 0, 0, 0);
+insert into sekai_boss_damage_rank_reward values (9, 1001200, 3001, 5000, 12, 94002, 200000, 2, 20003, 15, 2, 23001, 20, 0, 0, 0, 0, 0, 0);
+insert into sekai_boss_damage_rank_reward values (10, 1001200, 5001, 10000, 12, 94002, 150000, 2, 20003, 10, 2, 23001, 15, 0, 0, 0, 0, 0, 0);
+insert into sekai_boss_damage_rank_reward values (11, 1001200, 10001, 100000, 12, 94002, 100000, 2, 20003, 5, 2, 23001, 10, 0, 0, 0, 0, 0, 0);
+insert into sekai_boss_damage_rank_reward values (12, 1001200, 100001, -1, 12, 94002, 50000, 2, 20003, 3, 2, 23001, 5, 0, 0, 0, 0, 0, 0);

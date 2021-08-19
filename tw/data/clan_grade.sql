@@ -1,0 +1,10 @@
+insert into clan_grade values (1, 1, 10);
+insert into clan_grade values (2, 11, 30);
+insert into clan_grade values (3, 31, 100);
+insert into clan_grade values (4, 101, 500);
+insert into clan_grade values (5, 501, 1000);
+insert into clan_grade values (6, 1001, 3000);
+insert into clan_grade values (7, 3001, 5000);
+insert into clan_grade values (8, 5001, 7000);
+insert into clan_grade values (9, 7001, 10000);
+insert into clan_grade values (10, 10001, -1);

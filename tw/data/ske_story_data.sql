@@ -1,0 +1,12 @@
+insert into ske_story_data values (1005801, 10058, '羈絆日記之1', 10058108, 0, 5058003);
+insert into ske_story_data values (1005802, 10058, '羈絆日記之2', 10058110, 0, 5058003);
+insert into ske_story_data values (1005803, 10058, '羈絆日記之3', 10058112, 0, 5058003);
+insert into ske_story_data values (1005804, 10058, '羈絆日記之4', 10058115, 0, 5058004);
+insert into ske_story_data values (1005805, 10058, '羈絆日記之5', 10058115, 1005801, 5058005);
+insert into ske_story_data values (1005901, 10059, '羈絆日記之6', 10059103, 0, 5059001);
+insert into ske_story_data values (1005902, 10059, '羈絆日記之7', 10059106, 0, 5059002);
+insert into ske_story_data values (1005903, 10059, '羈絆日記之8', 10059109, 0, 5059004);
+insert into ske_story_data values (1005904, 10059, '羈絆日記之9', 10059112, 0, 5059005);
+insert into ske_story_data values (1005905, 10059, '羈絆日記之10', 10059115, 0, 5059006);
+insert into ske_story_data values (1005906, 10059, '羈絆日記之11', 10059115, 1005901, 5059007);
+insert into ske_story_data values (1005907, 10059, '額外頁數', 0, 0, 0);

@@ -1,0 +1,9 @@
+insert into clan_battle_recommend_data values (1, 1, 10, 53, 2, 2);
+insert into clan_battle_recommend_data values (2, 1, 54, 63, 2, 2);
+insert into clan_battle_recommend_data values (3, 1, 74, 83, 2, 2);
+insert into clan_battle_recommend_data values (4, 2, 94, 103, 2, 2);
+insert into clan_battle_recommend_data values (5, 2, 104, 123, 2, 2);
+insert into clan_battle_recommend_data values (6, 2, 121, 143, 2, 2);
+insert into clan_battle_recommend_data values (7, 3, 144, 163, 2, 2);
+insert into clan_battle_recommend_data values (8, 3, 164, 183, 2, 2);
+insert into clan_battle_recommend_data values (9, 3, 184, 193, 2, 2);

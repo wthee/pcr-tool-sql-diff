@@ -1,0 +1,13 @@
+insert into arcade_story_list values (5021700, 1003, '與香織的海邊特訓！');
+insert into arcade_story_list values (5021701, 1003, '始於禮而止於禮');
+insert into arcade_story_list values (5021710, 1003, '挑戰自己的極限');
+insert into arcade_story_list values (5021711, 1003, '真的才是最棒的');
+insert into arcade_story_list values (5027700, 1004, '再次前往艾爾皮斯島！');
+insert into arcade_story_list values (5027701, 1004, '過熱的戰鬥');
+insert into arcade_story_list values (5027702, 1004, '真打登場');
+insert into arcade_story_list values (5027703, 1004, '戰鬥的結果……');
+insert into arcade_story_list values (5040700, 1005, '看守起司！');
+insert into arcade_story_list values (5040701, 1005, '與小小敵人之間的攻防戰');
+insert into arcade_story_list values (5040702, 1005, '起司的誘惑');
+insert into arcade_story_list values (5040703, 1005, '萌生愛意？');
+insert into arcade_story_list values (5040704, 1005, '勞動會持續到天長地久');

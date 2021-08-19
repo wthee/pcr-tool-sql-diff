@@ -1,0 +1,13 @@
+insert into shiori_item values (20001, 31012, 31038);
+insert into shiori_item values (20002, 31020, 31004);
+insert into shiori_item values (20003, 31010, 31017);
+insert into shiori_item values (20004, 31076, 31028);
+insert into shiori_item values (20005, 31080, 31032);
+insert into shiori_item values (20006, 31047, 31034);
+insert into shiori_item values (20007, 31082, 31022);
+insert into shiori_item values (20008, 31009, 31051);
+insert into shiori_item values (20009, 31085, 31029);
+insert into shiori_item values (20010, 31089, 31002);
+insert into shiori_item values (20011, 31090, 31011);
+insert into shiori_item values (20012, 31043, 31008);
+insert into shiori_item values (20013, 31093, 31018);

@@ -1,0 +1,14 @@
+insert into arcade_story_list values (5021700, 1003, 'カオリと海辺で大特訓！');
+insert into arcade_story_list values (5021701, 1003, '礼に始まり礼に終わる');
+insert into arcade_story_list values (5021710, 1003, '挑め、己の限界に');
+insert into arcade_story_list values (5021711, 1003, '本物が一番');
+insert into arcade_story_list values (5027700, 1004, '再び、エルピス島へ！');
+insert into arcade_story_list values (5027701, 1004, '過熱する戦い');
+insert into arcade_story_list values (5027702, 1004, '真打登場');
+insert into arcade_story_list values (5027703, 1004, '戦いの果てに……');
+insert into arcade_story_list values (5027704, 1004, 'さらなる高みへ！');
+insert into arcade_story_list values (5040700, 1005, 'チーズを見張ろう！');
+insert into arcade_story_list values (5040701, 1005, '小さき敵との攻防');
+insert into arcade_story_list values (5040702, 1005, 'チーズの誘惑');
+insert into arcade_story_list values (5040703, 1005, '芽生える愛情？');
+insert into arcade_story_list values (5040704, 1005, '労働は続くよどこまでも');

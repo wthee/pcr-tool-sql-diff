@@ -1,0 +1,15 @@
+insert into nyx_story_data values (11, 1, 1, '', '', '0', 10065105, 0, 1, 5038600);
+insert into nyx_story_data values (12, 2, 1, '高中部1年級\u3000琪愛兒', '理應繼承至次世代的新語言', '0', 10065105, 0, 0, 0);
+insert into nyx_story_data values (13, 3, 1, '高中部2年級\u3000克蘿依', '我超級不會寫作文', '0', 10065107, 0, 0, 0);
+insert into nyx_story_data values (14, 4, 1, '高中部3年級\u3000優妮', '直至飛翔為止', '0', 10065109, 0, 0, 0);
+insert into nyx_story_data values (21, 5, 2, '', '', '0', 10065111, 0, 2, 5038601);
+insert into nyx_story_data values (22, 6, 2, '紀錄人\u3000秋乃', '靈光一閃了呢！', '0', 10065111, 0, 0, 0);
+insert into nyx_story_data values (23, 7, 2, '紀錄人\u3000珠希', '組合喵！', '0', 10065112, 0, 0, 0);
+insert into nyx_story_data values (24, 8, 2, '紀錄人\u3000優花梨', '我寫過這種東西嗎…？', '0', 10065113, 0, 0, 0);
+insert into nyx_story_data values (25, 9, 2, '紀錄人\u3000美冬', '不能放任繼續這樣下去了', '0', 10065114, 0, 0, 0);
+insert into nyx_story_data values (26, 10, 2, '總結', '特別講座結束了', '0', 10065115, 0, 0, 0);
+insert into nyx_story_data values (31, 11, 3, '', '', '0', 10065115, 1, 2, 5038602);
+insert into nyx_story_data values (32, 12, 3, '浪漫繼承計畫', '開發記—考察', '0', 10065115, 1, 0, 0);
+insert into nyx_story_data values (33, 13, 3, '彌補不足計畫', '開發記—試作機完成', '0', 10065115, 2, 0, 0);
+insert into nyx_story_data values (34, 14, 3, '畫龍點睛計畫', '開發記—最終工程', '0', 10065115, 3, 0, 0);
+insert into nyx_story_data values (35, 15, 3, '', '', '2021/07/26 16:00:00', 10065115, 3, 3, 5038603);

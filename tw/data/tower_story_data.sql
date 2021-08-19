@@ -1,0 +1,17 @@
+insert into tower_story_data values (7001, 7, 1, '追尋失落的記憶', 0, 1, '2019/02/13 12:00:00', '2030/04/24 14:59:59');
+insert into tower_story_data values (7002, 7, 2, '姊妹羈絆與願望之塔', 0, 1, '2019/03/15 16:00:00', '2030/04/24 14:59:59');
+insert into tower_story_data values (7003, 7, 3, '眾星二重奏', 0, 1, '2019/04/17 16:00:00', '2030/04/24 14:59:59');
+insert into tower_story_data values (7004, 7, 4, 'Sisters‧Booking', 0, 1, '2019/06/17 16:00:00', '2030/04/24 14:59:59');
+insert into tower_story_data values (7005, 7, 5, '惡作劇的鬼屋', 0, 1, '2019/08/16 16:00:00', '2030/04/24 14:59:59');
+insert into tower_story_data values (7006, 7, 6, '兩人的榮耀與羈絆相隨', 0, 1, '2019/10/18 16:00:00', '2030/04/24 14:59:59');
+insert into tower_story_data values (7007, 7, 7, '冥風戰記外傳‧吸血鬼傳承', 0, 1, '2019/12/17 16:00:00', '2030/04/24 14:59:59');
+insert into tower_story_data values (7008, 7, 8, '天真妹系Sisters！', 0, 1, '2020/02/17 16:00:00', '2030/04/24 14:59:59');
+insert into tower_story_data values (7009, 7, 9, '毛茸茸的童話奇遇行', 0, 1, '2020/04/14 16:00:00', '2030/04/24 14:59:59');
+insert into tower_story_data values (7010, 7, 10, '教師們的指導', 0, 1, '2020/06/12 16:00:00', '2030/04/24 14:59:59');
+insert into tower_story_data values (7011, 7, 11, '忍劍奇幻旅程', 0, 1, '2020/08/14 16:00:00', '2030/04/24 14:59:59');
+insert into tower_story_data values (7012, 7, 12, '擦肩而過的距離', 0, 1, '2020/10/13 16:00:00', '2030/04/24 14:59:59');
+insert into tower_story_data values (7013, 7, 13, '不諧和的Work&Rest', 0, 1, '2020/12/10 16:00:00', '2030/04/24 14:59:59');
+insert into tower_story_data values (7014, 7, 14, '淑女的理想與成人的真相', 0, 1, '2021/02/09 16:00:00', '2030/04/24 14:59:59');
+insert into tower_story_data values (7015, 7, 15, '姐姐的命題與博士的對偶', 0, 1, '2021/04/08 16:00:00', '2030/04/24 14:59:59');
+insert into tower_story_data values (7016, 7, 16, '追憶的歌姬與徘徊的幽靈', 0, 1, '2021/06/11 16:00:00', '2030/04/24 14:59:59');
+insert into tower_story_data values (7017, 7, 17, '美之探究者與女君之宴', 0, 1, '2021/08/13 16:00:00', '2030/04/24 14:59:59');

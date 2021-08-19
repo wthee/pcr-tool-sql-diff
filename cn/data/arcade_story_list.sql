@@ -1,0 +1,8 @@
+insert into arcade_story_list values (5021700, 1003, '和香织在海边大特训！');
+insert into arcade_story_list values (5021701, 1003, '以礼而始以礼而终');
+insert into arcade_story_list values (5021710, 1003, '挑战自己的极限');
+insert into arcade_story_list values (5021711, 1003, '真的才是最好的');
+insert into arcade_story_list values (5027700, 1004, '再次前往厄尔庇斯岛！');
+insert into arcade_story_list values (5027701, 1004, '过于热血的战斗');
+insert into arcade_story_list values (5027702, 1004, '压轴登场');
+insert into arcade_story_list values (5027703, 1004, '战斗的结局……');

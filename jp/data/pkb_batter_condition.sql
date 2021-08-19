@@ -1,0 +1,9 @@
+insert into pkb_batter_condition values (1, 0, 'アヤネ', '', 1, 2, 1, '---', '', 1);
+insert into pkb_batter_condition values (2, 6000, 'アサヒ', '逆境に屈することなく、部員たちを引っ張る主将。ミート力を活かした安定感のある打撃が持ち味。', 0, 1, 3, '---', '', 1);
+insert into pkb_batter_condition values (3, 16000, '部員3', '無愛想だが仲間を大切に想う気持ちは誰よりも強い男。ケンカで鍛えた腕っぷしが自慢のパワーヒッター。', 3, 3, 0, 'アドレナリン', 'ホームランを連発すると、連発数に応じてパワーアップする', 1);
+insert into pkb_batter_condition values (4, 30000, '{0}', 'みんなからの厚い信頼を集める期待の助っ人部員。実力は未知数だが幸運なハプニングを呼び込む。', 2, 2, 2, 'ラッキー', '幸運のハプニングを呼び込む', 1);
+insert into pkb_batter_condition values (5, 50000, '選手名鑑 おまけページ', 'みんなの知らない極秘情報がのっているおまけページ。決して誰かに見せてはいけない。', 1, 0, 1, '', '', 0);
+insert into pkb_batter_condition values (6, 50000, '選手名鑑 おまけページ', '', 0, 1, 1, '', '', 0);
+insert into pkb_batter_condition values (7, 50000, '選手名鑑 おまけページ', '', 0, 0, 0, '', '', 0);
+insert into pkb_batter_condition values (8, 50000, '選手名鑑 おまけページ', '', 1, 0, 0, '', '', 0);
+insert into pkb_batter_condition values (9, 50000, '選手名鑑 おまけページ', '', 0, 0, 0, '', '', 0);

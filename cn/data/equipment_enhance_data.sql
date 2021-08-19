@@ -1,0 +1,14 @@
+insert into equipment_enhance_data values (2, 1, 20, 20);
+insert into equipment_enhance_data values (3, 1, 30, 30);
+insert into equipment_enhance_data values (3, 2, 50, 80);
+insert into equipment_enhance_data values (3, 3, 80, 160);
+insert into equipment_enhance_data values (4, 1, 60, 60);
+insert into equipment_enhance_data values (4, 2, 100, 160);
+insert into equipment_enhance_data values (4, 3, 180, 340);
+insert into equipment_enhance_data values (4, 4, 360, 700);
+insert into equipment_enhance_data values (4, 5, 500, 1200);
+insert into equipment_enhance_data values (5, 1, 100, 100);
+insert into equipment_enhance_data values (5, 2, 160, 260);
+insert into equipment_enhance_data values (5, 3, 280, 540);
+insert into equipment_enhance_data values (5, 4, 480, 1020);
+insert into equipment_enhance_data values (5, 5, 780, 1800);

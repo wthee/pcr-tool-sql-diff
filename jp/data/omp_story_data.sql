@@ -1,0 +1,15 @@
+insert into omp_story_data values (7001, 10062, 10062103, 0, 1, 0, 0, 0, 0, 'ウヅキとリンのメモリー');
+insert into omp_story_data values (7002, 10062, 10062107, 0, 2, 0, 0, 0, 0, 'ニュージェネレーションズのメモリー');
+insert into omp_story_data values (7003, 10062, 10062107, 0, 4, 0, 0, 0, 0, 'ウヅキとミオのメモリー');
+insert into omp_story_data values (7004, 10062, 10062111, 0, 6, 0, 0, 0, 0, '美食殿のメモリー');
+insert into omp_story_data values (7005, 10062, 10062111, 0, 7, 0, 0, 0, 0, 'リンとミオのメモリー');
+insert into omp_story_data values (7006, 10062, 10062111, 0, 8, 0, 0, 0, 0, 'ニュージェネレーションズのメモリー');
+insert into omp_story_data values (7007, 10062, 10062115, 0, 9, 0, 0, 0, 0, 'ニュージェネレーションズと美食殿のメモリー');
+insert into omp_story_data values (7008, 10062, 10062115, 0, 10, 0, 0, 0, 0, '美食殿のメモリー');
+insert into omp_story_data values (7009, 10063, 10063111, 0, 14, 0, 0, 0, 0, 'ニュージェネレーションズと美食殿のメモリー');
+insert into omp_story_data values (7102, 10062, 10062107, 0, 3, 0, 0, 0, 0, 'ニュージェネレーションズのメモリー');
+insert into omp_story_data values (7103, 10062, 10062107, 0, 5, 0, 0, 0, 0, '美食殿のメモリー');
+insert into omp_story_data values (7104, 10062, 10062115, 0, 11, 0, 0, 0, 0, 'ニュージェネレーションズと美食殿のメモリー');
+insert into omp_story_data values (7105, 10063, 10063111, 0, 12, 0, 0, 0, 0, 'ニュージェネレーションズと美食殿のメモリー');
+insert into omp_story_data values (7106, 10063, 10063111, 0, 13, 0, 0, 0, 0, 'ニュージェネレーションズと美食殿のメモリー');
+insert into omp_story_data values (7201, 10062, 10062103, 0, 15, 1, 7, 2405, 1, '');

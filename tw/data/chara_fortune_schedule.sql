@@ -1,0 +1,5 @@
+insert into chara_fortune_schedule values (10000, '1st Anniversary 特殊登入獎勵', '2019/08/01 05:00:00', '2019/08/15 04:59:00');
+insert into chara_fortune_schedule values (10002, '1.5週年登入禮', '2020/01/21 05:00:00', '2020/02/07 04:59:59');
+insert into chara_fortune_schedule values (10003, '2nd Anniversary 特殊登入獎勵', '2020/06/22 05:00:00', '2020/07/08 04:59:59');
+insert into chara_fortune_schedule values (10004, '2.5 Anniversary 特殊登入獎勵', '2021/02/09 05:00:00', '2021/02/26 04:59:59');
+insert into chara_fortune_schedule values (10005, '3rd Anniversary 特殊登入獎勵', '2021/08/01 05:00:00', '2021/08/15 04:59:59');
