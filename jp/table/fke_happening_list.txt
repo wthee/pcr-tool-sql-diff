@@ -1,2 +1,1 @@
-(0, 'happening_id', 'INTEGER', 1, None, 1)
-(1, 'happening_name', 'TEXT', 1, None, 0)
+CREATE TABLE 'fke_happening_list' ('happening_id' INTEGER NOT NULL, 'happening_name' TEXT NOT NULL, PRIMARY KEY('happening_id'))

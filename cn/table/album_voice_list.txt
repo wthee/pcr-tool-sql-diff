@@ -1,6 +1,1 @@
-(0, 'id', 'INTEGER', 1, None, 1)
-(1, 'unit_id', 'INTEGER', 1, None, 0)
-(2, 'sheet_id', 'TEXT', 1, None, 0)
-(3, 'voice_id', 'TEXT', 1, None, 0)
-(4, 'title', 'TEXT', 1, None, 0)
-(5, 'description', 'TEXT', 1, None, 0)
+CREATE TABLE 'album_voice_list' ('id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'sheet_id' TEXT NOT NULL, 'voice_id' TEXT NOT NULL, 'title' TEXT NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'))

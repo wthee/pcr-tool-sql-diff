@@ -1,5 +1,1 @@
-(0, 'difficulty_level', 'INTEGER', 1, None, 1)
-(1, 'coefficient_difficulty', 'INTEGER', 1, None, 0)
-(2, 'coefficient_coin_score', 'INTEGER', 1, None, 0)
-(3, 'life', 'INTEGER', 1, None, 0)
-(4, 'coefficient_wrong_num', 'INTEGER', 1, None, 0)
+CREATE TABLE 'ttk_score' ('difficulty_level' INTEGER NOT NULL, 'coefficient_difficulty' INTEGER NOT NULL, 'coefficient_coin_score' INTEGER NOT NULL, 'life' INTEGER NOT NULL, 'coefficient_wrong_num' INTEGER NOT NULL, PRIMARY KEY('difficulty_level'))

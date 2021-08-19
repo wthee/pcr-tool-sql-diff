@@ -1,7 +1,1 @@
-(0, 'id', 'INTEGER', 1, None, 1)
-(1, 'level_id', 'INTEGER', 1, None, 0)
-(2, 'lv_from', 'INTEGER', 1, None, 0)
-(3, 'lv_to', 'INTEGER', 1, None, 0)
-(4, 'value', 'INTEGER', 1, None, 0)
-(5, 'label_color', 'TEXT', 1, None, 0)
-(6, 'frame_color', 'TEXT', 1, None, 0)
+CREATE TABLE 'campaign_level_data' ('id' INTEGER NOT NULL, 'level_id' INTEGER NOT NULL, 'lv_from' INTEGER NOT NULL, 'lv_to' INTEGER NOT NULL, 'value' INTEGER NOT NULL, 'label_color' TEXT NOT NULL, 'frame_color' TEXT NOT NULL, PRIMARY KEY('id'))

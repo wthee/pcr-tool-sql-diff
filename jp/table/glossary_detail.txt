@@ -1,7 +1,1 @@
-(0, 'glossary_id', 'INTEGER', 1, None, 1)
-(1, 'glossary_category_id', 'INTEGER', 1, None, 0)
-(2, 'title', 'TEXT', 1, None, 0)
-(3, 'description', 'TEXT', 1, None, 0)
-(4, 'unlock_story_id', 'INTEGER', 1, None, 0)
-(5, 'category_type', 'INTEGER', 1, None, 0)
-(6, 'disp_order', 'INTEGER', 1, None, 0)
+CREATE TABLE 'glossary_detail' ('glossary_id' INTEGER NOT NULL, 'glossary_category_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'description' TEXT NOT NULL, 'unlock_story_id' INTEGER NOT NULL, 'category_type' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('glossary_id'))

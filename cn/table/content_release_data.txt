@@ -1,5 +1,1 @@
-(0, 'system_id', 'INTEGER', 1, None, 1)
-(1, 'team_level', 'INTEGER', 1, None, 0)
-(2, 'story_id', 'INTEGER', 1, None, 0)
-(3, 'quest_id', 'INTEGER', 1, None, 0)
-(4, 'dialog', 'TEXT', 1, None, 0)
+CREATE TABLE 'content_release_data' ('system_id' INTEGER NOT NULL, 'team_level' INTEGER NOT NULL, 'story_id' INTEGER NOT NULL, 'quest_id' INTEGER NOT NULL, 'dialog' TEXT NOT NULL, PRIMARY KEY('system_id'))

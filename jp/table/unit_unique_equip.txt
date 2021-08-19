@@ -1,3 +1,1 @@
-(0, 'unit_id', 'INTEGER', 1, None, 1)
-(1, 'equip_slot', 'INTEGER', 1, None, 0)
-(2, 'equip_id', 'INTEGER', 1, None, 0)
+CREATE TABLE 'unit_unique_equip' ('unit_id' INTEGER NOT NULL, 'equip_slot' INTEGER NOT NULL, 'equip_id' INTEGER NOT NULL, PRIMARY KEY('unit_id'))

@@ -1,2 +1,1 @@
-(0, 'unit_level', 'INTEGER', 1, None, 1)
-(1, 'total_exp', 'INTEGER', 1, None, 0)
+CREATE TABLE 'experience_unit' ('unit_level' INTEGER NOT NULL, 'total_exp' INTEGER NOT NULL, PRIMARY KEY('unit_level'))

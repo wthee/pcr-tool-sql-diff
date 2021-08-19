@@ -1,4 +1,1 @@
-(0, 'room_item_id', 'INTEGER', 1, None, 1)
-(1, 'grid_height', 'INTEGER', 1, None, 0)
-(2, 'grid_width', 'INTEGER', 1, None, 0)
-(3, 'unit_id', 'INTEGER', 1, None, 0)
+CREATE TABLE 'room_setup' ('room_item_id' INTEGER NOT NULL, 'grid_height' INTEGER NOT NULL, 'grid_width' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, PRIMARY KEY('room_item_id'))

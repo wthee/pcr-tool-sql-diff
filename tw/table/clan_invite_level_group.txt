@@ -1,3 +1,1 @@
-(0, 'level_group_id', 'INTEGER', 1, None, 1)
-(1, 'team_level_from', 'INTEGER', 1, None, 0)
-(2, 'team_level_to', 'INTEGER', 1, None, 0)
+CREATE TABLE 'clan_invite_level_group' ('level_group_id' INTEGER NOT NULL, 'team_level_from' INTEGER NOT NULL, 'team_level_to' INTEGER NOT NULL, PRIMARY KEY('level_group_id'))

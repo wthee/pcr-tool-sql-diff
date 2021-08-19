@@ -1,5 +1,1 @@
-(0, 'id', 'INTEGER', 1, None, 1)
-(1, 'unit_id', 'INTEGER', 1, None, 0)
-(2, 'type', 'INTEGER', 1, None, 0)
-(3, 'title', 'TEXT', 1, None, 0)
-(4, 'description', 'TEXT', 1, None, 0)
+CREATE TABLE 'album_production_list' ('id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'))

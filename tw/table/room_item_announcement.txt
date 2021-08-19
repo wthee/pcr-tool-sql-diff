@@ -1,4 +1,1 @@
-(0, 'id', 'INTEGER', 1, None, 1)
-(1, 'announcement_start', 'TEXT', 1, None, 0)
-(2, 'announcement_end', 'TEXT', 1, None, 0)
-(3, 'announcement_text', 'TEXT', 1, None, 0)
+CREATE TABLE 'room_item_announcement' ('id' INTEGER NOT NULL, 'announcement_start' TEXT NOT NULL, 'announcement_end' TEXT NOT NULL, 'announcement_text' TEXT NOT NULL, PRIMARY KEY('id'))

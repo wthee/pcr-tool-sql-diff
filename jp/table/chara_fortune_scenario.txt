@@ -1,5 +1,1 @@
-(0, 'scenario_id', 'INTEGER', 1, None, 1)
-(1, 'rail_1', 'INTEGER', 1, None, 0)
-(2, 'rail_2', 'INTEGER', 1, None, 0)
-(3, 'rail_3', 'INTEGER', 1, None, 0)
-(4, 'rail_4', 'INTEGER', 1, None, 0)
+CREATE TABLE 'chara_fortune_scenario' ('scenario_id' INTEGER NOT NULL, 'rail_1' INTEGER NOT NULL, 'rail_2' INTEGER NOT NULL, 'rail_3' INTEGER NOT NULL, 'rail_4' INTEGER NOT NULL, PRIMARY KEY('scenario_id'))

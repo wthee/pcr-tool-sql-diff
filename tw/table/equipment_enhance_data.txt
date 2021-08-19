@@ -1,4 +1,1 @@
-(0, 'promotion_level', 'INTEGER', 1, None, 1)
-(1, 'equipment_enhance_level', 'INTEGER', 1, None, 2)
-(2, 'needed_point', 'INTEGER', 1, None, 0)
-(3, 'total_point', 'INTEGER', 1, None, 0)
+CREATE TABLE 'equipment_enhance_data' ('promotion_level' INTEGER NOT NULL, 'equipment_enhance_level' INTEGER NOT NULL, 'needed_point' INTEGER NOT NULL, 'total_point' INTEGER NOT NULL, PRIMARY KEY('promotion_level','equipment_enhance_level'))

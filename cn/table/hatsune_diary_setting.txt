@@ -1,3 +1,1 @@
-(0, 'event_id', 'INTEGER', 1, None, 1)
-(1, 'bgm_sheet_name', 'TEXT', 1, None, 0)
-(2, 'bgm_cue_name', 'TEXT', 1, None, 0)
+CREATE TABLE 'hatsune_diary_setting' ('event_id' INTEGER NOT NULL, 'bgm_sheet_name' TEXT NOT NULL, 'bgm_cue_name' TEXT NOT NULL, PRIMARY KEY('event_id'))

@@ -1,4 +1,1 @@
-(0, 'story_group_id', 'INTEGER', 1, None, 1)
-(1, 'hide_story_id_from', 'INTEGER', 1, None, 0)
-(2, 'hide_story_id_to', 'INTEGER', 1, None, 0)
-(3, 'unlock_condition_story_id', 'INTEGER', 1, None, 0)
+CREATE TABLE 'thumbnail_hide_condition' ('story_group_id' INTEGER NOT NULL, 'hide_story_id_from' INTEGER NOT NULL, 'hide_story_id_to' INTEGER NOT NULL, 'unlock_condition_story_id' INTEGER NOT NULL, PRIMARY KEY('story_group_id'))

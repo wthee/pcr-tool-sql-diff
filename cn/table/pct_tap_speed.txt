@@ -1,3 +1,1 @@
-(0, 'id', 'INTEGER', 1, None, 1)
-(1, 'combo_count', 'INTEGER', 1, None, 0)
-(2, 'speed_magnification', 'INTEGER', 1, None, 0)
+CREATE TABLE 'pct_tap_speed' ('id' INTEGER NOT NULL, 'combo_count' INTEGER NOT NULL, 'speed_magnification' INTEGER NOT NULL, PRIMARY KEY('id'))

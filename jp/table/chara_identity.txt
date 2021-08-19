@@ -1,4 +1,1 @@
-(0, 'unit_id', 'INTEGER', 1, None, 1)
-(1, 'chara_type', 'INTEGER', 1, None, 0)
-(2, 'chara_type_2', 'INTEGER', 1, None, 0)
-(3, 'chara_type_3', 'INTEGER', 1, None, 0)
+CREATE TABLE 'chara_identity' ('unit_id' INTEGER NOT NULL, 'chara_type' INTEGER NOT NULL, 'chara_type_2' INTEGER NOT NULL, 'chara_type_3' INTEGER NOT NULL, PRIMARY KEY('unit_id'))

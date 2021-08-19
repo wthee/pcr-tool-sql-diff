@@ -1,7 +1,1 @@
-(0, 'quest_id', 'INTEGER', 1, None, 1)
-(1, 'event_id', 'INTEGER', 1, None, 0)
-(2, 'condition_quest_id', 'INTEGER', 1, None, 0)
-(3, 'condition_boss_id', 'INTEGER', 1, None, 0)
-(4, 'release_quest_id', 'INTEGER', 1, None, 0)
-(5, 'release_boss_id', 'INTEGER', 1, None, 0)
-(6, 'condition_main_quest_id', 'INTEGER', 1, None, 0)
+CREATE TABLE 'shiori_quest_condition' ('quest_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_boss_id' INTEGER NOT NULL, 'release_quest_id' INTEGER NOT NULL, 'release_boss_id' INTEGER NOT NULL, 'condition_main_quest_id' INTEGER NOT NULL, PRIMARY KEY('quest_id'))

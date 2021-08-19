@@ -1,3 +1,1 @@
-(0, 'unit_id', 'INTEGER', 1, None, 1)
-(1, 'love_rank', 'INTEGER', 1, None, 2)
-(2, 'effect_unit_id', 'INTEGER', 1, None, 0)
+CREATE TABLE 'love_rankup' ('unit_id' INTEGER NOT NULL, 'love_rank' INTEGER NOT NULL, 'effect_unit_id' INTEGER NOT NULL, PRIMARY KEY('unit_id','love_rank'))

@@ -1,7 +1,1 @@
-(0, 'id', 'INTEGER', 1, None, 1)
-(1, 'exchange_id', 'INTEGER', 1, None, 0)
-(2, 'unit_id', 'INTEGER', 1, None, 0)
-(3, 'rarity', 'INTEGER', 1, None, 0)
-(4, 'gacha_bonus_id', 'INTEGER', 1, None, 0)
-(5, 'start_time', 'TEXT', 1, None, 0)
-(6, 'end_time', 'TEXT', 1, None, 0)
+CREATE TABLE 'gacha_exchange_lineup' ('id' INTEGER NOT NULL, 'exchange_id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'rarity' INTEGER NOT NULL, 'gacha_bonus_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('id'))

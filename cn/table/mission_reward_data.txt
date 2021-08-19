@@ -1,5 +1,1 @@
-(0, 'id', 'INTEGER', 1, None, 1)
-(1, 'mission_reward_id', 'INTEGER', 1, None, 0)
-(2, 'reward_type', 'INTEGER', 1, None, 0)
-(3, 'reward_id', 'INTEGER', 0, None, 0)
-(4, 'reward_num', 'INTEGER', 1, None, 0)
+CREATE TABLE 'mission_reward_data' ('id' INTEGER NOT NULL, 'mission_reward_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER , 'reward_num' INTEGER NOT NULL, PRIMARY KEY('id'))

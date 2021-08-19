@@ -1,4 +1,1 @@
-(0, 'event_id', 'INTEGER', 1, None, 1)
-(1, 'bg_id', 'INTEGER', 1, None, 0)
-(2, 'start_date', 'TEXT', 1, None, 0)
-(3, 'end_date', 'TEXT', 1, None, 0)
+CREATE TABLE 'event_bg_data' ('event_id' INTEGER NOT NULL, 'bg_id' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('event_id'))

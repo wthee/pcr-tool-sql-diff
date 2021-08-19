@@ -1,6 +1,1 @@
-(0, 'still_id', 'INTEGER', 1, None, 1)
-(1, 'group_id', 'INTEGER', 1, None, 0)
-(2, 'still_group_id', 'INTEGER', 1, None, 0)
-(3, 'still_name', 'TEXT', 1, None, 0)
-(4, 'vertical_still_flg', 'INTEGER', 1, None, 0)
-(5, 'scroll_direction', 'INTEGER', 1, None, 0)
+CREATE TABLE 'custom_mypage' ('still_id' INTEGER NOT NULL, 'group_id' INTEGER NOT NULL, 'still_group_id' INTEGER NOT NULL, 'still_name' TEXT NOT NULL, 'vertical_still_flg' INTEGER NOT NULL, 'scroll_direction' INTEGER NOT NULL, PRIMARY KEY('still_id'))

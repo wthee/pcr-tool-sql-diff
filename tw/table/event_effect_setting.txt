@@ -1,3 +1,1 @@
-(0, 'event_id', 'INTEGER', 1, None, 1)
-(1, 'type', 'INTEGER', 1, None, 2)
-(2, 'value', 'INTEGER', 1, None, 0)
+CREATE TABLE 'event_effect_setting' ('event_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'value' INTEGER NOT NULL, PRIMARY KEY('event_id','type'))

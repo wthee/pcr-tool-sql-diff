@@ -1,3 +1,1 @@
-(0, 'type_id', 'INTEGER', 1, None, 1)
-(1, 'condition_value', 'INTEGER', 1, None, 2)
-(2, 'prefab_id', 'INTEGER', 1, None, 0)
+CREATE TABLE 'metamorphose' ('type_id' INTEGER NOT NULL, 'condition_value' INTEGER NOT NULL, 'prefab_id' INTEGER NOT NULL, PRIMARY KEY('type_id','condition_value'))

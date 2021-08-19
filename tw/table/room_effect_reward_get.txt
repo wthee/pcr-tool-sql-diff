@@ -1,7 +1,1 @@
-(0, 'id', 'INTEGER', 1, None, 1)
-(1, 'level', 'INTEGER', 1, None, 2)
-(2, 'reward_type', 'INTEGER', 1, None, 0)
-(3, 'reward_id', 'INTEGER', 1, None, 0)
-(4, 'max_count', 'INTEGER', 1, None, 0)
-(5, 'inc_step', 'INTEGER', 1, None, 0)
-(6, 'interval_second', 'INTEGER', 1, None, 0)
+CREATE TABLE 'room_effect_reward_get' ('id' INTEGER NOT NULL, 'level' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'max_count' INTEGER NOT NULL, 'inc_step' INTEGER NOT NULL, 'interval_second' INTEGER NOT NULL, PRIMARY KEY('id','level'))

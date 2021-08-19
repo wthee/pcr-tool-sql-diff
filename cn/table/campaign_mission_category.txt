@@ -1,5 +1,1 @@
-(0, 'id', 'INTEGER', 1, None, 1)
-(1, 'campaign_id', 'INTEGER', 1, None, 0)
-(2, 'type', 'INTEGER', 1, None, 0)
-(3, 'lv_from', 'INTEGER', 1, None, 0)
-(4, 'lv_to', 'INTEGER', 1, None, 0)
+CREATE TABLE 'campaign_mission_category' ('id' INTEGER NOT NULL, 'campaign_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'lv_from' INTEGER NOT NULL, 'lv_to' INTEGER NOT NULL, PRIMARY KEY('id'))

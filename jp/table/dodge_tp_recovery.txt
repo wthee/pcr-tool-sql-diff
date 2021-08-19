@@ -1,2 +1,1 @@
-(0, 'system_id', 'INTEGER', 1, None, 1)
-(1, 'recovery_ratio', 'REAL', 1, None, 0)
+CREATE TABLE 'dodge_tp_recovery' ('system_id' INTEGER NOT NULL, 'recovery_ratio' REAL NOT NULL, PRIMARY KEY('system_id'))

@@ -1,7 +1,1 @@
-(0, 'id', 'INTEGER', 1, None, 0)
-(1, 'quest_id', 'INTEGER', 1, None, 1)
-(2, 'level_from', 'INTEGER', 1, None, 2)
-(3, 'max_to', 'INTEGER', 1, None, 3)
-(4, 'wave_group_id_1', 'INTEGER', 1, None, 0)
-(5, 'wave_group_id_2', 'INTEGER', 1, None, 0)
-(6, 'wave_group_id_3', 'INTEGER', 1, None, 0)
+CREATE TABLE 'lv_quest_reward_data' ('id' INTEGER NOT NULL, 'quest_id' INTEGER NOT NULL, 'level_from' INTEGER NOT NULL, 'max_to' INTEGER NOT NULL, 'wave_group_id_1' INTEGER NOT NULL, 'wave_group_id_2' INTEGER NOT NULL, 'wave_group_id_3' INTEGER NOT NULL, PRIMARY KEY('quest_id','level_from','max_to'))

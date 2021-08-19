@@ -1,3 +1,1 @@
-(0, 'id', 'INTEGER', 1, None, 1)
-(1, 'enable_auto', 'INTEGER', 1, None, 0)
-(2, 'enable_tap', 'INTEGER', 1, None, 0)
+CREATE TABLE 'room_emotion_icon' ('id' INTEGER NOT NULL, 'enable_auto' INTEGER NOT NULL, 'enable_tap' INTEGER NOT NULL, PRIMARY KEY('id'))

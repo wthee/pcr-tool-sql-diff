@@ -1,5 +1,1 @@
-(0, 'id', 'INTEGER', 1, None, 1)
-(1, 'odds_file', 'TEXT', 1, None, 0)
-(2, 'name', 'TEXT', 1, None, 0)
-(3, 'icon_type', 'INTEGER', 1, None, 0)
-(4, 'description', 'TEXT', 1, None, 0)
+CREATE TABLE 'odds_name_data' ('id' INTEGER NOT NULL, 'odds_file' TEXT NOT NULL, 'name' TEXT NOT NULL, 'icon_type' INTEGER NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'))

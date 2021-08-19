@@ -1,7 +1,1 @@
-(0, 'group_id', 'INTEGER', 1, None, 1)
-(1, 'group_id_comment', 'TEXT', 1, None, 0)
-(2, 'group_unit_id_01', 'INTEGER', 1, None, 0)
-(3, 'group_unit_id_02', 'INTEGER', 1, None, 0)
-(4, 'group_unit_id_03', 'INTEGER', 1, None, 0)
-(5, 'group_unit_id_04', 'INTEGER', 1, None, 0)
-(6, 'group_unit_id_05', 'INTEGER', 1, None, 0)
+CREATE TABLE 'voice_group' ('group_id' INTEGER NOT NULL, 'group_id_comment' TEXT NOT NULL, 'group_unit_id_01' INTEGER NOT NULL, 'group_unit_id_02' INTEGER NOT NULL, 'group_unit_id_03' INTEGER NOT NULL, 'group_unit_id_04' INTEGER NOT NULL, 'group_unit_id_05' INTEGER NOT NULL, PRIMARY KEY('group_id'))

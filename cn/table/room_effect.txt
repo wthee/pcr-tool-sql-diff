@@ -1,5 +1,1 @@
-(0, 'id', 'INTEGER', 1, None, 1)
-(1, 'reward_get', 'INTEGER', 1, None, 0)
-(2, 'jukebox', 'INTEGER', 1, None, 0)
-(3, 'nebbia', 'INTEGER', 1, None, 0)
-(4, 'arcade', 'INTEGER', 1, None, 0)
+CREATE TABLE 'room_effect' ('id' INTEGER NOT NULL, 'reward_get' INTEGER NOT NULL, 'jukebox' INTEGER NOT NULL, 'nebbia' INTEGER NOT NULL, 'arcade' INTEGER NOT NULL, PRIMARY KEY('id'))

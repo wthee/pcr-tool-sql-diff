@@ -1,3 +1,1 @@
-(0, 'key_name', 'TEXT', 1, None, 1)
-(1, 'value', 'INTEGER', 1, None, 0)
-(2, 'desc', 'TEXT', 1, None, 0)
+CREATE TABLE 'global_data' ('key_name' TEXT NOT NULL, 'value' INTEGER NOT NULL, 'desc' TEXT NOT NULL, PRIMARY KEY('key_name'))

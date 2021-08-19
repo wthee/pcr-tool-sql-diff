@@ -1,6 +1,1 @@
-(0, 'level_id', 'INTEGER', 1, None, 1)
-(1, 'recommend_group', 'INTEGER', 1, None, 0)
-(2, 'level_from', 'INTEGER', 1, None, 0)
-(3, 'level_to', 'INTEGER', 1, None, 0)
-(4, 'atack_party_count', 'INTEGER', 1, None, 0)
-(5, 'magic_party_count', 'INTEGER', 1, None, 0)
+CREATE TABLE 'clan_battle_recommend_data' ('level_id' INTEGER NOT NULL, 'recommend_group' INTEGER NOT NULL, 'level_from' INTEGER NOT NULL, 'level_to' INTEGER NOT NULL, 'atack_party_count' INTEGER NOT NULL, 'magic_party_count' INTEGER NOT NULL, PRIMARY KEY('level_id'))

@@ -1,4 +1,1 @@
-(0, 'campaign_id', 'INTEGER', 1, None, 1)
-(1, 'max_exec_count', 'INTEGER', 1, None, 0)
-(2, 'start_time', 'TEXT', 1, None, 0)
-(3, 'end_time', 'TEXT', 1, None, 0)
+CREATE TABLE 'campaign_freegacha_sp' ('campaign_id' INTEGER NOT NULL, 'max_exec_count' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('campaign_id'))

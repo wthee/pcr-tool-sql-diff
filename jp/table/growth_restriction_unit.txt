@@ -1,3 +1,1 @@
-(0, 'id', 'INTEGER', 1, None, 1)
-(1, 'growth_id', 'INTEGER', 1, None, 0)
-(2, 'unit_id', 'INTEGER', 1, None, 0)
+CREATE TABLE 'growth_restriction_unit' ('id' INTEGER NOT NULL, 'growth_id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, PRIMARY KEY('id'))

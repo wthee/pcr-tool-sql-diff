@@ -1,2 +1,1 @@
-(0, 'target_level', 'INTEGER', 1, None, 1)
-(1, 'cost', 'INTEGER', 1, None, 0)
+CREATE TABLE 'skill_cost' ('target_level' INTEGER NOT NULL, 'cost' INTEGER NOT NULL, PRIMARY KEY('target_level'))

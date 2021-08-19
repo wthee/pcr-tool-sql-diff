@@ -1,6 +1,1 @@
-(0, 'equip_slot', 'INTEGER', 1, None, 1)
-(1, 'enhance_level', 'INTEGER', 1, None, 2)
-(2, 'needed_point', 'INTEGER', 1, None, 0)
-(3, 'total_point', 'INTEGER', 1, None, 0)
-(4, 'needed_mana', 'INTEGER', 1, None, 0)
-(5, 'rank', 'INTEGER', 1, None, 0)
+CREATE TABLE 'unique_equipment_enhance_data' ('equip_slot' INTEGER NOT NULL, 'enhance_level' INTEGER NOT NULL, 'needed_point' INTEGER NOT NULL, 'total_point' INTEGER NOT NULL, 'needed_mana' INTEGER NOT NULL, 'rank' INTEGER NOT NULL, PRIMARY KEY('equip_slot','enhance_level'))

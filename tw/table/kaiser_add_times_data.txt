@@ -1,4 +1,1 @@
-(0, 'id', 'INTEGER', 1, None, 1)
-(1, 'add_times', 'INTEGER', 1, None, 0)
-(2, 'add_times_time', 'TEXT', 1, None, 0)
-(3, 'duration', 'INTEGER', 1, None, 0)
+CREATE TABLE 'kaiser_add_times_data' ('id' INTEGER NOT NULL, 'add_times' INTEGER NOT NULL, 'add_times_time' TEXT NOT NULL, 'duration' INTEGER NOT NULL, PRIMARY KEY('id'))

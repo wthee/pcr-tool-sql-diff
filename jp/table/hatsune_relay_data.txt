@@ -1,5 +1,1 @@
-(0, 'relay_story_id', 'INTEGER', 1, None, 1)
-(1, 'is_enable_read', 'INTEGER', 1, None, 0)
-(2, 'condition_quest_id', 'INTEGER', 1, None, 0)
-(3, 'story_seq', 'INTEGER', 1, None, 0)
-(4, 'sub_title', 'TEXT', 1, None, 0)
+CREATE TABLE 'hatsune_relay_data' ('relay_story_id' INTEGER NOT NULL, 'is_enable_read' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'story_seq' INTEGER NOT NULL, 'sub_title' TEXT NOT NULL, PRIMARY KEY('relay_story_id'))

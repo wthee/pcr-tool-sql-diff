@@ -1,3 +1,1 @@
-(0, 'ttk_weapon_id', 'INTEGER', 1, None, 1)
-(1, 'ttk_score', 'INTEGER', 1, None, 0)
-(2, 'name', 'TEXT', 1, None, 0)
+CREATE TABLE 'ttk_weapon' ('ttk_weapon_id' INTEGER NOT NULL, 'ttk_score' INTEGER NOT NULL, 'name' TEXT NOT NULL, PRIMARY KEY('ttk_weapon_id'))

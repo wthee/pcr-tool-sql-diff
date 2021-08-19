@@ -1,3 +1,1 @@
-(0, 'id', 'INTEGER', 1, None, 1)
-(1, 'rank_from', 'INTEGER', 1, None, 0)
-(2, 'rank_to', 'INTEGER', 1, None, 0)
+CREATE TABLE 'clan_battle_archive_clan_rank' ('id' INTEGER NOT NULL, 'rank_from' INTEGER NOT NULL, 'rank_to' INTEGER NOT NULL, PRIMARY KEY('id'))

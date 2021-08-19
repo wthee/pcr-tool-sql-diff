@@ -1,4 +1,1 @@
-(0, 'id', 'INTEGER', 1, None, 1)
-(1, 'value', 'INTEGER', 1, None, 0)
-(2, 'tips_index', 'INTEGER', 1, None, 0)
-(3, 'title', 'TEXT', 1, None, 0)
+CREATE TABLE 'tips' ('id' INTEGER NOT NULL, 'value' INTEGER NOT NULL, 'tips_index' INTEGER NOT NULL, 'title' TEXT NOT NULL, PRIMARY KEY('id'))

@@ -1,4 +1,1 @@
-(0, 'ticket_id', 'INTEGER', 1, None, 1)
-(1, 'start_time', 'TEXT', 1, None, 0)
-(2, 'end_time', 'TEXT', 1, None, 0)
-(3, 'jewel_store_id', 'INTEGER', 1, None, 0)
+CREATE TABLE 'chara_e_ticket_data' ('ticket_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'jewel_store_id' INTEGER NOT NULL, PRIMARY KEY('ticket_id'))

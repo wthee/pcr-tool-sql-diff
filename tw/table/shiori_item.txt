@@ -1,3 +1,1 @@
-(0, 'event_id', 'INTEGER', 1, None, 1)
-(1, 'unit_material_id_1', 'INTEGER', 1, None, 0)
-(2, 'unit_material_id_2', 'INTEGER', 1, None, 0)
+CREATE TABLE 'shiori_item' ('event_id' INTEGER NOT NULL, 'unit_material_id_1' INTEGER NOT NULL, 'unit_material_id_2' INTEGER NOT NULL, PRIMARY KEY('event_id'))

@@ -1,6 +1,1 @@
-(0, 'legion_battle_effect_id', 'INTEGER', 1, None, 1)
-(1, 'enemy_id', 'INTEGER', 1, None, 0)
-(2, 'icon_id', 'INTEGER', 1, None, 0)
-(3, 'text_id', 'INTEGER', 1, None, 0)
-(4, 'skill_id', 'INTEGER', 1, None, 0)
-(5, 'target_type', 'INTEGER', 1, None, 0)
+CREATE TABLE 'legion_battle_bonus_effect' ('legion_battle_effect_id' INTEGER NOT NULL, 'enemy_id' INTEGER NOT NULL, 'icon_id' INTEGER NOT NULL, 'text_id' INTEGER NOT NULL, 'skill_id' INTEGER NOT NULL, 'target_type' INTEGER NOT NULL, PRIMARY KEY('legion_battle_effect_id'))

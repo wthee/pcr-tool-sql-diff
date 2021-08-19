@@ -1,4 +1,1 @@
-(0, 'id', 'INTEGER', 1, None, 1)
-(1, 'combo_min', 'INTEGER', 1, None, 0)
-(2, 'combo_max', 'INTEGER', 1, None, 0)
-(3, 'combo_coefficient', 'INTEGER', 1, None, 0)
+CREATE TABLE 'pct_combo_coefficient' ('id' INTEGER NOT NULL, 'combo_min' INTEGER NOT NULL, 'combo_max' INTEGER NOT NULL, 'combo_coefficient' INTEGER NOT NULL, PRIMARY KEY('id'))

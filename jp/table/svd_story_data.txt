@@ -1,7 +1,1 @@
-(0, 'sub_story_id', 'INTEGER', 1, None, 1)
-(1, 'original_event_id', 'INTEGER', 1, None, 0)
-(2, 'title', 'TEXT', 1, None, 0)
-(3, 'read_condition_time', 'TEXT', 1, None, 0)
-(4, 'condition_quest_id', 'INTEGER', 1, None, 0)
-(5, 'condition_boss_id', 'INTEGER', 1, None, 0)
-(6, 'read_condition', 'INTEGER', 1, None, 0)
+CREATE TABLE 'svd_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'read_condition_time' TEXT NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_boss_id' INTEGER NOT NULL, 'read_condition' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'))

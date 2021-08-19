@@ -1,6 +1,1 @@
-(0, 'effect_id', 'INTEGER', 1, None, 1)
-(1, 'bonus_1', 'INTEGER', 1, None, 0)
-(2, 'bonus_2', 'INTEGER', 1, None, 0)
-(3, 'bonus_3', 'INTEGER', 1, None, 0)
-(4, 'bonus_4', 'INTEGER', 1, None, 0)
-(5, 'bonus_5', 'INTEGER', 1, None, 0)
+CREATE TABLE 'legion_effect' ('effect_id' INTEGER NOT NULL, 'bonus_1' INTEGER NOT NULL, 'bonus_2' INTEGER NOT NULL, 'bonus_3' INTEGER NOT NULL, 'bonus_4' INTEGER NOT NULL, 'bonus_5' INTEGER NOT NULL, PRIMARY KEY('effect_id'))

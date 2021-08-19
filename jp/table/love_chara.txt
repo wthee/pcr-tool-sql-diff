@@ -1,4 +1,1 @@
-(0, 'love_level', 'INTEGER', 1, None, 1)
-(1, 'total_love', 'INTEGER', 1, None, 0)
-(2, 'unlocked_class', 'INTEGER', 1, None, 0)
-(3, 'rarity', 'INTEGER', 1, None, 0)
+CREATE TABLE 'love_chara' ('love_level' INTEGER NOT NULL, 'total_love' INTEGER NOT NULL, 'unlocked_class' INTEGER NOT NULL, 'rarity' INTEGER NOT NULL, PRIMARY KEY('love_level'))

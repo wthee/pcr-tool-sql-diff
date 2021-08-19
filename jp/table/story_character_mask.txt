@@ -1,4 +1,1 @@
-(0, 'chara_id', 'INTEGER', 1, None, 1)
-(1, 'offset', 'REAL', 1, None, 0)
-(2, 'size', 'REAL', 1, None, 0)
-(3, 'softness', 'REAL', 1, None, 0)
+CREATE TABLE 'story_character_mask' ('chara_id' INTEGER NOT NULL, 'offset' REAL NOT NULL, 'size' REAL NOT NULL, 'softness' REAL NOT NULL, PRIMARY KEY('chara_id'))

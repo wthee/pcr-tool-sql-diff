@@ -1,6 +1,1 @@
-(0, 'enemy_id', 'INTEGER', 1, None, 1)
-(1, 'event_id', 'INTEGER', 1, None, 0)
-(2, 'mode', 'INTEGER', 1, None, 0)
-(3, 'enemy_point', 'INTEGER', 1, None, 0)
-(4, 'initial_position', 'INTEGER', 1, None, 0)
-(5, 'order', 'INTEGER', 1, None, 0)
+CREATE TABLE 'hatsune_special_enemy' ('enemy_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'mode' INTEGER NOT NULL, 'enemy_point' INTEGER NOT NULL, 'initial_position' INTEGER NOT NULL, 'order' INTEGER NOT NULL, PRIMARY KEY('enemy_id'))

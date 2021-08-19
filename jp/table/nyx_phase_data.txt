@@ -1,4 +1,1 @@
-(0, 'story_phase', 'INTEGER', 1, None, 1)
-(1, 'phase_title', 'TEXT', 1, None, 0)
-(2, 'condition_quest_id', 'INTEGER', 1, None, 0)
-(3, 'condition_quest_boss', 'INTEGER', 1, None, 0)
+CREATE TABLE 'nyx_phase_data' ('story_phase' INTEGER NOT NULL, 'phase_title' TEXT NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_quest_boss' INTEGER NOT NULL, PRIMARY KEY('story_phase'))

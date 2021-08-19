@@ -1,2 +1,1 @@
-(0, 'group_id', 'INTEGER', 1, None, 1)
-(1, 'group_name', 'TEXT', 1, None, 0)
+CREATE TABLE 'custom_mypage_group' ('group_id' INTEGER NOT NULL, 'group_name' TEXT NOT NULL, PRIMARY KEY('group_id'))

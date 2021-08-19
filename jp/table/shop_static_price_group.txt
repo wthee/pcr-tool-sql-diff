@@ -1,5 +1,1 @@
-(0, 'id', 'INTEGER', 1, None, 1)
-(1, 'price_group_id', 'INTEGER', 1, None, 0)
-(2, 'buy_count_from', 'INTEGER', 1, None, 0)
-(3, 'buy_count_to', 'INTEGER', 1, None, 0)
-(4, 'count', 'INTEGER', 1, None, 0)
+CREATE TABLE 'shop_static_price_group' ('id' INTEGER NOT NULL, 'price_group_id' INTEGER NOT NULL, 'buy_count_from' INTEGER NOT NULL, 'buy_count_to' INTEGER NOT NULL, 'count' INTEGER NOT NULL, PRIMARY KEY('id'))

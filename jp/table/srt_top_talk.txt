@@ -1,7 +1,1 @@
-(0, 'id', 'INTEGER', 1, None, 1)
-(1, 'talk_id', 'INTEGER', 1, None, 0)
-(2, 'chara_index', 'INTEGER', 1, None, 0)
-(3, 'talk_text', 'TEXT', 1, None, 0)
-(4, 'sheet_name', 'TEXT', 1, None, 0)
-(5, 'cue_name', 'TEXT', 1, None, 0)
-(6, 'direction', 'INTEGER', 1, None, 0)
+CREATE TABLE 'srt_top_talk' ('id' INTEGER NOT NULL, 'talk_id' INTEGER NOT NULL, 'chara_index' INTEGER NOT NULL, 'talk_text' TEXT NOT NULL, 'sheet_name' TEXT NOT NULL, 'cue_name' TEXT NOT NULL, 'direction' INTEGER NOT NULL, PRIMARY KEY('id'))

@@ -1,3 +1,1 @@
-(0, 'unit_id', 'INTEGER', 1, None, 1)
-(1, 'normal_label_text', 'TEXT', 1, None, 0)
-(2, 'sp_label_text', 'TEXT', 1, None, 0)
+CREATE TABLE 'spskill_label_data' ('unit_id' INTEGER NOT NULL, 'normal_label_text' TEXT NOT NULL, 'sp_label_text' TEXT NOT NULL, PRIMARY KEY('unit_id'))
