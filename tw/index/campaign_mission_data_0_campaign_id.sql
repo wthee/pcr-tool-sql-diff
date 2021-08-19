@@ -1,0 +1,1 @@
+CREATE INDEX 'campaign_mission_data_0_campaign_id' on 'campaign_mission_data'('campaign_id')

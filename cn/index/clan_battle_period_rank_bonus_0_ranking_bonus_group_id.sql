@@ -1,0 +1,1 @@
+CREATE INDEX 'clan_battle_period_rank_bonus_0_ranking_bonus_group_id' on 'clan_battle_period_rank_bonus'('ranking_bonus_group_id')

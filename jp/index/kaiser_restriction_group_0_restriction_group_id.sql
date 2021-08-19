@@ -1,0 +1,1 @@
+CREATE INDEX 'kaiser_restriction_group_0_restriction_group_id' on 'kaiser_restriction_group'('restriction_group_id')

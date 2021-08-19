@@ -1,0 +1,1 @@
+CREATE INDEX 'pct_reward_0_pct_point_type' on 'pct_reward'('pct_point_type')

@@ -1,0 +1,1 @@
+CREATE INDEX 'sekai_top_data_0_sekai_id' on 'sekai_top_data'('sekai_id')

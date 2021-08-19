@@ -1,0 +1,1 @@
+CREATE INDEX 'hatsune_unlock_story_condition_0_event_id' on 'hatsune_unlock_story_condition'('event_id')

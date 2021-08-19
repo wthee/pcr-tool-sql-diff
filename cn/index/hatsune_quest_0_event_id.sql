@@ -1,0 +1,1 @@
+CREATE INDEX 'hatsune_quest_0_event_id' on 'hatsune_quest'('event_id')

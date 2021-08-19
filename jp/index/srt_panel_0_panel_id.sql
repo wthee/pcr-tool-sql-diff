@@ -1,0 +1,1 @@
+CREATE INDEX 'srt_panel_0_panel_id' on 'srt_panel'('panel_id')

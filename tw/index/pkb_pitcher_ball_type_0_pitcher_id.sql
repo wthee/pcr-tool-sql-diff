@@ -1,0 +1,1 @@
+CREATE INDEX 'pkb_pitcher_ball_type_0_pitcher_id' on 'pkb_pitcher_ball_type'('pitcher_id')

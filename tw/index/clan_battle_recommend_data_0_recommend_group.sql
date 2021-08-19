@@ -1,0 +1,1 @@
+CREATE INDEX 'clan_battle_recommend_data_0_recommend_group' on 'clan_battle_recommend_data'('recommend_group')

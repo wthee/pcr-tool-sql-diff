@@ -1,0 +1,1 @@
+CREATE INDEX 'still_0_still_group_id' on 'still'('still_group_id')

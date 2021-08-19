@@ -1,0 +1,1 @@
+CREATE TABLE 'room_character_personality' ('character_id' INTEGER NOT NULL, 'personality_id' INTEGER NOT NULL, PRIMARY KEY('character_id'))

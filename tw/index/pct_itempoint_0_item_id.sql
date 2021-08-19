@@ -1,0 +1,1 @@
+CREATE INDEX 'pct_itempoint_0_item_id' on 'pct_itempoint'('item_id')

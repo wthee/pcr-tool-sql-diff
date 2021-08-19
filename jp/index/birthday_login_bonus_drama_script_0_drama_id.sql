@@ -1,0 +1,1 @@
+CREATE INDEX 'birthday_login_bonus_drama_script_0_drama_id' on 'birthday_login_bonus_drama_script'('drama_id')

@@ -1,0 +1,1 @@
+CREATE TABLE 'banner' ('banner_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'system_id' INTEGER NOT NULL, 'gacha_id' INTEGER NOT NULL, 'priority' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, 'sub_banner_id_1' INTEGER NOT NULL, 'is_show_room' INTEGER NOT NULL, PRIMARY KEY('banner_id'))

@@ -1,0 +1,1 @@
+CREATE INDEX 'hatsune_special_battle_0_wave_group_id' on 'hatsune_special_battle'('wave_group_id')

@@ -1,0 +1,1 @@
+CREATE INDEX 'pct_result_0_character_id' on 'pct_result'('character_id')

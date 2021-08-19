@@ -1,0 +1,1 @@
+CREATE INDEX 'nyx_drama_script_0_drama_id' on 'nyx_drama_script'('drama_id')

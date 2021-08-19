@@ -1,0 +1,1 @@
+CREATE TABLE 'content_release_data' ('system_id' INTEGER NOT NULL, 'team_level' INTEGER NOT NULL, 'story_id' INTEGER NOT NULL, 'quest_id' INTEGER NOT NULL, 'dialog' TEXT NOT NULL, PRIMARY KEY('system_id'))

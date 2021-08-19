@@ -1,0 +1,1 @@
+CREATE TABLE 'album_production_list' ('id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'))

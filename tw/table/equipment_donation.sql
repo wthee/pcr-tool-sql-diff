@@ -1,0 +1,1 @@
+CREATE TABLE 'equipment_donation' ('team_level' INTEGER NOT NULL, 'donation_num_once' INTEGER NOT NULL, 'donation_num_daily' INTEGER NOT NULL, 'request_num_once' INTEGER NOT NULL, PRIMARY KEY('team_level'))

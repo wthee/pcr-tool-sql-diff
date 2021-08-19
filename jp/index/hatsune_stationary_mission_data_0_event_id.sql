@@ -1,0 +1,1 @@
+CREATE INDEX 'hatsune_stationary_mission_data_0_event_id' on 'hatsune_stationary_mission_data'('event_id')

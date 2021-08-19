@@ -1,0 +1,1 @@
+CREATE TABLE 'ailment_data' ('ailment_id' INTEGER NOT NULL, 'ailment_action' INTEGER NOT NULL, 'ailment_detail_1' INTEGER NOT NULL, 'ailment_name' TEXT NOT NULL, PRIMARY KEY('ailment_id'))

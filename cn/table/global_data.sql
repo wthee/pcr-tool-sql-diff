@@ -1,0 +1,1 @@
+CREATE TABLE 'global_data' ('key_name' TEXT NOT NULL, 'value' INTEGER NOT NULL, 'desc' TEXT NOT NULL, PRIMARY KEY('key_name'))

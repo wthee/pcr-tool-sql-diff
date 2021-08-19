@@ -1,0 +1,1 @@
+CREATE INDEX 'tower_schedule_0_opening_story_id' on 'tower_schedule'('opening_story_id')

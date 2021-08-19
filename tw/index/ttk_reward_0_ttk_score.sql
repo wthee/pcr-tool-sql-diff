@@ -1,0 +1,1 @@
+CREATE INDEX 'ttk_reward_0_ttk_score' on 'ttk_reward'('ttk_score')

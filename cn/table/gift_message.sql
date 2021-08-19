@@ -1,0 +1,1 @@
+CREATE TABLE 'gift_message' ('id' INTEGER NOT NULL, 'discription' TEXT NOT NULL, 'type_1' INTEGER NOT NULL, 'type_2' INTEGER NOT NULL, 'type_3' INTEGER NOT NULL, 'type_4' INTEGER NOT NULL, PRIMARY KEY('id'))

@@ -1,0 +1,1 @@
+CREATE INDEX 'space_top_data_0_story_id' on 'space_top_data'('story_id')

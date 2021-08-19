@@ -1,0 +1,1 @@
+CREATE TABLE 'login_bonus_detail' ('id' INTEGER NOT NULL, 'login_bonus_id' INTEGER NOT NULL, 'count' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_num' INTEGER NOT NULL, 'character_id' INTEGER NOT NULL, 'character_name' TEXT NOT NULL, 'description' TEXT NOT NULL, 'voice_id' INTEGER NOT NULL, 'bg_id' INTEGER NOT NULL, PRIMARY KEY('id'))

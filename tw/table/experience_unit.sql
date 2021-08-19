@@ -1,0 +1,1 @@
+CREATE TABLE 'experience_unit' ('unit_level' INTEGER NOT NULL, 'total_exp' INTEGER NOT NULL, PRIMARY KEY('unit_level'))

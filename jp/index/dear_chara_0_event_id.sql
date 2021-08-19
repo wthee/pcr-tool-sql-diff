@@ -1,0 +1,1 @@
+CREATE INDEX 'dear_chara_0_event_id' on 'dear_chara'('event_id')

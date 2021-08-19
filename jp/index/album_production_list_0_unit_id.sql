@@ -1,0 +1,1 @@
+CREATE INDEX 'album_production_list_0_unit_id' on 'album_production_list'('unit_id')

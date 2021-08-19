@@ -1,0 +1,1 @@
+CREATE TABLE 'room_emotion_icon' ('id' INTEGER NOT NULL, 'enable_auto' INTEGER NOT NULL, 'enable_tap' INTEGER NOT NULL, PRIMARY KEY('id'))

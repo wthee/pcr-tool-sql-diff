@@ -1,0 +1,1 @@
+CREATE INDEX 'uek_spine_anim_link_0_anim_num' on 'uek_spine_anim_link'('anim_num')

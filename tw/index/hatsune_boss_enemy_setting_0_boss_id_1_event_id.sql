@@ -1,0 +1,1 @@
+CREATE INDEX 'hatsune_boss_enemy_setting_0_boss_id_1_event_id' on 'hatsune_boss_enemy_setting'('boss_id','event_id')

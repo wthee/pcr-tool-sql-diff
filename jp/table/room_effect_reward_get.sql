@@ -1,0 +1,1 @@
+CREATE TABLE 'room_effect_reward_get' ('id' INTEGER NOT NULL, 'level' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'max_count' INTEGER NOT NULL, 'inc_step' INTEGER NOT NULL, 'interval_second' INTEGER NOT NULL, PRIMARY KEY('id','level'))

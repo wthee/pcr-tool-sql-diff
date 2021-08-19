@@ -1,0 +1,1 @@
+CREATE INDEX 'cgg_gacha_lineup_0_gacha_type' on 'cgg_gacha_lineup'('gacha_type')

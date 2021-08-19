@@ -1,0 +1,1 @@
+CREATE INDEX 'event_gacha_data_0_event_id' on 'event_gacha_data'('event_id')

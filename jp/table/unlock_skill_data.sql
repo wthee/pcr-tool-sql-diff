@@ -1,0 +1,1 @@
+CREATE TABLE 'unlock_skill_data' ('promotion_level' INTEGER NOT NULL, 'unlock_skill' INTEGER NOT NULL, PRIMARY KEY('unlock_skill'))

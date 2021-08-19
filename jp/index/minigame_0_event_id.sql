@@ -1,0 +1,1 @@
+CREATE INDEX 'minigame_0_event_id' on 'minigame'('event_id')

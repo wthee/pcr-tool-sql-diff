@@ -1,0 +1,1 @@
+CREATE TABLE 'chara_identity' ('unit_id' INTEGER NOT NULL, 'chara_type' INTEGER NOT NULL, 'chara_type_2' INTEGER NOT NULL, 'chara_type_3' INTEGER NOT NULL, PRIMARY KEY('unit_id'))

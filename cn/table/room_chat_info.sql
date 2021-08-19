@@ -1,0 +1,1 @@
+CREATE TABLE 'room_chat_info' ('id' INTEGER NOT NULL, 'formation_id' INTEGER NOT NULL, 'scenario_id' INTEGER NOT NULL, PRIMARY KEY('id'))

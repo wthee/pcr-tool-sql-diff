@@ -1,0 +1,1 @@
+CREATE INDEX 'mission_condition_data_0_condition_group_id' on 'mission_condition_data'('condition_group_id')

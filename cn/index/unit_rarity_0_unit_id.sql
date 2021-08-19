@@ -1,0 +1,1 @@
+CREATE INDEX 'unit_rarity_0_unit_id' on 'unit_rarity'('unit_id')

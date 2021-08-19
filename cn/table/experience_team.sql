@@ -1,0 +1,1 @@
+CREATE TABLE 'experience_team' ('team_level' INTEGER NOT NULL, 'total_exp' INTEGER NOT NULL, 'max_stamina' INTEGER NOT NULL, 'over_limit_stamina' INTEGER NOT NULL, 'recover_stamina_count' INTEGER NOT NULL, PRIMARY KEY('team_level'))

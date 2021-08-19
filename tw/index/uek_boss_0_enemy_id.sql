@@ -1,0 +1,1 @@
+CREATE INDEX 'uek_boss_0_enemy_id' on 'uek_boss'('enemy_id')

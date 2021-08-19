@@ -1,0 +1,1 @@
+CREATE INDEX 'room_chat_scenario_0_id' on 'room_chat_scenario'('id')

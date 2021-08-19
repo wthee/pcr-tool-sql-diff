@@ -1,0 +1,1 @@
+CREATE INDEX 'fix_lineup_group_set_0_team_level_from_1_team_level_to' on 'fix_lineup_group_set'('team_level_from','team_level_to')

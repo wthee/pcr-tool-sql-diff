@@ -1,0 +1,1 @@
+CREATE TABLE 'room_unit_comments' ('id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'trigger' INTEGER NOT NULL, 'voice_id' INTEGER NOT NULL, 'beloved_step' INTEGER NOT NULL, 'time' INTEGER NOT NULL, 'face_id' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'insert_word_type' INTEGER NOT NULL, PRIMARY KEY('unit_id','trigger','voice_id','time'))

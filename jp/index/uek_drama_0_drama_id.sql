@@ -1,0 +1,1 @@
+CREATE INDEX 'uek_drama_0_drama_id' on 'uek_drama'('drama_id')

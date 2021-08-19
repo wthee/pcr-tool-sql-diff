@@ -1,0 +1,1 @@
+CREATE TABLE 'unit_promotion' ('unit_id' INTEGER NOT NULL, 'promotion_level' INTEGER NOT NULL, 'equip_slot_1' INTEGER NOT NULL, 'equip_slot_2' INTEGER NOT NULL, 'equip_slot_3' INTEGER NOT NULL, 'equip_slot_4' INTEGER NOT NULL, 'equip_slot_5' INTEGER NOT NULL, 'equip_slot_6' INTEGER NOT NULL, PRIMARY KEY('unit_id','promotion_level'))
