@@ -1,0 +1,3 @@
+(0, 'id', 'INTEGER', 1, None, 1)
+(1, 'rank_from', 'INTEGER', 1, None, 0)
+(2, 'rank_to', 'INTEGER', 1, None, 0)

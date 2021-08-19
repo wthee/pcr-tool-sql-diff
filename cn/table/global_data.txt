@@ -1,0 +1,3 @@
+(0, 'key_name', 'TEXT', 1, None, 1)
+(1, 'value', 'INTEGER', 1, None, 0)
+(2, 'desc', 'TEXT', 1, None, 0)

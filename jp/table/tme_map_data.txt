@@ -1,0 +1,6 @@
+(0, 'tme_object_id', 'INTEGER', 1, None, 1)
+(1, 'event_id', 'INTEGER', 1, None, 0)
+(2, 'condition_story_id', 'INTEGER', 1, None, 0)
+(3, 'area_difficulty_type', 'INTEGER', 1, None, 0)
+(4, 'release_effect', 'INTEGER', 1, None, 0)
+(5, 'tap_effect', 'INTEGER', 1, None, 0)

@@ -1,0 +1,5 @@
+(0, 'id', 'INTEGER', 1, None, 1)
+(1, 'campaign_mission_reward_id', 'INTEGER', 1, None, 0)
+(2, 'reward_type', 'INTEGER', 1, None, 0)
+(3, 'reward_id', 'INTEGER', 0, None, 0)
+(4, 'reward_num', 'INTEGER', 1, None, 0)

@@ -1,0 +1,5 @@
+(0, 'id', 'INTEGER', 1, None, 1)
+(1, 'gacha_type', 'INTEGER', 1, None, 0)
+(2, 'lineup_id', 'INTEGER', 1, None, 0)
+(3, 'goods_id', 'INTEGER', 1, None, 0)
+(4, 'goods_num', 'INTEGER', 1, None, 0)

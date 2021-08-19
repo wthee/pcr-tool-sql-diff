@@ -1,0 +1,3 @@
+(0, 'event_id', 'INTEGER', 1, None, 1)
+(1, 'bgm_sheet_name', 'TEXT', 1, None, 0)
+(2, 'bgm_cue_name', 'TEXT', 1, None, 0)

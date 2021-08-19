@@ -1,0 +1,5 @@
+(0, 'movie_id', 'INTEGER', 1, None, 1)
+(1, 'story_group_id', 'INTEGER', 1, None, 0)
+(2, 'story_id', 'INTEGER', 1, None, 0)
+(3, 'bgm_id', 'TEXT', 1, None, 0)
+(4, 'se_id', 'TEXT', 1, None, 0)

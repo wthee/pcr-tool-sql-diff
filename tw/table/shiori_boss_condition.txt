@@ -1,0 +1,6 @@
+(0, 'boss_id', 'INTEGER', 1, None, 1)
+(1, 'event_id', 'INTEGER', 1, None, 0)
+(2, 'condition_quest_id', 'INTEGER', 1, None, 0)
+(3, 'condition_boss_id', 'INTEGER', 1, None, 0)
+(4, 'release_quest_id', 'INTEGER', 1, None, 0)
+(5, 'release_boss_id', 'INTEGER', 1, None, 0)

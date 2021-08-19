@@ -1,0 +1,4 @@
+(0, 'ailment_id', 'INTEGER', 1, None, 1)
+(1, 'ailment_action', 'INTEGER', 1, None, 0)
+(2, 'ailment_detail_1', 'INTEGER', 1, None, 0)
+(3, 'ailment_name', 'TEXT', 1, None, 0)

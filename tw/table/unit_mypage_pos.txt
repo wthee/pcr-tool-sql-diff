@@ -1,0 +1,4 @@
+(0, 'id', 'INTEGER', 1, None, 1)
+(1, 'pos_x', 'REAL', 1, None, 0)
+(2, 'pos_y', 'REAL', 1, None, 0)
+(3, 'scale', 'REAL', 1, None, 0)

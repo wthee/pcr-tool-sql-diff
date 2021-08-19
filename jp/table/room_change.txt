@@ -1,0 +1,4 @@
+(0, 'room_item_id', 'INTEGER', 1, None, 1)
+(1, 'change_id', 'INTEGER', 1, None, 0)
+(2, 'change_start', 'TEXT', 1, None, 0)
+(3, 'change_end', 'TEXT', 1, None, 0)

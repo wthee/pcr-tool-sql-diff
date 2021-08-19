@@ -1,0 +1,8 @@
+(0, 'id', 'INTEGER', 1, None, 1)
+(1, 'unit_id', 'INTEGER', 1, None, 0)
+(2, 'use_type', 'INTEGER', 1, None, 0)
+(3, 'voice_id', 'INTEGER', 1, None, 0)
+(4, 'face_id', 'INTEGER', 1, None, 0)
+(5, 'change_time', 'REAL', 1, None, 0)
+(6, 'change_face', 'INTEGER', 1, None, 0)
+(7, 'description', 'TEXT', 1, None, 0)

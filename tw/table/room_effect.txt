@@ -1,0 +1,7 @@
+(0, 'id', 'INTEGER', 1, None, 1)
+(1, 'reward_get', 'INTEGER', 1, None, 0)
+(2, 'jukebox', 'INTEGER', 1, None, 0)
+(3, 'nebbia', 'INTEGER', 1, None, 0)
+(4, 'arcade', 'INTEGER', 1, None, 0)
+(5, 'vegetable', 'INTEGER', 1, None, 0)
+(6, 'poster', 'INTEGER', 1, None, 0)

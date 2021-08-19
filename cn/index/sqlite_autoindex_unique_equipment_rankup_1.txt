@@ -1,0 +1,2 @@
+(0, 0, 'equip_id')
+(1, 1, 'unique_equip_rank')

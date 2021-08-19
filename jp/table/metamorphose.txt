@@ -1,0 +1,3 @@
+(0, 'type_id', 'INTEGER', 1, None, 1)
+(1, 'condition_value', 'INTEGER', 1, None, 2)
+(2, 'prefab_id', 'INTEGER', 1, None, 0)

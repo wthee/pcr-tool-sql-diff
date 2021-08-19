@@ -1,0 +1,7 @@
+(0, 'enemy_id', 'INTEGER', 1, None, 1)
+(1, 'name', 'TEXT', 1, None, 0)
+(2, 'child_enemy_parameter_1', 'INTEGER', 1, None, 0)
+(3, 'child_enemy_parameter_2', 'INTEGER', 1, None, 0)
+(4, 'child_enemy_parameter_3', 'INTEGER', 1, None, 0)
+(5, 'child_enemy_parameter_4', 'INTEGER', 1, None, 0)
+(6, 'child_enemy_parameter_5', 'INTEGER', 1, None, 0)

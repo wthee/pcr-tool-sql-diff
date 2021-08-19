@@ -1,0 +1,5 @@
+(0, 'team_level', 'INTEGER', 1, None, 1)
+(1, 'total_exp', 'INTEGER', 1, None, 0)
+(2, 'max_stamina', 'INTEGER', 1, None, 0)
+(3, 'over_limit_stamina', 'INTEGER', 1, None, 0)
+(4, 'recover_stamina_count', 'INTEGER', 1, None, 0)

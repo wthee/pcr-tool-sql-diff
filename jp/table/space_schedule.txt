@@ -1,0 +1,8 @@
+(0, 'space_id', 'INTEGER', 1, None, 1)
+(1, 'teaser_time', 'TEXT', 1, None, 0)
+(2, 'start_time', 'TEXT', 1, None, 0)
+(3, 'count_start_time', 'TEXT', 1, None, 0)
+(4, 'count_end_time', 'TEXT', 1, None, 0)
+(5, 'end_time', 'TEXT', 1, None, 0)
+(6, 'sid', 'INTEGER', 1, None, 0)
+(7, 'pre_story_id', 'INTEGER', 1, None, 0)

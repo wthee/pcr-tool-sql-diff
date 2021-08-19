@@ -1,0 +1,2 @@
+(0, 0, 'clan_battle_id')
+(1, 1, 'period')

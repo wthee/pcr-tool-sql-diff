@@ -1,0 +1,7 @@
+(0, 'glossary_id', 'INTEGER', 1, None, 1)
+(1, 'glossary_category_id', 'INTEGER', 1, None, 0)
+(2, 'title', 'TEXT', 1, None, 0)
+(3, 'description', 'TEXT', 1, None, 0)
+(4, 'unlock_story_id', 'INTEGER', 1, None, 0)
+(5, 'category_type', 'INTEGER', 1, None, 0)
+(6, 'disp_order', 'INTEGER', 1, None, 0)

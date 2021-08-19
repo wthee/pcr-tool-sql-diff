@@ -1,0 +1,8 @@
+(0, 'id', 'INTEGER', 1, None, 1)
+(1, 'event_id', 'INTEGER', 1, None, 0)
+(2, 'quiz_id', 'INTEGER', 1, None, 0)
+(3, 'condition_quest_id', 'INTEGER', 1, None, 0)
+(4, 'condition_quiz_id', 'INTEGER', 1, None, 0)
+(5, 'condition_unit_id', 'INTEGER', 1, None, 0)
+(6, 'condition_mission_id', 'INTEGER', 1, None, 0)
+(7, 'condition_time_from', 'INTEGER', 1, None, 0)

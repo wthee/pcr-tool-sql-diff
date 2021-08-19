@@ -1,0 +1,4 @@
+(0, 'skin_color_id', 'INTEGER', 1, None, 1)
+(1, 'color_red', 'INTEGER', 1, None, 0)
+(2, 'color_green', 'INTEGER', 1, None, 0)
+(3, 'color_blue', 'INTEGER', 1, None, 0)

@@ -1,0 +1,4 @@
+(0, 'vote_id', 'INTEGER', 1, None, 1)
+(1, 'vote_help_index', 'INTEGER', 1, None, 2)
+(2, 'vote_title', 'TEXT', 1, None, 0)
+(3, 'vote_help', 'TEXT', 1, None, 0)

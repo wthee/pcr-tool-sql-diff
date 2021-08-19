@@ -1,0 +1,6 @@
+(0, 'id', 'INTEGER', 1, None, 1)
+(1, 'unit_id', 'INTEGER', 1, None, 0)
+(2, 'sheet_id', 'TEXT', 1, None, 0)
+(3, 'voice_id', 'TEXT', 1, None, 0)
+(4, 'title', 'TEXT', 1, None, 0)
+(5, 'description', 'TEXT', 1, None, 0)

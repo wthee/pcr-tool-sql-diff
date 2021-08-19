@@ -1,0 +1,4 @@
+(0, 'legion_boss_id', 'INTEGER', 1, None, 1)
+(1, 'unit_id', 'INTEGER', 1, None, 2)
+(2, 'effect_id', 'INTEGER', 1, None, 0)
+(3, 'support_effect_id', 'INTEGER', 1, None, 0)

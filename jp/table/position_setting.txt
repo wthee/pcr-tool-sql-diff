@@ -1,0 +1,3 @@
+(0, 'position_setting_id', 'INTEGER', 1, None, 1)
+(1, 'front', 'INTEGER', 1, None, 0)
+(2, 'middle', 'INTEGER', 1, None, 0)

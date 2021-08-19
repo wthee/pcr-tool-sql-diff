@@ -1,0 +1,8 @@
+(0, 'diary_id', 'INTEGER', 1, None, 1)
+(1, 'contents_type', 'INTEGER', 1, None, 0)
+(2, 'diary_date', 'INTEGER', 1, None, 0)
+(3, 'sub_title', 'TEXT', 1, None, 0)
+(4, 'forced_release_time', 'TEXT', 1, None, 0)
+(5, 'condition_time', 'TEXT', 1, None, 0)
+(6, 'condition_story_id', 'INTEGER', 1, None, 0)
+(7, 'condition_boss_count', 'INTEGER', 1, None, 0)

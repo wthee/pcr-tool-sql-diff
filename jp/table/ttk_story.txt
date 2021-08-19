@@ -1,0 +1,3 @@
+(0, 'ttk_story_id', 'INTEGER', 1, None, 1)
+(1, 'ttk_score', 'INTEGER', 1, None, 0)
+(2, 'title', 'TEXT', 1, None, 0)

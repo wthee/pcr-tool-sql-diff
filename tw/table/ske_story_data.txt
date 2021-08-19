@@ -1,0 +1,6 @@
+(0, 'sub_story_id', 'INTEGER', 1, None, 1)
+(1, 'original_event_id', 'INTEGER', 1, None, 0)
+(2, 'title', 'TEXT', 1, None, 0)
+(3, 'unlock_condition_quest_id', 'INTEGER', 1, None, 0)
+(4, 'unlock_condition_boss_id', 'INTEGER', 1, None, 0)
+(5, 'read_condition_event_story_id', 'INTEGER', 1, None, 0)

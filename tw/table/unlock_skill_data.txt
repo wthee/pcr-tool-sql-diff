@@ -1,0 +1,2 @@
+(0, 'promotion_level', 'INTEGER', 1, None, 0)
+(1, 'unlock_skill', 'INTEGER', 1, None, 1)

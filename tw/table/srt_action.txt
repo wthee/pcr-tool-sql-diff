@@ -1,0 +1,8 @@
+(0, 'action_name', 'TEXT', 1, None, 1)
+(1, 'inori_action', 'TEXT', 1, None, 0)
+(2, 'dragon_action', 'TEXT', 1, None, 0)
+(3, 'kaya_action', 'TEXT', 1, None, 0)
+(4, 'homare_action', 'TEXT', 1, None, 0)
+(5, 'talk_text_type', 'INTEGER', 1, None, 0)
+(6, 'talk_text', 'TEXT', 1, None, 0)
+(7, 'voice_list', 'TEXT', 1, None, 0)

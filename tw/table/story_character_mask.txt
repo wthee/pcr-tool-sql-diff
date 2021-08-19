@@ -1,0 +1,4 @@
+(0, 'chara_id', 'INTEGER', 1, None, 1)
+(1, 'offset', 'REAL', 1, None, 0)
+(2, 'size', 'REAL', 1, None, 0)
+(3, 'softness', 'REAL', 1, None, 0)

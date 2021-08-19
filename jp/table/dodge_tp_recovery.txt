@@ -1,0 +1,2 @@
+(0, 'system_id', 'INTEGER', 1, None, 1)
+(1, 'recovery_ratio', 'REAL', 1, None, 0)

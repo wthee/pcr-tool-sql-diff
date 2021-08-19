@@ -1,0 +1,4 @@
+(0, 'id', 'INTEGER', 1, None, 1)
+(1, 'condition_group_id', 'INTEGER', 1, None, 0)
+(2, 'relation_id', 'INTEGER', 1, None, 0)
+(3, 'condition_value', 'INTEGER', 0, None, 0)

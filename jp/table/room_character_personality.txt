@@ -1,0 +1,2 @@
+(0, 'character_id', 'INTEGER', 1, None, 1)
+(1, 'personality_id', 'INTEGER', 1, None, 0)

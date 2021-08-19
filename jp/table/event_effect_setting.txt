@@ -1,0 +1,3 @@
+(0, 'event_id', 'INTEGER', 1, None, 1)
+(1, 'type', 'INTEGER', 1, None, 2)
+(2, 'value', 'INTEGER', 1, None, 0)

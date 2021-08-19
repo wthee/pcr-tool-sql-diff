@@ -1,0 +1,5 @@
+(0, 'resist_variation_id', 'INTEGER', 1, None, 1)
+(1, 'value_1', 'INTEGER', 1, None, 0)
+(2, 'value_2', 'INTEGER', 1, None, 0)
+(3, 'value_3', 'INTEGER', 1, None, 0)
+(4, 'value_4', 'INTEGER', 1, None, 0)

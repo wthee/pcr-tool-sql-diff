@@ -1,0 +1,6 @@
+(0, 'enemy_id', 'INTEGER', 1, None, 1)
+(1, 'event_id', 'INTEGER', 1, None, 0)
+(2, 'mode', 'INTEGER', 1, None, 0)
+(3, 'enemy_point', 'INTEGER', 1, None, 0)
+(4, 'initial_position', 'INTEGER', 1, None, 0)
+(5, 'order', 'INTEGER', 1, None, 0)

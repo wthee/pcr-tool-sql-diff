@@ -1,0 +1,5 @@
+(0, 'motion_id', 'INTEGER', 1, None, 1)
+(1, 'perfect_count', 'INTEGER', 1, None, 0)
+(2, 'good_count', 'INTEGER', 1, None, 0)
+(3, 'nice_count', 'INTEGER', 1, None, 0)
+(4, 'point', 'INTEGER', 1, None, 0)

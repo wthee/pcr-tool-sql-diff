@@ -1,0 +1,4 @@
+(0, 'link_skill_slot', 'INTEGER', 1, None, 1)
+(1, 'sp_skill_id', 'INTEGER', 1, None, 0)
+(2, 'base_skill_id', 'INTEGER', 1, None, 0)
+(3, 'skill_category', 'INTEGER', 1, None, 0)

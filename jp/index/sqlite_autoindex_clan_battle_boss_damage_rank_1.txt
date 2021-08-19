@@ -1,0 +1,3 @@
+(0, 1, 'damage_rank_id')
+(1, 2, 'ranking_from')
+(2, 3, 'ranking_to')

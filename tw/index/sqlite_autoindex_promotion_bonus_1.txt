@@ -1,0 +1,2 @@
+(0, 0, 'unit_id')
+(1, 1, 'promotion_level')

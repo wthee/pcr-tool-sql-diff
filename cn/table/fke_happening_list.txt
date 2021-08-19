@@ -1,0 +1,2 @@
+(0, 'happening_id', 'INTEGER', 1, None, 1)
+(1, 'happening_name', 'TEXT', 1, None, 0)

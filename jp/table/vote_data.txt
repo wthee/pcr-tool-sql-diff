@@ -1,0 +1,7 @@
+(0, 'vote_id', 'INTEGER', 1, None, 1)
+(1, 'vote_start_time', 'TEXT', 1, None, 0)
+(2, 'vote_end_time', 'TEXT', 1, None, 0)
+(3, 'result_start_time', 'TEXT', 1, None, 0)
+(4, 'result_end_time', 'TEXT', 1, None, 0)
+(5, 'start_story_id', 'INTEGER', 1, None, 0)
+(6, 'result_story_id', 'INTEGER', 1, None, 0)

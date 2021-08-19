@@ -1,0 +1,7 @@
+(0, 'id', 'INTEGER', 1, None, 1)
+(1, 'scenario_idx', 'INTEGER', 1, None, 2)
+(2, 'unit_pos_no', 'INTEGER', 1, None, 0)
+(3, 'delay', 'INTEGER', 1, None, 0)
+(4, 'affect_type', 'INTEGER', 1, None, 0)
+(5, 'anime_id', 'INTEGER', 1, None, 0)
+(6, 'icon_id', 'INTEGER', 1, None, 0)

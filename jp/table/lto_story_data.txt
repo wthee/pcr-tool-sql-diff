@@ -1,0 +1,7 @@
+(0, 'sub_story_id', 'INTEGER', 1, None, 1)
+(1, 'event_id', 'INTEGER', 1, None, 0)
+(2, 'title', 'TEXT', 1, None, 0)
+(3, 'condition_story_id', 'INTEGER', 1, None, 0)
+(4, 'reward_type', 'INTEGER', 1, None, 0)
+(5, 'reward_id', 'INTEGER', 1, None, 0)
+(6, 'reward_count', 'INTEGER', 1, None, 0)

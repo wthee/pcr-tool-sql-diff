@@ -1,0 +1,4 @@
+(0, 'enemy_id', 'INTEGER', 1, None, 1)
+(1, 'score', 'INTEGER', 1, None, 0)
+(2, 'coin', 'INTEGER', 1, None, 0)
+(3, 'max', 'INTEGER', 1, None, 0)

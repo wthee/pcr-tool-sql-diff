@@ -1,0 +1,7 @@
+(0, 'gacha_id', 'INTEGER', 1, None, 1)
+(1, 'event_id', 'INTEGER', 1, None, 0)
+(2, 'gacha_name', 'TEXT', 1, None, 0)
+(3, 'item_type', 'INTEGER', 1, None, 0)
+(4, 'item_id', 'INTEGER', 1, None, 0)
+(5, 'cost', 'INTEGER', 1, None, 0)
+(6, 'repeat_step', 'INTEGER', 1, None, 0)

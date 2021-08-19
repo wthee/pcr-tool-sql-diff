@@ -1,0 +1,1 @@
+(0, 1, 'recommend_group')

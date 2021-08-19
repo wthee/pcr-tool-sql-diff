@@ -1,0 +1,8 @@
+(0, 'id', 'INTEGER', 1, None, 0)
+(1, 'wave_group_id', 'INTEGER', 1, None, 1)
+(2, 'odds', 'INTEGER', 1, None, 0)
+(3, 'enemy_id_1', 'INTEGER', 1, None, 0)
+(4, 'enemy_id_2', 'INTEGER', 1, None, 0)
+(5, 'enemy_id_3', 'INTEGER', 1, None, 0)
+(6, 'enemy_id_4', 'INTEGER', 1, None, 0)
+(7, 'enemy_id_5', 'INTEGER', 1, None, 0)

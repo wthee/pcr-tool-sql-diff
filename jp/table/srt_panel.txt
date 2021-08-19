@@ -1,0 +1,6 @@
+(0, 'reading_id', 'INTEGER', 1, None, 1)
+(1, 'reading', 'TEXT', 1, None, 0)
+(2, 'read_type', 'INTEGER', 1, None, 0)
+(3, 'panel_id', 'INTEGER', 1, None, 0)
+(4, 'detail_text', 'TEXT', 1, None, 0)
+(5, 'version', 'INTEGER', 1, None, 0)

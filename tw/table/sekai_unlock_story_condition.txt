@@ -1,0 +1,5 @@
+(0, 'story_id', 'INTEGER', 1, None, 1)
+(1, 'sekai_id', 'INTEGER', 1, None, 0)
+(2, 'condition_entry', 'INTEGER', 1, None, 0)
+(3, 'condition_fix_reward_id', 'INTEGER', 1, None, 0)
+(4, 'condition_time', 'TEXT', 1, None, 0)

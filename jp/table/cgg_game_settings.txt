@@ -1,0 +1,8 @@
+(0, 'cgg_id', 'INTEGER', 1, None, 1)
+(1, 'goods_shelf_id', 'INTEGER', 1, None, 0)
+(2, 'first_goods_shelf_reward_num', 'INTEGER', 1, None, 0)
+(3, 'cgg_gacha_currency_id', 'INTEGER', 1, None, 0)
+(4, 'first_currency_reward_num', 'INTEGER', 1, None, 0)
+(5, 'exchange_luppi_rate', 'INTEGER', 1, None, 0)
+(6, 'max_gacha_exchange_count', 'INTEGER', 1, None, 0)
+(7, 'max_goods_count', 'INTEGER', 1, None, 0)

@@ -1,0 +1,7 @@
+(0, 'id', 'INTEGER', 1, None, 0)
+(1, 'quest_id', 'INTEGER', 1, None, 1)
+(2, 'level_from', 'INTEGER', 1, None, 2)
+(3, 'max_to', 'INTEGER', 1, None, 3)
+(4, 'wave_group_id_1', 'INTEGER', 1, None, 0)
+(5, 'wave_group_id_2', 'INTEGER', 1, None, 0)
+(6, 'wave_group_id_3', 'INTEGER', 1, None, 0)

@@ -1,0 +1,2 @@
+(0, 'spine_id', 'INTEGER', 1, None, 1)
+(1, 'anim_num', 'INTEGER', 1, None, 0)

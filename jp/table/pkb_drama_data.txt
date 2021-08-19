@@ -1,0 +1,5 @@
+(0, 'drama_id', 'INTEGER', 1, None, 1)
+(1, 'condition_pitcher_id_1', 'INTEGER', 1, None, 0)
+(2, 'condition_pitcher_id_2', 'INTEGER', 1, None, 0)
+(3, 'condition_batter_id_1', 'INTEGER', 1, None, 0)
+(4, 'condition_batter_id_2', 'INTEGER', 1, None, 0)

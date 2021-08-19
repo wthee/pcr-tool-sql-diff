@@ -1,0 +1,5 @@
+(0, 'tower_area_id', 'INTEGER', 1, None, 1)
+(1, 'max_floor_num', 'INTEGER', 1, None, 0)
+(2, 'area_bg', 'INTEGER', 1, None, 0)
+(3, 'tower_bgm', 'TEXT', 1, None, 0)
+(4, 'cloister_quest_id', 'INTEGER', 1, None, 0)

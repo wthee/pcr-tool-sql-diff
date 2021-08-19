@@ -1,0 +1,3 @@
+(0, 'pitcher_id', 'INTEGER', 1, None, 1)
+(1, 'ball_type', 'INTEGER', 1, None, 2)
+(2, 'ball_type_name', 'TEXT', 1, None, 0)

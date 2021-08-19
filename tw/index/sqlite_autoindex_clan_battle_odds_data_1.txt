@@ -1,0 +1,3 @@
+(0, 0, 'odds_group_id')
+(1, 1, 'team_level_from')
+(2, 2, 'team_level_to')

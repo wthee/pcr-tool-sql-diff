@@ -1,0 +1,4 @@
+(0, 'story_group_id', 'INTEGER', 1, None, 1)
+(1, 'hide_story_id_from', 'INTEGER', 1, None, 0)
+(2, 'hide_story_id_to', 'INTEGER', 1, None, 0)
+(3, 'unlock_condition_story_id', 'INTEGER', 1, None, 0)

@@ -1,0 +1,1 @@
+(0, 0, 'rarity_6_quest_id')

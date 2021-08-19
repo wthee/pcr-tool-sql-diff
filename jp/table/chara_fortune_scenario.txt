@@ -1,0 +1,5 @@
+(0, 'scenario_id', 'INTEGER', 1, None, 1)
+(1, 'rail_1', 'INTEGER', 1, None, 0)
+(2, 'rail_2', 'INTEGER', 1, None, 0)
+(3, 'rail_3', 'INTEGER', 1, None, 0)
+(4, 'rail_4', 'INTEGER', 1, None, 0)

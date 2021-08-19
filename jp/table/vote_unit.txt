@@ -1,0 +1,3 @@
+(0, 'vote_id', 'INTEGER', 1, None, 1)
+(1, 'unit_id', 'INTEGER', 1, None, 2)
+(2, 'unit_rarity', 'INTEGER', 1, None, 0)

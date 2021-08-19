@@ -1,0 +1,7 @@
+(0, 'group_id', 'INTEGER', 1, None, 1)
+(1, 'group_id_comment', 'TEXT', 1, None, 0)
+(2, 'group_unit_id_01', 'INTEGER', 1, None, 0)
+(3, 'group_unit_id_02', 'INTEGER', 1, None, 0)
+(4, 'group_unit_id_03', 'INTEGER', 1, None, 0)
+(5, 'group_unit_id_04', 'INTEGER', 1, None, 0)
+(6, 'group_unit_id_05', 'INTEGER', 1, None, 0)

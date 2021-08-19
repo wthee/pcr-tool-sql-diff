@@ -1,0 +1,6 @@
+(0, 'id', 'INTEGER', 1, None, 0)
+(1, 'minigame_scheme_id', 'INTEGER', 1, None, 1)
+(2, 'event_id', 'INTEGER', 1, None, 0)
+(3, 'release_conditions_1', 'INTEGER', 1, None, 0)
+(4, 'conditions_id_1', 'INTEGER', 1, None, 0)
+(5, 'first_time_story_id', 'INTEGER', 1, None, 0)

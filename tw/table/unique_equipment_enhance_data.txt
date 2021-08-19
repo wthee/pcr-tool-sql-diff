@@ -1,0 +1,6 @@
+(0, 'equip_slot', 'INTEGER', 1, None, 1)
+(1, 'enhance_level', 'INTEGER', 1, None, 2)
+(2, 'needed_point', 'INTEGER', 1, None, 0)
+(3, 'total_point', 'INTEGER', 1, None, 0)
+(4, 'needed_mana', 'INTEGER', 1, None, 0)
+(5, 'rank', 'INTEGER', 1, None, 0)

@@ -1,0 +1,8 @@
+(0, 'course_id', 'INTEGER', 1, None, 1)
+(1, 'event_id', 'INTEGER', 1, None, 0)
+(2, 'name', 'TEXT', 1, None, 0)
+(3, 'map_id', 'INTEGER', 1, None, 0)
+(4, 'sheet_id', 'TEXT', 1, None, 0)
+(5, 'que_id', 'TEXT', 1, None, 0)
+(6, 'start_area_id', 'INTEGER', 1, None, 0)
+(7, 'end_area_id', 'INTEGER', 1, None, 0)

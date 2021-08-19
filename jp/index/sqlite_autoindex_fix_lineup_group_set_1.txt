@@ -1,0 +1,3 @@
+(0, 0, 'lineup_group_set_id')
+(1, 1, 'team_level_from')
+(2, 2, 'team_level_to')

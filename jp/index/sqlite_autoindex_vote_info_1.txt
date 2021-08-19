@@ -1,0 +1,2 @@
+(0, 0, 'vote_id')
+(1, 1, 'vote_help_index')

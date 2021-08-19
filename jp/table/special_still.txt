@@ -1,0 +1,4 @@
+(0, 'still_id', 'INTEGER', 1, None, 1)
+(1, 'type', 'INTEGER', 1, None, 0)
+(2, 'back_momory_type', 'INTEGER', 1, None, 0)
+(3, 'value', 'INTEGER', 1, None, 0)

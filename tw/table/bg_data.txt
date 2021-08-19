@@ -1,0 +1,3 @@
+(0, 'view_name', 'TEXT', 1, None, 1)
+(1, 'bg_id', 'INTEGER', 1, None, 0)
+(2, 'event_id', 'INTEGER', 1, None, 0)

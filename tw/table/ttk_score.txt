@@ -1,0 +1,5 @@
+(0, 'difficulty_level', 'INTEGER', 1, None, 1)
+(1, 'coefficient_difficulty', 'INTEGER', 1, None, 0)
+(2, 'coefficient_coin_score', 'INTEGER', 1, None, 0)
+(3, 'life', 'INTEGER', 1, None, 0)
+(4, 'coefficient_wrong_num', 'INTEGER', 1, None, 0)

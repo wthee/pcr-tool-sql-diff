@@ -1,0 +1,1 @@
+(0, 21, 'drop_reward_id')

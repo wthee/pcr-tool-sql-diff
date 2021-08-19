@@ -1,0 +1,2 @@
+(0, 0, 'legion_boss_id')
+(1, 1, 'unit_id')

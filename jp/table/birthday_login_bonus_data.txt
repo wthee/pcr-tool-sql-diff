@@ -1,0 +1,6 @@
+(0, 'login_bonus_id', 'INTEGER', 1, None, 1)
+(1, 'name', 'TEXT', 1, None, 0)
+(2, 'login_bonus_type', 'INTEGER', 1, None, 0)
+(3, 'start_time', 'TEXT', 1, None, 0)
+(4, 'end_time', 'TEXT', 1, None, 0)
+(5, 'adv_id', 'INTEGER', 1, None, 0)

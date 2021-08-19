@@ -1,0 +1,4 @@
+(0, 'sekai_id', 'INTEGER', 1, None, 0)
+(1, 'story_id', 'INTEGER', 1, None, 1)
+(2, 'boss_time_from', 'TEXT', 1, None, 0)
+(3, 'boss_time_to', 'TEXT', 1, None, 0)

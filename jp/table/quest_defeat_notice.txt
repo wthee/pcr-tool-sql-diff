@@ -1,0 +1,4 @@
+(0, 'id', 'INTEGER', 1, None, 1)
+(1, 'image_id', 'INTEGER', 1, None, 0)
+(2, 'required_team_level', 'INTEGER', 1, None, 0)
+(3, 'required_quest_id', 'INTEGER', 1, None, 0)

@@ -1,0 +1,4 @@
+(0, 'system_id', 'INTEGER', 1, None, 1)
+(1, 'quest_id', 'INTEGER', 1, None, 2)
+(2, 'effect_type', 'INTEGER', 1, None, 0)
+(3, 'quest_effect_position', 'INTEGER', 1, None, 0)

@@ -1,0 +1,7 @@
+(0, 'music_id', 'INTEGER', 1, None, 1)
+(1, 'name', 'TEXT', 1, None, 0)
+(2, 'total_playing_time', 'TEXT', 1, None, 0)
+(3, 'listen_start_time', 'TEXT', 1, None, 0)
+(4, 'detail', 'TEXT', 1, None, 0)
+(5, 'sheet_id', 'TEXT', 1, None, 0)
+(6, 'cue_id', 'TEXT', 1, None, 0)

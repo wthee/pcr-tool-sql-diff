@@ -1,0 +1,7 @@
+(0, 'id', 'INTEGER', 1, None, 1)
+(1, 'login_bonus_id', 'INTEGER', 1, None, 0)
+(2, 'start_time', 'TEXT', 1, None, 0)
+(3, 'end_time', 'TEXT', 1, None, 0)
+(4, 'count_key', 'INTEGER', 1, None, 0)
+(5, 'adv_id', 'INTEGER', 1, None, 0)
+(6, 'read_process_flag', 'INTEGER', 1, None, 0)

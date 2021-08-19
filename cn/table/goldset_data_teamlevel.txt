@@ -1,0 +1,3 @@
+(0, 'id', 'INTEGER', 1, None, 0)
+(1, 'team_level', 'INTEGER', 1, None, 1)
+(2, 'initial_get_gold_count', 'INTEGER', 1, None, 0)

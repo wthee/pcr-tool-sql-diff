@@ -1,0 +1,1 @@
+(0, 0, 'ranking_bonus_group_id')

@@ -1,0 +1,4 @@
+(0, 'love_level', 'INTEGER', 1, None, 1)
+(1, 'total_love', 'INTEGER', 1, None, 0)
+(2, 'unlocked_class', 'INTEGER', 1, None, 0)
+(3, 'rarity', 'INTEGER', 1, None, 0)

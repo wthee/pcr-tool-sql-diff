@@ -1,0 +1,7 @@
+(0, 'id', 'INTEGER', 1, None, 1)
+(1, 'unit_id', 'INTEGER', 1, None, 0)
+(2, 'event_id', 'INTEGER', 1, None, 0)
+(3, 'condition_mission_id', 'INTEGER', 1, None, 0)
+(4, 'top_description', 'TEXT', 1, None, 0)
+(5, 'description_1', 'TEXT', 1, None, 0)
+(6, 'description_2', 'TEXT', 1, None, 0)

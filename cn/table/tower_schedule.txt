@@ -1,0 +1,7 @@
+(0, 'tower_schedule_id', 'INTEGER', 1, None, 1)
+(1, 'max_tower_area_id', 'INTEGER', 1, None, 0)
+(2, 'opening_story_id', 'INTEGER', 1, None, 0)
+(3, 'count_start_time', 'TEXT', 1, None, 0)
+(4, 'recovery_disable_time', 'TEXT', 1, None, 0)
+(5, 'start_time', 'TEXT', 1, None, 0)
+(6, 'end_time', 'TEXT', 1, None, 0)

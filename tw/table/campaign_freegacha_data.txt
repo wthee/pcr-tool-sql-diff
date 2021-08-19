@@ -1,0 +1,3 @@
+(0, 'id', 'INTEGER', 1, None, 1)
+(1, 'campaign_id', 'INTEGER', 1, None, 0)
+(2, 'gacha_id', 'INTEGER', 1, None, 0)

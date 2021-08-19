@@ -1,0 +1,2 @@
+(0, 'original_unit_id', 'INTEGER', 1, None, 1)
+(1, 'unit_id', 'INTEGER', 1, None, 0)

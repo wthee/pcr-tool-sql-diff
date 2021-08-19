@@ -1,0 +1,7 @@
+(0, 'goods_id', 'INTEGER', 1, None, 1)
+(1, 'name', 'TEXT', 1, None, 0)
+(2, 'rarity', 'INTEGER', 1, None, 0)
+(3, 'shelf_position_id', 'INTEGER', 1, None, 0)
+(4, 'detail_scale_x', 'REAL', 1, None, 0)
+(5, 'detail_scale_y', 'REAL', 1, None, 0)
+(6, 'description', 'TEXT', 1, None, 0)

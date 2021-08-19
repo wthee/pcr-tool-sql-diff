@@ -1,0 +1,4 @@
+(0, 'id', 'INTEGER', 1, None, 1)
+(1, 'announcement_start', 'TEXT', 1, None, 0)
+(2, 'announcement_end', 'TEXT', 1, None, 0)
+(3, 'announcement_text', 'TEXT', 1, None, 0)

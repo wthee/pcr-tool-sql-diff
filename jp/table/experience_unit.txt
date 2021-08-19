@@ -1,0 +1,2 @@
+(0, 'unit_level', 'INTEGER', 1, None, 1)
+(1, 'total_exp', 'INTEGER', 1, None, 0)

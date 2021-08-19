@@ -1,0 +1,6 @@
+(0, 'gacha_type', 'INTEGER', 1, None, 1)
+(1, 'cgg_id', 'INTEGER', 1, None, 0)
+(2, 'gacha_name', 'TEXT', 1, None, 0)
+(3, 'gacha_description', 'TEXT', 1, None, 0)
+(4, 'cost_currency_num', 'INTEGER', 1, None, 0)
+(5, 'gacha_intro', 'TEXT', 1, None, 0)

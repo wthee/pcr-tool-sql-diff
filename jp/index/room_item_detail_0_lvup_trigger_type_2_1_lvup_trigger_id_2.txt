@@ -1,0 +1,2 @@
+(0, 6, 'lvup_trigger_type_2')
+(1, 7, 'lvup_trigger_id_2')

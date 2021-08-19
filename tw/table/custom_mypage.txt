@@ -1,0 +1,6 @@
+(0, 'still_id', 'INTEGER', 1, None, 1)
+(1, 'group_id', 'INTEGER', 1, None, 0)
+(2, 'still_group_id', 'INTEGER', 1, None, 0)
+(3, 'still_name', 'TEXT', 1, None, 0)
+(4, 'vertical_still_flg', 'INTEGER', 1, None, 0)
+(5, 'scroll_direction', 'INTEGER', 1, None, 0)

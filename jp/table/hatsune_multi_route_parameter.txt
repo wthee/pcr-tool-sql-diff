@@ -1,0 +1,7 @@
+(0, 'id', 'INTEGER', 1, None, 1)
+(1, 'quest_id', 'INTEGER', 1, None, 0)
+(2, 'type', 'INTEGER', 1, None, 0)
+(3, 'param_1', 'INTEGER', 1, None, 0)
+(4, 'param_2', 'INTEGER', 1, None, 0)
+(5, 'param_3', 'INTEGER', 1, None, 0)
+(6, 'text_1', 'TEXT', 1, None, 0)

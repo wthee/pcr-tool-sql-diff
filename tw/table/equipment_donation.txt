@@ -1,0 +1,4 @@
+(0, 'team_level', 'INTEGER', 1, None, 1)
+(1, 'donation_num_once', 'INTEGER', 1, None, 0)
+(2, 'donation_num_daily', 'INTEGER', 1, None, 0)
+(3, 'request_num_once', 'INTEGER', 1, None, 0)

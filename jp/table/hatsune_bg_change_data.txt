@@ -1,0 +1,6 @@
+(0, 'id', 'INTEGER', 1, None, 1)
+(1, 'area_id', 'INTEGER', 1, None, 0)
+(2, 'condition_type', 'INTEGER', 1, None, 0)
+(3, 'condition_id', 'INTEGER', 1, None, 0)
+(4, 'target_type', 'INTEGER', 1, None, 0)
+(5, 'bg_after_change_id', 'INTEGER', 1, None, 0)

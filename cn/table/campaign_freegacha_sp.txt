@@ -1,0 +1,4 @@
+(0, 'campaign_id', 'INTEGER', 1, None, 1)
+(1, 'max_exec_count', 'INTEGER', 1, None, 0)
+(2, 'start_time', 'TEXT', 1, None, 0)
+(3, 'end_time', 'TEXT', 1, None, 0)

@@ -1,0 +1,4 @@
+(0, 'evaluation_id', 'INTEGER', 1, None, 1)
+(1, 'evaluation_point', 'INTEGER', 1, None, 0)
+(2, 'fever_point', 'INTEGER', 1, None, 0)
+(3, 'meet_width', 'INTEGER', 1, None, 0)

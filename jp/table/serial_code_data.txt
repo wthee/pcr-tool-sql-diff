@@ -1,0 +1,6 @@
+(0, 'serial_campaign_id', 'INTEGER', 1, None, 1)
+(1, 'serial_group_id', 'INTEGER', 1, None, 0)
+(2, 'campaign_name', 'TEXT', 1, None, 0)
+(3, 'start_time', 'TEXT', 1, None, 0)
+(4, 'end_time', 'TEXT', 1, None, 0)
+(5, 'limit_num', 'INTEGER', 1, None, 0)

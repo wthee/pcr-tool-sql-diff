@@ -1,0 +1,2 @@
+(0, 1, 'story_group_id')
+(1, 11, 'chara_index')
