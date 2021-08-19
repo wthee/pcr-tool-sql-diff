@@ -1,1 +1,0 @@
-CREATE TABLE 'hatsune_diary_data' ('diary_id' INTEGER NOT NULL, 'contents_type' INTEGER NOT NULL, 'diary_date' INTEGER NOT NULL, 'sub_title' TEXT NOT NULL, 'forced_release_time' TEXT NOT NULL, 'condition_time' TEXT NOT NULL, 'condition_story_id' INTEGER NOT NULL, 'condition_boss_count' INTEGER NOT NULL, PRIMARY KEY('diary_id'))

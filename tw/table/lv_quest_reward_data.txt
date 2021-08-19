@@ -1,1 +1,0 @@
-CREATE TABLE 'lv_quest_reward_data' ('id' INTEGER NOT NULL, 'quest_id' INTEGER NOT NULL, 'level_from' INTEGER NOT NULL, 'max_to' INTEGER NOT NULL, 'wave_group_id_1' INTEGER NOT NULL, 'wave_group_id_2' INTEGER NOT NULL, 'wave_group_id_3' INTEGER NOT NULL, PRIMARY KEY('quest_id','level_from','max_to'))

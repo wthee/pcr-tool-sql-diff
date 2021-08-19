@@ -1,1 +1,0 @@
-CREATE TABLE 'unit_mypage_pos' ('id' INTEGER NOT NULL, 'pos_x' REAL NOT NULL, 'pos_y' REAL NOT NULL, 'scale' REAL NOT NULL, PRIMARY KEY('id'))

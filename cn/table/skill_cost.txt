@@ -1,1 +1,0 @@
-CREATE TABLE 'skill_cost' ('target_level' INTEGER NOT NULL, 'cost' INTEGER NOT NULL, PRIMARY KEY('target_level'))

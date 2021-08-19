@@ -1,1 +1,0 @@
-CREATE TABLE 'shop_static_price_group' ('id' INTEGER NOT NULL, 'price_group_id' INTEGER NOT NULL, 'buy_count_from' INTEGER NOT NULL, 'buy_count_to' INTEGER NOT NULL, 'count' INTEGER NOT NULL, PRIMARY KEY('id'))

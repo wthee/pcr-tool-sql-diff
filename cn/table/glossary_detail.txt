@@ -1,1 +1,0 @@
-CREATE TABLE 'glossary_detail' ('glossary_id' INTEGER NOT NULL, 'glossary_category_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'description' TEXT NOT NULL, 'unlock_story_id' INTEGER NOT NULL, 'category_type' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('glossary_id'))

@@ -1,1 +1,0 @@
-CREATE TABLE 'chara_fortune_scenario' ('scenario_id' INTEGER NOT NULL, 'rail_1' INTEGER NOT NULL, 'rail_2' INTEGER NOT NULL, 'rail_3' INTEGER NOT NULL, 'rail_4' INTEGER NOT NULL, PRIMARY KEY('scenario_id'))

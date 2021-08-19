@@ -1,1 +1,0 @@
-CREATE TABLE 'movie' ('movie_id' INTEGER NOT NULL, 'story_group_id' INTEGER NOT NULL, 'story_id' INTEGER NOT NULL, 'bgm_id' TEXT NOT NULL, 'se_id' TEXT NOT NULL, 'my_page_flag' INTEGER NOT NULL, 'fade_loop_flag' INTEGER NOT NULL, 'bgm_volume_rate' REAL NOT NULL, PRIMARY KEY('movie_id'))

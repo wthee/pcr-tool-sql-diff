@@ -1,2 +1,0 @@
-(0, 1, 'type')
-(1, 2, 'legion_boss_id')

@@ -1,2 +1,0 @@
-(0, 0, 'unit_id')
-(1, 2, 'unlock_level')

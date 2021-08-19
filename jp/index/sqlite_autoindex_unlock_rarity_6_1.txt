@@ -1,3 +1,0 @@
-(0, 0, 'unit_id')
-(1, 1, 'slot_id')
-(2, 2, 'unlock_level')

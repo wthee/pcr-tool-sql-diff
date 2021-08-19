@@ -1,1 +1,0 @@
-(0, 8, 'wave_group_id')

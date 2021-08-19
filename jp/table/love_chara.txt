@@ -1,1 +1,0 @@
-CREATE TABLE 'love_chara' ('love_level' INTEGER NOT NULL, 'total_love' INTEGER NOT NULL, 'unlocked_class' INTEGER NOT NULL, 'rarity' INTEGER NOT NULL, PRIMARY KEY('love_level'))

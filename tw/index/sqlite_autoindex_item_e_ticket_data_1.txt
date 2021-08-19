@@ -1,2 +1,0 @@
-(0, 0, 'ticket_id')
-(1, 1, 'exchange_number')

@@ -1,2 +1,0 @@
-(0, 0, 'restriction_group_id')
-(1, 1, 'unit_id')

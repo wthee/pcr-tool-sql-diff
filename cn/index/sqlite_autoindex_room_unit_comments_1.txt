@@ -1,4 +1,0 @@
-(0, 1, 'unit_id')
-(1, 2, 'trigger')
-(2, 3, 'voice_id')
-(3, 5, 'time')

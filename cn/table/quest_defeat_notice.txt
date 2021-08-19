@@ -1,1 +1,0 @@
-CREATE TABLE 'quest_defeat_notice' ('id' INTEGER NOT NULL, 'image_id' INTEGER NOT NULL, 'required_team_level' INTEGER NOT NULL, 'required_quest_id' INTEGER NOT NULL, PRIMARY KEY('id'))

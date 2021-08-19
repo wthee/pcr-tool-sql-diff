@@ -1,3 +1,0 @@
-(0, 1, 'quest_id')
-(1, 2, 'level_from')
-(2, 3, 'max_to')

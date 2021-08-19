@@ -1,2 +1,0 @@
-(0, 0, 'equip_slot')
-(1, 1, 'enhance_level')

@@ -1,1 +1,0 @@
-(0, 3, 'still_group_id')

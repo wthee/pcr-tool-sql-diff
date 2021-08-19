@@ -1,1 +1,0 @@
-CREATE TABLE 'dodge_tp_recovery' ('system_id' INTEGER NOT NULL, 'recovery_ratio' REAL NOT NULL, PRIMARY KEY('system_id'))

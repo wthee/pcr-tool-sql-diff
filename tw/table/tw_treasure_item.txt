@@ -1,1 +1,0 @@
-CREATE TABLE 'tw_treasure_item' ('id' INTEGER NOT NULL, 'item_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'point' INTEGER NOT NULL, 'message_id' INTEGER NOT NULL, PRIMARY KEY('id'))

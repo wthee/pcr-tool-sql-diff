@@ -1,1 +1,0 @@
-CREATE TABLE 'room_effect' ('id' INTEGER NOT NULL, 'reward_get' INTEGER NOT NULL, 'jukebox' INTEGER NOT NULL, 'nebbia' INTEGER NOT NULL, 'arcade' INTEGER NOT NULL, 'vegetable' INTEGER NOT NULL, 'poster' INTEGER NOT NULL, PRIMARY KEY('id'))

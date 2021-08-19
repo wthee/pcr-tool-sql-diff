@@ -1,1 +1,0 @@
-CREATE TABLE 'unit_motion_list' ('unit_id' INTEGER NOT NULL, 'sp_motion' INTEGER NOT NULL, PRIMARY KEY('unit_id'))
