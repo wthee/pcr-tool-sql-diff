@@ -1,3 +1,4 @@
+CREATE TABLE 'birthday_login_bonus_detail' ('id' INTEGER NOT NULL, 'login_bonus_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_num' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into birthday_login_bonus_detail values (1, 9105801, 2, 31058, 10);
 insert into birthday_login_bonus_detail values (2, 9102001, 2, 31020, 10);
 insert into birthday_login_bonus_detail values (3, 9100201, 2, 31002, 10);

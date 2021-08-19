@@ -1,3 +1,4 @@
+CREATE TABLE 'cgg_completion_data' ('completion_id' INTEGER NOT NULL, 'completion_emblem_id' INTEGER NOT NULL, 'gacha_type' INTEGER NOT NULL, 'completion_num' INTEGER NOT NULL, 'secret_goods_id_1' INTEGER NOT NULL, 'secret_goods_id_2' INTEGER NOT NULL, 'secret_goods_id_3' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'receive_description' TEXT NOT NULL, PRIMARY KEY('completion_id'));
 insert into cgg_completion_data values (101, 0, 2, 16, 0, 0, 0, '「プレミアムコレクション」のグッズを全種類獲得しよう', 'プレミアムコレクションのグッズを全種類獲得しました！');
 insert into cgg_completion_data values (102, 0, 1, 23, 0, 0, 0, '「スタンダードコレクション」のグッズを全種類獲得しよう', 'スタンダードコレクションのグッズを全種類獲得しました！');
 insert into cgg_completion_data values (103, 0, 3, 21, 0, 0, 0, '「フェスコレクション」のグッズを全種類獲得しよう', 'フェスコレクションのグッズを全種類獲得しました！');

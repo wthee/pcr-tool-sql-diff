@@ -1,3 +1,4 @@
+CREATE TABLE 'glossary_detail' ('glossary_id' INTEGER NOT NULL, 'glossary_category_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'description' TEXT NOT NULL, 'unlock_story_id' INTEGER NOT NULL, 'category_type' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('glossary_id'));
 insert into glossary_detail values (1001, 1, '惡德伊商會', '由壞人「惡德伊」擔任會長的邪惡商會。放高利貸、綁架、偷渡違法武器，做盡各種邪惡勾當。惡德伊說話雖然客氣，但卻是個大壞蛋。真正的壞人，指的就是他這種人。', 0, 1, 1);
 insert into glossary_detail values (1002, 1, '阿斯特賴亞大陸', '世界最大的大陸。在大陸的中心有個巨大都市『蘭德索爾』，其中矗立著一座高達天際的索爾之塔。', 0, 2, 2);
 insert into glossary_detail values (1003, 1, '阿斯特朗', '稱呼這個世界整體時所使用的單詞。也是阿斯特賴亞大陸的由來。不過，「阿斯特朗」的語源是從何而來，則沒有一個肯定的說法。', 0, 2, 3);

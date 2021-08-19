@@ -1,3 +1,4 @@
+CREATE TABLE 'gift_message' ('id' INTEGER NOT NULL, 'discription' TEXT NOT NULL, 'type_1' INTEGER NOT NULL, 'type_2' INTEGER NOT NULL, 'type_3' INTEGER NOT NULL, 'type_4' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into gift_message values (2001, '「{0}」{1}日目で獲得したアイテムです。', 1, 2, 0, 0);
 insert into gift_message values (2002, '「{0}」で獲得したアイテムです。', 3, 0, 0, 0);
 insert into gift_message values (2003, '「{0}」で獲得したアイテムです。', 4, 0, 0, 0);

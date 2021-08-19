@@ -1,3 +1,4 @@
+CREATE TABLE 'skip_monster_data' ('quest_id' INTEGER NOT NULL, 'area_id' INTEGER NOT NULL, 'quest_name' TEXT NOT NULL, 'wave_group_id_1' INTEGER NOT NULL, 'bg_skip_id' INTEGER NOT NULL, PRIMARY KEY('quest_id'));
 insert into skip_monster_data values (10001101, 10001101, '活动01NORMAL 1-1', 101020403, 100011);
 insert into skip_monster_data values (10001102, 10001101, '活动01NORMAL 1-2', 101010103, 100011);
 insert into skip_monster_data values (10001103, 10001101, '活动01NORMAL 1-3', 101010203, 100091);

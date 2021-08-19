@@ -1,3 +1,4 @@
+CREATE TABLE 'navi_comment' ('comment_id' INTEGER NOT NULL, 'where_type' INTEGER NOT NULL, 'character_id' INTEGER NOT NULL, 'face_type' INTEGER NOT NULL, 'character_name' TEXT NOT NULL, 'description' TEXT , 'voice_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'pos_x' REAL NOT NULL, 'pos_y' REAL NOT NULL, 'change_face_time' REAL NOT NULL, 'change_face_type' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, PRIMARY KEY('comment_id'));
 insert into navi_comment values (7001, 7, 106001, 1, '凯露', '偶尔帮帮忙不也挺好的吗？\\n我也会出一份力的', 1, '2020/01/01 0:00:00', '2099/12/31 23:59:59', -363.0, 0.0, 0.0, 1, 0);
 insert into navi_comment values (7002, 7, 105901, 1, '可可萝', '似乎能和很多勇士一起战斗呢\\n主人的话，一定可以大放异彩吧', 1, '2020/01/01 0:00:00', '2099/12/31 23:59:59', -363.0, 0.0, 0.0, 1, 0);
 insert into navi_comment values (7003, 7, 105801, 1, '佩可莉姆', '要和大家一起战斗咯！\\n加油☆', 1, '2020/01/01 0:00:00', '2099/12/31 23:59:59', -363.0, 0.0, 0.0, 1, 0);

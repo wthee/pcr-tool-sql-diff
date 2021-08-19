@@ -1,3 +1,4 @@
+CREATE TABLE 'unit_promotion' ('unit_id' INTEGER NOT NULL, 'promotion_level' INTEGER NOT NULL, 'equip_slot_1' INTEGER NOT NULL, 'equip_slot_2' INTEGER NOT NULL, 'equip_slot_3' INTEGER NOT NULL, 'equip_slot_4' INTEGER NOT NULL, 'equip_slot_5' INTEGER NOT NULL, 'equip_slot_6' INTEGER NOT NULL, PRIMARY KEY('unit_id','promotion_level'));
 insert into unit_promotion values (100101, 1, 101101, 101101, 101281, 101431, 101071, 101581);
 insert into unit_promotion values (100101, 2, 102101, 102071, 102341, 102431, 101101, 101581);
 insert into unit_promotion values (100101, 3, 103071, 102101, 102342, 102432, 102071, 102581);

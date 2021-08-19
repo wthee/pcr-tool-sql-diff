@@ -1,1 +1,0 @@
-CREATE TABLE 'goldset_data_teamlevel' ('id' INTEGER NOT NULL, 'team_level' INTEGER NOT NULL, 'initial_get_gold_count' INTEGER NOT NULL, PRIMARY KEY('team_level'))

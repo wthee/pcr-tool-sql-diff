@@ -1,3 +1,4 @@
+CREATE TABLE 'still' ('still_id' INTEGER NOT NULL, 'story_group_id' INTEGER NOT NULL, 'story_id' INTEGER NOT NULL, 'still_group_id' INTEGER NOT NULL, 'vertical_still_flg' INTEGER NOT NULL, 'position_y' INTEGER NOT NULL, 'unit_id_1' INTEGER NOT NULL, 'unit_id_2' INTEGER NOT NULL, 'unit_id_3' INTEGER NOT NULL, 'unit_id_4' INTEGER NOT NULL, 'unit_id_5' INTEGER NOT NULL, 'unit_id_6' INTEGER NOT NULL, 'unit_id_7' INTEGER NOT NULL, 'unit_id_8' INTEGER NOT NULL, 'unit_id_9' INTEGER NOT NULL, 'unit_id_10' INTEGER NOT NULL, 'facial_id' INTEGER NOT NULL, 'album_ignore' INTEGER NOT NULL, PRIMARY KEY('still_id'));
 insert into still values (100100201, 1001, 1001002, 0, 0, 0, 100111, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
 insert into still values (100100801, 1001, 1001008, 0, 1, -840, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);
 insert into still values (100200101, 1002, 1002001, 0, 0, 0, 100211, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0);

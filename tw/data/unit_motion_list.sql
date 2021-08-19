@@ -1,3 +1,4 @@
+CREATE TABLE 'unit_motion_list' ('unit_id' INTEGER NOT NULL, 'sp_motion' INTEGER NOT NULL, PRIMARY KEY('unit_id'));
 insert into unit_motion_list values (100101, 1);
 insert into unit_motion_list values (100201, 1);
 insert into unit_motion_list values (100301, 1);

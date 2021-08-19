@@ -1,3 +1,4 @@
+CREATE TABLE 'event_navi_comment' ('comment_id' INTEGER NOT NULL, 'where_type' INTEGER NOT NULL, 'character_id' INTEGER NOT NULL, 'face_type' INTEGER NOT NULL, 'character_name' TEXT NOT NULL, 'description' TEXT , 'voice_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'pos_x' REAL NOT NULL, 'pos_y' REAL NOT NULL, 'change_face_time' REAL NOT NULL, 'change_face_type' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, PRIMARY KEY('comment_id'));
 insert into event_navi_comment values (51001, 51, 110501, 4, 'カオリ（サマー）', '', 101, '2021/08/09 11:00:00', '2099/12/31 23:59:59', -285.0, 0.0, 9.1, 1, 10021);
 insert into event_navi_comment values (51002, 51, 110401, 4, 'マコト（サマー）', '', 201, '2021/08/09 11:00:00', '2099/12/31 23:59:59', -285.0, 0.0, 5.5, 1, 10021);
 insert into event_navi_comment values (51003, 51, 110601, 4, 'マホ（サマー）', '', 301, '2021/08/09 11:00:00', '2099/12/31 23:59:59', -285.0, 0.0, 9.7, 5, 10021);

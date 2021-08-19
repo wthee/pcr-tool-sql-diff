@@ -1,3 +1,4 @@
+CREATE TABLE 'myprofile_content' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into myprofile_content values (1, '粉色', '2020-01-01 0:00:00', '', 12);
 insert into myprofile_content values (2, '红色', '2020-01-01 0:00:00', '', 13);
 insert into myprofile_content values (3, '黄色', '2020-01-01 0:00:00', '', 14);

@@ -1,3 +1,4 @@
+CREATE TABLE 'tower_wave_group_data' ('id' INTEGER NOT NULL, 'wave_group_id' INTEGER NOT NULL, 'odds' INTEGER NOT NULL, 'enemy_id_1' INTEGER NOT NULL, 'enemy_id_2' INTEGER NOT NULL, 'enemy_id_3' INTEGER NOT NULL, 'enemy_id_4' INTEGER NOT NULL, 'enemy_id_5' INTEGER NOT NULL, PRIMARY KEY('wave_group_id'));
 insert into tower_wave_group_data values (710000001, 710100011, 100, 710000104, 710000101, 710000102, 710000105, 0);
 insert into tower_wave_group_data values (710000002, 710100021, 100, 710000204, 710000201, 710000202, 710000203, 0);
 insert into tower_wave_group_data values (710000003, 710100031, 100, 710000302, 710000301, 710000304, 710000305, 0);

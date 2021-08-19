@@ -1,3 +1,4 @@
+CREATE TABLE 'tower_schedule' ('tower_schedule_id' INTEGER NOT NULL, 'max_tower_area_id' INTEGER NOT NULL, 'opening_story_id' INTEGER NOT NULL, 'count_start_time' TEXT NOT NULL, 'recovery_disable_time' TEXT NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('tower_schedule_id'));
 insert into tower_schedule values (1001, 1, 7001000, '2020/10/03 23:59:59', '2020/10/04 5:00:00', '2020/09/28 9:00:00', '2020/10/04 23:59:59');
 insert into tower_schedule values (1002, 2, 7002000, '2020/11/13 23:59:59', '2020/11/14 5:00:00', '2020/11/09 12:00:00', '2020/11/14 23:59:59');
 insert into tower_schedule values (1003, 3, 7003000, '2020/12/11 23:59:59', '2020/12/12 5:00:00', '2020/12/07 12:00:00', '2020/12/12 23:59:59');

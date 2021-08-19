@@ -1,3 +1,4 @@
+CREATE TABLE 'tw_treasure_item' ('id' INTEGER NOT NULL, 'item_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'point' INTEGER NOT NULL, 'message_id' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into tw_treasure_item values (1, 97501, 1, 1, 97501);
 insert into tw_treasure_item values (2, 97502, 2, 3, 97502);
 insert into tw_treasure_item values (3, 97503, 1, 1, 97503);

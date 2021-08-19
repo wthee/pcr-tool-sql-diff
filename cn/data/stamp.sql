@@ -1,3 +1,4 @@
+CREATE TABLE 'stamp' ('stamp_id' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('stamp_id'));
 insert into stamp values (100101, 4, '加油！', '2020/01/01 0:00:00', '2099/12/31 23:59:59');
 insert into stamp values (100201, 5, '谢谢', '2020/01/01 0:00:00', '2099/12/31 23:59:59');
 insert into stamp values (100301, 6, '参战', '2020/01/01 0:00:00', '2099/12/31 23:59:59');

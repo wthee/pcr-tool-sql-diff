@@ -1,3 +1,4 @@
+CREATE TABLE 'nyx_drama_data' ('drama_id' INTEGER NOT NULL, 'story_phase' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'sub_title' TEXT NOT NULL, 'condition_unlocked_story_id' INTEGER NOT NULL, 'condition_locked_story_id' INTEGER NOT NULL, PRIMARY KEY('drama_id'));
 insert into nyx_drama_data values (101, 1, '特別講座發表報告', '切嚕嚕衝擊', 12, 13);
 insert into nyx_drama_data values (102, 1, '特別講座發表報告', '克蘿依明察秋毫', 13, 14);
 insert into nyx_drama_data values (103, 1, '特別講座發表報告', '消失吧學姐架子', 14, 22);

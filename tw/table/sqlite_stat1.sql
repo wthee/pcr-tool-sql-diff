@@ -1,1 +1,0 @@
-CREATE TABLE sqlite_stat1(tbl,idx,stat)

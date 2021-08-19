@@ -1,3 +1,4 @@
+CREATE TABLE 'hatsune_boss_condition' ('boss_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'condition_quest_id_1' INTEGER NOT NULL, 'condition_quest_id_2' INTEGER NOT NULL, 'condition_boss_id_1' INTEGER NOT NULL, 'condition_boss_id_2' INTEGER NOT NULL, 'condition_gacha_step' INTEGER NOT NULL, 'force_unlock_time' TEXT NOT NULL, 'release_quest_id_1' INTEGER NOT NULL, 'release_quest_id_2' INTEGER NOT NULL, 'release_boss_id_1' INTEGER NOT NULL, 'release_boss_id_2' INTEGER NOT NULL, PRIMARY KEY('boss_id'));
 insert into hatsune_boss_condition values (1000101, 10001, 10001115, 0, 0, 0, 0, '2018/04/09 15:00:00', 10001201, 0, 1000102, 0);
 insert into hatsune_boss_condition values (1000102, 10001, 0, 0, 1000101, 0, 0, '0', 0, 0, 0, 0);
 insert into hatsune_boss_condition values (1000201, 10002, 10002115, 0, 0, 0, 0, '2018/05/08 15:00:00', 10002201, 0, 1000202, 0);

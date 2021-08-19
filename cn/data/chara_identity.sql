@@ -1,3 +1,4 @@
+CREATE TABLE 'chara_identity' ('unit_id' INTEGER NOT NULL, 'chara_type' INTEGER NOT NULL, PRIMARY KEY('unit_id'));
 insert into chara_identity values (100101, 1);
 insert into chara_identity values (100201, 2);
 insert into chara_identity values (100301, 3);

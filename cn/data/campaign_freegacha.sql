@@ -1,3 +1,4 @@
+CREATE TABLE 'campaign_freegacha' ('id' INTEGER NOT NULL, 'campaign_id' INTEGER NOT NULL, 'freegacha_1' INTEGER NOT NULL, 'freegacha_10' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'stock_10_flag' INTEGER NOT NULL, 'relation_id' INTEGER NOT NULL, 'relation_count' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into campaign_freegacha values (1, 1, 0, 1, '2020/06/27 5:00:00', '2020/07/08 4:59:59', 0, 0, 0);
 insert into campaign_freegacha values (2, 2, 0, 1, '2020/09/15 5:00:00', '2020/09/29 4:59:59', 0, 0, 0);
 insert into campaign_freegacha values (3, 3, 0, 1, '2021/01/08 5:00:00', '2021/01/22 4:59:59', 0, 0, 0);

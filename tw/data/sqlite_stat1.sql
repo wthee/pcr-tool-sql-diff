@@ -1,3 +1,4 @@
+CREATE TABLE sqlite_stat1(tbl,idx,stat);
 insert into sqlite_stat1 values ('pkb_navi_comment', None, '33');
 insert into sqlite_stat1 values ('ske_story_data', 'ske_story_data_0_original_event_id', '12 6');
 insert into sqlite_stat1 values ('event_boss_treasure_content', None, '1228');

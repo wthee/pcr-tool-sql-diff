@@ -1,3 +1,4 @@
+CREATE TABLE 'custom_mypage' ('still_id' INTEGER NOT NULL, 'group_id' INTEGER NOT NULL, 'still_group_id' INTEGER NOT NULL, 'still_name' TEXT NOT NULL, 'vertical_still_flg' INTEGER NOT NULL, 'scroll_direction' INTEGER NOT NULL, PRIMARY KEY('still_id'));
 insert into custom_mypage values (9000000, 10001, 0, 'Menu01scene1', 0, 0);
 insert into custom_mypage values (9000001, 10001, 0, 'Menu01scene2', 0, 0);
 insert into custom_mypage values (9000002, 10001, 0, 'Menu01scene3', 0, 0);

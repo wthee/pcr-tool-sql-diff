@@ -1,3 +1,4 @@
+CREATE TABLE 'legion_mission_data' ('legion_mission_id' INTEGER NOT NULL, 'category_id' INTEGER NOT NULL, 'disp_group' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'mission_condition' INTEGER NOT NULL, 'legion_boss_id' INTEGER NOT NULL, 'condition_value' INTEGER NOT NULL, 'condition_num' TEXT NOT NULL, 'mission_reward_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('legion_mission_id'));
 insert into legion_mission_data values (10000101, 1000, 10, '1回バトルしよう', 7000, 0, 0, '1', 10000101, '2021/08/17 12:00:00', '2021/08/24 11:59:59');
 insert into legion_mission_data values (10000102, 1000, 10, '5回バトルしよう', 7000, 0, 0, '5', 10000102, '2021/08/17 12:00:00', '2021/08/24 11:59:59');
 insert into legion_mission_data values (10000103, 1000, 10, '10回バトルしよう', 7000, 0, 0, '10', 10000103, '2021/08/17 12:00:00', '2021/08/24 11:59:59');

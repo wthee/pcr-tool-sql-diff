@@ -1,3 +1,4 @@
+CREATE TABLE 'clan_invite_level_group' ('level_group_id' INTEGER NOT NULL, 'team_level_from' INTEGER NOT NULL, 'team_level_to' INTEGER NOT NULL, PRIMARY KEY('level_group_id'));
 insert into clan_invite_level_group values (1, 4, 14);
 insert into clan_invite_level_group values (2, 15, 20);
 insert into clan_invite_level_group values (3, 21, 25);

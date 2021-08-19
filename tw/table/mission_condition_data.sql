@@ -1,1 +1,0 @@
-CREATE TABLE 'mission_condition_data' ('id' INTEGER NOT NULL, 'condition_group_id' INTEGER NOT NULL, 'relation_id' INTEGER NOT NULL, 'condition_value' INTEGER , PRIMARY KEY('id'))

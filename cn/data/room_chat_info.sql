@@ -1,3 +1,4 @@
+CREATE TABLE 'room_chat_info' ('id' INTEGER NOT NULL, 'formation_id' INTEGER NOT NULL, 'scenario_id' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into room_chat_info values (1, 2, 1);
 insert into room_chat_info values (2, 1, 2);
 insert into room_chat_info values (3, 3, 3);

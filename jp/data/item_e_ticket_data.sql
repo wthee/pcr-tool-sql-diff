@@ -1,3 +1,4 @@
+CREATE TABLE 'item_e_ticket_data' ('ticket_id' INTEGER NOT NULL, 'exchange_number' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_count_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_count_2' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_count_3' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('ticket_id','exchange_number'));
 insert into item_e_ticket_data values (28001, 1, 105801, 2, 31058, 100, 0, 0, 0, 0, 0, 0, '2020/08/04 12:00:00', '2030/08/01 14:59:59');
 insert into item_e_ticket_data values (28001, 2, 107501, 2, 31075, 100, 0, 0, 0, 0, 0, 0, '2020/08/04 12:00:00', '2030/08/01 14:59:59');
 insert into item_e_ticket_data values (28001, 3, 180401, 2, 31804, 100, 0, 0, 0, 0, 0, 0, '2020/08/04 12:00:00', '2030/08/01 14:59:59');

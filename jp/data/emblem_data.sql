@@ -1,3 +1,4 @@
+CREATE TABLE 'emblem_data' ('emblem_id' INTEGER NOT NULL, 'disp_oder' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'emblem_name' TEXT NOT NULL, 'description_mission_id' INTEGER NOT NULL, 'event_emblem' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('emblem_id'));
 insert into emblem_data values (10000001, 101001, 1, '冒険への初立', 0, 0, '2018/01/01 15:00:00', '2030/01/01 23:59:59');
 insert into emblem_data values (10101001, 101002, 1, '新米騎士', 58002001, 0, '2018/01/01 15:00:00', '2030/01/01 23:59:59');
 insert into emblem_data values (10101002, 101003, 1, '勇敢なる騎士', 58002002, 0, '2018/01/01 15:00:00', '2030/01/01 23:59:59');

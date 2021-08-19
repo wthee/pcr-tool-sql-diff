@@ -1,3 +1,4 @@
+CREATE TABLE 'cgg_gacha_lineup' ('id' INTEGER NOT NULL, 'gacha_type' INTEGER NOT NULL, 'lineup_id' INTEGER NOT NULL, 'goods_id' INTEGER NOT NULL, 'goods_num' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into cgg_gacha_lineup values (1, 2, 1, 10201, 3);
 insert into cgg_gacha_lineup values (2, 2, 2, 10202, 3);
 insert into cgg_gacha_lineup values (3, 2, 3, 10203, 3);

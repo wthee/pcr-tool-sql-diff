@@ -1,3 +1,4 @@
+CREATE TABLE 'character_love_rankup_text' ('chara_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'love_level' INTEGER NOT NULL, 'scale' REAL NOT NULL, 'position_x' INTEGER NOT NULL, 'position_y' INTEGER NOT NULL, 'voice_id_1' INTEGER NOT NULL, 'face_1' INTEGER NOT NULL, 'serif_1' TEXT NOT NULL, 'voice_id_2' INTEGER NOT NULL, 'face_2' INTEGER NOT NULL, 'serif_2' TEXT NOT NULL, 'voice_id_3' INTEGER NOT NULL, 'face_3' INTEGER NOT NULL, 'serif_3' TEXT NOT NULL, PRIMARY KEY('chara_id'));
 insert into character_love_rankup_text values (1001, '春咲 ひより', 2, 1.4, 0, 0, 0, 1, 'ヒヨリでっす♪\\n元気いっぱいがんばるよ♪', 0, 1, 'お！\\nあそこに困ってそうな人発見！', 0, 1, 'ねぇねぇ、騎士クン\\n手伝ってあげようよ～');
 insert into character_love_rankup_text values (1002, '草野 優衣', 2, 1.4, 0, 0, 0, 1, 'みんなみたいに\\nわたしも強くならなきゃ', 0, 1, '大切な人を\\n守れるようになりたい…って', 0, 1, 'わ、わたし、\\nなに言ってるんだろ\\nあはは…');
 insert into character_love_rankup_text values (1003, '士条 怜', 2, 1.4, 0, 0, 0, 1, 'フェンシングを始めてみては？', 0, 1, 'キミに必要な集中力と感性が', 0, 1, '少しは磨かれると思いますよ。');

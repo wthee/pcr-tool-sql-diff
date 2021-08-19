@@ -1,3 +1,4 @@
+CREATE TABLE 'tips' ('id' INTEGER NOT NULL, 'value' INTEGER NOT NULL, 'tips_index' INTEGER NOT NULL, 'title' TEXT NOT NULL, PRIMARY KEY('id'));
 insert into tips values (4100101, 100101, 1, '作戦説明');
 insert into tips values (4100201, 100201, 1, 'まどろみのユイ');
 insert into tips values (4100301, 100301, 1, '実は釣り好き');

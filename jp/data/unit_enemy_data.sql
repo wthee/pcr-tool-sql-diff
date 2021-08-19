@@ -1,3 +1,4 @@
+CREATE TABLE 'unit_enemy_data' ('unit_id' INTEGER NOT NULL, 'unit_name' TEXT NOT NULL, 'prefab_id' INTEGER NOT NULL, 'motion_type' INTEGER NOT NULL, 'se_type' INTEGER NOT NULL, 'move_speed' INTEGER NOT NULL, 'search_area_width' INTEGER NOT NULL, 'atk_type' INTEGER NOT NULL, 'normal_atk_cast_time' REAL NOT NULL, 'cutin' INTEGER NOT NULL, 'cutin_star6' INTEGER NOT NULL, 'visual_change_flag' INTEGER NOT NULL, 'comment' TEXT NOT NULL, PRIMARY KEY('unit_id'));
 insert into unit_enemy_data values (200100, 'ウキキー', 200100, 0, 0, 270, 800, 1, 3.5, 0, 0, 0, '【物理】遠距離攻撃\\n大きな岩を投げて、遠くから\\n攻撃してくるサルの魔物。');
 insert into unit_enemy_data values (200200, 'バルーンバード', 200200, 0, 0, 270, 800, 1, 3.0, 0, 0, 0, '【回復】範囲回復\\nぷっくりお腹に溜めた魔力を、\\n癒しの波動に変えるトリの魔物。');
 insert into unit_enemy_data values (200300, 'ゲートキーパー', 200300, 0, 0, 270, 200, 2, 3.5, 0, 0, 0, '【魔法】範囲攻撃\\n地獄のトビラを開き、火傷を伴う\\n炎を吐きだす魔界の番人。');

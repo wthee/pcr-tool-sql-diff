@@ -1,3 +1,4 @@
+CREATE TABLE 'music_content' ('music_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'total_playing_time' TEXT NOT NULL, 'listen_start_time' TEXT NOT NULL, 'detail' TEXT NOT NULL, 'sheet_id' TEXT NOT NULL, 'cue_id' TEXT NOT NULL, PRIMARY KEY('music_id'));
 insert into music_content values (1, 'Lost Princess', '01:33', '00:58', '角色歌曲\\n\\n時間 / 01:33\\n演唱\u3000 / 貪吃佩可（M‧A‧O）\\n\u3000\u3000\u3000可可蘿（伊藤美来）\\n\u3000\u3000\u3000凱留（立花理香）\\n作詞 / しほり\\n作曲 / 田中公平\\n編曲 / 根岸貴幸', 'bgm_M152', 'bgm_M152');
 insert into music_content values (2, 'Connecting Happy!!', '01:56', '01:01', '角色歌曲\\n\\n時間 / 01:56\\n演唱\u3000 / 貪吃佩可（M‧A‧O）\\n\u3000\u3000\u3000可可蘿（伊藤美来）\\n\u3000\u3000\u3000凱留（立花理香）\\n作詞 / 畑亜貴\\n作曲 / 高尾奏之介\\n編曲 / 奈良悠樹', 'bgm_M153', 'bgm_M153');
 insert into music_content values (3, '踏上旅程', '01:48', '00:00', '主線冒險\\n\\n時間 / 01:48\\n作曲 / 本田晃弘（Cygames）\\n編曲 / 伊藤翼', 'bgm_M61', 'bgm_M61_juke');

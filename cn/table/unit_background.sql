@@ -1,1 +1,0 @@
-CREATE TABLE 'unit_background' ('unit_id' INTEGER NOT NULL, 'unit_name' TEXT NOT NULL, 'bg_id' INTEGER NOT NULL, 'bg_name' TEXT NOT NULL, 'position' REAL NOT NULL, 'face_type' INTEGER NOT NULL, PRIMARY KEY('unit_id'))

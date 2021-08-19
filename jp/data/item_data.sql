@@ -1,3 +1,4 @@
+CREATE TABLE 'item_data' ('item_id' INTEGER NOT NULL, 'item_name' TEXT NOT NULL, 'description' TEXT NOT NULL, 'promotion_level' INTEGER NOT NULL, 'item_type' INTEGER NOT NULL, 'value' INTEGER NOT NULL, 'price' INTEGER NOT NULL, 'limit_num' INTEGER NOT NULL, 'gojuon_order' INTEGER NOT NULL, 'sell_check_disp' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('item_id'));
 insert into item_data values (20001, 'ミニEXPポーション', 'キャラのLv強化に使用すると、キャラEXPが60加算される。', 1, 1, 60, 80, 99999, 0, 0, '2015/12/17 15:00:00', '2030/08/01 14:59:59');
 insert into item_data values (20002, 'EXPポーション', 'キャラのLv強化に使用すると、キャラEXPが300加算される。', 2, 1, 300, 400, 99999, 0, 0, '2015/12/17 15:00:00', '2030/08/01 14:59:59');
 insert into item_data values (20003, 'EXPハイポーション', 'キャラのLv強化に使用すると、キャラEXPが1500加算される。', 3, 1, 1500, 2000, 99999, 0, 0, '2015/12/17 15:00:00', '2030/08/01 14:59:59');

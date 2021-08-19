@@ -1,3 +1,4 @@
+CREATE TABLE 'skip_boss_data' ('boss_id' INTEGER NOT NULL, 'skip_motion_id' INTEGER NOT NULL, 'skip_bg_id' INTEGER NOT NULL, 'skip_position_x' INTEGER NOT NULL, 'skip_position_y' INTEGER NOT NULL, 'skip_scale_x' REAL NOT NULL, 'skip_scale_y' REAL NOT NULL, PRIMARY KEY('boss_id'));
 insert into skip_boss_data values (1000101, 307500, 81001405, 0, 0, 1.0, 1.0);
 insert into skip_boss_data values (1000102, 307500, 81001406, 0, 0, 1.0, 1.0);
 insert into skip_boss_data values (1000201, 303800, 81000205, 0, 0, 1.0, 1.0);

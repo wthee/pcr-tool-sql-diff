@@ -1,1 +1,0 @@
-CREATE TABLE 'room_setup' ('room_item_id' INTEGER NOT NULL, 'grid_height' INTEGER NOT NULL, 'grid_width' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, PRIMARY KEY('room_item_id'))

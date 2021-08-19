@@ -1,3 +1,4 @@
+CREATE TABLE 'unit_comments' ('id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'use_type' INTEGER NOT NULL, 'voice_id' INTEGER NOT NULL, 'face_id' INTEGER NOT NULL, 'change_time' REAL NOT NULL, 'change_face' INTEGER NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
 insert into unit_comments values (1001001, 100101, 1, 1, 1, 4.0, 2, '只要大家开心，我就开心！\\n所以，来，笑一笑！');
 insert into unit_comments values (1001002, 100101, 1, 2, 1, 3.0, 2, '有困难时要互相帮助！\\n有什么事就找我商量吧！\\n我应该能帮得上忙的！');
 insert into unit_comments values (1001003, 100101, 1, 3, 1, 7.5, 2, '无论什么时候都要活力十足！\\n累了的时候要好好休息哦？\\n我……还很精神呢。');

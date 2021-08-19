@@ -1,3 +1,4 @@
+CREATE TABLE 'gacha_exchange_lineup' ('id' INTEGER NOT NULL, 'exchange_id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'rarity' INTEGER NOT NULL, 'gacha_bonus_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('id'));
 insert into gacha_exchange_lineup values (1, 27, 106101, 3, 0, '2019/02/15 23:00:00', '2019/02/28 11:59:59');
 insert into gacha_exchange_lineup values (2, 28, 101401, 3, 0, '2019/02/28 12:00:00', '2019/03/19 14:59:59');
 insert into gacha_exchange_lineup values (3, 29, 105501, 1, 0, '2019/03/19 15:00:00', '2019/03/26 14:59:59');

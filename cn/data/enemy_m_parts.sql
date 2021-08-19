@@ -1,3 +1,4 @@
+CREATE TABLE 'enemy_m_parts' ('enemy_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'child_enemy_parameter_1' INTEGER NOT NULL, 'child_enemy_parameter_2' INTEGER NOT NULL, 'child_enemy_parameter_3' INTEGER NOT NULL, 'child_enemy_parameter_4' INTEGER NOT NULL, 'child_enemy_parameter_5' INTEGER NOT NULL, PRIMARY KEY('enemy_id'));
 insert into enemy_m_parts values (401021505, '双子魔猪 第1阶段', 401021506, 401021507, 0, 0, 0);
 insert into enemy_m_parts values (401021905, '暴食魔兽 第1阶段', 401021906, 401021907, 401021908, 0, 0);
 insert into enemy_m_parts values (401022105, '人马射手 第1阶段', 401022106, 401022107, 0, 0, 0);

@@ -1,3 +1,4 @@
+CREATE TABLE 'campaign_schedule' ('id' INTEGER NOT NULL, 'campaign_category' INTEGER NOT NULL, 'value' REAL NOT NULL, 'system_id' INTEGER NOT NULL, 'icon_image' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'level_id' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into campaign_schedule values (1, 31, 3000.0, 101, 30, '2020/01/01 0:00:00', '2020/04/24 4:59:59', 0);
 insert into campaign_schedule values (2, 41, 3000.0, 101, 40, '2020/04/18 5:00:00', '2020/04/24 4:59:59', 0);
 insert into campaign_schedule values (3, 34, 3000.0, 103, 30, '2020/04/23 5:00:00', '2020/04/30 4:59:59', 0);

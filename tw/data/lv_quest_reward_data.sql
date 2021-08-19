@@ -1,3 +1,4 @@
+CREATE TABLE 'lv_quest_reward_data' ('id' INTEGER NOT NULL, 'quest_id' INTEGER NOT NULL, 'level_from' INTEGER NOT NULL, 'max_to' INTEGER NOT NULL, 'wave_group_id_1' INTEGER NOT NULL, 'wave_group_id_2' INTEGER NOT NULL, 'wave_group_id_3' INTEGER NOT NULL, PRIMARY KEY('quest_id','level_from','max_to'));
 insert into lv_quest_reward_data values (1, 18001001, 1, 59, 180010111, 180010112, 180010113);
 insert into lv_quest_reward_data values (2, 18001001, 60, 99, 180010211, 180010212, 180010213);
 insert into lv_quest_reward_data values (3, 18001001, 100, 119, 180010311, 180010312, 180010313);

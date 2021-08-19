@@ -1,3 +1,4 @@
+CREATE TABLE 'hatsune_description' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
 insert into hatsune_description values (1, 10001, 1, '可透過活動，體驗特別的劇情。\\n活動劇情將於進入活動冒險後解放。');
 insert into hatsune_description values (2, 10001, 1, '進入活動冒險後，BOSS將登場。\\n使用BOSS挑戰券 ，即可挑戰BOSS。\\n擊敗BOSS將獲得大量的討伐證，所以請盡量挑戰吧。');
 insert into hatsune_description values (3, 10001, 1, '交換討伐證將是得到獎勵的契機。\\n獎勵之中，也包含在活動中登場之角色的記憶碎片。\\n多多蒐集，將角色變成夥伴吧。');

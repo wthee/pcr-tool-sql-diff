@@ -1,3 +1,4 @@
+CREATE TABLE 'arcade_story_list' ('story_id' INTEGER NOT NULL, 'arcade_id' INTEGER NOT NULL, 'sub_title' TEXT NOT NULL, PRIMARY KEY('story_id'));
 insert into arcade_story_list values (5021700, 1003, '和香织在海边大特训！');
 insert into arcade_story_list values (5021701, 1003, '以礼而始以礼而终');
 insert into arcade_story_list values (5021710, 1003, '挑战自己的极限');

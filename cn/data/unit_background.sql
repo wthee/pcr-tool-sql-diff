@@ -1,3 +1,4 @@
+CREATE TABLE 'unit_background' ('unit_id' INTEGER NOT NULL, 'unit_name' TEXT NOT NULL, 'bg_id' INTEGER NOT NULL, 'bg_name' TEXT NOT NULL, 'position' REAL NOT NULL, 'face_type' INTEGER NOT NULL, PRIMARY KEY('unit_id'));
 insert into unit_background values (100101, '春咲日和莉', 500040, '兰德索尔 公会之家', 0.0, 9);
 insert into unit_background values (100201, '草野优衣', 500040, '兰德索尔 公会之家', 0.0, 4);
 insert into unit_background values (100301, '士条怜', 500040, '兰德索尔 公会之家', 0.0, 3);

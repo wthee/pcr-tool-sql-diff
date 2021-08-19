@@ -1,3 +1,4 @@
+CREATE TABLE 'dodge_tp_recovery' ('system_id' INTEGER NOT NULL, 'recovery_ratio' REAL NOT NULL, PRIMARY KEY('system_id'));
 insert into dodge_tp_recovery values (101, 0.0);
 insert into dodge_tp_recovery values (102, 0.0);
 insert into dodge_tp_recovery values (103, 0.0);

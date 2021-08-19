@@ -1,3 +1,4 @@
+CREATE TABLE 'sd_navi_comment' ('comment_id' INTEGER NOT NULL, 'where_type' INTEGER NOT NULL, 'character_id' INTEGER NOT NULL, 'motion_type' INTEGER NOT NULL, 'description' TEXT , 'voice_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('comment_id'));
 insert into sd_navi_comment values (1000001, 1000, 190801, 13, '我准备了各式各样的\\n小游戏哦！\\n要玩哪种小游戏？', 0, '2020-01-01 0:00:00', '2099-12-31 23:59:59');
 insert into sd_navi_comment values (1000002, 1000, 190801, 13, '给你介绍有趣的小游戏！\\n你要玩哪种\\n小游戏呢？', 0, '2020-01-01 0:00:00', '2099-12-31 23:59:59');
 insert into sd_navi_comment values (1001001, 1001, 190801, 13, '价格为{0}金币，\\n正在售卖中！\\n请一定要购入\\n游玩哦！', 0, '2020-01-01 0:00:00', '2099-12-31 23:59:59');

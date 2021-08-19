@@ -1,3 +1,4 @@
+CREATE TABLE 'srt_action' ('action_name' TEXT NOT NULL, 'inori_action' TEXT NOT NULL, 'dragon_action' TEXT NOT NULL, 'kaya_action' TEXT NOT NULL, 'homare_action' TEXT NOT NULL, 'talk_text_type' INTEGER NOT NULL, 'talk_text' TEXT NOT NULL, 'voice_list' TEXT NOT NULL, PRIMARY KEY('action_name'));
 insert into srt_action values ('GAME_START', 'srt_inori_idle', 'srt_dragon_in,srt_dragon_idle', 'srt_kaya_idle', '', 0, '', 'start_000-start_001,start_002/start_003-boss_emote_064-start_004');
 insert into srt_action values ('ENEMY_FIRST', 'srt_inori_idle', 'srt_dragon_idle', 'srt_kaya_idle', '', 2, '首先由我先來吧！', '');
 insert into srt_action values ('ENEMY_TURN1', 'srt_inori_idle', 'srt_dragon_idle', 'srt_kaya_waiting', '', 2, '「{0}」嗎？\\n由「{1}」韻來開頭的有……', '');

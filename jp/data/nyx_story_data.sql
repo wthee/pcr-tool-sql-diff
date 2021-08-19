@@ -1,3 +1,4 @@
+CREATE TABLE 'nyx_story_data' ('story_id' INTEGER NOT NULL, 'story_seq' INTEGER NOT NULL, 'story_phase' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'sub_title' TEXT NOT NULL, 'read_condition_time' TEXT NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_boss_count' INTEGER NOT NULL, 'adv_flg' INTEGER NOT NULL, 'adv_id' INTEGER NOT NULL, PRIMARY KEY('story_id'));
 insert into nyx_story_data values (11, 1, 1, '', '', '0', 10065105, 0, 1, 5038600);
 insert into nyx_story_data values (12, 2, 1, '高等部１年\u3000チエル', '次世代へ継承すべき新言語', '0', 10065105, 0, 0, 0);
 insert into nyx_story_data values (13, 3, 1, '高等部２年\u3000クロエ', '私はとても作文が苦手です', '0', 10065107, 0, 0, 0);

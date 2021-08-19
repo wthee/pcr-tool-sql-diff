@@ -1,1 +1,0 @@
-CREATE TABLE 'campaign_schedule' ('id' INTEGER NOT NULL, 'campaign_category' INTEGER NOT NULL, 'value' REAL NOT NULL, 'system_id' INTEGER NOT NULL, 'icon_image' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'level_id' INTEGER NOT NULL, 'shiori_group_id' INTEGER NOT NULL, 'duplication_order' INTEGER NOT NULL, PRIMARY KEY('id'))

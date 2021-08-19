@@ -1,3 +1,4 @@
+CREATE TABLE 'clanprofile_content' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into clanprofile_content values (1, '美食殿堂', '2020-01-01 0:00:00', '', 12);
 insert into clanprofile_content values (2, '破晓之星', '2020-01-01 0:00:00', '', 13);
 insert into clanprofile_content values (3, '拉比林斯', '2020-01-01 0:00:00', '', 14);

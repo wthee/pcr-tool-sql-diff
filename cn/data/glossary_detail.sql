@@ -1,3 +1,4 @@
+CREATE TABLE 'glossary_detail' ('glossary_id' INTEGER NOT NULL, 'glossary_category_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'description' TEXT NOT NULL, 'unlock_story_id' INTEGER NOT NULL, 'category_type' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('glossary_id'));
 insert into glossary_detail values (1001, 1, '阿克托伊商会', '会长是大坏蛋「阿克托伊」，放高利贷、拐卖人口、走私违法武器……是一家无恶不作的黑心商会。阿克托伊说话彬彬有礼，但他其实是个恶棍。真正的坏人经常是表里不一的。', 0, 1, 1);
 insert into glossary_detail values (1002, 1, '阿斯特莱亚大陆', '世界最大的大陆。大陆的中心是大型都市・兰德索尔，索尔之塔在其上空高高耸立着。', 0, 1, 2);
 insert into glossary_detail values (1003, 1, '阿斯特朗', '这个词的意思是整个世界。它也是阿斯特莱亚大陆的语源。只是，「阿斯特朗」这个词的语源尚未有所定论。', 0, 1, 3);

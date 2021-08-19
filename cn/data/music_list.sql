@@ -1,3 +1,4 @@
+CREATE TABLE 'music_list' ('music_id' INTEGER NOT NULL, 'list_name' TEXT NOT NULL, 'font_size' REAL NOT NULL, 'pre_shop_start' TEXT NOT NULL, 'shop_start' TEXT NOT NULL, 'shop_end' TEXT NOT NULL, 'story_id' INTEGER NOT NULL, 'cost_item_num' INTEGER NOT NULL, 'sort' INTEGER NOT NULL, 'kana' TEXT NOT NULL, 'ios_url' TEXT NOT NULL, 'android_url' TEXT NOT NULL, 'dmm_url' TEXT NOT NULL, PRIMARY KEY('music_id'));
 insert into music_list values (1, 'Lost Princess', 20.0, '', '2020/01/01 0:00:00', '', -1, -1, 1, 'ろすとぷりんせす', '', '', '');
 insert into music_list values (2, 'Connecting Happy!!', 17.0, '', '2020/01/01 0:00:00', '', -1, -1, 2, 'こねくてぃんぐはっぴー', '', '', '');
 insert into music_list values (3, '旅の始まり', 20.0, '', '2020/01/01 0:00:00', '', -1, 1000, 3, 'たびのはじまり', '', '', '');

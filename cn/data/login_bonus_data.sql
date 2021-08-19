@@ -1,3 +1,4 @@
+CREATE TABLE 'login_bonus_data' ('login_bonus_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'login_bonus_type' INTEGER NOT NULL, 'count_num' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'bg_id' INTEGER NOT NULL, 'stamp_id' INTEGER NOT NULL, 'odds_group_id' INTEGER NOT NULL, 'adv_play_type' INTEGER NOT NULL, 'count_type' INTEGER NOT NULL, PRIMARY KEY('login_bonus_id'));
 insert into login_bonus_data values (20000, '新手冲刺登录庆典', 2, 10, '2020/01/01 5:00:00', '2099/12/31 23:59:59', 530100, 0, 0, 0, 0);
 insert into login_bonus_data values (30000, '登录奖励', 3, 15, '2020/01/01 5:00:00', '2099/12/31 23:59:59', 0, 0, 0, 0, 0);
 insert into login_bonus_data values (40001, '夏日登录活动 第2期', 4, 10, '2020/08/30 5:00:00', '2020/09/14 4:59:59', 500160, 1, 0, 0, 0);

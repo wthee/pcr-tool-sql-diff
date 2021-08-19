@@ -1,3 +1,4 @@
+CREATE TABLE 'goldset_data' ('id' INTEGER NOT NULL, 'buy_count' INTEGER NOT NULL, 'use_jewel_count' INTEGER NOT NULL, 'get_gold_count' INTEGER NOT NULL, 'goldset_odds_1' INTEGER NOT NULL, 'goldset_odds_2' INTEGER NOT NULL, 'goldset_odds_3' INTEGER NOT NULL, 'additional_gold_min_rate' INTEGER NOT NULL, 'additional_gold_max_rate' INTEGER NOT NULL, PRIMARY KEY('buy_count'));
 insert into goldset_data values (1, 1, 10, 12000, 90001, 0, 90043, 10000, 30000);
 insert into goldset_data values (2, 2, 20, 24000, 90002, 0, 90047, 10000, 30000);
 insert into goldset_data values (3, 3, 20, 24000, 90002, 0, 90047, 10000, 30000);

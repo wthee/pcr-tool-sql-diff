@@ -1,3 +1,4 @@
+CREATE TABLE 'hatsune_diary_data' ('diary_id' INTEGER NOT NULL, 'contents_type' INTEGER NOT NULL, 'diary_date' INTEGER NOT NULL, 'sub_title' TEXT NOT NULL, 'forced_release_time' TEXT NOT NULL, 'condition_time' TEXT NOT NULL, 'condition_story_id' INTEGER NOT NULL, 'condition_boss_count' INTEGER NOT NULL, PRIMARY KEY('diary_id'));
 insert into hatsune_diary_data values (1, 0, 1, '為什麼會發\\n生這種事？', '2030/01/01 01:00:00', '2020/12/18 05:00:00', 5023000, 0);
 insert into hatsune_diary_data values (2, 0, 2, '竟然說不出\\n日安這句話', '2030/01/01 01:00:00', '2020/12/18 05:00:00', 5023001, 0);
 insert into hatsune_diary_data values (3, 0, 3, '搞砸了！', '2030/01/01 01:00:00', '2020/12/18 05:00:00', 5023002, 0);

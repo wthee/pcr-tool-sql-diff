@@ -1,3 +1,4 @@
+CREATE TABLE 'hatsune_boss_enemy_setting' ('boss_id' INTEGER NOT NULL, 'enemy_identify' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'must_kill_flag' INTEGER NOT NULL, 'event_boss_treasure_box_id' INTEGER NOT NULL, 'reward_gold_coefficient' REAL NOT NULL, 'reward_gold_limit' INTEGER NOT NULL, 'detail_offset_x' INTEGER NOT NULL, 'detail_offset_y' INTEGER NOT NULL, 'detail_scale' REAL NOT NULL, 'map_offset_x' INTEGER NOT NULL, 'map_offset_y' INTEGER NOT NULL, 'map_scale' REAL NOT NULL, 'map_depth' INTEGER NOT NULL, PRIMARY KEY('boss_id','enemy_identify'));
 insert into hatsune_boss_enemy_setting values (1005001, 2, 10050, 0, 0, 0.0, 100000, 0, 0, 1.5, 30, -30, 1.7, 10);
 insert into hatsune_boss_enemy_setting values (1005001, 1, 10050, 1, 10050101, 0.03, 100000, 0, -40, 1.5, -17, 25, 1.7, 0);
 insert into hatsune_boss_enemy_setting values (1005001, 3, 10050, 0, 0, 0.0, 100000, 0, -23, 1.5, -32, -47, 1.7, 10);

@@ -1,3 +1,4 @@
+CREATE TABLE 'hatsune_map_event' ('id' INTEGER NOT NULL, 'target_event_id' INTEGER NOT NULL, 'event_type' INTEGER NOT NULL, 'condition_id' INTEGER NOT NULL, 'param1' INTEGER NOT NULL, 'param2' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into hatsune_map_event values (10008001, 10008, 1, 10008103, 1, 0);
 insert into hatsune_map_event values (10008002, 10008, 1, 10008104, 2, 0);
 insert into hatsune_map_event values (10008003, 10008, 1, 10008105, 3, 0);

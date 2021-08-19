@@ -1,3 +1,4 @@
+CREATE TABLE 'gacha_exchange_lineup' ('id' INTEGER NOT NULL, 'exchange_id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'rarity' INTEGER NOT NULL, 'gacha_bonus_id' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into gacha_exchange_lineup values (1, 1, 104701, 3, 0);
 insert into gacha_exchange_lineup values (2, 2, 101001, 3, 0);
 insert into gacha_exchange_lineup values (3, 2, 104301, 3, 0);

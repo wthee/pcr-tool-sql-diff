@@ -1,3 +1,4 @@
+CREATE TABLE 'chara_fortune_scenario' ('scenario_id' INTEGER NOT NULL, 'rail_1' INTEGER NOT NULL, 'rail_2' INTEGER NOT NULL, 'rail_3' INTEGER NOT NULL, 'rail_4' INTEGER NOT NULL, PRIMARY KEY('scenario_id'));
 insert into chara_fortune_scenario values (1, 1041, 1045, 1048, 1033);
 insert into chara_fortune_scenario values (2, 1007, 1013, 1000, 1010);
 insert into chara_fortune_scenario values (3, 1025, 1016, 1019, 1022);

@@ -1,3 +1,4 @@
+CREATE TABLE 'sekai_add_times_data' ('id' INTEGER NOT NULL, 'sekai_id' INTEGER NOT NULL, 'add_times' INTEGER NOT NULL, 'add_times_limit' INTEGER NOT NULL, 'add_times_time' TEXT NOT NULL, 'duration' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into sekai_add_times_data values (1, 1001, 6, 10, '2019/04/01', 0);
 insert into sekai_add_times_data values (2, 1001, 2, 10, '2019/04/01 2:00:00', 120);
 insert into sekai_add_times_data values (3, 1001, 2, 10, '2019/04/01 4:00:00', 120);

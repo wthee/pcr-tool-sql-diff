@@ -1,3 +1,4 @@
+CREATE TABLE 'svd_drama_script' ('command_id' INTEGER NOT NULL, 'drama_id' INTEGER NOT NULL, 'command_type' INTEGER NOT NULL, 'param_01' TEXT NOT NULL, 'param_02' TEXT NOT NULL, 'param_03' TEXT NOT NULL, 'param_04' TEXT NOT NULL, 'param_05' TEXT NOT NULL, 'param_06' TEXT NOT NULL, 'param_07' TEXT NOT NULL, 'param_08' TEXT NOT NULL, PRIMARY KEY('command_id'));
 insert into svd_drama_script values (1007001001, 1007001, 5, '2', '113511', '100', '-750', '-300', '2.08', '0', 'svd_idle_normal');
 insert into svd_drama_script values (1007001002, 1007001, 5, '1', '113411', '100', '750', '-300', '2.08', '1', 'svd_idle_normal');
 insert into svd_drama_script values (1007001003, 1007001, 5, '3', '333', '0', '0', '0', '1', '0', 'svd_white_loop');

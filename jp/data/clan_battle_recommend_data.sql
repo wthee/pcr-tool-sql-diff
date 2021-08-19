@@ -1,3 +1,4 @@
+CREATE TABLE 'clan_battle_recommend_data' ('level_id' INTEGER NOT NULL, 'recommend_group' INTEGER NOT NULL, 'level_from' INTEGER NOT NULL, 'level_to' INTEGER NOT NULL, 'atack_party_count' INTEGER NOT NULL, 'magic_party_count' INTEGER NOT NULL, PRIMARY KEY('level_id'));
 insert into clan_battle_recommend_data values (1, 1, 10, 60, 2, 2);
 insert into clan_battle_recommend_data values (2, 1, 61, 80, 2, 2);
 insert into clan_battle_recommend_data values (3, 1, 81, 100, 2, 2);

@@ -1,3 +1,4 @@
+CREATE TABLE 'kaiser_restriction_group' ('restriction_group_id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, PRIMARY KEY('restriction_group_id','unit_id'));
 insert into kaiser_restriction_group values (2001, 100101);
 insert into kaiser_restriction_group values (2001, 100201);
 insert into kaiser_restriction_group values (2001, 100301);

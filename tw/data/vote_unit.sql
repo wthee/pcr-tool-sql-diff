@@ -1,3 +1,4 @@
+CREATE TABLE 'vote_unit' ('vote_id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'unit_rarity' INTEGER NOT NULL, PRIMARY KEY('vote_id','unit_id'));
 insert into vote_unit values (1, 100101, 1);
 insert into vote_unit values (1, 100201, 1);
 insert into vote_unit values (1, 100301, 1);

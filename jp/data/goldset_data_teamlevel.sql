@@ -1,3 +1,4 @@
+CREATE TABLE 'goldset_data_teamlevel' ('id' INTEGER NOT NULL, 'team_level' INTEGER NOT NULL, 'initial_get_gold_count' INTEGER NOT NULL, PRIMARY KEY('team_level'));
 insert into goldset_data_teamlevel values (1, 1, 0);
 insert into goldset_data_teamlevel values (2, 2, 0);
 insert into goldset_data_teamlevel values (3, 3, 0);

@@ -1,3 +1,4 @@
+CREATE TABLE 'unit_introduction' ('id' INTEGER NOT NULL, 'gacha_id' INTEGER NOT NULL, 'introduction_number' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'maximum_chunk_size_1' INTEGER NOT NULL, 'maximum_chunk_size_loop_1' INTEGER NOT NULL, 'maximum_chunk_size_2' INTEGER NOT NULL, 'maximum_chunk_size_loop_2' INTEGER NOT NULL, 'maximum_chunk_size_3' INTEGER NOT NULL, 'maximum_chunk_size_loop_3' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into unit_introduction values (2, 30002, 1, '2020/04/23 13:00:00', '2020/05/07 12:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (3, 30003, 1, '2020/05/07 13:00:00', '2020/05/15 10:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (4, 30004, 1, '2020/05/15 11:00:00', '2020/05/28 10:59:59', 380000, 380000, 0, 0, 0, 0);

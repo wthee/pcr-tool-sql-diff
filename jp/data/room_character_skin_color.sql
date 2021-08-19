@@ -1,3 +1,4 @@
+CREATE TABLE 'room_character_skin_color' ('character_id' INTEGER NOT NULL, 'skin_color_id' INTEGER NOT NULL, PRIMARY KEY('character_id'));
 insert into room_character_skin_color values (1001, 1);
 insert into room_character_skin_color values (1002, 1);
 insert into room_character_skin_color values (1003, 1);

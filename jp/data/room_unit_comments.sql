@@ -1,3 +1,4 @@
+CREATE TABLE 'room_unit_comments' ('id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'trigger' INTEGER NOT NULL, 'voice_id' INTEGER NOT NULL, 'beloved_step' INTEGER NOT NULL, 'time' INTEGER NOT NULL, 'face_id' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'insert_word_type' INTEGER NOT NULL, PRIMARY KEY('unit_id','trigger','voice_id','time'));
 insert into room_unit_comments values (1, 100101, 1, 1, 1, 0, 1, 'ここに困ってる人は\\nいないよね…？\\nよかった♪', 0);
 insert into room_unit_comments values (2, 100101, 1, 2, 1, 0, 1, '冒険の準備準備…\\nうん、忘れ物はなし！\\n…あっ！', 0);
 insert into room_unit_comments values (3, 100101, 1, 3, 1, 0, 1, 'リズムを意識して…\\nわんつーわんつー！\\nうん、調子はバッチリ', 0);

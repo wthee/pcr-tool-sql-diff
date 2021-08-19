@@ -1,3 +1,4 @@
+CREATE TABLE 'item_data' ('item_id' INTEGER NOT NULL, 'item_name' TEXT NOT NULL, 'description' TEXT NOT NULL, 'promotion_level' INTEGER NOT NULL, 'item_type' INTEGER NOT NULL, 'value' INTEGER NOT NULL, 'price' INTEGER NOT NULL, 'limit_num' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('item_id'));
 insert into item_data values (20001, '迷你经验药剂', '用于角色的等级强化，角色经验增加60。', 1, 1, 60, 80, 99999, '2020/01/01 0:00:00', '2099/12/31 23:59:59');
 insert into item_data values (20002, '经验药剂', '用于角色的等级强化，角色经验增加300。', 2, 1, 300, 400, 99999, '2020/01/01 0:00:00', '2099/12/31 23:59:59');
 insert into item_data values (20003, '高级经验药剂', '用于角色的等级强化，角色经验增加1500。', 3, 1, 1500, 2000, 99999, '2020/01/01 0:00:00', '2099/12/31 23:59:59');

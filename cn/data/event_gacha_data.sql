@@ -1,3 +1,4 @@
+CREATE TABLE 'event_gacha_data' ('gacha_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'gacha_name' TEXT NOT NULL, 'item_type' INTEGER NOT NULL, 'item_id' INTEGER NOT NULL, 'cost' INTEGER NOT NULL, 'repeat_step' INTEGER NOT NULL, PRIMARY KEY('gacha_id'));
 insert into event_gacha_data values (10001, 10001, '初音盒子扭蛋', 2, 60002, 1, 5);
 insert into event_gacha_data values (10002, 10002, '小小甜心冒险家讨伐证交换', 2, 60012, 1, 5);
 insert into event_gacha_data values (10004, 10004, '危险假日！海边的美食家公主', 2, 60032, 1, 5);

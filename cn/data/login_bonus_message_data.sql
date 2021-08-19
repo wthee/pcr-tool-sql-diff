@@ -1,3 +1,4 @@
+CREATE TABLE 'login_bonus_message_data' ('id' INTEGER NOT NULL, 'login_bonus_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'day_count' INTEGER NOT NULL, 'luck_pattern' INTEGER NOT NULL, 'rate' INTEGER NOT NULL, 'character_id' INTEGER NOT NULL, 'character_name' TEXT NOT NULL, 'message' TEXT NOT NULL, 'voice_id' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into login_bonus_message_data values (1, 60000, 1, 0, 0, 1, 190804, '花凛', '新年来临，要不要用抽签\\n来占卜一下新一天的运势呢？\\n运势越好，\\n越能获得大量的礼物哦♪', 1);
 insert into login_bonus_message_data values (2, 60000, 2, 0, 1, 1, 0, '', '今日运势是姬吉！所有方面的运气都是最好的！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000现在的你甚至可以征服「传说中的吸血鬼」，称霸世界也不是梦！', 0);
 insert into login_bonus_message_data values (3, 60000, 2, 0, 1, 1, 0, '', '今日运势是姬吉！做什么都很顺利！超棒的对吧☆\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000幸运物品是饭团！能吃得饱饱的，继续幸福下去！', 0);

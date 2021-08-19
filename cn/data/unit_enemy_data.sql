@@ -1,3 +1,4 @@
+CREATE TABLE 'unit_enemy_data' ('unit_id' INTEGER NOT NULL, 'unit_name' TEXT NOT NULL, 'prefab_id' INTEGER NOT NULL, 'motion_type' INTEGER NOT NULL, 'se_type' INTEGER NOT NULL, 'move_speed' INTEGER NOT NULL, 'search_area_width' INTEGER NOT NULL, 'atk_type' INTEGER NOT NULL, 'normal_atk_cast_time' REAL NOT NULL, 'cutin' INTEGER NOT NULL, 'cutin_star6' INTEGER NOT NULL, 'visual_change_flag' INTEGER NOT NULL, 'comment' TEXT NOT NULL, PRIMARY KEY('unit_id'));
 insert into unit_enemy_data values (200100, '长耳猴', 200100, 0, 0, 270, 800, 1, 3.5, 0, 0, 0, '【物理】远距离攻击\\n会投掷巨大的岩石，能从远处\\n进动攻击的猴类魔物。');
 insert into unit_enemy_data values (200200, '气球鸟', 200200, 0, 0, 270, 800, 1, 3.0, 0, 0, 0, '【回复】范围回复\\n将腹部积攒的满满魔力\\n变为治愈波动的鸟类魔物。');
 insert into unit_enemy_data values (200300, '魔界守门人', 200300, 0, 0, 270, 200, 2, 3.5, 0, 0, 0, '【魔法】范围攻击\\n打开地狱之门，吐出\\n伴随灼伤的火焰的魔界守门人。');

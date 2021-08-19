@@ -1,3 +1,4 @@
+CREATE TABLE 'room_chat_scenario' ('id' INTEGER NOT NULL, 'scenario_idx' INTEGER NOT NULL, 'unit_pos_no' INTEGER NOT NULL, 'delay' INTEGER NOT NULL, 'affect_type' INTEGER NOT NULL, 'anime_id' INTEGER NOT NULL, 'icon_id' INTEGER NOT NULL, PRIMARY KEY('id','scenario_idx'));
 insert into room_chat_scenario values (1, 1, 1, 0, 1, 1, 0);
 insert into room_chat_scenario values (1, 2, 2, 0, 1, 4, 0);
 insert into room_chat_scenario values (1, 3, 1, 0, 1, 5, 12);

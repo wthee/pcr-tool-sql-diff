@@ -1,1 +1,0 @@
-CREATE TABLE 'story_character_mask' ('chara_id' INTEGER NOT NULL, 'offset' REAL NOT NULL, 'size' REAL NOT NULL, 'softness' REAL NOT NULL, PRIMARY KEY('chara_id'))

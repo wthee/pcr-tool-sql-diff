@@ -1,3 +1,4 @@
+CREATE TABLE 'voice_group_chara' ('group_unit_id' INTEGER NOT NULL, 'group_unit_id_comment' TEXT NOT NULL, 'unit_id_01' INTEGER NOT NULL, 'unit_id_02' INTEGER NOT NULL, 'unit_id_03' INTEGER NOT NULL, 'unit_id_04' INTEGER NOT NULL, 'unit_id_05' INTEGER NOT NULL, 'unit_id_06' INTEGER NOT NULL, 'unit_id_07' INTEGER NOT NULL, 'unit_id_08' INTEGER NOT NULL, 'unit_id_09' INTEGER NOT NULL, 'unit_id_10' INTEGER NOT NULL, PRIMARY KEY('group_unit_id'));
 insert into voice_group_chara values (100101001, '破晓之星（日和莉）', 100101, 108701, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100201001, '破晓之星（优衣）', 100201, 108801, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100301001, '破晓之星（怜）', 100301, 108901, 0, 0, 0, 0, 0, 0, 0, 0);

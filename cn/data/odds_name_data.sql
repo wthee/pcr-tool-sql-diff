@@ -1,3 +1,4 @@
+CREATE TABLE 'odds_name_data' ('id' INTEGER NOT NULL, 'odds_file' TEXT NOT NULL, 'name' TEXT NOT NULL, 'icon_type' INTEGER NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
 insert into odds_name_data values (1, 'box_rank_1-3', '随机装备箱', 99002, '能获取随机装备。');
 insert into odds_name_data values (2, 'eq_rank_3-6', 'RANK3~6的装备道具', 99002, '角色RANK1~4所需装备道具');
 insert into odds_name_data values (3, 'eq_rank_4-7', 'RANK4~7的装备道具', 99002, '角色RANK4~7所需装备道具');

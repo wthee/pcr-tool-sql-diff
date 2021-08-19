@@ -1,1 +1,0 @@
-CREATE TABLE 'skip_monster_data' ('quest_id' INTEGER NOT NULL, 'area_id' INTEGER NOT NULL, 'quest_name' TEXT NOT NULL, 'wave_group_id_1' INTEGER NOT NULL, 'bg_skip_id' INTEGER NOT NULL, PRIMARY KEY('quest_id'))

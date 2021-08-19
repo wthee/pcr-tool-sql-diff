@@ -1,3 +1,4 @@
+CREATE TABLE 'room_effect_reward_get' ('id' INTEGER NOT NULL, 'level' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'max_count' INTEGER NOT NULL, 'inc_step' INTEGER NOT NULL, 'interval_second' INTEGER NOT NULL, PRIMARY KEY('id','level'));
 insert into room_effect_reward_get values (1, 1, 2, 23001, 2, 1, 21600);
 insert into room_effect_reward_get values (1, 2, 2, 23001, 3, 1, 19800);
 insert into room_effect_reward_get values (1, 3, 2, 23001, 3, 1, 18000);

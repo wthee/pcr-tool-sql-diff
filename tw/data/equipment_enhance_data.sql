@@ -1,3 +1,4 @@
+CREATE TABLE 'equipment_enhance_data' ('promotion_level' INTEGER NOT NULL, 'equipment_enhance_level' INTEGER NOT NULL, 'needed_point' INTEGER NOT NULL, 'total_point' INTEGER NOT NULL, PRIMARY KEY('promotion_level','equipment_enhance_level'));
 insert into equipment_enhance_data values (2, 1, 20, 20);
 insert into equipment_enhance_data values (3, 1, 30, 30);
 insert into equipment_enhance_data values (3, 2, 50, 80);

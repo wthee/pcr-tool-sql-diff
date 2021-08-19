@@ -1,3 +1,4 @@
+CREATE TABLE 'campaign_freegacha_data' ('id' INTEGER NOT NULL, 'campaign_id' INTEGER NOT NULL, 'gacha_id' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into campaign_freegacha_data values (1, 1, 30009);
 insert into campaign_freegacha_data values (2, 2, 30011);
 insert into campaign_freegacha_data values (3, 3, 30016);

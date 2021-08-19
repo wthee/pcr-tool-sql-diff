@@ -1,3 +1,4 @@
+CREATE TABLE 'pkb_drama' ('command_id' INTEGER NOT NULL, 'drama_id' INTEGER NOT NULL, 'command_type' INTEGER NOT NULL, 'param_01' TEXT NOT NULL, 'param_02' TEXT NOT NULL, 'param_03' TEXT NOT NULL, 'param_04' TEXT NOT NULL, 'param_05' TEXT NOT NULL, 'param_06' TEXT NOT NULL, 'param_07' TEXT NOT NULL, 'param_08' TEXT NOT NULL, PRIMARY KEY('command_id'));
 insert into pkb_drama values (1010001, 1, 1, '1', '113511', '100', '64', '-175', '1.65', '1', 'pkb_idle_normal');
 insert into pkb_drama values (1010002, 1, 3, '113511', 'pkb_talk_wish', '1', '', '', '0.2', '', '');
 insert into pkb_drama values (1010003, 1, 21, 'vo_minigame_1006', 'vo_minigame_1006_top_101', '0', '0', '', '', '', '');

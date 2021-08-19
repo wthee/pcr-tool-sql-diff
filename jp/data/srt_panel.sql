@@ -1,3 +1,4 @@
+CREATE TABLE 'srt_panel' ('reading_id' INTEGER NOT NULL, 'reading' TEXT NOT NULL, 'read_type' INTEGER NOT NULL, 'panel_id' INTEGER NOT NULL, 'detail_text' TEXT NOT NULL, 'version' INTEGER NOT NULL, PRIMARY KEY('reading_id'));
 insert into srt_panel values (1000100, 'リンゴ', 1, 10001, '赤くて甘酸っぱい果物。', 1);
 insert into srt_panel values (1000101, 'アップル', 2, 10001, '「リンゴ」の英語読み。', 1);
 insert into srt_panel values (1000102, 'きんだんのかじつ', 2, 10001, '知恵の樹になると言われる果物。実はリンゴじゃなかった説もあるとかないとか。', 1);

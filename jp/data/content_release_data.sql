@@ -1,3 +1,4 @@
+CREATE TABLE 'content_release_data' ('system_id' INTEGER NOT NULL, 'team_level' INTEGER NOT NULL, 'story_id' INTEGER NOT NULL, 'quest_id' INTEGER NOT NULL, 'dialog' TEXT NOT NULL, PRIMARY KEY('system_id'));
 insert into content_release_data values (101, 1, 0, 0, '');
 insert into content_release_data values (102, 1, 0, 11002008, 'メインクエスト2-8（NORMAL）クリアで解放');
 insert into content_release_data values (103, 1, 0, 11002005, 'メインクエスト\\n2-5（NORMAL）\\nクリアで解放');

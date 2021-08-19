@@ -1,3 +1,4 @@
+CREATE TABLE 'story_data' ('story_group_id' INTEGER NOT NULL, 'story_type' INTEGER NOT NULL, 'value' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'thumbnail_id' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'order' INTEGER NOT NULL, 'condition_free_flag' INTEGER NOT NULL, 'gojuon_order' INTEGER NOT NULL, PRIMARY KEY('story_group_id'));
 insert into story_data values (1001, 1, 1001, 'ヒヨリ', 0, 64, '2015/04/01 15:00:00', '2030/12/17 14:59:59', 0, 0, 517411);
 insert into story_data values (1002, 1, 1002, 'ユイ', 0, 88, '2015/04/01 15:00:00', '2030/12/17 14:59:59', 0, 0, 720111);
 insert into story_data values (1003, 1, 1003, 'レイ', 0, 104, '2015/04/01 15:00:00', '2030/12/17 14:59:59', 0, 0, 830111);

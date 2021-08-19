@@ -1,3 +1,4 @@
+CREATE TABLE 'hatsune_unlock_story_condition' ('story_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'condition_entry' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_boss_id' INTEGER NOT NULL, 'condition_mission_id' INTEGER NOT NULL, 'condition_time' TEXT NOT NULL, PRIMARY KEY('story_id'));
 insert into hatsune_unlock_story_condition values (5001000, 10014, 1, 0, 0, 0, '0');
 insert into hatsune_unlock_story_condition values (5001001, 10014, 0, 10014103, 0, 0, '0');
 insert into hatsune_unlock_story_condition values (5001002, 10014, 0, 10014105, 0, 0, '0');

@@ -1,3 +1,4 @@
+CREATE TABLE 'hatsune_relay_data' ('relay_story_id' INTEGER NOT NULL, 'is_enable_read' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'story_seq' INTEGER NOT NULL, 'sub_title' TEXT NOT NULL, PRIMARY KEY('relay_story_id'));
 insert into hatsune_relay_data values (1001001, 1, 10057103, 1, '莉瑪的訪談');
 insert into hatsune_relay_data values (1001002, 1, 10057103, 2, '凱留的訪談');
 insert into hatsune_relay_data values (1001003, 1, 10057103, 3, '珠希的訪談');

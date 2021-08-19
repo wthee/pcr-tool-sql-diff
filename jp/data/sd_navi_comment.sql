@@ -1,3 +1,4 @@
+CREATE TABLE 'sd_navi_comment' ('comment_id' INTEGER NOT NULL, 'where_type' INTEGER NOT NULL, 'character_id' INTEGER NOT NULL, 'motion_type' INTEGER NOT NULL, 'description' TEXT , 'voice_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('comment_id'));
 insert into sd_navi_comment values (1000001, 1000, 190801, 13, '様々なミニゲームをご用意してい\\nますよ！\\nどのミニゲームで遊びますか？', 0, '2020-02-15 15:00:00', '2030-04-01 14:00:00');
 insert into sd_navi_comment values (1000002, 1000, 190801, 13, '楽しいミニゲームをご紹介！\\nあなたはどのミニゲームで\\n遊びますか？', 0, '2020-02-15 15:00:00', '2030-04-01 14:00:00');
 insert into sd_navi_comment values (1001001, 1001, 190801, 13, 'こちらは{0}ルピで\\n販売中！\\nぜひ購入して\\n遊んでくださいね！', 0, '2020-02-15 15:00:00', '2030-04-01 14:00:00');

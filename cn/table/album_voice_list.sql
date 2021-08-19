@@ -1,1 +1,0 @@
-CREATE TABLE 'album_voice_list' ('id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'sheet_id' TEXT NOT NULL, 'voice_id' TEXT NOT NULL, 'title' TEXT NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'))

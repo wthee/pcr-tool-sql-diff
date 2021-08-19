@@ -1,3 +1,4 @@
+CREATE TABLE 'tw_treasure_item_group' ('id' INTEGER NOT NULL, 'item_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into tw_treasure_item_group values (97501001, 97501, 6, 93001, 800);
 insert into tw_treasure_item_group values (97501002, 97501, 12, 94002, 3000000);
 insert into tw_treasure_item_group values (97501003, 97501, 2, 90005, 60);

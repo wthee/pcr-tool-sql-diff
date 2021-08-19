@@ -1,1 +1,0 @@
-CREATE TABLE 'ttk_score' ('difficulty_level' INTEGER NOT NULL, 'coefficient_difficulty' INTEGER NOT NULL, 'coefficient_coin_score' INTEGER NOT NULL, 'life' INTEGER NOT NULL, 'coefficient_wrong_num' INTEGER NOT NULL, PRIMARY KEY('difficulty_level'))

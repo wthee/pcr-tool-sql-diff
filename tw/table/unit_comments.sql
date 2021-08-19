@@ -1,1 +1,0 @@
-CREATE TABLE 'unit_comments' ('id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'use_type' INTEGER NOT NULL, 'voice_id' INTEGER NOT NULL, 'face_id' INTEGER NOT NULL, 'change_time' REAL NOT NULL, 'change_face' INTEGER NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'))

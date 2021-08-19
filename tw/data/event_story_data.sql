@@ -1,3 +1,4 @@
+CREATE TABLE 'event_story_data' ('story_group_id' INTEGER NOT NULL, 'story_type' INTEGER NOT NULL, 'value' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'thumbnail_id' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('story_group_id'));
 insert into event_story_data values (5001, 5, 20001, '初音的禮物大作戰', 0, 1, '2018/08/27 16:00:00', '2099/04/24 14:59:59');
 insert into event_story_data values (5002, 5, 20002, '小小甜心大冒險！', 0, 1, '2018/10/03 16:00:00', '2099/04/26 14:59:59');
 insert into event_story_data values (5003, 5, 20003, '吸血鬼獵人 with伊莉亞', 0, 1, '2018/11/01 16:00:00', '2030/04/24 14:59:59');

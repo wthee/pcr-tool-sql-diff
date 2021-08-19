@@ -1,3 +1,4 @@
+CREATE TABLE 'hatsune_description' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
 insert into hatsune_description values (1, 10001, 1, 'イベントでは、特別なストーリーを楽しめます。\\nイベントストーリーは、イベントクエストを進めると解放されていきます。');
 insert into hatsune_description values (2, 10001, 1, 'イベントクエストを進めるとボスが登場します。\\nボスには、ボスチケットを使うことで挑むことができます。\\nボス撃破で、討伐証を大量にゲットできるので、思い切って挑戦しましょう。');
 insert into hatsune_description values (3, 10001, 1, '討伐証交換は、報酬ゲットのチャンスです。\\n報酬の中には、イベントに登場するキャラのメモリーピースもあります。\\nたくさん集めてキャラを仲間にしましょう。');

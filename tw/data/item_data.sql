@@ -1,3 +1,4 @@
+CREATE TABLE 'item_data' ('item_id' INTEGER NOT NULL, 'item_name' TEXT NOT NULL, 'description' TEXT NOT NULL, 'promotion_level' INTEGER NOT NULL, 'item_type' INTEGER NOT NULL, 'value' INTEGER NOT NULL, 'price' INTEGER NOT NULL, 'limit_num' INTEGER NOT NULL, 'gojuon_order' INTEGER NOT NULL, 'sell_check_disp' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('item_id'));
 insert into item_data values (20001, '小型 EXP 藥水', '用來強化角色的 Lv，使用後增加 60 的 EXP。', 1, 1, 60, 80, 99999, 0, 0, '2015/12/17 15:00:00', '2030/08/01 14:59:59');
 insert into item_data values (20002, '普通 EXP 藥水', '用來強化角色的 Lv，使用後增加 300 的 EXP。', 2, 1, 300, 400, 99999, 0, 0, '2015/12/17 15:00:00', '2030/08/01 14:59:59');
 insert into item_data values (20003, '高劑量 EXP 藥水', '用來強化角色的 Lv，使用後增加 1500 的 EXP。', 3, 1, 1500, 2000, 99999, 0, 0, '2015/12/17 15:00:00', '2030/08/01 14:59:59');

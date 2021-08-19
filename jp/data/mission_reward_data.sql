@@ -1,3 +1,4 @@
+CREATE TABLE 'mission_reward_data' ('id' INTEGER NOT NULL, 'mission_reward_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER , 'reward_num' INTEGER NOT NULL, 'lv_from' INTEGER NOT NULL, 'lv_to' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('id'));
 insert into mission_reward_data values (1, 18001001, 6, 93001, 100, 1, -1, '2018/01/01 5:00:00', '2030/12/31 23:59:59');
 insert into mission_reward_data values (2, 18001002, 6, 93001, 100, 1, -1, '2018/01/01 5:00:00', '2030/12/31 23:59:59');
 insert into mission_reward_data values (3, 11001001, 5, 0, 30, 1, -1, '2018/01/01 5:00:00', '2020/11/16 4:59:59');

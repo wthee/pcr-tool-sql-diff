@@ -1,3 +1,4 @@
+CREATE TABLE 'unit_enemy_data' ('unit_id' INTEGER NOT NULL, 'unit_name' TEXT NOT NULL, 'prefab_id' INTEGER NOT NULL, 'motion_type' INTEGER NOT NULL, 'se_type' INTEGER NOT NULL, 'move_speed' INTEGER NOT NULL, 'search_area_width' INTEGER NOT NULL, 'atk_type' INTEGER NOT NULL, 'normal_atk_cast_time' REAL NOT NULL, 'cutin' INTEGER NOT NULL, 'cutin_star6' INTEGER NOT NULL, 'visual_change_flag' INTEGER NOT NULL, 'comment' TEXT NOT NULL, PRIMARY KEY('unit_id'));
 insert into unit_enemy_data values (200100, '擲岩猴', 200100, 0, 0, 270, 800, 1, 3.5, 0, 0, 0, '【物理】遠距離攻擊\\n能夠投擲大石頭，從遠處\\n攻擊的猴子魔物。');
 insert into unit_enemy_data values (200200, '氣球鳥', 200200, 0, 0, 270, 800, 1, 3.0, 0, 0, 0, '【恢復】範圍恢復\\n能用膨起的肚子中累積的魔力，\\n來恢復同伴的鳥型魔物。');
 insert into unit_enemy_data values (200300, '守門者', 200300, 0, 0, 270, 200, 2, 3.5, 0, 0, 0, '【魔法】範圍攻擊\\n敞開地獄之門，並吐出會使人火傷的熱炎，\\n是魔界的守衛。');

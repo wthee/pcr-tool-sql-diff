@@ -1,3 +1,4 @@
+CREATE TABLE 'dear_chara' ('event_id' INTEGER NOT NULL, 'chara_index' INTEGER NOT NULL, 'chara_name' TEXT NOT NULL, 'max_dear_point' INTEGER NOT NULL, 'reference_type' INTEGER NOT NULL, 'reference_id' INTEGER NOT NULL, 'episode_unlock_offset_x' INTEGER NOT NULL, 'episode_unlock_offset_y' INTEGER NOT NULL, 'dear_point_up_offset_x' INTEGER NOT NULL, 'dear_point_up_offset_y' INTEGER NOT NULL, 'condition_story_id' INTEGER NOT NULL, PRIMARY KEY('event_id','chara_index'));
 insert into dear_chara values (10053, 1, 'エミリア', 1000, 1, 109901, 0, 0, 0, 0, 0);
 insert into dear_chara values (10053, 2, 'レム', 1000, 1, 109701, 0, 0, 0, 0, 0);
 insert into dear_chara values (10053, 3, 'ラム', 1000, 1, 109801, 0, 0, 0, 0, 0);

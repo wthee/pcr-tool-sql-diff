@@ -1,3 +1,4 @@
+CREATE TABLE 'clan_battle_schedule' ('clan_battle_id' INTEGER NOT NULL, 'release_month' INTEGER NOT NULL, 'last_clan_battle_id' INTEGER NOT NULL, 'point_per_stamina' INTEGER NOT NULL, 'cost_group_id' INTEGER NOT NULL, 'cost_group_id_s' INTEGER NOT NULL, 'map_bgm' TEXT NOT NULL, 'resource_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('clan_battle_id'));
 insert into clan_battle_schedule values (1001, 5, 0, 1, 1, 2, 'bgm_M90', 1, '2020/05/07 5:00:00', '2020/06/02 4:59:59');
 insert into clan_battle_schedule values (1002, 6, 1001, 1, 1, 2, 'bgm_M97', 2, '2020/06/02 5:00:00', '2020/06/30 4:59:59');
 insert into clan_battle_schedule values (1003, 6, 1002, 1, 1, 2, 'bgm_M104', 1, '2020/06/30 5:00:00', '2020/07/28 4:59:59');

@@ -1,3 +1,4 @@
+CREATE TABLE 'room_unit_comments' ('id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'trigger' INTEGER NOT NULL, 'voice_id' INTEGER NOT NULL, 'beloved_step' INTEGER NOT NULL, 'time' INTEGER NOT NULL, 'face_id' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'insert_word_type' INTEGER NOT NULL, PRIMARY KEY('unit_id','trigger','voice_id','time'));
 insert into room_unit_comments values (1, 100101, 1, 1, 1, 0, 1, '這裡看起來沒有人\\n正在煩惱中呢。\\n真是太好了♪', 0);
 insert into room_unit_comments values (2, 100101, 1, 2, 1, 0, 1, '冒險的準備準備……\\n嗯，看來沒忘記\\n什麼東西！……啊！', 0);
 insert into room_unit_comments values (3, 100101, 1, 3, 1, 0, 1, '跟隨節奏……\\nOneTwo，OneTwo！\\n嗯，絕佳狀態', 0);

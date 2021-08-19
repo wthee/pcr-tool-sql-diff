@@ -1,3 +1,4 @@
+CREATE TABLE 'clan_grade' ('clan_grade_id' INTEGER NOT NULL, 'rank_from' INTEGER NOT NULL, 'rank_to' INTEGER NOT NULL, PRIMARY KEY('clan_grade_id'));
 insert into clan_grade values (1, 1, 50);
 insert into clan_grade values (2, 51, 200);
 insert into clan_grade values (3, 201, 500);

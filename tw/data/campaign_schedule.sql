@@ -1,3 +1,4 @@
+CREATE TABLE 'campaign_schedule' ('id' INTEGER NOT NULL, 'campaign_category' INTEGER NOT NULL, 'value' REAL NOT NULL, 'system_id' INTEGER NOT NULL, 'icon_image' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'level_id' INTEGER NOT NULL, 'shiori_group_id' INTEGER NOT NULL, 'duplication_order' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into campaign_schedule values (1, 34, 2000.0, 103, 30, '2018/08/20 16:00:00', '2018/08/27 15:59:59', 0, 0, 0);
 insert into campaign_schedule values (2, 44, 2000.0, 103, 40, '2018/08/20 16:00:00', '2018/08/27 15:59:59', 0, 0, 0);
 insert into campaign_schedule values (3, 45, 2000.0, 104, 40, '2018/08/27 16:00:00', '2018/09/03 15:59:59', 0, 0, 0);

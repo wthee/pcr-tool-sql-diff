@@ -1,3 +1,4 @@
+CREATE TABLE 'movie' ('movie_id' INTEGER NOT NULL, 'story_group_id' INTEGER NOT NULL, 'story_id' INTEGER NOT NULL, 'bgm_id' TEXT NOT NULL, 'se_id' TEXT NOT NULL, PRIMARY KEY('movie_id'));
 insert into movie values (1000101, 5001, 5001000, 'bgm_M32', '');
 insert into movie values (1000201, 5002, 5002000, 'bgm_M98', '');
 insert into movie values (1000301, 5003, 5003000, 'bgm_M106', '');

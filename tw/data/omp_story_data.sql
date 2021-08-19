@@ -1,3 +1,4 @@
+CREATE TABLE 'omp_story_data' ('omp_story_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_boss_id' INTEGER NOT NULL, 'story_seq' INTEGER NOT NULL, 'is_readable_on_result' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, 'sub_title' TEXT NOT NULL, PRIMARY KEY('omp_story_id'));
 insert into omp_story_data values (7001, 10062, 10062103, 0, 1, 0, 0, 0, 0, '卯月和凜的回憶');
 insert into omp_story_data values (7002, 10062, 10062107, 0, 2, 0, 0, 0, 0, 'new generations的回憶');
 insert into omp_story_data values (7003, 10062, 10062107, 0, 4, 0, 0, 0, 0, '卯月與未央的回憶');

@@ -1,3 +1,4 @@
+CREATE TABLE 'enemy_enable_voice' ('unit_id' INTEGER NOT NULL, 'voice_id' INTEGER NOT NULL, PRIMARY KEY('unit_id'));
 insert into enemy_enable_voice values (307400, 307400);
 insert into enemy_enable_voice values (307401, 307400);
 insert into enemy_enable_voice values (307402, 307400);

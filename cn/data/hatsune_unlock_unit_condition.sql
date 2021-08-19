@@ -1,3 +1,4 @@
+CREATE TABLE 'hatsune_unlock_unit_condition' ('id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'condition_mission_id' INTEGER NOT NULL, 'top_description' TEXT NOT NULL, 'description_1' TEXT NOT NULL, 'description_2' TEXT NOT NULL, PRIMARY KEY('id'));
 insert into hatsune_unlock_unit_condition values (1, 107601, 10004, 71004025, '通过讨伐BOSS解锁\\n剩余{0}只', '[3C404E]推进关卡，挑战BOSS，\\n继续讨伐BOSS可解锁限定角色！！[-]', '[3C404E]通过讨伐BOSS（全难易度共通）解锁！\\n剩余[FFBB00,CE4F00]{0}[-]只[-]');
 insert into hatsune_unlock_unit_condition values (2, 108001, 10005, 71005025, '通过讨伐BOSS解锁\\n剩余{0}只', '[3C404E]推进关卡，挑战BOSS，\\n继续讨伐BOSS可解锁限定角色！！[-]', '[3C404E]通过讨伐BOSS（全难易度共通）解锁！\\n剩余[FFBB00,CE4F00]{0}[-]只[-]');
 insert into hatsune_unlock_unit_condition values (3, 108201, 10007, 71007031, '讨伐NORMAL难度BOSS进行解锁吧！', '[3C404E]推进关卡，挑战BOSS，\\n讨伐NORMAL难度BOSS可解锁限定角色！[-]', '[3C404E]讨伐NORMAL难度BOSS进行解锁吧！');

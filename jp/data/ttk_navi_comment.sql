@@ -1,3 +1,4 @@
+CREATE TABLE 'ttk_navi_comment' ('comment_id' INTEGER NOT NULL, 'where_type' INTEGER NOT NULL, 'character_id' INTEGER NOT NULL, 'face_type' INTEGER NOT NULL, 'character_name' TEXT NOT NULL, 'description' TEXT , 'voice_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'pos_x' REAL NOT NULL, 'pos_y' REAL NOT NULL, 'change_face_time' REAL NOT NULL, 'change_face_type' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, PRIMARY KEY('comment_id'));
 insert into ttk_navi_comment values (24001, 24, 102601, 1, 'リン', 'あたしだって\\nやるときはやるよ！', 0, '2020/04/30 12:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 0.0, 1, 10040);
 insert into ttk_navi_comment values (24002, 24, 102601, 1, 'リン', 'ふぅ…\\nこれであたしの仕事は\\n終わりだね', 1, '2020/04/30 12:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 0.0, 1, 10040);
 insert into ttk_navi_comment values (24003, 24, 102601, 1, 'リン', '終わった終わった\\n一人でもなんとか\\nなるもんだね', 2, '2020/04/30 12:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 0.0, 1, 10040);

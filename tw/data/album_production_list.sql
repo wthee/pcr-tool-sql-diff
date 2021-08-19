@@ -1,3 +1,4 @@
+CREATE TABLE 'album_production_list' ('id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
 insert into album_production_list values (10010101, 100101, 201, '解放表演1', '');
 insert into album_production_list values (10010102, 100101, 101, '羈絆Rank表演1', '');
 insert into album_production_list values (10010103, 100101, 102, '羈絆Rank表演2', '');

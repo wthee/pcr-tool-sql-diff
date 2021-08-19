@@ -1,3 +1,4 @@
+CREATE TABLE 'login_bonus_detail' ('id' INTEGER NOT NULL, 'login_bonus_id' INTEGER NOT NULL, 'count' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_num' INTEGER NOT NULL, 'character_id' INTEGER NOT NULL, 'character_name' TEXT NOT NULL, 'description' TEXT NOT NULL, 'voice_id' INTEGER NOT NULL, 'bg_id' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into login_bonus_detail values (1, 20000, 1, 8, 91002, 100, 0, '', '', 0, 0);
 insert into login_bonus_detail values (2, 20000, 1, 2, 23001, 20, 0, '', '', 0, 0);
 insert into login_bonus_detail values (3, 20000, 2, 8, 91002, 100, 0, '', '', 0, 0);

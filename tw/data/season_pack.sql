@@ -1,3 +1,4 @@
+CREATE TABLE 'season_pack' ('id' INTEGER NOT NULL, 'mission_id' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, 'category_icon' INTEGER NOT NULL, 'receive_text' TEXT NOT NULL, 'after_text' TEXT NOT NULL, 'gift_message_id' INTEGER NOT NULL, 'term' INTEGER NOT NULL, 'repurchase_day' INTEGER NOT NULL, 'group_id' INTEGER NOT NULL, 'system_id_1' INTEGER NOT NULL, 'add_num_1' INTEGER NOT NULL, 'item_record_id' INTEGER NOT NULL, 'condition_flg' INTEGER NOT NULL, 'reward_rate_1' INTEGER NOT NULL, 'mission_count' INTEGER NOT NULL, 'present_count' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into season_pack values (9, 17001001, 1, 403, '每日寶石禮包第{1}天的獎勵', '每日寶石禮包未領取的獎勵', 9401, 30, 3, 0, 104, 1, 1, 0, 2000, 2, 1);
 insert into season_pack values (12, 17001101, 1, 403, '每日瑪那禮包第{1}天的獎勵', '每日瑪那禮包未領取的獎勵', 99401, 30, 3, 0, 0, 0, 101, 0, 0, 1, 1);
 insert into season_pack values (13, 17001102, 1, 403, '', '', 99402, 1, 0, 0, 0, 0, 102, 0, 0, 0, 1);

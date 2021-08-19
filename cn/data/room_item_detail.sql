@@ -1,3 +1,4 @@
+CREATE TABLE 'room_item_detail' ('room_item_id' INTEGER NOT NULL, 'level' INTEGER NOT NULL, 'item_detail' TEXT NOT NULL, 'lvup_trigger_type' INTEGER NOT NULL, 'lvup_trigger_id' INTEGER NOT NULL, 'lvup_trigger_value' INTEGER NOT NULL, 'lvup_trigger_type_2' INTEGER NOT NULL, 'lvup_trigger_id_2' INTEGER NOT NULL, 'lvup_trigger_value_2' INTEGER NOT NULL, 'lvup_item1_type' INTEGER NOT NULL, 'lvup_item1_id' INTEGER NOT NULL, 'lvup_item1_num' INTEGER NOT NULL, 'lvup_time' INTEGER NOT NULL, PRIMARY KEY('room_item_id','level'));
 insert into room_item_detail values (990101, 1, '以22娘为原型制作的地毯。', 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into room_item_detail values (990102, 1, '以33娘为原型制作的地毯。', 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into room_item_detail values (990103, 1, '充满可爱气息的蓝色碎花壁纸。', 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
