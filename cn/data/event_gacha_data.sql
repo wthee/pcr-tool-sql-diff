@@ -19,4 +19,5 @@ insert into event_gacha_data values (10018, 10018, '复刻吸血鬼猎人with伊
 insert into event_gacha_data values (10019, 10019, '铃奈的RAINBOW STAGE！', 2, 60182, 1, 5);
 insert into event_gacha_data values (10020, 10020, '复刻危险假日！海边的美食家公主', 2, 60192, 1, 5);
 insert into event_gacha_data values (10021, 10021, '盛夏的真步真步王国 海滩上的灵魂之夏！', 2, 60202, 1, 5);
+insert into event_gacha_data values (10022, 10022, '珠希与美冬的无人岛0金币生活', 2, 60212, 1, 5);
 insert into event_gacha_data values (19003, 10003, '吸血鬼猎人with伊莉亚讨伐证交换', 2, 60022, 1, 5);
