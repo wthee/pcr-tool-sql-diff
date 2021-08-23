@@ -142,3 +142,4 @@ insert into unit_introduction values (140, 30146, 1, '2021/07/24 15:00:00', '202
 insert into unit_introduction values (141, 30147, 1, '2021/07/31 12:00:00', '2021/08/09 11:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (142, 30148, 1, '2021/08/09 12:00:00', '2021/08/15 14:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (143, 40005, 1, '2021/08/15 15:00:00', '2021/08/23 11:59:59', 380000, 380000, 0, 0, 0, 0);
+insert into unit_introduction values (144, 30150, 1, '2021/08/23 12:00:00', '2021/08/31 11:59:59', 380000, 380000, 0, 0, 0, 0);
