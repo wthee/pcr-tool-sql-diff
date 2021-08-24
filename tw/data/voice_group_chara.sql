@@ -68,7 +68,7 @@ insert into voice_group_chara values (109401001, '馬納歷亞（古蕾婭）', 
 insert into voice_group_chara values (109701001, 'Re:從零（雷姆）', 109701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (109801001, 'Re:從零（拉姆）', 109801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (109901001, 'Re:從零（愛蜜莉雅）', 109901, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (110801001, '聖德蕾莎女子學院（好朋友社）（克蘿依）', 110801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (110801001, '聖德蕾莎女子學院（好朋友社）（克蘿依）', 110801, 116201, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (110901001, '聖德蕾莎女子學院（好朋友社）（琪愛兒）', 110901, 116301, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (111001001, '聖德蕾莎女子學院（好朋友社）（優妮）', 111001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (112401001, 'new generations（卯月）', 112401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
