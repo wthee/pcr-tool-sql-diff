@@ -280,7 +280,7 @@ insert into sqlite_stat1 values ('arena_max_season_rank_reward', None, '118');
 insert into sqlite_stat1 values ('unit_mypage_pos', None, '36');
 insert into sqlite_stat1 values ('thumbnail_hide_condition', None, '2');
 insert into sqlite_stat1 values ('tower_story_detail', None, '114');
-insert into sqlite_stat1 values ('story_detail', None, '1389');
+insert into sqlite_stat1 values ('story_detail', None, '1391');
 insert into sqlite_stat1 values ('enemy_m_parts', None, '172');
 insert into sqlite_stat1 values ('resist_data', None, '43');
 insert into sqlite_stat1 values ('music_content', None, '184');
