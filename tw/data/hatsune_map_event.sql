@@ -59,7 +59,6 @@ insert into hatsune_map_event values (10021009, 10021, 501, 10021112, 100016, 10
 insert into hatsune_map_event values (10021010, 10021, 501, 10021112, 100017, 100357);
 insert into hatsune_map_event values (10021011, 10021, 501, 10021112, 100018, 100358);
 insert into hatsune_map_event values (10021012, 10021, 501, 10021112, 100019, 100359);
-insert into hatsune_map_event values (10041531, 10041, 3, 1004104, 211, 0);
 insert into hatsune_map_event values (10045001, 10045, 501, 10045112, 101921, 101931);
 insert into hatsune_map_event values (10045002, 10045, 501, 10045112, 101922, 101932);
 insert into hatsune_map_event values (10045003, 10045, 501, 10045112, 101923, 101933);
@@ -119,3 +118,4 @@ insert into hatsune_map_event values (20012302, 20012, 5, 2001202, 101, 0);
 insert into hatsune_map_event values (20012303, 20012, 5, 2001203, 101, 0);
 insert into hatsune_map_event values (20012401, 20012, 6, 0, 501, 0);
 insert into hatsune_map_event values (20012531, 20012, 3, 2001204, 211, 0);
+insert into hatsune_map_event values (20014531, 20014, 3, 2001404, 211, 0);

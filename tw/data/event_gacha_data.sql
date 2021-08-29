@@ -63,4 +63,5 @@ insert into event_gacha_data values (10062, 10062, '星光公主\u3000Re:M@STER�
 insert into event_gacha_data values (10063, 10063, '星光公主\u3000Re:M@STER！', 2, 60612, 1, 5);
 insert into event_gacha_data values (10064, 10064, '鋼鐵聖女與神聖學院的問題兒童', 2, 60632, 1, 6);
 insert into event_gacha_data values (10065, 10065, '恩賜的財團與神聖學院的問題兒童', 2, 60642, 1, 5);
+insert into event_gacha_data values (10066, 10066, '祈梨ＳＯＳ！！ 踏上時空旅行的龍人族', 2, 60652, 1, 6);
 insert into event_gacha_data values (19003, 10003, '吸血鬼獵人 with伊莉亞', 2, 60022, 1, 5);

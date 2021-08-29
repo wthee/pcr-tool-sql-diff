@@ -78,6 +78,14 @@ insert into enemy_m_parts values (401401505, '水之里歐斯 第5階段', 40140
 insert into enemy_m_parts values (401401605, '水之里歐斯 第1階段 單人模式', 401401606, 401401607, 0, 0, 0);
 insert into enemy_m_parts values (401401705, '水之里歐斯 第2階段 單人模式', 401401706, 401401707, 0, 0, 0);
 insert into enemy_m_parts values (401401805, '水之里歐斯 第3階段 單人模式', 401401806, 401401807, 0, 0, 0);
+insert into enemy_m_parts values (401403104, '黑曜飛龍 第1階段', 401403105, 401403106, 401403107, 0, 0);
+insert into enemy_m_parts values (401403204, '黑曜飛龍 第2階段', 401403205, 401403206, 401403207, 0, 0);
+insert into enemy_m_parts values (401403304, '黑曜飛龍 第3階段', 401403305, 401403306, 401403307, 0, 0);
+insert into enemy_m_parts values (401403404, '黑曜飛龍 第4階段', 401403405, 401403406, 401403407, 0, 0);
+insert into enemy_m_parts values (401403504, '黑曜飛龍 第5階段', 401403505, 401403506, 401403507, 0, 0);
+insert into enemy_m_parts values (401403604, '黑曜飛龍 第1階段 單人模式', 401403605, 401403606, 401403607, 0, 0);
+insert into enemy_m_parts values (401403704, '黑曜飛龍 第2階段 單人模式', 401403705, 401403706, 401403707, 0, 0);
+insert into enemy_m_parts values (401403804, '黑曜飛龍 第3階段 單人模式', 401403805, 401403806, 401403807, 0, 0);
 insert into enemy_m_parts values (501010601, '狂怒綠龍', 501010602, 501010603, 501010604, 0, 0);
 insert into enemy_m_parts values (610017101, '貝特魯吉烏斯 NORMAL', 610017102, 610017103, 610017104, 0, 0);
 insert into enemy_m_parts values (610017201, '貝特魯吉烏斯 HARD', 610017202, 610017203, 610017204, 0, 0);
@@ -109,4 +117,5 @@ insert into enemy_m_parts values (610063301, '盆栽小花 VERY HARD', 610063302
 insert into enemy_m_parts values (610063401, '盆栽小花 SP1', 610063411, 610063412, 610063413, 0, 0);
 insert into enemy_m_parts values (610063402, '盆栽小花 SP2', 610063421, 610063422, 610063423, 0, 0);
 insert into enemy_m_parts values (610063403, '盆栽小花 SP3', 610063431, 610063432, 610063433, 0, 0);
+insert into enemy_m_parts values (800100203, '機械莉瑪2020MODE3', 800100212, 800100213, 800100214, 0, 0);
 insert into enemy_m_parts values (801100213, '霸瞳僕役（複合）', 801100223, 801100233, 801100243, 0, 0);

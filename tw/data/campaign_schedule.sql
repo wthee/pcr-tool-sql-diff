@@ -553,3 +553,7 @@ insert into campaign_schedule values (551, 31, 3000.0, 101, 30, '2021/08/17 05:0
 insert into campaign_schedule values (552, 41, 3000.0, 101, 40, '2021/08/17 05:00:00', '2021/08/24 04:59:59', 0, 0, 0);
 insert into campaign_schedule values (553, 31, 2000.0, 101, 30, '2021/08/24 05:00:00', '2021/08/27 04:59:59', 0, 0, 0);
 insert into campaign_schedule values (554, 41, 2000.0, 101, 40, '2021/08/24 05:00:00', '2021/08/27 04:59:59', 0, 0, 0);
+insert into campaign_schedule values (555, 32, 3000.0, 102, 30, '2021/08/27 05:00:00', '2021/08/31 04:59:59', 0, 0, 0);
+insert into campaign_schedule values (556, 42, 3000.0, 102, 40, '2021/08/27 05:00:00', '2021/08/31 04:59:59', 0, 0, 0);
+insert into campaign_schedule values (591, 151, 1500.0, 6004, 80, '2021/09/01 16:00:00', '2021/09/15 15:59:59', 0, 0, 0);
+insert into campaign_schedule values (592, 152, 1500.0, 6005, 80, '2021/09/01 16:00:00', '2021/09/15 15:59:59', 0, 0, 0);
