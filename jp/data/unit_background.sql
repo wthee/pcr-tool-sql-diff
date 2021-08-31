@@ -160,3 +160,4 @@ insert into unit_background values (180301, 'レイ（プリンセス）', 50013
 insert into unit_background values (180401, 'ぺコリーヌ（プリンセス）', 500130, 'エステレラ街道', 0.0, 4);
 insert into unit_background values (180501, 'コッコロ（プリンセス）', 500130, 'エステレラ街道', 0.0, 2);
 insert into unit_background values (180601, 'キャル（プリンセス）', 500130, 'エステレラ街道', 0.0, 18);
+insert into unit_background values (180701, 'ハツネ＆シオリ', 501370, '滝壺_昼', 0.0, 2);

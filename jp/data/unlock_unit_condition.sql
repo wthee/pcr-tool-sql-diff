@@ -159,3 +159,4 @@ insert into unlock_unit_condition values (180301, 'レイ（プリンセス）',
 insert into unlock_unit_condition values (180401, 'ペコリーヌ（プリンセス）', 1, 0, 1, 2, 31804, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (180501, 'コッコロ（プリンセス）', 1, 0, 1, 2, 31805, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (180601, 'キャル（プリンセス）', 1, 0, 1, 2, 31806, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
+insert into unlock_unit_condition values (180701, 'ハツネ＆シオリ', 1, 0, 1, 2, 31807, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);

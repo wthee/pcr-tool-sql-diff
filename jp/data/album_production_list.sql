@@ -1434,3 +1434,11 @@ insert into album_production_list values (18060105, 180601, 104, '絆ランク�
 insert into album_production_list values (18060106, 180601, 105, '絆ランク演出5', '');
 insert into album_production_list values (18060107, 180601, 106, '絆ランク演出6', '');
 insert into album_production_list values (18060108, 180601, 107, '絆ランク演出7', '');
+insert into album_production_list values (18070101, 180701, 201, '解放演出1', '');
+insert into album_production_list values (18070102, 180701, 101, '絆ランク演出1', '');
+insert into album_production_list values (18070103, 180701, 102, '絆ランク演出2', '');
+insert into album_production_list values (18070104, 180701, 103, '絆ランク演出3', '');
+insert into album_production_list values (18070105, 180701, 104, '絆ランク演出4', '');
+insert into album_production_list values (18070106, 180701, 105, '絆ランク演出5', '');
+insert into album_production_list values (18070107, 180701, 106, '絆ランク演出6', '');
+insert into album_production_list values (18070108, 180701, 107, '絆ランク演出7', '');

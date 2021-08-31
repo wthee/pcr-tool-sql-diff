@@ -98,3 +98,4 @@ insert into tips values (4180301, 180301, 1, '守る力');
 insert into tips values (4180401, 180401, 1, 'パワーアップ☆');
 insert into tips values (4180501, 180501, 1, 'ふわふわ');
 insert into tips values (4180601, 180601, 1, 'かけ声');
+insert into tips values (4180701, 180701, 1, '私の色');

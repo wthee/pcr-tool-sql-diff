@@ -74,3 +74,4 @@ insert into voice_group_chara values (111001001, '聖テレサ女学院（なか
 insert into voice_group_chara values (112401001, 'ニュージェネレーションズ（ウヅキ）', 112401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (112501001, 'ニュージェネレーションズ（リン）', 112501, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (112601001, 'ニュージェネレーションズ（ミオ）', 112601, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (180701001, 'ハツネ＆シオリ', 180701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
