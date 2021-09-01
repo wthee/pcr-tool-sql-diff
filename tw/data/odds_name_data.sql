@@ -142,3 +142,5 @@ insert into odds_name_data values (1006402, '1006420102', 'シノブのメモリ
 insert into odds_name_data values (1006403, 'box_rank_4-11', '隨機裝備箱', 99002, '能夠獲得隨機的裝備。');
 insert into odds_name_data values (1006501, '1006520101', 'アオイ（編入生）のメモリーピース', 99002, '');
 insert into odds_name_data values (1006502, '1006520102', 'タマキのメモリーピース', 99002, '');
+insert into odds_name_data values (1006601, '1006620101', 'カヤのメモリーピース', 99002, '');
+insert into odds_name_data values (1006602, '1006620102', 'ミサトのメモリーピース', 99002, '');
