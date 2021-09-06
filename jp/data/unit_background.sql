@@ -154,6 +154,7 @@ insert into unit_background values (117101, 'シズル（サマー）', 500160, 
 insert into unit_background values (117201, 'ノゾミ（サマー）', 501363, 'サマーフェス会場', 0.0, 4);
 insert into unit_background values (117301, 'チカ（サマー）', 501363, 'サマーフェス会場', 0.0, 2);
 insert into unit_background values (117401, 'ツムギ（サマー）', 501363, 'サマーフェス会場', 0.0, 4);
+insert into unit_background values (117501, 'ミツキ（オーエド）', 501380, 'オーエド_診察室_昼', 0.0, 6);
 insert into unit_background values (180101, 'ヒヨリ（プリンセス）', 500130, 'エステレラ街道', 0.0, 2);
 insert into unit_background values (180201, 'ユイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 4);
 insert into unit_background values (180301, 'レイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 3);

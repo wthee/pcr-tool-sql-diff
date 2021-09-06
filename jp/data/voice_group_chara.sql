@@ -44,7 +44,7 @@ insert into voice_group_chara values (104701001, 'NIGHTMARE（ジュン）', 104
 insert into voice_group_chara values (104801001, 'メルクリウス財団（ミフユ）', 104801, 108001, 116901, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (104901001, 'ラビリンス（シズル）', 104901, 109101, 117101, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (105001001, 'ルーセント学院（ミサキ）', 105001, 108301, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (105101001, 'トワイライトキャラバン（ミツキ）', 105101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (105101001, 'トワイライトキャラバン（ミツキ）', 105101, 117501, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (105201001, 'エリザベスパーク（リマ）', 105201, 115801, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (105301001, 'ヴァイスフリューゲルランドソル支部（モニカ）', 105301, 114201, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (105401001, 'カルミナ（ツムギ）', 105401, 113901, 117401, 0, 0, 0, 0, 0, 0, 0);
