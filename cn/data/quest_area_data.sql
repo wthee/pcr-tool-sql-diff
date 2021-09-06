@@ -63,10 +63,8 @@ insert into quest_area_data values (12029, '29.迪斯塔尔河食岸・南部', 
 insert into quest_area_data values (12030, '30.富特拉断崖・北部', 102, 'bgm_M293', 'bgm_M293', '2088/01/01 0:00:00', '2099/12/31 23:59:59');
 insert into quest_area_data values (12031, '31.富特拉断崖・南部', 102, 'bgm_M293', 'bgm_M293', '2088/01/01 0:00:00', '2099/12/31 23:59:59');
 insert into quest_area_data values (12032, '32.法斯基亚森林・南部', 102, 'bgm_M339', 'bgm_M339', '2088/01/01 0:00:00', '2099/12/31 23:59:59');
-insert into quest_area_data values (13018, '18.小行星原野・北部', 102, 'bgm_M179', 'bgm_M179', '2088/01/01 0:00:00', '2099/12/31 23:59:59');
-insert into quest_area_data values (13019, '19.小行星原野・南部', 102, 'bgm_M179', 'bgm_M179', '2088/01/01 0:00:00', '2099/12/31 23:59:59');
-insert into quest_area_data values (13020, '20.卡斯塔利亚森林・西部', 102, 'bgm_M180', 'bgm_M180', '2088/01/01 0:00:00', '2099/12/31 23:59:59');
+insert into quest_area_data values (13018, '18.小行星原野・北部', 102, 'bgm_M179', 'bgm_M179', '2021/09/06 9:00:00', '2099/12/31 23:59:59');
 insert into quest_area_data values (18001, '圣迹调查关卡', 0, '', '', '2020/09/28 9:00:00', '2099/12/31 23:59:59');
-insert into quest_area_data values (19001, '神殿调查关卡', 0, '', '', '2088/01/01 0:00:00', '2099/12/31 23:59:59');
+insert into quest_area_data values (19001, '神殿调查关卡', 0, '', '', '2021/09/06 9:00:00', '2099/12/31 23:59:59');
 insert into quest_area_data values (21001, '玛那关卡', 0, '', '', '2020/01/01 0:00:00', '2099/12/31 23:59:59');
 insert into quest_area_data values (21002, '经验值关卡', 0, '', '', '2020/01/01 0:00:00', '2099/12/31 23:59:59');

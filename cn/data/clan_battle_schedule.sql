@@ -17,3 +17,4 @@ insert into clan_battle_schedule values (1015, 6, 1014, 1, 1, 2, 'bgm_M104', 1, 
 insert into clan_battle_schedule values (1016, 7, 1015, 1, 1, 2, 'bgm_M115', 2, '2021/07/06 5:00:00', '2021/08/03 4:59:59');
 insert into clan_battle_schedule values (1017, 8, 1016, 1, 1, 2, 'bgm_M119', 1, '2021/08/03 5:00:00', '2021/08/31 4:59:59');
 insert into clan_battle_schedule values (1018, 8, 1017, 1, 1, 2, 'bgm_M132', 2, '2021/08/31 5:00:00', '2021/09/28 4:59:59');
+insert into clan_battle_schedule values (1019, 9, 1018, 1, 1, 2, 'bgm_M139', 1, '2021/09/28 5:00:00', '2021/10/26 4:59:59');

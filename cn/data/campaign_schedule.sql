@@ -261,3 +261,14 @@ insert into campaign_schedule values (259, 96, 1500.0, 6004, 100, '2021/09/06 9:
 insert into campaign_schedule values (260, 97, 1500.0, 6005, 100, '2021/09/06 9:00:00', '2021/09/10 4:59:59', 0);
 insert into campaign_schedule values (261, 251, 1500.0, 7004, 80, '2021/08/23 11:00:00', '2021/08/30 23:59:59', 0);
 insert into campaign_schedule values (262, 252, 1500.0, 7005, 80, '2021/08/23 11:00:00', '2021/08/30 23:59:59', 0);
+insert into campaign_schedule values (263, 31, 2000.0, 101, 30, '2021/09/09 5:00:00', '2021/09/14 4:59:59', 0);
+insert into campaign_schedule values (264, 41, 2000.0, 101, 40, '2021/09/09 5:00:00', '2021/09/14 4:59:59', 0);
+insert into campaign_schedule values (265, 37, 2000.0, 109, 30, '2021/09/14 5:00:00', '2021/09/19 4:59:59', 0);
+insert into campaign_schedule values (266, 45, 2000.0, 104, 40, '2021/09/16 5:00:00', '2021/09/25 4:59:59', 0);
+insert into campaign_schedule values (267, 34, 2000.0, 103, 30, '2021/09/17 5:00:00', '2021/09/24 4:59:59', 0);
+insert into campaign_schedule values (268, 44, 2000.0, 103, 40, '2021/09/17 5:00:00', '2021/09/24 4:59:59', 0);
+insert into campaign_schedule values (269, 31, 2000.0, 101, 30, '2021/09/19 5:00:00', '2021/09/25 4:59:59', 0);
+insert into campaign_schedule values (270, 41, 2000.0, 101, 40, '2021/09/19 5:00:00', '2021/09/25 4:59:59', 0);
+insert into campaign_schedule values (271, 151, 1500.0, 6004, 80, '2021/09/06 9:00:00', '2021/09/20 23:59:59', 0);
+insert into campaign_schedule values (272, 152, 1500.0, 6005, 80, '2021/09/06 9:00:00', '2021/09/20 23:59:59', 0);
+insert into campaign_schedule values (273, 38, 2000.0, 112, 30, '2021/09/14 5:00:00', '2021/09/19 4:59:59', 0);

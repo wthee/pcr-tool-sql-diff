@@ -7,6 +7,8 @@ insert into content_release_data values (107, 1, 0, 11003001, '通关主线战�
 insert into content_release_data values (108, 1, 0, 11009001, '通关主线关卡9-1（NORMAL）后解锁');
 insert into content_release_data values (109, 1, 0, 11009002, '通关主线关卡9-2（NORMAL）后解锁');
 insert into content_release_data values (110, 1, 0, 11001005, '通关主线关卡1-5（NORMAL）后解锁');
+insert into content_release_data values (111, 1, 0, 12018001, '通关主线关卡18-1（HARD）后解锁');
+insert into content_release_data values (112, 1, 0, 11018005, '通关主线关卡18-5（NORMAL）后解锁');
 insert into content_release_data values (201, 1, 0, 0, '');
 insert into content_release_data values (202, 1, 0, 11004006, '通关主线战斗4-6（NORMAL）后解锁');
 insert into content_release_data values (203, 1, 0, 11008015, '通关主线战斗8-15（NORMAL）后解锁');
@@ -23,3 +25,6 @@ insert into content_release_data values (601, 1, 0, 11002001, '通关主线战�
 insert into content_release_data values (602, 1, 0, 11007001, '通关主线战斗7-1（NORMAL）后解锁');
 insert into content_release_data values (603, 1, 0, 11016014, '通关主线战斗16-14（NORMAL）后解锁');
 insert into content_release_data values (701, 1, 0, 11003001, '通关主线战斗3-1（NORMAL）后解锁');
+insert into content_release_data values (904, 1, 0, 11002009, '通关主线关卡2-9（NORMAL）后解锁');
+insert into content_release_data values (905, 1, 0, 11002009, '通关主线关卡2-9（NORMAL）后解锁');
+insert into content_release_data values (906, 1, 0, 0, '');
