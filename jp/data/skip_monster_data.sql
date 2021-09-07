@@ -2346,7 +2346,7 @@ insert into skip_monster_data values (13027001, 13027, 'ペテロ大森林・東
 insert into skip_monster_data values (13027002, 13027, 'ペテロ大森林・東部 27-2', 103270203, 101691);
 insert into skip_monster_data values (13027003, 13027, 'ペテロ大森林・東部 27-3', 103270308, 101841);
 insert into skip_monster_data values (13028001, 13028, 'ディズタル河食岸・北部 28-1', 103280104, 100691);
-insert into skip_monster_data values (13028002, 13028, 'ディズタル河食岸・北部 28-2', 103270203, 101641);
+insert into skip_monster_data values (13028002, 13028, 'ディズタル河食岸・北部 28-2', 103280202, 101641);
 insert into skip_monster_data values (13028003, 13028, 'ディズタル河食岸・北部 28-3', 103270308, 102041);
 insert into skip_monster_data values (18001001, 18001, '聖跡調査クエストLv1', 108010108, 101331);
 insert into skip_monster_data values (18001002, 18001, '聖跡調査クエストLv2', 108010208, 101341);

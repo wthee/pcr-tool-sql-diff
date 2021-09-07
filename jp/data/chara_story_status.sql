@@ -475,6 +475,10 @@ insert into chara_story_status values (1057005, 'ジータのエピソード第5
 insert into chara_story_status values (1057006, 'ジータのエピソード第6話', 2, 40, 6, 10, 0, 0, 0, 0, 0, 0, 1057, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1057007, 'ジータのエピソード第7話', 2, 40, 6, 10, 0, 0, 0, 0, 0, 0, 1057, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1057008, 'ジータのエピソード第8話', 2, 60, 6, 15, 11, 60, 0, 0, 0, 0, 1057, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1057009, 'ジータのエピソード第9話', 2, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1057, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1057010, 'ジータのエピソード第10話', 2, 80, 6, 40, 0, 0, 0, 0, 0, 0, 1057, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1057011, 'ジータのエピソード第11話', 2, 80, 6, 40, 0, 0, 0, 0, 0, 0, 1057, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1057012, 'ジータのエピソード第12話', 2, 200, 6, 60, 0, 0, 0, 0, 0, 0, 1057, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1058002, 'ペコリーヌのエピソード第2話', 1, 150, 0, 0, 0, 0, 0, 0, 0, 0, 1058, 1075, 1804, 1118, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1058003, 'ペコリーヌのエピソード第3話', 1, 150, 0, 0, 0, 0, 0, 0, 0, 0, 1058, 1075, 1804, 1118, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1058004, 'ペコリーヌのエピソード第4話', 1, 300, 0, 0, 0, 0, 0, 0, 0, 0, 1058, 1075, 1804, 1118, 0, 0, 0, 0, 0, 0);
