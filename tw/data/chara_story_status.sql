@@ -212,6 +212,10 @@ insert into chara_story_status values (1025005, '鈴莓のエピソード第5話
 insert into chara_story_status values (1025006, '鈴莓のエピソード第6話', 4, 40, 3, 4, 0, 0, 0, 0, 0, 0, 1025, 1077, 1121, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1025007, '鈴莓のエピソード第7話', 4, 40, 3, 4, 0, 0, 0, 0, 0, 0, 1025, 1077, 1121, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1025008, '鈴莓のエピソード第8話', 4, 60, 3, 6, 5, 4, 0, 0, 0, 0, 1025, 1077, 1121, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1025009, '鈴莓のエピソード第9話', 4, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1025, 1077, 1121, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1025010, '鈴莓のエピソード第10話', 4, 120, 0, 0, 0, 0, 0, 0, 0, 0, 1025, 1077, 1121, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1025011, '鈴莓のエピソード第11話', 4, 120, 0, 0, 0, 0, 0, 0, 0, 0, 1025, 1077, 1121, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1025012, '鈴莓のエピソード第12話', 4, 200, 7, 30, 0, 0, 0, 0, 0, 0, 1025, 1077, 1121, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1026002, '鈴のエピソード第2話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1026, 1127, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1026003, '鈴のエピソード第3話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1026, 1127, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1026004, '鈴のエピソード第4話', 2, 30, 0, 0, 0, 0, 0, 0, 0, 0, 1026, 1127, 0, 0, 0, 0, 0, 0, 0, 0);

@@ -2115,6 +2115,9 @@ insert into skip_monster_data values (13025003, 13025, '雷蒂烏斯群峰‧東
 insert into skip_monster_data values (13026001, 13026, '佩特羅大森林‧西部 26-1', 103260101, 101641);
 insert into skip_monster_data values (13026002, 13026, '佩特羅大森林‧西部 26-2', 103260201, 101691);
 insert into skip_monster_data values (13026003, 13026, '佩特羅大森林‧西部 26-3', 103260305, 101841);
+insert into skip_monster_data values (13027001, 13027, '佩特羅大森林‧東部 27-1', 103270102, 100691);
+insert into skip_monster_data values (13027002, 13027, '佩特羅大森林‧東部 27-2', 103270203, 101691);
+insert into skip_monster_data values (13027003, 13027, '佩特羅大森林‧東部 27-3', 103260305, 101841);
 insert into skip_monster_data values (18001001, 18001, '聖跡調查冒險Lv1', 108010108, 101331);
 insert into skip_monster_data values (18001002, 18001, '聖跡調查冒險Lv2', 108010208, 101341);
 insert into skip_monster_data values (18001003, 18001, '聖跡調查冒險Lv3', 108010308, 101341);
