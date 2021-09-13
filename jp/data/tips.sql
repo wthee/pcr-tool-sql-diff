@@ -93,6 +93,7 @@ insert into tips values (4116701, 116701, 1, '得意分野（かも）');
 insert into tips values (4116801, 116801, 1, '赤字確定');
 insert into tips values (4116901, 116901, 1, '得意分野');
 insert into tips values (4117501, 117501, 1, 'チクッと');
+insert into tips values (4117601, 117601, 1, 'ボクと癒やしタイム');
 insert into tips values (4180101, 180101, 1, 'じゃんけんタイム！');
 insert into tips values (4180201, 180201, 1, 'ぺこぺこ');
 insert into tips values (4180301, 180301, 1, '守る力');

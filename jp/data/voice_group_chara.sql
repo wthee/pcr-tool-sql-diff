@@ -6,7 +6,7 @@ insert into voice_group_chara values (100401001, 'リトルリリカル（ミソ
 insert into voice_group_chara values (100501001, 'NIGHTMARE（マツリ）', 100501, 114101, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100601001, 'ディアボロス（アカリ）', 100601, 113701, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100701001, 'ディアボロス（ミヤコ）', 100701, 108201, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (100801001, 'ヴァイスフリューゲルランドソル支部（ユキ）', 100801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (100801001, 'ヴァイスフリューゲルランドソル支部（ユキ）', 100801, 117601, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100901001, 'トワイライトキャラバン（アンナ）', 100901, 113201, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (101001001, 'カォン（マホ）', 101001, 110601, 116001, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (101101001, 'ラビリンス（リノ）', 101101, 112901, 0, 0, 0, 0, 0, 0, 0, 0);
