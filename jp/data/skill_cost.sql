@@ -207,3 +207,6 @@ insert into skill_cost values (205, 142270);
 insert into skill_cost values (206, 143070);
 insert into skill_cost values (207, 143870);
 insert into skill_cost values (208, 144670);
+insert into skill_cost values (209, 145470);
+insert into skill_cost values (210, 146270);
+insert into skill_cost values (211, 147070);

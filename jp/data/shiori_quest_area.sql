@@ -40,3 +40,5 @@ insert into shiori_quest_area values (20017201, 20017, '聖テレサ女学院', 
 insert into shiori_quest_area values (20018101, 20018, 'テラーハウス周辺', 201, 'bgm_M265', 'bgm_M265_Top', 1, 1, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20018102, 20018, 'ゴーストグレイヴ', 201, 'bgm_M265', 'bgm_M265_Top', 1, 2, 0, 0, 1, '202', '0', 0);
 insert into shiori_quest_area values (20018201, 20018, 'ゴーストグレイヴ', 201, 'bgm_M265', 'bgm_M265_Top', 1, 1, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20019101, 20019, 'エルピス島 開拓キャンプ一帯', 201, 'bgm_M273', 'bgm_M273', 1, 0, 90, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20019201, 20019, 'エルピス島 開拓キャンプ一帯', 201, 'bgm_M273', 'bgm_M273', 1, 0, 0, 0, 0, '0', '0', 0);
