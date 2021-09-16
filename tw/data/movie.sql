@@ -191,6 +191,8 @@ insert into movie values (210701080, 2107, 2107010, '', '', 1, 1, 0.3);
 insert into movie values (210701081, 2107, 2107010, '', '', 0, 1, 1.0);
 insert into movie values (210709901, 2107, 2107099, '', '', 1, 1, 1.0);
 insert into movie values (210709902, 2107, 2107099, 'bgm_M473_pt02_emt07_011', '', 1, 1, 1.0);
+insert into movie values (210800401, 2108, 2108004, '', '', 1, 1, 1.0);
+insert into movie values (210800501, 2108, 2108005, 'bgm_M482_pt02_emt08_005', '', 1, 1, 1.0);
 insert into movie values (301000301, 3010, 3010003, '', '', 1, 1, 1.0);
 insert into movie values (500100701, 5001, 5001007, '', '', 1, 1, 1.0);
 insert into movie values (500200701, 5002, 5002007, '', '', 1, 1, 1.0);
