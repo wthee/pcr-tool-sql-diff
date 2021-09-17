@@ -103,3 +103,4 @@ insert into birthday_login_bonus_data values (9111001, 'ユニ「バースデー
 insert into birthday_login_bonus_data values (9112401, 'ウヅキ（デレマス）「バースデーストーリー」', 9, '2020-04-24 05:00:00', '2020-04-25 04:59:59', 1124500);
 insert into birthday_login_bonus_data values (9112501, 'リン「バースデーストーリー」', 9, '2020-08-10 05:00:00', '2020-08-11 04:59:59', 1125500);
 insert into birthday_login_bonus_data values (9112601, 'ミオ（デレマス）「バースデーストーリー」', 9, '2020-12-01 05:00:00', '2020-12-02 04:59:59', 1126500);
+insert into birthday_login_bonus_data values (9118002, 'クレジッタ「バースデーストーリー」', 9, '2021/09/19 5:00:00', '2021/09/20 4:59:59', 1180501);

@@ -112,3 +112,4 @@ insert into voice_group values (20115, 'ハツネシオリ＆ミサト', 1807010
 insert into voice_group values (20116, 'ハツネシオリ＆マヒル', 180701001, 103301001, 0, 0, 0);
 insert into voice_group values (20117, 'ハツネシオリ＆リン', 180701001, 102601001, 0, 0, 0);
 insert into voice_group values (20118, 'ハツネシオリ＆リマ', 180701001, 105201001, 0, 0, 0);
+insert into voice_group values (20119, 'クレジッタ＆ペコリーヌ', 118001001, 105801001, 0, 0, 0);
