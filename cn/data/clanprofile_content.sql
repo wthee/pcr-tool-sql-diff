@@ -19,3 +19,4 @@ insert into clanprofile_content values (17, '夏日沙滩的夕阳', '2019-06-30
 insert into clanprofile_content values (18, '夏日沙滩的星空', '2019-06-30 12:00:00', '', 11);
 insert into clanprofile_content values (19, '海底背景', '2021-08-19 11:00:00', '', 8);
 insert into clanprofile_content values (20, '？？？', '2021-08-19 11:00:00', '', 29);
+insert into clanprofile_content values (21, '圣特蕾莎女子学院\\n（好朋友社）', '2021-09-21 11:00:00', '', 27);

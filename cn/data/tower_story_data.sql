@@ -6,3 +6,4 @@ insert into tower_story_data values (7004, 7, 4, '妹妹·约定', 0, 1, '2021/0
 insert into tower_story_data values (7005, 7, 5, '傲娇鬼屋', 0, 1, '2021/03/29 12:00:00', '2099/12/31 23:59:59');
 insert into tower_story_data values (7006, 7, 6, '两人的骄傲与羁绊同在', 0, 1, '2021/05/28 9:00:00', '2099/12/31 23:59:59');
 insert into tower_story_data values (7007, 7, 7, '冥风战记外传·吸血鬼传承', 0, 1, '2021/07/26 12:00:00', '2099/12/31 23:59:59');
+insert into tower_story_data values (7008, 7, 8, '天真的妹妹射手！', 0, 1, '2021/09/21 11:00:00', '2099/12/31 23:59:59');
