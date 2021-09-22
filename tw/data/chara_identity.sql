@@ -145,6 +145,7 @@ insert into chara_identity values (116001, 10);
 insert into chara_identity values (116201, 108);
 insert into chara_identity values (116301, 109);
 insert into chara_identity values (116501, 66);
+insert into chara_identity values (116601, 65);
 insert into chara_identity values (180101, 1);
 insert into chara_identity values (180201, 2);
 insert into chara_identity values (180401, 58);
