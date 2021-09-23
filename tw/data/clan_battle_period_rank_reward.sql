@@ -512,3 +512,17 @@ insert into clan_battle_period_rank_reward values (510, 1037, 1, 3001, 5000, 0, 
 insert into clan_battle_period_rank_reward values (511, 1037, 1, 5001, 7000, 0, 8, 91002, 1500, 2, 90006, 1500, 2, 31018, 10, 0, 0, 0, 0, 0, 0);
 insert into clan_battle_period_rank_reward values (512, 1037, 1, 7001, 10000, 0, 8, 91002, 1000, 2, 90006, 1000, 2, 31018, 8, 0, 0, 0, 0, 0, 0);
 insert into clan_battle_period_rank_reward values (513, 1037, 1, 10001, -1, 0, 8, 91002, 750, 2, 90006, 750, 2, 31018, 7, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_rank_reward values (514, 1038, 1, 1, 1, 0, 8, 91002, 20000, 2, 90006, 5000, 2, 31043, 30, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_rank_reward values (515, 1038, 1, 2, 2, 0, 8, 91002, 15000, 2, 90006, 5000, 2, 31043, 30, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_rank_reward values (516, 1038, 1, 3, 3, 0, 8, 91002, 12000, 2, 90006, 5000, 2, 31043, 30, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_rank_reward values (517, 1038, 1, 4, 20, 0, 8, 91002, 10000, 2, 90006, 5000, 2, 31043, 30, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_rank_reward values (518, 1038, 1, 21, 50, 0, 8, 91002, 8000, 2, 90006, 5000, 2, 31043, 30, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_rank_reward values (519, 1038, 1, 51, 150, 0, 8, 91002, 6000, 2, 90006, 4500, 2, 31043, 25, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_rank_reward values (520, 1038, 1, 151, 300, 0, 8, 91002, 4000, 2, 90006, 4000, 2, 31043, 20, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_rank_reward values (521, 1038, 1, 301, 700, 0, 8, 91002, 3500, 2, 90006, 3500, 2, 31043, 18, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_rank_reward values (522, 1038, 1, 701, 1500, 0, 8, 91002, 3000, 2, 90006, 3000, 2, 31043, 16, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_rank_reward values (523, 1038, 1, 1501, 3000, 0, 8, 91002, 2500, 2, 90006, 2500, 2, 31043, 14, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_rank_reward values (524, 1038, 1, 3001, 5000, 0, 8, 91002, 2000, 2, 90006, 2000, 2, 31043, 12, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_rank_reward values (525, 1038, 1, 5001, 7000, 0, 8, 91002, 1500, 2, 90006, 1500, 2, 31043, 10, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_rank_reward values (526, 1038, 1, 7001, 10000, 0, 8, 91002, 1000, 2, 90006, 1000, 2, 31043, 8, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_rank_reward values (527, 1038, 1, 10001, -1, 0, 8, 91002, 750, 2, 90006, 750, 2, 31043, 7, 0, 0, 0, 0, 0, 0);
