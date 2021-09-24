@@ -2,8 +2,8 @@ CREATE TABLE 'dear_chara' ('event_id' INTEGER NOT NULL, 'chara_index' INTEGER NO
 insert into dear_chara values (10053, 1, '愛蜜莉雅', 1000, 1, 109901, 0, 0, 0, 0, 0);
 insert into dear_chara values (10053, 2, '雷姆', 1000, 1, 109701, 0, 0, 0, 0, 0);
 insert into dear_chara values (10053, 3, '拉姆', 1000, 1, 109801, 0, 0, 0, 0, 0);
-insert into dear_chara values (10043, 1, '鈴奈', 1000, 1, 110001, 0, 0, 0, 0, 0);
-insert into dear_chara values (10043, 2, '美咲', 1000, 1, 110201, 0, 0, 0, 0, 0);
+insert into dear_chara values (20015, 1, '鈴奈', 1000, 1, 110001, 0, 0, 0, 0, 0);
+insert into dear_chara values (20015, 2, '美咲', 1000, 1, 110201, 0, 0, 0, 0, 0);
 insert into dear_chara values (10047, 1, '克蘿依', 1000, 1, 110801, 0, 0, 0, 0, 0);
 insert into dear_chara values (10047, 2, '琪愛兒', 1000, 1, 110901, 0, 0, 0, 0, 0);
 insert into dear_chara values (10047, 3, '優妮', 1000, 1, 111001, 0, 0, 0, 40, 0);
