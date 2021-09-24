@@ -68,7 +68,7 @@ insert into unlock_rarity_6 values (101201, 3, 3, 0, 400000, 15, 25001, 20, 0, 0
 insert into unlock_rarity_6 values (101201, 3, 4, 0, 500000, 15, 25001, 25, 0, 0, 400, 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unlock_rarity_6 values (101201, 3, 5, 1, 600000, 15, 25001, 30, 0, 0, 500, 0, 0, 0, 25, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0);
 insert into unlock_rarity_6 values (101301, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into unlock_rarity_6 values (101301, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into unlock_rarity_6 values (101301, 2, 0, 0, 0, 0, 31013, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unlock_rarity_6 values (101301, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unlock_rarity_6 values (101401, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unlock_rarity_6 values (101401, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
