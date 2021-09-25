@@ -6,7 +6,7 @@ insert into sqlite_stat1 values ('goldset_data_2', None, '70');
 insert into sqlite_stat1 values ('emblem_mission_data', None, '614');
 insert into sqlite_stat1 values ('shiori_mission_reward_data', 'shiori_mission_reward_data_0_mission_reward_id', '682 2');
 insert into sqlite_stat1 values ('shiori_item', None, '15');
-insert into sqlite_stat1 values ('campaign_schedule', None, '592');
+insert into sqlite_stat1 values ('campaign_schedule', None, '596');
 insert into sqlite_stat1 values ('tower_ex_quest_data', 'tower_ex_quest_data_0_floor_num', '32 1');
 insert into sqlite_stat1 values ('event_navi_comment_condition', None, '253');
 insert into sqlite_stat1 values ('sekai_boss_mode', None, '12');
@@ -102,7 +102,7 @@ insert into sqlite_stat1 values ('unit_comments', 'unit_comments_0_unit_id', '19
 insert into sqlite_stat1 values ('pct_gaming_motion', None, '8');
 insert into sqlite_stat1 values ('pct_evaluation', None, '5');
 insert into sqlite_stat1 values ('event_top_adv', 'event_top_adv_0_event_id_1_type', '824 12 4');
-insert into sqlite_stat1 values ('event_gacha_data', 'event_gacha_data_0_event_id', '67 1');
+insert into sqlite_stat1 values ('event_gacha_data', 'event_gacha_data_0_event_id', '68 1');
 insert into sqlite_stat1 values ('shiori_unlock_unit_condition', 'shiori_unlock_unit_condition_0_condition_mission_id', '8 1');
 insert into sqlite_stat1 values ('shiori_unlock_unit_condition', 'shiori_unlock_unit_condition_0_unit_id_1_event_id', '8 1 1');
 insert into sqlite_stat1 values ('hatsune_bg_change_data', 'hatsune_bg_change_data_0_target_type_1_area_id', '18 9 2');
@@ -157,7 +157,7 @@ insert into sqlite_stat1 values ('tower_quest_data', 'tower_quest_data_0_floor_n
 insert into sqlite_stat1 values ('event_effect_setting', 'sqlite_autoindex_event_effect_setting_1', '48 3 1');
 insert into sqlite_stat1 values ('uek_boss', 'uek_boss_0_enemy_id', '4 1');
 insert into sqlite_stat1 values ('goldset_data', None, '70');
-insert into sqlite_stat1 values ('event_story_data', 'event_story_data_0_value', '40 1');
+insert into sqlite_stat1 values ('event_story_data', 'event_story_data_0_value', '41 1');
 insert into sqlite_stat1 values ('quest_data', None, '821');
 insert into sqlite_stat1 values ('event_reminder_condition', 'event_reminder_condition_0_reminder_id', '8 1');
 insert into sqlite_stat1 values ('hatsune_diary_setting', None, '1');
@@ -324,8 +324,8 @@ insert into sqlite_stat1 values ('shiori_boss', 'shiori_boss_0_event_id_1_diffic
 insert into sqlite_stat1 values ('shiori_boss', 'shiori_boss_0_event_id', '45 3');
 insert into sqlite_stat1 values ('hatsune_quiz_reward', None, '8');
 insert into sqlite_stat1 values ('hatsune_daily_mission_data', None, '129');
-insert into sqlite_stat1 values ('hatsune_schedule', 'hatsune_schedule_0_original_event_id', '67 3');
-insert into sqlite_stat1 values ('hatsune_schedule', 'hatsune_schedule_0_series_event_id', '67 17');
+insert into sqlite_stat1 values ('hatsune_schedule', 'hatsune_schedule_0_original_event_id', '68 3');
+insert into sqlite_stat1 values ('hatsune_schedule', 'hatsune_schedule_0_series_event_id', '68 17');
 insert into sqlite_stat1 values ('dodge_tp_recovery', None, '39');
 insert into sqlite_stat1 values ('content_release_data', None, '37');
 insert into sqlite_stat1 values ('hatsune_special_mission_data', None, '387');
