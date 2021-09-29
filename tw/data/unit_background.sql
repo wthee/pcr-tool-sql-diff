@@ -146,6 +146,8 @@ insert into unit_background values (116201, '克蘿依（聖學祭）', 500732, 
 insert into unit_background values (116301, '琪愛兒（聖學祭）', 500732, '聖德蕾莎女子學院 _正門_聖學祭', 0.0, 2);
 insert into unit_background values (116501, '祈梨（時空旅行）', 500010, '蘭德索爾 市中心_白天', 0.0, 18);
 insert into unit_background values (116601, '嘉夜（時空旅行）', 500010, '蘭德索爾 市中心_白天', 0.0, 4);
+insert into unit_background values (116701, '碧（工作服）', 501340, '玩具工廠', 0.0, 4);
+insert into unit_background values (116801, '珠希（工作服）', 501340, '玩具工廠', 0.0, 4);
 insert into unit_background values (180101, '日和（公主）', 500130, '埃斯特雷拉街道', 0.0, 2);
 insert into unit_background values (180201, '優衣（公主）', 500130, '埃斯特雷拉街道', 0.0, 4);
 insert into unit_background values (180401, '貪吃佩可（公主）', 500130, '埃斯特雷拉街道', 0.0, 4);
