@@ -41,6 +41,7 @@ insert into movie values (1006801, 5068, 5068000, 'bgm_M478_Lofi', '', 0, 1, 1.0
 insert into movie values (1007001, 5070, 5070000, 'bgm_M486', '', 0, 1, 1.0);
 insert into movie values (1007201, 5072, 5072000, 'bgm_M496', '', 0, 1, 1.0);
 insert into movie values (1007401, 5074, 5074000, 'bgm_M508', '', 0, 1, 1.0);
+insert into movie values (1007601, 5076, 5076000, 'bgm_M520', '', 0, 1, 1.0);
 insert into movie values (180100301, 1801, 1801003, '', '', 1, 1, 1.0);
 insert into movie values (180200301, 1802, 1802003, '', '', 1, 1, 1.0);
 insert into movie values (180300301, 1803, 1803003, '', '', 1, 1, 1.0);
@@ -330,4 +331,8 @@ insert into movie values (507200602, 5072, 5072006, '', '', 1, 1, 1.0);
 insert into movie values (507400301, 5074, 5074003, 'bgm_M512_emt5074_003', '', 1, 1, 1.0);
 insert into movie values (507400601, 5074, 5074006, '', '', 1, 1, 1.0);
 insert into movie values (507400701, 5074, 5074007, '', '', 1, 1, 1.0);
+insert into movie values (507600201, 5076, 5076002, 'bgm_M192_emt5076_002', '', 1, 1, 1.0);
+insert into movie values (507600601, 5076, 5076006, '', '', 1, 1, 1.0);
+insert into movie values (507600701, 5076, 5076007, '', '', 0, 1, 1.0);
+insert into movie values (507600801, 5076, 5076008, '', '', 1, 1, 1.0);
 insert into movie values (700100001, 7001, 7001000, '', '', 0, 1, 1.0);

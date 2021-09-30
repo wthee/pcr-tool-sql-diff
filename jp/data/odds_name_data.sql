@@ -163,3 +163,6 @@ insert into odds_name_data values (1007401, '1007420101', 'ニノン（オーエ
 insert into odds_name_data values (1007402, '1007420102', 'ミツキのメモリーピース', 99002, '');
 insert into odds_name_data values (1007501, '1007520101', 'スズナのメモリーピース', 99002, '');
 insert into odds_name_data values (1007502, '1007520102', 'ナナカのメモリーピース', 99002, '');
+insert into odds_name_data values (1007601, '1007620101', 'ニノン（ハロウィン）のメモリーピース', 99002, '');
+insert into odds_name_data values (1007602, '1007620102', 'ジュンのメモリーピース', 99002, '');
+insert into odds_name_data values (1007603, 'box_rank_5-13', 'ランダム装備BOX', 99002, 'ランダムな装備が獲得できる。');

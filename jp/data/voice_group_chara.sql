@@ -15,7 +15,7 @@ insert into voice_group_chara values (101301001, 'トワイライトキャラバ
 insert into voice_group_chara values (101401001, 'カォン（カスミ）', 101401, 112201, 115701, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (101501001, 'フォレスティエ（ミサト）', 101501, 113501, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (101601001, 'ルーセント学院（スズナ）', 101601, 110001, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (101701001, 'カォン（カオリ）', 101701, 110501, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (101701001, 'カォン（カオリ）', 101701, 110501, 117701, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (101801001, 'ルーセント学院（イオ）', 101801, 110101, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (102001001, 'リトルリリカル（ミミ）', 102001, 111301, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (102101001, 'サレンディア救護院（クルミ）', 102101, 108501, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -26,7 +26,7 @@ insert into voice_group_chara values (102601001, 'エリザベスパーク（リ
 insert into voice_group_chara values (102701001, 'トワイライトキャラバン（エリコ）', 102701, 109001, 117001, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (102801001, 'サレンディア救護院（サレン）', 102801, 110301, 114501, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (102901001, 'カルミナ（ノゾミ）', 102901, 111601, 117201, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (103001001, 'ヴァイスフリューゲルランドソル支部（ニノン）', 103001, 109601, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (103001001, 'ヴァイスフリューゲルランドソル支部（ニノン）', 103001, 109601, 117801, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (103101001, 'ディアボロス（シノブ）', 103101, 108101, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (103201001, 'メルクリウス財団（アキノ）', 103201, 114401, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (103301001, 'エリザベスパーク（マヒル）', 103301, 112801, 0, 0, 0, 0, 0, 0, 0, 0);
