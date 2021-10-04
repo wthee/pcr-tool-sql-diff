@@ -11,3 +11,5 @@ insert into myprofile_content values (9, '夏日沙滩的朝阳', '2019-06-30 12
 insert into myprofile_content values (10, '夏日沙滩的夕阳', '2019-06-30 12:00:00', '', 10);
 insert into myprofile_content values (11, '夏日沙滩的星空', '2019-06-30 12:00:00', '', 11);
 insert into myprofile_content values (12, '海底背景', '2021-08-19 11:00:00', '', 8);
+insert into myprofile_content values (13, '万圣节的白天', '2021-10-04 11:00:00', '', 6);
+insert into myprofile_content values (14, '万圣节的夜晚', '2021-10-04 11:00:00', '', 7);
