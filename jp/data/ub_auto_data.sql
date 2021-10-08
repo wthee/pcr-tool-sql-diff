@@ -1,0 +1,2 @@
+CREATE TABLE 'ub_auto_data' ('ub_auto_id' INTEGER NOT NULL, 'auto_type' INTEGER NOT NULL, 'auto_detail_1' INTEGER NOT NULL, 'auto_detail_2' INTEGER NOT NULL, 'auto_detail_3' INTEGER NOT NULL, 'auto_detail_4' INTEGER NOT NULL, 'auto_detail_5' INTEGER NOT NULL, 'auto_value_1' INTEGER NOT NULL, 'auto_value_2' INTEGER NOT NULL, 'auto_value_3' INTEGER NOT NULL, 'auto_value_4' INTEGER NOT NULL, 'auto_value_5' INTEGER NOT NULL, PRIMARY KEY('ub_auto_id'));
+insert into ub_auto_data values (1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
