@@ -48,3 +48,5 @@ insert into unit_introduction values (49, 30048, 1, '2021/09/09 18:00:00', '2021
 insert into unit_introduction values (50, 30049, 1, '2021/09/17 11:00:00', '2021/09/21 10:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (51, 30050, 1, '2021/09/21 11:00:00', '2021/10/04 10:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (53, 30052, 1, '2021/10/04 11:00:00', '2021/10/14 8:59:59', 380000, 380000, 0, 0, 0, 0);
+insert into unit_introduction values (54, 30053, 1, '2021/10/14 09:00:00', '2021/10/19 10:59:59', 380000, 380000, 0, 0, 0, 0);
+insert into unit_introduction values (55, 30054, 1, '2021/10/19 11:00:00', '2021/11/01 10:59:59', 380000, 380000, 0, 0, 0, 0);

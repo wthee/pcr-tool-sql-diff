@@ -22,3 +22,5 @@ insert into clanprofile_content values (20, '？？？', '2021-08-19 11:00:00', 
 insert into clanprofile_content values (21, '圣特蕾莎女子学院\\n（好朋友社）', '2021-09-21 11:00:00', '', 27);
 insert into clanprofile_content values (22, '万圣节的白天', '2021-10-04 11:00:00', '', 6);
 insert into clanprofile_content values (23, '万圣节的夜晚', '2021-10-04 11:00:00', '', 7);
+insert into clanprofile_content values (24, '蘑菇和秋天的溪谷', '2021-10-19 11:00:00', '', 4);
+insert into clanprofile_content values (25, '蘑菇和小溪', '2021-10-19 11:00:00', '', 5);
