@@ -183,6 +183,10 @@ insert into chara_story_status values (1021005, '胡桃のエピソード第5話
 insert into chara_story_status values (1021006, '胡桃のエピソード第6話', 1, 400, 3, 4, 0, 0, 0, 0, 0, 0, 1021, 1085, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1021007, '胡桃のエピソード第7話', 1, 400, 3, 4, 0, 0, 0, 0, 0, 0, 1021, 1085, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1021008, '胡桃のエピソード第8話', 1, 600, 3, 6, 5, 4, 0, 0, 0, 0, 1021, 1085, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1021009, '胡桃のエピソード第9話', 2, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1021, 1085, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1021010, '胡桃のエピソード第10話', 2, 120, 0, 0, 0, 0, 0, 0, 0, 0, 1021, 1085, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1021011, '胡桃のエピソード第11話', 2, 120, 0, 0, 0, 0, 0, 0, 0, 0, 1021, 1085, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1021012, '胡桃のエピソード第12話', 2, 210, 17, 20, 0, 0, 0, 0, 0, 0, 1021, 1085, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1022002, '依里のエピソード第2話', 4, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1022, 1138, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1022003, '依里のエピソード第3話', 4, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1022, 1138, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1022004, '依里のエピソード第4話', 4, 30, 0, 0, 0, 0, 0, 0, 0, 0, 1022, 1138, 0, 0, 0, 0, 0, 0, 0, 0);

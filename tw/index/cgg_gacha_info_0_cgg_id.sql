@@ -1,0 +1,1 @@
+CREATE INDEX 'cgg_gacha_info_0_cgg_id' on 'cgg_gacha_info'('cgg_id')

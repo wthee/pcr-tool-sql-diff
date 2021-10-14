@@ -14,7 +14,7 @@ insert into ailment_data values (12, 9, 2, '火傷');
 insert into ailment_data values (13, 9, 3, '詛咒');
 insert into ailment_data values (14, 11, 0, '魅惑');
 insert into ailment_data values (15, 12, -1, '黑暗');
-insert into ailment_data values (16, 13, 0, '沉默');
+insert into ailment_data values (16, 13, -1, '沉默');
 insert into ailment_data values (17, 30, -1, '即死');
 insert into ailment_data values (18, 3, -1, '擊退');
 insert into ailment_data values (19, 11, 1, '混亂');

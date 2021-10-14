@@ -1,0 +1,1 @@
+CREATE INDEX 'svd_story_script_0_story_id' on 'svd_story_script'('story_id')

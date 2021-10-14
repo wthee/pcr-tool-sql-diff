@@ -199,3 +199,6 @@ insert into experience_team values (197, 578134, 255, 999, 30);
 insert into experience_team values (198, 582559, 256, 999, 30);
 insert into experience_team values (199, 586984, 257, 999, 30);
 insert into experience_team values (200, 591409, 258, 999, 30);
+insert into experience_team values (201, 595834, 259, 999, 30);
+insert into experience_team values (202, 600259, 260, 999, 30);
+insert into experience_team values (203, 604684, 261, 999, 30);

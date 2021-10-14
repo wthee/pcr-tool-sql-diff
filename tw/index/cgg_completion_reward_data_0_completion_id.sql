@@ -1,0 +1,1 @@
+CREATE INDEX 'cgg_completion_reward_data_0_completion_id' on 'cgg_completion_reward_data'('completion_id')

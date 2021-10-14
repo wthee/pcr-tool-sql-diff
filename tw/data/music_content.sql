@@ -172,3 +172,10 @@ insert into music_content values (170, '無敵DREAMING', '1:32', '0:56', '角色
 insert into music_content values (171, '祈梨ＳＯＳ！！\u3000踏上時空旅行的龍人族', '1:10', '0:00', '故事劇情主題曲\\n-｢Seize The Day！｣編曲-\\n\\n時間 / 01:10\\n作曲 / 本多友紀（Arte Refact）\\n編曲 / 中川峻彰', 'bgm_M467', 'bgm_M467_juke');
 insert into music_content values (172, '爆裂‧時間儀', '2:12', '0:00', '故事劇情Boss戰\\n\\n時間 / 02:12\\n作曲 / 関根修平（Cygames）\\n編曲 / 関根修平（Cygames）', 'bgm_M470', 'bgm_M470_juke');
 insert into music_content values (173, 'Seize The Day！', '1:34', '0:52', '角色歌曲\\n\\n時間 / 01:34\\n演唱\u3000 / 嘉夜（小市眞琴）\\n\u3000\u3000\u3000帆稀（大西沙織）\\n\u3000\u3000\u3000祈梨（藤田茜）\\n作詞 / 野村イクミ（Cygames）\\n作曲 / 本多友紀（Arte Refact）\\n編曲 / 河合泰志（Arte Refact）', 'bgm_M485', 'bgm_M485');
+insert into music_content values (174, '心電感應！碧與玩具朋友們', '1:46', '0:00', '故事劇情主題曲\\n-｢邊緣人的朋友進行曲｣編曲-\\n\\n時間 / 01:46\\n作曲 / 山本真央樹（TRYTONELABO）\\n編曲 / 下智子', 'bgm_M478', 'bgm_M478_Lofi_juke');
+insert into music_content values (175, '究極機械玩具王', '2:35', '0:00', '故事劇情Boss戰\\n\\n時間 / 02:35\\n作曲 / 多田彰文\\n編曲 / 多田彰文', 'bgm_M481', 'bgm_M481_juke');
+insert into music_content values (176, '邊緣人的朋友進行曲', '1:34', '1:01', '角色歌曲\\n\\n時間 / 01:34\\n演唱\u3000 / 碧（花澤香菜）\\n作詞 / 山本真央樹（TRYTONELABO）\\n作曲 / 山本真央樹（TRYTONELABO）\\n編曲 / 山本真央樹（TRYTONELABO）', 'bgm_M494', 'bgm_M494');
+insert into music_content values (177, '於飛舞的沙塵之中', '1:07', '0:00', '主線冒險\\n\\n時間 / 01:07\\n作曲 / 中村博\\n編曲 / 中村博', 'bgm_M483', 'bgm_M483_E46_juke');
+insert into music_content values (178, '永不完結的夏日計畫\u3000盛夏的雙人獨佔樂園', '1:57', '0:00', '故事劇情主題曲\\n-「Only Only You」編曲-\\n\\n時間 / 01:57\\n作曲 / ARM（IOSYS）\\n編曲 / 下智子', 'bgm_M486', 'bgm_M486_juke');
+insert into music_content values (179, '暑假作業', '2:29', '0:00', '故事劇情Boss戰\\n\\n時間 / 02:29\\n作曲 / 塚越廉\\n編曲 / 塚越廉', 'bgm_M489', 'bgm_M489_juke');
+insert into music_content values (180, 'Only Only You', '1:28', '0:46', '角色歌曲\\n\\n時間 / 01:28\\n歌\u3000 / 惠理子（橋本ちなみ）\\n作詞 / 夕野ヨシミ（IOSYS）\\n作曲 / ARM（IOSYS）\\n編曲 / ARM（IOSYS）', 'bgm_M495', 'bgm_M495');
