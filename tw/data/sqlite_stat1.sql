@@ -6,7 +6,7 @@ insert into sqlite_stat1 values ('goldset_data_2', None, '70');
 insert into sqlite_stat1 values ('emblem_mission_data', None, '621');
 insert into sqlite_stat1 values ('shiori_mission_reward_data', 'shiori_mission_reward_data_0_mission_reward_id', '682 2');
 insert into sqlite_stat1 values ('shiori_item', None, '15');
-insert into sqlite_stat1 values ('campaign_schedule', None, '605');
+insert into sqlite_stat1 values ('campaign_schedule', None, '607');
 insert into sqlite_stat1 values ('tower_ex_quest_data', 'tower_ex_quest_data_0_floor_num', '33 1');
 insert into sqlite_stat1 values ('event_navi_comment_condition', None, '253');
 insert into sqlite_stat1 values ('sekai_boss_mode', None, '12');
@@ -226,7 +226,7 @@ insert into sqlite_stat1 values ('event_reminder', 'event_reminder_0_event_id', 
 insert into sqlite_stat1 values ('minigame', 'minigame_0_event_id', '6 1');
 insert into sqlite_stat1 values ('shiori_quest_area', 'shiori_quest_area_0_event_id', '34 3');
 insert into sqlite_stat1 values ('room_chat_info', None, '28');
-insert into sqlite_stat1 values ('unit_skill_data', None, '1053');
+insert into sqlite_stat1 values ('unit_skill_data', None, '1056');
 insert into sqlite_stat1 values ('skip_monster_data', None, '2580');
 insert into sqlite_stat1 values ('experience_unit', None, '203');
 insert into sqlite_stat1 values ('reward_collect_guide', None, '422');
