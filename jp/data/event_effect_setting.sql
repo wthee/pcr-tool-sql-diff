@@ -53,3 +53,7 @@ insert into event_effect_setting values (10074, 4, 10074);
 insert into event_effect_setting values (10076, 1, 91001);
 insert into event_effect_setting values (10076, 2, 91002);
 insert into event_effect_setting values (10076, 3, 91001);
+insert into event_effect_setting values (10077, 1, 91001);
+insert into event_effect_setting values (10077, 2, 91002);
+insert into event_effect_setting values (10077, 3, 91001);
+insert into event_effect_setting values (10077, 4, 10050);

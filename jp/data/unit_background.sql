@@ -158,6 +158,7 @@ insert into unit_background values (117501, 'ミツキ（オーエド）', 50138
 insert into unit_background values (117601, 'ユキ（オーエド）', 501380, 'オーエド_診察室_昼', 0.0, 4);
 insert into unit_background values (117701, 'カオリ（ハロウィン）', 505035, 'ランドソル_繁華街_ハロウィン_夜', 0.0, 4);
 insert into unit_background values (117801, 'ニノン（ハロウィン）', 505035, 'ランドソル_繁華街_ハロウィン_夜', 0.0, 4);
+insert into unit_background values (117901, 'スズナ（ハロウィン）', 505035, 'ランドソル_繁華街_ハロウィン_夜', 0.0, 4);
 insert into unit_background values (118001, 'クレジッタ', 501070, 'ランドソル_王城周辺_執務室', 0.0, 4);
 insert into unit_background values (180101, 'ヒヨリ（プリンセス）', 500130, 'エステレラ街道', 0.0, 2);
 insert into unit_background values (180201, 'ユイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 4);

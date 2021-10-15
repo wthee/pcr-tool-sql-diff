@@ -14,7 +14,7 @@ insert into voice_group_chara values (101201001, 'フォレスティエ（ハツ
 insert into voice_group_chara values (101301001, 'トワイライトキャラバン（ナナカ）', 101301, 113301, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (101401001, 'カォン（カスミ）', 101401, 112201, 115701, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (101501001, 'フォレスティエ（ミサト）', 101501, 113501, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (101601001, 'ルーセント学院（スズナ）', 101601, 110001, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (101601001, 'ルーセント学院（スズナ）', 101601, 110001, 117901, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (101701001, 'カォン（カオリ）', 101701, 110501, 117701, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (101801001, 'ルーセント学院（イオ）', 101801, 110101, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (102001001, 'リトルリリカル（ミミ）', 102001, 111301, 0, 0, 0, 0, 0, 0, 0, 0);
