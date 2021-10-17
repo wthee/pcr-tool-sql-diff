@@ -41,7 +41,7 @@ insert into voice_group_chara values (104401001, '惡魔偽王國軍（伊莉亞
 insert into voice_group_chara values (104501001, '純白之翼（空花）', 104501, 109501, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (104601001, '墨丘利財團（珠希）', 104601, 107901, 116801, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (104701001, '王宮騎士團（純）', 104701, 113601, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (104801001, '墨丘利財團（美冬）', 104801, 108001, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (104801001, '墨丘利財團（美冬）', 104801, 108001, 116901, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (104901001, '拉比林斯（靜流）', 104901, 109101, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (105001001, '月光學院（美咲）', 105001, 108301, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (105101001, '暮光流星群（深月）', 105101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
