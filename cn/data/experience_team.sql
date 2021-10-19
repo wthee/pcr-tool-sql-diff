@@ -142,3 +142,6 @@ insert into experience_team values (140, 325909, 198, 999, 30);
 insert into experience_team values (141, 330334, 199, 999, 30);
 insert into experience_team values (142, 334759, 200, 999, 30);
 insert into experience_team values (143, 339184, 201, 999, 30);
+insert into experience_team values (144, 343609, 202, 999, 30);
+insert into experience_team values (145, 348034, 203, 999, 30);
+insert into experience_team values (146, 352459, 204, 999, 30);
