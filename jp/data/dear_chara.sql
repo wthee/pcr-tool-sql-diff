@@ -12,9 +12,9 @@ insert into dear_chara values (20018, 2, 'キョウカ', 1000, 1, 111101, 0, 0, 
 insert into dear_chara values (20018, 3, 'ミソギ', 1000, 1, 111201, 0, 0, 0, 0, 0);
 insert into dear_chara values (20019, 1, 'イノリ', 1000, 1, 106601, 0, 0, 0, 0, 0);
 insert into dear_chara values (20019, 2, 'カヤ', 1000, 1, 106501, 0, 0, 0, 0, 0);
-insert into dear_chara values (10055, 3, 'ノゾミ', 1000, 1, 111601, 0, 0, 0, 0, 0);
-insert into dear_chara values (10055, 1, 'クリスティーナ', 1000, 1, 111501, 0, 0, 0, 0, 0);
-insert into dear_chara values (10055, 2, 'イリヤ', 1000, 1, 111701, 0, 0, 0, 0, 0);
+insert into dear_chara values (20020, 3, 'ノゾミ', 1000, 1, 111601, 0, 0, 0, 0, 0);
+insert into dear_chara values (20020, 1, 'クリスティーナ', 1000, 1, 111501, 0, 0, 0, 0, 0);
+insert into dear_chara values (20020, 2, 'イリヤ', 1000, 1, 111701, 0, 0, 0, 0, 0);
 insert into dear_chara values (10060, 1, 'カスミ', 1000, 1, 112201, 0, 0, 0, 0, 0);
 insert into dear_chara values (10060, 2, 'シオリ', 1000, 1, 112301, 0, 0, 0, 0, 0);
 insert into dear_chara values (10065, 1, 'チエル', 1000, 1, 110901, 0, 0, 0, 0, 0);

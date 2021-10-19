@@ -11,3 +11,4 @@ insert into shiori_description values (20013, 9, 'ミッションを達成する
 insert into shiori_description values (20015, 10, 'ミッションを達成すると解放できるキャラが登場します。\\nミッションクリアを目指しましょう。');
 insert into shiori_description values (20016, 11, 'ミッションを達成すると解放できるキャラが登場します。\\nミッションクリアを目指しましょう。');
 insert into shiori_description values (20018, 12, 'ミッションを達成すると解放できるキャラが登場します。\\nミッションクリアを目指しましょう。');
+insert into shiori_description values (20020, 13, 'ミッションを達成すると解放できるキャラが登場します。\\nミッションクリアを目指しましょう。');

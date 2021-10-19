@@ -42,3 +42,6 @@ insert into shiori_quest_area values (20018102, 20018, 'ゴーストグレイヴ
 insert into shiori_quest_area values (20018201, 20018, 'ゴーストグレイヴ', 201, 'bgm_M265', 'bgm_M265_Top', 1, 1, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20019101, 20019, 'エルピス島 開拓キャンプ一帯', 201, 'bgm_M273', 'bgm_M273', 1, 0, 90, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20019201, 20019, 'エルピス島 開拓キャンプ一帯', 201, 'bgm_M273', 'bgm_M273', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20020101, 20020, '王都ランドソル 郊外', 201, 'bgm_M281', 'bgm_M281', 1, 1, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20020102, 20020, '王都ランドソル 中央広場', 201, 'bgm_M281', 'bgm_M281', 1, 2, 0, 0, 0, '0', '0', 11);
+insert into shiori_quest_area values (20020201, 20020, '王都ランドソル 中央広場', 201, 'bgm_M281', 'bgm_M281', 1, 1, 0, 0, 0, '0', '0', 0);
