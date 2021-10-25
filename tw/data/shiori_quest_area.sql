@@ -33,3 +33,5 @@ insert into shiori_quest_area values (20014101, 20014, '大江戶町', 201, 'bgm
 insert into shiori_quest_area values (20014201, 20014, '大江戶町', 201, 'bgm_M223', 'bgm_M223', 1, 1, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20015101, 20015, '晴雨海灘', 201, 'bgm_M237', 'bgm_M237', 1, 1, 98, 0, 0, '0', '0', 12);
 insert into shiori_quest_area values (20015201, 20015, '晴雨海灘', 201, 'bgm_M237', 'bgm_M237', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20016101, 20016, '真步真步王國避暑聖地？', 201, 'bgm_M245', 'bgm_M245_02', 1, 0, 150, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20016201, 20016, '真步真步王國避暑聖地？', 201, 'bgm_M245', 'bgm_M245_02', 1, 0, 0, 0, 0, '0', '0', 0);

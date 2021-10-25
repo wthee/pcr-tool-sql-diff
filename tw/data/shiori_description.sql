@@ -9,3 +9,4 @@ insert into shiori_description values (20010, 7, '完成任務後可解放的角
 insert into shiori_description values (20011, 8, '完成任務後可解放的角色將會登場。\\n以完成任務為目標吧。');
 insert into shiori_description values (20013, 9, '完成任務後可解放的角色將會登場。\\n以完成任務為目標吧。');
 insert into shiori_description values (20015, 10, '完成任務後可解放的角色將會登場。\\n以完成任務為目標吧。');
+insert into shiori_description values (20016, 11, '完成任務後可解放的角色將會登場。\\n以完成任務為目標吧。');
