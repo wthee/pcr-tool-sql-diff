@@ -950,4 +950,4 @@ insert into campaign_schedule values (986, 41, 2000.0, 101, 40, '2021/10/26 5:00
 insert into campaign_schedule values (987, 34, 2000.0, 103, 30, '2021/10/26 5:00:00', '2021/11/06 4:59:59', 0, 0, 0);
 insert into campaign_schedule values (988, 44, 2000.0, 103, 40, '2021/10/26 5:00:00', '2021/11/06 4:59:59', 0, 0, 0);
 insert into campaign_schedule values (989, 32, 3000.0, 102, 30, '2021/10/31 5:00:00', '2021/11/05 04:59:59', 0, 0, 0);
-insert into campaign_schedule values (990, 42, 2000.0, 102, 40, '2021/10/31 5:00:00', '2021/11/05 04:59:59', 0, 0, 0);
+insert into campaign_schedule values (990, 42, 3000.0, 102, 40, '2021/10/31 5:00:00', '2021/11/05 04:59:59', 0, 0, 0);
