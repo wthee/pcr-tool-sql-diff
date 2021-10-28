@@ -67,4 +67,5 @@ insert into event_gacha_data values (10066, 10066, '祈梨ＳＯＳ！！ 踏上
 insert into event_gacha_data values (10067, 10067, '牧場的四農士\u3000貧窮農場奮鬥記', 2, 60662, 1, 5);
 insert into event_gacha_data values (10068, 10068, '心電感應！碧與玩具朋友們', 2, 60672, 1, 6);
 insert into event_gacha_data values (10069, 10069, '不可思議之國的璃乃 小小愛麗絲與希望的繪本', 2, 60682, 1, 5);
+insert into event_gacha_data values (10070, 10070, '永不完結的夏日計畫\u3000盛夏的雙人獨佔樂園', 2, 60692, 1, 6);
 insert into event_gacha_data values (19003, 10003, '吸血鬼獵人 with伊莉亞', 2, 60022, 1, 5);
