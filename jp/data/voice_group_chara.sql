@@ -59,6 +59,7 @@ insert into voice_group_chara values (106301001, '？？？（アリサ）', 106
 insert into voice_group_chara values (106401001, 'シェフィ', 106401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (106501001, 'ドラゴンズネスト（カヤ）', 106501, 116601, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (106601001, 'ドラゴンズネスト（イノリ）', 106601, 116501, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (106701001, 'ドラゴンズネスト（ホマレ）', 106701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (106801001, 'ラビリンス（ラビリスタ）', 106801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (107001001, '？？？（ネネカ）', 107001, 115001, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (107101001, 'NIGHTMARE（クリスティーナ）', 107101, 111501, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -134,6 +135,7 @@ insert into voice_group_chara values (306001001, 'キャル（カリン掛け合
 insert into voice_group_chara values (306401001, 'シェフィ（カリン掛け合い用）', 106401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (306501001, 'カヤ（カリン掛け合い用）', 106501, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (306601001, 'イノリ（カリン掛け合い用）', 106601, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (306701001, 'ホマレ（カリン掛け合い用）', 106701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (306801001, 'ラビリスタ（カリン掛け合い用）', 106801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (307101001, 'クリスティーナ（カリン掛け合い用）', 107101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (307501001, 'ペコリーヌ（サマー）（カリン掛け合い用）', 107501, 0, 0, 0, 0, 0, 0, 0, 0, 0);

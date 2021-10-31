@@ -547,6 +547,13 @@ insert into chara_story_status values (1066005, 'イノリのエピソード第5
 insert into chara_story_status values (1066006, 'イノリのエピソード第6話', 2, 40, 6, 10, 0, 0, 0, 0, 0, 0, 1066, 1165, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1066007, 'イノリのエピソード第7話', 2, 40, 6, 10, 0, 0, 0, 0, 0, 0, 1066, 1165, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1066008, 'イノリのエピソード第8話', 2, 60, 6, 15, 11, 60, 0, 0, 0, 0, 1066, 1165, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1067002, 'ホマレのエピソード第2話', 4, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1067, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1067003, 'ホマレのエピソード第3話', 4, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1067, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1067004, 'ホマレのエピソード第4話', 4, 30, 0, 0, 0, 0, 0, 0, 0, 0, 1067, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1067005, 'ホマレのエピソード第5話', 4, 40, 0, 0, 0, 0, 0, 0, 0, 0, 1067, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1067006, 'ホマレのエピソード第6話', 4, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1067, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1067007, 'ホマレのエピソード第7話', 4, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1067, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1067008, 'ホマレのエピソード第8話', 4, 90, 7, 10, 0, 0, 0, 0, 0, 0, 1067, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1068002, 'ラビリスタのエピソード第2話', 2, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1068, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1068003, 'ラビリスタのエピソード第3話', 2, 80, 11, 60, 0, 0, 0, 0, 0, 0, 1068, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1068004, 'ラビリスタのエピソード第4話', 2, 120, 11, 150, 0, 0, 0, 0, 0, 0, 1068, 0, 0, 0, 0, 0, 0, 0, 0, 0);

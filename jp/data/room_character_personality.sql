@@ -59,6 +59,7 @@ insert into room_character_personality values (1063, 1);
 insert into room_character_personality values (1064, 1);
 insert into room_character_personality values (1065, 3);
 insert into room_character_personality values (1066, 3);
+insert into room_character_personality values (1067, 4);
 insert into room_character_personality values (1068, 1);
 insert into room_character_personality values (1070, 4);
 insert into room_character_personality values (1071, 1);

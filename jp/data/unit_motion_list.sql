@@ -59,6 +59,7 @@ insert into unit_motion_list values (106301, 1);
 insert into unit_motion_list values (106401, 1);
 insert into unit_motion_list values (106501, 1);
 insert into unit_motion_list values (106601, 1);
+insert into unit_motion_list values (106701, 1);
 insert into unit_motion_list values (106801, 1);
 insert into unit_motion_list values (107001, 1);
 insert into unit_motion_list values (107101, 1);

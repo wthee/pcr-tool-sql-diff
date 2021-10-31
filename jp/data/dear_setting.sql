@@ -14,6 +14,7 @@ insert into dear_setting values (10071, '信頼度', 10071103, 1, 6044101);
 insert into dear_setting values (10075, '信頼度', 10075103, 1, 6048101);
 insert into dear_setting values (10076, '信頼度', 10076105, 1, 6076101);
 insert into dear_setting values (10077, '信頼度', 10077103, 1, 6050106);
+insert into dear_setting values (10078, '信頼度', 10078114, 1, 6078101);
 insert into dear_setting values (20015, '信頼度', 0, 1, 0);
 insert into dear_setting values (20017, '信頼度', 0, 1, 0);
 insert into dear_setting values (20018, '信頼度', 0, 1, 0);

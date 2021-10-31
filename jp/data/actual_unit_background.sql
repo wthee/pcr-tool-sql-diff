@@ -59,6 +59,7 @@ insert into actual_unit_background values (106331, 'アリサ', 510350, 4);
 insert into actual_unit_background values (106431, '阿賀斗 紫布菜', 510124, 2);
 insert into actual_unit_background values (106531, '鬼道 嘉夜', 510352, 4);
 insert into actual_unit_background values (106631, '一ノ瀬 祈梨', 510301, 4);
+insert into actual_unit_background values (106731, '遠野 帆稀', 510290, 4);
 insert into actual_unit_background values (106831, '模索路 晶', 510120, 2);
 insert into actual_unit_background values (107031, '現士実 似々花', 510181, 4);
 insert into actual_unit_background values (107131, 'クリスティーナ・モーガン', 510120, 4);

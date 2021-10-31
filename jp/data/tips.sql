@@ -58,6 +58,7 @@ insert into tips values (4106101, 106101, 1, '必殺技');
 insert into tips values (4106301, 106301, 1, '感動の出会い');
 insert into tips values (4106401, 106401, 1, 'じゃなくて');
 insert into tips values (4106601, 106601, 1, '下剋上');
+insert into tips values (4106701, 106701, 1, 'ヒミツの作者');
 insert into tips values (4106801, 106801, 1, '腕前');
 insert into tips values (4107001, 107001, 1, 'ドッキリ大成功');
 insert into tips values (4107101, 107101, 1, '退屈だ……');
