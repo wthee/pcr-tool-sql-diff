@@ -102,6 +102,14 @@ insert into enemy_m_parts values (401405505, '野豬雙胞胎 第5階段', 40140
 insert into enemy_m_parts values (401405605, '野豬雙胞胎 第1階段 單人模式', 401405606, 401405607, 401405608, 401405609, 0);
 insert into enemy_m_parts values (401405705, '野豬雙胞胎 第2階段 單人模式', 401405706, 401405707, 401405708, 401405709, 0);
 insert into enemy_m_parts values (401405805, '野豬雙胞胎 第3階段 單人模式', 401405806, 401405807, 401405808, 401405809, 0);
+insert into enemy_m_parts values (401406104, '三重岩 第1階段', 401406105, 401406106, 401406107, 0, 0);
+insert into enemy_m_parts values (401406204, '三重岩 第2階段', 401406205, 401406206, 401406207, 0, 0);
+insert into enemy_m_parts values (401406304, '三重岩 第3階段', 401406305, 401406306, 401406307, 0, 0);
+insert into enemy_m_parts values (401406404, '三重岩 第4階段', 401406405, 401406406, 401406407, 0, 0);
+insert into enemy_m_parts values (401406504, '三重岩 第5階段', 401406505, 401406506, 401406507, 0, 0);
+insert into enemy_m_parts values (401406604, '三重岩 第1階段 單人模式', 401406605, 401406606, 401406607, 0, 0);
+insert into enemy_m_parts values (401406704, '三重岩 第2階段 單人模式', 401406705, 401406706, 401406707, 0, 0);
+insert into enemy_m_parts values (401406804, '三重岩 第3階段 單人模式', 401406805, 401406806, 401406807, 0, 0);
 insert into enemy_m_parts values (501010601, '狂怒綠龍', 501010602, 501010603, 501010604, 0, 0);
 insert into enemy_m_parts values (501010701, '黑月守護像', 501010702, 501010703, 501010704, 0, 0);
 insert into enemy_m_parts values (501010705, '白陽守護像', 501010706, 501010707, 501010708, 0, 0);

@@ -245,3 +245,13 @@ insert into gacha_exchange_lineup values (249, 137, 116901, 3, 1049, '2021/10/18
 insert into gacha_exchange_lineup values (250, 138, 107801, 3, 0, '2021/10/22 16:00:00', '2021/10/26 15:59:59');
 insert into gacha_exchange_lineup values (251, 138, 107501, 3, 0, '2021/10/22 16:00:00', '2021/10/26 15:59:59');
 insert into gacha_exchange_lineup values (252, 139, 114401, 3, 0, '2021/10/26 16:00:00', '2021/11/01 15:59:59');
+insert into gacha_exchange_lineup values (253, 140, 180301, 3, 1050, '2021/11/01 16:00:00', '2021/11/04 15:59:59');
+insert into gacha_exchange_lineup values (254, 140, 180601, 3, 0, '2021/11/01 16:00:00', '2021/11/04 15:59:59');
+insert into gacha_exchange_lineup values (255, 140, 180101, 3, 0, '2021/11/01 16:00:00', '2021/11/04 15:59:59');
+insert into gacha_exchange_lineup values (256, 140, 106801, 3, 0, '2021/11/01 16:00:00', '2021/11/04 15:59:59');
+insert into gacha_exchange_lineup values (257, 140, 180201, 3, 0, '2021/11/01 16:00:00', '2021/11/04 15:59:59');
+insert into gacha_exchange_lineup values (258, 140, 180501, 3, 0, '2021/11/01 16:00:00', '2021/11/04 15:59:59');
+insert into gacha_exchange_lineup values (259, 140, 180401, 3, 0, '2021/11/01 16:00:00', '2021/11/04 15:59:59');
+insert into gacha_exchange_lineup values (260, 140, 107001, 3, 0, '2021/11/01 16:00:00', '2021/11/04 15:59:59');
+insert into gacha_exchange_lineup values (261, 140, 106101, 3, 0, '2021/11/01 16:00:00', '2021/11/04 15:59:59');
+insert into gacha_exchange_lineup values (262, 140, 107101, 3, 0, '2021/11/01 16:00:00', '2021/11/04 15:59:59');

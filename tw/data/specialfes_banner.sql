@@ -8,3 +8,4 @@ insert into specialfes_banner values (50108, 10001, 10002, 10003, 10005, 10006, 
 insert into specialfes_banner values (50116, 10001, 10002, 10003, 10005, 10006, 10007, 10008, 10009, 0, 0);
 insert into specialfes_banner values (50119, 10001, 10002, 10003, 10005, 10006, 10007, 10008, 10009, 10010, 0);
 insert into specialfes_banner values (50129, 10001, 10002, 10003, 10005, 10006, 10007, 10008, 10009, 10010, 0);
+insert into specialfes_banner values (50140, 10001, 10002, 10003, 10005, 10006, 10007, 10008, 10009, 10010, 10011);

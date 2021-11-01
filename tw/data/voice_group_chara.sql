@@ -1,7 +1,7 @@
 CREATE TABLE 'voice_group_chara' ('group_unit_id' INTEGER NOT NULL, 'group_unit_id_comment' TEXT NOT NULL, 'unit_id_01' INTEGER NOT NULL, 'unit_id_02' INTEGER NOT NULL, 'unit_id_03' INTEGER NOT NULL, 'unit_id_04' INTEGER NOT NULL, 'unit_id_05' INTEGER NOT NULL, 'unit_id_06' INTEGER NOT NULL, 'unit_id_07' INTEGER NOT NULL, 'unit_id_08' INTEGER NOT NULL, 'unit_id_09' INTEGER NOT NULL, 'unit_id_10' INTEGER NOT NULL, PRIMARY KEY('group_unit_id'));
 insert into voice_group_chara values (100101001, '破曉之星（日和）', 100101, 108701, 180101, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100201001, '破曉之星（優衣）', 100201, 108801, 180201, 115601, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (100301001, '破曉之星（怜）', 100301, 108901, 114001, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (100301001, '破曉之星（怜）', 100301, 108901, 114001, 180301, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100401001, '小小甜心（禊）', 100401, 111201, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100501001, '王宮騎士團（茉莉）', 100501, 114101, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100601001, '惡魔偽王國軍（茜里）', 100601, 113701, 0, 0, 0, 0, 0, 0, 0, 0);
