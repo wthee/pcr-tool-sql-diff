@@ -20,9 +20,9 @@ insert into enemy_m_parts values (401042305, '阿克艾利欧斯 第3阶段', 40
 insert into enemy_m_parts values (401045905, '暴食魔兽 第3阶段 单人模式', 401045906, 401045907, 401045908, 0, 0);
 insert into enemy_m_parts values (401046105, '人马射手 第3阶段 单人模式', 401046106, 401046107, 0, 0, 0);
 insert into enemy_m_parts values (401046305, '阿克艾利欧斯 第3阶段 单人模式', 401046306, 401046307, 0, 0, 0);
-insert into enemy_m_parts values (610017101, '培提尔其乌斯 NORMAL', 610017102, 610017103, 610017104, 0, 0);
-insert into enemy_m_parts values (610017201, '培提尔其乌斯 HARD', 610017202, 610017203, 610017204, 0, 0);
-insert into enemy_m_parts values (610017301, '培提尔其乌斯 VERY HARD', 610017302, 610017303, 610017304, 0, 0);
+insert into enemy_m_parts values (610017101, '培提尔其乌斯 普通难度', 610017102, 610017103, 610017104, 0, 0);
+insert into enemy_m_parts values (610017201, '培提尔其乌斯 困难难度', 610017202, 610017203, 610017204, 0, 0);
+insert into enemy_m_parts values (610017301, '培提尔其乌斯 高难难度', 610017302, 610017303, 610017304, 0, 0);
 insert into enemy_m_parts values (610017401, '培提尔其乌斯 SP1', 610017411, 610017412, 610017413, 0, 0);
 insert into enemy_m_parts values (610017402, '培提尔其乌斯 SP2', 610017421, 610017422, 610017423, 0, 0);
 insert into enemy_m_parts values (610017403, '培提尔其乌斯 SP3', 610017431, 610017432, 610017433, 0, 0);

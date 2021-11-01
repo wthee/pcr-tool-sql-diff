@@ -26,3 +26,4 @@ insert into event_introduction values (24, 10024, 1, '2021/09/17 15:00:00', '209
 insert into event_introduction values (25, 10025, 1, '2021/09/30 15:00:00', '2099/12/31 23:59:59', 380000, 380000, 0, 0, 0, 0, 'bgm_M265', 'bgm_M265_Top');
 insert into event_introduction values (26, 10026, 1, '2021/10/15 15:00:00', '2099/12/31 23:59:59', 380000, 380000, 0, 0, 0, 0, 'bgm_M135', 'bgm_M135');
 insert into event_introduction values (27, 10027, 1, '2021/10/28 15:00:00', '2099/12/31 23:59:59', 380000, 380000, 0, 0, 0, 0, 'bgm_M273', 'bgm_M273');
+insert into event_introduction values (28, 10028, 1, '2021/11/12 15:00:00', '2099/12/31 23:59:59', 380000, 380000, 0, 0, 0, 0, 'bgm_M162', 'bgm_M162');
