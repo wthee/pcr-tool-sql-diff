@@ -23,7 +23,7 @@ insert into voice_group_chara values (102201001, '惡魔偽王國軍（依里）
 insert into voice_group_chara values (102301001, '咲戀育幼院（綾音）', 102301, 108601, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (102501001, '咲戀育幼院（鈴莓）', 102501, 107701, 112101, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (102601001, '伊麗莎白牧場（鈴）', 102601, 112701, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (102701001, '暮光流星群（惠理子）', 102701, 109001, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (102701001, '暮光流星群（惠理子）', 102701, 109001, 117001, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (102801001, '咲戀育幼院（咲戀）', 102801, 110301, 114501, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (102901001, '慈樂之音（望）', 102901, 111601, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (103001001, '純白之翼（妮諾）', 103001, 109601, 0, 0, 0, 0, 0, 0, 0, 0);
