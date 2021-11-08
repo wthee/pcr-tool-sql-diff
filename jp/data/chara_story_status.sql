@@ -451,6 +451,10 @@ insert into chara_story_status values (1053005, 'モニカのエピソード第5
 insert into chara_story_status values (1053006, 'モニカのエピソード第6話', 2, 40, 6, 10, 0, 0, 0, 0, 0, 0, 1053, 1142, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1053007, 'モニカのエピソード第7話', 2, 40, 6, 10, 0, 0, 0, 0, 0, 0, 1053, 1142, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1053008, 'モニカのエピソード第8話', 2, 85, 6, 15, 0, 0, 0, 0, 0, 0, 1053, 1142, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1053009, 'モニカのエピソード第9話', 2, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1053, 1142, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1053010, 'モニカのエピソード第10話', 2, 80, 6, 40, 0, 0, 0, 0, 0, 0, 1053, 1142, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1053011, 'モニカのエピソード第11話', 2, 80, 6, 40, 0, 0, 0, 0, 0, 0, 1053, 1142, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1053012, 'モニカのエピソード第12話', 2, 200, 6, 60, 0, 0, 0, 0, 0, 0, 1053, 1142, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1054002, 'ツムギのエピソード第2話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1054, 1139, 1174, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1054003, 'ツムギのエピソード第3話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1054, 1139, 1174, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1054004, 'ツムギのエピソード第4話', 2, 30, 0, 0, 0, 0, 0, 0, 0, 0, 1054, 1139, 1174, 0, 0, 0, 0, 0, 0, 0);
@@ -526,6 +530,10 @@ insert into chara_story_status values (1063005, 'アリサのエピソード第5
 insert into chara_story_status values (1063006, 'アリサのエピソード第6話', 2, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1063, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1063007, 'アリサのエピソード第7話', 2, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1063, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1063008, 'アリサのエピソード第8話', 2, 90, 6, 10, 0, 0, 0, 0, 0, 0, 1063, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1063009, 'アリサのエピソード第9話', 2, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1063, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1063010, 'アリサのエピソード第10話', 2, 80, 6, 40, 0, 0, 0, 0, 0, 0, 1063, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1063011, 'アリサのエピソード第11話', 2, 80, 6, 40, 0, 0, 0, 0, 0, 0, 1063, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1063012, 'アリサのエピソード第12話', 2, 200, 6, 60, 0, 0, 0, 0, 0, 0, 1063, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1064002, 'シェフィのエピソード第2話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1064, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1064003, 'シェフィのエピソード第3話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1064, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1064004, 'シェフィのエピソード第4話', 2, 30, 0, 0, 0, 0, 0, 0, 0, 0, 1064, 0, 0, 0, 0, 0, 0, 0, 0, 0);
