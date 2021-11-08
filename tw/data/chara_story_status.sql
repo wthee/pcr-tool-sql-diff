@@ -154,6 +154,10 @@ insert into chara_story_status values (1017005, '香織のエピソード第5話
 insert into chara_story_status values (1017006, '香織のエピソード第6話', 2, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1017, 1105, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1017007, '香織のエピソード第7話', 2, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1017, 1105, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1017008, '香織のエピソード第8話', 2, 90, 6, 10, 0, 0, 0, 0, 0, 0, 1017, 1105, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1017009, 'カオリのエピソード第9話', 2, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1017, 1105, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1017010, 'カオリのエピソード第10話', 2, 100, 6, 40, 0, 0, 0, 0, 0, 0, 1017, 1105, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1017011, 'カオリのエピソード第11話', 2, 100, 6, 40, 0, 0, 0, 0, 0, 0, 1017, 1105, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1017012, 'カオリのエピソード第12話', 2, 200, 6, 60, 0, 0, 0, 0, 0, 0, 1017, 1105, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1018002, '伊緒のエピソード第2話', 4, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1018, 1101, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1018003, '伊緒のエピソード第3話', 4, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1018, 1101, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1018004, '伊緒のエピソード第4話', 4, 30, 0, 0, 0, 0, 0, 0, 0, 0, 1018, 1101, 0, 0, 0, 0, 0, 0, 0, 0);
