@@ -125,3 +125,5 @@ insert into unique_equipment_craft values (131381, 1000000, 2, 31138, 50, 4, 140
 insert into unique_equipment_craft values (131391, 1000000, 2, 31139, 50, 4, 140000, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unique_equipment_craft values (131401, 1000000, 2, 31140, 50, 4, 140000, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unique_equipment_craft values (131411, 1000000, 2, 31141, 50, 4, 140000, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into unique_equipment_craft values (131421, 1000000, 2, 31142, 50, 4, 140000, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into unique_equipment_craft values (131431, 1000000, 2, 31143, 50, 4, 140000, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
