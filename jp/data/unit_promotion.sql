@@ -20,7 +20,8 @@ insert into unit_promotion values (100101, 18, 106102, 106101, 106281, 105287, 1
 insert into unit_promotion values (100101, 19, 106103, 106102, 106282, 106281, 106552, 106551);
 insert into unit_promotion values (100101, 20, 107101, 106103, 106283, 106282, 106553, 106552);
 insert into unit_promotion values (100101, 21, 107102, 107101, 107281, 106283, 107551, 106553);
-insert into unit_promotion values (100101, 22, 999999, 107102, 107282, 107281, 107552, 107551);
+insert into unit_promotion values (100101, 22, 107103, 107102, 107282, 107281, 107552, 107551);
+insert into unit_promotion values (100101, 23, 999999, 107103, 999999, 107282, 999999, 107552);
 insert into unit_promotion values (100201, 1, 101251, 101251, 101371, 101521, 101611, 101581);
 insert into unit_promotion values (100201, 2, 102252, 102251, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (100201, 3, 103251, 102252, 102372, 102521, 102612, 102581);
@@ -42,7 +43,8 @@ insert into unit_promotion values (100201, 18, 106252, 106251, 106461, 105464, 1
 insert into unit_promotion values (100201, 19, 106253, 106252, 106521, 106461, 106582, 106581);
 insert into unit_promotion values (100201, 20, 107251, 106253, 106462, 106372, 106583, 106582);
 insert into unit_promotion values (100201, 21, 107252, 107251, 107461, 106462, 107581, 106583);
-insert into unit_promotion values (100201, 22, 999999, 107252, 107462, 107461, 107582, 107581);
+insert into unit_promotion values (100201, 22, 107253, 107252, 107462, 107461, 107582, 107581);
+insert into unit_promotion values (100201, 23, 999999, 107253, 999999, 107462, 999999, 107582);
 insert into unit_promotion values (100301, 1, 101011, 101011, 101281, 101401, 101071, 101581);
 insert into unit_promotion values (100301, 2, 102014, 102011, 102311, 102493, 101071, 101551);
 insert into unit_promotion values (100301, 3, 103011, 102014, 102282, 102401, 102071, 102551);
@@ -64,7 +66,8 @@ insert into unit_promotion values (100301, 18, 106012, 106011, 106281, 105287, 1
 insert into unit_promotion values (100301, 19, 106013, 106012, 106282, 106281, 106552, 106551);
 insert into unit_promotion values (100301, 20, 107011, 106013, 106343, 106282, 106553, 106552);
 insert into unit_promotion values (100301, 21, 107012, 107011, 107341, 106343, 107551, 106553);
-insert into unit_promotion values (100301, 22, 999999, 107012, 107342, 107341, 107552, 107551);
+insert into unit_promotion values (100301, 22, 107013, 107012, 107342, 107341, 107552, 107551);
+insert into unit_promotion values (100301, 23, 999999, 107013, 999999, 107342, 999999, 107552);
 insert into unit_promotion values (100401, 1, 101101, 101101, 101281, 101431, 101581, 101581);
 insert into unit_promotion values (100401, 2, 102101, 102071, 102341, 102431, 101581, 101581);
 insert into unit_promotion values (100401, 3, 103071, 102101, 102342, 102432, 102581, 102581);
@@ -86,7 +89,8 @@ insert into unit_promotion values (100401, 18, 106102, 106101, 106281, 105347, 1
 insert into unit_promotion values (100401, 19, 106103, 106102, 106282, 106281, 106552, 106581);
 insert into unit_promotion values (100401, 20, 107101, 106103, 106491, 106282, 106553, 106582);
 insert into unit_promotion values (100401, 21, 107102, 107101, 107281, 106491, 107551, 106583);
-insert into unit_promotion values (100401, 22, 999999, 107102, 107342, 107281, 107552, 107581);
+insert into unit_promotion values (100401, 22, 107103, 107102, 107342, 107281, 107552, 107581);
+insert into unit_promotion values (100401, 23, 999999, 107103, 999999, 107342, 999999, 107582);
 insert into unit_promotion values (100501, 1, 101071, 101401, 101281, 101401, 101581, 101581);
 insert into unit_promotion values (100501, 2, 102013, 102491, 102281, 102431, 101581, 101581);
 insert into unit_promotion values (100501, 3, 103071, 102401, 102282, 102401, 102581, 102581);
@@ -108,7 +112,8 @@ insert into unit_promotion values (100501, 18, 106072, 106071, 106401, 105403, 1
 insert into unit_promotion values (100501, 19, 106073, 106072, 106431, 106401, 106582, 106581);
 insert into unit_promotion values (100501, 20, 107071, 106073, 106491, 106431, 106583, 106582);
 insert into unit_promotion values (100501, 21, 107072, 107071, 107281, 106491, 107581, 106583);
-insert into unit_promotion values (100501, 22, 999999, 107072, 107342, 107281, 107582, 107581);
+insert into unit_promotion values (100501, 22, 107073, 107072, 107342, 107281, 107582, 107581);
+insert into unit_promotion values (100501, 23, 999999, 107073, 999999, 107342, 999999, 107582);
 insert into unit_promotion values (100601, 1, 101251, 101251, 101371, 101521, 101611, 101581);
 insert into unit_promotion values (100601, 2, 102252, 102251, 102371, 102461, 101611, 101581);
 insert into unit_promotion values (100601, 3, 103251, 102252, 102372, 102521, 102612, 102581);
@@ -130,7 +135,8 @@ insert into unit_promotion values (100601, 18, 106252, 106251, 106461, 105464, 1
 insert into unit_promotion values (100601, 19, 106253, 106252, 106521, 106461, 106612, 106581);
 insert into unit_promotion values (100601, 20, 107251, 106253, 106462, 106521, 106613, 106582);
 insert into unit_promotion values (100601, 21, 107252, 107251, 107461, 106462, 107611, 106583);
-insert into unit_promotion values (100601, 22, 999999, 107252, 107462, 107461, 107612, 107581);
+insert into unit_promotion values (100601, 22, 107253, 107252, 107462, 107461, 107612, 107581);
+insert into unit_promotion values (100601, 23, 999999, 107253, 999999, 107462, 999999, 107582);
 insert into unit_promotion values (100701, 1, 101161, 101281, 101431, 101431, 101581, 101581);
 insert into unit_promotion values (100701, 2, 102163, 102162, 102341, 102431, 101581, 101581);
 insert into unit_promotion values (100701, 3, 103161, 102432, 102342, 102432, 102581, 102581);
@@ -152,7 +158,8 @@ insert into unit_promotion values (100701, 18, 106162, 106161, 106341, 105347, 1
 insert into unit_promotion values (100701, 19, 106163, 106162, 106342, 106341, 106582, 106581);
 insert into unit_promotion values (100701, 20, 107161, 106073, 106491, 106342, 106583, 106582);
 insert into unit_promotion values (100701, 21, 107162, 107071, 107341, 106491, 107581, 106583);
-insert into unit_promotion values (100701, 22, 999999, 107162, 107342, 107341, 107582, 107581);
+insert into unit_promotion values (100701, 22, 107163, 107162, 107342, 107341, 107582, 107581);
+insert into unit_promotion values (100701, 23, 999999, 107163, 999999, 107342, 999999, 107582);
 insert into unit_promotion values (100801, 1, 101251, 101251, 101371, 101521, 101611, 101581);
 insert into unit_promotion values (100801, 2, 102252, 102251, 102371, 102461, 101611, 101581);
 insert into unit_promotion values (100801, 3, 103251, 102252, 102372, 102521, 102612, 102581);
@@ -174,7 +181,8 @@ insert into unit_promotion values (100801, 18, 106252, 106251, 106461, 105464, 1
 insert into unit_promotion values (100801, 19, 106253, 106252, 106521, 106461, 106612, 106611);
 insert into unit_promotion values (100801, 20, 107251, 106253, 106462, 106372, 106613, 106612);
 insert into unit_promotion values (100801, 21, 107252, 107251, 107461, 106462, 107611, 106613);
-insert into unit_promotion values (100801, 22, 999999, 107252, 107462, 107461, 107612, 107611);
+insert into unit_promotion values (100801, 22, 107253, 107252, 107462, 107461, 107612, 107611);
+insert into unit_promotion values (100801, 23, 999999, 107253, 999999, 107462, 999999, 107612);
 insert into unit_promotion values (100901, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (100901, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (100901, 3, 103221, 102222, 102372, 102521, 102611, 102611);
@@ -196,7 +204,8 @@ insert into unit_promotion values (100901, 18, 106222, 106221, 106371, 105227, 1
 insert into unit_promotion values (100901, 19, 106223, 106222, 106372, 106221, 106612, 106611);
 insert into unit_promotion values (100901, 20, 107221, 106223, 106373, 106222, 106613, 106612);
 insert into unit_promotion values (100901, 21, 107222, 107221, 107371, 106223, 107611, 106613);
-insert into unit_promotion values (100901, 22, 999999, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (100901, 22, 107223, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (100901, 23, 999999, 107223, 999999, 107222, 999999, 107612);
 insert into unit_promotion values (101001, 1, 101251, 101251, 101371, 101521, 101611, 101581);
 insert into unit_promotion values (101001, 2, 102252, 102251, 102371, 102461, 101611, 101581);
 insert into unit_promotion values (101001, 3, 103251, 102252, 102372, 102521, 102612, 102581);
@@ -218,7 +227,8 @@ insert into unit_promotion values (101001, 18, 106252, 106251, 106461, 105464, 1
 insert into unit_promotion values (101001, 19, 106253, 106252, 106521, 106461, 106582, 106611);
 insert into unit_promotion values (101001, 20, 107251, 106253, 106462, 106372, 106583, 106612);
 insert into unit_promotion values (101001, 21, 107252, 107251, 107461, 106462, 107581, 106613);
-insert into unit_promotion values (101001, 22, 999999, 107252, 107462, 107461, 107582, 107611);
+insert into unit_promotion values (101001, 22, 107253, 107252, 107462, 107461, 107582, 107611);
+insert into unit_promotion values (101001, 23, 999999, 107253, 999999, 107462, 999999, 107612);
 insert into unit_promotion values (101101, 1, 101131, 101131, 101281, 101551, 101131, 101551);
 insert into unit_promotion values (101101, 2, 102131, 102071, 102341, 102551, 101131, 101551);
 insert into unit_promotion values (101101, 3, 103071, 102131, 102342, 102552, 102071, 102551);
@@ -240,7 +250,8 @@ insert into unit_promotion values (101101, 18, 106132, 106131, 106341, 105137, 1
 insert into unit_promotion values (101101, 19, 106133, 106132, 106282, 106131, 106552, 106551);
 insert into unit_promotion values (101101, 20, 107131, 106133, 106283, 106132, 106553, 106552);
 insert into unit_promotion values (101101, 21, 107132, 107131, 107281, 106133, 107551, 106553);
-insert into unit_promotion values (101101, 22, 999999, 107132, 107282, 107131, 107552, 107551);
+insert into unit_promotion values (101101, 22, 107133, 107132, 107282, 107131, 107552, 107551);
+insert into unit_promotion values (101101, 23, 999999, 107133, 999999, 107132, 999999, 107552);
 insert into unit_promotion values (101201, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (101201, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (101201, 3, 103221, 102222, 102372, 102521, 102611, 102611);
@@ -262,7 +273,8 @@ insert into unit_promotion values (101201, 18, 106222, 106221, 106371, 105377, 1
 insert into unit_promotion values (101201, 19, 106223, 106222, 106372, 106371, 106612, 106611);
 insert into unit_promotion values (101201, 20, 107221, 106223, 106373, 106521, 106613, 106612);
 insert into unit_promotion values (101201, 21, 107222, 107221, 107371, 106373, 107611, 106613);
-insert into unit_promotion values (101201, 22, 999999, 107222, 107372, 107371, 107612, 107611);
+insert into unit_promotion values (101201, 22, 107223, 107222, 107372, 107371, 107612, 107611);
+insert into unit_promotion values (101201, 23, 999999, 107223, 999999, 107372, 999999, 107612);
 insert into unit_promotion values (101301, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (101301, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (101301, 3, 103221, 102222, 102372, 102521, 102611, 102611);
@@ -284,7 +296,8 @@ insert into unit_promotion values (101301, 18, 106222, 106221, 106371, 105377, 1
 insert into unit_promotion values (101301, 19, 106223, 106222, 106372, 106371, 106612, 106611);
 insert into unit_promotion values (101301, 20, 107221, 106223, 106373, 106521, 106613, 106612);
 insert into unit_promotion values (101301, 21, 107222, 107221, 107371, 106373, 107611, 106613);
-insert into unit_promotion values (101301, 22, 999999, 107222, 107372, 107371, 107612, 107611);
+insert into unit_promotion values (101301, 22, 107223, 107222, 107372, 107371, 107612, 107611);
+insert into unit_promotion values (101301, 23, 999999, 107223, 999999, 107372, 999999, 107612);
 insert into unit_promotion values (101401, 1, 101251, 101251, 101371, 101521, 101611, 101581);
 insert into unit_promotion values (101401, 2, 102252, 102251, 102371, 102461, 101611, 101581);
 insert into unit_promotion values (101401, 3, 103251, 102252, 102372, 102521, 102612, 102581);
@@ -306,7 +319,8 @@ insert into unit_promotion values (101401, 18, 106252, 106251, 106461, 105464, 1
 insert into unit_promotion values (101401, 19, 106253, 106252, 106521, 106461, 106612, 106581);
 insert into unit_promotion values (101401, 20, 107251, 106253, 106462, 106372, 106613, 106582);
 insert into unit_promotion values (101401, 21, 107252, 107251, 107461, 106462, 107611, 106583);
-insert into unit_promotion values (101401, 22, 999999, 107252, 107462, 107461, 107612, 107581);
+insert into unit_promotion values (101401, 22, 107253, 107252, 107462, 107461, 107612, 107581);
+insert into unit_promotion values (101401, 23, 999999, 107253, 999999, 107462, 999999, 107582);
 insert into unit_promotion values (101501, 1, 101251, 101251, 101371, 101521, 101611, 101581);
 insert into unit_promotion values (101501, 2, 102252, 102251, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (101501, 3, 103251, 102252, 102372, 102521, 102612, 102581);
@@ -328,7 +342,8 @@ insert into unit_promotion values (101501, 18, 106252, 106251, 106461, 105464, 1
 insert into unit_promotion values (101501, 19, 106253, 106252, 106521, 106461, 106582, 106611);
 insert into unit_promotion values (101501, 20, 107251, 106253, 106462, 106372, 106583, 106612);
 insert into unit_promotion values (101501, 21, 107252, 107251, 107461, 106462, 107581, 106613);
-insert into unit_promotion values (101501, 22, 999999, 107252, 107462, 107461, 107582, 107611);
+insert into unit_promotion values (101501, 22, 107253, 107252, 107462, 107461, 107582, 107611);
+insert into unit_promotion values (101501, 23, 999999, 107253, 999999, 107462, 999999, 107612);
 insert into unit_promotion values (101601, 1, 101131, 101131, 101281, 101551, 101131, 101551);
 insert into unit_promotion values (101601, 2, 102131, 102071, 102341, 102551, 101131, 101551);
 insert into unit_promotion values (101601, 3, 103071, 102131, 102342, 102552, 102071, 102551);
@@ -350,7 +365,8 @@ insert into unit_promotion values (101601, 18, 106132, 106131, 106341, 105137, 1
 insert into unit_promotion values (101601, 19, 106133, 106132, 106282, 106131, 106552, 106551);
 insert into unit_promotion values (101601, 20, 107131, 106133, 106283, 106132, 106553, 106552);
 insert into unit_promotion values (101601, 21, 107132, 107131, 107491, 106133, 107551, 106553);
-insert into unit_promotion values (101601, 22, 999999, 107132, 107492, 107131, 107552, 107551);
+insert into unit_promotion values (101601, 22, 107133, 107132, 107492, 107131, 107552, 107551);
+insert into unit_promotion values (101601, 23, 999999, 107133, 999999, 107132, 999999, 107552);
 insert into unit_promotion values (101701, 1, 101101, 101071, 101281, 101431, 101071, 101551);
 insert into unit_promotion values (101701, 2, 102101, 102071, 102341, 102431, 101551, 101551);
 insert into unit_promotion values (101701, 3, 103071, 102101, 102342, 102432, 102551, 102551);
@@ -372,7 +388,8 @@ insert into unit_promotion values (101701, 18, 106102, 106101, 106341, 105107, 1
 insert into unit_promotion values (101701, 19, 106103, 106102, 106282, 106101, 106552, 106551);
 insert into unit_promotion values (101701, 20, 107101, 106103, 106283, 106102, 106553, 106552);
 insert into unit_promotion values (101701, 21, 107102, 107101, 107341, 106103, 107551, 106553);
-insert into unit_promotion values (101701, 22, 999999, 107102, 107492, 107101, 107552, 107551);
+insert into unit_promotion values (101701, 22, 107103, 107102, 107492, 107101, 107552, 107551);
+insert into unit_promotion values (101701, 23, 999999, 107103, 999999, 107102, 999999, 107552);
 insert into unit_promotion values (101801, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (101801, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (101801, 3, 103221, 102222, 102372, 102521, 102611, 102611);
@@ -394,7 +411,8 @@ insert into unit_promotion values (101801, 18, 106222, 106221, 106371, 105377, 1
 insert into unit_promotion values (101801, 19, 106223, 106222, 106521, 106371, 106612, 106581);
 insert into unit_promotion values (101801, 20, 107221, 106223, 106462, 106372, 106613, 106582);
 insert into unit_promotion values (101801, 21, 107222, 107221, 107461, 106462, 107611, 106583);
-insert into unit_promotion values (101801, 22, 999999, 107222, 107462, 107461, 107612, 107581);
+insert into unit_promotion values (101801, 22, 107223, 107222, 107462, 107461, 107612, 107581);
+insert into unit_promotion values (101801, 23, 999999, 107223, 999999, 107462, 999999, 107582);
 insert into unit_promotion values (102001, 1, 101011, 101191, 101281, 101401, 101581, 101551);
 insert into unit_promotion values (102001, 2, 102013, 102011, 102311, 102493, 101281, 101551);
 insert into unit_promotion values (102001, 3, 103011, 102192, 102312, 102401, 102581, 102551);
@@ -416,7 +434,8 @@ insert into unit_promotion values (102001, 18, 106192, 106191, 106281, 105287, 1
 insert into unit_promotion values (102001, 19, 106013, 106192, 106282, 106281, 106552, 106551);
 insert into unit_promotion values (102001, 20, 107011, 106193, 106283, 106282, 106553, 106552);
 insert into unit_promotion values (102001, 21, 107012, 107191, 107491, 106283, 107551, 106553);
-insert into unit_promotion values (102001, 22, 999999, 107192, 107282, 107491, 107552, 107551);
+insert into unit_promotion values (102001, 22, 107013, 107192, 107282, 107491, 107552, 107551);
+insert into unit_promotion values (102001, 23, 999999, 107193, 999999, 107282, 999999, 107552);
 insert into unit_promotion values (102101, 1, 101191, 101431, 101281, 101191, 101551, 101581);
 insert into unit_promotion values (102101, 2, 102192, 102431, 102311, 102191, 101431, 101581);
 insert into unit_promotion values (102101, 3, 103191, 102401, 102282, 102192, 102191, 102551);
@@ -438,7 +457,8 @@ insert into unit_promotion values (102101, 18, 106192, 106191, 106311, 105317, 1
 insert into unit_promotion values (102101, 19, 106193, 106192, 106312, 106311, 106582, 106581);
 insert into unit_promotion values (102101, 20, 107191, 106193, 106313, 106312, 106583, 106582);
 insert into unit_promotion values (102101, 21, 107192, 107191, 107311, 106313, 107581, 106583);
-insert into unit_promotion values (102101, 22, 999999, 107192, 107312, 107311, 107582, 107581);
+insert into unit_promotion values (102101, 22, 107193, 107192, 107312, 107311, 107582, 107581);
+insert into unit_promotion values (102101, 23, 999999, 107193, 999999, 107312, 999999, 107582);
 insert into unit_promotion values (102201, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (102201, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (102201, 3, 103221, 102222, 102372, 102521, 102611, 102611);
@@ -460,7 +480,8 @@ insert into unit_promotion values (102201, 18, 106222, 106221, 106371, 105227, 1
 insert into unit_promotion values (102201, 19, 106223, 106222, 106372, 106221, 106612, 106611);
 insert into unit_promotion values (102201, 20, 107221, 106223, 106373, 106222, 106613, 106612);
 insert into unit_promotion values (102201, 21, 107222, 107221, 107371, 106223, 107611, 106613);
-insert into unit_promotion values (102201, 22, 999999, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (102201, 22, 107223, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (102201, 23, 999999, 107223, 999999, 107222, 999999, 107612);
 insert into unit_promotion values (102301, 1, 101191, 101191, 101281, 101401, 101551, 101581);
 insert into unit_promotion values (102301, 2, 102192, 102191, 102311, 102493, 101551, 101551);
 insert into unit_promotion values (102301, 3, 103191, 102192, 102282, 102401, 102191, 102551);
@@ -482,7 +503,8 @@ insert into unit_promotion values (102301, 18, 106192, 106191, 106401, 105403, 1
 insert into unit_promotion values (102301, 19, 106193, 106192, 106431, 106401, 106552, 106551);
 insert into unit_promotion values (102301, 20, 107191, 106193, 106491, 106431, 106553, 106552);
 insert into unit_promotion values (102301, 21, 107192, 107191, 107281, 106491, 107551, 106553);
-insert into unit_promotion values (102301, 22, 999999, 107192, 107342, 107281, 107552, 107551);
+insert into unit_promotion values (102301, 22, 107193, 107192, 107342, 107281, 107552, 107551);
+insert into unit_promotion values (102301, 23, 999999, 107193, 999999, 107342, 999999, 107552);
 insert into unit_promotion values (102501, 1, 101251, 101251, 101371, 101521, 101611, 101581);
 insert into unit_promotion values (102501, 2, 102252, 102251, 102371, 102461, 101611, 101581);
 insert into unit_promotion values (102501, 3, 103251, 102252, 102372, 102521, 102612, 102581);
@@ -504,7 +526,8 @@ insert into unit_promotion values (102501, 18, 106252, 106251, 106371, 105377, 1
 insert into unit_promotion values (102501, 19, 106253, 106252, 106521, 106371, 106612, 106611);
 insert into unit_promotion values (102501, 20, 107251, 106253, 106373, 106521, 106613, 106612);
 insert into unit_promotion values (102501, 21, 107252, 107251, 107371, 106373, 107611, 106613);
-insert into unit_promotion values (102501, 22, 999999, 107252, 107372, 107371, 107612, 107611);
+insert into unit_promotion values (102501, 22, 107253, 107252, 107372, 107371, 107612, 107611);
+insert into unit_promotion values (102501, 23, 999999, 107253, 999999, 107372, 999999, 107612);
 insert into unit_promotion values (102601, 1, 101161, 101161, 101281, 101431, 101581, 101581);
 insert into unit_promotion values (102601, 2, 102163, 102162, 102341, 102491, 101581, 101581);
 insert into unit_promotion values (102601, 3, 103161, 102163, 102342, 102432, 102581, 102581);
@@ -526,7 +549,8 @@ insert into unit_promotion values (102601, 18, 106162, 106161, 106401, 105403, 1
 insert into unit_promotion values (102601, 19, 106163, 106162, 106431, 106401, 106582, 106581);
 insert into unit_promotion values (102601, 20, 107161, 106163, 106491, 106431, 106583, 106582);
 insert into unit_promotion values (102601, 21, 107162, 107161, 107281, 106491, 107581, 106583);
-insert into unit_promotion values (102601, 22, 999999, 107162, 107342, 107281, 107582, 107581);
+insert into unit_promotion values (102601, 22, 107163, 107162, 107342, 107281, 107582, 107581);
+insert into unit_promotion values (102601, 23, 999999, 107163, 999999, 107342, 999999, 107582);
 insert into unit_promotion values (102701, 1, 101191, 101191, 101401, 101191, 101551, 101551);
 insert into unit_promotion values (102701, 2, 102192, 102191, 102281, 102191, 101551, 101551);
 insert into unit_promotion values (102701, 3, 103191, 102192, 102282, 102192, 102551, 102551);
@@ -548,7 +572,8 @@ insert into unit_promotion values (102701, 18, 106192, 106191, 106281, 105197, 1
 insert into unit_promotion values (102701, 19, 106193, 106192, 106282, 106191, 106552, 106551);
 insert into unit_promotion values (102701, 20, 107191, 106193, 106283, 106192, 106553, 106552);
 insert into unit_promotion values (102701, 21, 107192, 107191, 107491, 106193, 107551, 106553);
-insert into unit_promotion values (102701, 22, 999999, 107192, 107492, 107191, 107552, 107551);
+insert into unit_promotion values (102701, 22, 107193, 107192, 107492, 107191, 107552, 107551);
+insert into unit_promotion values (102701, 23, 999999, 107193, 999999, 107192, 999999, 107552);
 insert into unit_promotion values (102801, 1, 101011, 101011, 101281, 101401, 101071, 101551);
 insert into unit_promotion values (102801, 2, 102013, 102011, 102311, 102493, 101071, 101551);
 insert into unit_promotion values (102801, 3, 103011, 102013, 102312, 102401, 102071, 102551);
@@ -570,7 +595,8 @@ insert into unit_promotion values (102801, 18, 106012, 106011, 106281, 105403, 1
 insert into unit_promotion values (102801, 19, 106013, 106012, 106431, 106281, 106552, 106551);
 insert into unit_promotion values (102801, 20, 107011, 106013, 106343, 106431, 106553, 106552);
 insert into unit_promotion values (102801, 21, 107012, 107011, 107341, 106343, 107551, 106553);
-insert into unit_promotion values (102801, 22, 999999, 107012, 107342, 107341, 107552, 107551);
+insert into unit_promotion values (102801, 22, 107013, 107012, 107342, 107341, 107552, 107551);
+insert into unit_promotion values (102801, 23, 999999, 107013, 999999, 107342, 999999, 107552);
 insert into unit_promotion values (102901, 1, 101011, 101401, 101281, 101401, 101551, 101581);
 insert into unit_promotion values (102901, 2, 102014, 102491, 102281, 102493, 101551, 101581);
 insert into unit_promotion values (102901, 3, 103011, 102401, 102282, 102401, 102162, 102581);
@@ -592,7 +618,8 @@ insert into unit_promotion values (102901, 18, 106012, 106011, 106401, 105403, 1
 insert into unit_promotion values (102901, 19, 106013, 106012, 106431, 106401, 106582, 106581);
 insert into unit_promotion values (102901, 20, 107011, 106013, 106491, 106431, 106583, 106582);
 insert into unit_promotion values (102901, 21, 107012, 107011, 107281, 106491, 107581, 106583);
-insert into unit_promotion values (102901, 22, 999999, 107012, 107342, 107281, 107582, 107581);
+insert into unit_promotion values (102901, 22, 107013, 107012, 107342, 107281, 107582, 107581);
+insert into unit_promotion values (102901, 23, 999999, 107013, 999999, 107342, 999999, 107582);
 insert into unit_promotion values (103001, 1, 101011, 101011, 101281, 101401, 101551, 101581);
 insert into unit_promotion values (103001, 2, 102041, 102011, 102281, 102493, 101011, 101581);
 insert into unit_promotion values (103001, 3, 103011, 102041, 102282, 102401, 102551, 102581);
@@ -614,7 +641,8 @@ insert into unit_promotion values (103001, 18, 106042, 106041, 106281, 105047, 1
 insert into unit_promotion values (103001, 19, 106043, 106042, 106282, 106041, 106552, 106551);
 insert into unit_promotion values (103001, 20, 107041, 106043, 106283, 106042, 106553, 106552);
 insert into unit_promotion values (103001, 21, 107042, 107041, 107281, 106043, 107551, 106553);
-insert into unit_promotion values (103001, 22, 999999, 107042, 107282, 107041, 107552, 107551);
+insert into unit_promotion values (103001, 22, 107043, 107042, 107282, 107041, 107552, 107551);
+insert into unit_promotion values (103001, 23, 999999, 107043, 999999, 107042, 999999, 107552);
 insert into unit_promotion values (103101, 1, 101011, 101011, 101281, 101401, 101551, 101581);
 insert into unit_promotion values (103101, 2, 102041, 102011, 102281, 102493, 101581, 101581);
 insert into unit_promotion values (103101, 3, 103011, 102041, 102282, 102401, 102551, 102581);
@@ -636,7 +664,8 @@ insert into unit_promotion values (103101, 18, 106042, 106041, 106281, 105287, 1
 insert into unit_promotion values (103101, 19, 106043, 106042, 106282, 106281, 106552, 106551);
 insert into unit_promotion values (103101, 20, 107041, 106043, 106283, 106282, 106553, 106552);
 insert into unit_promotion values (103101, 21, 107042, 107041, 107281, 106283, 107551, 106553);
-insert into unit_promotion values (103101, 22, 999999, 107042, 107342, 107281, 107552, 107551);
+insert into unit_promotion values (103101, 22, 107043, 107042, 107342, 107281, 107552, 107551);
+insert into unit_promotion values (103101, 23, 999999, 107043, 999999, 107342, 999999, 107552);
 insert into unit_promotion values (103201, 1, 101011, 101011, 101281, 101401, 101551, 101581);
 insert into unit_promotion values (103201, 2, 102013, 102011, 102311, 102493, 101011, 101581);
 insert into unit_promotion values (103201, 3, 103011, 102013, 102282, 102401, 102551, 102581);
@@ -658,7 +687,8 @@ insert into unit_promotion values (103201, 18, 106012, 106011, 106281, 105317, 1
 insert into unit_promotion values (103201, 19, 106013, 106012, 106312, 106281, 106552, 106551);
 insert into unit_promotion values (103201, 20, 107011, 106013, 106313, 106312, 106553, 106552);
 insert into unit_promotion values (103201, 21, 107012, 107011, 107311, 106313, 107551, 106553);
-insert into unit_promotion values (103201, 22, 999999, 107012, 107312, 107311, 107552, 107551);
+insert into unit_promotion values (103201, 22, 107013, 107012, 107312, 107311, 107552, 107551);
+insert into unit_promotion values (103201, 23, 999999, 107013, 999999, 107312, 999999, 107552);
 insert into unit_promotion values (103301, 1, 101161, 101161, 101281, 101431, 101161, 101581);
 insert into unit_promotion values (103301, 2, 102163, 102191, 102341, 102491, 101161, 101581);
 insert into unit_promotion values (103301, 3, 103161, 102163, 102342, 102432, 102162, 102581);
@@ -680,7 +710,8 @@ insert into unit_promotion values (103301, 18, 106192, 106191, 106311, 105317, 1
 insert into unit_promotion values (103301, 19, 106163, 106192, 106312, 106311, 106552, 106551);
 insert into unit_promotion values (103301, 20, 107161, 106193, 106313, 106312, 106553, 106552);
 insert into unit_promotion values (103301, 21, 107162, 107191, 107311, 106313, 107551, 106553);
-insert into unit_promotion values (103301, 22, 999999, 107192, 107312, 107311, 107552, 107551);
+insert into unit_promotion values (103301, 22, 107163, 107192, 107312, 107311, 107552, 107551);
+insert into unit_promotion values (103301, 23, 999999, 107193, 999999, 107312, 999999, 107552);
 insert into unit_promotion values (103401, 1, 101011, 101011, 101281, 101401, 101581, 101581);
 insert into unit_promotion values (103401, 2, 102014, 102011, 102281, 102281, 101581, 101581);
 insert into unit_promotion values (103401, 3, 103011, 102014, 102282, 102401, 102581, 102581);
@@ -702,7 +733,8 @@ insert into unit_promotion values (103401, 18, 106012, 106011, 106401, 105403, 1
 insert into unit_promotion values (103401, 19, 106013, 106012, 106431, 106401, 106582, 106581);
 insert into unit_promotion values (103401, 20, 107011, 106013, 106491, 106431, 106583, 106582);
 insert into unit_promotion values (103401, 21, 107012, 107011, 107281, 106491, 107581, 106583);
-insert into unit_promotion values (103401, 22, 999999, 107012, 107342, 107281, 107582, 107581);
+insert into unit_promotion values (103401, 22, 107013, 107012, 107342, 107281, 107582, 107581);
+insert into unit_promotion values (103401, 23, 999999, 107013, 999999, 107342, 999999, 107582);
 insert into unit_promotion values (103601, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (103601, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (103601, 3, 103221, 102222, 102372, 102521, 102611, 102611);
@@ -724,7 +756,8 @@ insert into unit_promotion values (103601, 18, 106222, 106221, 106371, 105227, 1
 insert into unit_promotion values (103601, 19, 106223, 106222, 106372, 106221, 106612, 106611);
 insert into unit_promotion values (103601, 20, 107221, 106223, 106373, 106222, 106613, 106612);
 insert into unit_promotion values (103601, 21, 107222, 107221, 107371, 106223, 107611, 106613);
-insert into unit_promotion values (103601, 22, 999999, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (103601, 22, 107223, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (103601, 23, 999999, 107223, 999999, 107222, 999999, 107612);
 insert into unit_promotion values (103701, 1, 101011, 101071, 101281, 101401, 101011, 101551);
 insert into unit_promotion values (103701, 2, 102041, 102071, 102281, 102493, 101551, 101551);
 insert into unit_promotion values (103701, 3, 103011, 102041, 102282, 102401, 102011, 102551);
@@ -746,7 +779,8 @@ insert into unit_promotion values (103701, 18, 106042, 106071, 106341, 105017, 1
 insert into unit_promotion values (103701, 19, 106043, 106072, 106282, 106011, 106552, 106551);
 insert into unit_promotion values (103701, 20, 107041, 106073, 106283, 106012, 106553, 106552);
 insert into unit_promotion values (103701, 21, 107042, 107071, 107491, 106013, 107551, 106553);
-insert into unit_promotion values (103701, 22, 999999, 107072, 107492, 107011, 107552, 107551);
+insert into unit_promotion values (103701, 22, 107043, 107072, 107492, 107011, 107552, 107551);
+insert into unit_promotion values (103701, 23, 999999, 107073, 999999, 107012, 999999, 107552);
 insert into unit_promotion values (103801, 1, 101131, 101131, 101071, 101431, 101551, 101551);
 insert into unit_promotion values (103801, 2, 102131, 102071, 102341, 102431, 101551, 101551);
 insert into unit_promotion values (103801, 3, 103071, 102131, 102131, 102432, 102551, 102551);
@@ -768,7 +802,8 @@ insert into unit_promotion values (103801, 18, 106132, 106131, 106341, 105137, 1
 insert into unit_promotion values (103801, 19, 106133, 106132, 106342, 106131, 106552, 106551);
 insert into unit_promotion values (103801, 20, 107131, 106133, 106343, 106132, 106553, 106552);
 insert into unit_promotion values (103801, 21, 107132, 107131, 107491, 106133, 107551, 106553);
-insert into unit_promotion values (103801, 22, 999999, 107132, 107492, 107131, 107552, 107551);
+insert into unit_promotion values (103801, 22, 107133, 107132, 107492, 107131, 107552, 107551);
+insert into unit_promotion values (103801, 23, 999999, 107133, 999999, 107132, 999999, 107552);
 insert into unit_promotion values (104001, 1, 101131, 101131, 101281, 101431, 101071, 101551);
 insert into unit_promotion values (104001, 2, 102131, 102071, 102341, 102431, 101551, 101551);
 insert into unit_promotion values (104001, 3, 103071, 102131, 102342, 102432, 102551, 102551);
@@ -790,7 +825,8 @@ insert into unit_promotion values (104001, 18, 106132, 106131, 106281, 105137, 1
 insert into unit_promotion values (104001, 19, 106133, 106132, 106282, 106131, 106582, 106551);
 insert into unit_promotion values (104001, 20, 107131, 106133, 106343, 106132, 106583, 106552);
 insert into unit_promotion values (104001, 21, 107132, 107131, 107341, 106133, 107581, 106553);
-insert into unit_promotion values (104001, 22, 999999, 107132, 107342, 107131, 107582, 107551);
+insert into unit_promotion values (104001, 22, 107133, 107132, 107342, 107131, 107582, 107551);
+insert into unit_promotion values (104001, 23, 999999, 107133, 999999, 107132, 999999, 107552);
 insert into unit_promotion values (104201, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (104201, 2, 102252, 102251, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (104201, 3, 103251, 102252, 102372, 102521, 102612, 102611);
@@ -812,7 +848,8 @@ insert into unit_promotion values (104201, 18, 106252, 106251, 106461, 105464, 1
 insert into unit_promotion values (104201, 19, 106253, 106252, 106521, 106461, 106582, 106611);
 insert into unit_promotion values (104201, 20, 107251, 106253, 106462, 106372, 106583, 106612);
 insert into unit_promotion values (104201, 21, 107252, 107251, 107461, 106462, 107581, 106613);
-insert into unit_promotion values (104201, 22, 999999, 107252, 107462, 107461, 107582, 107611);
+insert into unit_promotion values (104201, 22, 107253, 107252, 107462, 107461, 107582, 107611);
+insert into unit_promotion values (104201, 23, 999999, 107253, 999999, 107462, 999999, 107612);
 insert into unit_promotion values (104301, 1, 101011, 101011, 101281, 101401, 101011, 101551);
 insert into unit_promotion values (104301, 2, 102041, 102011, 102281, 102493, 101011, 101551);
 insert into unit_promotion values (104301, 3, 103011, 102041, 102282, 102401, 102011, 102551);
@@ -834,7 +871,8 @@ insert into unit_promotion values (104301, 18, 106042, 106041, 106281, 105047, 1
 insert into unit_promotion values (104301, 19, 106043, 106042, 106282, 106041, 106552, 106551);
 insert into unit_promotion values (104301, 20, 107041, 106043, 106283, 106042, 106553, 106552);
 insert into unit_promotion values (104301, 21, 107042, 107041, 107491, 106043, 107551, 106553);
-insert into unit_promotion values (104301, 22, 999999, 107042, 107492, 107041, 107552, 107551);
+insert into unit_promotion values (104301, 22, 107043, 107042, 107492, 107041, 107552, 107551);
+insert into unit_promotion values (104301, 23, 999999, 107043, 999999, 107042, 999999, 107552);
 insert into unit_promotion values (104401, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (104401, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (104401, 3, 103221, 102222, 102372, 102521, 102611, 102611);
@@ -856,7 +894,8 @@ insert into unit_promotion values (104401, 18, 106222, 106221, 106371, 105227, 1
 insert into unit_promotion values (104401, 19, 106223, 106222, 106372, 106221, 106612, 106611);
 insert into unit_promotion values (104401, 20, 107221, 106223, 106373, 106222, 106613, 106612);
 insert into unit_promotion values (104401, 21, 107222, 107221, 107371, 106223, 107611, 106613);
-insert into unit_promotion values (104401, 22, 999999, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (104401, 22, 107223, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (104401, 23, 999999, 107223, 999999, 107222, 999999, 107612);
 insert into unit_promotion values (104501, 1, 101071, 101521, 101281, 101431, 101581, 101581);
 insert into unit_promotion values (104501, 2, 102521, 102071, 102371, 102431, 101581, 101581);
 insert into unit_promotion values (104501, 3, 103071, 102521, 102372, 102432, 102581, 102581);
@@ -878,7 +917,8 @@ insert into unit_promotion values (104501, 18, 106072, 106071, 106461, 105464, 1
 insert into unit_promotion values (104501, 19, 106073, 106072, 106521, 106461, 106582, 106581);
 insert into unit_promotion values (104501, 20, 107071, 106073, 106491, 106372, 106583, 106582);
 insert into unit_promotion values (104501, 21, 107072, 107071, 107461, 106491, 107581, 106583);
-insert into unit_promotion values (104501, 22, 999999, 107072, 107462, 107461, 107582, 107581);
+insert into unit_promotion values (104501, 22, 107073, 107072, 107462, 107461, 107582, 107581);
+insert into unit_promotion values (104501, 23, 999999, 107073, 999999, 107462, 999999, 107582);
 insert into unit_promotion values (104601, 1, 101071, 101071, 101281, 101431, 101551, 101551);
 insert into unit_promotion values (104601, 2, 102041, 102071, 102431, 102431, 101551, 101551);
 insert into unit_promotion values (104601, 3, 103071, 102041, 102342, 102432, 102551, 102551);
@@ -900,7 +940,8 @@ insert into unit_promotion values (104601, 18, 106072, 106071, 106341, 105347, 1
 insert into unit_promotion values (104601, 19, 106073, 106072, 106342, 106341, 106552, 106551);
 insert into unit_promotion values (104601, 20, 107071, 106073, 106343, 106342, 106553, 106552);
 insert into unit_promotion values (104601, 21, 107072, 107071, 107341, 106343, 107551, 106553);
-insert into unit_promotion values (104601, 22, 999999, 107072, 107492, 107341, 107552, 107551);
+insert into unit_promotion values (104601, 22, 107073, 107072, 107492, 107341, 107552, 107551);
+insert into unit_promotion values (104601, 23, 999999, 107073, 999999, 107492, 999999, 107552);
 insert into unit_promotion values (104701, 1, 101011, 101401, 101281, 101401, 101551, 101581);
 insert into unit_promotion values (104701, 2, 102014, 102491, 102281, 102493, 101551, 101581);
 insert into unit_promotion values (104701, 3, 103011, 102401, 102282, 102401, 102162, 102581);
@@ -922,7 +963,8 @@ insert into unit_promotion values (104701, 18, 106012, 106011, 106311, 105317, 1
 insert into unit_promotion values (104701, 19, 106013, 106012, 106312, 106311, 106582, 106581);
 insert into unit_promotion values (104701, 20, 107011, 106013, 106313, 106312, 106583, 106582);
 insert into unit_promotion values (104701, 21, 107012, 107011, 107311, 106313, 107581, 106583);
-insert into unit_promotion values (104701, 22, 999999, 107012, 107312, 107311, 107582, 107581);
+insert into unit_promotion values (104701, 22, 107013, 107012, 107312, 107311, 107582, 107581);
+insert into unit_promotion values (104701, 23, 999999, 107013, 999999, 107312, 999999, 107582);
 insert into unit_promotion values (104801, 1, 101161, 101191, 101281, 101431, 101161, 101581);
 insert into unit_promotion values (104801, 2, 102163, 102191, 102311, 102493, 101161, 101581);
 insert into unit_promotion values (104801, 3, 103161, 102192, 102282, 102401, 102162, 102581);
@@ -944,7 +986,8 @@ insert into unit_promotion values (104801, 18, 106192, 106191, 106311, 105317, 1
 insert into unit_promotion values (104801, 19, 106163, 106192, 106312, 106311, 106582, 106551);
 insert into unit_promotion values (104801, 20, 107161, 106193, 106313, 106312, 106583, 106552);
 insert into unit_promotion values (104801, 21, 107162, 107191, 107311, 106313, 107581, 106553);
-insert into unit_promotion values (104801, 22, 999999, 107192, 107312, 107311, 107582, 107551);
+insert into unit_promotion values (104801, 22, 107163, 107192, 107312, 107311, 107582, 107551);
+insert into unit_promotion values (104801, 23, 999999, 107193, 999999, 107312, 999999, 107552);
 insert into unit_promotion values (104901, 1, 101011, 101011, 101281, 101401, 101551, 101581);
 insert into unit_promotion values (104901, 2, 102014, 102011, 102281, 102493, 101551, 101551);
 insert into unit_promotion values (104901, 3, 103011, 102014, 102282, 102401, 102551, 102581);
@@ -966,7 +1009,8 @@ insert into unit_promotion values (104901, 18, 106012, 106011, 106311, 105317, 1
 insert into unit_promotion values (104901, 19, 106013, 106012, 106312, 106311, 106582, 106581);
 insert into unit_promotion values (104901, 20, 107011, 106013, 106313, 106312, 106583, 106582);
 insert into unit_promotion values (104901, 21, 107012, 107011, 107311, 106313, 107581, 106583);
-insert into unit_promotion values (104901, 22, 999999, 107012, 107312, 107311, 107582, 107581);
+insert into unit_promotion values (104901, 22, 107013, 107012, 107312, 107311, 107582, 107581);
+insert into unit_promotion values (104901, 23, 999999, 107013, 999999, 107312, 999999, 107582);
 insert into unit_promotion values (105001, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (105001, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (105001, 3, 103221, 102222, 102372, 102521, 102611, 102611);
@@ -988,7 +1032,8 @@ insert into unit_promotion values (105001, 18, 106222, 106221, 106371, 105227, 1
 insert into unit_promotion values (105001, 19, 106223, 106222, 106372, 106221, 106612, 106611);
 insert into unit_promotion values (105001, 20, 107221, 106223, 106373, 106222, 106613, 106612);
 insert into unit_promotion values (105001, 21, 107222, 107221, 107371, 106223, 107611, 106613);
-insert into unit_promotion values (105001, 22, 999999, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (105001, 22, 107223, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (105001, 23, 999999, 107223, 999999, 107222, 999999, 107612);
 insert into unit_promotion values (105101, 1, 101011, 101011, 101011, 101401, 101551, 101551);
 insert into unit_promotion values (105101, 2, 102013, 102011, 102281, 102493, 101551, 101551);
 insert into unit_promotion values (105101, 3, 103011, 102013, 102013, 102401, 102551, 102551);
@@ -1010,7 +1055,8 @@ insert into unit_promotion values (105101, 18, 106012, 106011, 106401, 105403, 1
 insert into unit_promotion values (105101, 19, 106013, 106012, 106431, 106401, 106552, 106551);
 insert into unit_promotion values (105101, 20, 107011, 106013, 106343, 106431, 106553, 106552);
 insert into unit_promotion values (105101, 21, 107012, 107011, 107341, 106343, 107551, 106553);
-insert into unit_promotion values (105101, 22, 999999, 107012, 107342, 107341, 107552, 107551);
+insert into unit_promotion values (105101, 22, 107013, 107012, 107342, 107341, 107552, 107551);
+insert into unit_promotion values (105101, 23, 999999, 107013, 999999, 107342, 999999, 107552);
 insert into unit_promotion values (105201, 1, 101011, 101161, 101281, 101401, 101431, 101581);
 insert into unit_promotion values (105201, 2, 102013, 102162, 102311, 102493, 101401, 101581);
 insert into unit_promotion values (105201, 3, 103011, 102163, 102312, 102401, 102581, 102581);
@@ -1032,7 +1078,8 @@ insert into unit_promotion values (105201, 18, 106162, 106161, 106311, 105317, 1
 insert into unit_promotion values (105201, 19, 106163, 106162, 106312, 106311, 106582, 106581);
 insert into unit_promotion values (105201, 20, 107161, 106163, 106313, 106312, 106583, 106582);
 insert into unit_promotion values (105201, 21, 107162, 107161, 107311, 106313, 107581, 106583);
-insert into unit_promotion values (105201, 22, 999999, 107162, 107312, 107311, 107582, 107581);
+insert into unit_promotion values (105201, 22, 107163, 107162, 107312, 107311, 107582, 107581);
+insert into unit_promotion values (105201, 23, 999999, 107163, 999999, 107312, 999999, 107582);
 insert into unit_promotion values (105301, 1, 101011, 101071, 101281, 101401, 101011, 101581);
 insert into unit_promotion values (105301, 2, 102013, 102071, 102281, 102491, 101011, 101581);
 insert into unit_promotion values (105301, 3, 103071, 102013, 102282, 102401, 102581, 102581);
@@ -1054,7 +1101,8 @@ insert into unit_promotion values (105301, 18, 106012, 106071, 106401, 105403, 1
 insert into unit_promotion values (105301, 19, 106013, 106072, 106431, 106401, 106552, 106581);
 insert into unit_promotion values (105301, 20, 107011, 106073, 106343, 106431, 106553, 106582);
 insert into unit_promotion values (105301, 21, 107012, 107071, 107281, 106343, 107551, 106583);
-insert into unit_promotion values (105301, 22, 999999, 107072, 107342, 107281, 107552, 107581);
+insert into unit_promotion values (105301, 22, 107013, 107072, 107342, 107281, 107552, 107581);
+insert into unit_promotion values (105301, 23, 999999, 107073, 999999, 107342, 999999, 107582);
 insert into unit_promotion values (105401, 1, 101101, 101101, 101281, 101431, 101581, 101551);
 insert into unit_promotion values (105401, 2, 102101, 102071, 102341, 102491, 101581, 101551);
 insert into unit_promotion values (105401, 3, 103071, 102101, 102342, 102432, 102581, 102551);
@@ -1076,7 +1124,8 @@ insert into unit_promotion values (105401, 18, 106102, 106101, 106281, 105347, 1
 insert into unit_promotion values (105401, 19, 106103, 106102, 106342, 106281, 106582, 106551);
 insert into unit_promotion values (105401, 20, 107101, 106103, 106491, 106342, 106583, 106552);
 insert into unit_promotion values (105401, 21, 107102, 107101, 107281, 106491, 107581, 106553);
-insert into unit_promotion values (105401, 22, 999999, 107102, 107342, 107281, 107582, 107551);
+insert into unit_promotion values (105401, 22, 107103, 107102, 107342, 107281, 107582, 107551);
+insert into unit_promotion values (105401, 23, 999999, 107103, 999999, 107342, 999999, 107552);
 insert into unit_promotion values (105501, 1, 101161, 101161, 101281, 101431, 101581, 101551);
 insert into unit_promotion values (105501, 2, 102163, 102162, 102341, 102491, 101581, 101551);
 insert into unit_promotion values (105501, 3, 103161, 102163, 102342, 102432, 102581, 102551);
@@ -1098,7 +1147,8 @@ insert into unit_promotion values (105501, 18, 106162, 106161, 106401, 105403, 1
 insert into unit_promotion values (105501, 19, 106163, 106162, 106431, 106401, 106582, 106581);
 insert into unit_promotion values (105501, 20, 107161, 106163, 106491, 106431, 106583, 106582);
 insert into unit_promotion values (105501, 21, 107162, 107161, 107281, 106491, 107581, 106583);
-insert into unit_promotion values (105501, 22, 999999, 107162, 107342, 107281, 107582, 107581);
+insert into unit_promotion values (105501, 22, 107163, 107162, 107342, 107281, 107582, 107581);
+insert into unit_promotion values (105501, 23, 999999, 107163, 999999, 107342, 999999, 107582);
 insert into unit_promotion values (105601, 1, 101011, 101011, 101281, 101431, 101581, 101581);
 insert into unit_promotion values (105601, 2, 102041, 102071, 102341, 102431, 101581, 101581);
 insert into unit_promotion values (105601, 3, 103071, 102041, 102342, 102432, 102581, 102581);
@@ -1120,7 +1170,8 @@ insert into unit_promotion values (105601, 18, 106042, 106041, 106401, 105403, 1
 insert into unit_promotion values (105601, 19, 106043, 106042, 106431, 106401, 106582, 106581);
 insert into unit_promotion values (105601, 20, 107041, 106043, 106491, 106431, 106583, 106582);
 insert into unit_promotion values (105601, 21, 107042, 107041, 107281, 106491, 107581, 106583);
-insert into unit_promotion values (105601, 22, 999999, 107042, 107342, 107281, 107582, 107581);
+insert into unit_promotion values (105601, 22, 107043, 107042, 107342, 107281, 107582, 107581);
+insert into unit_promotion values (105601, 23, 999999, 107043, 999999, 107342, 999999, 107582);
 insert into unit_promotion values (105701, 1, 101011, 101011, 101281, 101401, 101011, 101551);
 insert into unit_promotion values (105701, 2, 102013, 102011, 102281, 102493, 101551, 101551);
 insert into unit_promotion values (105701, 3, 103011, 102013, 102282, 102401, 102011, 102551);
@@ -1142,7 +1193,8 @@ insert into unit_promotion values (105701, 18, 106012, 106011, 106281, 105017, 1
 insert into unit_promotion values (105701, 19, 106013, 106012, 106282, 106011, 106552, 106551);
 insert into unit_promotion values (105701, 20, 107011, 106013, 106283, 106012, 106553, 106552);
 insert into unit_promotion values (105701, 21, 107012, 107011, 107341, 106013, 107551, 106553);
-insert into unit_promotion values (105701, 22, 999999, 107012, 107282, 107011, 107552, 107551);
+insert into unit_promotion values (105701, 22, 107013, 107012, 107282, 107011, 107552, 107551);
+insert into unit_promotion values (105701, 23, 999999, 107013, 999999, 107012, 999999, 107552);
 insert into unit_promotion values (105801, 1, 101011, 101071, 101281, 101401, 101551, 101581);
 insert into unit_promotion values (105801, 2, 102013, 102011, 102311, 102493, 101431, 101581);
 insert into unit_promotion values (105801, 3, 103011, 102401, 102282, 102401, 102011, 102551);
@@ -1164,7 +1216,8 @@ insert into unit_promotion values (105801, 18, 106012, 106011, 106311, 105317, 1
 insert into unit_promotion values (105801, 19, 106013, 106012, 106312, 106311, 106582, 106581);
 insert into unit_promotion values (105801, 20, 107011, 106013, 106313, 106312, 106583, 106582);
 insert into unit_promotion values (105801, 21, 107012, 107011, 107311, 106313, 107581, 106583);
-insert into unit_promotion values (105801, 22, 999999, 107012, 107312, 107311, 107582, 107581);
+insert into unit_promotion values (105801, 22, 107013, 107012, 107312, 107311, 107582, 107581);
+insert into unit_promotion values (105801, 23, 999999, 107013, 999999, 107312, 999999, 107582);
 insert into unit_promotion values (105901, 1, 101161, 101161, 101281, 101431, 101581, 101551);
 insert into unit_promotion values (105901, 2, 102163, 102162, 102341, 102491, 101581, 101551);
 insert into unit_promotion values (105901, 3, 103161, 102163, 102342, 102432, 102581, 102551);
@@ -1186,7 +1239,8 @@ insert into unit_promotion values (105901, 18, 106162, 106161, 106401, 105347, 1
 insert into unit_promotion values (105901, 19, 106163, 106162, 106431, 106401, 106582, 106581);
 insert into unit_promotion values (105901, 20, 107161, 106163, 106491, 106431, 106583, 106582);
 insert into unit_promotion values (105901, 21, 107162, 107161, 107341, 106491, 107581, 106583);
-insert into unit_promotion values (105901, 22, 999999, 107162, 107342, 107341, 107582, 107581);
+insert into unit_promotion values (105901, 22, 107163, 107162, 107342, 107341, 107582, 107581);
+insert into unit_promotion values (105901, 23, 999999, 107163, 999999, 107342, 999999, 107582);
 insert into unit_promotion values (106001, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (106001, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (106001, 3, 103221, 102222, 102372, 102521, 102611, 102611);
@@ -1208,7 +1262,8 @@ insert into unit_promotion values (106001, 18, 106222, 106221, 106371, 105227, 1
 insert into unit_promotion values (106001, 19, 106223, 106222, 106372, 106221, 106612, 106611);
 insert into unit_promotion values (106001, 20, 107221, 106223, 106373, 106222, 106613, 106612);
 insert into unit_promotion values (106001, 21, 107222, 107221, 107371, 106223, 107611, 106613);
-insert into unit_promotion values (106001, 22, 999999, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (106001, 22, 107223, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (106001, 23, 999999, 107223, 999999, 107222, 999999, 107612);
 insert into unit_promotion values (106101, 1, 101071, 101071, 101281, 101401, 101581, 101551);
 insert into unit_promotion values (106101, 2, 102013, 102071, 102281, 102493, 101581, 101551);
 insert into unit_promotion values (106101, 3, 103071, 102013, 102282, 102401, 102581, 102551);
@@ -1230,7 +1285,8 @@ insert into unit_promotion values (106101, 18, 106072, 106071, 106341, 105017, 1
 insert into unit_promotion values (106101, 19, 106073, 106072, 106342, 106011, 106552, 106551);
 insert into unit_promotion values (106101, 20, 107071, 106073, 106283, 106012, 106553, 106552);
 insert into unit_promotion values (106101, 21, 107072, 107071, 107491, 106013, 107551, 106553);
-insert into unit_promotion values (106101, 22, 999999, 107072, 107492, 107011, 107552, 107551);
+insert into unit_promotion values (106101, 22, 107073, 107072, 107492, 107011, 107552, 107551);
+insert into unit_promotion values (106101, 23, 999999, 107073, 999999, 107012, 999999, 107552);
 insert into unit_promotion values (106301, 1, 101131, 101131, 101281, 101551, 101131, 101551);
 insert into unit_promotion values (106301, 2, 102131, 102071, 102341, 102551, 101131, 101551);
 insert into unit_promotion values (106301, 3, 103071, 102131, 102342, 102552, 102071, 102551);
@@ -1252,7 +1308,8 @@ insert into unit_promotion values (106301, 18, 106132, 106131, 106341, 105137, 1
 insert into unit_promotion values (106301, 19, 106133, 106132, 106282, 106131, 106552, 106551);
 insert into unit_promotion values (106301, 20, 107131, 106133, 106343, 106132, 106553, 106552);
 insert into unit_promotion values (106301, 21, 107132, 107131, 107491, 106133, 107551, 106553);
-insert into unit_promotion values (106301, 22, 999999, 107132, 107492, 107131, 107552, 107551);
+insert into unit_promotion values (106301, 22, 107133, 107132, 107492, 107131, 107552, 107551);
+insert into unit_promotion values (106301, 23, 999999, 107133, 999999, 107132, 999999, 107552);
 insert into unit_promotion values (106401, 1, 101011, 101011, 101281, 101401, 101011, 101551);
 insert into unit_promotion values (106401, 2, 102013, 102011, 102281, 102493, 101551, 101551);
 insert into unit_promotion values (106401, 3, 103011, 102013, 102282, 102401, 102011, 102551);
@@ -1274,7 +1331,8 @@ insert into unit_promotion values (106401, 18, 106012, 106011, 106281, 105017, 1
 insert into unit_promotion values (106401, 19, 106013, 106012, 106282, 106011, 106552, 106551);
 insert into unit_promotion values (106401, 20, 107011, 106013, 106283, 106012, 106553, 106552);
 insert into unit_promotion values (106401, 21, 107012, 107011, 107281, 106013, 107551, 106553);
-insert into unit_promotion values (106401, 22, 999999, 107012, 107492, 107011, 107552, 107551);
+insert into unit_promotion values (106401, 22, 107013, 107012, 107492, 107011, 107552, 107551);
+insert into unit_promotion values (106401, 23, 999999, 107013, 999999, 107012, 999999, 107552);
 insert into unit_promotion values (106501, 1, 101101, 101071, 101281, 101431, 101071, 101551);
 insert into unit_promotion values (106501, 2, 102101, 102071, 102341, 102431, 101551, 101551);
 insert into unit_promotion values (106501, 3, 103071, 102101, 102342, 102432, 102551, 102551);
@@ -1296,7 +1354,8 @@ insert into unit_promotion values (106501, 18, 106102, 106101, 106281, 105107, 1
 insert into unit_promotion values (106501, 19, 106103, 106102, 106282, 106101, 106552, 106551);
 insert into unit_promotion values (106501, 20, 107101, 106103, 106283, 106102, 106553, 106552);
 insert into unit_promotion values (106501, 21, 107102, 107101, 107341, 106103, 107551, 106553);
-insert into unit_promotion values (106501, 22, 999999, 107102, 107492, 107101, 107552, 107551);
+insert into unit_promotion values (106501, 22, 107103, 107102, 107492, 107101, 107552, 107551);
+insert into unit_promotion values (106501, 23, 999999, 107103, 999999, 107102, 999999, 107552);
 insert into unit_promotion values (106601, 1, 101191, 101161, 101281, 101401, 101551, 101581);
 insert into unit_promotion values (106601, 2, 102192, 102162, 102311, 102493, 101551, 101551);
 insert into unit_promotion values (106601, 3, 103191, 102163, 102282, 102401, 102191, 102551);
@@ -1318,7 +1377,8 @@ insert into unit_promotion values (106601, 18, 106192, 106161, 106401, 105403, 1
 insert into unit_promotion values (106601, 19, 106193, 106162, 106431, 106401, 106552, 106551);
 insert into unit_promotion values (106601, 20, 107191, 106163, 106491, 106431, 106553, 106552);
 insert into unit_promotion values (106601, 21, 107192, 107161, 107281, 106491, 107551, 106553);
-insert into unit_promotion values (106601, 22, 999999, 107162, 107282, 107281, 107552, 107551);
+insert into unit_promotion values (106601, 22, 107193, 107162, 107282, 107281, 107552, 107551);
+insert into unit_promotion values (106601, 23, 999999, 107163, 999999, 107282, 999999, 107552);
 insert into unit_promotion values (106701, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (106701, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (106701, 3, 103221, 102222, 102372, 102521, 102611, 102611);
@@ -1340,7 +1400,8 @@ insert into unit_promotion values (106701, 18, 106222, 106221, 106371, 105377, 1
 insert into unit_promotion values (106701, 19, 106223, 106222, 106372, 106371, 106612, 106611);
 insert into unit_promotion values (106701, 20, 107221, 106223, 106373, 106521, 106613, 106612);
 insert into unit_promotion values (106701, 21, 107222, 107221, 107371, 106373, 107611, 106613);
-insert into unit_promotion values (106701, 22, 999999, 107222, 107372, 107371, 107612, 107611);
+insert into unit_promotion values (106701, 22, 107223, 107222, 107372, 107371, 107612, 107611);
+insert into unit_promotion values (106701, 23, 999999, 107223, 999999, 107372, 999999, 107612);
 insert into unit_promotion values (106801, 1, 101011, 101011, 101281, 101401, 101071, 101581);
 insert into unit_promotion values (106801, 2, 102014, 102011, 102311, 102493, 101071, 101551);
 insert into unit_promotion values (106801, 3, 103011, 102014, 102282, 102401, 102071, 102551);
@@ -1362,7 +1423,8 @@ insert into unit_promotion values (106801, 18, 106012, 106011, 106311, 105317, 1
 insert into unit_promotion values (106801, 19, 106013, 106012, 106312, 106311, 106552, 106551);
 insert into unit_promotion values (106801, 20, 107011, 106013, 106313, 106312, 106553, 106552);
 insert into unit_promotion values (106801, 21, 107012, 107011, 107311, 106313, 107551, 106553);
-insert into unit_promotion values (106801, 22, 999999, 107012, 107342, 107311, 107552, 107551);
+insert into unit_promotion values (106801, 22, 107013, 107012, 107342, 107311, 107552, 107551);
+insert into unit_promotion values (106801, 23, 999999, 107013, 999999, 107342, 999999, 107552);
 insert into unit_promotion values (107001, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (107001, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (107001, 3, 103221, 102222, 102372, 102521, 102611, 102611);
@@ -1384,7 +1446,8 @@ insert into unit_promotion values (107001, 18, 106222, 106221, 106371, 105227, 1
 insert into unit_promotion values (107001, 19, 106223, 106222, 106372, 106221, 106612, 106611);
 insert into unit_promotion values (107001, 20, 107221, 106223, 106373, 106222, 106613, 106612);
 insert into unit_promotion values (107001, 21, 107222, 107221, 107371, 106223, 107611, 106613);
-insert into unit_promotion values (107001, 22, 999999, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (107001, 22, 107223, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (107001, 23, 999999, 107223, 999999, 107222, 999999, 107612);
 insert into unit_promotion values (107101, 1, 101011, 101011, 101281, 101401, 101011, 101551);
 insert into unit_promotion values (107101, 2, 102013, 102011, 102281, 102071, 101551, 101551);
 insert into unit_promotion values (107101, 3, 103011, 102013, 102282, 102401, 102011, 102551);
@@ -1406,7 +1469,8 @@ insert into unit_promotion values (107101, 18, 106012, 106011, 106281, 105017, 1
 insert into unit_promotion values (107101, 19, 106013, 106012, 106282, 106011, 106552, 106551);
 insert into unit_promotion values (107101, 20, 107011, 106013, 106283, 106012, 106553, 106552);
 insert into unit_promotion values (107101, 21, 107012, 107011, 107281, 106013, 107551, 106553);
-insert into unit_promotion values (107101, 22, 999999, 107012, 107492, 107011, 107552, 107551);
+insert into unit_promotion values (107101, 22, 107013, 107012, 107492, 107011, 107552, 107551);
+insert into unit_promotion values (107101, 23, 999999, 107013, 999999, 107012, 999999, 107552);
 insert into unit_promotion values (107501, 1, 101011, 101011, 101281, 101401, 101011, 101551);
 insert into unit_promotion values (107501, 2, 102013, 102011, 102281, 102071, 101551, 101551);
 insert into unit_promotion values (107501, 3, 103011, 102013, 102282, 102401, 102011, 102551);
@@ -1428,7 +1492,8 @@ insert into unit_promotion values (107501, 18, 106012, 106011, 106341, 105017, 1
 insert into unit_promotion values (107501, 19, 106013, 106012, 106282, 106011, 106552, 106551);
 insert into unit_promotion values (107501, 20, 107011, 106013, 106283, 106012, 106553, 106552);
 insert into unit_promotion values (107501, 21, 107012, 107011, 107491, 106013, 107551, 106553);
-insert into unit_promotion values (107501, 22, 999999, 107012, 107282, 107011, 107552, 107551);
+insert into unit_promotion values (107501, 22, 107013, 107012, 107282, 107011, 107552, 107551);
+insert into unit_promotion values (107501, 23, 999999, 107013, 999999, 107012, 999999, 107552);
 insert into unit_promotion values (107601, 1, 101161, 101161, 101281, 101431, 101581, 101581);
 insert into unit_promotion values (107601, 2, 102163, 102162, 102341, 102491, 101581, 101581);
 insert into unit_promotion values (107601, 3, 103161, 102163, 102342, 102432, 102581, 102581);
@@ -1450,7 +1515,8 @@ insert into unit_promotion values (107601, 18, 106162, 106161, 106341, 105347, 1
 insert into unit_promotion values (107601, 19, 106163, 106162, 106342, 106341, 106582, 106581);
 insert into unit_promotion values (107601, 20, 107161, 106163, 106343, 106342, 106583, 106582);
 insert into unit_promotion values (107601, 21, 107162, 107161, 107341, 106343, 107581, 106583);
-insert into unit_promotion values (107601, 22, 999999, 107162, 107342, 107341, 107582, 107581);
+insert into unit_promotion values (107601, 22, 107163, 107162, 107342, 107341, 107582, 107581);
+insert into unit_promotion values (107601, 23, 999999, 107163, 999999, 107342, 999999, 107582);
 insert into unit_promotion values (107701, 1, 101251, 101251, 101371, 101521, 101611, 101581);
 insert into unit_promotion values (107701, 2, 102252, 102251, 102371, 102461, 101611, 101581);
 insert into unit_promotion values (107701, 3, 103251, 102252, 102372, 102521, 102612, 102581);
@@ -1472,7 +1538,8 @@ insert into unit_promotion values (107701, 18, 106252, 106251, 106461, 105464, 1
 insert into unit_promotion values (107701, 19, 106253, 106252, 106521, 106461, 106582, 106611);
 insert into unit_promotion values (107701, 20, 107251, 106253, 106462, 106372, 106583, 106612);
 insert into unit_promotion values (107701, 21, 107252, 107251, 107461, 106462, 107581, 106613);
-insert into unit_promotion values (107701, 22, 999999, 107252, 107462, 107461, 107582, 107611);
+insert into unit_promotion values (107701, 22, 107253, 107252, 107462, 107461, 107582, 107611);
+insert into unit_promotion values (107701, 23, 999999, 107253, 999999, 107462, 999999, 107612);
 insert into unit_promotion values (107801, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (107801, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (107801, 3, 103221, 102222, 102372, 102521, 102611, 102611);
@@ -1494,7 +1561,8 @@ insert into unit_promotion values (107801, 18, 106222, 106221, 106371, 105227, 1
 insert into unit_promotion values (107801, 19, 106223, 106222, 106372, 106221, 106612, 106611);
 insert into unit_promotion values (107801, 20, 107221, 106223, 106373, 106222, 106613, 106612);
 insert into unit_promotion values (107801, 21, 107222, 107221, 107371, 106223, 107611, 106613);
-insert into unit_promotion values (107801, 22, 999999, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (107801, 22, 107223, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (107801, 23, 999999, 107223, 999999, 107222, 999999, 107612);
 insert into unit_promotion values (107901, 1, 101071, 101071, 101281, 101431, 101551, 101551);
 insert into unit_promotion values (107901, 2, 102041, 102071, 102431, 102431, 101551, 101551);
 insert into unit_promotion values (107901, 3, 103071, 102041, 102342, 102432, 102551, 102551);
@@ -1516,7 +1584,8 @@ insert into unit_promotion values (107901, 18, 106072, 106071, 106341, 105347, 1
 insert into unit_promotion values (107901, 19, 106073, 106072, 106342, 106341, 106552, 106551);
 insert into unit_promotion values (107901, 20, 107071, 106073, 106343, 106342, 106553, 106552);
 insert into unit_promotion values (107901, 21, 107072, 107071, 107491, 106343, 107551, 106553);
-insert into unit_promotion values (107901, 22, 999999, 107072, 107282, 107491, 107552, 107551);
+insert into unit_promotion values (107901, 22, 107073, 107072, 107282, 107491, 107552, 107551);
+insert into unit_promotion values (107901, 23, 999999, 107073, 999999, 107282, 999999, 107552);
 insert into unit_promotion values (108001, 1, 101161, 101191, 101281, 101431, 101161, 101581);
 insert into unit_promotion values (108001, 2, 102163, 102191, 102311, 102493, 101161, 101581);
 insert into unit_promotion values (108001, 3, 103161, 102192, 102282, 102401, 102162, 102581);
@@ -1538,7 +1607,8 @@ insert into unit_promotion values (108001, 18, 106162, 106191, 106341, 105167, 1
 insert into unit_promotion values (108001, 19, 106163, 106192, 106342, 106161, 106552, 106551);
 insert into unit_promotion values (108001, 20, 107161, 106193, 106283, 106162, 106553, 106552);
 insert into unit_promotion values (108001, 21, 107162, 107191, 107281, 106163, 107551, 106553);
-insert into unit_promotion values (108001, 22, 999999, 107192, 107492, 107161, 107552, 107551);
+insert into unit_promotion values (108001, 22, 107163, 107192, 107492, 107161, 107552, 107551);
+insert into unit_promotion values (108001, 23, 999999, 107193, 999999, 107162, 999999, 107552);
 insert into unit_promotion values (108101, 1, 101191, 101191, 101281, 101401, 101551, 101551);
 insert into unit_promotion values (108101, 2, 102041, 102191, 102341, 102191, 101551, 101551);
 insert into unit_promotion values (108101, 3, 103191, 102041, 102342, 102401, 102551, 102551);
@@ -1560,7 +1630,8 @@ insert into unit_promotion values (108101, 18, 106042, 106041, 106281, 105287, 1
 insert into unit_promotion values (108101, 19, 106043, 106042, 106282, 106281, 106552, 106551);
 insert into unit_promotion values (108101, 20, 107041, 106043, 106283, 106042, 106553, 106552);
 insert into unit_promotion values (108101, 21, 107042, 107041, 107281, 106043, 107551, 106553);
-insert into unit_promotion values (108101, 22, 999999, 107042, 107282, 107041, 107552, 107551);
+insert into unit_promotion values (108101, 22, 107043, 107042, 107282, 107041, 107552, 107551);
+insert into unit_promotion values (108101, 23, 999999, 107043, 999999, 107042, 999999, 107552);
 insert into unit_promotion values (108201, 1, 101101, 101101, 101281, 101431, 101071, 101551);
 insert into unit_promotion values (108201, 2, 102101, 102071, 102341, 102431, 101101, 101551);
 insert into unit_promotion values (108201, 3, 103071, 102101, 102342, 102432, 102071, 102551);
@@ -1582,7 +1653,8 @@ insert into unit_promotion values (108201, 18, 106102, 106101, 106341, 105347, 1
 insert into unit_promotion values (108201, 19, 106103, 106102, 106342, 106341, 106552, 106551);
 insert into unit_promotion values (108201, 20, 107101, 106103, 106343, 106342, 106553, 106552);
 insert into unit_promotion values (108201, 21, 107102, 107101, 107341, 106343, 107551, 106553);
-insert into unit_promotion values (108201, 22, 999999, 107102, 107492, 107341, 107552, 107551);
+insert into unit_promotion values (108201, 22, 107103, 107102, 107492, 107341, 107552, 107551);
+insert into unit_promotion values (108201, 23, 999999, 107103, 999999, 107492, 999999, 107552);
 insert into unit_promotion values (108301, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (108301, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (108301, 3, 103221, 102222, 102372, 102521, 102611, 102611);
@@ -1604,7 +1676,8 @@ insert into unit_promotion values (108301, 18, 106222, 106221, 106461, 105464, 1
 insert into unit_promotion values (108301, 19, 106223, 106222, 106521, 106461, 106612, 106581);
 insert into unit_promotion values (108301, 20, 107221, 106223, 106462, 106521, 106613, 106582);
 insert into unit_promotion values (108301, 21, 107222, 107221, 107461, 106462, 107611, 106583);
-insert into unit_promotion values (108301, 22, 999999, 107222, 107462, 107461, 107612, 107581);
+insert into unit_promotion values (108301, 22, 107223, 107222, 107462, 107461, 107612, 107581);
+insert into unit_promotion values (108301, 23, 999999, 107223, 999999, 107462, 999999, 107582);
 insert into unit_promotion values (108401, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (108401, 2, 102252, 102251, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (108401, 3, 103251, 102252, 102372, 102521, 102612, 102611);
@@ -1626,7 +1699,8 @@ insert into unit_promotion values (108401, 18, 106252, 106251, 106461, 105464, 1
 insert into unit_promotion values (108401, 19, 106253, 106252, 106521, 106461, 106582, 106611);
 insert into unit_promotion values (108401, 20, 107251, 106253, 106462, 106372, 106583, 106612);
 insert into unit_promotion values (108401, 21, 107252, 107251, 107461, 106462, 107581, 106613);
-insert into unit_promotion values (108401, 22, 999999, 107252, 107462, 107461, 107582, 107611);
+insert into unit_promotion values (108401, 22, 107253, 107252, 107462, 107461, 107582, 107611);
+insert into unit_promotion values (108401, 23, 999999, 107253, 999999, 107462, 999999, 107612);
 insert into unit_promotion values (108501, 1, 101161, 101431, 101281, 101191, 101551, 101581);
 insert into unit_promotion values (108501, 2, 102163, 102431, 102311, 102191, 101431, 101581);
 insert into unit_promotion values (108501, 3, 103161, 102401, 102282, 102192, 102191, 102551);
@@ -1648,7 +1722,8 @@ insert into unit_promotion values (108501, 18, 106162, 106161, 106311, 105317, 1
 insert into unit_promotion values (108501, 19, 106163, 106162, 106312, 106311, 106582, 106581);
 insert into unit_promotion values (108501, 20, 107161, 106163, 106313, 106312, 106583, 106582);
 insert into unit_promotion values (108501, 21, 107162, 107161, 107311, 106313, 107581, 106583);
-insert into unit_promotion values (108501, 22, 999999, 107162, 107312, 107311, 107582, 107581);
+insert into unit_promotion values (108501, 22, 107163, 107162, 107312, 107311, 107582, 107581);
+insert into unit_promotion values (108501, 23, 999999, 107163, 999999, 107312, 999999, 107582);
 insert into unit_promotion values (108601, 1, 101191, 101161, 101281, 101191, 101551, 101581);
 insert into unit_promotion values (108601, 2, 102192, 102162, 102311, 102191, 101551, 101551);
 insert into unit_promotion values (108601, 3, 103191, 102163, 102282, 102192, 102191, 102551);
@@ -1670,7 +1745,8 @@ insert into unit_promotion values (108601, 18, 106192, 106161, 106341, 105197, 1
 insert into unit_promotion values (108601, 19, 106193, 106162, 106342, 106191, 106552, 106551);
 insert into unit_promotion values (108601, 20, 107191, 106163, 106343, 106192, 106553, 106552);
 insert into unit_promotion values (108601, 21, 107192, 107161, 107491, 106193, 107551, 106553);
-insert into unit_promotion values (108601, 22, 999999, 107162, 107492, 107191, 107552, 107551);
+insert into unit_promotion values (108601, 22, 107193, 107162, 107492, 107191, 107552, 107551);
+insert into unit_promotion values (108601, 23, 999999, 107163, 999999, 107192, 999999, 107552);
 insert into unit_promotion values (108701, 1, 101101, 101071, 101281, 101431, 101071, 101551);
 insert into unit_promotion values (108701, 2, 102101, 102071, 102341, 102431, 101551, 101551);
 insert into unit_promotion values (108701, 3, 103071, 102101, 102342, 102432, 102551, 102551);
@@ -1692,7 +1768,8 @@ insert into unit_promotion values (108701, 18, 106102, 106101, 106281, 105107, 1
 insert into unit_promotion values (108701, 19, 106103, 106102, 106282, 106101, 106552, 106551);
 insert into unit_promotion values (108701, 20, 107101, 106103, 106283, 106102, 106553, 106552);
 insert into unit_promotion values (108701, 21, 107102, 107101, 107341, 106103, 107551, 106553);
-insert into unit_promotion values (108701, 22, 999999, 107102, 107492, 107101, 107552, 107551);
+insert into unit_promotion values (108701, 22, 107103, 107102, 107492, 107101, 107552, 107551);
+insert into unit_promotion values (108701, 23, 999999, 107103, 999999, 107102, 999999, 107552);
 insert into unit_promotion values (108801, 1, 101251, 101251, 101371, 101521, 101611, 101581);
 insert into unit_promotion values (108801, 2, 102252, 102251, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (108801, 3, 103251, 102252, 102372, 102521, 102612, 102581);
@@ -1714,7 +1791,8 @@ insert into unit_promotion values (108801, 18, 106252, 106251, 106461, 105464, 1
 insert into unit_promotion values (108801, 19, 106253, 106252, 106521, 106461, 106582, 106611);
 insert into unit_promotion values (108801, 20, 107251, 106253, 106462, 106372, 106583, 106612);
 insert into unit_promotion values (108801, 21, 107252, 107251, 107461, 106462, 107581, 106613);
-insert into unit_promotion values (108801, 22, 999999, 107252, 107462, 107461, 107582, 107611);
+insert into unit_promotion values (108801, 22, 107253, 107252, 107462, 107461, 107582, 107611);
+insert into unit_promotion values (108801, 23, 999999, 107253, 999999, 107462, 999999, 107612);
 insert into unit_promotion values (108901, 1, 101011, 101011, 101281, 101431, 101581, 101581);
 insert into unit_promotion values (108901, 2, 102013, 102071, 102371, 102431, 101581, 101581);
 insert into unit_promotion values (108901, 3, 103071, 102013, 102372, 102432, 102581, 102581);
@@ -1736,7 +1814,8 @@ insert into unit_promotion values (108901, 18, 106012, 106011, 106401, 105403, 1
 insert into unit_promotion values (108901, 19, 106013, 106012, 106431, 106401, 106582, 106581);
 insert into unit_promotion values (108901, 20, 107011, 106013, 106491, 106431, 106583, 106582);
 insert into unit_promotion values (108901, 21, 107012, 107011, 107281, 106491, 107581, 106583);
-insert into unit_promotion values (108901, 22, 999999, 107012, 107342, 107281, 107582, 107581);
+insert into unit_promotion values (108901, 22, 107013, 107012, 107342, 107281, 107582, 107581);
+insert into unit_promotion values (108901, 23, 999999, 107013, 999999, 107342, 999999, 107582);
 insert into unit_promotion values (109001, 1, 101191, 101191, 101401, 101191, 101551, 101551);
 insert into unit_promotion values (109001, 2, 102192, 102191, 102281, 102191, 101551, 101551);
 insert into unit_promotion values (109001, 3, 103191, 102192, 102282, 102192, 102551, 102551);
@@ -1758,7 +1837,8 @@ insert into unit_promotion values (109001, 18, 106192, 106191, 106341, 105197, 1
 insert into unit_promotion values (109001, 19, 106193, 106192, 106282, 106191, 106552, 106551);
 insert into unit_promotion values (109001, 20, 107191, 106193, 106283, 106192, 106553, 106552);
 insert into unit_promotion values (109001, 21, 107192, 107191, 107491, 106193, 107551, 106553);
-insert into unit_promotion values (109001, 22, 999999, 107192, 107282, 107191, 107552, 107551);
+insert into unit_promotion values (109001, 22, 107193, 107192, 107282, 107191, 107552, 107551);
+insert into unit_promotion values (109001, 23, 999999, 107193, 999999, 107192, 999999, 107552);
 insert into unit_promotion values (109101, 1, 101011, 101011, 101281, 101401, 101071, 101581);
 insert into unit_promotion values (109101, 2, 102014, 102011, 102311, 102493, 101071, 101551);
 insert into unit_promotion values (109101, 3, 103011, 102014, 102282, 102401, 102071, 102551);
@@ -1780,7 +1860,8 @@ insert into unit_promotion values (109101, 18, 106012, 106011, 106311, 105317, 1
 insert into unit_promotion values (109101, 19, 106013, 106012, 106312, 106311, 106552, 106551);
 insert into unit_promotion values (109101, 20, 107011, 106013, 106313, 106312, 106553, 106552);
 insert into unit_promotion values (109101, 21, 107012, 107011, 107311, 106313, 107551, 106553);
-insert into unit_promotion values (109101, 22, 999999, 107012, 107312, 107311, 107552, 107551);
+insert into unit_promotion values (109101, 22, 107013, 107012, 107312, 107311, 107552, 107551);
+insert into unit_promotion values (109101, 23, 999999, 107013, 999999, 107312, 999999, 107552);
 insert into unit_promotion values (109201, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (109201, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (109201, 3, 103221, 102222, 102372, 102521, 102611, 102611);
@@ -1802,7 +1883,8 @@ insert into unit_promotion values (109201, 18, 106222, 106221, 106371, 105227, 1
 insert into unit_promotion values (109201, 19, 106223, 106222, 106372, 106221, 106612, 106611);
 insert into unit_promotion values (109201, 20, 107221, 106223, 106373, 106222, 106613, 106612);
 insert into unit_promotion values (109201, 21, 107222, 107221, 107371, 106223, 107611, 106613);
-insert into unit_promotion values (109201, 22, 999999, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (109201, 22, 107223, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (109201, 23, 999999, 107223, 999999, 107222, 999999, 107612);
 insert into unit_promotion values (109301, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (109301, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (109301, 3, 103221, 102222, 102372, 102521, 102611, 102611);
@@ -1824,7 +1906,8 @@ insert into unit_promotion values (109301, 18, 106222, 106221, 106371, 105227, 1
 insert into unit_promotion values (109301, 19, 106223, 106222, 106372, 106221, 106612, 106611);
 insert into unit_promotion values (109301, 20, 107221, 106223, 106373, 106222, 106613, 106612);
 insert into unit_promotion values (109301, 21, 107222, 107221, 107371, 106223, 107611, 106613);
-insert into unit_promotion values (109301, 22, 999999, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (109301, 22, 107223, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (109301, 23, 999999, 107223, 999999, 107222, 999999, 107612);
 insert into unit_promotion values (109401, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (109401, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (109401, 3, 103221, 102222, 102372, 102222, 102611, 102611);
@@ -1846,7 +1929,8 @@ insert into unit_promotion values (109401, 18, 106222, 106221, 106371, 105227, 1
 insert into unit_promotion values (109401, 19, 106223, 106222, 106372, 106221, 106612, 106611);
 insert into unit_promotion values (109401, 20, 107221, 106223, 106373, 106222, 106613, 106612);
 insert into unit_promotion values (109401, 21, 107222, 107221, 107371, 106223, 107611, 106613);
-insert into unit_promotion values (109401, 22, 999999, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (109401, 22, 107223, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (109401, 23, 999999, 107223, 999999, 107222, 999999, 107612);
 insert into unit_promotion values (109501, 1, 101251, 101521, 101281, 101431, 101581, 101581);
 insert into unit_promotion values (109501, 2, 102521, 102251, 102371, 102431, 101581, 101581);
 insert into unit_promotion values (109501, 3, 103251, 102521, 102372, 102432, 102581, 102581);
@@ -1868,7 +1952,8 @@ insert into unit_promotion values (109501, 18, 106252, 106251, 106461, 105464, 1
 insert into unit_promotion values (109501, 19, 106253, 106252, 106521, 106461, 106582, 106581);
 insert into unit_promotion values (109501, 20, 107251, 106253, 106462, 106372, 106583, 106582);
 insert into unit_promotion values (109501, 21, 107252, 107251, 107461, 106462, 107581, 106583);
-insert into unit_promotion values (109501, 22, 999999, 107252, 107462, 107461, 107582, 107581);
+insert into unit_promotion values (109501, 22, 107253, 107252, 107462, 107461, 107582, 107581);
+insert into unit_promotion values (109501, 23, 999999, 107253, 999999, 107462, 999999, 107582);
 insert into unit_promotion values (109601, 1, 101071, 101071, 101281, 101431, 101551, 101551);
 insert into unit_promotion values (109601, 2, 102041, 102071, 102431, 102431, 101551, 101551);
 insert into unit_promotion values (109601, 3, 103071, 102041, 102342, 102432, 102551, 102551);
@@ -1890,7 +1975,8 @@ insert into unit_promotion values (109601, 18, 106072, 106071, 106281, 105077, 1
 insert into unit_promotion values (109601, 19, 106073, 106072, 106282, 106071, 106552, 106551);
 insert into unit_promotion values (109601, 20, 107071, 106073, 106283, 106072, 106553, 106552);
 insert into unit_promotion values (109601, 21, 107072, 107071, 107281, 106073, 107551, 106553);
-insert into unit_promotion values (109601, 22, 999999, 107072, 107282, 107071, 107552, 107551);
+insert into unit_promotion values (109601, 22, 107073, 107072, 107282, 107071, 107552, 107551);
+insert into unit_promotion values (109601, 23, 999999, 107073, 999999, 107072, 999999, 107552);
 insert into unit_promotion values (109701, 1, 101191, 101191, 101401, 101191, 101551, 101551);
 insert into unit_promotion values (109701, 2, 102192, 102191, 102281, 102191, 101551, 101551);
 insert into unit_promotion values (109701, 3, 103191, 102192, 102282, 102192, 102551, 102551);
@@ -1912,7 +1998,8 @@ insert into unit_promotion values (109701, 18, 106192, 106191, 106341, 105197, 1
 insert into unit_promotion values (109701, 19, 106193, 106192, 106342, 106191, 106552, 106551);
 insert into unit_promotion values (109701, 20, 107191, 106193, 106343, 106192, 106553, 106552);
 insert into unit_promotion values (109701, 21, 107192, 107191, 107281, 106193, 107551, 106553);
-insert into unit_promotion values (109701, 22, 999999, 107192, 107282, 107191, 107552, 107551);
+insert into unit_promotion values (109701, 22, 107193, 107192, 107282, 107191, 107552, 107551);
+insert into unit_promotion values (109701, 23, 999999, 107193, 999999, 107192, 999999, 107552);
 insert into unit_promotion values (109801, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (109801, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (109801, 3, 103221, 102222, 102372, 102521, 102611, 102611);
@@ -1934,7 +2021,8 @@ insert into unit_promotion values (109801, 18, 106222, 106221, 106461, 105227, 1
 insert into unit_promotion values (109801, 19, 106223, 106222, 106521, 106221, 106612, 106611);
 insert into unit_promotion values (109801, 20, 107221, 106223, 106462, 106222, 106613, 106612);
 insert into unit_promotion values (109801, 21, 107222, 107221, 107461, 106223, 107611, 106613);
-insert into unit_promotion values (109801, 22, 999999, 107222, 107462, 107221, 107612, 107611);
+insert into unit_promotion values (109801, 22, 107223, 107222, 107462, 107221, 107612, 107611);
+insert into unit_promotion values (109801, 23, 999999, 107223, 999999, 107222, 999999, 107612);
 insert into unit_promotion values (109901, 1, 101251, 101251, 101371, 101521, 101611, 101581);
 insert into unit_promotion values (109901, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (109901, 3, 103221, 102222, 102372, 102521, 102612, 102581);
@@ -1956,7 +2044,8 @@ insert into unit_promotion values (109901, 18, 106222, 106221, 106371, 105377, 1
 insert into unit_promotion values (109901, 19, 106223, 106222, 106372, 106371, 106612, 106611);
 insert into unit_promotion values (109901, 20, 107221, 106223, 106373, 106521, 106613, 106612);
 insert into unit_promotion values (109901, 21, 107222, 107221, 107371, 106373, 107611, 106613);
-insert into unit_promotion values (109901, 22, 999999, 107222, 107372, 107371, 107612, 107611);
+insert into unit_promotion values (109901, 22, 107223, 107222, 107372, 107371, 107612, 107611);
+insert into unit_promotion values (109901, 23, 999999, 107223, 999999, 107372, 999999, 107612);
 insert into unit_promotion values (110001, 1, 101131, 101131, 101281, 101551, 101131, 101551);
 insert into unit_promotion values (110001, 2, 102131, 102071, 102341, 102551, 101131, 101551);
 insert into unit_promotion values (110001, 3, 103071, 102131, 102342, 102552, 102071, 102551);
@@ -1978,7 +2067,8 @@ insert into unit_promotion values (110001, 18, 106132, 106131, 106341, 105137, 1
 insert into unit_promotion values (110001, 19, 106133, 106132, 106342, 106131, 106552, 106551);
 insert into unit_promotion values (110001, 20, 107131, 106133, 106343, 106132, 106553, 106552);
 insert into unit_promotion values (110001, 21, 107132, 107131, 107341, 106133, 107551, 106553);
-insert into unit_promotion values (110001, 22, 999999, 107132, 107492, 107131, 107552, 107551);
+insert into unit_promotion values (110001, 22, 107133, 107132, 107492, 107131, 107552, 107551);
+insert into unit_promotion values (110001, 23, 999999, 107133, 999999, 107132, 999999, 107552);
 insert into unit_promotion values (110101, 1, 101251, 101251, 101371, 101521, 101611, 101581);
 insert into unit_promotion values (110101, 2, 102252, 102251, 102371, 102461, 101611, 101581);
 insert into unit_promotion values (110101, 3, 103251, 102252, 102372, 102521, 102612, 102581);
@@ -2000,7 +2090,8 @@ insert into unit_promotion values (110101, 18, 106252, 106251, 106371, 105377, 1
 insert into unit_promotion values (110101, 19, 106253, 106252, 106521, 106371, 106612, 106581);
 insert into unit_promotion values (110101, 20, 107251, 106253, 106462, 106521, 106613, 106582);
 insert into unit_promotion values (110101, 21, 107252, 107251, 107461, 106462, 107611, 106583);
-insert into unit_promotion values (110101, 22, 999999, 107252, 107462, 107461, 107612, 107581);
+insert into unit_promotion values (110101, 22, 107253, 107252, 107462, 107461, 107612, 107581);
+insert into unit_promotion values (110101, 23, 999999, 107253, 999999, 107462, 999999, 107582);
 insert into unit_promotion values (110301, 1, 101011, 101431, 101281, 101011, 101551, 101581);
 insert into unit_promotion values (110301, 2, 102013, 102431, 102311, 102011, 101431, 101581);
 insert into unit_promotion values (110301, 3, 103011, 102401, 102282, 102013, 102011, 102551);
@@ -2022,7 +2113,8 @@ insert into unit_promotion values (110301, 18, 106012, 106011, 106341, 105347, 1
 insert into unit_promotion values (110301, 19, 106013, 106012, 106342, 106341, 106582, 106581);
 insert into unit_promotion values (110301, 20, 107011, 106013, 106343, 106342, 106583, 106582);
 insert into unit_promotion values (110301, 21, 107012, 107011, 107281, 106343, 107581, 106583);
-insert into unit_promotion values (110301, 22, 999999, 107012, 107342, 107281, 107582, 107581);
+insert into unit_promotion values (110301, 22, 107013, 107012, 107342, 107281, 107582, 107581);
+insert into unit_promotion values (110301, 23, 999999, 107013, 999999, 107342, 999999, 107582);
 insert into unit_promotion values (110401, 1, 101011, 101011, 101281, 101401, 101011, 101551);
 insert into unit_promotion values (110401, 2, 102041, 102011, 102281, 102493, 101011, 101551);
 insert into unit_promotion values (110401, 3, 103011, 102041, 102282, 102401, 102011, 102551);
@@ -2044,7 +2136,8 @@ insert into unit_promotion values (110401, 18, 106042, 106041, 106341, 105047, 1
 insert into unit_promotion values (110401, 19, 106043, 106042, 106342, 106041, 106552, 106551);
 insert into unit_promotion values (110401, 20, 107041, 106043, 106283, 106042, 106553, 106552);
 insert into unit_promotion values (110401, 21, 107042, 107041, 107341, 106043, 107551, 106553);
-insert into unit_promotion values (110401, 22, 999999, 107042, 107492, 107041, 107552, 107551);
+insert into unit_promotion values (110401, 22, 107043, 107042, 107492, 107041, 107552, 107551);
+insert into unit_promotion values (110401, 23, 999999, 107043, 999999, 107042, 999999, 107552);
 insert into unit_promotion values (110501, 1, 101101, 101071, 101281, 101431, 101071, 101551);
 insert into unit_promotion values (110501, 2, 102101, 102071, 102341, 102431, 101551, 101551);
 insert into unit_promotion values (110501, 3, 103071, 102101, 102342, 102432, 102551, 102551);
@@ -2066,7 +2159,8 @@ insert into unit_promotion values (110501, 18, 106102, 106101, 106341, 105107, 1
 insert into unit_promotion values (110501, 19, 106103, 106102, 106342, 106101, 106552, 106551);
 insert into unit_promotion values (110501, 20, 107101, 106103, 106343, 106102, 106553, 106552);
 insert into unit_promotion values (110501, 21, 107102, 107101, 107281, 106103, 107551, 106553);
-insert into unit_promotion values (110501, 22, 999999, 107102, 107282, 107101, 107552, 107551);
+insert into unit_promotion values (110501, 22, 107103, 107102, 107282, 107101, 107552, 107551);
+insert into unit_promotion values (110501, 23, 999999, 107103, 999999, 107102, 999999, 107552);
 insert into unit_promotion values (110601, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (110601, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (110601, 3, 103221, 102222, 102372, 102521, 102611, 102611);
@@ -2088,7 +2182,8 @@ insert into unit_promotion values (110601, 18, 106222, 106221, 106371, 105227, 1
 insert into unit_promotion values (110601, 19, 106223, 106222, 106372, 106221, 106612, 106611);
 insert into unit_promotion values (110601, 20, 107221, 106223, 106373, 106222, 106613, 106612);
 insert into unit_promotion values (110601, 21, 107222, 107221, 107371, 106223, 107611, 106613);
-insert into unit_promotion values (110601, 22, 999999, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (110601, 22, 107223, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (110601, 23, 999999, 107223, 999999, 107222, 999999, 107612);
 insert into unit_promotion values (110701, 1, 101131, 101131, 101281, 101551, 101131, 101551);
 insert into unit_promotion values (110701, 2, 102131, 102071, 102341, 102551, 101131, 101551);
 insert into unit_promotion values (110701, 3, 103071, 102131, 102342, 102552, 102071, 102551);
@@ -2110,7 +2205,8 @@ insert into unit_promotion values (110701, 18, 106132, 106131, 106341, 105137, 1
 insert into unit_promotion values (110701, 19, 106133, 106132, 106342, 106131, 106552, 106551);
 insert into unit_promotion values (110701, 20, 107131, 106133, 106343, 106132, 106553, 106552);
 insert into unit_promotion values (110701, 21, 107132, 107131, 107341, 106133, 107551, 106553);
-insert into unit_promotion values (110701, 22, 999999, 107132, 107492, 107131, 107552, 107551);
+insert into unit_promotion values (110701, 22, 107133, 107132, 107492, 107131, 107552, 107551);
+insert into unit_promotion values (110701, 23, 999999, 107133, 999999, 107132, 999999, 107552);
 insert into unit_promotion values (110801, 1, 101071, 101071, 101281, 101431, 101551, 101551);
 insert into unit_promotion values (110801, 2, 102041, 102071, 102431, 102431, 101551, 101551);
 insert into unit_promotion values (110801, 3, 103071, 102041, 102342, 102432, 102551, 102551);
@@ -2132,7 +2228,8 @@ insert into unit_promotion values (110801, 18, 106072, 106071, 106341, 105287, 1
 insert into unit_promotion values (110801, 19, 106073, 106072, 106342, 106341, 106552, 106551);
 insert into unit_promotion values (110801, 20, 107071, 106073, 106343, 106342, 106553, 106552);
 insert into unit_promotion values (110801, 21, 107072, 107071, 107491, 106343, 107551, 106553);
-insert into unit_promotion values (110801, 22, 999999, 107072, 107492, 107491, 107552, 107551);
+insert into unit_promotion values (110801, 22, 107073, 107072, 107492, 107491, 107552, 107551);
+insert into unit_promotion values (110801, 23, 999999, 107073, 999999, 107492, 999999, 107552);
 insert into unit_promotion values (110901, 1, 101101, 101101, 101281, 101431, 101071, 101581);
 insert into unit_promotion values (110901, 2, 102101, 102071, 102341, 102431, 101101, 101581);
 insert into unit_promotion values (110901, 3, 103071, 102101, 102342, 102432, 102071, 102581);
@@ -2154,7 +2251,8 @@ insert into unit_promotion values (110901, 18, 106102, 106101, 106341, 105347, 1
 insert into unit_promotion values (110901, 19, 106103, 106102, 106342, 106341, 106552, 106551);
 insert into unit_promotion values (110901, 20, 107101, 106103, 106343, 106342, 106553, 106552);
 insert into unit_promotion values (110901, 21, 107102, 107101, 107491, 106343, 107551, 106553);
-insert into unit_promotion values (110901, 22, 999999, 107102, 107492, 107491, 107552, 107551);
+insert into unit_promotion values (110901, 22, 107103, 107102, 107492, 107491, 107552, 107551);
+insert into unit_promotion values (110901, 23, 999999, 107103, 999999, 107492, 999999, 107552);
 insert into unit_promotion values (111001, 1, 101251, 101251, 101371, 101521, 101611, 101581);
 insert into unit_promotion values (111001, 2, 102252, 102251, 102371, 102461, 101611, 101581);
 insert into unit_promotion values (111001, 3, 103251, 102252, 102372, 102521, 102612, 102581);
@@ -2176,7 +2274,8 @@ insert into unit_promotion values (111001, 18, 106252, 106251, 106461, 105464, 1
 insert into unit_promotion values (111001, 19, 106253, 106252, 106521, 106461, 106582, 106611);
 insert into unit_promotion values (111001, 20, 107251, 106253, 106462, 106372, 106583, 106612);
 insert into unit_promotion values (111001, 21, 107252, 107251, 107461, 106462, 107581, 106613);
-insert into unit_promotion values (111001, 22, 999999, 107252, 107462, 107461, 107582, 107611);
+insert into unit_promotion values (111001, 22, 107253, 107252, 107462, 107461, 107582, 107611);
+insert into unit_promotion values (111001, 23, 999999, 107253, 999999, 107462, 999999, 107612);
 insert into unit_promotion values (111101, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (111101, 2, 102252, 102251, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (111101, 3, 103251, 102252, 102372, 102222, 102611, 102611);
@@ -2198,7 +2297,8 @@ insert into unit_promotion values (111101, 18, 106252, 106251, 106371, 105257, 1
 insert into unit_promotion values (111101, 19, 106253, 106252, 106521, 106251, 106612, 106611);
 insert into unit_promotion values (111101, 20, 107251, 106253, 106462, 106252, 106613, 106612);
 insert into unit_promotion values (111101, 21, 107252, 107251, 107461, 106253, 107611, 106613);
-insert into unit_promotion values (111101, 22, 999999, 107252, 107462, 107251, 107612, 107611);
+insert into unit_promotion values (111101, 22, 107253, 107252, 107462, 107251, 107612, 107611);
+insert into unit_promotion values (111101, 23, 999999, 107253, 999999, 107252, 999999, 107612);
 insert into unit_promotion values (111201, 1, 101101, 101071, 101281, 101431, 101071, 101551);
 insert into unit_promotion values (111201, 2, 102101, 102071, 102341, 102431, 101551, 101551);
 insert into unit_promotion values (111201, 3, 103071, 102101, 102342, 102432, 102551, 102551);
@@ -2220,7 +2320,8 @@ insert into unit_promotion values (111201, 18, 106102, 106101, 106341, 105107, 1
 insert into unit_promotion values (111201, 19, 106103, 106102, 106342, 106101, 106552, 106551);
 insert into unit_promotion values (111201, 20, 107101, 106103, 106343, 106102, 106553, 106552);
 insert into unit_promotion values (111201, 21, 107102, 107101, 107281, 106103, 107551, 106553);
-insert into unit_promotion values (111201, 22, 999999, 107102, 107282, 107101, 107552, 107551);
+insert into unit_promotion values (111201, 22, 107103, 107102, 107282, 107101, 107552, 107551);
+insert into unit_promotion values (111201, 23, 999999, 107103, 999999, 107102, 999999, 107552);
 insert into unit_promotion values (111301, 1, 101011, 101191, 101281, 101401, 101551, 101551);
 insert into unit_promotion values (111301, 2, 102013, 102011, 102311, 102493, 101551, 101551);
 insert into unit_promotion values (111301, 3, 103011, 102192, 102312, 102401, 102551, 102551);
@@ -2242,7 +2343,8 @@ insert into unit_promotion values (111301, 18, 106012, 106191, 106281, 105287, 1
 insert into unit_promotion values (111301, 19, 106013, 106192, 106282, 106281, 106552, 106551);
 insert into unit_promotion values (111301, 20, 107011, 106193, 106283, 106282, 106553, 106552);
 insert into unit_promotion values (111301, 21, 107012, 107191, 107491, 106283, 107551, 106553);
-insert into unit_promotion values (111301, 22, 999999, 107192, 107312, 107491, 107552, 107551);
+insert into unit_promotion values (111301, 22, 107013, 107192, 107312, 107491, 107552, 107551);
+insert into unit_promotion values (111301, 23, 999999, 107193, 999999, 107312, 999999, 107552);
 insert into unit_promotion values (111401, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (111401, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (111401, 3, 103221, 102222, 102372, 102521, 102611, 102611);
@@ -2264,7 +2366,8 @@ insert into unit_promotion values (111401, 18, 106222, 106221, 106371, 105227, 1
 insert into unit_promotion values (111401, 19, 106223, 106222, 106372, 106221, 106612, 106611);
 insert into unit_promotion values (111401, 20, 107221, 106223, 106373, 106222, 106613, 106612);
 insert into unit_promotion values (111401, 21, 107222, 107221, 107371, 106223, 107611, 106613);
-insert into unit_promotion values (111401, 22, 999999, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (111401, 22, 107223, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (111401, 23, 999999, 107223, 999999, 107222, 999999, 107612);
 insert into unit_promotion values (111501, 1, 101011, 101011, 101281, 101401, 101011, 101551);
 insert into unit_promotion values (111501, 2, 102013, 102011, 102281, 102071, 101551, 101551);
 insert into unit_promotion values (111501, 3, 103011, 102013, 102282, 102401, 102011, 102551);
@@ -2286,7 +2389,8 @@ insert into unit_promotion values (111501, 18, 106012, 106011, 106281, 105017, 1
 insert into unit_promotion values (111501, 19, 106013, 106012, 106282, 106011, 106552, 106551);
 insert into unit_promotion values (111501, 20, 107011, 106013, 106283, 106012, 106553, 106552);
 insert into unit_promotion values (111501, 21, 107012, 107011, 107281, 106013, 107551, 106553);
-insert into unit_promotion values (111501, 22, 999999, 107012, 107492, 107011, 107552, 107551);
+insert into unit_promotion values (111501, 22, 107013, 107012, 107492, 107011, 107552, 107551);
+insert into unit_promotion values (111501, 23, 999999, 107013, 999999, 107012, 999999, 107552);
 insert into unit_promotion values (111601, 1, 101011, 101401, 101281, 101401, 101551, 101581);
 insert into unit_promotion values (111601, 2, 102014, 102491, 102281, 102493, 101551, 101581);
 insert into unit_promotion values (111601, 3, 103011, 102401, 102282, 102401, 102162, 102581);
@@ -2308,7 +2412,8 @@ insert into unit_promotion values (111601, 18, 106012, 106011, 106401, 105403, 1
 insert into unit_promotion values (111601, 19, 106013, 106012, 106431, 106401, 106582, 106581);
 insert into unit_promotion values (111601, 20, 107011, 106013, 106491, 106431, 106583, 106582);
 insert into unit_promotion values (111601, 21, 107012, 107011, 107281, 106491, 107581, 106583);
-insert into unit_promotion values (111601, 22, 999999, 107012, 107342, 107281, 107582, 107581);
+insert into unit_promotion values (111601, 22, 107013, 107012, 107342, 107281, 107582, 107581);
+insert into unit_promotion values (111601, 23, 999999, 107013, 999999, 107342, 999999, 107582);
 insert into unit_promotion values (111701, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (111701, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (111701, 3, 103221, 102222, 102372, 102521, 102611, 102611);
@@ -2330,7 +2435,8 @@ insert into unit_promotion values (111701, 18, 106222, 106221, 106371, 105227, 1
 insert into unit_promotion values (111701, 19, 106223, 106222, 106372, 106221, 106612, 106611);
 insert into unit_promotion values (111701, 20, 107221, 106223, 106373, 106222, 106613, 106612);
 insert into unit_promotion values (111701, 21, 107222, 107221, 107371, 106223, 107611, 106613);
-insert into unit_promotion values (111701, 22, 999999, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (111701, 22, 107223, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (111701, 23, 999999, 107223, 999999, 107222, 999999, 107612);
 insert into unit_promotion values (111801, 1, 101011, 101011, 101281, 101401, 101581, 101581);
 insert into unit_promotion values (111801, 2, 102014, 102011, 102341, 102491, 101581, 101581);
 insert into unit_promotion values (111801, 3, 103011, 102013, 102432, 102401, 102551, 102581);
@@ -2352,7 +2458,8 @@ insert into unit_promotion values (111801, 18, 106012, 106011, 106341, 105403, 1
 insert into unit_promotion values (111801, 19, 106013, 106012, 106431, 106401, 106582, 106581);
 insert into unit_promotion values (111801, 20, 107011, 106013, 106491, 106431, 106583, 106582);
 insert into unit_promotion values (111801, 21, 107012, 107011, 107341, 106491, 107581, 106583);
-insert into unit_promotion values (111801, 22, 999999, 107012, 107282, 107341, 107582, 107581);
+insert into unit_promotion values (111801, 22, 107013, 107012, 107282, 107341, 107582, 107581);
+insert into unit_promotion values (111801, 23, 999999, 107013, 999999, 107282, 999999, 107582);
 insert into unit_promotion values (111901, 1, 101161, 101161, 101281, 101431, 101581, 101551);
 insert into unit_promotion values (111901, 2, 102163, 102162, 102341, 102491, 101581, 101551);
 insert into unit_promotion values (111901, 3, 103161, 102163, 102342, 102432, 102581, 102551);
@@ -2374,7 +2481,8 @@ insert into unit_promotion values (111901, 18, 106162, 106161, 106401, 105347, 1
 insert into unit_promotion values (111901, 19, 106163, 106162, 106431, 106401, 106582, 106581);
 insert into unit_promotion values (111901, 20, 107161, 106163, 106491, 106431, 106583, 106582);
 insert into unit_promotion values (111901, 21, 107162, 107161, 107341, 106491, 107581, 106583);
-insert into unit_promotion values (111901, 22, 999999, 107162, 107342, 107341, 107582, 107581);
+insert into unit_promotion values (111901, 22, 107163, 107162, 107342, 107341, 107582, 107581);
+insert into unit_promotion values (111901, 23, 999999, 107163, 999999, 107342, 999999, 107582);
 insert into unit_promotion values (112001, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (112001, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (112001, 3, 103221, 102222, 102372, 102521, 102611, 102611);
@@ -2396,7 +2504,8 @@ insert into unit_promotion values (112001, 18, 106222, 106221, 106371, 105227, 1
 insert into unit_promotion values (112001, 19, 106223, 106222, 106372, 106221, 106612, 106611);
 insert into unit_promotion values (112001, 20, 107221, 106223, 106373, 106222, 106613, 106612);
 insert into unit_promotion values (112001, 21, 107222, 107221, 107371, 106223, 107611, 106613);
-insert into unit_promotion values (112001, 22, 999999, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (112001, 22, 107223, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (112001, 23, 999999, 107223, 999999, 107222, 999999, 107612);
 insert into unit_promotion values (112101, 1, 101251, 101251, 101371, 101521, 101611, 101581);
 insert into unit_promotion values (112101, 2, 102252, 102251, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (112101, 3, 103251, 102252, 102372, 102521, 102612, 102581);
@@ -2418,7 +2527,8 @@ insert into unit_promotion values (112101, 18, 106252, 106251, 106461, 105464, 1
 insert into unit_promotion values (112101, 19, 106253, 106252, 106521, 106461, 106582, 106611);
 insert into unit_promotion values (112101, 20, 107251, 106253, 106462, 106521, 106583, 106612);
 insert into unit_promotion values (112101, 21, 107252, 107251, 107461, 106462, 107581, 106613);
-insert into unit_promotion values (112101, 22, 999999, 107252, 107462, 107461, 107582, 107611);
+insert into unit_promotion values (112101, 22, 107253, 107252, 107462, 107461, 107582, 107611);
+insert into unit_promotion values (112101, 23, 999999, 107253, 999999, 107462, 999999, 107612);
 insert into unit_promotion values (112201, 1, 101251, 101251, 101371, 101521, 101611, 101581);
 insert into unit_promotion values (112201, 2, 102252, 102251, 102371, 102461, 101611, 101581);
 insert into unit_promotion values (112201, 3, 103251, 102252, 102372, 102521, 102612, 102581);
@@ -2440,7 +2550,8 @@ insert into unit_promotion values (112201, 18, 106252, 106251, 106461, 105464, 1
 insert into unit_promotion values (112201, 19, 106253, 106252, 106521, 106461, 106612, 106581);
 insert into unit_promotion values (112201, 20, 107251, 106253, 106462, 106372, 106613, 106582);
 insert into unit_promotion values (112201, 21, 107252, 107251, 107461, 106462, 107611, 106583);
-insert into unit_promotion values (112201, 22, 999999, 107252, 107462, 107461, 107612, 107581);
+insert into unit_promotion values (112201, 22, 107253, 107252, 107462, 107461, 107612, 107581);
+insert into unit_promotion values (112201, 23, 999999, 107253, 999999, 107462, 999999, 107582);
 insert into unit_promotion values (112301, 1, 101131, 101131, 101281, 101551, 101131, 101551);
 insert into unit_promotion values (112301, 2, 102131, 102071, 102341, 102551, 101131, 101551);
 insert into unit_promotion values (112301, 3, 103071, 102131, 102342, 102552, 102071, 102551);
@@ -2462,7 +2573,8 @@ insert into unit_promotion values (112301, 18, 106132, 106131, 106341, 105137, 1
 insert into unit_promotion values (112301, 19, 106133, 106132, 106342, 106131, 106552, 106551);
 insert into unit_promotion values (112301, 20, 107131, 106133, 106343, 106132, 106553, 106552);
 insert into unit_promotion values (112301, 21, 107132, 107131, 107341, 106133, 107551, 106553);
-insert into unit_promotion values (112301, 22, 999999, 107132, 107492, 107131, 107552, 107551);
+insert into unit_promotion values (112301, 22, 107133, 107132, 107492, 107131, 107552, 107551);
+insert into unit_promotion values (112301, 23, 999999, 107133, 999999, 107132, 999999, 107552);
 insert into unit_promotion values (112401, 1, 101011, 101011, 101281, 101401, 101011, 101551);
 insert into unit_promotion values (112401, 2, 102013, 102011, 102281, 102493, 101551, 101551);
 insert into unit_promotion values (112401, 3, 103011, 102013, 102282, 102401, 102011, 102551);
@@ -2484,7 +2596,8 @@ insert into unit_promotion values (112401, 18, 106012, 106011, 106281, 105017, 1
 insert into unit_promotion values (112401, 19, 106013, 106012, 106282, 106011, 106552, 106551);
 insert into unit_promotion values (112401, 20, 107011, 106013, 106283, 106012, 106553, 106552);
 insert into unit_promotion values (112401, 21, 107012, 107011, 107341, 106013, 107551, 106553);
-insert into unit_promotion values (112401, 22, 999999, 107012, 107282, 107011, 107552, 107551);
+insert into unit_promotion values (112401, 22, 107013, 107012, 107282, 107011, 107552, 107551);
+insert into unit_promotion values (112401, 23, 999999, 107013, 999999, 107012, 999999, 107552);
 insert into unit_promotion values (112501, 1, 101011, 101071, 101281, 101401, 101551, 101581);
 insert into unit_promotion values (112501, 2, 102041, 102011, 102311, 102493, 101431, 101581);
 insert into unit_promotion values (112501, 3, 103011, 102401, 102282, 102401, 102011, 102551);
@@ -2506,7 +2619,8 @@ insert into unit_promotion values (112501, 18, 106042, 106041, 106311, 105317, 1
 insert into unit_promotion values (112501, 19, 106043, 106042, 106312, 106311, 106582, 106581);
 insert into unit_promotion values (112501, 20, 107041, 106043, 106313, 106312, 106583, 106582);
 insert into unit_promotion values (112501, 21, 107042, 107041, 107311, 106313, 107581, 106583);
-insert into unit_promotion values (112501, 22, 999999, 107042, 107312, 107311, 107582, 107581);
+insert into unit_promotion values (112501, 22, 107043, 107042, 107312, 107311, 107582, 107581);
+insert into unit_promotion values (112501, 23, 999999, 107043, 999999, 107312, 999999, 107582);
 insert into unit_promotion values (112601, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (112601, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (112601, 3, 103221, 102222, 102372, 102521, 102611, 102611);
@@ -2528,7 +2642,8 @@ insert into unit_promotion values (112601, 18, 106252, 106251, 106371, 105227, 1
 insert into unit_promotion values (112601, 19, 106253, 106252, 106521, 106221, 106612, 106611);
 insert into unit_promotion values (112601, 20, 107251, 106253, 106373, 106521, 106613, 106612);
 insert into unit_promotion values (112601, 21, 107252, 107251, 107371, 106373, 107611, 106613);
-insert into unit_promotion values (112601, 22, 999999, 107252, 107372, 107371, 107612, 107611);
+insert into unit_promotion values (112601, 22, 107253, 107252, 107372, 107371, 107612, 107611);
+insert into unit_promotion values (112601, 23, 999999, 107253, 999999, 107372, 999999, 107612);
 insert into unit_promotion values (112701, 1, 101161, 101161, 101281, 101431, 101161, 101581);
 insert into unit_promotion values (112701, 2, 102163, 102191, 102341, 102491, 101161, 101581);
 insert into unit_promotion values (112701, 3, 103161, 102163, 102342, 102432, 102162, 102581);
@@ -2550,7 +2665,8 @@ insert into unit_promotion values (112701, 18, 106162, 106161, 106311, 105167, 1
 insert into unit_promotion values (112701, 19, 106163, 106162, 106312, 106161, 106552, 106551);
 insert into unit_promotion values (112701, 20, 107161, 106163, 106313, 106162, 106553, 106552);
 insert into unit_promotion values (112701, 21, 107162, 107161, 107311, 106163, 107551, 106553);
-insert into unit_promotion values (112701, 22, 999999, 107162, 107312, 107161, 107552, 107551);
+insert into unit_promotion values (112701, 22, 107163, 107162, 107312, 107161, 107552, 107551);
+insert into unit_promotion values (112701, 23, 999999, 107163, 999999, 107162, 999999, 107552);
 insert into unit_promotion values (112801, 1, 101161, 101161, 101281, 101401, 101191, 101551);
 insert into unit_promotion values (112801, 2, 102163, 102162, 102281, 102493, 101551, 101551);
 insert into unit_promotion values (112801, 3, 103161, 102163, 102282, 102401, 102162, 102551);
@@ -2572,7 +2688,8 @@ insert into unit_promotion values (112801, 18, 106162, 106161, 106281, 105167, 1
 insert into unit_promotion values (112801, 19, 106163, 106162, 106282, 106161, 106552, 106551);
 insert into unit_promotion values (112801, 20, 107161, 106163, 106283, 106162, 106553, 106552);
 insert into unit_promotion values (112801, 21, 107162, 107161, 107281, 106163, 107551, 106553);
-insert into unit_promotion values (112801, 22, 999999, 107162, 107282, 107161, 107552, 107551);
+insert into unit_promotion values (112801, 22, 107163, 107162, 107282, 107161, 107552, 107551);
+insert into unit_promotion values (112801, 23, 999999, 107163, 999999, 107162, 999999, 107552);
 insert into unit_promotion values (112901, 1, 101131, 101131, 101281, 101551, 101131, 101551);
 insert into unit_promotion values (112901, 2, 102131, 102071, 102341, 102551, 101131, 101551);
 insert into unit_promotion values (112901, 3, 103071, 102131, 102342, 102552, 102071, 102551);
@@ -2594,7 +2711,8 @@ insert into unit_promotion values (112901, 18, 106132, 106131, 106341, 105137, 1
 insert into unit_promotion values (112901, 19, 106133, 106132, 106342, 106131, 106552, 106551);
 insert into unit_promotion values (112901, 20, 107131, 106133, 106343, 106132, 106553, 106552);
 insert into unit_promotion values (112901, 21, 107132, 107131, 107341, 106133, 107551, 106553);
-insert into unit_promotion values (112901, 22, 999999, 107132, 107492, 107131, 107552, 107551);
+insert into unit_promotion values (112901, 22, 107133, 107132, 107492, 107131, 107552, 107551);
+insert into unit_promotion values (112901, 23, 999999, 107133, 999999, 107132, 999999, 107552);
 insert into unit_promotion values (113001, 1, 101161, 101161, 101281, 101431, 101581, 101551);
 insert into unit_promotion values (113001, 2, 102163, 102162, 102341, 102491, 101581, 101551);
 insert into unit_promotion values (113001, 3, 103161, 102163, 102342, 102432, 102581, 102551);
@@ -2616,7 +2734,8 @@ insert into unit_promotion values (113001, 18, 106162, 106161, 106401, 105403, 1
 insert into unit_promotion values (113001, 19, 106163, 106162, 106431, 106401, 106582, 106581);
 insert into unit_promotion values (113001, 20, 107161, 106163, 106491, 106431, 106583, 106582);
 insert into unit_promotion values (113001, 21, 107162, 107161, 107341, 106491, 107581, 106583);
-insert into unit_promotion values (113001, 22, 999999, 107162, 107342, 107341, 107582, 107581);
+insert into unit_promotion values (113001, 22, 107163, 107162, 107342, 107341, 107582, 107581);
+insert into unit_promotion values (113001, 23, 999999, 107163, 999999, 107342, 999999, 107582);
 insert into unit_promotion values (113101, 1, 101011, 101011, 101281, 101551, 101011, 101551);
 insert into unit_promotion values (113101, 2, 102041, 102071, 102341, 102551, 101011, 101551);
 insert into unit_promotion values (113101, 3, 103071, 102041, 102342, 102552, 102071, 102551);
@@ -2638,7 +2757,8 @@ insert into unit_promotion values (113101, 18, 106042, 106041, 106341, 105047, 1
 insert into unit_promotion values (113101, 19, 106043, 106042, 106342, 106041, 106552, 106551);
 insert into unit_promotion values (113101, 20, 107041, 106043, 106283, 106042, 106553, 106552);
 insert into unit_promotion values (113101, 21, 107042, 107041, 107341, 106043, 107551, 106553);
-insert into unit_promotion values (113101, 22, 999999, 107042, 107492, 107041, 107552, 107551);
+insert into unit_promotion values (113101, 22, 107043, 107042, 107492, 107041, 107552, 107551);
+insert into unit_promotion values (113101, 23, 999999, 107043, 999999, 107042, 999999, 107552);
 insert into unit_promotion values (113201, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (113201, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (113201, 3, 103221, 102222, 102372, 102521, 102611, 102611);
@@ -2660,7 +2780,8 @@ insert into unit_promotion values (113201, 18, 106222, 106221, 106371, 105227, 1
 insert into unit_promotion values (113201, 19, 106223, 106222, 106372, 106221, 106612, 106611);
 insert into unit_promotion values (113201, 20, 107221, 106223, 106373, 106222, 106613, 106612);
 insert into unit_promotion values (113201, 21, 107222, 107221, 107371, 106223, 107611, 106613);
-insert into unit_promotion values (113201, 22, 999999, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (113201, 22, 107223, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (113201, 23, 999999, 107223, 999999, 107222, 999999, 107612);
 insert into unit_promotion values (113301, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (113301, 2, 102252, 102251, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (113301, 3, 103251, 102252, 102372, 102222, 102611, 102611);
@@ -2682,7 +2803,8 @@ insert into unit_promotion values (113301, 18, 106252, 106251, 106371, 105257, 1
 insert into unit_promotion values (113301, 19, 106253, 106252, 106521, 106251, 106612, 106611);
 insert into unit_promotion values (113301, 20, 107251, 106253, 106462, 106252, 106613, 106612);
 insert into unit_promotion values (113301, 21, 107252, 107251, 107461, 106253, 107611, 106613);
-insert into unit_promotion values (113301, 22, 999999, 107252, 107462, 107251, 107612, 107611);
+insert into unit_promotion values (113301, 22, 107253, 107252, 107462, 107251, 107612, 107611);
+insert into unit_promotion values (113301, 23, 999999, 107253, 999999, 107252, 999999, 107612);
 insert into unit_promotion values (113401, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (113401, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (113401, 3, 103221, 102222, 102372, 102521, 102611, 102611);
@@ -2704,7 +2826,8 @@ insert into unit_promotion values (113401, 18, 106222, 106221, 106371, 105377, 1
 insert into unit_promotion values (113401, 19, 106223, 106222, 106372, 106371, 106612, 106611);
 insert into unit_promotion values (113401, 20, 107221, 106223, 106373, 106521, 106613, 106612);
 insert into unit_promotion values (113401, 21, 107222, 107221, 107371, 106373, 107611, 106613);
-insert into unit_promotion values (113401, 22, 999999, 107222, 107372, 107371, 107612, 107611);
+insert into unit_promotion values (113401, 22, 107223, 107222, 107372, 107371, 107612, 107611);
+insert into unit_promotion values (113401, 23, 999999, 107223, 999999, 107372, 999999, 107612);
 insert into unit_promotion values (113501, 1, 101251, 101251, 101371, 101521, 101611, 101581);
 insert into unit_promotion values (113501, 2, 102252, 102251, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (113501, 3, 103251, 102252, 102372, 102521, 102612, 102581);
@@ -2726,7 +2849,8 @@ insert into unit_promotion values (113501, 18, 106252, 106251, 106461, 105464, 1
 insert into unit_promotion values (113501, 19, 106253, 106252, 106521, 106461, 106582, 106611);
 insert into unit_promotion values (113501, 20, 107251, 106253, 106462, 106372, 106583, 106612);
 insert into unit_promotion values (113501, 21, 107252, 107251, 107461, 106462, 107581, 106613);
-insert into unit_promotion values (113501, 22, 999999, 107252, 107462, 107461, 107582, 107611);
+insert into unit_promotion values (113501, 22, 107253, 107252, 107462, 107461, 107582, 107611);
+insert into unit_promotion values (113501, 23, 999999, 107253, 999999, 107462, 999999, 107612);
 insert into unit_promotion values (113601, 1, 101011, 101011, 101011, 101401, 101551, 101551);
 insert into unit_promotion values (113601, 2, 102013, 102011, 102281, 102493, 101551, 101551);
 insert into unit_promotion values (113601, 3, 103011, 102013, 102013, 102401, 102551, 102551);
@@ -2748,7 +2872,8 @@ insert into unit_promotion values (113601, 18, 106012, 106011, 106401, 105403, 1
 insert into unit_promotion values (113601, 19, 106013, 106012, 106431, 106401, 106552, 106551);
 insert into unit_promotion values (113601, 20, 107011, 106013, 106343, 106431, 106553, 106552);
 insert into unit_promotion values (113601, 21, 107012, 107011, 107341, 106343, 107551, 106553);
-insert into unit_promotion values (113601, 22, 999999, 107012, 107492, 107341, 107552, 107551);
+insert into unit_promotion values (113601, 22, 107013, 107012, 107492, 107341, 107552, 107551);
+insert into unit_promotion values (113601, 23, 999999, 107013, 999999, 107492, 999999, 107552);
 insert into unit_promotion values (113701, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (113701, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (113701, 3, 103221, 102222, 102372, 102521, 102611, 102611);
@@ -2770,7 +2895,8 @@ insert into unit_promotion values (113701, 18, 106222, 106221, 106371, 105227, 1
 insert into unit_promotion values (113701, 19, 106223, 106222, 106372, 106221, 106612, 106611);
 insert into unit_promotion values (113701, 20, 107221, 106223, 106373, 106222, 106613, 106612);
 insert into unit_promotion values (113701, 21, 107222, 107221, 107371, 106223, 107611, 106613);
-insert into unit_promotion values (113701, 22, 999999, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (113701, 22, 107223, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (113701, 23, 999999, 107223, 999999, 107222, 999999, 107612);
 insert into unit_promotion values (113801, 1, 101251, 101251, 101371, 101521, 101611, 101581);
 insert into unit_promotion values (113801, 2, 102252, 102251, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (113801, 3, 103251, 102252, 102372, 102521, 102612, 102581);
@@ -2792,7 +2918,8 @@ insert into unit_promotion values (113801, 18, 106252, 106251, 106461, 105464, 1
 insert into unit_promotion values (113801, 19, 106253, 106252, 106521, 106461, 106582, 106581);
 insert into unit_promotion values (113801, 20, 107251, 106253, 106462, 106372, 106583, 106582);
 insert into unit_promotion values (113801, 21, 107252, 107251, 107461, 106462, 107581, 106583);
-insert into unit_promotion values (113801, 22, 999999, 107252, 107462, 107461, 107582, 107581);
+insert into unit_promotion values (113801, 22, 107253, 107252, 107462, 107461, 107582, 107581);
+insert into unit_promotion values (113801, 23, 999999, 107253, 999999, 107462, 999999, 107582);
 insert into unit_promotion values (113901, 1, 101071, 101281, 101431, 101431, 101581, 101581);
 insert into unit_promotion values (113901, 2, 102101, 102071, 102341, 102431, 101581, 101581);
 insert into unit_promotion values (113901, 3, 103071, 102432, 102342, 102432, 102581, 102581);
@@ -2814,7 +2941,8 @@ insert into unit_promotion values (113901, 18, 106072, 106071, 106401, 105347, 1
 insert into unit_promotion values (113901, 19, 106073, 106072, 106342, 106401, 106582, 106581);
 insert into unit_promotion values (113901, 20, 107071, 106073, 106491, 106342, 106583, 106582);
 insert into unit_promotion values (113901, 21, 107072, 107071, 107281, 106491, 107581, 106583);
-insert into unit_promotion values (113901, 22, 999999, 107072, 107342, 107281, 107582, 107581);
+insert into unit_promotion values (113901, 22, 107073, 107072, 107342, 107281, 107582, 107581);
+insert into unit_promotion values (113901, 23, 999999, 107073, 999999, 107342, 999999, 107582);
 insert into unit_promotion values (114001, 1, 101011, 101011, 101281, 101551, 101011, 101551);
 insert into unit_promotion values (114001, 2, 102013, 102011, 102341, 102551, 101011, 101551);
 insert into unit_promotion values (114001, 3, 103011, 102013, 102342, 102552, 102011, 102551);
@@ -2836,7 +2964,8 @@ insert into unit_promotion values (114001, 18, 106012, 106011, 106341, 105017, 1
 insert into unit_promotion values (114001, 19, 106013, 106012, 106342, 106011, 106552, 106551);
 insert into unit_promotion values (114001, 20, 107011, 106013, 106343, 106012, 106553, 106552);
 insert into unit_promotion values (114001, 21, 107012, 107011, 107341, 106013, 107551, 106553);
-insert into unit_promotion values (114001, 22, 999999, 107012, 107492, 107011, 107552, 107551);
+insert into unit_promotion values (114001, 22, 107013, 107012, 107492, 107011, 107552, 107551);
+insert into unit_promotion values (114001, 23, 999999, 107013, 999999, 107012, 999999, 107552);
 insert into unit_promotion values (114101, 1, 101101, 101071, 101281, 101431, 101071, 101551);
 insert into unit_promotion values (114101, 2, 102101, 102071, 102341, 102431, 101551, 101551);
 insert into unit_promotion values (114101, 3, 103071, 102101, 102342, 102432, 102551, 102551);
@@ -2858,7 +2987,8 @@ insert into unit_promotion values (114101, 18, 106102, 106101, 106341, 105107, 1
 insert into unit_promotion values (114101, 19, 106103, 106102, 106342, 106101, 106552, 106551);
 insert into unit_promotion values (114101, 20, 107101, 106103, 106343, 106102, 106553, 106552);
 insert into unit_promotion values (114101, 21, 107102, 107101, 107341, 106103, 107551, 106553);
-insert into unit_promotion values (114101, 22, 999999, 107102, 107342, 107101, 107552, 107551);
+insert into unit_promotion values (114101, 22, 107103, 107102, 107342, 107101, 107552, 107551);
+insert into unit_promotion values (114101, 23, 999999, 107103, 999999, 107102, 999999, 107552);
 insert into unit_promotion values (114201, 1, 101011, 101011, 101011, 101401, 101551, 101551);
 insert into unit_promotion values (114201, 2, 102013, 102011, 102281, 102493, 101551, 101551);
 insert into unit_promotion values (114201, 3, 103011, 102013, 102013, 102401, 102551, 102551);
@@ -2880,7 +3010,8 @@ insert into unit_promotion values (114201, 18, 106012, 106011, 106401, 105403, 1
 insert into unit_promotion values (114201, 19, 106013, 106012, 106431, 106401, 106552, 106551);
 insert into unit_promotion values (114201, 20, 107011, 106013, 106491, 106431, 106553, 106552);
 insert into unit_promotion values (114201, 21, 107012, 107011, 107341, 106491, 107551, 106553);
-insert into unit_promotion values (114201, 22, 999999, 107012, 107342, 107341, 107552, 107551);
+insert into unit_promotion values (114201, 22, 107013, 107012, 107342, 107341, 107552, 107551);
+insert into unit_promotion values (114201, 23, 999999, 107013, 999999, 107342, 999999, 107552);
 insert into unit_promotion values (114301, 1, 101011, 101071, 101281, 101401, 101011, 101551);
 insert into unit_promotion values (114301, 2, 102041, 102071, 102281, 102493, 101551, 101551);
 insert into unit_promotion values (114301, 3, 103011, 102041, 102282, 102401, 102011, 102551);
@@ -2902,7 +3033,8 @@ insert into unit_promotion values (114301, 18, 106042, 106071, 106341, 105017, 1
 insert into unit_promotion values (114301, 19, 106043, 106072, 106342, 106011, 106552, 106551);
 insert into unit_promotion values (114301, 20, 107041, 106073, 106343, 106012, 106553, 106552);
 insert into unit_promotion values (114301, 21, 107042, 107071, 107491, 106013, 107551, 106553);
-insert into unit_promotion values (114301, 22, 999999, 107072, 107492, 107011, 107552, 107551);
+insert into unit_promotion values (114301, 22, 107043, 107072, 107492, 107011, 107552, 107551);
+insert into unit_promotion values (114301, 23, 999999, 107073, 999999, 107012, 999999, 107552);
 insert into unit_promotion values (114401, 1, 101011, 101011, 101281, 101401, 101011, 101551);
 insert into unit_promotion values (114401, 2, 102013, 102011, 102281, 102071, 101551, 101551);
 insert into unit_promotion values (114401, 3, 103011, 102013, 102282, 102401, 102011, 102551);
@@ -2924,7 +3056,8 @@ insert into unit_promotion values (114401, 18, 106012, 106011, 106281, 105017, 1
 insert into unit_promotion values (114401, 19, 106013, 106012, 106282, 106011, 106552, 106551);
 insert into unit_promotion values (114401, 20, 107011, 106013, 106283, 106012, 106553, 106552);
 insert into unit_promotion values (114401, 21, 107012, 107011, 107491, 106013, 107551, 106553);
-insert into unit_promotion values (114401, 22, 999999, 107012, 107492, 107011, 107552, 107551);
+insert into unit_promotion values (114401, 22, 107013, 107012, 107492, 107011, 107552, 107551);
+insert into unit_promotion values (114401, 23, 999999, 107013, 999999, 107012, 999999, 107552);
 insert into unit_promotion values (114501, 1, 101011, 101071, 101281, 101401, 101551, 101581);
 insert into unit_promotion values (114501, 2, 102013, 102011, 102311, 102493, 101431, 101581);
 insert into unit_promotion values (114501, 3, 103011, 102401, 102282, 102401, 102011, 102551);
@@ -2946,7 +3079,8 @@ insert into unit_promotion values (114501, 18, 106012, 106011, 106311, 105317, 1
 insert into unit_promotion values (114501, 19, 106013, 106012, 106312, 106311, 106582, 106581);
 insert into unit_promotion values (114501, 20, 107011, 106013, 106313, 106312, 106583, 106582);
 insert into unit_promotion values (114501, 21, 107012, 107011, 107311, 106313, 107581, 106583);
-insert into unit_promotion values (114501, 22, 999999, 107012, 107312, 107311, 107582, 107581);
+insert into unit_promotion values (114501, 22, 107013, 107012, 107312, 107311, 107582, 107581);
+insert into unit_promotion values (114501, 23, 999999, 107013, 999999, 107312, 999999, 107582);
 insert into unit_promotion values (114601, 1, 101011, 101431, 101281, 101011, 101551, 101581);
 insert into unit_promotion values (114601, 2, 102013, 102431, 102311, 102011, 101431, 101581);
 insert into unit_promotion values (114601, 3, 103011, 102401, 102282, 102013, 102011, 102551);
@@ -2968,7 +3102,8 @@ insert into unit_promotion values (114601, 18, 106012, 106011, 106341, 105347, 1
 insert into unit_promotion values (114601, 19, 106013, 106012, 106342, 106341, 106582, 106581);
 insert into unit_promotion values (114601, 20, 107011, 106013, 106491, 106342, 106583, 106582);
 insert into unit_promotion values (114601, 21, 107012, 107011, 107281, 106491, 107581, 106583);
-insert into unit_promotion values (114601, 22, 999999, 107012, 107342, 107281, 107582, 107581);
+insert into unit_promotion values (114601, 22, 107013, 107012, 107342, 107281, 107582, 107581);
+insert into unit_promotion values (114601, 23, 999999, 107013, 999999, 107342, 999999, 107582);
 insert into unit_promotion values (114701, 1, 101071, 101071, 101281, 101431, 101551, 101551);
 insert into unit_promotion values (114701, 2, 102041, 102071, 102431, 102431, 101551, 101551);
 insert into unit_promotion values (114701, 3, 103071, 102041, 102342, 102432, 102551, 102551);
@@ -2990,7 +3125,8 @@ insert into unit_promotion values (114701, 18, 106072, 106071, 106341, 105287, 1
 insert into unit_promotion values (114701, 19, 106073, 106072, 106342, 106341, 106552, 106551);
 insert into unit_promotion values (114701, 20, 107071, 106073, 106343, 106342, 106553, 106552);
 insert into unit_promotion values (114701, 21, 107072, 107071, 107491, 106343, 107551, 106553);
-insert into unit_promotion values (114701, 22, 999999, 107072, 107282, 107491, 107552, 107551);
+insert into unit_promotion values (114701, 22, 107073, 107072, 107282, 107491, 107552, 107551);
+insert into unit_promotion values (114701, 23, 999999, 107073, 999999, 107282, 999999, 107552);
 insert into unit_promotion values (115001, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (115001, 2, 102252, 102251, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (115001, 3, 103251, 102252, 102372, 102222, 102611, 102611);
@@ -3012,7 +3148,8 @@ insert into unit_promotion values (115001, 18, 106252, 106251, 106371, 105257, 1
 insert into unit_promotion values (115001, 19, 106253, 106252, 106521, 106251, 106612, 106611);
 insert into unit_promotion values (115001, 20, 107251, 106253, 106462, 106252, 106613, 106612);
 insert into unit_promotion values (115001, 21, 107252, 107251, 107461, 106253, 107611, 106613);
-insert into unit_promotion values (115001, 22, 999999, 107252, 107462, 107251, 107612, 107611);
+insert into unit_promotion values (115001, 22, 107253, 107252, 107462, 107251, 107612, 107611);
+insert into unit_promotion values (115001, 23, 999999, 107253, 999999, 107252, 999999, 107612);
 insert into unit_promotion values (115501, 1, 101071, 101071, 101281, 101401, 101581, 101551);
 insert into unit_promotion values (115501, 2, 102041, 102071, 102281, 102493, 101581, 101551);
 insert into unit_promotion values (115501, 3, 103071, 102041, 102282, 102401, 102581, 102551);
@@ -3034,7 +3171,8 @@ insert into unit_promotion values (115501, 18, 106072, 106071, 106341, 105017, 1
 insert into unit_promotion values (115501, 19, 106073, 106072, 106342, 106011, 106552, 106551);
 insert into unit_promotion values (115501, 20, 107071, 106073, 106343, 106012, 106553, 106552);
 insert into unit_promotion values (115501, 21, 107072, 107071, 107281, 106013, 107551, 106553);
-insert into unit_promotion values (115501, 22, 999999, 107072, 107282, 107011, 107552, 107551);
+insert into unit_promotion values (115501, 22, 107073, 107072, 107282, 107011, 107552, 107551);
+insert into unit_promotion values (115501, 23, 999999, 107073, 999999, 107012, 999999, 107552);
 insert into unit_promotion values (115601, 1, 101251, 101251, 101371, 101521, 101611, 101581);
 insert into unit_promotion values (115601, 2, 102252, 102251, 102371, 102461, 101611, 101581);
 insert into unit_promotion values (115601, 3, 103251, 102252, 102372, 102521, 102612, 102581);
@@ -3056,7 +3194,8 @@ insert into unit_promotion values (115601, 18, 106252, 106251, 106461, 105464, 1
 insert into unit_promotion values (115601, 19, 106253, 106252, 106521, 106461, 106612, 106581);
 insert into unit_promotion values (115601, 20, 107251, 106253, 106462, 106372, 106613, 106582);
 insert into unit_promotion values (115601, 21, 107252, 107251, 107461, 106462, 107611, 106583);
-insert into unit_promotion values (115601, 22, 999999, 107252, 107462, 107461, 107612, 107581);
+insert into unit_promotion values (115601, 22, 107253, 107252, 107462, 107461, 107612, 107581);
+insert into unit_promotion values (115601, 23, 999999, 107253, 999999, 107462, 999999, 107582);
 insert into unit_promotion values (115701, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (115701, 2, 102252, 102251, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (115701, 3, 103251, 102252, 102372, 102222, 102611, 102611);
@@ -3078,7 +3217,8 @@ insert into unit_promotion values (115701, 18, 106252, 106251, 106371, 105257, 1
 insert into unit_promotion values (115701, 19, 106253, 106252, 106521, 106251, 106612, 106611);
 insert into unit_promotion values (115701, 20, 107251, 106253, 106462, 106252, 106613, 106612);
 insert into unit_promotion values (115701, 21, 107252, 107251, 107461, 106253, 107611, 106613);
-insert into unit_promotion values (115701, 22, 999999, 107252, 107462, 107251, 107612, 107611);
+insert into unit_promotion values (115701, 22, 107253, 107252, 107462, 107251, 107612, 107611);
+insert into unit_promotion values (115701, 23, 999999, 107253, 999999, 107252, 999999, 107612);
 insert into unit_promotion values (115801, 1, 101011, 101011, 101281, 101401, 101011, 101551);
 insert into unit_promotion values (115801, 2, 102013, 102011, 102281, 102071, 101551, 101551);
 insert into unit_promotion values (115801, 3, 103011, 102013, 102282, 102401, 102011, 102551);
@@ -3100,7 +3240,8 @@ insert into unit_promotion values (115801, 18, 106012, 106011, 106281, 105017, 1
 insert into unit_promotion values (115801, 19, 106013, 106012, 106282, 106011, 106552, 106551);
 insert into unit_promotion values (115801, 20, 107011, 106013, 106283, 106012, 106553, 106552);
 insert into unit_promotion values (115801, 21, 107012, 107011, 107281, 106013, 107551, 106553);
-insert into unit_promotion values (115801, 22, 999999, 107012, 107492, 107011, 107552, 107551);
+insert into unit_promotion values (115801, 22, 107013, 107012, 107492, 107011, 107552, 107551);
+insert into unit_promotion values (115801, 23, 999999, 107013, 999999, 107012, 999999, 107552);
 insert into unit_promotion values (115901, 1, 101011, 101011, 101281, 101401, 101011, 101551);
 insert into unit_promotion values (115901, 2, 102041, 102011, 102281, 102493, 101011, 101551);
 insert into unit_promotion values (115901, 3, 103011, 102041, 102282, 102401, 102011, 102551);
@@ -3122,7 +3263,8 @@ insert into unit_promotion values (115901, 18, 106042, 106041, 106281, 105047, 1
 insert into unit_promotion values (115901, 19, 106043, 106042, 106282, 106041, 106552, 106551);
 insert into unit_promotion values (115901, 20, 107041, 106043, 106283, 106042, 106553, 106552);
 insert into unit_promotion values (115901, 21, 107042, 107041, 107491, 106043, 107551, 106553);
-insert into unit_promotion values (115901, 22, 999999, 107042, 107492, 107041, 107552, 107551);
+insert into unit_promotion values (115901, 22, 107043, 107042, 107492, 107041, 107552, 107551);
+insert into unit_promotion values (115901, 23, 999999, 107043, 999999, 107042, 999999, 107552);
 insert into unit_promotion values (116001, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (116001, 2, 102252, 102251, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (116001, 3, 103251, 102252, 102372, 102222, 102611, 102611);
@@ -3144,7 +3286,8 @@ insert into unit_promotion values (116001, 18, 106252, 106251, 106371, 105257, 1
 insert into unit_promotion values (116001, 19, 106253, 106252, 106521, 106251, 106612, 106611);
 insert into unit_promotion values (116001, 20, 107251, 106253, 106462, 106252, 106613, 106612);
 insert into unit_promotion values (116001, 21, 107252, 107251, 107461, 106253, 107611, 106613);
-insert into unit_promotion values (116001, 22, 999999, 107252, 107462, 107251, 107612, 107611);
+insert into unit_promotion values (116001, 22, 107253, 107252, 107462, 107251, 107612, 107611);
+insert into unit_promotion values (116001, 23, 999999, 107253, 999999, 107252, 999999, 107612);
 insert into unit_promotion values (116201, 1, 101071, 101071, 101281, 101431, 101551, 101551);
 insert into unit_promotion values (116201, 2, 102041, 102071, 102431, 102431, 101551, 101551);
 insert into unit_promotion values (116201, 3, 103071, 102041, 102342, 102432, 102551, 102551);
@@ -3166,7 +3309,8 @@ insert into unit_promotion values (116201, 18, 106072, 106071, 106341, 105287, 1
 insert into unit_promotion values (116201, 19, 106073, 106072, 106342, 106341, 106552, 106551);
 insert into unit_promotion values (116201, 20, 107071, 106073, 106343, 106342, 106553, 106552);
 insert into unit_promotion values (116201, 21, 107072, 107071, 107491, 106343, 107551, 106553);
-insert into unit_promotion values (116201, 22, 999999, 107072, 107492, 107491, 107552, 107551);
+insert into unit_promotion values (116201, 22, 107073, 107072, 107492, 107491, 107552, 107551);
+insert into unit_promotion values (116201, 23, 999999, 107073, 999999, 107492, 999999, 107552);
 insert into unit_promotion values (116301, 1, 101101, 101071, 101281, 101431, 101071, 101551);
 insert into unit_promotion values (116301, 2, 102101, 102071, 102341, 102431, 101551, 101551);
 insert into unit_promotion values (116301, 3, 103071, 102101, 102342, 102432, 102551, 102551);
@@ -3188,7 +3332,8 @@ insert into unit_promotion values (116301, 18, 106102, 106101, 106341, 105107, 1
 insert into unit_promotion values (116301, 19, 106103, 106102, 106342, 106101, 106552, 106551);
 insert into unit_promotion values (116301, 20, 107101, 106103, 106343, 106102, 106553, 106552);
 insert into unit_promotion values (116301, 21, 107102, 107101, 107491, 106103, 107551, 106553);
-insert into unit_promotion values (116301, 22, 999999, 107102, 107282, 107101, 107552, 107551);
+insert into unit_promotion values (116301, 22, 107103, 107102, 107282, 107101, 107552, 107551);
+insert into unit_promotion values (116301, 23, 999999, 107103, 999999, 107102, 999999, 107552);
 insert into unit_promotion values (116501, 1, 101191, 101191, 101401, 101191, 101551, 101551);
 insert into unit_promotion values (116501, 2, 102192, 102191, 102311, 102191, 101551, 101551);
 insert into unit_promotion values (116501, 3, 103191, 102192, 102312, 102192, 102551, 102551);
@@ -3210,7 +3355,8 @@ insert into unit_promotion values (116501, 18, 106192, 106191, 106311, 105197, 1
 insert into unit_promotion values (116501, 19, 106193, 106192, 106312, 106191, 106552, 106551);
 insert into unit_promotion values (116501, 20, 107191, 106193, 106313, 106192, 106553, 106552);
 insert into unit_promotion values (116501, 21, 107192, 107191, 107311, 106193, 107551, 106553);
-insert into unit_promotion values (116501, 22, 999999, 107192, 107312, 107191, 107552, 107551);
+insert into unit_promotion values (116501, 22, 107193, 107192, 107312, 107191, 107552, 107551);
+insert into unit_promotion values (116501, 23, 999999, 107193, 999999, 107192, 999999, 107552);
 insert into unit_promotion values (116601, 1, 101101, 101071, 101281, 101431, 101071, 101551);
 insert into unit_promotion values (116601, 2, 102101, 102071, 102341, 102431, 101551, 101551);
 insert into unit_promotion values (116601, 3, 103071, 102101, 102342, 102432, 102551, 102551);
@@ -3232,7 +3378,8 @@ insert into unit_promotion values (116601, 18, 106102, 106101, 106281, 105107, 1
 insert into unit_promotion values (116601, 19, 106103, 106102, 106282, 106101, 106552, 106551);
 insert into unit_promotion values (116601, 20, 107101, 106103, 106283, 106102, 106553, 106552);
 insert into unit_promotion values (116601, 21, 107102, 107101, 107341, 106103, 107551, 106553);
-insert into unit_promotion values (116601, 22, 999999, 107102, 107342, 107101, 107552, 107551);
+insert into unit_promotion values (116601, 22, 107103, 107102, 107342, 107101, 107552, 107551);
+insert into unit_promotion values (116601, 23, 999999, 107103, 999999, 107102, 999999, 107552);
 insert into unit_promotion values (116701, 1, 101131, 101131, 101281, 101431, 101581, 101551);
 insert into unit_promotion values (116701, 2, 102131, 102071, 102341, 102491, 101581, 101551);
 insert into unit_promotion values (116701, 3, 103071, 102131, 102342, 102432, 102581, 102551);
@@ -3254,7 +3401,8 @@ insert into unit_promotion values (116701, 18, 106132, 106131, 106281, 105347, 1
 insert into unit_promotion values (116701, 19, 106133, 106132, 106342, 106281, 106582, 106551);
 insert into unit_promotion values (116701, 20, 107131, 106133, 106491, 106342, 106583, 106552);
 insert into unit_promotion values (116701, 21, 107132, 107131, 107341, 106491, 107581, 106553);
-insert into unit_promotion values (116701, 22, 999999, 107132, 107492, 107341, 107582, 107551);
+insert into unit_promotion values (116701, 22, 107133, 107132, 107492, 107341, 107582, 107551);
+insert into unit_promotion values (116701, 23, 999999, 107133, 999999, 107492, 999999, 107552);
 insert into unit_promotion values (116801, 1, 101071, 101071, 101281, 101401, 101581, 101551);
 insert into unit_promotion values (116801, 2, 102041, 102071, 102281, 102493, 101581, 101551);
 insert into unit_promotion values (116801, 3, 103071, 102041, 102282, 102401, 102581, 102551);
@@ -3276,7 +3424,8 @@ insert into unit_promotion values (116801, 18, 106072, 106071, 106341, 105017, 1
 insert into unit_promotion values (116801, 19, 106073, 106072, 106342, 106011, 106552, 106551);
 insert into unit_promotion values (116801, 20, 107071, 106073, 106343, 106012, 106553, 106552);
 insert into unit_promotion values (116801, 21, 107072, 107071, 107341, 106013, 107551, 106553);
-insert into unit_promotion values (116801, 22, 999999, 107072, 107492, 107011, 107552, 107551);
+insert into unit_promotion values (116801, 22, 107073, 107072, 107492, 107011, 107552, 107551);
+insert into unit_promotion values (116801, 23, 999999, 107073, 999999, 107012, 999999, 107552);
 insert into unit_promotion values (116901, 1, 101161, 101161, 101281, 101401, 101161, 101581);
 insert into unit_promotion values (116901, 2, 102163, 102162, 102311, 102493, 101161, 101581);
 insert into unit_promotion values (116901, 3, 103161, 102163, 102282, 102401, 102162, 102581);
@@ -3298,7 +3447,8 @@ insert into unit_promotion values (116901, 18, 106162, 106161, 106341, 105317, 1
 insert into unit_promotion values (116901, 19, 106163, 106162, 106342, 106311, 106552, 106551);
 insert into unit_promotion values (116901, 20, 107161, 106163, 106283, 106312, 106553, 106552);
 insert into unit_promotion values (116901, 21, 107162, 107161, 107281, 106313, 107551, 106553);
-insert into unit_promotion values (116901, 22, 999999, 107162, 107312, 107311, 107552, 107551);
+insert into unit_promotion values (116901, 22, 107163, 107162, 107312, 107311, 107552, 107551);
+insert into unit_promotion values (116901, 23, 999999, 107163, 999999, 107312, 999999, 107552);
 insert into unit_promotion values (117001, 1, 101191, 101191, 101401, 101191, 101551, 101551);
 insert into unit_promotion values (117001, 2, 102192, 102191, 102281, 102191, 101551, 101551);
 insert into unit_promotion values (117001, 3, 103191, 102192, 102282, 102192, 102551, 102551);
@@ -3320,7 +3470,8 @@ insert into unit_promotion values (117001, 18, 106192, 106191, 106341, 105197, 1
 insert into unit_promotion values (117001, 19, 106193, 106192, 106342, 106191, 106552, 106551);
 insert into unit_promotion values (117001, 20, 107191, 106193, 106343, 106192, 106553, 106552);
 insert into unit_promotion values (117001, 21, 107192, 107191, 107491, 106193, 107551, 106553);
-insert into unit_promotion values (117001, 22, 999999, 107192, 107282, 107191, 107552, 107551);
+insert into unit_promotion values (117001, 22, 107193, 107192, 107282, 107191, 107552, 107551);
+insert into unit_promotion values (117001, 23, 999999, 107193, 999999, 107192, 999999, 107552);
 insert into unit_promotion values (117101, 1, 101011, 101071, 101281, 101401, 101551, 101581);
 insert into unit_promotion values (117101, 2, 102013, 102011, 102311, 102493, 101431, 101581);
 insert into unit_promotion values (117101, 3, 103011, 102401, 102282, 102401, 102011, 102551);
@@ -3342,7 +3493,8 @@ insert into unit_promotion values (117101, 18, 106012, 106011, 106311, 105317, 1
 insert into unit_promotion values (117101, 19, 106013, 106012, 106312, 106311, 106582, 106581);
 insert into unit_promotion values (117101, 20, 107011, 106013, 106313, 106312, 106583, 106582);
 insert into unit_promotion values (117101, 21, 107012, 107011, 107311, 106313, 107581, 106583);
-insert into unit_promotion values (117101, 22, 999999, 107012, 107312, 107311, 107582, 107581);
+insert into unit_promotion values (117101, 22, 107013, 107012, 107312, 107311, 107582, 107581);
+insert into unit_promotion values (117101, 23, 999999, 107013, 999999, 107312, 999999, 107582);
 insert into unit_promotion values (117201, 1, 101011, 101011, 101281, 101401, 101011, 101551);
 insert into unit_promotion values (117201, 2, 102013, 102011, 102281, 102071, 101551, 101551);
 insert into unit_promotion values (117201, 3, 103011, 102013, 102282, 102401, 102011, 102551);
@@ -3364,7 +3516,8 @@ insert into unit_promotion values (117201, 18, 106012, 106011, 106281, 105017, 1
 insert into unit_promotion values (117201, 19, 106013, 106012, 106282, 106011, 106552, 106551);
 insert into unit_promotion values (117201, 20, 107011, 106013, 106283, 106012, 106553, 106552);
 insert into unit_promotion values (117201, 21, 107012, 107011, 107281, 106013, 107551, 106553);
-insert into unit_promotion values (117201, 22, 999999, 107012, 107282, 107011, 107552, 107551);
+insert into unit_promotion values (117201, 22, 107013, 107012, 107282, 107011, 107552, 107551);
+insert into unit_promotion values (117201, 23, 999999, 107013, 999999, 107012, 999999, 107552);
 insert into unit_promotion values (117301, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (117301, 2, 102252, 102251, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (117301, 3, 103251, 102252, 102372, 102521, 102612, 102611);
@@ -3386,7 +3539,8 @@ insert into unit_promotion values (117301, 18, 106252, 106251, 106461, 105464, 1
 insert into unit_promotion values (117301, 19, 106253, 106252, 106521, 106461, 106582, 106611);
 insert into unit_promotion values (117301, 20, 107251, 106253, 106462, 106372, 106583, 106612);
 insert into unit_promotion values (117301, 21, 107252, 107251, 107461, 106462, 107581, 106613);
-insert into unit_promotion values (117301, 22, 999999, 107252, 107462, 107461, 107582, 107611);
+insert into unit_promotion values (117301, 22, 107253, 107252, 107462, 107461, 107582, 107611);
+insert into unit_promotion values (117301, 23, 999999, 107253, 999999, 107462, 999999, 107612);
 insert into unit_promotion values (117401, 1, 101101, 101101, 101431, 101431, 101581, 101581);
 insert into unit_promotion values (117401, 2, 102101, 102071, 102341, 102431, 101581, 101581);
 insert into unit_promotion values (117401, 3, 103071, 102101, 102342, 102432, 102581, 102581);
@@ -3408,7 +3562,8 @@ insert into unit_promotion values (117401, 18, 106102, 106101, 106401, 105347, 1
 insert into unit_promotion values (117401, 19, 106103, 106102, 106342, 106401, 106582, 106581);
 insert into unit_promotion values (117401, 20, 107101, 106103, 106491, 106342, 106583, 106582);
 insert into unit_promotion values (117401, 21, 107102, 107101, 107281, 106491, 107581, 106583);
-insert into unit_promotion values (117401, 22, 999999, 107102, 107342, 107281, 107582, 107581);
+insert into unit_promotion values (117401, 22, 107103, 107102, 107342, 107281, 107582, 107581);
+insert into unit_promotion values (117401, 23, 999999, 107103, 999999, 107342, 999999, 107582);
 insert into unit_promotion values (117501, 1, 101011, 101011, 101011, 101401, 101551, 101551);
 insert into unit_promotion values (117501, 2, 102013, 102011, 102281, 102493, 101551, 101551);
 insert into unit_promotion values (117501, 3, 103011, 102013, 102013, 102401, 102551, 102551);
@@ -3430,7 +3585,8 @@ insert into unit_promotion values (117501, 18, 106012, 106011, 106401, 105403, 1
 insert into unit_promotion values (117501, 19, 106013, 106012, 106431, 106401, 106552, 106551);
 insert into unit_promotion values (117501, 20, 107011, 106013, 106343, 106431, 106553, 106552);
 insert into unit_promotion values (117501, 21, 107012, 107011, 107341, 106343, 107551, 106553);
-insert into unit_promotion values (117501, 22, 999999, 107012, 107342, 107341, 107552, 107551);
+insert into unit_promotion values (117501, 22, 107013, 107012, 107342, 107341, 107552, 107551);
+insert into unit_promotion values (117501, 23, 999999, 107013, 999999, 107342, 999999, 107552);
 insert into unit_promotion values (117601, 1, 101251, 101251, 101371, 101521, 101611, 101581);
 insert into unit_promotion values (117601, 2, 102252, 102251, 102371, 102461, 101611, 101581);
 insert into unit_promotion values (117601, 3, 103251, 102252, 102372, 102521, 102612, 102581);
@@ -3452,7 +3608,8 @@ insert into unit_promotion values (117601, 18, 106252, 106251, 106461, 105464, 1
 insert into unit_promotion values (117601, 19, 106253, 106252, 106521, 106461, 106612, 106611);
 insert into unit_promotion values (117601, 20, 107251, 106253, 106462, 106372, 106613, 106612);
 insert into unit_promotion values (117601, 21, 107252, 107251, 107461, 106462, 107611, 106613);
-insert into unit_promotion values (117601, 22, 999999, 107252, 107462, 107461, 107612, 107611);
+insert into unit_promotion values (117601, 22, 107253, 107252, 107462, 107461, 107612, 107611);
+insert into unit_promotion values (117601, 23, 999999, 107253, 999999, 107462, 999999, 107612);
 insert into unit_promotion values (117701, 1, 101101, 101071, 101281, 101431, 101071, 101551);
 insert into unit_promotion values (117701, 2, 102101, 102071, 102341, 102431, 101551, 101551);
 insert into unit_promotion values (117701, 3, 103071, 102101, 102342, 102432, 102551, 102551);
@@ -3474,7 +3631,8 @@ insert into unit_promotion values (117701, 18, 106102, 106101, 106341, 105107, 1
 insert into unit_promotion values (117701, 19, 106103, 106102, 106342, 106101, 106552, 106551);
 insert into unit_promotion values (117701, 20, 107101, 106103, 106343, 106102, 106553, 106552);
 insert into unit_promotion values (117701, 21, 107102, 107101, 107281, 106103, 107551, 106553);
-insert into unit_promotion values (117701, 22, 999999, 107102, 107492, 107101, 107552, 107551);
+insert into unit_promotion values (117701, 22, 107103, 107102, 107492, 107101, 107552, 107551);
+insert into unit_promotion values (117701, 23, 999999, 107103, 999999, 107102, 999999, 107552);
 insert into unit_promotion values (117801, 1, 101011, 101011, 101281, 101401, 101551, 101581);
 insert into unit_promotion values (117801, 2, 102041, 102011, 102281, 102493, 101011, 101581);
 insert into unit_promotion values (117801, 3, 103011, 102041, 102282, 102401, 102551, 102581);
@@ -3496,7 +3654,8 @@ insert into unit_promotion values (117801, 18, 106042, 106041, 106281, 105047, 1
 insert into unit_promotion values (117801, 19, 106043, 106042, 106282, 106041, 106552, 106551);
 insert into unit_promotion values (117801, 20, 107041, 106043, 106283, 106042, 106553, 106552);
 insert into unit_promotion values (117801, 21, 107042, 107041, 107281, 106043, 107551, 106553);
-insert into unit_promotion values (117801, 22, 999999, 107042, 107282, 107041, 107552, 107551);
+insert into unit_promotion values (117801, 22, 107043, 107042, 107282, 107041, 107552, 107551);
+insert into unit_promotion values (117801, 23, 999999, 107043, 999999, 107042, 999999, 107552);
 insert into unit_promotion values (117901, 1, 101131, 101131, 101281, 101551, 101131, 101551);
 insert into unit_promotion values (117901, 2, 102131, 102071, 102341, 102551, 101131, 101551);
 insert into unit_promotion values (117901, 3, 103071, 102131, 102342, 102552, 102071, 102551);
@@ -3518,7 +3677,8 @@ insert into unit_promotion values (117901, 18, 106132, 106131, 106341, 105137, 1
 insert into unit_promotion values (117901, 19, 106133, 106132, 106282, 106131, 106552, 106551);
 insert into unit_promotion values (117901, 20, 107131, 106133, 106283, 106132, 106553, 106552);
 insert into unit_promotion values (117901, 21, 107132, 107131, 107491, 106133, 107551, 106553);
-insert into unit_promotion values (117901, 22, 999999, 107132, 107492, 107131, 107552, 107551);
+insert into unit_promotion values (117901, 22, 107133, 107132, 107492, 107131, 107552, 107551);
+insert into unit_promotion values (117901, 23, 999999, 107133, 999999, 107132, 999999, 107552);
 insert into unit_promotion values (118001, 1, 101131, 101071, 101071, 101431, 101551, 101551);
 insert into unit_promotion values (118001, 2, 102131, 102071, 102341, 102431, 101551, 101551);
 insert into unit_promotion values (118001, 3, 103071, 102131, 102131, 102432, 102551, 102551);
@@ -3540,7 +3700,8 @@ insert into unit_promotion values (118001, 18, 106132, 106071, 106341, 105137, 1
 insert into unit_promotion values (118001, 19, 106133, 106072, 106342, 106131, 106552, 106551);
 insert into unit_promotion values (118001, 20, 107131, 106073, 106343, 106132, 106553, 106552);
 insert into unit_promotion values (118001, 21, 107132, 107071, 107491, 106133, 107551, 106553);
-insert into unit_promotion values (118001, 22, 999999, 107072, 107492, 107131, 107552, 107551);
+insert into unit_promotion values (118001, 22, 107133, 107072, 107492, 107131, 107552, 107551);
+insert into unit_promotion values (118001, 23, 999999, 107073, 999999, 107132, 999999, 107552);
 insert into unit_promotion values (118501, 1, 101251, 101251, 101371, 101521, 101611, 101581);
 insert into unit_promotion values (118501, 2, 102252, 102251, 102371, 102461, 101611, 101581);
 insert into unit_promotion values (118501, 3, 103251, 102252, 102372, 102521, 102612, 102581);
@@ -3562,7 +3723,8 @@ insert into unit_promotion values (118501, 18, 106252, 106251, 106461, 105464, 1
 insert into unit_promotion values (118501, 19, 106253, 106252, 106521, 106461, 106582, 106611);
 insert into unit_promotion values (118501, 20, 107251, 106253, 106462, 106372, 106583, 106612);
 insert into unit_promotion values (118501, 21, 107252, 107251, 107461, 106462, 107581, 106613);
-insert into unit_promotion values (118501, 22, 999999, 107252, 107462, 107461, 107582, 107611);
+insert into unit_promotion values (118501, 22, 107253, 107252, 107462, 107461, 107582, 107611);
+insert into unit_promotion values (118501, 23, 999999, 107253, 999999, 107462, 999999, 107612);
 insert into unit_promotion values (119001, 1, 101251, 101251, 101371, 101521, 101611, 101581);
 insert into unit_promotion values (119001, 2, 102252, 102251, 102371, 102461, 101611, 101581);
 insert into unit_promotion values (119001, 3, 103251, 102252, 102372, 102222, 102611, 102581);
@@ -3584,7 +3746,8 @@ insert into unit_promotion values (119001, 18, 106252, 106251, 106371, 105257, 1
 insert into unit_promotion values (119001, 19, 106253, 106252, 106521, 106251, 106612, 106581);
 insert into unit_promotion values (119001, 20, 107251, 106253, 106462, 106252, 106613, 106582);
 insert into unit_promotion values (119001, 21, 107252, 107251, 107461, 106253, 107611, 106583);
-insert into unit_promotion values (119001, 22, 999999, 107252, 107462, 107251, 107612, 107581);
+insert into unit_promotion values (119001, 22, 107253, 107252, 107462, 107251, 107612, 107581);
+insert into unit_promotion values (119001, 23, 999999, 107253, 999999, 107252, 999999, 107582);
 insert into unit_promotion values (180101, 1, 101101, 101071, 101281, 101101, 101071, 101551);
 insert into unit_promotion values (180101, 2, 102101, 102071, 102341, 102071, 101551, 101551);
 insert into unit_promotion values (180101, 3, 103071, 102101, 102342, 102101, 102551, 102551);
@@ -3606,7 +3769,8 @@ insert into unit_promotion values (180101, 18, 106102, 106101, 106341, 105107, 1
 insert into unit_promotion values (180101, 19, 106103, 106102, 106342, 106101, 106552, 106551);
 insert into unit_promotion values (180101, 20, 107101, 106103, 106343, 106102, 106553, 106552);
 insert into unit_promotion values (180101, 21, 107102, 107101, 107341, 106103, 107551, 106553);
-insert into unit_promotion values (180101, 22, 999999, 107102, 107492, 107101, 107552, 107551);
+insert into unit_promotion values (180101, 22, 107103, 107102, 107492, 107101, 107552, 107551);
+insert into unit_promotion values (180101, 23, 999999, 107103, 999999, 107102, 999999, 107552);
 insert into unit_promotion values (180201, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (180201, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (180201, 3, 103221, 102222, 102372, 102521, 102611, 102611);
@@ -3628,7 +3792,8 @@ insert into unit_promotion values (180201, 18, 106222, 106221, 106371, 105227, 1
 insert into unit_promotion values (180201, 19, 106223, 106222, 106372, 106221, 106612, 106611);
 insert into unit_promotion values (180201, 20, 107221, 106223, 106373, 106222, 106613, 106612);
 insert into unit_promotion values (180201, 21, 107222, 107221, 107371, 106223, 107611, 106613);
-insert into unit_promotion values (180201, 22, 999999, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (180201, 22, 107223, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (180201, 23, 999999, 107223, 999999, 107222, 999999, 107612);
 insert into unit_promotion values (180301, 1, 101011, 101011, 101281, 101401, 101011, 101551);
 insert into unit_promotion values (180301, 2, 102013, 102011, 102281, 102071, 101551, 101551);
 insert into unit_promotion values (180301, 3, 103011, 102013, 102282, 102401, 102011, 102551);
@@ -3650,7 +3815,8 @@ insert into unit_promotion values (180301, 18, 106012, 106011, 106281, 105017, 1
 insert into unit_promotion values (180301, 19, 106013, 106012, 106282, 106011, 106552, 106551);
 insert into unit_promotion values (180301, 20, 107011, 106013, 106283, 106012, 106553, 106552);
 insert into unit_promotion values (180301, 21, 107012, 107011, 107281, 106013, 107551, 106553);
-insert into unit_promotion values (180301, 22, 999999, 107012, 107282, 107011, 107552, 107551);
+insert into unit_promotion values (180301, 22, 107013, 107012, 107282, 107011, 107552, 107551);
+insert into unit_promotion values (180301, 23, 999999, 107013, 999999, 107012, 999999, 107552);
 insert into unit_promotion values (180401, 1, 101011, 101071, 101281, 101401, 101551, 101581);
 insert into unit_promotion values (180401, 2, 102013, 102011, 102311, 102493, 101431, 101581);
 insert into unit_promotion values (180401, 3, 103011, 102401, 102282, 102401, 102011, 102551);
@@ -3672,7 +3838,8 @@ insert into unit_promotion values (180401, 18, 106012, 106011, 106311, 105317, 1
 insert into unit_promotion values (180401, 19, 106013, 106012, 106312, 106311, 106582, 106581);
 insert into unit_promotion values (180401, 20, 107011, 106013, 106313, 106312, 106583, 106582);
 insert into unit_promotion values (180401, 21, 107012, 107011, 107311, 106313, 107581, 106583);
-insert into unit_promotion values (180401, 22, 999999, 107012, 107312, 107311, 107582, 107581);
+insert into unit_promotion values (180401, 22, 107013, 107012, 107312, 107311, 107582, 107581);
+insert into unit_promotion values (180401, 23, 999999, 107013, 999999, 107312, 999999, 107582);
 insert into unit_promotion values (180501, 1, 101161, 101161, 101281, 101161, 101581, 101551);
 insert into unit_promotion values (180501, 2, 102163, 102162, 102341, 102162, 101581, 101551);
 insert into unit_promotion values (180501, 3, 103161, 102163, 102342, 102521, 102581, 102551);
@@ -3694,7 +3861,8 @@ insert into unit_promotion values (180501, 18, 106162, 106161, 106401, 105167, 1
 insert into unit_promotion values (180501, 19, 106163, 106162, 106431, 106161, 106582, 106581);
 insert into unit_promotion values (180501, 20, 107161, 106163, 106343, 106162, 106583, 106582);
 insert into unit_promotion values (180501, 21, 107162, 107161, 107341, 106163, 107581, 106583);
-insert into unit_promotion values (180501, 22, 999999, 107162, 107342, 107161, 107582, 107581);
+insert into unit_promotion values (180501, 22, 107163, 107162, 107342, 107161, 107582, 107581);
+insert into unit_promotion values (180501, 23, 999999, 107163, 999999, 107162, 999999, 107582);
 insert into unit_promotion values (180601, 1, 101251, 101251, 101371, 101521, 101611, 101611);
 insert into unit_promotion values (180601, 2, 102222, 102221, 102371, 102461, 101611, 101611);
 insert into unit_promotion values (180601, 3, 103221, 102222, 102372, 102521, 102611, 102611);
@@ -3716,7 +3884,8 @@ insert into unit_promotion values (180601, 18, 106222, 106221, 106371, 105227, 1
 insert into unit_promotion values (180601, 19, 106223, 106222, 106372, 106221, 106612, 106611);
 insert into unit_promotion values (180601, 20, 107221, 106223, 106373, 106222, 106613, 106612);
 insert into unit_promotion values (180601, 21, 107222, 107221, 107371, 106223, 107611, 106613);
-insert into unit_promotion values (180601, 22, 999999, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (180601, 22, 107223, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (180601, 23, 999999, 107223, 999999, 107222, 999999, 107612);
 insert into unit_promotion values (180701, 1, 101131, 101131, 101071, 101431, 101551, 101551);
 insert into unit_promotion values (180701, 2, 102131, 102071, 102341, 102431, 101551, 101551);
 insert into unit_promotion values (180701, 3, 103071, 102131, 102131, 102432, 102551, 102551);
@@ -3738,7 +3907,8 @@ insert into unit_promotion values (180701, 18, 106132, 106131, 106341, 105137, 1
 insert into unit_promotion values (180701, 19, 106133, 106132, 106342, 106131, 106552, 106551);
 insert into unit_promotion values (180701, 20, 107131, 106133, 106343, 106132, 106553, 106552);
 insert into unit_promotion values (180701, 21, 107132, 107131, 107491, 106133, 107551, 106553);
-insert into unit_promotion values (180701, 22, 999999, 107132, 107492, 107131, 107552, 107551);
+insert into unit_promotion values (180701, 22, 107133, 107132, 107492, 107131, 107552, 107551);
+insert into unit_promotion values (180701, 23, 999999, 107133, 999999, 107132, 999999, 107552);
 insert into unit_promotion values (400401, 1, 0, 0, 0, 0, 0, 0);
 insert into unit_promotion values (400401, 2, 0, 0, 0, 0, 0, 0);
 insert into unit_promotion values (400401, 3, 0, 0, 0, 0, 0, 0);
@@ -3934,7 +4104,8 @@ insert into unit_promotion values (407001, 18, 106222, 106221, 106371, 105227, 1
 insert into unit_promotion values (407001, 19, 106223, 106222, 106372, 106221, 106612, 106611);
 insert into unit_promotion values (407001, 20, 107221, 106223, 106373, 106222, 106613, 106612);
 insert into unit_promotion values (407001, 21, 107222, 107221, 107371, 106223, 107611, 106613);
-insert into unit_promotion values (407001, 22, 999999, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (407001, 22, 107223, 107222, 107372, 107221, 107612, 107611);
+insert into unit_promotion values (407001, 23, 999999, 107223, 999999, 107222, 999999, 107612);
 insert into unit_promotion values (407701, 1, 0, 0, 0, 0, 0, 0);
 insert into unit_promotion values (407701, 2, 0, 0, 0, 0, 0, 0);
 insert into unit_promotion values (407701, 3, 0, 0, 0, 0, 0, 0);
