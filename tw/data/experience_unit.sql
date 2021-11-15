@@ -202,3 +202,6 @@ insert into experience_unit values (200, 6965986);
 insert into experience_unit values (201, 7057538);
 insert into experience_unit values (202, 7149690);
 insert into experience_unit values (203, 7242442);
+insert into experience_unit values (204, 7335794);
+insert into experience_unit values (205, 7429746);
+insert into experience_unit values (206, 7524298);
