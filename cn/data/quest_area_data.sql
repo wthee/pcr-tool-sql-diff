@@ -27,7 +27,7 @@ insert into quest_area_data values (11025, '25.雷迪乌斯群峰・东麓', 102
 insert into quest_area_data values (11026, '26.圣彼得大森林・西部', 102, 'bgm_M260', 'bgm_M260', '2021/08/23 11:00:00', '2099/12/31 23:59:59');
 insert into quest_area_data values (11027, '27.圣彼得大森林・东部', 102, 'bgm_M260', 'bgm_M260', '2021/09/21 11:00:00', '2099/12/31 23:59:59');
 insert into quest_area_data values (11028, '28.迪斯塔尔河食岸・北部', 102, 'bgm_M278', 'bgm_M278_E28', '2021/10/19 11:00:00', '2099/12/31 23:59:59');
-insert into quest_area_data values (11029, '29.迪斯塔尔河食岸・南部', 102, 'bgm_M278', 'bgm_M278_E29', '2088/01/01 0:00:00', '2099/12/31 23:59:59');
+insert into quest_area_data values (11029, '29.迪斯塔尔河食岸・南部', 102, 'bgm_M278', 'bgm_M278_E29', '2021/11/16 11:00:00', '2099/12/31 23:59:59');
 insert into quest_area_data values (11030, '30.富特拉断崖・北部', 102, 'bgm_M293', 'bgm_M293', '2088/01/01 0:00:00', '2099/12/31 23:59:59');
 insert into quest_area_data values (11031, '31.富特拉断崖・南部', 102, 'bgm_M293', 'bgm_M293', '2088/01/01 0:00:00', '2099/12/31 23:59:59');
 insert into quest_area_data values (11032, '32.法斯基亚森林・南部', 102, 'bgm_M339', 'bgm_M339', '2088/01/01 0:00:00', '2099/12/31 23:59:59');
@@ -59,7 +59,7 @@ insert into quest_area_data values (12025, '25.雷迪乌斯群峰・东麓', 102
 insert into quest_area_data values (12026, '26.圣彼得大森林・西部', 102, 'bgm_M260', 'bgm_M260', '2021/08/23 11:00:00', '2099/12/31 23:59:59');
 insert into quest_area_data values (12027, '27.圣彼得大森林・东部', 102, 'bgm_M260', 'bgm_M260', '2021/09/21 11:00:00', '2099/12/31 23:59:59');
 insert into quest_area_data values (12028, '28.迪斯塔尔河食岸・北部', 102, 'bgm_M278', 'bgm_M278_E28', '2021/10/19 11:00:00', '2099/12/31 23:59:59');
-insert into quest_area_data values (12029, '29.迪斯塔尔河食岸・南部', 102, 'bgm_M278', 'bgm_M278_E29', '2088/01/01 0:00:00', '2099/12/31 23:59:59');
+insert into quest_area_data values (12029, '29.迪斯塔尔河食岸・南部', 102, 'bgm_M278', 'bgm_M278_E29', '2021/11/16 11:00:00', '2099/12/31 23:59:59');
 insert into quest_area_data values (12030, '30.富特拉断崖・北部', 102, 'bgm_M293', 'bgm_M293', '2088/01/01 0:00:00', '2099/12/31 23:59:59');
 insert into quest_area_data values (12031, '31.富特拉断崖・南部', 102, 'bgm_M293', 'bgm_M293', '2088/01/01 0:00:00', '2099/12/31 23:59:59');
 insert into quest_area_data values (12032, '32.法斯基亚森林・南部', 102, 'bgm_M339', 'bgm_M339', '2088/01/01 0:00:00', '2099/12/31 23:59:59');

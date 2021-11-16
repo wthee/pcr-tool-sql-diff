@@ -66,5 +66,6 @@ insert into tips values (4109601, 109601, 1, '新忍术');
 insert into tips values (4110701, 110701, 1, '孤单者专用');
 insert into tips values (4110801, 110801, 1, '容易被误解');
 insert into tips values (4111401, 111401, 1, '可以跟我做朋友吗？');
+insert into tips values (4111501, 106501, 1, '我奉陪！');
 insert into tips values (4170101, 170101, 1, '闪亮登场');
 insert into tips values (4170201, 170201, 1, '努力打年糕');

@@ -25,4 +25,5 @@ insert into event_gacha_data values (10024, 10024, '黑铁的亡灵（梦魇）'
 insert into event_gacha_data values (10025, 10025, '小小的勇气·万圣节之夜！', 2, 60242, 1, 5);
 insert into event_gacha_data values (10026, 10026, '不给布丁就捣蛋！约定的万圣节派对', 2, 60252, 1, 5);
 insert into event_gacha_data values (10027, 10027, '龙之探索者', 2, 60262, 1, 5);
+insert into event_gacha_data values (10028, 10028, '暮光破坏者', 2, 60272, 1, 5);
 insert into event_gacha_data values (19003, 10003, '吸血鬼猎人with伊莉亚讨伐证交换', 2, 60022, 1, 5);

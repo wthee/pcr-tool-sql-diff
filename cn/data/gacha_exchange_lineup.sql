@@ -85,3 +85,4 @@ insert into gacha_exchange_lineup values (86, 55, 111401, 3, 1003);
 insert into gacha_exchange_lineup values (87, 56, 105601, 3, 0);
 insert into gacha_exchange_lineup values (88, 56, 101301, 2, 0);
 insert into gacha_exchange_lineup values (89, 56, 102701, 2, 0);
+insert into gacha_exchange_lineup values (90, 57, 106501, 3, 1004);
