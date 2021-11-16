@@ -98,6 +98,7 @@ insert into tips values (4117601, 117601, 1, 'ボクと癒やしタイム');
 insert into tips values (4117701, 118001, 1, '第一の忠臣！');
 insert into tips values (4118501, 118501, 1, '素敵な仲間');
 insert into tips values (4119001, 119001, 1, '闇の授業');
+insert into tips values (4119101, 119101, 1, '高まる');
 insert into tips values (4180101, 180101, 1, 'じゃんけんタイム！');
 insert into tips values (4180201, 180201, 1, 'ぺこぺこ');
 insert into tips values (4180301, 180301, 1, '守る力');

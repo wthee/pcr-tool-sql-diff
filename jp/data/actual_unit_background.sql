@@ -156,6 +156,7 @@ insert into actual_unit_background values (117931, '美波 鈴奈', 510300, 2);
 insert into actual_unit_background values (118031, 'クレア・ボヤンシア', 510100, 4);
 insert into actual_unit_background values (118531, '観崎 佳凛', 510100, 2);
 insert into actual_unit_background values (119031, '支倉 伊緒', 510090, 2);
+insert into actual_unit_background values (119131, '遠見 空花', 510150, 4);
 insert into actual_unit_background values (180131, '春咲 ひより', 510121, 4);
 insert into actual_unit_background values (180231, '草野 優衣', 510350, 2);
 insert into actual_unit_background values (180331, '士条 怜', 510100, 2);
