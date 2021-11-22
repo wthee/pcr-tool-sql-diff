@@ -1,0 +1,1 @@
+CREATE INDEX 'psy_drama_script_0_drama_id' on 'psy_drama_script'('drama_id')
