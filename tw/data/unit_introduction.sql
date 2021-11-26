@@ -133,3 +133,4 @@ insert into unit_introduction values (136, 30142, 1, '2021/11/09 16:00:00', '202
 insert into unit_introduction values (137, 30144, 1, '2021/11/16 16:00:00', '2021/11/25 15:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (138, 30143, 1, '2021/11/16 16:00:00', '2021/11/20 15:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (139, 30145, 1, '2021/11/20 16:00:00', '2021/11/25 15:59:59', 380000, 380000, 0, 0, 0, 0);
+insert into unit_introduction values (140, 30146, 1, '2021/11/25 16:00:00', '2021/12/02 15:59:59', 380000, 380000, 0, 0, 0, 0);

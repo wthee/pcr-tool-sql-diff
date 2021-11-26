@@ -12,7 +12,7 @@ insert into hatsune_diary_data values (10, 0, 10, '特別講座的\\n練習', '2
 insert into hatsune_diary_data values (11, 0, 11, '終於來了\\n特別講座', '2030/01/01 01:00:00', '2020/12/21 05:00:00', 5023004, 0);
 insert into hatsune_diary_data values (12, 0, 12, '真不愧是BB團的團長！', '2030/01/01 01:00:00', '2020/12/21 05:00:00', 5023005, 0);
 insert into hatsune_diary_data values (13, 0, 13, '曼德拉草\\n造成大混亂', '2030/01/01 01:00:00', '2020/12/21 05:00:00', 5023006, 0);
-insert into hatsune_diary_data values (14, 0, 14, '最終日', '2030/01/01 01:00:00', '2020/12/25 16:00:00', 5023006, 1);
+insert into hatsune_diary_data values (14, 0, 14, '最終日', '2030/01/01 01:00:00', '2020/12/25 16:00:00', 5023007, 0);
 insert into hatsune_diary_data values (15, 1, 0, '', '2030/01/01 01:00:00', '2020/12/25 16:00:00', 5023000, 0);
 insert into hatsune_diary_data values (16, 1, 0, '', '2030/01/01 01:00:00', '2020/12/25 16:00:00', 5023000, 0);
 insert into hatsune_diary_data values (17, 1, 0, '', '2030/01/01 01:00:00', '2020/12/25 16:00:00', 5023000, 0);
