@@ -1,1 +1,12 @@
 CREATE TABLE 'psy_reward' ('id' INTEGER NOT NULL, 'condition_type' INTEGER NOT NULL, 'condition_num' INTEGER NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_count_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_count_2' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_count_3' INTEGER NOT NULL, 'reward_type_4' INTEGER NOT NULL, 'reward_id_4' INTEGER NOT NULL, 'reward_count_4' INTEGER NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
+insert into psy_reward values (1, 1, 15, 12, 94002, 20000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 'プリンを15種類集めよう');
+insert into psy_reward values (2, 1, 30, 12, 94002, 30000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 'プリンを30種類集めよう');
+insert into psy_reward values (3, 1, 40, 8, 91002, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 'プリンを40種類集めよう');
+insert into psy_reward values (4, 1, 50, 12, 94002, 50000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 'プリンを50種類集めよう');
+insert into psy_reward values (5, 1, 55, 8, 91002, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 'プリンを55種類集めよう');
+insert into psy_reward values (6, 1, 60, 12, 94002, 100000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 'プリンを60種類集めよう');
+insert into psy_reward values (7, 1, 66, 15, 11001164, 1, 8, 91002, 100, 0, 0, 0, 0, 0, 0, 'プリンを全66種類集めよう');
+insert into psy_reward values (8, 2, 25, 12, 94002, 50000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 'プリンノートを25％コンプリートしよう');
+insert into psy_reward values (9, 2, 50, 8, 91002, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 'プリンノートを50％コンプリートしよう');
+insert into psy_reward values (10, 2, 75, 12, 94002, 100000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 'プリンノートを75％コンプリートしよう');
+insert into psy_reward values (11, 2, 100, 16, 9000100, 1, 15, 11001165, 1, 8, 91002, 100, 0, 0, 0, 'プリンノートを100％コンプリートしよう');

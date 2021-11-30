@@ -13,3 +13,5 @@ insert into arcade_story_list values (5040701, 1005, '小さき敵との攻防')
 insert into arcade_story_list values (5040702, 1005, 'チーズの誘惑');
 insert into arcade_story_list values (5040703, 1005, '芽生える愛情？');
 insert into arcade_story_list values (5040704, 1005, '労働は続くよどこまでも');
+insert into arcade_story_list values (5080700, 1008, '究極への道');
+insert into arcade_story_list values (5080701, 1008, 'プリンは続くよどこまでも');
