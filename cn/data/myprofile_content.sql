@@ -15,3 +15,5 @@ insert into myprofile_content values (13, '万圣节的白天', '2021-10-04 11:0
 insert into myprofile_content values (14, '万圣节的夜晚', '2021-10-04 11:00:00', '', 7);
 insert into myprofile_content values (15, '蘑菇和秋天的溪谷', '2021-10-19 11:00:00', '', 4);
 insert into myprofile_content values (16, '蘑菇和小溪', '2021-10-19 11:00:00', '', 5);
+insert into myprofile_content values (17, '圣诞节的白天', '2021-12-11 11:00:00', '', 2);
+insert into myprofile_content values (18, '圣诞节的夜晚', '2021-12-11 11:00:00', '', 3);
