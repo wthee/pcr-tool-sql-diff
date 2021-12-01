@@ -263,3 +263,4 @@ insert into gacha_exchange_lineup values (267, 144, 117101, 3, 1052, '2021/11/16
 insert into gacha_exchange_lineup values (268, 145, 110401, 3, 0, '2021/11/20 16:00:00', '2021/11/25 15:59:59');
 insert into gacha_exchange_lineup values (269, 146, 111801, 3, 0, '2021/11/25 16:00:00', '2021/12/02 15:59:59');
 insert into gacha_exchange_lineup values (270, 146, 115001, 3, 0, '2021/11/25 16:00:00', '2021/12/02 15:59:59');
+insert into gacha_exchange_lineup values (271, 147, 117201, 3, 1053, '2021/12/02 16:00:00', '2021/12/11 15:59:59');

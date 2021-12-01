@@ -4,3 +4,4 @@ insert into growth_restriction_unit values (2, 2, 114701);
 insert into growth_restriction_unit values (3, 3, 115601);
 insert into growth_restriction_unit values (4, 5, 115801);
 insert into growth_restriction_unit values (5, 6, 116801);
+insert into growth_restriction_unit values (6, 7, 117401);

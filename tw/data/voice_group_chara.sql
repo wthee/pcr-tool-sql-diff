@@ -25,7 +25,7 @@ insert into voice_group_chara values (102501001, '咲戀育幼院（鈴莓）', 
 insert into voice_group_chara values (102601001, '伊麗莎白牧場（鈴）', 102601, 112701, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (102701001, '暮光流星群（惠理子）', 102701, 109001, 117001, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (102801001, '咲戀育幼院（咲戀）', 102801, 110301, 114501, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (102901001, '慈樂之音（望）', 102901, 111601, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (102901001, '慈樂之音（望）', 102901, 111601, 117201, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (103001001, '純白之翼（妮諾）', 103001, 109601, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (103101001, '惡魔偽王國軍（忍）', 103101, 108101, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (103201001, '墨丘利財團（秋乃）', 103201, 114401, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -47,7 +47,7 @@ insert into voice_group_chara values (105001001, '月光學院（美咲）', 105
 insert into voice_group_chara values (105101001, '暮光流星群（深月）', 105101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (105201001, '伊麗莎白牧場（莉瑪）', 105201, 115801, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (105301001, '純白之翼（莫妮卡）', 105301, 114201, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (105401001, '慈樂之音（紡希）', 105401, 113901, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (105401001, '慈樂之音（紡希）', 105401, 113901, 117401, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (105501001, '純白之翼（步未）', 105501, 113001, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (105601001, '暮光流星群（流夏）', 105601, 113101, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (105701001, '？？？（吉塔）', 105701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
