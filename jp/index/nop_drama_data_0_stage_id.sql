@@ -1,0 +1,1 @@
+CREATE INDEX 'nop_drama_data_0_stage_id' on 'nop_drama_data'('stage_id')
