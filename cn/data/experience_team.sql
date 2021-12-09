@@ -148,3 +148,6 @@ insert into experience_team values (146, 352459, 204, 999, 30);
 insert into experience_team values (147, 356884, 205, 999, 30);
 insert into experience_team values (148, 361309, 206, 999, 30);
 insert into experience_team values (149, 365734, 207, 999, 30);
+insert into experience_team values (150, 370159, 208, 999, 30);
+insert into experience_team values (151, 374584, 209, 999, 30);
+insert into experience_team values (152, 379009, 210, 999, 30);

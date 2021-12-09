@@ -148,3 +148,6 @@ insert into experience_unit values (146, 2913178);
 insert into experience_unit values (147, 2972330);
 insert into experience_unit values (148, 3032082);
 insert into experience_unit values (149, 3092434);
+insert into experience_unit values (150, 3153386);
+insert into experience_unit values (151, 3214938);
+insert into experience_unit values (152, 3277090);

@@ -342,3 +342,11 @@ insert into campaign_schedule values (340, 151, 1500.0, 6004, 80, '2021/11/30 11
 insert into campaign_schedule values (341, 152, 1500.0, 6005, 80, '2021/11/30 11:00:00', '2021/12/14 23:59:59', 0);
 insert into campaign_schedule values (342, 251, 1500.0, 7004, 80, '2021/12/16 11:00:00', '2021/12/23 23:59:59', 0);
 insert into campaign_schedule values (343, 252, 1500.0, 7005, 80, '2021/12/16 11:00:00', '2021/12/23 23:59:59', 0);
+insert into campaign_schedule values (344, 32, 2000.0, 102, 30, '2021/12/23 5:00:00', '2021/12/28 4:59:59', 0);
+insert into campaign_schedule values (345, 42, 2000.0, 102, 40, '2021/12/23 5:00:00', '2021/12/28 4:59:59', 0);
+insert into campaign_schedule values (346, 84, 1500.0, 109, 80, '2021/12/23 5:00:00', '2021/12/28 4:59:59', 0);
+insert into campaign_schedule values (347, 85, 1500.0, 112, 80, '2021/12/23 5:00:00', '2021/12/28 4:59:59', 0);
+insert into campaign_schedule values (348, 31, 2000.0, 101, 30, '2021/12/28 5:00:00', '2021/12/31 4:59:59', 0);
+insert into campaign_schedule values (349, 41, 2000.0, 101, 40, '2021/12/28 5:00:00', '2021/12/31 4:59:59', 0);
+insert into campaign_schedule values (350, 34, 2000.0, 103, 30, '2021/12/31 5:00:00', '2022/01/07 4:59:59', 0);
+insert into campaign_schedule values (351, 44, 2000.0, 103, 40, '2021/12/31 5:00:00', '2022/01/07 4:59:59', 0);

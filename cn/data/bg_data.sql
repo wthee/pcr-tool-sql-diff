@@ -116,3 +116,4 @@ insert into bg_data values ('EKIDEN_GUILD_INTRODUCTION', 0, 0);
 insert into bg_data values ('EKIDEN_INTERVIEW_MAIN', 0, 0);
 insert into bg_data values ('EKIDEN_PARTY', 0, 0);
 insert into bg_data values ('ARCADE_TOP', 0, 0);
+insert into bg_data values ('SEASONPASS', 980001, 0);

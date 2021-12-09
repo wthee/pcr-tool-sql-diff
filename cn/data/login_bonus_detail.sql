@@ -86,6 +86,8 @@ insert into login_bonus_detail values (103, 80001, 12, 8, 91002, 100, 102101, '�
 insert into login_bonus_detail values (104, 80001, 13, 8, 91002, 100, 101101, '璃乃', '', 1, 500600);
 insert into login_bonus_detail values (105, 80001, 14, 8, 91002, 100, 100201, '优衣', '', 1, 500040);
 insert into login_bonus_detail values (106, 80001, 15, 8, 91002, 100, 105801, '佩可莉姆', '', 1, 500033);
+insert into login_bonus_detail values (107, 70002, 1, 8, 91002, 500, 0, '', '', 0, 0);
+insert into login_bonus_detail values (108, 70002, 2, 8, 91002, 500, 0, '', '', 0, 0);
 insert into login_bonus_detail values (1001, 48001, 1, 8, 91002, 300, 0, '', '', 0, 0);
 insert into login_bonus_detail values (1002, 48001, 2, 8, 91002, 100, 0, '', '', 0, 0);
 insert into login_bonus_detail values (1003, 48001, 3, 8, 91002, 100, 0, '', '', 0, 0);
