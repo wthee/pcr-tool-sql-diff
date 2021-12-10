@@ -179,3 +179,10 @@ insert into music_list values (177, '於飛舞的沙塵之中', 20.0, '', '2021-
 insert into music_list values (178, '永不完結的夏日計畫\u3000盛夏的雙人獨佔樂園', 20.0, '', '2021-10-07 12:00:00', '', -1, 1000, 178, '永不完結的夏日計畫\u3000盛夏的雙人獨佔樂園', '', '', '');
 insert into music_list values (179, '暑假作業', 20.0, '', '2021-10-07 12:00:00', '', -1, 1000, 179, '暑假作業', '', '', '');
 insert into music_list values (180, 'Only Only You', 20.0, '', '2021-10-07 12:00:00', '', -1, 1500, 180, 'Only Only You', '', '', '');
+insert into music_list values (181, '慈樂之音的夏日演唱會\u3000Just a moment！', 20.0, '', '2021-12-09 12:00:00', '', -1, 1000, 181, '慈樂之音的夏日演唱會\u3000Just a moment！', '', '', '');
+insert into music_list values (182, '女王歌唱水母', 20.0, '', '2021-12-09 12:00:00', '', -1, 1000, 182, '女王歌唱水母', '', '', '');
+insert into music_list values (183, 'Just a Moment！', 20.0, '', '2021-12-09 12:00:00', '', -1, 1500, 183, 'Just a moment！', '', '', '');
+insert into music_list values (184, 'Shining Future （Battle Arrange Ver.）', 20.0, '', '2021-12-09 12:00:00', '', -1, 1500, 184, 'Shining Future 戰鬥編曲版本', '', '', '');
+insert into music_list values (185, '大江戶的非法病歷\u3000Dr.深月的診療室', 20.0, '', '2021-12-09 12:00:00', '', -1, 1000, 185, '大江戶的非法病歷\u3000Dr.深月的診療室', '', '', '');
+insert into music_list values (186, '基古魯博士', 20.0, '', '2021-12-09 12:00:00', '', -1, 1000, 186, '基古魯博士', '', '', '');
+insert into music_list values (187, 'Narcistration♡', 20.0, '', '2021-12-09 12:00:00', '', -1, 1500, 187, 'Narcistration♡', '', '', '');

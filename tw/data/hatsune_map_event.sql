@@ -59,6 +59,7 @@ insert into hatsune_map_event values (10021009, 10021, 501, 10021112, 100016, 10
 insert into hatsune_map_event values (10021010, 10021, 501, 10021112, 100017, 100357);
 insert into hatsune_map_event values (10021011, 10021, 501, 10021112, 100018, 100358);
 insert into hatsune_map_event values (10021012, 10021, 501, 10021112, 100019, 100359);
+insert into hatsune_map_event values (10039531, 10039, 3, 1003904, 211, 0);
 insert into hatsune_map_event values (10053001, 10053, 1, 10053102, 1, 0);
 insert into hatsune_map_event values (10053002, 10053, 1, 10053108, 2, 0);
 insert into hatsune_map_event values (10053003, 10053, 1, 10053115, 3, 0);

@@ -4748,3 +4748,5 @@ insert into room_unit_comments values (5262, 117401, 3, 7, 1, 0, 1, '要攝取\\
 insert into room_unit_comments values (5263, 117401, 3, 8, 1, 0, 1, '下一個流行趨勢是……\\n嗯嗯，\\n果然是這樣……', 0);
 insert into room_unit_comments values (5265, 117401, 3, 10, 1, 0, 1, '設計自然不在話下，\\n就連觸感\\n也是最好的♪', 0);
 insert into room_unit_comments values (5266, 117401, 3, 11, 1, 0, 1, '應該可以作為\\n夏季拍攝景點。\\n馬上來想服裝……', 0);
+insert into room_unit_comments values (5267, 104001, 1, 103, 12, 0, 1, '欸嘿嘿……♪\\n第一個朋友是團長\\n真是太好了。', 0);
+insert into room_unit_comments values (5268, 104001, 2, 103, 12, 0, 1, '啊，團長！\\n關於BB團今天的活動……\\n我們兩個人\\n一起跳跳繩吧！', 0);

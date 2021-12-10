@@ -1,6 +1,6 @@
 CREATE TABLE 'shiori_event_list' ('event_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'condition_story_id' INTEGER NOT NULL, 'condition_chara_id' INTEGER NOT NULL, 'condition_main_quest_id' INTEGER NOT NULL, 'condition_shiori_quest_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'original_start_time' TEXT NOT NULL, 'gojuon_order' INTEGER NOT NULL, 'help_index' TEXT NOT NULL, PRIMARY KEY('event_id'));
 insert into shiori_event_list values (20001, '2020/07/02 16:00:00', '2030/04/19 15:00:00', 0, 0, 0, 0, 10001, '2018/08/28 16:00:00', 5001, '1');
-insert into shiori_event_list values (20002, '2020/08/03 16:00:00', '2030/04/19 15:00:00', 0, 0, 0, 0, 10002, '2018/10/03 16:00:00', 8101, '1');
+insert into shiori_event_list values (20002, '2020/08/03 16:00:00', '2030/04/19 15:00:00', 0, 0, 0, 0, 10002, '2018/10/03 16:00:00', 8181, '1');
 insert into shiori_event_list values (20003, '2020/09/04 16:00:00', '2030/04/19 15:00:00', 0, 0, 0, 0, 10003, '2018/11/01 15:59:59', 201, '1');
 insert into shiori_event_list values (20004, '2020/09/30 16:00:00', '2030/04/19 15:00:00', 0, 0, 0, 0, 10004, '2018/12/01 16:00:00', 3394, '1,2');
 insert into shiori_event_list values (20005, '2020/11/02 16:00:00', '2030/04/19 15:00:00', 0, 0, 0, 0, 10005, '2019/01/03 16:00:00', 3060, '1,4');

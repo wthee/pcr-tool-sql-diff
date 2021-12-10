@@ -343,6 +343,10 @@ insert into chara_story_status values (1040005, '碧のエピソード第5話', 
 insert into chara_story_status values (1040006, '碧のエピソード第6話', 2, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1040, 1107, 1167, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1040007, '碧のエピソード第7話', 2, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1040, 1107, 1167, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1040008, '碧のエピソード第8話', 2, 90, 6, 10, 0, 0, 0, 0, 0, 0, 1040, 1107, 1167, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1040009, '碧のエピソード第9話', 2, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1040, 1107, 1167, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1040010, '碧のエピソード第10話', 2, 80, 6, 40, 0, 0, 0, 0, 0, 0, 1040, 1107, 1167, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1040011, '碧のエピソード第11話', 2, 80, 6, 40, 0, 0, 0, 0, 0, 0, 1040, 1107, 1167, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1040012, '碧のエピソード第12話', 2, 210, 17, 20, 0, 0, 0, 0, 0, 0, 1040, 1107, 1167, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1042002, '千歌のエピソード第2話', 4, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1042, 1084, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1042003, '千歌のエピソード第3話', 4, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1042, 1084, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1042004, '千歌のエピソード第4話', 4, 30, 0, 0, 0, 0, 0, 0, 0, 0, 1042, 1084, 0, 0, 0, 0, 0, 0, 0, 0);

@@ -7,3 +7,4 @@ insert into tw_treasure_item values (5, 97505, 1, 1, 97505);
 insert into tw_treasure_item values (6, 97506, 2, 3, 97506);
 insert into tw_treasure_item values (7, 97507, 2, 3, 97507);
 insert into tw_treasure_item values (8, 97508, 2, 3, 97508);
+insert into tw_treasure_item values (9, 97509, 1, 1, 97509);

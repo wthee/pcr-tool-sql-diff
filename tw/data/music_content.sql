@@ -179,3 +179,10 @@ insert into music_content values (177, '於飛舞的沙塵之中', '1:07', '0:00
 insert into music_content values (178, '永不完結的夏日計畫\u3000盛夏的雙人獨佔樂園', '1:57', '0:00', '故事劇情主題曲\\n-「Only Only You」編曲-\\n\\n時間 / 01:57\\n作曲 / ARM（IOSYS）\\n編曲 / 下智子', 'bgm_M486', 'bgm_M486_juke');
 insert into music_content values (179, '暑假作業', '2:29', '0:00', '故事劇情Boss戰\\n\\n時間 / 02:29\\n作曲 / 塚越廉\\n編曲 / 塚越廉', 'bgm_M489', 'bgm_M489_juke');
 insert into music_content values (180, 'Only Only You', '1:28', '0:46', '角色歌曲\\n\\n時間 / 01:28\\n歌\u3000 / 惠理子（橋本ちなみ）\\n作詞 / 夕野ヨシミ（IOSYS）\\n作曲 / ARM（IOSYS）\\n編曲 / ARM（IOSYS）', 'bgm_M495', 'bgm_M495');
+insert into music_content values (181, '慈樂之音的夏日演唱會\u3000Just a moment！', '1:09', '0:00', '故事劇情主題曲\\n-｢Just a Moment！｣編曲-\\n\\n時間 / 01:09\\n作曲 / 山口朗彥\\n編曲 / 關根修平（Cygames）', 'bgm_M496', 'bgm_M496_juke');
+insert into music_content values (182, '女王歌唱水母', '1:30', '0:00', '故事劇情Boss戰\\n\\n時間 / 01:30\\n作曲 / 武田城以\\n編曲 / 坪田修平（TRYTONELABO）', 'bgm_M499', 'bgm_M499_juke');
+insert into music_content values (183, 'Just a Moment！', '1:39', '0:56', '角色歌曲\\n\\n時間 / 01:39\\n演唱\u3000 / 望（日笠陽子）\\n\u3000\u3000\u3000千歌（福原綾香）\\n\u3000\u3000\u3000紡希（木戶衣吹）\\n作詞 / 野村イクミ（Cygames）\\n作曲 / 山口朗彥\\n編曲 / 山口朗彥', 'bgm_M518', 'bgm_M518');
+insert into music_content values (184, 'Shining Future（Battle Arrange Ver.）', '1:55', '0:53', '角色歌曲\\n-「Shining Future」-\\n\\n時間 / 01:55\\n演唱\u3000 / 望（日笠陽子）\\n\u3000\u3000\u3000千歌（福原綾香）\\n\u3000\u3000\u3000紡希（木戶衣吹）\\n作詞 / 莊野ジュリ\\n作曲 / 武田城以\\n編曲 / 坪田修平（TRYTONELABO）', 'bgm_M519', 'bgm_M519');
+insert into music_content values (185, '大江戶的非法病歷\u3000Dr.深月的診療室', '1:55', '0:00', '故事劇情主題曲\\n-｢Narcistration♡｣編曲-\\n\\n時間 / 01:55\\n作曲 / 錦織孝宏\\n編曲 / 中村博', 'bgm_M508', 'bgm_M508_juke');
+insert into music_content values (186, '基古魯博士', '1:44', '0:00', '故事劇情頭目戰\\n\\n時間 / 01:44\\n作曲 / 松尾早人\\n編曲 / 松尾早人', 'bgm_M511', 'bgm_M511_juke');
+insert into music_content values (187, 'Narcistration♡', '1:32', '1:02', '角色歌曲\\n\\n時間 / 01:32\\n歌\u3000 / 雪（大空直美）\\n作詞 / Manami（TRYTONELABO）\\n作曲 / 錦織孝宏\\n編曲 / 錦織孝宏', 'bgm_M524', 'bgm_M524');

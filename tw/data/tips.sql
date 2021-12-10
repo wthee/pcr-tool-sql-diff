@@ -70,7 +70,7 @@ insert into tips values (4110701, 110701, 1, '邊緣人專用');
 insert into tips values (4110801, 110801, 1, '容易被誤會');
 insert into tips values (4110901, 110901, 1, '切嚕～☆');
 insert into tips values (4111001, 111001, 1, '書蟲');
-insert into tips values (4111401, 111401, 1, '可以和我做朋友嗎？');
+insert into tips values (4111401, 111401, 1, '可以當露娜的朋友嗎？');
 insert into tips values (4111501, 106501, 1, '我奉陪喔？');
 insert into tips values (4112201, 112201, 1, 'Yay☆');
 insert into tips values (4112301, 112301, 1, '魔法少女？');
