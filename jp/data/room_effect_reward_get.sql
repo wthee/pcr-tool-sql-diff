@@ -21,6 +21,7 @@ insert into room_effect_reward_get values (1, 19, 2, 23001, 20, 2, 4320, '', '')
 insert into room_effect_reward_get values (1, 20, 2, 23001, 24, 3, 6000, '', '');
 insert into room_effect_reward_get values (1, 21, 2, 23001, 48, 3, 5700, '', '');
 insert into room_effect_reward_get values (1, 22, 2, 23001, 48, 3, 5400, '', '');
+insert into room_effect_reward_get values (1, 23, 2, 23001, 51, 3, 5220, '', '');
 insert into room_effect_reward_get values (2, 1, 6, 93001, 80, 20, 21600, '', '');
 insert into room_effect_reward_get values (2, 2, 6, 93001, 96, 24, 21600, '', '');
 insert into room_effect_reward_get values (2, 3, 6, 93001, 112, 28, 21600, '', '');
@@ -43,6 +44,7 @@ insert into room_effect_reward_get values (2, 19, 6, 93001, 240, 60, 21600, '', 
 insert into room_effect_reward_get values (2, 20, 6, 93001, 248, 62, 21600, '', '');
 insert into room_effect_reward_get values (2, 21, 6, 93001, 256, 64, 21600, '', '');
 insert into room_effect_reward_get values (2, 22, 6, 93001, 264, 66, 21600, '', '');
+insert into room_effect_reward_get values (2, 23, 6, 93001, 272, 68, 21600, '', '');
 insert into room_effect_reward_get values (3, 1, 2, 20001, 3, 1, 14400, '', '');
 insert into room_effect_reward_get values (3, 2, 2, 20001, 5, 1, 9600, '', '');
 insert into room_effect_reward_get values (3, 3, 2, 20001, 7, 1, 7200, '', '');
@@ -65,6 +67,7 @@ insert into room_effect_reward_get values (3, 19, 2, 20004, 9, 1, 10200, '', '')
 insert into room_effect_reward_get values (3, 20, 2, 20004, 10, 1, 9300, '', '');
 insert into room_effect_reward_get values (3, 21, 2, 20004, 10, 1, 8700, '', '');
 insert into room_effect_reward_get values (3, 22, 2, 20004, 13, 1, 6600, '', '');
+insert into room_effect_reward_get values (3, 23, 2, 20004, 14, 1, 6300, '', '');
 insert into room_effect_reward_get values (4, 1, 12, 94002, 12000, 3000, 21600, '', '');
 insert into room_effect_reward_get values (4, 2, 12, 94002, 18000, 4500, 21600, '', '');
 insert into room_effect_reward_get values (4, 3, 12, 94002, 24000, 6000, 21600, '', '');
@@ -87,6 +90,7 @@ insert into room_effect_reward_get values (4, 19, 12, 94002, 390000, 97500, 2160
 insert into room_effect_reward_get values (4, 20, 12, 94002, 432000, 108000, 21600, '', '');
 insert into room_effect_reward_get values (4, 21, 12, 94002, 474000, 118500, 21600, '', '');
 insert into room_effect_reward_get values (4, 22, 12, 94002, 516000, 129000, 21600, '', '');
+insert into room_effect_reward_get values (4, 23, 12, 94002, 562000, 140500, 21600, '', '');
 insert into room_effect_reward_get values (5, 1, 6, 93001, 48, 12, 21600, '', '');
 insert into room_effect_reward_get values (6, 1, 6, 93001, 48, 12, 21600, '', '');
 insert into room_effect_reward_get values (7, 1, 6, 93001, 48, 12, 21600, '', '');

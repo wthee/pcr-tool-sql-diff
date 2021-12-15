@@ -198,3 +198,7 @@ insert into music_content values (196, 'Halloween Monster Jam ！！！', '1:34'
 insert into music_content values (197, '魔法少女外伝\u3000マジカル★ノワールズ！', '0:58', '0:00', 'ストーリーイベントテーマ\\n-｢GREEDY LOVE｣アレンジ-\\n\\n時間 / 00:58\\n作曲 / 設楽哲也\\n編曲 / 長谷部翔（Cygames）', 'bgm_M527', 'bgm_M527_juke');
 insert into music_content values (198, 'アンチビースト・トリニティ', '2:24', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 02:24\\n作曲 / 中村博\\n編曲 / 中村博', 'bgm_M529', 'bgm_M529_juke');
 insert into music_content values (199, 'GREEDY LOVE', '1:36', '1:05', 'キャラクターソング\\n\\n時間 / 01:36\\n歌\u3000 / イオ（伊藤静）\\n\u3000\u3000\u3000シズル（生天目仁美）\\n\u3000\u3000\u3000クウカ（長妻樹里）\\n作詞 / ミズノゲンキ\\n作曲 / 設楽哲也\\n編曲 / 設楽哲也', 'bgm_M535', 'bgm_M535');
+insert into music_content values (200, 'メリープリンクリスマス！\u3000空舞う少女とまごころのお菓子', '1:13', '0:00', 'ストーリーイベントテーマ\\n-｢ぷりん・あ・ら・くりすますなの！｣アレンジ-\\n\\n時間 / 01:13\\n作曲 / 坪田修平（TRYTONELABO）\\n編曲 / 中村早織（Cygames）', 'bgm_M536', 'bgm_M536_juke');
+insert into music_content values (201, 'ひとりぼっちの聖夜の妖精', '1:56', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 01:56\\n作曲 / 長谷部翔（Cygames）\\n編曲 / 長谷部翔（Cygames）', 'bgm_M539', 'bgm_M539_juke');
+insert into music_content values (202, "ミヤコ's キッチン\u3000究極への道", '2:05', '0:00', 'ミニゲーム\\n-｢ぷりん・あ・ら・くりすますなの！｣アレンジ-\\n\\n時間 / 02:05\\n作曲 / 坪田修平（TRYTONELABO）\\n編曲 / 関根修平（Cygames）', 'bgm_M540', 'bgm_M540_juke');
+insert into music_content values (203, 'ぷりん・あ・ら・くりすますなの！', '1:37', '0:57', 'キャラクターソング\\n\\n時間 / 01:37\\n歌\u3000 / ミヤコ（雨宮天）\\n作詞 / 山本真央樹（TRYTONELABO）\\n作曲 / 坪田修平（TRYTONELABO）\\n編曲 / 坪田修平（TRYTONELABO）', 'bgm_M550', 'bgm_M550');
