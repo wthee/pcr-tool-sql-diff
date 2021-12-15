@@ -70,4 +70,5 @@ insert into event_gacha_data values (10069, 10069, '不可思議之國的璃乃 
 insert into event_gacha_data values (10070, 10070, '永不完結的夏日計畫\u3000盛夏的雙人獨佔樂園', 2, 60692, 1, 6);
 insert into event_gacha_data values (10071, 10071, '七夕劍客旅情譚 天際川流夏之戀', 2, 60702, 1, 5);
 insert into event_gacha_data values (10072, 10072, '慈樂之音的夏日演唱會\u3000Just a Moment！ ', 2, 60712, 1, 6);
+insert into event_gacha_data values (10073, 10073, '美里的夏日聲援！\u3000追夢的盛夏棒球隊', 2, 60722, 1, 5);
 insert into event_gacha_data values (19003, 10003, '吸血鬼獵人 with伊莉亞', 2, 60022, 1, 5);
