@@ -35,7 +35,7 @@ insert into voice_group_chara values (103601001, '小小甜心（鏡華）', 103
 insert into voice_group_chara values (103701001, '王宮騎士團（智）', 103701, 114301, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (103801001, '伊麗莎白牧場（栞）', 103801, 112301, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (104001001, '森林守衛（碧）', 104001, 110701, 116701, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (104201001, '慈樂之音（千歌）', 104201, 108401, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (104201001, '慈樂之音（千歌）', 104201, 108401, 117301, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (104301001, '哞哞自衛隊（真琴）', 104301, 110401, 115901, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (104401001, '惡魔偽王國軍（伊莉亞）', 104401, 111701, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (104501001, '純白之翼（空花）', 104501, 109501, 0, 0, 0, 0, 0, 0, 0, 0);

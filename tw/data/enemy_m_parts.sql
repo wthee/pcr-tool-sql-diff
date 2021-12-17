@@ -159,3 +159,7 @@ insert into enemy_m_parts values (610066402, '爆裂‧時間儀 SP2', 610066421
 insert into enemy_m_parts values (610066403, '爆裂‧時間儀 SP3', 610066431, 610066432, 610066433, 610066434, 0);
 insert into enemy_m_parts values (800100203, '機械莉瑪2020MODE3', 800100212, 800100213, 800100214, 0, 0);
 insert into enemy_m_parts values (801100213, '霸瞳僕役（複合）', 801100223, 801100233, 801100243, 0, 0);
+insert into enemy_m_parts values (802100210, '蘭法', 802100211, 802100212, 0, 0, 0);
+insert into enemy_m_parts values (802100230, '卡里莎', 802100231, 802100232, 802100233, 802100234, 0);
+insert into enemy_m_parts values (802100241, '蘭法', 802100242, 802100243, 0, 0, 0);
+insert into enemy_m_parts values (802100245, '卡里莎', 802100246, 802100247, 802100248, 802100249, 0);
