@@ -181,6 +181,12 @@ insert into enemy_m_parts values (610066301, 'バースト・タイムラーベ 
 insert into enemy_m_parts values (610066401, 'バースト・タイムラーベ SP1', 610066411, 610066412, 610066413, 610066414, 0);
 insert into enemy_m_parts values (610066402, 'バースト・タイムラーベ SP2', 610066421, 610066422, 610066423, 610066424, 0);
 insert into enemy_m_parts values (610066403, 'バースト・タイムラーベ SP3', 610066431, 610066432, 610066433, 610066434, 0);
+insert into enemy_m_parts values (610081101, 'ドミネイテッドスノーマン NORMAL', 610081102, 610081103, 0, 0, 0);
+insert into enemy_m_parts values (610081201, 'ドミネイテッドスノーマン HARD', 610081202, 610081203, 0, 0, 0);
+insert into enemy_m_parts values (610081301, 'ドミネイテッドスノーマン VERY HARD', 610081302, 610081303, 0, 0, 0);
+insert into enemy_m_parts values (610081401, 'ドミネイテッドスノーマン SP1', 610081412, 610081413, 0, 0, 0);
+insert into enemy_m_parts values (610081402, 'ドミネイテッドスノーマン SP2', 610081422, 610081423, 0, 0, 0);
+insert into enemy_m_parts values (610081403, 'ドミネイテッドスノーマン SP3', 610081432, 610081433, 0, 0, 0);
 insert into enemy_m_parts values (800100203, 'ロボリマ2020MODE3', 800100212, 800100213, 800100214, 0, 0);
 insert into enemy_m_parts values (801100213, 'カイザーサーバント（マルチ）', 801100223, 801100233, 801100243, 0, 0);
 insert into enemy_m_parts values (802100210, 'ランファ', 802100211, 802100212, 0, 0, 0);
