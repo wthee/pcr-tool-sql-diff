@@ -30,7 +30,7 @@ insert into sqlite_stat1 values ('omp_story_data', 'omp_story_data_0_story_seq',
 insert into sqlite_stat1 values ('omp_story_data', 'omp_story_data_0_event_id', '15 8');
 insert into sqlite_stat1 values ('shiori_stationary_mission_data', None, '513');
 insert into sqlite_stat1 values ('hatsune_special_enemy', None, '180');
-insert into sqlite_stat1 values ('campaign_freegacha', None, '21');
+insert into sqlite_stat1 values ('campaign_freegacha', None, '23');
 insert into sqlite_stat1 values ('room_item_announcement', None, '1');
 insert into sqlite_stat1 values ('sekai_boss_fix_reward', None, '10');
 insert into sqlite_stat1 values ('chara_fortune_schedule', None, '7');
@@ -197,7 +197,7 @@ insert into sqlite_stat1 values ('campaign_mission_data', 'campaign_mission_data
 insert into sqlite_stat1 values ('campaign_mission_data', 'campaign_mission_data_0_campaign_id', '16 16');
 insert into sqlite_stat1 values ('ttk_score', None, '4');
 insert into sqlite_stat1 values ('sekai_unlock_story_condition', None, '5');
-insert into sqlite_stat1 values ('campaign_freegacha_data', None, '72');
+insert into sqlite_stat1 values ('campaign_freegacha_data', None, '73');
 insert into sqlite_stat1 values ('birthday_login_bonus_data', None, '120');
 insert into sqlite_stat1 values ('campaign_mission_category', 'campaign_mission_category_0_campaign_id_1_type', '2 2 1');
 insert into sqlite_stat1 values ('campaign_mission_reward_data', 'campaign_mission_reward_data_0_campaign_mission_reward_id', '12 2');
