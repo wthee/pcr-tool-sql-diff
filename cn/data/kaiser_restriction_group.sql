@@ -99,3 +99,5 @@ insert into kaiser_restriction_group values (1004, 109901);
 insert into kaiser_restriction_group values (1004, 109801);
 insert into kaiser_restriction_group values (1001, 106501);
 insert into kaiser_restriction_group values (1003, 111401);
+insert into kaiser_restriction_group values (1004, 170101);
+insert into kaiser_restriction_group values (1004, 170201);
