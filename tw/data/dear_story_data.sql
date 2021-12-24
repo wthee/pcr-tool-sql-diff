@@ -2,7 +2,7 @@ CREATE TABLE 'dear_story_data' ('story_group_id' INTEGER NOT NULL, 'story_type' 
 insert into dear_story_data values (6017, 6, 10053, 'Re:從零開始聚集的異世界餐桌', 0, 1, '2019/09/27 16:00:00', '2030/04/24 14:59:59');
 insert into dear_story_data values (6019, 6, 20015, '鈴奈的彩虹舞臺！', 0, 1, '2019/10/30 16:00:00', '2030/04/24 14:59:59');
 insert into dear_story_data values (6023, 6, 20017, '森林的膽小鬼與神聖學院的問題兒童', 0, 1, '2019/12/31 16:00:00', '2030/04/24 14:59:59');
-insert into dear_story_data values (6025, 6, 10049, '小小勇敢的萬聖節之夜！', 0, 1, '2021/01/15 16:00:00', '2030/04/24 14:59:59');
+insert into dear_story_data values (6025, 6, 20018, '小小勇敢的萬聖節之夜！', 0, 1, '2020/12/14 16:00:00', '2030/04/24 14:59:59');
 insert into dear_story_data values (6027, 6, 10051, '龍的探索者們', 0, 1, '2021/02/17 16:00:00', '2030/04/24 14:59:59');
 insert into dear_story_data values (6029, 6, 10055, '禮物大恐慌！\u3000蘭德索爾的聖誕老人們', 0, 1, '2021/03/15 16:00:00', '2030/04/24 14:59:59');
 insert into dear_story_data values (6033, 6, 10060, '魔法少女\u3000兩人是Misty&Purely', 0, 1, '2021/06/16 16:00:00', '2030/04/24 14:59:59');

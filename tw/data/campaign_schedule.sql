@@ -653,3 +653,12 @@ insert into campaign_schedule values (651, 37, 2000.0, 109, 30, '2021/12/17 05:0
 insert into campaign_schedule values (652, 38, 2000.0, 112, 30, '2021/12/17 05:00:00', '2021/12/25 04:59:59', 0, 0, 0);
 insert into campaign_schedule values (653, 251, 1500.0, 7004, 80, '2021/12/17 16:00:00', '2021/12/24 15:59:59', 0, 0, 0);
 insert into campaign_schedule values (654, 252, 1500.0, 7005, 80, '2021/12/17 16:00:00', '2021/12/24 15:59:59', 0, 0, 0);
+insert into campaign_schedule values (655, 32, 2000.0, 102, 30, '2021/12/25 05:00:00', '2022/01/01 04:59:59', 0, 0, 0);
+insert into campaign_schedule values (656, 42, 2000.0, 102, 40, '2021/12/25 05:00:00', '2022/01/01 04:59:59', 0, 0, 0);
+insert into campaign_schedule values (657, 81, 1500.0, 101, 80, '2021/12/25 05:00:00', '2021/12/31 04:59:59', 0, 0, 0);
+insert into campaign_schedule values (658, 82, 1500.0, 102, 80, '2021/12/25 05:00:00', '2021/12/31 04:59:59', 0, 0, 0);
+insert into campaign_schedule values (659, 83, 1500.0, 111, 80, '2021/12/25 05:00:00', '2021/12/31 04:59:59', 0, 0, 0);
+insert into campaign_schedule values (660, 84, 1500.0, 109, 80, '2021/12/25 05:00:00', '2021/12/31 04:59:59', 0, 0, 0);
+insert into campaign_schedule values (661, 85, 1500.0, 112, 80, '2021/12/25 05:00:00', '2021/12/31 04:59:59', 0, 0, 0);
+insert into campaign_schedule values (662, 351, 1500.0, 8004, 80, '2021/12/25 05:00:00', '2021/12/31 04:59:59', 0, 0, 0);
+insert into campaign_schedule values (663, 352, 1500.0, 8005, 80, '2021/12/25 05:00:00', '2021/12/31 04:59:59', 0, 0, 0);

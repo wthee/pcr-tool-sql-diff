@@ -4352,6 +4352,9 @@ insert into wave_group_data values (660016003, 660016003, 100, 660016301, 0, 0, 
 insert into wave_group_data values (660017001, 660017001, 100, 660017101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into wave_group_data values (660017002, 660017002, 100, 660017201, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into wave_group_data values (660017003, 660017003, 100, 660017301, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into wave_group_data values (660018001, 660018001, 100, 660018101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into wave_group_data values (660018002, 660018002, 100, 660018201, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into wave_group_data values (660018003, 660018003, 100, 660018301, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into wave_group_data values (801100211, 801100211, 100, 801100211, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into wave_group_data values (801100212, 801100212, 100, 801100212, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into wave_group_data values (801100213, 801100213, 100, 801100213, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
