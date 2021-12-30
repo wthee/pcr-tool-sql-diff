@@ -104,9 +104,9 @@ insert into unit_background values (111401, '露娜', 500175, '神秘森林', 0.
 insert into unit_background values (111501, '克莉丝提娜（圣诞节）', 500038, '兰德索尔_繁华街_圣诞节', 0.0, 4);
 insert into unit_background values (111601, '望（圣诞节）', 500038, '兰德索尔_繁华街_圣诞节', 0.0, 4);
 insert into unit_background values (111701, '伊莉亚（圣诞节）', 500038, '兰德索尔_繁华街_圣诞节', 0.0, 4);
-insert into unit_background values (111901, '可可萝（新年）', 500910, '兰德索尔_繁华街_接力', 0.0, 2);
-insert into unit_background values (112001, '凯露（新年）', 500910, '兰德索尔_繁华街_接力', 0.0, 6);
-insert into unit_background values (112101, '铃莓（新年）', 500910, '兰德索尔_繁华街_接力', 0.0, 2);
+insert into unit_background values (111901, '可可萝（新年）', 500910, '兰德索尔_大街_接力赛', 0.0, 2);
+insert into unit_background values (112001, '凯露（新年）', 500910, '兰德索尔_大街_接力赛', 0.0, 6);
+insert into unit_background values (112101, '铃莓（新年）', 500910, '兰德索尔_大街_接力赛', 0.0, 2);
 insert into unit_background values (112201, '香澄（魔法少女）', 500010, '兰德索尔_市区_白天', 0.0, 2);
 insert into unit_background values (112301, '栞（魔法少女）', 500010, '兰德索尔_市区_白天', 0.0, 2);
 insert into unit_background values (170101, '环奈', 500130, '埃斯特雷拉街道', 0.0, 3);

@@ -88,6 +88,9 @@ insert into login_bonus_detail values (105, 80001, 14, 8, 91002, 100, 100201, '�
 insert into login_bonus_detail values (106, 80001, 15, 8, 91002, 100, 105801, '佩可莉姆', '', 1, 500033);
 insert into login_bonus_detail values (107, 70002, 1, 8, 91002, 500, 0, '', '', 0, 0);
 insert into login_bonus_detail values (108, 70002, 2, 8, 91002, 500, 0, '', '', 0, 0);
+insert into login_bonus_detail values (109, 70003, 1, 8, 91002, 300, 0, '', '', 0, 0);
+insert into login_bonus_detail values (110, 70003, 2, 8, 91002, 300, 0, '', '', 0, 0);
+insert into login_bonus_detail values (111, 70003, 3, 8, 91002, 300, 0, '', '', 0, 0);
 insert into login_bonus_detail values (1001, 48001, 1, 8, 91002, 300, 0, '', '', 0, 0);
 insert into login_bonus_detail values (1002, 48001, 2, 8, 91002, 100, 0, '', '', 0, 0);
 insert into login_bonus_detail values (1003, 48001, 3, 8, 91002, 100, 0, '', '', 0, 0);

@@ -27,3 +27,4 @@ insert into clanprofile_content values (25, '蘑菇和小溪', '2021-10-19 11:00
 insert into clanprofile_content values (26, '龙族据点', '2021-11-16 11:00:00', '', 28);
 insert into clanprofile_content values (27, '圣诞节的白天', '2021-12-11 11:00:00', '', 2);
 insert into clanprofile_content values (28, '圣诞节的夜晚', '2021-12-11 11:00:00', '', 3);
+insert into clanprofile_content values (29, '元旦日出', '2021-12-31 11:00:00', '', 1);

@@ -28,4 +28,5 @@ insert into event_gacha_data values (10027, 10027, '龙之探索者', 2, 60262, 
 insert into event_gacha_data values (10028, 10028, '暮光破坏者', 2, 60272, 1, 5);
 insert into event_gacha_data values (10029, 10029, '礼物大恐慌！\u3000兰德索尔的圣诞老人们', 2, 60282, 1, 5);
 insert into event_gacha_data values (10030, 10030, '忘却的圣歌', 2, 60292, 1, 5);
+insert into event_gacha_data values (10031, 10031, '狂奔！\u3000兰德索尔公会竞速赛', 2, 60302, 1, 5);
 insert into event_gacha_data values (19003, 10003, '吸血鬼猎人with伊莉亚讨伐证交换', 2, 60022, 1, 5);
