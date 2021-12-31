@@ -176,3 +176,4 @@ insert into odds_name_data values (1008101, '1008120101', 'ユカリ（クリス
 insert into odds_name_data values (1008102, '1008120102', 'ミフユのメモリーピース', 99002, '');
 insert into odds_name_data values (1008201, '1008220101', 'ルカ（ニューイヤー）のメモリーピース', 99002, '');
 insert into odds_name_data values (1008202, '1008220102', 'イリヤのメモリーピース', 99002, '');
+insert into odds_name_data values (1008203, 'box_rank_6-14', 'ランダム装備BOX', 99002, 'ランダムな装備が獲得できる。');

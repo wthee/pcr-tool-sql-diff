@@ -35,7 +35,7 @@ insert into sqlite_stat1 values ('room_item_announcement', None, '1');
 insert into sqlite_stat1 values ('sekai_boss_fix_reward', None, '10');
 insert into sqlite_stat1 values ('chara_fortune_schedule', None, '7');
 insert into sqlite_stat1 values ('ttk_story', 'ttk_story_0_ttk_score', '5 1');
-insert into sqlite_stat1 values ('odds_name_data', None, '177');
+insert into sqlite_stat1 values ('odds_name_data', None, '178');
 insert into sqlite_stat1 values ('grand_arena_daily_rank_reward', None, '40');
 insert into sqlite_stat1 values ('sp_battle_voice', 'sp_battle_voice_0_unit_id', '27 14');
 insert into sqlite_stat1 values ('sp_battle_voice', 'sqlite_autoindex_sp_battle_voice_1', '27 1 1');
