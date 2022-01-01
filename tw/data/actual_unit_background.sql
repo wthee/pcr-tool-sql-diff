@@ -153,3 +153,4 @@ insert into actual_unit_background values (180331, '士条 怜', 510100, 2);
 insert into actual_unit_background values (180431, '尤絲蒂亞娜‧F‧阿斯特賴亞', 510350, 4);
 insert into actual_unit_background values (180531, '棗 可蘿', 510100, 2);
 insert into actual_unit_background values (180631, '百地 希留耶', 510351, 2);
+insert into actual_unit_background values (180731, '柏崎 初音&柏崎 栞', 510070, 2);

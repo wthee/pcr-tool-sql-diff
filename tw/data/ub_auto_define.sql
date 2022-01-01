@@ -191,4 +191,5 @@ insert into ub_auto_define values (1803001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1804001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1805001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1806001, 1, 0, 0, 0, 0);
+insert into ub_auto_define values (1807001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1913001, 1, 0, 0, 0, 0);
