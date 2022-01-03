@@ -166,6 +166,7 @@ insert into unit_background values (119101, 'クウカ（ノワール）', 50145
 insert into unit_background values (119201, 'マヒル（クリスマス）', 500863, '牧場_雪_昼', 0.0, 4);
 insert into unit_background values (119301, 'リノ（クリスマス）', 500036, 'ランドソル_繁華街_クリスマス', 0.0, 4);
 insert into unit_background values (119901, 'ミヤコ（クリスマス）', 500038, 'ランドソル_繁華街_クリスマス', 0.0, 4);
+insert into unit_background values (120701, 'シェフィ（ニューイヤー）', 501480, '美食殿_ギルドハウス_外観_お正月', 0.0, 2);
 insert into unit_background values (120801, 'ルカ（ニューイヤー）', 500560, '参道_昼', 0.0, 3);
 insert into unit_background values (180101, 'ヒヨリ（プリンセス）', 500130, 'エステレラ街道', 0.0, 2);
 insert into unit_background values (180201, 'ユイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 4);

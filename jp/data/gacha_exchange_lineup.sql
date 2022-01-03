@@ -290,3 +290,4 @@ insert into gacha_exchange_lineup values (288, 172, 180401, 3, 0, '2021/12/31 12
 insert into gacha_exchange_lineup values (289, 172, 107001, 3, 0, '2021/12/31 12:00:00', '2022/01/03 18:59:59');
 insert into gacha_exchange_lineup values (290, 172, 106101, 3, 0, '2021/12/31 12:00:00', '2022/01/03 18:59:59');
 insert into gacha_exchange_lineup values (291, 172, 107101, 3, 0, '2021/12/31 12:00:00', '2022/01/03 18:59:59');
+insert into gacha_exchange_lineup values (292, 173, 120701, 3, 1067, '2022/01/03 19:00:00', '2022/01/11 11:59:59');
