@@ -1494,7 +1494,7 @@ insert into nop_drama_script values (509032, 509, 93, '5.75', '1', '', '', '', '
 insert into nop_drama_script values (509033, 509, 3, '105211', 'nop_talk_memory', '1', '', '', '0.2', '', '');
 insert into nop_drama_script values (509034, 509, 91, '509030', '', '', '', '', '', '', '');
 insert into nop_drama_script values (509035, 509, 3, '105211', 'nop_idle_memory2', '1', '', '', '0.2', '', '');
-insert into nop_drama_script values (509036, 509, 11, '103311', 'そうだなー\\n今年は牧場の特産品を\\n色んな人に届けられるように\\nみんなでがんばるべ！', '8', '1', '0', '0', '0', '0.5');
+insert into nop_drama_script values (509036, 509, 11, '103311', 'そうだなー\\n今年は牧場の特産品を\\n色んな人に届けられるように\\nみんなで頑張るべ！', '8', '1', '0', '0', '0', '0.5');
 insert into nop_drama_script values (509037, 509, 3, '103311', 'nop_talk_joy1', '1', '', '', '0.2', '', '');
 insert into nop_drama_script values (509038, 509, 93, '4.75', '1', '', '', '', '', '', '');
 insert into nop_drama_script values (509039, 509, 3, '103311', 'nop_talk_guts2', '0', 'nop_idle_guts2', '1', '0.2', '0.2', '');

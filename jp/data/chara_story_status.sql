@@ -358,6 +358,10 @@ insert into chara_story_status values (1042005, 'チカのエピソード第5話
 insert into chara_story_status values (1042006, 'チカのエピソード第6話', 4, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1042, 1084, 1173, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1042007, 'チカのエピソード第7話', 4, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1042, 1084, 1173, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1042008, 'チカのエピソード第8話', 4, 90, 11, 60, 0, 0, 0, 0, 0, 0, 1042, 1084, 1173, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1042009, 'チカのエピソード第9話', 4, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1042, 1084, 1173, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1042010, 'チカのエピソード第10話', 4, 140, 0, 0, 0, 0, 0, 0, 0, 0, 1042, 1084, 1173, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1042011, 'チカのエピソード第11話', 4, 140, 0, 0, 0, 0, 0, 0, 0, 0, 1042, 1084, 1173, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1042012, 'チカのエピソード第12話', 4, 240, 15, 5, 0, 0, 0, 0, 0, 0, 1042, 1084, 1173, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1043002, 'マコトのエピソード第2話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1043, 1104, 1159, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1043003, 'マコトのエピソード第3話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1043, 1104, 1159, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1043004, 'マコトのエピソード第4話', 2, 30, 0, 0, 0, 0, 0, 0, 0, 0, 1043, 1104, 1159, 0, 0, 0, 0, 0, 0, 0);
