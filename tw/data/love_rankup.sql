@@ -6,3 +6,7 @@ insert into love_rankup values (180701, 5, 118401);
 insert into love_rankup values (180701, 6, 118301);
 insert into love_rankup values (180701, 7, 118401);
 insert into love_rankup values (180701, 8, 118301);
+insert into love_rankup values (105701, 9, 170101);
+insert into love_rankup values (105701, 10, 170101);
+insert into love_rankup values (105701, 11, 170101);
+insert into love_rankup values (105701, 12, 170101);

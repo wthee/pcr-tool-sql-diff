@@ -475,6 +475,10 @@ insert into chara_story_status values (1057005, '吉塔のエピソード第5話
 insert into chara_story_status values (1057006, '吉塔のエピソード第6話', 2, 40, 6, 10, 0, 0, 0, 0, 0, 0, 1057, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1057007, '吉塔のエピソード第7話', 2, 40, 6, 10, 0, 0, 0, 0, 0, 0, 1057, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1057008, '吉塔のエピソード第8話', 2, 60, 6, 15, 11, 60, 0, 0, 0, 0, 1057, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1057009, '吉塔のエピソード第9話', 2, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1057, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1057010, '吉塔のエピソード第10話', 2, 80, 6, 40, 0, 0, 0, 0, 0, 0, 1057, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1057011, '吉塔のエピソード第11話', 2, 80, 6, 40, 0, 0, 0, 0, 0, 0, 1057, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1057012, '吉塔のエピソード第12話', 2, 200, 6, 60, 0, 0, 0, 0, 0, 0, 1057, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1058002, '貪吃佩可のエピソード第2話', 1, 150, 0, 0, 0, 0, 0, 0, 0, 0, 1058, 1075, 1804, 1118, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1058003, '貪吃佩可のエピソード第3話', 1, 150, 0, 0, 0, 0, 0, 0, 0, 0, 1058, 1075, 1804, 1118, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1058004, '貪吃佩可のエピソード第4話', 1, 300, 0, 0, 0, 0, 0, 0, 0, 0, 1058, 1075, 1804, 1118, 0, 0, 0, 0, 0, 0);
