@@ -41,11 +41,11 @@ insert into dear_chara values (10079, 1, 'モニカ', 1000, 1, 114201, 0, 0, 0, 
 insert into dear_chara values (10079, 2, 'トモ', 1000, 1, 114301, 0, 0, 0, 0, 0);
 insert into dear_chara values (10081, 1, 'アキノ', 1000, 1, 114401, 0, 0, 0, 0, 0);
 insert into dear_chara values (10081, 2, 'サレン', 1000, 1, 114501, 0, 0, 0, 0, 0);
-insert into dear_chara values (10056, 1, 'ぺコリーヌ', 1000, 1, 111801, 0, 0, 0, 0, 0);
-insert into dear_chara values (10056, 2, 'コッコロ', 1000, 1, 111901, 0, 0, 0, 0, 0);
-insert into dear_chara values (10056, 3, 'キャル', 1000, 1, 112001, 0, 0, 0, 0, 0);
-insert into dear_chara values (10056, 4, 'ムイミ', 1000, 1, 114701, 0, 0, 0, 0, 5056002);
-insert into dear_chara values (10056, 5, 'ネネカ', 1000, 1, 115001, 0, 0, 0, 0, 5056002);
+insert into dear_chara values (10083, 1, 'ぺコリーヌ', 1000, 1, 111801, 0, 0, 0, 0, 0);
+insert into dear_chara values (10083, 2, 'コッコロ', 1000, 1, 111901, 0, 0, 0, 0, 0);
+insert into dear_chara values (10083, 3, 'キャル', 1000, 1, 112001, 0, 0, 0, 0, 0);
+insert into dear_chara values (10083, 4, 'ムイミ', 1000, 1, 114701, 0, 0, 0, 0, 5056002);
+insert into dear_chara values (10083, 5, 'ネネカ', 1000, 1, 115001, 0, 0, 0, 0, 5056002);
 insert into dear_chara values (10061, 1, 'リマ', 1000, 1, 115801, 0, 0, 0, 0, 0);
 insert into dear_chara values (10061, 2, 'マホ', 1000, 1, 116001, 0, 0, 0, 0, 5061002);
 insert into dear_chara values (10061, 3, 'マコト', 1000, 1, 115901, 0, 0, 0, 0, 5061003);
