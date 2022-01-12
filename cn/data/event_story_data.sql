@@ -21,3 +21,4 @@ insert into event_story_data values (5025, 5, 10025, '小小的勇气·万圣节
 insert into event_story_data values (5027, 5, 10027, '龙之探索者', 0, 1, '2021/10/28 15:00:00', '2099/12/31 23:59:59');
 insert into event_story_data values (5029, 5, 10029, '礼物大恐慌！\u3000兰德索尔的圣诞老人们', 0, 1, '2021/11/25 15:00:00', '2099/12/31 23:59:59');
 insert into event_story_data values (5031, 5, 10031, '狂奔！\u3000兰德索尔公会竞速赛', 0, 1, '2021/12/26 15:00:00', '2099/12/31 23:59:59');
+insert into event_story_data values (5033, 5, 10033, '魔法少女\u3000二人是Misty＆Purely', 0, 1, '2022/01/24 15:00:00', '2099/12/31 23:59:59');
