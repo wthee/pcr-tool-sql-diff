@@ -6,7 +6,7 @@ insert into voice_group_chara values (100401001, '小小甜心（禊）', 100401
 insert into voice_group_chara values (100501001, '王宮騎士團（茉莉）', 100501, 114101, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100601001, '惡魔偽王國軍（茜里）', 100601, 113701, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100701001, '惡魔偽王國軍（宮子）', 100701, 108201, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (100801001, '純白之翼（雪）', 100801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (100801001, '純白之翼（雪）', 100801, 117601, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100901001, '暮光流星群（杏奈）', 100901, 113201, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (101001001, '哞哞自衛隊（真步）', 101001, 110601, 116001, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (101101001, '拉比林斯（璃乃）', 101101, 112901, 0, 0, 0, 0, 0, 0, 0, 0);

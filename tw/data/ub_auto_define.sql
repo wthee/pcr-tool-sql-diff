@@ -186,6 +186,7 @@ insert into ub_auto_define values (1172001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1173001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1174001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1175001, 1, 0, 0, 0, 0);
+insert into ub_auto_define values (1176001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1701011, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1801001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1802001, 1, 0, 0, 0, 0);
