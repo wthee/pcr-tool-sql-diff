@@ -202,3 +202,6 @@ insert into music_content values (200, 'メリープリンクリスマス！\u30
 insert into music_content values (201, 'ひとりぼっちの聖夜の妖精', '1:56', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 01:56\\n作曲 / 長谷部翔（Cygames）\\n編曲 / 長谷部翔（Cygames）', 'bgm_M539', 'bgm_M539_juke');
 insert into music_content values (202, "ミヤコ's キッチン\u3000究極への道", '2:05', '0:00', 'ミニゲーム\\n-｢ぷりん・あ・ら・くりすますなの！｣アレンジ-\\n\\n時間 / 02:05\\n作曲 / 坪田修平（TRYTONELABO）\\n編曲 / 関根修平（Cygames）', 'bgm_M540', 'bgm_M540_juke');
 insert into music_content values (203, 'ぷりん・あ・ら・くりすますなの！', '1:37', '0:57', 'キャラクターソング\\n\\n時間 / 01:37\\n歌\u3000 / ミヤコ（雨宮天）\\n作詞 / 山本真央樹（TRYTONELABO）\\n作曲 / 坪田修平（TRYTONELABO）\\n編曲 / 坪田修平（TRYTONELABO）', 'bgm_M550', 'bgm_M550');
+insert into music_content values (204, '新春美食メモリーズ\u3000シェフィのおつかい大作戦！', '1:04', '0:00', 'ストーリーイベントテーマ\\n-｢Ice Wings｣アレンジ-\\n\\n時間 / 01:04\\n作曲 / AJURIKA\\n編曲 / 畑田浩孝（Cygames）', 'bgm_M543', 'bgm_M543_juke');
+insert into music_content values (205, '邪牛神モーモン', '1:59', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 01:59\\n作曲 / 塚越廉\\n編曲 / 塚越廉', 'bgm_M546', 'bgm_M546_juke');
+insert into music_content values (206, 'Ice Wings', '1:36', '1:05', 'キャラクターソング\\n\\n時間 / 01:36\\n歌\u3000 / シェフィ（近藤玲奈）\\n作詞 / AJURIKA\\n作曲 / AJURIKA\\n編曲 / AJURIKA', 'bgm_M551', 'bgm_M551');

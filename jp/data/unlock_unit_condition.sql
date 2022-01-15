@@ -168,6 +168,7 @@ insert into unlock_unit_condition values (119301, 'リノ（クリスマス）',
 insert into unlock_unit_condition values (119901, 'ミヤコ（クリスマス）', 1, 0, 1, 2, 31199, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (120701, 'シェフィ（ニューイヤー）', 1, 0, 1, 2, 31207, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (120801, 'ルカ（ニューイヤー）', 1, 0, 1, 2, 31208, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
+insert into unlock_unit_condition values (120901, 'イリヤ（ニューイヤー）', 1, 0, 1, 2, 31209, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (180101, 'ヒヨリ（プリンセス）', 1, 0, 1, 2, 31801, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (180201, 'ユイ（プリンセス）', 1, 0, 1, 2, 31802, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (180301, 'レイ（プリンセス）', 1, 0, 1, 2, 31803, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
