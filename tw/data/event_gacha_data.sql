@@ -45,7 +45,7 @@ insert into event_gacha_data values (10044, 10044, '七夕劍客旅情譚 天際
 insert into event_gacha_data values (10045, 10045, '盛夏的真步真步王國 浪花拍岸的靈魂之夏！', 2, 60442, 1, 5);
 insert into event_gacha_data values (10046, 10046, '美里的夏日聲援！\u3000追夢的盛夏棒球隊', 2, 60452, 1, 5);
 insert into event_gacha_data values (10047, 10047, '森林的膽小鬼與神聖學院的問題兒童', 2, 60462, 1, 5);
-insert into event_gacha_data values (10048, 10048, '歡樂‧逆轉‧天使', 2, 60472, 1, 5);
+insert into event_gacha_data values (10048, 10048, 'Happy・Change・Angels', 2, 60472, 1, 5);
 insert into event_gacha_data values (10049, 10049, '小小勇敢的萬聖節之夜！', 2, 60482, 1, 5);
 insert into event_gacha_data values (10050, 10050, '迴響！尖叫！萬聖鬼怪狂歡節', 2, 60492, 1, 5);
 insert into event_gacha_data values (10051, 10051, '龍的探索者們', 2, 60502, 1, 5);
@@ -72,4 +72,5 @@ insert into event_gacha_data values (10071, 10071, '七夕劍客旅情譚 天際
 insert into event_gacha_data values (10072, 10072, '慈樂之音的夏日演唱會\u3000Just a Moment！ ', 2, 60712, 1, 6);
 insert into event_gacha_data values (10073, 10073, '美里的夏日聲援！\u3000追夢的盛夏棒球隊', 2, 60722, 1, 5);
 insert into event_gacha_data values (10074, 10074, '非法的大江戶病歷\u3000Dr.深月的診療室', 2, 60732, 1, 6);
+insert into event_gacha_data values (10075, 10075, 'Happy・Change・Angels', 2, 60742, 1, 5);
 insert into event_gacha_data values (19003, 10003, '吸血鬼獵人 with伊莉亞', 2, 60022, 1, 5);
