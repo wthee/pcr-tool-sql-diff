@@ -59,7 +59,7 @@ insert into unit_background values (106301, '亞里莎', 500170, '神秘森林',
 insert into unit_background values (106401, '雪菲', 500361, '美食殿堂 公會小屋', 0.0, 2);
 insert into unit_background values (106501, '嘉夜', 500833, '叢林_帳篷', 0.0, 4);
 insert into unit_background values (106601, '祈梨', 500833, '叢林_帳篷', 0.0, 4);
-insert into unit_background values (106701, '帆稀', 500833, '叢林_帳篷', 0.0, 2);
+insert into unit_background values (106701, '帆稀', 500833, '帆稀的房間', 0.0, 2);
 insert into unit_background values (106801, '模索路晶', 500030, '蘭德索爾 鬧區', 0.0, 18);
 insert into unit_background values (107001, '似似花', 500341, '拉比林斯的公會據點', 0.0, 2);
 insert into unit_background values (107101, '克莉絲提娜‧摩根', 500090, '蘭德索爾 王城入口', 0.0, 2);

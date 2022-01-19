@@ -186,3 +186,15 @@ insert into music_content values (184, 'Shining Future（Battle Arrange Ver.）'
 insert into music_content values (185, '大江戶的非法病歷\u3000Dr.深月的診療室', '1:55', '0:00', '故事劇情主題曲\\n-｢Narcistration♡｣編曲-\\n\\n時間 / 01:55\\n作曲 / 錦織孝宏\\n編曲 / 中村博', 'bgm_M508', 'bgm_M508_juke');
 insert into music_content values (186, '基古魯博士', '1:44', '0:00', '故事劇情頭目戰\\n\\n時間 / 01:44\\n作曲 / 松尾早人\\n編曲 / 松尾早人', 'bgm_M511', 'bgm_M511_juke');
 insert into music_content values (187, 'Narcistration♡', '1:32', '1:02', '角色歌曲\\n\\n時間 / 01:32\\n歌\u3000 / 雪（大空直美）\\n作詞 / Manami（TRYTONELABO）\\n作曲 / 錦織孝宏\\n編曲 / 錦織孝宏', 'bgm_M524', 'bgm_M524');
+insert into music_content values (188, '軍團之戰', '1:00', '0:00', '軍團之戰\\n\\n時間 / 01:00\\n作曲 / 長門千晴（Cygames）\\n編曲 / 田山里奈', 'bgm_M501', 'bgm_M501_juke');
+insert into music_content values (189, 'VS憤怒軍團\u3000與阿澤爾德的戰鬥', '2:19', '0:00', '軍團之戰頭目戰\\n\\n時間 / 02:19\\n作曲 / 中川峻彰、伊禮完（Cygames）\\n\u3000\u3000\u3000長門千晴（Cygames）\\n編曲 / 中川峻彰', 'bgm_M504', 'bgm_M504_juke');
+insert into music_content values (190, 'VS憤怒軍團\u3000與卡里莎的戰鬥', '1:23', '0:00', '軍團之戰頭目戰\\n\\n時間 / 01:23\\n作曲 / 塚越廉、伊禮完（Cygames）\\n\u3000\u3000\u3000長門千晴（Cygames）\\n編曲 / 塚越廉', 'bgm_M502', 'bgm_M502_juke');
+insert into music_content values (191, 'VS憤怒軍團\u3000與贊恩的戰鬥', '2:48', '0:00', '軍團之戰頭目戰\\n\\n時間 / 02:48\\n作曲 / 伊禮完（Cygames）\\n編曲 / 伊禮完（Cygames）', 'bgm_M506', 'bgm_M506_juke');
+insert into music_content values (192, 'VS憤怒軍團\u3000與美空的戰鬥', '1:39', '0:00', '軍團之戰頭目戰\\n\\n時間 / 01:39\\n作曲 / 伊禮完（Cygames）、長門千晴（Cygames）\\n\u3000\u3000\u3000関根修平（Cygames）\\n編曲 / 関根修平（Cygames）', 'bgm_M505', 'bgm_M505_juke');
+insert into music_content values (193, 'VS憤怒軍團\u3000與蘭法的戰鬥', '1:20', '0:00', '軍團之戰頭目戰\\n\\n時間 / 01:20\\n作曲 / 伊禮完（Cygames）、長門千晴（Cygames）\\n編曲 / 長門千晴（Cygames）', 'bgm_M503', 'bgm_M503_juke');
+insert into music_content values (194, '萬聖節拯救隊大亂鬥！\u3000捕獲毛茸茸大作戰', '1:16', '0:00', '故事劇情主題曲\\n-｢Halloween Monster Jam ！！！｣編曲-\\n\\n時間 / 01:16\\n作曲 / 中村早織（Cygames）、長谷部翔（Cygames）\\n編曲 / 下智子', 'bgm_M520', 'bgm_M520_juke');
+insert into music_content values (195, '哀暴小棉花糖', '1:53', '0:00', '故事劇情頭目戰\\n\\n時間 / 01:53\\n作曲 / 塚越廉\\n編曲 / 塚越廉', 'bgm_M523', 'bgm_M523_juke');
+insert into music_content values (196, 'Halloween Monster Jam ！！！', '1:34', '0:54', '角色歌曲\\n\\n時間 / 01:34\\n歌\u3000 / 香織（高森奈津美）\\n\u3000\u3000\u3000鈴奈（上坂すみれ）\\n\u3000\u3000\u3000妮諾（佐藤聡美）\\n作詞 / 椎名宇伊（Cygames）\\n作曲 / 中村早織（Cygames）、長谷部翔（Cygames）\\n編曲 / 長谷部翔（Cygames）', 'bgm_M525', 'bgm_M525');
+insert into music_content values (197, '魔法少女外傳\u3000黑暗魔法★三人組！', '0:58', '0:00', '故事劇情主題曲\\n-｢GREEDY LOVE｣編曲-\\n\\n時間 / 00:58\\n作曲 / 設楽哲也\\n編曲 / 長谷部翔（Cygames）', 'bgm_M527', 'bgm_M527_juke');
+insert into music_content values (198, '反逆獸‧三重', '2:24', '0:00', '故事劇情頭目戰\\n\\n時間 / 02:24\\n作曲 / 中村博\\n編曲 / 中村博', 'bgm_M529', 'bgm_M529_juke');
+insert into music_content values (199, 'GREEDY LOVE', '1:36', '1:05', '角色歌曲\\n\\n時間 / 01:36\\n歌\u3000 / 伊緒（伊藤静）\\n\u3000\u3000\u3000靜流（生天目仁美）\\n\u3000\u3000\u3000空花（長妻樹里）\\n作詞 / ミズノゲンキ\\n作曲 / 設楽哲也\\n編曲 / 設楽哲也', 'bgm_M535', 'bgm_M535');
