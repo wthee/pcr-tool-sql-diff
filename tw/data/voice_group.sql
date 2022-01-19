@@ -112,3 +112,4 @@ insert into voice_group values (20115, '初音、栞＆美里', 180701001, 10150
 insert into voice_group values (20116, '初音、栞＆真陽', 180701001, 103301001, 0, 0, 0);
 insert into voice_group values (20117, '初音、栞＆鈴', 180701001, 102601001, 0, 0, 0);
 insert into voice_group values (20118, '初音、栞＆莉瑪', 180701001, 105201001, 0, 0, 0);
+insert into voice_group values (20119, '克蕾琪塔＆貪吃佩可', 118001001, 105801001, 0, 0, 0);

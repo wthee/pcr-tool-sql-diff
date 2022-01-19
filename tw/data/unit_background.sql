@@ -156,6 +156,7 @@ insert into unit_background values (117301, '千歌（夏日）', 501363, '夏�
 insert into unit_background values (117401, '紡希（夏日）', 501363, '夏日音樂節會場', 0.0, 4);
 insert into unit_background values (117501, '深月（大江戶）', 501380, '大江戶_診療室_正午', 0.0, 6);
 insert into unit_background values (117601, '雪（大江戶）', 501380, '大江戶_診療室_正午', 0.0, 4);
+insert into unit_background values (118001, '克蕾琪塔', 501070, '蘭德索爾_王城附近_勤務室', 0.0, 4);
 insert into unit_background values (180101, '日和（公主）', 500130, '埃斯特雷拉街道', 0.0, 2);
 insert into unit_background values (180201, '優衣（公主）', 500130, '埃斯特雷拉街道', 0.0, 4);
 insert into unit_background values (180301, '怜（公主）', 500130, '埃斯特雷拉街道', 0.0, 3);
