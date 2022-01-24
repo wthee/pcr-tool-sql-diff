@@ -294,3 +294,5 @@ insert into gacha_exchange_lineup values (292, 173, 120701, 3, 1067, '2022/01/03
 insert into gacha_exchange_lineup values (293, 174, 111801, 3, 0, '2022/01/11 12:00:00', '2022/01/15 14:59:59');
 insert into gacha_exchange_lineup values (294, 174, 115001, 3, 0, '2022/01/11 12:00:00', '2022/01/15 14:59:59');
 insert into gacha_exchange_lineup values (295, 175, 120901, 3, 1068, '2022/01/15 15:00:00', '2022/01/24 11:59:59');
+insert into gacha_exchange_lineup values (296, 176, 108801, 3, 0, '2022/01/24 12:00:00', '2022/01/27 11:59:59');
+insert into gacha_exchange_lineup values (297, 176, 108701, 3, 0, '2022/01/24 12:00:00', '2022/01/27 11:59:59');
