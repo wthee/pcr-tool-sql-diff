@@ -123,7 +123,7 @@ insert into sqlite_stat1 values ('hatsune_unlock_unit_condition', 'hatsune_unloc
 insert into sqlite_stat1 values ('sekai_top_data', 'sekai_top_data_0_sekai_id', '22 11');
 insert into sqlite_stat1 values ('still', 'still_0_still_group_id', '1034 5');
 insert into sqlite_stat1 values ('still', 'still_0_story_id', '1034 2');
-insert into sqlite_stat1 values ('chara_fortune_rail', None, '86');
+insert into sqlite_stat1 values ('chara_fortune_rail', None, '105');
 insert into sqlite_stat1 values ('ub_auto_data', None, '19');
 insert into sqlite_stat1 values ('legion_mission_reward_data', 'legion_mission_reward_data_0_mission_reward_id', '62 3');
 insert into sqlite_stat1 values ('room_effect_reward_get', 'sqlite_autoindex_room_effect_reward_get_1', '95 9 1');
