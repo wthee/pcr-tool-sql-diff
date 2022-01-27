@@ -231,3 +231,4 @@ insert into story_data values (4006, 4, 0, 'ロボリマ来襲！', 0, 1, '2015/
 insert into story_data values (4007, 4, 0, 'バトルオブランドソル', 0, 1, '2015/04/01 15:00:00', '2030/12/17 14:59:59', 6, 0, 503411);
 insert into story_data values (9001, 9, 0, '王都終末決戦', 0, 0, '2015/04/01 15:00:00', '2030/12/17 14:59:59', 6, 0, 40211);
 insert into story_data values (9002, 4, 0, '3rd Anniversary', 0, 0, '2015/04/01 15:00:00', '2030/12/17 14:59:59', 6, 0, 40211);
+insert into story_data values (9004, 4, 0, '4th Anniversary', 0, 0, '2015/04/01 15:00:00', '2030/12/17 14:59:59', 6, 0, 40211);
