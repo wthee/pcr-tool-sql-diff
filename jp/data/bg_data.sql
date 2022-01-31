@@ -151,3 +151,5 @@ insert into bg_data values ('CGG_GACHA_TOP', 0, 0);
 insert into bg_data values ('CGG_GOODS_LIST', 0, 0);
 insert into bg_data values ('HATSUNE_NOP_TOP', 0, 0);
 insert into bg_data values ('HATSUNE_NOP_GUILD', 0, 0);
+insert into bg_data values ('HATSUNE_YSN_INTERLUDE', 530800, 0);
+insert into bg_data values ('HATSUNE_YSN_EPILOGUE', 530800, 0);

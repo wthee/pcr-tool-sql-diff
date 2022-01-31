@@ -179,3 +179,5 @@ insert into odds_name_data values (1008202, '1008220102', 'イリヤのメモリ
 insert into odds_name_data values (1008203, 'box_rank_6-14', 'ランダム装備BOX', 99002, 'ランダムな装備が獲得できる。');
 insert into odds_name_data values (1008301, '1008320101', 'ムイミ（ニューイヤー）のメモリーピース', 99002, '');
 insert into odds_name_data values (1008302, '1008320102', 'キャルのメモリーピース', 99002, '');
+insert into odds_name_data values (1008401, '1008620101', 'コッコロのメモリーピース', 99002, '');
+insert into odds_name_data values (1008402, '1008620102', 'キャルのメモリーピース', 99002, '');
