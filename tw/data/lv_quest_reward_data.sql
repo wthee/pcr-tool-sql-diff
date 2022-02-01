@@ -23,6 +23,17 @@ insert into lv_quest_reward_data values (21, 18001003, 140, 149, 180010531, 1800
 insert into lv_quest_reward_data values (22, 18001003, 150, 159, 180010631, 180010632, 180010633);
 insert into lv_quest_reward_data values (23, 18001003, 160, 169, 180010731, 180010732, 180010733);
 insert into lv_quest_reward_data values (24, 18001003, 170, -1, 180010831, 180010832, 180010833);
+insert into lv_quest_reward_data values (25, 18001004, 1, 59, 180010141, 180010142, 180010143);
+insert into lv_quest_reward_data values (26, 18001004, 60, 99, 180010241, 180010242, 180010243);
+insert into lv_quest_reward_data values (27, 18001004, 100, 119, 180010341, 180010342, 180010343);
+insert into lv_quest_reward_data values (28, 18001004, 120, 139, 180010441, 180010442, 180010443);
+insert into lv_quest_reward_data values (29, 18001004, 140, 149, 180010541, 180010542, 180010543);
+insert into lv_quest_reward_data values (30, 18001004, 150, 159, 180010641, 180010642, 180010643);
+insert into lv_quest_reward_data values (31, 18001004, 160, 169, 180010741, 180010742, 180010743);
+insert into lv_quest_reward_data values (32, 18001004, 170, 179, 180010841, 180010842, 180010843);
+insert into lv_quest_reward_data values (33, 18001004, 180, 189, 180010941, 180010942, 180010943);
+insert into lv_quest_reward_data values (34, 18001004, 190, 199, 180011041, 180011042, 180011043);
+insert into lv_quest_reward_data values (35, 18001004, 200, -1, 180011141, 180011142, 180011143);
 insert into lv_quest_reward_data values (1001, 19001001, 1, 59, 190010111, 190010112, 190010113);
 insert into lv_quest_reward_data values (1002, 19001001, 60, 99, 190010211, 190010212, 190010213);
 insert into lv_quest_reward_data values (1003, 19001001, 100, 119, 190010311, 190010312, 190010313);

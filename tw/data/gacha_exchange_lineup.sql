@@ -286,3 +286,15 @@ insert into gacha_exchange_lineup values (290, 155, 118001, 3, 1058, '2022/01/20
 insert into gacha_exchange_lineup values (291, 156, 108101, 3, 0, '2022/01/26 16:00:00', '2022/02/01 15:59:59');
 insert into gacha_exchange_lineup values (292, 156, 108301, 3, 0, '2022/01/26 16:00:00', '2022/02/01 15:59:59');
 insert into gacha_exchange_lineup values (293, 157, 110601, 3, 0, '2022/01/26 16:00:00', '2022/02/01 15:59:59');
+insert into gacha_exchange_lineup values (298, 162, 106701, 3, 1061, '2022/02/01 16:00:00', '2022/02/04 15:59:59');
+insert into gacha_exchange_lineup values (299, 162, 180701, 3, 0, '2022/02/01 16:00:00', '2022/02/04 15:59:59');
+insert into gacha_exchange_lineup values (300, 162, 180301, 3, 0, '2022/02/01 16:00:00', '2022/02/04 15:59:59');
+insert into gacha_exchange_lineup values (301, 162, 180601, 3, 0, '2022/02/01 16:00:00', '2022/02/04 15:59:59');
+insert into gacha_exchange_lineup values (302, 162, 180101, 3, 0, '2022/02/01 16:00:00', '2022/02/04 15:59:59');
+insert into gacha_exchange_lineup values (303, 162, 106801, 3, 0, '2022/02/01 16:00:00', '2022/02/04 15:59:59');
+insert into gacha_exchange_lineup values (304, 162, 180201, 3, 0, '2022/02/01 16:00:00', '2022/02/04 15:59:59');
+insert into gacha_exchange_lineup values (305, 162, 180501, 3, 0, '2022/02/01 16:00:00', '2022/02/04 15:59:59');
+insert into gacha_exchange_lineup values (306, 162, 180401, 3, 0, '2022/02/01 16:00:00', '2022/02/04 15:59:59');
+insert into gacha_exchange_lineup values (307, 162, 107001, 3, 0, '2022/02/01 16:00:00', '2022/02/04 15:59:59');
+insert into gacha_exchange_lineup values (308, 162, 106101, 3, 0, '2022/02/01 16:00:00', '2022/02/04 15:59:59');
+insert into gacha_exchange_lineup values (309, 162, 107101, 3, 0, '2022/02/01 16:00:00', '2022/02/04 15:59:59');
