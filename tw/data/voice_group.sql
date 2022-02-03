@@ -257,6 +257,7 @@ insert into voice_group values (30137, '千歌（夏日）（花凜對話用）'
 insert into voice_group values (30138, '紡希（夏日）（花凜對話用）', 118501001, 317401001, 0, 0, 0);
 insert into voice_group values (30139, '深月（大江戶）（花凜對話用）', 118501001, 317501001, 0, 0, 0);
 insert into voice_group values (30140, '雪（大江戶）（花凜對話用）', 118501001, 317601001, 0, 0, 0);
+insert into voice_group values (30141, '香織（萬聖節）（花凜對話用）', 118501001, 317701001, 0, 0, 0);
 insert into voice_group values (30142, '妮諾（萬聖節）（花凜對話用）', 118501001, 317801001, 0, 0, 0);
 insert into voice_group values (30144, '日和（公主）（花凜對話用）', 118501001, 380101001, 0, 0, 0);
 insert into voice_group values (30145, '優衣（公主）（花凜對話用）', 118501001, 380201001, 0, 0, 0);
