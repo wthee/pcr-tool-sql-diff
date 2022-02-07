@@ -364,4 +364,7 @@ insert into movie values (508200601, 5082, 5082006, '', '', 1, 1, 1.0);
 insert into movie values (508200701, 5082, 5082007, '', '', 1, 1, 1.0);
 insert into movie values (508250101, 5082, 5082501, '', '', 0, 1, 1.0);
 insert into movie values (508400001, 5084, 5084000, '', '', 1, 1, 1.0);
+insert into movie values (508500501, 5085, 5085005, '', '', 1, 1, 1.0);
+insert into movie values (508500601, 5085, 5085006, 'bgm_M557_emt5085_010', '', 1, 1, 1.0);
+insert into movie values (508500602, 5085, 5085006, '', '', 1, 1, 1.0);
 insert into movie values (700100001, 7001, 7001000, '', '', 0, 1, 1.0);

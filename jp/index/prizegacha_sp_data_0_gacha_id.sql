@@ -1,0 +1,1 @@
+CREATE INDEX 'prizegacha_sp_data_0_gacha_id' on 'prizegacha_sp_data'('gacha_id')

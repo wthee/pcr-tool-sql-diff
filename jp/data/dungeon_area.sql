@@ -1,0 +1,8 @@
+CREATE TABLE 'dungeon_area' ('dungeon_area_id' INTEGER NOT NULL, 'dungeon_type' INTEGER NOT NULL, 'dungeon_name' TEXT NOT NULL, 'description' TEXT NOT NULL, 'open_area_id' INTEGER NOT NULL, 'open_quest_id' INTEGER NOT NULL, 'content_release_story' INTEGER NOT NULL, 'initial_clear_story' INTEGER NOT NULL, 'reward_group_id' INTEGER NOT NULL, 'recommend_level' INTEGER NOT NULL, 'quest_position_x' INTEGER NOT NULL, 'quest_position_y' INTEGER NOT NULL, 'icon_id' INTEGER NOT NULL, 'recovery_hp_rate' INTEGER NOT NULL, 'recovery_tp_rate' INTEGER NOT NULL, PRIMARY KEY('dungeon_area_id'));
+insert into dungeon_area values (31001, 1, '雲海の山脈', '雲をつらぬく山脈', 0, 11002012, 4003001, 4003002, 501010001, 10, 195, 45, 200010, 400, 400);
+insert into dungeon_area values (31002, 1, '密林の大樹', '深い森の奥に存在する1本の大樹', 0, 11005013, 4003003, 4003004, 501010002, 10, -110, 30, 200020, 300, 300);
+insert into dungeon_area values (31003, 1, '断崖の遺跡', '断崖絶壁で発見された遺跡', 0, 11007014, 4003005, 4003006, 501010003, 10, -570, -190, 200030, 200, 200);
+insert into dungeon_area values (31004, 1, '蒼海の孤塔', '大海原にそびえる謎の巨塔', 0, 11011017, 4003007, 4003008, 501010004, 10, 750, -30, 200040, 100, 100);
+insert into dungeon_area values (31005, 1, '毒瘴の闇稜', '瘴気渦巻く常闇の孤峰', 0, 11014014, 4003009, 4003010, 501010005, 10, 465, 20, 200050, 100, 100);
+insert into dungeon_area values (31006, 1, '緑竜の骸嶺', '厳峰に佇む竜の寝床', 0, 11026014, 4003011, 4003012, 501010006, 10, 360, 90, 200060, 100, 100);
+insert into dungeon_area values (31007, 1, '天上の浮城', '天空の番人が静かに眠る聖城', 0, 11035014, 4003013, 4003014, 501010007, 10, 130, 90, 200070, 100, 100);

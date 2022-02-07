@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX 'dungeon_special_enemy_setting_0_special_battle_id_1_enemy_identify' on 'dungeon_special_enemy_setting'('special_battle_id','enemy_identify')
