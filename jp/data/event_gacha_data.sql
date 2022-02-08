@@ -83,4 +83,5 @@ insert into event_gacha_data values (10082, 10082, '新春美食メモリーズ\
 insert into event_gacha_data values (10083, 10083, '新春グルメプリンセス！\u3000一投にかけた乙女たち', 2, 60822, 1, 6);
 insert into event_gacha_data values (10084, 10084, 'Re:member\u3000僕の願いが紡ぐ未来', 2, 60832, 1, 6);
 insert into event_gacha_data values (10085, 10085, 'Re:member\u3000僕の願いが紡ぐ未来', 2, 60842, 1, 6);
+insert into event_gacha_data values (10086, 10086, '絆、つないで。こころ、結んで。', 2, 60852, 1, 6);
 insert into event_gacha_data values (19003, 10003, 'ヴァンパイアハンターwithイリヤ討伐証交換', 2, 60022, 1, 5);

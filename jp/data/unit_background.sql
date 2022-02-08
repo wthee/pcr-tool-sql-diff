@@ -144,6 +144,7 @@ insert into unit_background values (115901, 'マコト（シンデレラ）', 50
 insert into unit_background values (116001, 'マホ（シンデレラ）', 500060, '自警団 拠点', 0.0, 4);
 insert into unit_background values (116201, 'クロエ（聖学祭）', 500732, '聖テレサ女学院_正門_聖学祭', 0.0, 2);
 insert into unit_background values (116301, 'チエル（聖学祭）', 500732, '聖テレサ女学院_正門_聖学祭', 0.0, 2);
+insert into unit_background values (116401, 'ユニ（聖学祭）', 500732, '聖テレサ女学院_正門_聖学祭', 0.0, 4);
 insert into unit_background values (116501, 'イノリ（タイムトラベル）', 500010, 'ランドソル_市街地_昼', 0.0, 18);
 insert into unit_background values (116601, 'カヤ（タイムトラベル）', 500010, 'ランドソル_市街地_昼', 0.0, 4);
 insert into unit_background values (116701, 'アオイ（作業服）', 501340, 'おもちゃ工場', 0.0, 4);

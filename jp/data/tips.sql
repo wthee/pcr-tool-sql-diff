@@ -88,6 +88,7 @@ insert into tips values (4115901, 115901, 1, 'フリフリ');
 insert into tips values (4116001, 116001, 1, 'しゃなりしゃなり');
 insert into tips values (4116201, 116201, 1, '黄色い声援');
 insert into tips values (4116301, 116301, 1, 'ちぇる式走法');
+insert into tips values (4116401, 116401, 1, '得手不得手');
 insert into tips values (4116501, 116501, 1, '征服完了！');
 insert into tips values (4116601, 116601, 1, 'お仕事中');
 insert into tips values (4116701, 116701, 1, '得意分野（かも）');
