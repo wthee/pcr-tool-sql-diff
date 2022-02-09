@@ -122,6 +122,10 @@ insert into chara_story_status values (1013005, '七七香のエピソード第5
 insert into chara_story_status values (1013006, '七七香のエピソード第6話', 4, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1013, 1133, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1013007, '七七香のエピソード第7話', 4, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1013, 1133, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1013008, '七七香のエピソード第8話', 4, 90, 7, 10, 0, 0, 0, 0, 0, 0, 1013, 1133, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1013009, '七七香のエピソード第9話', 4, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1013, 1133, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1013010, '七七香のエピソード第10話', 4, 120, 0, 0, 0, 0, 0, 0, 0, 0, 1013, 1133, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1013011, '七七香のエピソード第11話', 4, 120, 0, 0, 0, 0, 0, 0, 0, 0, 1013, 1133, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1013012, '七七香のエピソード第12話', 4, 200, 7, 30, 0, 0, 0, 0, 0, 0, 1013, 1133, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1014002, 'カスミのエピソード第2話', 4, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1014, 1122, 1157, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1014003, 'カスミのエピソード第3話', 4, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1014, 1122, 1157, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1014004, 'カスミのエピソード第4話', 4, 30, 0, 0, 0, 0, 0, 0, 0, 0, 1014, 1122, 1157, 0, 0, 0, 0, 0, 0, 0);
