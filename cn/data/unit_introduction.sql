@@ -59,5 +59,7 @@ insert into unit_introduction values (61, 30060, 1, '2021/12/20  11:00:00', '202
 insert into unit_introduction values (62, 50061, 2, '2021/12/31  11:00:00', '2022/1/3 15:59:59', 380000, 0, 380000, 380000, 0, 0);
 insert into unit_introduction values (63, 30063, 1, '2022/1/9  11:00:00', '2022/1/14 10:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (64, 30064, 1, '2022/1/14  11:00:00', '2022/1/28 8:59:59', 380000, 380000, 0, 0, 0, 0);
+insert into unit_introduction values (65, 30065, 1, '2022/2/14  11:00:00', '2022/2/24 10:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (66, 30066, 1, '2022/2/7  11:00:00', '2022/2/14 10:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (67, 50067, 2, '2022/01/28  09:00:00', '2022/2/7 10:59:59', 380000, 0, 380000, 380000, 0, 0);
+insert into unit_introduction values (68, 30068, 1, '2022/2/24  11:00:00', '2022/2/28 8:59:59', 380000, 380000, 0, 0, 0, 0);

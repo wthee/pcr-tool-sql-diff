@@ -187,3 +187,15 @@ insert into hatsune_unlock_story_condition values (5033005, 10033, 0, 10033112, 
 insert into hatsune_unlock_story_condition values (5033006, 10033, 0, 10033115, 0, 0, '0');
 insert into hatsune_unlock_story_condition values (5033007, 10033, 0, 0, 1003301, 0, '0');
 insert into hatsune_unlock_story_condition values (5033008, 10033, 0, 0, 1003301, 0, '0');
+insert into hatsune_unlock_story_condition values (5035000, 10035, 1, 0, 0, 0, '0');
+insert into hatsune_unlock_story_condition values (5035001, 10035, 0, 10035103, 0, 0, '0');
+insert into hatsune_unlock_story_condition values (5035002, 10035, 0, 10035107, 0, 0, '0');
+insert into hatsune_unlock_story_condition values (5035003, 10035, 0, 10035111, 0, 0, '0');
+insert into hatsune_unlock_story_condition values (5035004, 10035, 0, 10035115, 0, 0, '0');
+insert into hatsune_unlock_story_condition values (5035005, 10035, 0, 0, 1003501, 0, '0');
+insert into hatsune_unlock_story_condition values (5036001, 10036, 0, 10036103, 0, 0, '0');
+insert into hatsune_unlock_story_condition values (5036002, 10036, 0, 10036107, 0, 0, '0');
+insert into hatsune_unlock_story_condition values (5036003, 10036, 0, 10036111, 0, 0, '0');
+insert into hatsune_unlock_story_condition values (5036004, 10036, 0, 10036115, 0, 0, '0');
+insert into hatsune_unlock_story_condition values (5036005, 10036, 0, 0, 1003601, 0, '0');
+insert into hatsune_unlock_story_condition values (5036201, 10036, 1, 0, 0, 0, '0');
