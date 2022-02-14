@@ -74,4 +74,5 @@ insert into event_gacha_data values (10073, 10073, '美里的夏日聲援！\u30
 insert into event_gacha_data values (10074, 10074, '非法的大江戶病歷\u3000Dr.深月的診療室', 2, 60732, 1, 6);
 insert into event_gacha_data values (10075, 10075, 'Happy・Change・Angels', 2, 60742, 1, 5);
 insert into event_gacha_data values (10076, 10076, '萬聖節拯救隊大亂鬥！\u3000捕獲毛茸茸大作戰', 2, 60752, 1, 6);
+insert into event_gacha_data values (10077, 10077, '迴響！尖叫！萬聖鬼怪狂歡節', 2, 60762, 1, 5);
 insert into event_gacha_data values (19003, 10003, '吸血鬼獵人 with伊莉亞', 2, 60022, 1, 5);
