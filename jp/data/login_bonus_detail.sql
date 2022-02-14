@@ -240,3 +240,4 @@ insert into login_bonus_detail values (259, 80006, 14, 8, 91002, 100, 0, '', '',
 insert into login_bonus_detail values (260, 80006, 15, 8, 91002, 100, 0, '', '', 0, 530135);
 insert into login_bonus_detail values (261, 80006, 16, 8, 91002, 100, 0, '', '', 0, 530136);
 insert into login_bonus_detail values (262, 80006, 17, 8, 91002, 100, 0, '', '', 0, 530137);
+insert into login_bonus_detail values (263, 80006, 17, 7, 2816, 1, 0, '', '', 0, 530137);

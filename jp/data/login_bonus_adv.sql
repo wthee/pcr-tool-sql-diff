@@ -49,7 +49,7 @@ insert into login_bonus_adv values (57, 80006, '2022/02/11 5:00:00', '2022/02/12
 insert into login_bonus_adv values (58, 80006, '2022/02/12 5:00:00', '2022/02/13 4:59:59', 3, 9004014, 0);
 insert into login_bonus_adv values (59, 80006, '2022/02/13 5:00:00', '2022/02/14 4:59:59', 3, 9004015, 0);
 insert into login_bonus_adv values (60, 80006, '2022/02/14 5:00:00', '2022/02/15 4:59:59', 3, 9004016, 0);
-insert into login_bonus_adv values (61, 80006, '2022/02/15 5:00:00', '2022/02/16 4:59:59', 3, 9004001, 1);
+insert into login_bonus_adv values (61, 80006, '2022/02/15 5:00:00', '2022/02/16 4:59:59', 3, 9004017, 1);
 insert into login_bonus_adv values (62, 70007, '0', '0', 1, 436, 0);
 insert into login_bonus_adv values (63, 70007, '0', '0', 2, 437, 0);
 insert into login_bonus_adv values (64, 70007, '0', '0', 3, 438, 0);

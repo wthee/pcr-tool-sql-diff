@@ -22,3 +22,5 @@ insert into campaign_freegacha values (20, 20, 0, 1, '2021/11/03 5:00:00', '2021
 insert into campaign_freegacha values (21, 21, 0, 0, '2021/11/10 5:00:00', '2021/11/30 4:59:59', 1, 20, 7);
 insert into campaign_freegacha values (22, 22, 0, 1, '2021/12/22 5:00:00', '2022/01/04 4:59:59', 1, 0, 0);
 insert into campaign_freegacha values (23, 23, 0, 0, '2022/01/04 5:00:00', '2022/01/31 4:59:59', 1, 22, 13);
+insert into campaign_freegacha values (24, 24, 0, 1, '2022/02/15 5:00:00', '2022/03/01 4:59:59', 1, 0, 0);
+insert into campaign_freegacha values (25, 25, 0, 0, '2022/03/01 5:00:00', '2022/03/31 4:59:59', 1, 24, 14);

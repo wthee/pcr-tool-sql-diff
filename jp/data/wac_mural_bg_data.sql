@@ -1,1 +1,16 @@
 CREATE TABLE 'wac_mural_bg_data' ('wac_id' INTEGER NOT NULL, 'date_id' INTEGER NOT NULL, 'bg_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'start_offset_x' TEXT NOT NULL, 'end_offset_x' TEXT NOT NULL, PRIMARY KEY('wac_id','date_id'));
+insert into wac_mural_bg_data values (2816, 11, 1, 1, '-1480', '-1480');
+insert into wac_mural_bg_data values (2816, 21, 1, 1, '-1400', '-1302');
+insert into wac_mural_bg_data values (2816, 31, 1, 1, '-1302', '-1263');
+insert into wac_mural_bg_data values (2816, 41, 1, 1, '-1263', '-1224');
+insert into wac_mural_bg_data values (2816, 51, 1, 1, '-1224', '-1185');
+insert into wac_mural_bg_data values (2816, 61, 1, 1, '-1185', '-1146');
+insert into wac_mural_bg_data values (2816, 71, 1, 1, '-1146', '-1146');
+insert into wac_mural_bg_data values (2816, 81, 1, 1, '-1146', '-1146');
+insert into wac_mural_bg_data values (2816, 91, 1, 1, '-1146', '-1107');
+insert into wac_mural_bg_data values (2816, 101, 1, 1, '-1107', '-1068');
+insert into wac_mural_bg_data values (2816, 111, 1, 1, '-1068', '-1029');
+insert into wac_mural_bg_data values (2816, 121, 1, 1, '-1029', '-1029');
+insert into wac_mural_bg_data values (2816, 131, 1, 1, '-1029', '-1029');
+insert into wac_mural_bg_data values (2816, 141, 1, 1, '-1029', '-1029');
+insert into wac_mural_bg_data values (2816, 151, 1, 1, '-1029', '-990');
