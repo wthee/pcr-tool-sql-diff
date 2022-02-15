@@ -386,7 +386,7 @@ insert into sqlite_stat1 values ('guild_additional_member', None, '1');
 insert into sqlite_stat1 values ('unit_attack_pattern', None, '1500');
 insert into sqlite_stat1 values ('event_story_detail', 'event_story_detail_0_story_group_id', '409 9');
 insert into sqlite_stat1 values ('specialfes_banner', None, '15');
-insert into sqlite_stat1 values ('wac_data', 'wac_data_0_mural_group_id', '14 14');
+insert into sqlite_stat1 values ('wac_data', 'wac_data_0_mural_group_id', '14 7');
 insert into sqlite_stat1 values ('wac_data', 'sqlite_autoindex_wac_data_1', '14 14 1');
 insert into sqlite_stat1 values ('psy_drama_script', 'psy_drama_script_0_drama_id', '667 61');
 insert into sqlite_stat1 values ('srt_score', None, '3');

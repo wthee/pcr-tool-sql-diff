@@ -1,10 +1,10 @@
 CREATE TABLE 'wac_data' ('wac_id' INTEGER NOT NULL, 'date_id' INTEGER NOT NULL, 'unlock_time' TEXT NOT NULL, 'pre_drama_id' INTEGER NOT NULL, 'post_drama_id' INTEGER NOT NULL, 'idle_drama_id' INTEGER NOT NULL, 'bg_id' INTEGER NOT NULL, 'effect_id' INTEGER NOT NULL, 'mural_group_id' INTEGER NOT NULL, 'mural_offset_x' REAL NOT NULL, 'birthday_login_bonus_id' INTEGER NOT NULL, 'unit_id_1' INTEGER NOT NULL, 'unit_id_2' INTEGER NOT NULL, PRIMARY KEY('wac_id','date_id'));
-insert into wac_data values (2816, 11, '2022/2/15 5:00', 111, 112, 113, 100, 1, 1, 540.0, 0, 0, 0);
-insert into wac_data values (2816, 21, '2022/2/16 5:00', 211, 212, 213, 100, 1, 1, 493.0, 0, 0, 0);
-insert into wac_data values (2816, 31, '2022/2/17 5:00', 311, 312, 313, 100, 1, 1, 458.0, 0, 0, 0);
-insert into wac_data values (2816, 41, '2022/2/18 5:00', 411, 412, 413, 100, 1, 1, 420.0, 0, 0, 0);
-insert into wac_data values (2816, 51, '2022/2/19 5:00', 511, 512, 513, 100, 1, 1, 380.0, 0, 0, 0);
-insert into wac_data values (2816, 61, '2022/2/20 5:00', 611, 612, 613, 100, 1, 1, 340.0, 0, 0, 0);
+insert into wac_data values (2816, 11, '2022/2/15 5:00', 111, 112, 113, 100, 1, 0, 540.0, 0, 0, 0);
+insert into wac_data values (2816, 21, '2022/2/16 5:00', 211, 212, 213, 100, 1, 0, 493.0, 0, 0, 0);
+insert into wac_data values (2816, 31, '2022/2/17 5:00', 311, 312, 313, 100, 1, 0, 458.0, 0, 0, 0);
+insert into wac_data values (2816, 41, '2022/2/18 5:00', 411, 412, 413, 100, 1, 0, 420.0, 0, 0, 0);
+insert into wac_data values (2816, 51, '2022/2/19 5:00', 511, 512, 513, 100, 1, 0, 380.0, 0, 0, 0);
+insert into wac_data values (2816, 61, '2022/2/20 5:00', 611, 612, 613, 100, 1, 0, 340.0, 0, 0, 0);
 insert into wac_data values (2816, 71, '2022/2/21 5:00', 711, 712, 713, 100, 1, 1, 430.0, 0, 0, 0);
 insert into wac_data values (2816, 81, '2022/2/22 5:00', 811, 812, 813, 100, 1, 1, 402.0, 0, 0, 0);
 insert into wac_data values (2816, 91, '2022/2/23 5:00', 911, 912, 913, 100, 1, 1, 302.0, 0, 0, 0);
