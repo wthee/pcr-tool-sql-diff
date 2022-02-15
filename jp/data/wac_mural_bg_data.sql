@@ -13,4 +13,3 @@ insert into wac_mural_bg_data values (2816, 111, 1, 1, '-1068', '-1029');
 insert into wac_mural_bg_data values (2816, 121, 1, 1, '-1029', '-1029');
 insert into wac_mural_bg_data values (2816, 131, 1, 1, '-1029', '-1029');
 insert into wac_mural_bg_data values (2816, 141, 1, 1, '-1029', '-1029');
-insert into wac_mural_bg_data values (2816, 151, 1, 1, '-1029', '-990');

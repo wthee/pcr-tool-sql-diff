@@ -1,1 +1,14 @@
 CREATE TABLE 'taq_rewards' ('id' INTEGER NOT NULL, 'score' INTEGER NOT NULL, 'mission_detail' TEXT NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_count_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_count_2' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_count_3' INTEGER NOT NULL, 'reward_type_4' INTEGER NOT NULL, 'reward_id_4' INTEGER NOT NULL, 'reward_count_4' INTEGER NOT NULL, 'reward_type_5' INTEGER NOT NULL, 'reward_id_5' INTEGER NOT NULL, 'reward_count_5' INTEGER NOT NULL, PRIMARY KEY('id'));
+insert into taq_rewards values (1, 10000, '累計スコアを10000pt 獲得しよう', 12, 94002, 100000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into taq_rewards values (2, 20000, '累計スコアを20000pt 獲得しよう', 8, 91002, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into taq_rewards values (3, 30000, '累計スコアを30000pt 獲得しよう', 12, 94002, 100000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into taq_rewards values (4, 50000, '累計スコアを50000pt 獲得しよう', 8, 91002, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into taq_rewards values (5, 80000, '累計スコアを80000pt 獲得しよう', 12, 94002, 100000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into taq_rewards values (6, 100000, '累計スコアを100000pt 獲得しよう', 12, 94002, 100000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into taq_rewards values (7, 120000, '累計スコアを120000pt 獲得しよう', 8, 91002, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into taq_rewards values (8, 150000, '累計スコアを150000pt 獲得しよう', 12, 94002, 200000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into taq_rewards values (9, 200000, '累計スコアを200000pt 獲得しよう', 12, 94002, 200000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into taq_rewards values (10, 250000, '累計スコアを250000pt 獲得しよう', 8, 91002, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into taq_rewards values (11, 300000, '累計スコアを300000pt 獲得しよう', 12, 94002, 200000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into taq_rewards values (12, 350000, '累計スコアを350000pt 獲得しよう', 12, 94002, 200000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into taq_rewards values (13, 400000, '累計スコアを400000pt 獲得しよう', 8, 91002, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);

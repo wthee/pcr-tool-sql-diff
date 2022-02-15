@@ -15,3 +15,4 @@ insert into arcade_story_list values (5040703, 1005, '芽生える愛情？');
 insert into arcade_story_list values (5040704, 1005, '労働は続くよどこまでも');
 insert into arcade_story_list values (5080700, 1008, '究極への道');
 insert into arcade_story_list values (5080701, 1008, 'プリンは続くよどこまでも');
+insert into arcade_story_list values (9004201, 1009, '正解目指して一致団結！');
