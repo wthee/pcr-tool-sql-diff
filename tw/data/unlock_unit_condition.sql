@@ -158,6 +158,7 @@ insert into unlock_unit_condition values (117501, '深月（大江戶）', 1, 0,
 insert into unlock_unit_condition values (117601, '雪（大江戶）', 1, 0, 1, 2, 31176, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (117701, '香織（萬聖節）', 1, 0, 1, 2, 31177, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (117801, '妮諾（萬聖節）', 1, 0, 1, 2, 31178, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
+insert into unlock_unit_condition values (117901, '鈴奈（萬聖節）', 1, 0, 1, 2, 31179, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (118001, '克蕾琪塔', 1, 0, 1, 2, 31180, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (118501, '花凜', 1, 0, 1, 2, 31185, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (180101, '日和（公主）', 1, 0, 1, 2, 31801, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
