@@ -28,3 +28,6 @@ insert into ailment_data values (26, 69, -1, '驯鹿化');
 insert into ailment_data values (27, 8, 10, '昏迷');
 insert into ailment_data values (28, 9, 5, '诅咒');
 insert into ailment_data values (29, 70, -1, 'HP变化');
+insert into ailment_data values (30, 8, 11, '时间停止');
+insert into ailment_data values (31, 76, -1, '生命值回复量减少');
+insert into ailment_data values (32, 78, -1, '弱体伤害上升');

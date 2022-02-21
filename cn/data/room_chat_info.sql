@@ -24,3 +24,6 @@ insert into room_chat_info values (22, 2, 22);
 insert into room_chat_info values (23, 5, 23);
 insert into room_chat_info values (24, 5, 24);
 insert into room_chat_info values (25, 5, 25);
+insert into room_chat_info values (26, 6, 26);
+insert into room_chat_info values (27, 6, 27);
+insert into room_chat_info values (28, 6, 28);

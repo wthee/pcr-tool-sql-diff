@@ -273,3 +273,6 @@ insert into room_chat_scenario values (23, 1, 1, 0, 2, 42, 0);
 insert into room_chat_scenario values (23, 2, 1, 0, 2, 72, 0);
 insert into room_chat_scenario values (24, 1, 1, 0, 2, 43, 0);
 insert into room_chat_scenario values (25, 1, 1, 0, 2, 44, 0);
+insert into room_chat_scenario values (26, 1, 1, 0, 2, 45, 0);
+insert into room_chat_scenario values (27, 1, 1, 0, 2, 46, 0);
+insert into room_chat_scenario values (28, 1, 1, 0, 2, 47, 0);

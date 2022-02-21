@@ -1,4 +1,6 @@
 CREATE TABLE 'visual_customize' ('id' INTEGER NOT NULL, 'title_prefab' INTEGER NOT NULL, 'title_movie' INTEGER NOT NULL, 'title_voice' INTEGER NOT NULL, 'story_top_movie' INTEGER NOT NULL, 'quest_top_movie' INTEGER NOT NULL, 'profile_logo' INTEGER NOT NULL, 'watched_story_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('id'));
 insert into visual_customize values (10001, 0, 0, 0, 0, 0, 0, 0, '2020/01/01 0:00:00', '2021/04/17 8:59:59');
 insert into visual_customize values (10002, 1001, 1001, 1001, 1, 1, 0, 0, '2021/04/17 9:00:00', '2021/05/01 10:59:59');
-insert into visual_customize values (10003, 0, 1001, 0, 1, 1, 0, 0, '2021/05/01 11:00:00', '2099/12/31 23:59:59');
+insert into visual_customize values (10003, 0, 1001, 0, 1, 1, 0, 0, '2021/05/01 11:00:00', '2022/02/28 8:59:59');
+insert into visual_customize values (10006, 0, 1001, 0, 1, 1, 0, 0, '2022/02/28 9:00:00', '2099/12/31 23:59:59');
+insert into visual_customize values (10007, 0, 1002, 0, 2, 2, 0, 2015009, '2022/02/28 9:00:00', '2099/12/31 23:59:59');

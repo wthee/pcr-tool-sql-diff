@@ -1,0 +1,1 @@
+CREATE INDEX 'shiori_boss_0_event_id' on 'shiori_boss'('event_id')

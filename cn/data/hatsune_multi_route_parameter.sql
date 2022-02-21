@@ -9,3 +9,13 @@ insert into hatsune_multi_route_parameter values (7, 10028112, 1, 10028115, 0, 0
 insert into hatsune_multi_route_parameter values (8, 10028101, 3, 10028103, 0, 0, '');
 insert into hatsune_multi_route_parameter values (9, 10028105, 3, 10028115, 0, 0, '');
 insert into hatsune_multi_route_parameter values (10, 10028112, 4, 150, 0, 0, '');
+insert into hatsune_multi_route_parameter values (11, 20012104, 11, 20012104, 20012107, 0, '');
+insert into hatsune_multi_route_parameter values (12, 20012108, 11, 20012108, 20012109, 0, '');
+insert into hatsune_multi_route_parameter values (13, 20012110, 11, 20012110, 20012114, 0, '');
+insert into hatsune_multi_route_parameter values (14, 20012115, 11, 20012115, 20012115, 0, '');
+insert into hatsune_multi_route_parameter values (15, 20012110, 4, 120, 0, 0, '');
+insert into hatsune_multi_route_parameter values (16, 20008101, 1, 20008111, 0, 0, '');
+insert into hatsune_multi_route_parameter values (17, 20008112, 1, 20008115, 0, 0, '');
+insert into hatsune_multi_route_parameter values (18, 20008101, 3, 20008103, 0, 0, '');
+insert into hatsune_multi_route_parameter values (19, 20008105, 3, 20008115, 0, 0, '');
+insert into hatsune_multi_route_parameter values (20, 20008112, 4, 150, 0, 0, '');

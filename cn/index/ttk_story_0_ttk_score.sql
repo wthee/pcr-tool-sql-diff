@@ -1,0 +1,1 @@
+CREATE INDEX 'ttk_story_0_ttk_score' on 'ttk_story'('ttk_score')

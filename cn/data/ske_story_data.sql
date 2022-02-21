@@ -1,0 +1,13 @@
+CREATE TABLE 'ske_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'unlock_condition_quest_id' INTEGER NOT NULL, 'unlock_condition_boss_id' INTEGER NOT NULL, 'read_condition_event_story_id' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+insert into ske_story_data values (1005801, 10058, '絆ダイアリーその1', 10058108, 0, 5058003);
+insert into ske_story_data values (1005802, 10058, '絆ダイアリーその2', 10058110, 0, 5058003);
+insert into ske_story_data values (1005803, 10058, '絆ダイアリーその3', 10058112, 0, 5058003);
+insert into ske_story_data values (1005804, 10058, '絆ダイアリーその4', 10058115, 0, 5058004);
+insert into ske_story_data values (1005805, 10058, '絆ダイアリーその5', 10058115, 1005801, 5058005);
+insert into ske_story_data values (1005901, 10059, '絆ダイアリーその6', 10059103, 0, 5059001);
+insert into ske_story_data values (1005902, 10059, '絆ダイアリーその7', 10059106, 0, 5059002);
+insert into ske_story_data values (1005903, 10059, '絆ダイアリーその8', 10059109, 0, 5059004);
+insert into ske_story_data values (1005904, 10059, '絆ダイアリーその9', 10059112, 0, 5059005);
+insert into ske_story_data values (1005905, 10059, '絆ダイアリーその10', 10059115, 0, 5059006);
+insert into ske_story_data values (1005906, 10059, '絆ダイアリーその11', 10059115, 1005901, 5059007);
+insert into ske_story_data values (1005907, 10059, 'エクストラページ', 0, 0, 0);

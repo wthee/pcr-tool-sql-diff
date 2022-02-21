@@ -1,1 +1,16 @@
 CREATE TABLE 'omp_story_data' ('omp_story_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_boss_id' INTEGER NOT NULL, 'story_seq' INTEGER NOT NULL, 'is_readable_on_result' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, 'sub_title' TEXT NOT NULL, PRIMARY KEY('omp_story_id'));
+insert into omp_story_data values (7001, 10035, 10035103, 0, 1, 0, 0, 0, 0, '卯月和凛的回忆');
+insert into omp_story_data values (7002, 10035, 10035107, 0, 2, 0, 0, 0, 0, 'New Generations的回忆');
+insert into omp_story_data values (7003, 10035, 10035107, 0, 4, 0, 0, 0, 0, '卯月和未央的回忆');
+insert into omp_story_data values (7004, 10035, 10035111, 0, 6, 0, 0, 0, 0, '美食殿堂的回忆');
+insert into omp_story_data values (7005, 10035, 10035111, 0, 7, 0, 0, 0, 0, '凛和未央的回忆');
+insert into omp_story_data values (7006, 10035, 10035111, 0, 8, 0, 0, 0, 0, 'New Generations的回忆');
+insert into omp_story_data values (7007, 10035, 10035115, 0, 9, 0, 0, 0, 0, 'New Generations和美食殿堂的回忆');
+insert into omp_story_data values (7008, 10035, 10035115, 0, 10, 0, 0, 0, 0, '美食殿堂的回忆');
+insert into omp_story_data values (7009, 10036, 10036111, 0, 14, 0, 0, 0, 0, 'New Generations和美食殿堂的回忆');
+insert into omp_story_data values (7102, 10035, 10035107, 0, 3, 0, 0, 0, 0, 'New Generations的回忆');
+insert into omp_story_data values (7103, 10035, 10035107, 0, 5, 0, 0, 0, 0, '美食殿堂的回忆');
+insert into omp_story_data values (7104, 10035, 10035115, 0, 11, 0, 0, 0, 0, 'New Generations和美食殿堂的回忆');
+insert into omp_story_data values (7105, 10036, 10036111, 0, 12, 0, 0, 0, 0, 'New Generations和美食殿堂的回忆');
+insert into omp_story_data values (7106, 10036, 10036111, 0, 13, 0, 0, 0, 0, 'New Generations和美食殿堂的回忆');
+insert into omp_story_data values (7201, 10035, 10035103, 0, 15, 1, 7, 2405, 1, '');

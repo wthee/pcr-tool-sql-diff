@@ -13,3 +13,8 @@ insert into equipment_enhance_data values (5, 2, 160, 260);
 insert into equipment_enhance_data values (5, 3, 280, 540);
 insert into equipment_enhance_data values (5, 4, 480, 1020);
 insert into equipment_enhance_data values (5, 5, 780, 1800);
+insert into equipment_enhance_data values (6, 1, 100, 100);
+insert into equipment_enhance_data values (6, 2, 160, 260);
+insert into equipment_enhance_data values (6, 3, 280, 540);
+insert into equipment_enhance_data values (6, 4, 480, 1020);
+insert into equipment_enhance_data values (6, 5, 780, 1800);

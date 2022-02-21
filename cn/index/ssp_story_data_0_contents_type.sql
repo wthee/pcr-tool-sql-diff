@@ -1,0 +1,1 @@
+CREATE INDEX 'ssp_story_data_0_contents_type' on 'ssp_story_data'('contents_type')

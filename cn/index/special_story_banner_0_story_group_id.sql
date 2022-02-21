@@ -1,0 +1,1 @@
+CREATE INDEX 'special_story_banner_0_story_group_id' on 'special_story_banner'('story_group_id')
