@@ -62,6 +62,8 @@ insert into taq_necessary_word values (3222, '', '', '', '', '', 'ス', '', '', 
 insert into taq_necessary_word values (3238, '', '', '', '', '', '', '', 'ず', '', '');
 insert into taq_necessary_word values (3271, '', '', '', '', '', '', '', '帰', '', '');
 insert into taq_necessary_word values (3277, '', '', '', 'ク', '', '', '', '', '', '');
+insert into taq_necessary_word values (4029, '', '', '', '', '', '', '', 'し', '', 'ち');
+insert into taq_necessary_word values (4049, '', '', '', '', '', '', '', '', '', 'X');
 insert into taq_necessary_word values (4052, '', '', '', '', '', '', '', 'た', '', '');
 insert into taq_necessary_word values (4077, '', '', '', '', '', '', '', 'さ', '', '');
 insert into taq_necessary_word values (4154, '', '', '', '', '', '', '', '', '', '帯');

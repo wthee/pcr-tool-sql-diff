@@ -566,6 +566,8 @@ insert into story_character_mask values (121011, -55.0, 630.0, 65.0);
 insert into story_character_mask values (121111, -55.0, 570.0, 50.0);
 insert into story_character_mask values (121211, -70.0, 930.0, 60.0);
 insert into story_character_mask values (121212, -70.0, 930.0, 60.0);
+insert into story_character_mask values (121311, 0.0, 750.0, 50.0);
+insert into story_character_mask values (121411, 0.0, 630.0, 70.0);
 insert into story_character_mask values (161199, 0.0, 800.0, 50.0);
 insert into story_character_mask values (161499, 0.0, 800.0, 50.0);
 insert into story_character_mask values (170111, 30.0, 835.0, 70.0);
