@@ -319,7 +319,7 @@ insert into uek_drama values (1320008, 32, 3, '103031', '02_uek_talk_surprise2',
 insert into uek_drama values (1320009, 32, 11, '103031', '好不容易找到的\\n空花还\\n飞在空中！', '10', '0', '0', '', '', '');
 insert into uek_drama values (1320010, 32, 91, '0', '', '', '', '', '', '', '');
 insert into uek_drama values (1320011, 32, 3, '105331', '02_uek_talk_surprise2', '1', '', '0', '0.5', '', '');
-insert into uek_drama values (1320012, 32, 11, '105331', '果然没有\\n高兴啊！？', '10', '0', '0', '', '', '');
+insert into uek_drama values (1320012, 32, 11, '105331', '她是不是\\n还挺高兴！？', '10', '0', '0', '', '', '');
 insert into uek_drama values (1330001, 33, 1, '1', '100831', '100', '0', '0', '1.3', '1', '02_uek_cmn_idol_def_N');
 insert into uek_drama values (1330002, 33, 31, '7', '7', '-120', '130', '1.3', '1', '', '');
 insert into uek_drama values (1330003, 33, 3, '100831', '02_uek_33_yuki', '0', '02_uek_33_yuki_loop', '1', '0.2', '', '');

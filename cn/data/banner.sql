@@ -1,5 +1,7 @@
 CREATE TABLE 'banner' ('banner_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'system_id' INTEGER NOT NULL, 'gacha_id' INTEGER NOT NULL, 'priority' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, 'sub_banner_id_1' INTEGER NOT NULL, 'is_show_room' INTEGER NOT NULL, 'url' TEXT NOT NULL, 'show_type' INTEGER NOT NULL, 'thumbnail_id' INTEGER NOT NULL, 'poster_id' INTEGER NOT NULL, PRIMARY KEY('banner_id'));
 insert into banner values (10000, 1, 90001, 0, 1, '2021/12/20 11:00:00', '2021/12/31 10:59:59', 0, 0, '0', 2, 20, 20);
+insert into banner values (10001, 1, 90001, 0, 1, '2022/2/26 5:00:00', '2022/2/28 8:59:59', 0, 0, '0', 0, 0, 0);
+insert into banner values (10002, 1, 90001, 0, 1, '2022/2/14 11:00:00', '2022/2/26 4:59:59', 0, 0, '0', 2, 21, 21);
 insert into banner values (10003, 1, 302, 0, 1, '2020/05/15 11:00:00', '2020/05/28 10:59:59', 0, 0, '0', 0, 0, 0);
 insert into banner values (10004, 1, 302, 0, 1, '2020/05/28 11:00:00', '2020/06/08 10:59:59', 0, 0, '0', 0, 0, 0);
 insert into banner values (10005, 1, 302, 0, 1, '2020/06/08 11:00:00', '2020/06/23 10:59:59', 0, 0, '0', 0, 0, 0);
@@ -29,7 +31,7 @@ insert into banner values (10028, 1, 302, 0, 1, '2021/06/01 11:00:00', '2021/06/
 insert into banner values (10029, 1, 302, 0, 1, '2021/06/21 11:00:00', '2021/06/26 10:59:59', 0, 0, '0', 0, 0, 0);
 insert into banner values (10030, 1, 302, 0, 1, '2021/05/28 9:00:00', '2021/06/01 10:59:59', 0, 0, '0', 0, 0, 0);
 insert into banner values (10031, 1, 302, 0, 1, '2021/06/28 9:00:00', '2021/07/12 10:59:59', 0, 0, '0', 0, 0, 0);
-insert into banner values (10032, 1, 302, 0, 2, '2021/04/17 9:00:00', '2021/05/01 10:59:59', 0, 0, '0', 0, 0, 0);
+insert into banner values (10032, 1, 302, 0, 1, '2021/04/17 9:00:00', '2021/05/01 10:59:59', 0, 0, '0', 0, 0, 0);
 insert into banner values (10033, 1, 302, 0, 1, '2021/06/26 11:00:00', '2021/06/28 08:59:59', 0, 0, '0', 0, 0, 0);
 insert into banner values (10034, 1, 302, 0, 1, '2021/05/01 11:00:00', '2021/05/15 08:59:59', 0, 0, '0', 0, 0, 0);
 insert into banner values (10035, 1, 302, 0, 1, '2021/07/12 11:00:00', '2021/07/23 10:59:59', 0, 0, '0', 0, 0, 0);
@@ -76,11 +78,9 @@ insert into banner values (50047, 1, 303, 0, 1, '2021/09/06 9:00:00', '2021/09/0
 insert into banner values (50061, 1, 303, 0, 2, '2021/12/31 11:00:00', '2022/01/03 15:59:59', 0, 0, '0', 2, 12, 12);
 insert into banner values (50067, 1, 303, 0, 1, '2022/01/28 9:00:00', '2022/02/07 10:59:59', 0, 0, '0', 2, 12, 12);
 insert into banner values (60001, 1, 304, 0, 5, '2020/01/01 0:00:00', '2099/12/31 23:59:59', 0, 0, '0', 0, 0, 0);
-insert into banner values (60002, 1, 306, 0, 2, '2022/03/01 5:00:00', '2099/12/31 23:59:59', 0, 0, '0', 0, 0, 0);
+insert into banner values (60002, 1, 306, 0, 2, '2022/02/28 9:00:00', '2099/12/31 23:59:59', 0, 0, '0', 0, 0, 0);
 insert into banner values (60003, 1, 308, 0, 2, '2022/03/01 5:00:00', '2099/12/31 23:59:59', 0, 0, '0', 0, 0, 0);
 insert into banner values (70000, 2, 101, 0, 7, '2020/12/20 11:00:00', '2021/03/10 23:59:59', 0, 0, '0', 0, 0, 0);
-insert into banner values (80000, 801, 0, 0, 8, '2021/02/06 10:00:00', '2021/02/24 4:00:00', 0, 0, 'https://game.bilibili.com/pcr/newyearevent2021', 0, 0, 0);
-insert into banner values (80001, 801, 0, 0, 1, '2021/04/17 21:00:00', '2021/04/30 23:59:59', 0, 0, 'https://game.bilibili.com/pcr/1stProfile-h5', 0, 0, 0);
 insert into banner values (80002, 801, 0, 0, 1, '2021/10/14 9:00:00', '2021/11/15 23:59:59', 0, 0, 'https://game.bilibili.com/pcr/zhhd2nd/h5', 2, 2, 2);
 insert into banner values (80003, 2, 101, 0, 6, '2022/02/22 13:00:00', '2022/02/28 23:59:59', 0, 0, '0', 1, 3, 3);
 insert into banner values (80004, 801, 0, 0, 8, '2021/10/20 12:00:00', '2021/10/31 11:59:59', 0, 0, 'https://www.wjx.cn/vj/rN66bVG.aspx', 0, 0, 0);
