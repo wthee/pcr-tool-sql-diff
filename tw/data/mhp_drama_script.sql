@@ -94,7 +94,7 @@ insert into mhp_drama_script values (1007401074, 1007401, 91, '0', '', '', '', '
 insert into mhp_drama_script values (1007401075, 1007401, 22, '0', '0', '', '', '', '', '', '');
 insert into mhp_drama_script values (1007401076, 1007401, 103, '拿條冷毛巾敷在額頭上。', '1007401079', '0', '', '', '', '', '');
 insert into mhp_drama_script values (1007401077, 1007401, 103, '放空腦袋好好休息。', '1007401125', '0', '', '', '', '', '');
-insert into mhp_drama_script values (1007401078, 1007401, 103, '我開個特製的中藥給你。', '1007401142', '0', '', '', '', '', '');
+insert into mhp_drama_script values (1007401078, 1007401, 103, '我開個特製的中藥給妳。', '1007401142', '0', '', '', '', '', '');
 insert into mhp_drama_script values (1007401079, 1007401, 3, '117531', 'mhp_sit_out', '0', 'mhp_idle_normal', '1', '0.2', '0', '');
 insert into mhp_drama_script values (1007401080, 1007401, 93, '0.6', '0', '', '', '', '', '', '');
 insert into mhp_drama_script values (1007401081, 1007401, 3, '100211', 'mhp_sit_out', '0', 'mhp_idle_normal', '1', '0.2', '0', '');
@@ -271,7 +271,7 @@ insert into mhp_drama_script values (1007402050, 1007402, 21, 'vo_mhp_1007402', 
 insert into mhp_drama_script values (1007402051, 1007402, 11, '117531', '沒事的，醫生就是為此存在的啊。\\n好了，胸口不舒服就要──', '6', '1', '0', '0', '0', '0.5');
 insert into mhp_drama_script values (1007402052, 1007402, 91, '0', '', '', '', '', '', '', '');
 insert into mhp_drama_script values (1007402053, 1007402, 22, '0', '0', '', '', '', '', '', '');
-insert into mhp_drama_script values (1007402054, 1007402, 103, '我開心悸的藥給你吧。', '1007402057', '0', '', '', '', '', '');
+insert into mhp_drama_script values (1007402054, 1007402, 103, '我開心悸的藥給妳吧。', '1007402057', '0', '', '', '', '', '');
 insert into mhp_drama_script values (1007402055, 1007402, 103, '這是大江戶特產的甜點。', '1007402102', '0', '', '', '', '', '');
 insert into mhp_drama_script values (1007402056, 1007402, 103, '去數羊吧。', '1007402147', '0', '', '', '', '', '');
 insert into mhp_drama_script values (1007402057, 1007402, 3, '117531', 'mhp_sit_out', '0', 'mhp_idle_normal', '1', '0.2', '0', '');
@@ -1059,8 +1059,8 @@ insert into mhp_drama_script values (1007407066, 1007407, 3, '117531', 'mhp_sit_
 insert into mhp_drama_script values (1007407067, 1007407, 21, 'vo_mhp_1007407', 'vo_mhp_2008', '0', '0', '', '', '', '');
 insert into mhp_drama_script values (1007407068, 1007407, 11, '117531', '……雖然是密醫，\\n但我也需要顧及顏面，\\n所以會盡力而為。\\n我想想，就給妳──', '4', '1', '0', '0', '0', '0.5');
 insert into mhp_drama_script values (1007407069, 1007407, 91, '0', '', '', '', '', '', '', '');
-insert into mhp_drama_script values (1007407070, 1007407, 103, '我開冒失治癒藥水給你吧。', '1007407073', '0', '', '', '', '', '');
-insert into mhp_drama_script values (1007407071, 1007407, 103, '我開個退冒失魔丸給你吧。', '1007407115', '0', '', '', '', '', '');
+insert into mhp_drama_script values (1007407070, 1007407, 103, '我開冒失治癒藥水給妳吧。', '1007407073', '0', '', '', '', '', '');
+insert into mhp_drama_script values (1007407071, 1007407, 103, '我開個退冒失魔丸給妳吧。', '1007407115', '0', '', '', '', '', '');
 insert into mhp_drama_script values (1007407072, 1007407, 103, '快穿上這件冒失矯正帶。', '1007407157', '0', '', '', '', '', '');
 insert into mhp_drama_script values (1007407073, 1007407, 3, '117531', 'mhp_sit_idle', '1', '', '0', '0.2', '', '');
 insert into mhp_drama_script values (1007407074, 1007407, 3, '102511', 'mhp_sit_talk_surprise2', '1', '', '0', '0.2', '', '');
@@ -1190,7 +1190,7 @@ insert into mhp_drama_script values (1007407197, 1007407, 91, '0', '', '', '', '
 insert into mhp_drama_script values (1007407198, 1007407, 3, '117531', 'mhp_idle_normal', '1', '', '0', '0.2', '', '');
 insert into mhp_drama_script values (1007407199, 1007407, 3, '102511', 'mhp_talk_normal', '1', '', '0', '0.2', '', '');
 insert into mhp_drama_script values (1007407200, 1007407, 21, 'vo_mhp_1007407', 'vo_mhp_2015', '0', '0', '', '', '', '');
-insert into mhp_drama_script values (1007407201, 1007407, 11, '102511', '謝謝你，醫生！\\n我一定會克服冒失的！', '4', '1', '0', '', '0', '0.5');
+insert into mhp_drama_script values (1007407201, 1007407, 11, '102511', '謝謝妳，醫生！\\n我一定會克服冒失的！', '4', '1', '0', '', '0', '0.5');
 insert into mhp_drama_script values (1007407202, 1007407, 91, '0', '', '', '', '', '', '', '');
 insert into mhp_drama_script values (1007407203, 1007407, 22, '0', '0', '', '', '', '', '', '');
 insert into mhp_drama_script values (1007407204, 1007407, 3, '102511', 'mhp_walk', '1', '', '0', '0.2', '', '');
@@ -1275,7 +1275,7 @@ insert into mhp_drama_script values (1007408062, 1007408, 21, 'vo_mhp_1007408', 
 insert into mhp_drama_script values (1007408063, 1007408, 11, '117531', '那就馬上來──', '5', '1', '0', '0', '0', '0.5');
 insert into mhp_drama_script values (1007408064, 1007408, 91, '0', '', '', '', '', '', '', '');
 insert into mhp_drama_script values (1007408065, 1007408, 103, '來試試看催眠療法吧。', '1007408068', '0', '', '', '', '', '');
-insert into mhp_drama_script values (1007408066, 1007408, 103, '讓我好好檢查你的身體狀況吧。', '1007408104', '0', '', '', '', '', '');
+insert into mhp_drama_script values (1007408066, 1007408, 103, '讓我好好檢查妳的身體狀況吧。', '1007408104', '0', '', '', '', '', '');
 insert into mhp_drama_script values (1007408067, 1007408, 103, '拉個筋放鬆身體吧。', '1007408175', '0', '', '', '', '', '');
 insert into mhp_drama_script values (1007408068, 1007408, 3, '117531', 'mhp_sit_idle', '1', '', '', '0.2', '', '');
 insert into mhp_drama_script values (1007408069, 1007408, 3, '102511', 'mhp_sit_talk_wish', '1', '', '', '0.2', '', '');
@@ -1583,7 +1583,7 @@ insert into mhp_drama_script values (1007410048, 1007410, 3, '117531', 'mhp_mits
 insert into mhp_drama_script values (1007410049, 1007410, 21, 'vo_mhp_1007410', 'vo_mhp_5006', '0', '0', '', '', '', '');
 insert into mhp_drama_script values (1007410050, 1007410, 11, '117531', '這是當然。因為妳是傳說的吸血鬼吧？\\n面對這麼有魅力的研究對象，\\n不論是誰都會興奮起來的。所以說──', '5', '1', '0', '0', '0', '0.5');
 insert into mhp_drama_script values (1007410051, 1007410, 91, '0', '', '', '', '', '', '', '');
-insert into mhp_drama_script values (1007410052, 1007410, 103, '能讓我解剖你的身體嗎？', '1007410055', '0', '', '', '', '', '');
+insert into mhp_drama_script values (1007410052, 1007410, 103, '能讓我解剖妳的身體嗎？', '1007410055', '0', '', '', '', '', '');
 insert into mhp_drama_script values (1007410053, 1007410, 103, '要不要吸我的血看看？', '1007410066', '0', '', '', '', '', '');
 insert into mhp_drama_script values (1007410054, 1007410, 103, '要不要使用我的眼睛呢？', '1007410072', '0', '', '', '', '', '');
 insert into mhp_drama_script values (1007410055, 1007410, 3, '117531', 'mhp_mitsuki_sit_ecstatic_idle', '1', '', '', '0.2', '', '');
@@ -1691,7 +1691,7 @@ insert into mhp_drama_script values (1007411054, 1007411, 91, '1007411051', '', 
 insert into mhp_drama_script values (1007411055, 1007411, 22, '0', '0', '', '', '', '', '', '');
 insert into mhp_drama_script values (1007411056, 1007411, 103, '用可愛來展現魅力吧！', '1007411059', '0', '', '', '', '', '');
 insert into mhp_drama_script values (1007411057, 1007411, 103, '用美麗來決勝負吧！', '1007411076', '0', '', '', '', '', '');
-insert into mhp_drama_script values (1007411058, 1007411, 103, '我來當你的製作人吧！', '1007411093', '0', '', '', '', '', '');
+insert into mhp_drama_script values (1007411058, 1007411, 103, '我來當妳的製作人吧！', '1007411093', '0', '', '', '', '', '');
 insert into mhp_drama_script values (1007411059, 1007411, 3, '117631', 'mhp_sit_idle_memory', '1', '', '', '0.2', '', '');
 insert into mhp_drama_script values (1007411060, 1007411, 3, '104431', 'mhp_sit_talk_anger2', '1', '', '', '0.2', '', '');
 insert into mhp_drama_script values (1007411061, 1007411, 21, 'vo_mhp_1007411', 'vo_mhp_5109', '0', '0', '', '', '', '');
@@ -1807,7 +1807,7 @@ insert into mhp_drama_script values (1007412038, 1007412, 3, '117631', 'mhp_sit_
 insert into mhp_drama_script values (1007412039, 1007412, 3, '104431', 'mhp_ilya_approach_in', '0', 'mhp_ilya_approach_loop', '1', '0.2', '0', '');
 insert into mhp_drama_script values (1007412040, 1007412, 3, '11', 'NoItem', '0', 'mhp_ilya_approach_loop', '1', '0.2', '0', '');
 insert into mhp_drama_script values (1007412041, 1007412, 21, 'vo_mhp_1007412', 'vo_mhp_5204', '0', '0', '', '', '', '');
-insert into mhp_drama_script values (1007412042, 1007412, 11, '104431', '呵呵，你在緊張嗎？\\n真是個可愛的傢伙啊……', '5', '1', '0', '0', '0', '1');
+insert into mhp_drama_script values (1007412042, 1007412, 11, '104431', '呵呵，妳在緊張嗎？\\n真是個可愛的傢伙啊……', '5', '1', '0', '0', '0', '1');
 insert into mhp_drama_script values (1007412043, 1007412, 91, '0', '', '', '', '', '', '', '');
 insert into mhp_drama_script values (1007412044, 1007412, 3, '117631', 'mhp_sit_talk_joy1', '1', '', '', '0.2', '', '');
 insert into mhp_drama_script values (1007412045, 1007412, 21, 'vo_mhp_1007412', 'vo_mhp_5205', '0', '0', '', '', '', '');
@@ -1817,7 +1817,7 @@ insert into mhp_drama_script values (1007412048, 1007412, 3, '117631', 'mhp_sit_
 insert into mhp_drama_script values (1007412049, 1007412, 3, '104431', 'mhp_ilya_uwame_in', '0', 'mhp_ilya_uwame_loop', '1', '0.2', '0', '');
 insert into mhp_drama_script values (1007412050, 1007412, 3, '11', 'mhp_ilya_uwame_in', '0', 'mhp_ilya_uwame_loop', '1', '0.2', '0', '');
 insert into mhp_drama_script values (1007412051, 1007412, 21, 'vo_mhp_1007412', 'vo_mhp_5206', '0', '0', '', '', '', '');
-insert into mhp_drama_script values (1007412052, 1007412, 11, '104431', '你啊……\\n可別移開視線喔？', '3', '1', '0', '0', '0', '1');
+insert into mhp_drama_script values (1007412052, 1007412, 11, '104431', '妳啊……\\n可別移開視線喔？', '3', '1', '0', '0', '0', '1');
 insert into mhp_drama_script values (1007412053, 1007412, 91, '0', '', '', '', '', '', '', '');
 insert into mhp_drama_script values (1007412054, 1007412, 3, '117631', 'mhp_sit_talk_joy1', '1', '', '', '0.2', '', '');
 insert into mhp_drama_script values (1007412055, 1007412, 21, 'vo_mhp_1007412', 'vo_mhp_5207', '0', '0', '', '', '', '');
@@ -1827,7 +1827,7 @@ insert into mhp_drama_script values (1007412058, 1007412, 3, '117631', 'mhp_sit_
 insert into mhp_drama_script values (1007412059, 1007412, 3, '104431', 'mhp_ilya_koakuma_in', '0', 'mhp_ilya_koakuma_loop', '1', '0.2', '0', '');
 insert into mhp_drama_script values (1007412060, 1007412, 3, '11', 'mhp_ilya_koakuma_in', '0', 'NoItem', '1', '0.2', '0', '');
 insert into mhp_drama_script values (1007412061, 1007412, 21, 'vo_mhp_1007412', 'vo_mhp_5208', '0', '0', '', '', '', '');
-insert into mhp_drama_script values (1007412062, 1007412, 11, '104431', '希望你能只看著妾身……', '4', '1', '0', '0', '0', '1');
+insert into mhp_drama_script values (1007412062, 1007412, 11, '104431', '希望妳能只看著妾身……', '4', '1', '0', '0', '0', '1');
 insert into mhp_drama_script values (1007412063, 1007412, 91, '0', '', '', '', '', '', '', '');
 insert into mhp_drama_script values (1007412064, 1007412, 3, '117631', 'mhp_sit_talk_joy2', '1', '', '', '0.2', '', '');
 insert into mhp_drama_script values (1007412065, 1007412, 21, 'vo_mhp_1007412', 'vo_mhp_5209', '0', '0', '', '', '', '');
@@ -1972,8 +1972,8 @@ insert into mhp_drama_script values (1007413071, 1007413, 21, 'vo_mhp_1007413', 
 insert into mhp_drama_script values (1007413072, 1007413, 11, '117531', '是嗎？那麼──', '5', '1', '0', '0', '0', '0.5');
 insert into mhp_drama_script values (1007413073, 1007413, 91, '0', '', '', '', '', '', '', '');
 insert into mhp_drama_script values (1007413074, 1007413, 22, '0', '0', '', '', '', '', '', '');
-insert into mhp_drama_script values (1007413075, 1007413, 103, '我開東國靈藥──中藥給你，很有效哦。', '1007413078', '0', '', '', '', '', '');
-insert into mhp_drama_script values (1007413076, 1007413, 103, '我幫你按可以治頭痛的穴道。', '1007413127', '0', '', '', '', '', '');
+insert into mhp_drama_script values (1007413075, 1007413, 103, '我開東國靈藥──中藥給妳，很有效哦。', '1007413078', '0', '', '', '', '', '');
+insert into mhp_drama_script values (1007413076, 1007413, 103, '我幫妳按可以治頭痛的穴道。', '1007413127', '0', '', '', '', '', '');
 insert into mhp_drama_script values (1007413077, 1007413, 103, '我先開個頭痛藥好了。', '1007413158', '0', '', '', '', '', '');
 insert into mhp_drama_script values (1007413078, 1007413, 3, '117531', 'mhp_sit_out', '0', 'mhp_idle_normal', '1', '0.2', '0', '');
 insert into mhp_drama_script values (1007413079, 1007413, 93, '0.6', '0', '', '', '', '', '', '');
@@ -2179,9 +2179,9 @@ insert into mhp_drama_script values (1007414068, 1007414, 21, 'vo_mhp_1007414', 
 insert into mhp_drama_script values (1007414069, 1007414, 11, '117531', '不過，看到杏奈很安靜，\\n會讓人覺得有點不舒服呢。\\n我們都是同個公會的人，\\n我不會對妳不利的。', '6', '1', '0', '0', '0', '0.5');
 insert into mhp_drama_script values (1007414070, 1007414, 91, '0', '', '', '', '', '', '', '');
 insert into mhp_drama_script values (1007414071, 1007414, 22, '0', '0', '', '', '', '', '', '');
-insert into mhp_drama_script values (1007414072, 1007414, 103, '我開「金色天露」給你。', '1007414075', '0', '', '', '', '', '');
-insert into mhp_drama_script values (1007414073, 1007414, 103, '你用這個聖杯來漱口吧。', '1007414128', '0', '', '', '', '', '');
-insert into mhp_drama_script values (1007414074, 1007414, 103, '你用這條封魔帶來保濕吧。', '1007414180', '0', '', '', '', '', '');
+insert into mhp_drama_script values (1007414072, 1007414, 103, '我開「金色天露」給妳。', '1007414075', '0', '', '', '', '', '');
+insert into mhp_drama_script values (1007414073, 1007414, 103, '妳用這個聖杯來漱口吧。', '1007414128', '0', '', '', '', '', '');
+insert into mhp_drama_script values (1007414074, 1007414, 103, '妳用這條封魔帶來保濕吧。', '1007414180', '0', '', '', '', '', '');
 insert into mhp_drama_script values (1007414075, 1007414, 3, '117531', 'mhp_sit_out', '0', 'mhp_idle_normal', '1', '0.2', '0', '');
 insert into mhp_drama_script values (1007414076, 1007414, 93, '0.6', '0', '', '', '', '', '', '');
 insert into mhp_drama_script values (1007414077, 1007414, 3, '100931', 'mhp_sit_out', '0', 'mhp_idle_normal', '1', '0.2', '0', '');
@@ -2517,7 +2517,7 @@ insert into mhp_drama_script values (1007416036, 1007416, 91, '0', '', '', '', '
 insert into mhp_drama_script values (1007416037, 1007416, 3, '103111', 'mhp_idle_sad', '1', '', '', '0.2', '', '');
 insert into mhp_drama_script values (1007416038, 1007416, 3, '31', 'mhp_skull_talk', '1', '', '', '0.2', '', '');
 insert into mhp_drama_script values (1007416039, 1007416, 21, 'vo_mhp_1007416', 'vo_mhp_6004', '0', '0', '', '', '', '');
-insert into mhp_drama_script values (1007416040, 1007416, 11, '31', '你看！她果然是符合本大爺\\n喜好的超級美女！呼～這種成熟得\\n恰到好處的感覺真讓人受不了！', '7', '1', '0', '0', '0', '1');
+insert into mhp_drama_script values (1007416040, 1007416, 11, '31', '妳看！她果然是符合本大爺\\n喜好的超級美女！呼～這種成熟得\\n恰到好處的感覺真讓人受不了！', '7', '1', '0', '0', '0', '1');
 insert into mhp_drama_script values (1007416041, 1007416, 93, '3', '1', '', '', '', '', '', '');
 insert into mhp_drama_script values (1007416042, 1007416, 3, '31', 'mhp_skull_excite_in', '0', 'mhp_skull_excite_loop', '1', '0.2', '0', '');
 insert into mhp_drama_script values (1007416043, 1007416, 91, '1007416040', '', '', '', '', '', '', '');
