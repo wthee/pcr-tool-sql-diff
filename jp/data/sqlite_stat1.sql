@@ -454,7 +454,7 @@ insert into sqlite_stat1 values ('wac_mural_data', 'sqlite_autoindex_wac_mural_d
 insert into sqlite_stat1 values ('arena_defence_reward', None, '1');
 insert into sqlite_stat1 values ('love_chara', None, '12');
 insert into sqlite_stat1 values ('mhp_drama_script', 'mhp_drama_script_0_drama_id', '2814 83');
-insert into sqlite_stat1 values ('birthday_login_bonus_drama_script', 'birthday_login_bonus_drama_script_0_drama_id', '452 57');
+insert into sqlite_stat1 values ('birthday_login_bonus_drama_script', 'birthday_login_bonus_drama_script_0_drama_id', '510 57');
 insert into sqlite_stat1 values ('promotion_bonus', 'promotion_bonus_0_unit_id', '366 2');
 insert into sqlite_stat1 values ('promotion_bonus', 'sqlite_autoindex_promotion_bonus_1', '366 2 1');
 insert into sqlite_stat1 values ('spskill_lv_initialize_data', None, '7');
