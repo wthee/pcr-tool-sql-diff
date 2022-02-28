@@ -97,6 +97,7 @@ insert into tips values (4116901, 116901, 1, '得意分野');
 insert into tips values (4117501, 117501, 1, 'チクッと');
 insert into tips values (4117601, 117601, 1, 'ボクと癒やしタイム');
 insert into tips values (4117701, 118001, 1, '第一の忠臣！');
+insert into tips values (4118101, 118101, 1, '時間切れ');
 insert into tips values (4118501, 118501, 1, '素敵な仲間');
 insert into tips values (4119001, 119001, 1, '闇の授業');
 insert into tips values (4119101, 119101, 1, '高まる');

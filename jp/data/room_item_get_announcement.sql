@@ -9,3 +9,4 @@ insert into room_item_get_announcement values (7, 2809, '2021/05/31 12:00', '203
 insert into room_item_get_announcement values (8, 2814, '2021/07/31 12:00', '2030/12/31 23:59:59', '2021/07/31 12:00');
 insert into room_item_get_announcement values (9, 2804, '2022/01/18 12:00', '2030/12/31 23:59:59', '2022/01/18 12:00');
 insert into room_item_get_announcement values (10, 2816, '2022/02/15 05:00', '2030/12/31 23:59:59', '');
+insert into room_item_get_announcement values (11, 2818, '2022/02/28 12:00', '2030/12/31 23:59:59', '');

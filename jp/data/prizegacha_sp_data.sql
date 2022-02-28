@@ -1,1 +1,11 @@
 CREATE TABLE 'prizegacha_sp_data' ('gacha_id' INTEGER NOT NULL, 'rarity' INTEGER NOT NULL, 'disp_rarity' INTEGER NOT NULL, PRIMARY KEY('gacha_id','rarity'));
+insert into prizegacha_sp_data values (50183, 1, 101);
+insert into prizegacha_sp_data values (50183, 2, 102);
+insert into prizegacha_sp_data values (50183, 3, 103);
+insert into prizegacha_sp_data values (50183, 4, 104);
+insert into prizegacha_sp_data values (50183, 5, 1);
+insert into prizegacha_sp_data values (50183, 6, 2);
+insert into prizegacha_sp_data values (50183, 7, 3);
+insert into prizegacha_sp_data values (50183, 8, 4);
+insert into prizegacha_sp_data values (50183, 9, 5);
+insert into prizegacha_sp_data values (50183, 10, 6);
