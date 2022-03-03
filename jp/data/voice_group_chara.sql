@@ -18,7 +18,7 @@ insert into voice_group_chara values (101601001, 'ルーセント学院（スズ
 insert into voice_group_chara values (101701001, 'カォン（カオリ）', 101701, 110501, 117701, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (101801001, 'ルーセント学院（イオ）', 101801, 110101, 119001, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (102001001, 'リトルリリカル（ミミ）', 102001, 111301, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (102101001, 'サレンディア救護院（クルミ）', 102101, 108501, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (102101001, 'サレンディア救護院（クルミ）', 102101, 108501, 121301, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (102201001, 'ディアボロス（ヨリ）', 102201, 113801, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (102301001, 'サレンディア救護院（アヤネ）', 102301, 108601, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (102501001, 'サレンディア救護院（スズメ）', 102501, 107701, 112101, 0, 0, 0, 0, 0, 0, 0);
@@ -236,6 +236,7 @@ insert into voice_group_chara values (320901001, 'イリヤ（ニューイヤー
 insert into voice_group_chara values (321001001, 'ペコリーヌ（オーバーロード）（カリン掛け合い用）', 121001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (321101001, 'キャル（オーバーロード）（カリン掛け合い用）', 121101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (321201001, 'ラビリスタ（オーバーロード）（カリン掛け合い用）', 121201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (321301001, 'クルミ（ステージ）（カリン掛け合い用）', 121301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380101001, 'ヒヨリ（プリンセス）（カリン掛け合い用）', 180101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380201001, 'ユイ（プリンセス）（カリン掛け合い用）', 180201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380301001, 'レイ（プリンセス）（カリン掛け合い用）', 180301, 0, 0, 0, 0, 0, 0, 0, 0, 0);

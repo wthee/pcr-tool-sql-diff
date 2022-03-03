@@ -174,6 +174,7 @@ insert into unit_background values (120901, 'イリヤ（ニューイヤー）',
 insert into unit_background values (121001, 'ぺコリーヌ（オーバーロード）', 500361, '美食殿 ギルドハウス', 0.0, 3);
 insert into unit_background values (121101, 'キャル（オーバーロード）', 500361, '美食殿 ギルドハウス', 0.0, 2);
 insert into unit_background values (121201, 'ラビリスタ（オーバーロード）', 500341, 'ラビリンスギルド拠点', 0.0, 3);
+insert into unit_background values (121301, 'クルミ（ステージ）', 501510, '牧場_温泉施設_舞台', 0.0, 2);
 insert into unit_background values (180101, 'ヒヨリ（プリンセス）', 500130, 'エステレラ街道', 0.0, 2);
 insert into unit_background values (180201, 'ユイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 4);
 insert into unit_background values (180301, 'レイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 3);
