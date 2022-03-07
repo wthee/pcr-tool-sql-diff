@@ -97,6 +97,7 @@ insert into tips values (4117501, 117501, 1, '隱隱作痛');
 insert into tips values (4117601, 117601, 1, '與我渡過療育時光');
 insert into tips values (4117701, 118001, 1, '第一忠臣！');
 insert into tips values (4118501, 118501, 1, '美好的夥伴');
+insert into tips values (4119001, 119001, 1, '黑暗的課堂');
 insert into tips values (4180101, 180101, 1, '猜拳時間！');
 insert into tips values (4180201, 180201, 1, '肚子咕咕叫');
 insert into tips values (4180301, 180301, 1, '守護之力');
