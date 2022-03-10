@@ -451,6 +451,10 @@ insert into chara_story_status values (1053005, '莫妮卡のエピソード第5
 insert into chara_story_status values (1053006, '莫妮卡のエピソード第6話', 2, 40, 6, 10, 0, 0, 0, 0, 0, 0, 1053, 1142, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1053007, '莫妮卡のエピソード第7話', 2, 40, 6, 10, 0, 0, 0, 0, 0, 0, 1053, 1142, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1053008, '莫妮卡のエピソード第8話', 2, 85, 6, 15, 0, 0, 0, 0, 0, 0, 1053, 1142, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1053009, '莫妮卡のエピソード第9話', 2, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1053, 1142, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1053010, '莫妮卡のエピソード第10話', 2, 80, 6, 40, 0, 0, 0, 0, 0, 0, 1053, 1142, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1053011, '莫妮卡のエピソード第11話', 2, 80, 6, 40, 0, 0, 0, 0, 0, 0, 1053, 1142, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1053012, '莫妮卡のエピソード第12話', 2, 200, 6, 60, 0, 0, 0, 0, 0, 0, 1053, 1142, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1054002, '紡希のエピソード第2話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1054, 1139, 1174, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1054003, '紡希のエピソード第3話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1054, 1139, 1174, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1054004, '紡希のエピソード第4話', 2, 30, 0, 0, 0, 0, 0, 0, 0, 0, 1054, 1139, 1174, 0, 0, 0, 0, 0, 0, 0);
@@ -526,6 +530,10 @@ insert into chara_story_status values (1063005, '亞里莎のエピソード第5
 insert into chara_story_status values (1063006, '亞里莎のエピソード第6話', 2, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1063, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1063007, '亞里莎のエピソード第7話', 2, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1063, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1063008, '亞里莎のエピソード第8話', 2, 90, 6, 10, 0, 0, 0, 0, 0, 0, 1063, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1063009, '亞里莎のエピソード第9話', 2, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1063, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1063010, '亞里莎のエピソード第10話', 2, 80, 6, 40, 0, 0, 0, 0, 0, 0, 1063, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1063011, '亞里莎のエピソード第11話', 2, 80, 6, 40, 0, 0, 0, 0, 0, 0, 1063, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1063012, '亞里莎のエピソード第12話', 2, 200, 6, 60, 0, 0, 0, 0, 0, 0, 1063, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1064002, '雪菲のエピソード第2話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1064, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1064003, '雪菲のエピソード第3話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1064, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1064004, '雪菲のエピソード第4話', 2, 30, 0, 0, 0, 0, 0, 0, 0, 0, 1064, 0, 0, 0, 0, 0, 0, 0, 0, 0);
