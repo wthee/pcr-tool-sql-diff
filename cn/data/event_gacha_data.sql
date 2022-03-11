@@ -34,4 +34,5 @@ insert into event_gacha_data values (10033, 10033, '魔法少女\u3000二人是M
 insert into event_gacha_data values (10034, 10034, '情人节之战！\u3000正中红心的甜蜜战斗', 2, 60332, 1, 5);
 insert into event_gacha_data values (10035, 10035, '星光公主\u3000Re:M@STER！', 2, 60342, 1, 5);
 insert into event_gacha_data values (10036, 10036, '星光公主\u3000Re:M@STER！', 2, 60342, 1, 5);
+insert into event_gacha_data values (10037, 10037, '王都的名侦探\u3000叹息的追缉者（STALKER）', 2, 60362, 1, 5);
 insert into event_gacha_data values (19003, 10003, '吸血鬼猎人with伊莉亚讨伐证交换', 2, 60022, 1, 5);

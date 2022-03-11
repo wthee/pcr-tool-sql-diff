@@ -5,3 +5,9 @@ insert into hatsune_quiz_condition values (3, 10012, 1001203, 10012109, 0, 0, 0,
 insert into hatsune_quiz_condition values (4, 10012, 1001204, 10012114, 1001201, 0, 0, 0);
 insert into hatsune_quiz_condition values (5, 10012, 1001204, 10012114, 1001202, 0, 0, 0);
 insert into hatsune_quiz_condition values (6, 10012, 1001204, 10012114, 1001203, 0, 0, 0);
+insert into hatsune_quiz_condition values (7, 10037, 1003701, 10037103, 0, 0, 0, 0);
+insert into hatsune_quiz_condition values (8, 10037, 1003702, 10037107, 0, 0, 0, 0);
+insert into hatsune_quiz_condition values (9, 10037, 1003703, 10037109, 0, 0, 0, 0);
+insert into hatsune_quiz_condition values (10, 10037, 1003704, 10037114, 1003701, 0, 0, 0);
+insert into hatsune_quiz_condition values (11, 10037, 1003704, 10037114, 1003702, 0, 0, 0);
+insert into hatsune_quiz_condition values (12, 10037, 1003704, 10037114, 1003703, 0, 0, 0);
