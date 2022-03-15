@@ -21,3 +21,4 @@ insert into tower_story_data values (7019, 7, 19, '軍人たちの合同任務',
 insert into tower_story_data values (7020, 7, 20, '笑いとたい焼きのから騒ぎ', 0, 1, '2021/09/16 12:00:00', '2030/04/24 14:59:59');
 insert into tower_story_data values (7021, 7, 21, '若き正義と大人の美学', 0, 1, '2021/11/17 12:00:00', '2030/04/24 14:59:59');
 insert into tower_story_data values (7022, 7, 22, '超能力×魔法＝超魔法少女', 0, 1, '2022/01/17 12:00:00', '2030/04/24 14:59:59');
+insert into tower_story_data values (7023, 7, 23, 'チアアップ・ヒーローズ！', 0, 1, '2022/03/17 12:00:00', '2030/04/24 14:59:59');

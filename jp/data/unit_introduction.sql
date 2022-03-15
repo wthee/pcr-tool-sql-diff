@@ -178,3 +178,4 @@ insert into unit_introduction values (176, 50183, 2, '2022/02/28 12:00:00', '202
 insert into unit_introduction values (177, 30184, 1, '2022/03/03 19:00:00', '2022/03/11 11:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (178, 30185, 1, '2022/03/08 12:00:00', '2022/03/11 11:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (179, 30186, 1, '2022/03/11 12:00:00', '2022/03/15 14:59:59', 380000, 380000, 0, 0, 0, 0);
+insert into unit_introduction values (180, 30187, 1, '2022/03/15 15:00:00', '2022/03/24 11:59:59', 380000, 380000, 0, 0, 0, 0);

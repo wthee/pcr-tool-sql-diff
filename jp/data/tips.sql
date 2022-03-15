@@ -102,6 +102,7 @@ insert into tips values (4118501, 118501, 1, '素敵な仲間');
 insert into tips values (4119001, 119001, 1, '闇の授業');
 insert into tips values (4119101, 119101, 1, '高まる');
 insert into tips values (4121301, 121301, 1, '開演直前');
+insert into tips values (4121401, 121401, 1, 'セクシーアピール');
 insert into tips values (4180101, 180101, 1, 'じゃんけんタイム！');
 insert into tips values (4180201, 180201, 1, 'ぺこぺこ');
 insert into tips values (4180301, 180301, 1, '守る力');

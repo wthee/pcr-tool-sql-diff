@@ -210,3 +210,9 @@ insert into music_content values (208, 'みんなが過ごす世界へ', '1:10',
 insert into music_content values (209, 'オーバーロードフォース', '2:08', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 02:08\\n作曲 / 伊禮完（Cygames）\\n編曲 / 伊禮完（Cygames）', 'bgm_M559', 'bgm_M559_juke');
 insert into music_content values (210, 'Asymmetric World', '1:35', '0:46', 'キャラクターソング\\n\\n時間 / 01:35\\n歌\u3000 / ペコリーヌ（M･A･O）\\n\u3000\u3000\u3000キャル（立花理香）\\n作詞 / 瀬名航\\n作曲 / 伊藤翼\\n編曲 / 伊藤翼', 'bgm_M572', 'bgm_M572');
 insert into music_content values (211, 'みんなの想い', '3:27', '0:00', 'ストーリーイベントミニコンテンツ\\n-｢Asymmetric World｣アレンジ-\\n\\n時間 / 03:27\\n作曲 / 伊藤翼\\n編曲 / 中川峻彰', 'bgm_M558', 'bgm_M558_juke');
+insert into music_content values (212, 'スイート・タイニー・ステージ！\u3000駆け出し女優とリトルレディ', '1:43', '0:00', 'ストーリーイベントテーマ\\n-｢ミュージカルが聴こえる？｣アレンジ-\\n\\n時間 / 01:43\\n作曲 / 北川勝利 (ROUND TABLE)\\n編曲 / 下智子', 'bgm_M565', 'bgm_M565_juke');
+insert into music_content values (213, '讐鼠・怒髪天のチュウジ', '1:47', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 01:47\\n作曲 / 畑田浩孝 (Cygames)\\n編曲 / 畑田浩孝 (Cygames)', 'bgm_M568', 'bgm_M568_juke');
+insert into music_content values (214, 'Happy Anniv. スペシャル ランドソルクイズコネクト！', '1:02', '0:00', 'ミニゲーム\\n-｢Mirage Game｣アレンジ-\\n\\n時間 / 01:02\\n作曲 / 田中公平\\n編曲 / 東大路憲太', 'bgm_M548', 'bgm_M548_Top_juke');
+insert into music_content values (215, 'シンキングタイム！', '1:49', '0:00', 'ミニゲーム\\n-｢Mirage Game｣アレンジ-\\n\\n時間 / 01:49\\n作曲 / 田中公平\\n編曲 / 中村博', 'bgm_M569', 'bgm_M569_juke');
+insert into music_content values (216, 'ミュージカルが聴こえる？', '1:27', '0:55', 'キャラクターソング\\n\\n時間 / 01:27\\n歌\u3000 / クルミ（植田佳奈）\\n作詞 / 藤村鼓乃美、北川勝利 (ROUND TABLE)\\n作曲 / 北川勝利 (ROUND TABLE)\\n編曲 / 北川勝利 (ROUND TABLE)', 'bgm_M573', 'bgm_M573');
+insert into music_content values (217, 'Crossing Truth', '1:33', '0:58', 'キャラクターソング\\n\\n時間 / 01:33\\n歌\u3000 / ペコリーヌ（Ｍ・Ａ・Ｏ）\\n\u3000\u3000\u3000コッコロ（伊藤美来）\\n\u3000\u3000\u3000キャル（立花理香）\\n\u3000\u3000\u3000シェフィ（近藤玲奈）\\n作詞 / 磯谷佳江\\n作曲 / 中土智博\\n編曲 / 中土智博', 'bgm_M581', 'bgm_M581');
