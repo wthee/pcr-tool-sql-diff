@@ -224,3 +224,6 @@ insert into experience_unit values (222, 9118730);
 insert into experience_unit values (223, 9223482);
 insert into experience_unit values (224, 9328834);
 insert into experience_unit values (225, 9434786);
+insert into experience_unit values (226, 9541338);
+insert into experience_unit values (227, 9648490);
+insert into experience_unit values (228, 9756242);

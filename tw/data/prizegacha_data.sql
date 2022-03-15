@@ -48,3 +48,4 @@ insert into prizegacha_data values (100046, 31081, 31083, 0, 0, 0, 0, 0, 0, 0, 0
 insert into prizegacha_data values (100047, 31106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10, 5, 1, 100000);
 insert into prizegacha_data values (100048, 31139, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10, 5, 1, 100000);
 insert into prizegacha_data values (100049, 31111, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10, 5, 1, 100000);
+insert into prizegacha_data values (100050, 31142, 31143, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10, 5, 1, 100000);

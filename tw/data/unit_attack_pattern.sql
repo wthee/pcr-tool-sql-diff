@@ -581,6 +581,7 @@ insert into unit_attack_pattern values (30330101, 303301, 2, 5, 1002, 1002, 1001
 insert into unit_attack_pattern values (30330201, 303302, 2, 5, 1002, 1002, 1001, 1002, 1001, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1);
 insert into unit_attack_pattern values (30330301, 303303, 1, 5, 1, 1001, 1002, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unit_attack_pattern values (30330302, 303303, 1, 5, 1001, 1, 1002, 1, 1002, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into unit_attack_pattern values (30330401, 303304, 2, 7, 1, 1001, 1, 1001, 1001, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1);
 insert into unit_attack_pattern values (30340001, 303400, 1, 6, 1, 1001, 1, 1, 1001, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1);
 insert into unit_attack_pattern values (30340101, 303401, 2, 6, 1, 1001, 1, 1, 1001, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1);
 insert into unit_attack_pattern values (30340102, 303401, 3, 7, 1001, 1002, 1, 1, 1001, 1002, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1);
