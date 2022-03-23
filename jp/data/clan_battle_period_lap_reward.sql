@@ -305,3 +305,8 @@ insert into clan_battle_period_lap_reward values (303, 1048, 1, 2, 2, 0, 12, 940
 insert into clan_battle_period_lap_reward values (304, 1048, 1, 3, 3, 0, 12, 94002, 500000, 2, 22002, 40, 2, 22003, 8, 0, 0, 0, 0, 0, 0);
 insert into clan_battle_period_lap_reward values (305, 1048, 1, 4, 4, 0, 12, 94002, 750000, 2, 22002, 60, 2, 22003, 12, 0, 0, 0, 0, 0, 0);
 insert into clan_battle_period_lap_reward values (306, 1048, 1, 5, -1, 0, 12, 94002, 1000000, 2, 22002, 80, 2, 22003, 16, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_lap_reward values (307, 1049, 1, 1, 1, 0, 12, 94002, 10000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_lap_reward values (308, 1049, 1, 2, 2, 0, 12, 94002, 250000, 2, 22002, 20, 2, 22003, 4, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_lap_reward values (309, 1049, 1, 3, 3, 0, 12, 94002, 500000, 2, 22002, 40, 2, 22003, 8, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_lap_reward values (310, 1049, 1, 4, 4, 0, 12, 94002, 750000, 2, 22002, 60, 2, 22003, 12, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_lap_reward values (311, 1049, 1, 5, -1, 0, 12, 94002, 1000000, 2, 22002, 80, 2, 22003, 16, 0, 0, 0, 0, 0, 0);

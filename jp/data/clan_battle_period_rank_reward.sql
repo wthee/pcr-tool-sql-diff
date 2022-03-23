@@ -511,3 +511,14 @@ insert into clan_battle_period_rank_reward values (513, 1048, 1, 7001, 10000, 0,
 insert into clan_battle_period_rank_reward values (514, 1048, 1, 10001, 15000, 0, 8, 91002, 1000, 2, 90006, 1000, 2, 31018, 8, 0, 0, 0, 0, 0, 0);
 insert into clan_battle_period_rank_reward values (515, 1048, 1, 15001, 20000, 0, 8, 91002, 750, 2, 90006, 750, 2, 31018, 7, 0, 0, 0, 0, 0, 0);
 insert into clan_battle_period_rank_reward values (516, 1048, 1, 20001, -1, 0, 8, 91002, 500, 2, 90006, 500, 2, 31018, 5, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_rank_reward values (517, 1049, 1, 1, 100, 0, 8, 91002, 5000, 2, 90006, 5000, 2, 31145, 30, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_rank_reward values (518, 1049, 1, 101, 300, 0, 8, 91002, 4500, 2, 90006, 4500, 2, 31145, 25, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_rank_reward values (519, 1049, 1, 301, 500, 0, 8, 91002, 4000, 2, 90006, 4000, 2, 31145, 20, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_rank_reward values (520, 1049, 1, 501, 1000, 0, 8, 91002, 3500, 2, 90006, 3500, 2, 31145, 18, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_rank_reward values (521, 1049, 1, 1001, 2000, 0, 8, 91002, 3000, 2, 90006, 3000, 2, 31145, 16, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_rank_reward values (522, 1049, 1, 2001, 4500, 0, 8, 91002, 2500, 2, 90006, 2500, 2, 31145, 14, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_rank_reward values (523, 1049, 1, 4501, 7000, 0, 8, 91002, 2000, 2, 90006, 2000, 2, 31145, 12, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_rank_reward values (524, 1049, 1, 7001, 10000, 0, 8, 91002, 1500, 2, 90006, 1500, 2, 31145, 10, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_rank_reward values (525, 1049, 1, 10001, 15000, 0, 8, 91002, 1000, 2, 90006, 1000, 2, 31145, 8, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_rank_reward values (526, 1049, 1, 15001, 20000, 0, 8, 91002, 750, 2, 90006, 750, 2, 31145, 7, 0, 0, 0, 0, 0, 0);
+insert into clan_battle_period_rank_reward values (527, 1049, 1, 20001, -1, 0, 8, 91002, 500, 2, 90006, 500, 2, 31145, 5, 0, 0, 0, 0, 0, 0);
