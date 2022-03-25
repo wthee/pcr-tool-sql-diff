@@ -45,3 +45,6 @@ insert into shiori_quest_area values (20019201, 20019, '艾爾皮斯島 開墾�
 insert into shiori_quest_area values (20020101, 20020, '王都蘭德索爾 郊外', 201, 'bgm_M281', 'bgm_M281', 1, 1, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20020102, 20020, '王都蘭德索爾 中央廣場', 201, 'bgm_M281', 'bgm_M281', 1, 2, 0, 0, 0, '0', '0', 11);
 insert into shiori_quest_area values (20020201, 20020, '王都蘭德索爾 中央廣場', 201, 'bgm_M281', 'bgm_M281', 1, 1, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20021101, 20021, '公會競速賽\u30001區→2區', 201, 'bgm_M294', 'bgm_M294', 1, 1, 30, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20021102, 20021, '公會競速賽\u30003區→4區', 201, 'bgm_M294', 'bgm_M294', 1, 2, 30, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20021201, 20021, '公會競速賽\u30003區→4區', 201, 'bgm_M294', 'bgm_M294', 1, 1, 0, 0, 0, '0', '0', 0);
