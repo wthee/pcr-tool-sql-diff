@@ -1,0 +1,1 @@
+CREATE INDEX 'arcade_description_0_arcade_id' on 'arcade_description'('arcade_id')

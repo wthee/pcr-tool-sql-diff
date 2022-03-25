@@ -119,7 +119,7 @@ insert into music_content values (117, '枝葉流光下的蒙太奇', '1:32', '0
 insert into music_content values (118, '目標成為偶像！', '0:51', '0:00', '故事劇情主題曲\\n\\n時間 / 00:51\\n作曲 / 中村早織(Cygames)\\n編曲 / 中村早織(Cygames)', 'bgm_M330', 'bgm_M330_juke');
 insert into music_content values (119, '回憶的足跡', '1:34', '0:00', '回憶地圖\\n\\n時間 / 01:34\\n作曲 / 東大路憲太\\n編曲 / 東大路憲太', 'bgm_M333', 'bgm_M333_juke');
 insert into music_content values (120, '公主騎士', '2:24', '0:00', '主線劇情\\n\\n時間 / 02:24\\n作曲 / 西木康智\\n編曲 / 西木康智', 'bgm_M57', 'bgm_M57_juke');
-insert into music_content values (121, '恩賜的財團與神聖學院的問題兒童', '1:58', '0:00', '故事劇情主題曲\\n-｢青春翻轉家｣アレンジ-\\n\\n時間 / 01:07\\n作曲 / 睦月周平\\n編曲 / 澤下葵', 'bgm_M343', 'bgm_M343_juke');
+insert into music_content values (121, '恩賜的財團與神聖學院的問題兒童', '1:07', '0:00', '故事劇情主題曲\\n-｢青春翻轉家｣アレンジ-\\n\\n時間 / 01:07\\n作曲 / 睦月周平\\n編曲 / 澤下葵', 'bgm_M343', 'bgm_M343_juke');
 insert into music_content values (122, '好朋友X', '2:43', '0:00', '故事劇情BOSS戰\\n\\n時間 / 02:43\\n作曲 / 加藤慶久（Cygames）\\n編曲 / 加藤慶久（Cygames）', 'bgm_M346', 'bgm_M346_juke');
 insert into music_content values (123, '青春翻轉家', '1:20', '0:51', '角色歌曲\\n\\n時間 / 01:20\\n演唱\u3000 / 琪愛兒（佐倉綾音）\\n\u3000\u3000\u3000克蘿依（種﨑敦美）\\n\u3000\u3000\u3000優妮（小原好美）\\n作詞 / ミズノゲンキ\\n作曲 / 睦月周平\\n編曲 / 睦月周平', 'bgm_M359', 'bgm_M359');
 insert into music_content values (124, '密林暗處潛伏者', '2:00', '0:00', '主線冒險\\n\\n時間 / 02:00\\n作曲 / 加藤慶久（Cygames）\\n編曲 / 加藤慶久（Cygames）', 'bgm_M339', 'bgm_M339_juke');
@@ -198,3 +198,10 @@ insert into music_content values (196, 'Halloween Monster Jam ！！！', '1:34'
 insert into music_content values (197, '魔法少女外傳\u3000黑暗魔法★三人組！', '0:58', '0:00', '故事劇情主題曲\\n-｢GREEDY LOVE｣編曲-\\n\\n時間 / 00:58\\n作曲 / 設楽哲也\\n編曲 / 長谷部翔（Cygames）', 'bgm_M527', 'bgm_M527_juke');
 insert into music_content values (198, '反逆獸‧三重', '2:24', '0:00', '故事劇情頭目戰\\n\\n時間 / 02:24\\n作曲 / 中村博\\n編曲 / 中村博', 'bgm_M529', 'bgm_M529_juke');
 insert into music_content values (199, 'GREEDY LOVE', '1:36', '1:05', '角色歌曲\\n\\n時間 / 01:36\\n歌\u3000 / 伊緒（伊藤静）\\n\u3000\u3000\u3000靜流（生天目仁美）\\n\u3000\u3000\u3000空花（長妻樹里）\\n作詞 / ミズノゲンキ\\n作曲 / 設楽哲也\\n編曲 / 設楽哲也', 'bgm_M535', 'bgm_M535');
+insert into music_content values (200, '聖誕布丁快樂！\u3000飛舞的少女與飽含真心的點心', '1:13', '0:00', '故事劇情主題曲\\n-｢布丁‧聖‧代‧聖誕節來的！｣編曲-\\n\\n時間 / 01:13\\n作曲 / 坪田修平（TRYTONELABO）\\n編曲 / 中村早織（Cygames）', 'bgm_M536', 'bgm_M536_juke');
+insert into music_content values (201, '孤伶伶的聖誕夜妖精', '1:56', '0:00', '故事劇情Boss戰\\n\\n時間 / 01:56\\n作曲 / 長谷部翔（Cygames）\\n編曲 / 長谷部翔（Cygames）', 'bgm_M539', 'bgm_M539_juke');
+insert into music_content values (202, '宮子廚房\u3000通往究極之路', '2:05', '0:00', '小遊戲\\n-｢布丁‧聖‧代‧聖誕節來的！｣編曲-\\n\\n時間 / 02:05\\n作曲 / 坪田修平（TRYTONELABO）\\n編曲 / 關根修平（Cygames）', 'bgm_M540', 'bgm_M540_juke');
+insert into music_content values (203, '布丁‧聖‧代‧聖誕節來的！', '1:37', '0:57', '角色歌曲\\n\\n時間 / 01:37\\n演唱 / 宮子（雨宮天）\\n作詞 / 山本真央樹（TRYTONELABO）\\n作曲 / 坪田修平（TRYTONELABO）\\n編曲 / 坪田修平（TRYTONELABO）', 'bgm_M550', 'bgm_M550');
+insert into music_content values (204, '新春美食回憶\u3000雪菲的跑腿大作戰！', '1:04', '0:00', '故事劇情主題曲\\n-「Ice Wings」編曲-\\n\\n時間 / 01:04\\n作曲 /AJURIKA\\n編曲 / 畑田浩孝（Cygames）', 'bgm_M543', 'bgm_M543_juke');
+insert into music_content values (205, '邪牛神哞猛', '1:59', '0:00', '故事劇情Boss戰\\n\\n時間 / 01:59\\n作曲 / 塚越廉\\n編曲 / 塚越廉', 'bgm_M546', 'bgm_M546_juke');
+insert into music_content values (206, 'Ice Wings', '1:36', '1:05', '角色歌曲\\n\\n時間 / 01:36\\n歌\u3000 / 雪菲（近藤玲奈）\\n作詞 / AJURIKA\\n作曲 / AJURIKA\\n編曲 / AJURIKA', 'bgm_M551', 'bgm_M551');
