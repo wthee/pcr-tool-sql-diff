@@ -10,7 +10,7 @@ insert into nyx_story_data values (24, 8, 2, '记录负责人\u3000由加莉', '
 insert into nyx_story_data values (25, 9, 2, '记录负责人\u3000美冬', '不能防着不管', '0', 10038114, 0, 0, 0);
 insert into nyx_story_data values (26, 10, 2, '总结', '特别讲座结束', '0', 10038115, 0, 0, 0);
 insert into nyx_story_data values (31, 11, 3, '', '', '0', 10038115, 1, 2, 5038602);
-insert into nyx_story_data values (32, 12, 3, '浪漫继承计划', '开发记 - 考察', '0', 10038115, 1, 0, 0);
-insert into nyx_story_data values (33, 13, 3, '未全充溢计划', '开发记 - 试作机完成', '0', 10038115, 2, 0, 0);
-insert into nyx_story_data values (34, 14, 3, '画龙点睛计划', '开发记 - 最终工程', '0', 10038115, 3, 0, 0);
+insert into nyx_story_data values (32, 12, 3, '浪漫继承计划', '开发记录 - 考察', '0', 10038115, 1, 0, 0);
+insert into nyx_story_data values (33, 13, 3, '未全充溢计划', '开发记录 - 试作机完成', '0', 10038115, 2, 0, 0);
+insert into nyx_story_data values (34, 14, 3, '画龙点睛计划', '开发记录 - 最终工程', '0', 10038115, 3, 0, 0);
 insert into nyx_story_data values (35, 15, 3, '', '', '2022/04/14 23:59:59', 10038115, 3, 3, 5038603);

@@ -11,7 +11,7 @@ insert into event_story_data values (5009, 5, 10030, '忘却的圣歌', 0, 1, '2
 insert into event_story_data values (5010, 5, 10032, '新春破晓之星大危机', 0, 1, '2021/01/14 15:00:00', '2099/12/31 23:59:59');
 insert into event_story_data values (5011, 5, 10034, '情人节之战！正中红心的甜蜜战斗', 0, 1, '2022/02/10 15:00:00', '2099/12/31 23:59:59');
 insert into event_story_data values (5012, 5, 10037, '王都的名侦探\u3000叹息的追踪者（STALKER）', 0, 1, '2021/03/11 15:00:00', '2099/12/31 23:59:59');
-insert into event_story_data values (5013, 5, 10013, '盛开在阿斯特莱亚的双轮之花', 0, 1, '2021/05/13 15:00:00', '2099/12/31 23:59:59');
+insert into event_story_data values (5013, 5, 10039, '盛开在阿斯特莱亚的双轮之花', 0, 1, '2021/05/13 15:00:00', '2099/12/31 23:59:59');
 insert into event_story_data values (5015, 5, 10015, '将军道中记\u3000白翼的武士', 0, 1, '2021/06/07 15:00:00', '2099/12/31 23:59:59');
 insert into event_story_data values (5017, 5, 10017, 'Re: 从零开始收集的异世界餐桌', 0, 1, '2021/04/14 15:00:00', '2099/12/31 23:59:59');
 insert into event_story_data values (5019, 5, 10019, '铃奈的RAINBOW STAGE！', 0, 1, '2021/07/09 15:00:00', '2099/12/31 23:59:59');
