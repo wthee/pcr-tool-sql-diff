@@ -325,3 +325,17 @@ insert into gacha_exchange_lineup values (323, 186, 116001, 3, 0, '2022/03/11 12
 insert into gacha_exchange_lineup values (324, 187, 121401, 3, 1074, '2022/03/15 15:00:00', '2022/03/24 11:59:59');
 insert into gacha_exchange_lineup values (325, 188, 117201, 3, 0, '2022/03/24 12:00:00', '2022/03/28 11:59:59');
 insert into gacha_exchange_lineup values (326, 189, 109101, 3, 0, '2022/03/28 12:00:00', '2022/03/31 11:59:59');
+insert into gacha_exchange_lineup values (327, 190, 180401, 3, 1075, '2022/03/31 12:00:00', '2022/04/03 18:59:59');
+insert into gacha_exchange_lineup values (328, 190, 180201, 3, 1075, '2022/03/31 12:00:00', '2022/04/03 18:59:59');
+insert into gacha_exchange_lineup values (329, 190, 118101, 3, 0, '2022/03/31 12:00:00', '2022/04/03 18:59:59');
+insert into gacha_exchange_lineup values (330, 190, 180801, 3, 0, '2022/03/31 12:00:00', '2022/04/03 18:59:59');
+insert into gacha_exchange_lineup values (331, 190, 106701, 3, 0, '2022/03/31 12:00:00', '2022/04/03 18:59:59');
+insert into gacha_exchange_lineup values (332, 190, 180701, 3, 0, '2022/03/31 12:00:00', '2022/04/03 18:59:59');
+insert into gacha_exchange_lineup values (333, 190, 180301, 3, 0, '2022/03/31 12:00:00', '2022/04/03 18:59:59');
+insert into gacha_exchange_lineup values (334, 190, 180601, 3, 0, '2022/03/31 12:00:00', '2022/04/03 18:59:59');
+insert into gacha_exchange_lineup values (335, 190, 180101, 3, 0, '2022/03/31 12:00:00', '2022/04/03 18:59:59');
+insert into gacha_exchange_lineup values (336, 190, 106801, 3, 0, '2022/03/31 12:00:00', '2022/04/03 18:59:59');
+insert into gacha_exchange_lineup values (337, 190, 180501, 3, 0, '2022/03/31 12:00:00', '2022/04/03 18:59:59');
+insert into gacha_exchange_lineup values (338, 190, 107001, 3, 0, '2022/03/31 12:00:00', '2022/04/03 18:59:59');
+insert into gacha_exchange_lineup values (339, 190, 106101, 3, 0, '2022/03/31 12:00:00', '2022/04/03 18:59:59');
+insert into gacha_exchange_lineup values (340, 190, 107101, 3, 0, '2022/03/31 12:00:00', '2022/04/03 18:59:59');

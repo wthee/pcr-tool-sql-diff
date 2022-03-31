@@ -12,3 +12,4 @@ insert into return_specialfes_banner values (50151, 10002, 10003, 10005, 10006, 
 insert into return_specialfes_banner values (50162, 10009, 10010, 10011, 10012, 10013, 0, 0, 0, 0, 0);
 insert into return_specialfes_banner values (50172, 10010, 10011, 10012, 10013, 10014, 0, 0, 0, 0, 0);
 insert into return_specialfes_banner values (50183, 10011, 10012, 10013, 10014, 10015, 0, 0, 0, 0, 0);
+insert into return_specialfes_banner values (50190, 10013, 10014, 10015, 10007, 10005, 0, 0, 0, 0, 0);
