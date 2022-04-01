@@ -359,6 +359,7 @@ insert into sqlite_stat1 values ('hatsune_mission_reward_data', 'hatsune_mission
 insert into sqlite_stat1 values ('unit_enemy_data', None, '1153');
 insert into sqlite_stat1 values ('special_story_banner', 'special_story_banner_0_story_group_id', '2 1');
 insert into sqlite_stat1 values ('visual_customize', None, '21');
+insert into sqlite_stat1 values ('apa_schedule', None, '1');
 insert into sqlite_stat1 values ('experience_team', None, '230');
 insert into sqlite_stat1 values ('ttk_navi_comment', None, '13');
 insert into sqlite_stat1 values ('kmk_navi_comment', None, '11');
