@@ -426,6 +426,10 @@ insert into chara_story_status values (1050005, '美咲のエピソード第5話
 insert into chara_story_status values (1050006, '美咲のエピソード第6話', 4, 40, 7, 10, 0, 0, 0, 0, 0, 0, 1050, 1083, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1050007, '美咲のエピソード第7話', 4, 40, 7, 10, 0, 0, 0, 0, 0, 0, 1050, 1083, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1050008, '美咲のエピソード第8話', 4, 60, 7, 15, 11, 60, 0, 0, 0, 0, 1050, 1083, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1050009, '美咲のエピソード第9話', 4, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1050, 1083, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1050010, '美咲のエピソード第10話', 4, 80, 7, 20, 0, 0, 0, 0, 0, 0, 1050, 1083, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1050011, '美咲のエピソード第11話', 4, 80, 7, 20, 0, 0, 0, 0, 0, 0, 1050, 1083, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1050012, '美咲のエピソード第12話', 4, 200, 7, 30, 0, 0, 0, 0, 0, 0, 1050, 1083, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1051002, '深月のエピソード第2話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1051, 1175, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1051003, '深月のエピソード第3話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1051, 1175, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1051004, '深月のエピソード第4話', 2, 30, 0, 0, 0, 0, 0, 0, 0, 0, 1051, 1175, 0, 0, 0, 0, 0, 0, 0, 0);

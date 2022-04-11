@@ -155,3 +155,4 @@ insert into unit_introduction values (158, 30164, 1, '2022/03/15 16:00:00', '202
 insert into unit_introduction values (159, 30166, 1, '2022/03/20 16:00:00', '2022/03/28 15:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (160, 30167, 1, '2022/03/28 16:00:00', '2022/04/03 15:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (161, 30168, 1, '2022/04/03 16:00:00', '2022/04/11 15:59:59', 380000, 380000, 0, 0, 0, 0);
+insert into unit_introduction values (162, 30169, 1, '2022/04/11 16:00:00', '2022/04/18 15:59:59', 380000, 380000, 0, 0, 0, 0);
