@@ -760,3 +760,5 @@ insert into campaign_schedule values (758, 42, 2000.0, 102, 40, '2022/04/06 05:0
 insert into campaign_schedule values (759, 39, 2000.0, 111, 30, '2022/04/11 05:00:00', '2022/04/15 04:59:59', 0, 0, 0);
 insert into campaign_schedule values (760, 49, 2000.0, 111, 40, '2022/04/11 05:00:00', '2022/04/15 04:59:59', 0, 0, 0);
 insert into campaign_schedule values (761, 45, 2000.0, 104, 40, '2022/04/12 05:00:00', '2022/04/28 04:59:59', 0, 0, 0);
+insert into campaign_schedule values (762, 31, 3000.0, 101, 30, '2022/04/15 05:00:00', '2022/04/20 04:59:59', 0, 0, 0);
+insert into campaign_schedule values (763, 41, 2000.0, 101, 40, '2022/04/15 05:00:00', '2022/04/20 04:59:59', 0, 0, 0);
