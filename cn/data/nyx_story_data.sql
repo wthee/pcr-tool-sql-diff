@@ -7,7 +7,7 @@ insert into nyx_story_data values (21, 5, 2, '', '', '0', 10038111, 0, 2, 503860
 insert into nyx_story_data values (22, 6, 2, '记录负责人\u3000秋乃', '我想到了！', '0', 10038111, 0, 0, 0);
 insert into nyx_story_data values (23, 7, 2, '记录负责人\u3000珠希', '组装喵！', '0', 10038112, 0, 0, 0);
 insert into nyx_story_data values (24, 8, 2, '记录负责人\u3000由加莉', '我写过这个吗？', '0', 10038113, 0, 0, 0);
-insert into nyx_story_data values (25, 9, 2, '记录负责人\u3000美冬', '不能防着不管', '0', 10038114, 0, 0, 0);
+insert into nyx_story_data values (25, 9, 2, '记录负责人\u3000美冬', '不能放着不管', '0', 10038114, 0, 0, 0);
 insert into nyx_story_data values (26, 10, 2, '总结', '特别讲座结束', '0', 10038115, 0, 0, 0);
 insert into nyx_story_data values (31, 11, 3, '', '', '0', 10038115, 1, 2, 5038602);
 insert into nyx_story_data values (32, 12, 3, '浪漫继承计划', '开发记录 - 考察', '0', 10038115, 1, 0, 0);

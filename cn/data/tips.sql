@@ -74,3 +74,4 @@ insert into tips values (4112301, 112301, 1, '魔法少女？');
 insert into tips values (4170101, 170101, 1, '闪亮登场');
 insert into tips values (4170201, 170201, 1, '努力打年糕');
 insert into tips values (4180401, 180401, 1, '力量提升☆');
+insert into tips values (4180501, 180501, 1, '软乎乎');
