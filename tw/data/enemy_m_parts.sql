@@ -181,6 +181,12 @@ insert into enemy_m_parts values (610066301, '爆裂‧時間儀 VERY HARD', 610
 insert into enemy_m_parts values (610066401, '爆裂‧時間儀 SP1', 610066411, 610066412, 610066413, 610066414, 0);
 insert into enemy_m_parts values (610066402, '爆裂‧時間儀 SP2', 610066421, 610066422, 610066423, 610066424, 0);
 insert into enemy_m_parts values (610066403, '爆裂‧時間儀 SP3', 610066431, 610066432, 610066433, 610066434, 0);
+insert into enemy_m_parts values (610081101, '被操控的雪人 NORMAL', 610081102, 610081103, 0, 0, 0);
+insert into enemy_m_parts values (610081201, '被操控的雪人 HARD', 610081202, 610081203, 0, 0, 0);
+insert into enemy_m_parts values (610081301, '被操控的雪人 VERY HARD', 610081302, 610081303, 0, 0, 0);
+insert into enemy_m_parts values (610081401, '被操控的雪人 SP1', 610081412, 610081413, 0, 0, 0);
+insert into enemy_m_parts values (610081402, '被操控的雪人 SP2', 610081422, 610081423, 0, 0, 0);
+insert into enemy_m_parts values (610081403, '被操控的雪人 SP3', 610081432, 610081433, 0, 0, 0);
 insert into enemy_m_parts values (800100203, '機械莉瑪2020MODE3', 800100212, 800100213, 800100214, 0, 0);
 insert into enemy_m_parts values (801100213, '霸瞳僕役（複合）', 801100223, 801100233, 801100243, 0, 0);
 insert into enemy_m_parts values (802100210, '蘭法', 802100211, 802100212, 0, 0, 0);
