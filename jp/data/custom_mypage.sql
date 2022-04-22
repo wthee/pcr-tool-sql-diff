@@ -167,3 +167,4 @@ insert into custom_mypage values (9000165, 10006, 0, 'Menu8scene7', 0, 0);
 insert into custom_mypage values (9000166, 10006, 0, 'Menu8scene8', 0, 0);
 insert into custom_mypage values (9000167, 10006, 0, 'Menu8scene9', 0, 0);
 insert into custom_mypage values (9000168, 10006, 0, 'Menu8scene10', 0, 0);
+insert into custom_mypage values (9000170, 40001, 0, 'みんなでお花見', 0, 0);
