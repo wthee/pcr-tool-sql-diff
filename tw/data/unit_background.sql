@@ -164,6 +164,7 @@ insert into unit_background values (118501, '花凜', 500371, '蘭德索爾_公�
 insert into unit_background values (119001, '伊緒（黑暗）', 501450, '黑暗的據點', 0.0, 4);
 insert into unit_background values (119101, '空花（黑暗）', 501450, '黑暗的據點', 0.0, 4);
 insert into unit_background values (119201, '真陽（聖誕節）', 500863, '牧場_雪_白天', 0.0, 4);
+insert into unit_background values (119301, '璃乃（聖誕節）', 500036, '蘭德索爾_鬧區_聖誕節', 0.0, 4);
 insert into unit_background values (119901, '宮子（聖誕節）', 500038, '蘭德索爾_鬧區_聖誕節', 0.0, 4);
 insert into unit_background values (180101, '日和（公主）', 500130, '埃斯特雷拉街道', 0.0, 2);
 insert into unit_background values (180201, '優衣（公主）', 500130, '埃斯特雷拉街道', 0.0, 4);

@@ -1,7 +1,6 @@
 CREATE TABLE 'dear_setting' ('event_id' INTEGER NOT NULL, 'system_name' TEXT NOT NULL, 'tutorial_quest_id' INTEGER NOT NULL, 'tutorial_chara_index' INTEGER NOT NULL, 'tutorial_story_id' INTEGER NOT NULL, PRIMARY KEY('event_id'));
 insert into dear_setting values (10053, '信賴度', 10053102, 1, 6017101);
 insert into dear_setting values (10056, '信賴度', 10056103, 1, 6056101);
-insert into dear_setting values (10060, '信賴度', 10060103, 1, 6033201);
 insert into dear_setting values (10061, '信賴度', 10061106, 1, 6061101);
 insert into dear_setting values (10065, '信賴度', 10065103, 1, 6038101);
 insert into dear_setting values (10066, '信賴度', 10066108, 1, 6066101);
@@ -20,3 +19,4 @@ insert into dear_setting values (20017, '信賴度', 0, 1, 0);
 insert into dear_setting values (20018, '信賴度', 0, 1, 0);
 insert into dear_setting values (20019, '信賴度', 0, 1, 0);
 insert into dear_setting values (20020, '信賴度', 0, 1, 0);
+insert into dear_setting values (20022, '信賴度', 0, 1, 0);

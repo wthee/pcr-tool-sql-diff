@@ -142,6 +142,14 @@ insert into enemy_m_parts values (401411505, '人馬座 第5階段', 401411506, 
 insert into enemy_m_parts values (401411605, '人馬座 第1階段 單人模式', 401411606, 401411607, 0, 0, 0);
 insert into enemy_m_parts values (401411705, '人馬座 第2階段 單人模式', 401411706, 401411707, 0, 0, 0);
 insert into enemy_m_parts values (401411805, '人馬座 第3階段 單人模式', 401411806, 401411807, 0, 0, 0);
+insert into enemy_m_parts values (401412104, '黑曜飛龍 第1階段', 401412105, 401412106, 401412107, 0, 0);
+insert into enemy_m_parts values (401412204, '黑曜飛龍 第2階段', 401412205, 401412206, 401412207, 0, 0);
+insert into enemy_m_parts values (401412304, '黑曜飛龍 第3階段', 401412305, 401412306, 401412307, 0, 0);
+insert into enemy_m_parts values (401412404, '黑曜飛龍 第4階段', 401412405, 401412406, 401412407, 0, 0);
+insert into enemy_m_parts values (401412504, '黑曜飛龍 第5階段', 401412505, 401412506, 401412507, 0, 0);
+insert into enemy_m_parts values (401412604, '黑曜飛龍 第1階段 單人模式', 401412605, 401412606, 401412607, 0, 0);
+insert into enemy_m_parts values (401412704, '黑曜飛龍 第2階段 單人模式', 401412705, 401412706, 401412707, 0, 0);
+insert into enemy_m_parts values (401412804, '黑曜飛龍 第3階段 單人模式', 401412805, 401412806, 401412807, 0, 0);
 insert into enemy_m_parts values (501010601, '狂怒綠龍', 501010602, 501010603, 501010604, 0, 0);
 insert into enemy_m_parts values (501010701, '黑月守護像', 501010702, 501010703, 501010704, 0, 0);
 insert into enemy_m_parts values (501010705, '白陽守護像', 501010706, 501010707, 501010708, 0, 0);
