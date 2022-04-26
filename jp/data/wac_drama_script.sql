@@ -2835,11 +2835,11 @@ insert into wac_drama_script values (7413005, 7413, 32, '1', '0', '', '', '', ''
 insert into wac_drama_script values (7413006, 7413, 32, '2', '1', '', '', '', '', '', '');
 insert into wac_drama_script values (7413007, 7413, 32, '11', '0', '', '', '', '', '', '');
 insert into wac_drama_script values (7413008, 7413, 91, '0', '', '', '', '', '', '', '');
-insert into wac_drama_script values (7511001, 7511, 1, '1', '100311', '202', '220', '-212.75', '2', '0', 'wac_default_11');
-insert into wac_drama_script values (7511002, 7511, 5, '1', '111', '201', '220', '-212.75', '2', '0', 'wac_default_12');
-insert into wac_drama_script values (7511003, 7511, 31, '1', '1', '313', '0', '1', '1', '', '');
+insert into wac_drama_script values (7511001, 7511, 1, '1', '100311', '202', '-108', '-212.75', '2', '0', 'wac_default_11');
+insert into wac_drama_script values (7511002, 7511, 5, '1', '111', '201', '-108', '-212.75', '2', '0', 'wac_default_12');
+insert into wac_drama_script values (7511003, 7511, 31, '1', '1', '0', '0', '1', '1', '', '');
 insert into wac_drama_script values (7511004, 7511, 31, '10', '10', '0', '0', '1', '0', '', '');
-insert into wac_drama_script values (7511005, 7511, 31, '11', '11', '313', '0', '1', '0', '', '');
+insert into wac_drama_script values (7511005, 7511, 31, '11', '11', '0', '0', '1', '0', '', '');
 insert into wac_drama_script values (7511006, 7511, 31, '14', '14', '0', '0', '1', '0', '', '');
 insert into wac_drama_script values (7511007, 7511, 31, '18', '18', '0', '0', '1', '0', '', '');
 insert into wac_drama_script values (7511008, 7511, 3, '100311', 'wac_paint_11', '0', '', '0', '0.2', '', '');
