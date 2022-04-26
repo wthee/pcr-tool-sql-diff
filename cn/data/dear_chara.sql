@@ -20,3 +20,7 @@ insert into dear_chara values (10033, 2, '栞', 1000, 1, 112301, 0, 0, 0, 0, 0);
 insert into dear_chara values (10038, 1, '千爱瑠', 1000, 1, 110901, 0, 0, 0, 0, 0);
 insert into dear_chara values (10038, 2, '克罗依', 1000, 1, 110801, 0, 0, 0, 0, 0);
 insert into dear_chara values (10038, 3, '优妮', 1000, 1, 111001, 0, 0, 0, 0, 0);
+insert into dear_chara values (10040, 1, '真阳', 1000, 1, 103301, 0, 0, 0, 0, 0);
+insert into dear_chara values (10040, 2, '铃', 1000, 1, 102601, 0, 0, 0, 0, 0);
+insert into dear_chara values (10040, 3, '莉玛', 1000, 1, 105201, 0, 0, 0, 0, 0);
+insert into dear_chara values (10040, 4, '栞', 1000, 1, 103801, 0, 0, 0, 0, 0);

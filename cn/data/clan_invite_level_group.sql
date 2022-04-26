@@ -28,5 +28,5 @@ insert into clan_invite_level_group values (26, 136, 140);
 insert into clan_invite_level_group values (27, 141, 145);
 insert into clan_invite_level_group values (28, 146, 150);
 insert into clan_invite_level_group values (29, 151, 155);
-insert into clan_invite_level_group values (30, 156, 157);
-insert into clan_invite_level_group values (31, 158, -1);
+insert into clan_invite_level_group values (30, 156, 160);
+insert into clan_invite_level_group values (31, 161, -1);

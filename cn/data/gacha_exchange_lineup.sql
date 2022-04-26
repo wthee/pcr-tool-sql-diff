@@ -115,6 +115,9 @@ insert into gacha_exchange_lineup values (116, 73, 109201, 3, 0, '2022/4/20  18:
 insert into gacha_exchange_lineup values (117, 73, 109401, 3, 0, '2022/4/20  18:00:00', '2022/4/25 10:59:59');
 insert into gacha_exchange_lineup values (118, 74, 110901, 3, 1014, '2022/4/10  11:00:00', '2022/4/17 10:59:59');
 insert into gacha_exchange_lineup values (119, 75, 111101, 3, 0, '2022/4/25  11:00:00', '2022/4/30 10:59:59');
+insert into gacha_exchange_lineup values (120, 76, 112701, 3, 1015, '2022/4/30  11:00:00', '2022/5/10 10:59:59');
+insert into gacha_exchange_lineup values (121, 77, 109501, 3, 0, '2022/5/10  11:00:00', '2022/5/15 10:59:59');
+insert into gacha_exchange_lineup values (122, 77, 109601, 3, 0, '2022/5/10  11:00:00', '2022/5/15 10:59:59');
 insert into gacha_exchange_lineup values (124, 79, 180501, 3, 1017, '2022/4/17  11:00:00', '2022/4/20 17:59:59');
 insert into gacha_exchange_lineup values (125, 79, 180401, 3, 0, '2022/4/17  11:00:00', '2022/4/20 17:59:59');
 insert into gacha_exchange_lineup values (126, 79, 107001, 3, 0, '2022/4/17  11:00:00', '2022/4/20 17:59:59');

@@ -110,6 +110,7 @@ insert into unlock_unit_condition values (112301, '栞（魔法少女）', 1, 0,
 insert into unlock_unit_condition values (112401, '卯月（偶像大师）', 1, 0, 1, 2, 31124, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (112501, '凛（偶像大师）', 1, 0, 1, 2, 31125, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (112601, '未央（偶像大师）', 1, 0, 1, 2, 31126, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
+insert into unlock_unit_condition values (112701, '铃（游骑兵）', 1, 0, 1, 2, 31127, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (170101, '环奈', 1, 0, 1, 2, 31701, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unlock_unit_condition values (170201, '环奈（振袖）', 1, 0, 1, 2, 31702, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unlock_unit_condition values (180401, '佩可莉姆（公主）', 1, 0, 1, 2, 31804, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
