@@ -79,4 +79,5 @@ insert into event_gacha_data values (10078, 10078, '魔法少女外傳\u3000黑�
 insert into event_gacha_data values (10079, 10079, "魔法提督Lovely★莫妮卡\u3000Let's Go！魔法的四重奏！", 2, 60782, 1, 5);
 insert into event_gacha_data values (10080, 10080, '聖誕布丁快樂！ 飛舞的少女與飽含真心的點心', 2, 60792, 1, 6);
 insert into event_gacha_data values (10081, 10081, '名媛初登夢想秘境\u3000聖誕夜的戀愛遊戲', 2, 60802, 1, 6);
+insert into event_gacha_data values (10082, 10082, '新春美食回憶\u3000雪菲的跑腿大作戰！', 2, 60812, 1, 6);
 insert into event_gacha_data values (19003, 10003, '吸血鬼獵人 with伊莉亞', 2, 60022, 1, 5);
