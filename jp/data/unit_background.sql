@@ -186,3 +186,4 @@ insert into unit_background values (180501, 'コッコロ（プリンセス）',
 insert into unit_background values (180601, 'キャル（プリンセス）', 500130, 'エステレラ街道', 0.0, 18);
 insert into unit_background values (180701, 'ハツネ＆シオリ', 501370, '滝壺_昼', 0.0, 2);
 insert into unit_background values (180801, 'ミソギ＆ミミ＆キョウカ', 500194, 'エルフの森_秘密基地', 0.0, 2);
+insert into unit_background values (180901, 'アキノ＆サレン', 500140, 'プラノ平原', 0.0, 2);

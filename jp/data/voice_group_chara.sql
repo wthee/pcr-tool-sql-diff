@@ -80,6 +80,7 @@ insert into voice_group_chara values (118101001, 'レイジレギオン（ラン
 insert into voice_group_chara values (118501001, 'カリン', 118501, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (180701001, 'ハツネ＆シオリ', 180701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (180801001, 'ミソギ＆ミミ＆キョウカ', 180801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (180901001, 'アキノ＆サレン', 180901, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (300101001, 'ヒヨリ（カリン掛け合い用）', 100101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (300201001, 'ユイ（カリン掛け合い用）', 100201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (300301001, 'レイ（カリン掛け合い用）', 100301, 0, 0, 0, 0, 0, 0, 0, 0, 0);

@@ -123,6 +123,13 @@ insert into voice_group values (20125, 'ミソギミミキョウカ＆キャル'
 insert into voice_group values (20126, 'ミソギミミキョウカ＆シェフィ', 180801001, 106401001, 0, 0, 0);
 insert into voice_group values (20127, 'ミソギミミキョウカ＆クルミ', 180801001, 102101001, 0, 0, 0);
 insert into voice_group values (20128, 'ミソギミミキョウカ＆アヤネ', 180801001, 102301001, 0, 0, 0);
+insert into voice_group values (20129, 'アキノサレン＆スズメ', 180901001, 102501001, 0, 0, 0);
+insert into voice_group values (20130, 'アキノサレン＆アヤネ', 180901001, 102301001, 0, 0, 0);
+insert into voice_group values (20131, 'アキノサレン＆クルミ', 180901001, 102101001, 0, 0, 0);
+insert into voice_group values (20132, 'アキノサレン＆ジュン', 180901001, 104701001, 0, 0, 0);
+insert into voice_group values (20133, 'アキノサレン＆ミフユ', 180901001, 104801001, 0, 0, 0);
+insert into voice_group values (20134, 'アキノサレン＆ユカリ', 180901001, 103401001, 0, 0, 0);
+insert into voice_group values (20135, 'アキノサレン＆タマキ', 180901001, 104601001, 0, 0, 0);
 insert into voice_group values (20136, 'ランファ＆コッコロ', 118101001, 105901001, 0, 0, 0);
 insert into voice_group values (20137, 'ランファ＆チカ', 118101001, 104201001, 0, 0, 0);
 insert into voice_group values (30001, 'ヒヨリ（カリン掛け合い用）', 118501001, 300101001, 0, 0, 0);

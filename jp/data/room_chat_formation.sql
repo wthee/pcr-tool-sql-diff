@@ -8,3 +8,4 @@ insert into room_chat_formation values (6, 1, 0, 4, 0, 1, 2, None, None, None, N
 insert into room_chat_formation values (7, 1, 0, 4, 0, 1, 2, None, None, None, None, None, None, None, None, None, 2, 118301, 118401, None, None, None, None, None, None, None, None);
 insert into room_chat_formation values (8, 2, 0, 4, 0, 2, 2, None, None, None, None, None, None, None, None, None, 2, 118301, 118401, None, None, None, None, None, None, None, None);
 insert into room_chat_formation values (9, 3, 0, 4, 1, 0, 4, 0, 2, 2, None, None, None, None, None, None, 3, 120401, 120501, 120601, None, None, None, None, None, None, None);
+insert into room_chat_formation values (10, 2, 0, 4, 0, 2, 2, None, None, None, None, None, None, None, None, None, 2, 121701, 121801, None, None, None, None, None, None, None, None);

@@ -154,3 +154,6 @@ insert into bg_data values ('HATSUNE_NOP_GUILD', 0, 0);
 insert into bg_data values ('WAC_TOP', 530900, 0);
 insert into bg_data values ('HATSUNE_YSN_INTERLUDE', 530800, 0);
 insert into bg_data values ('HATSUNE_YSN_EPILOGUE', 530800, 0);
+insert into bg_data values ('SPECIAL_STILL_TMA', 0, 0);
+insert into bg_data values ('STORY_ANNIVERSARY_TOP', 530030, 0);
+insert into bg_data values ('STORY_ANNIVERSARY_DETAIL', 530030, 0);
