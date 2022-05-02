@@ -174,3 +174,6 @@ insert into odds_name_data values (1008001, '1008020101', '真陽（聖誕節）
 insert into odds_name_data values (1008002, '1008020102', '茜里的記憶碎片', 99002, '');
 insert into odds_name_data values (1008101, '1008120101', '優花梨（聖誕節）的記憶碎片', 99002, '');
 insert into odds_name_data values (1008102, '1008120102', '美冬的記憶碎片', 99002, '');
+insert into odds_name_data values (1008201, '1008220101', '流夏（新年）的記憶碎片', 99002, '');
+insert into odds_name_data values (1008202, '1008220102', '伊莉亞的記憶碎片', 99002, '');
+insert into odds_name_data values (1008203, 'box_rank_6-14', '隨機裝備箱', 99002, '能夠獲得隨機的裝備。');
