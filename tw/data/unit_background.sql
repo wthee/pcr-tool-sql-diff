@@ -174,3 +174,4 @@ insert into unit_background values (180401, '貪吃佩可（公主）', 500130, 
 insert into unit_background values (180501, '可可蘿（公主）', 500130, '埃斯特雷拉街道', 0.0, 2);
 insert into unit_background values (180601, '凱留（公主）', 500130, '埃斯特雷拉街道', 0.0, 18);
 insert into unit_background values (180701, '初音＆栞', 501370, '瀑布潭_白天', 0.0, 2);
+insert into unit_background values (180801, '禊＆美美＆鏡華', 500194, '精靈之森_祕密基地', 0.0, 2);

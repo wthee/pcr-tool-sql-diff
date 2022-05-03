@@ -106,3 +106,4 @@ insert into tips values (4180401, 180401, 1, 'POWER UP☆');
 insert into tips values (4180501, 180501, 1, '軟綿綿');
 insert into tips values (4180601, 180601, 1, '吆喝聲');
 insert into tips values (4180701, 180701, 1, '我的顏色');
+insert into tips values (4180801, 180801, 1, '總是三人一起');

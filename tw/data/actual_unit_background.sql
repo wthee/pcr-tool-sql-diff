@@ -168,3 +168,4 @@ insert into actual_unit_background values (180431, '尤絲蒂亞娜‧F‧阿斯
 insert into actual_unit_background values (180531, '棗 可蘿', 510100, 2);
 insert into actual_unit_background values (180631, '百地 希留耶', 510351, 2);
 insert into actual_unit_background values (180731, '柏崎 初音&柏崎 栞', 510070, 2);
+insert into actual_unit_background values (180831, '穗高 禊＆茜 美美＆冰川 鏡華', 510400, 2);
