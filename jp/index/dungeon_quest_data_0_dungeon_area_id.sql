@@ -1,0 +1,1 @@
+CREATE INDEX 'dungeon_quest_data_0_dungeon_area_id' on 'dungeon_quest_data'('dungeon_area_id')

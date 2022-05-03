@@ -1,0 +1,1 @@
+CREATE INDEX 'secret_dungeon_emblem_reward_0_mission_reward_id' on 'secret_dungeon_emblem_reward'('mission_reward_id')

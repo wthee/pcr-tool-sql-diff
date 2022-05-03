@@ -92,3 +92,4 @@ insert into campaign_freegacha_data values (90, 25, 30188);
 insert into campaign_freegacha_data values (91, 25, 30189);
 insert into campaign_freegacha_data values (92, 26, 30194);
 insert into campaign_freegacha_data values (93, 26, 50195);
+insert into campaign_freegacha_data values (94, 26, 30196);

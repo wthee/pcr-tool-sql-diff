@@ -178,6 +178,7 @@ insert into unit_background values (121301, 'クルミ（ステージ）', 50151
 insert into unit_background values (121401, 'ミサキ（ステージ）', 500354, 'サレンディア救護院_物産展', 0.0, 2);
 insert into unit_background values (121501, 'アユミ（怪盗）', 500012, 'ランドソル_市街地_夜', 0.0, 18);
 insert into unit_background values (121601, 'イノリ（怪盗）', 500892, '路地裏_夜', 0.0, 20);
+insert into unit_background values (122001, 'シノブ（パイレーツ）', 500843, '船の甲板', 0.0, 20);
 insert into unit_background values (180101, 'ヒヨリ（プリンセス）', 500130, 'エステレラ街道', 0.0, 2);
 insert into unit_background values (180201, 'ユイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 4);
 insert into unit_background values (180301, 'レイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 3);
