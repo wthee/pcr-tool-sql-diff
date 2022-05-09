@@ -235,6 +235,10 @@ insert into chara_story_status values (1026005, 'リンのエピソード第5話
 insert into chara_story_status values (1026006, 'リンのエピソード第6話', 2, 40, 11, 60, 0, 0, 0, 0, 0, 0, 1026, 1127, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1026007, 'リンのエピソード第7話', 2, 40, 11, 60, 0, 0, 0, 0, 0, 0, 1026, 1127, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1026008, 'リンのエピソード第8話', 2, 80, 11, 90, 0, 0, 0, 0, 0, 0, 1026, 1127, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1026009, 'リンのエピソード第9話', 2, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1026, 1127, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1026010, 'リンのエピソード第10話', 2, 120, 0, 0, 0, 0, 0, 0, 0, 0, 1026, 1127, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1026011, 'リンのエピソード第11話', 2, 120, 0, 0, 0, 0, 0, 0, 0, 0, 1026, 1127, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1026012, 'リンのエピソード第12話', 2, 200, 6, 30, 0, 0, 0, 0, 0, 0, 1026, 1127, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1027002, 'エリコのエピソード第2話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1027, 1090, 1170, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1027003, 'エリコのエピソード第3話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1027, 1090, 1170, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1027004, 'エリコのエピソード第4話', 2, 30, 0, 0, 0, 0, 0, 0, 0, 0, 1027, 1090, 1170, 0, 0, 0, 0, 0, 0, 0);

@@ -2840,7 +2840,7 @@ insert into skip_monster_data values (13030002, 13030, 'フテラ断崖・北部
 insert into skip_monster_data values (13030003, 13030, 'フテラ断崖・北部 30-3', 103290302, 102201);
 insert into skip_monster_data values (13031001, 13031, 'フテラ断崖・南部 31-1', 103300201, 101691);
 insert into skip_monster_data values (13031002, 13031, 'フテラ断崖・南部 31-2', 103300307, 101641);
-insert into skip_monster_data values (13031003, 13031, 'フテラ断崖・南部 31-3', 103310101, 102201);
+insert into skip_monster_data values (13031003, 13031, 'フテラ断崖・南部 31-3', 103310308, 102201);
 insert into skip_monster_data values (18001001, 18001, '聖跡調査クエストLv1', 108010108, 101331);
 insert into skip_monster_data values (18001002, 18001, '聖跡調査クエストLv2', 108010208, 101341);
 insert into skip_monster_data values (18001003, 18001, '聖跡調査クエストLv3', 108010308, 101341);
