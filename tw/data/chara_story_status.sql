@@ -358,6 +358,10 @@ insert into chara_story_status values (1042005, '千歌のエピソード第5話
 insert into chara_story_status values (1042006, '千歌のエピソード第6話', 4, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1042, 1084, 1173, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1042007, '千歌のエピソード第7話', 4, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1042, 1084, 1173, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1042008, '千歌のエピソード第8話', 4, 90, 11, 60, 0, 0, 0, 0, 0, 0, 1042, 1084, 1173, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1042009, '千歌のエピソード第9話', 4, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1042, 1084, 1173, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1042010, '千歌のエピソード第10話', 4, 140, 0, 0, 0, 0, 0, 0, 0, 0, 1042, 1084, 1173, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1042011, '千歌のエピソード第11話', 4, 140, 0, 0, 0, 0, 0, 0, 0, 0, 1042, 1084, 1173, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1042012, '千歌のエピソード第12話', 4, 240, 15, 5, 0, 0, 0, 0, 0, 0, 1042, 1084, 1173, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1043002, '真琴のエピソード第2話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1043, 1104, 1159, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1043003, '真琴のエピソード第3話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1043, 1104, 1159, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1043004, '真琴のエピソード第4話', 2, 30, 0, 0, 0, 0, 0, 0, 0, 0, 1043, 1104, 1159, 0, 0, 0, 0, 0, 0, 0);
