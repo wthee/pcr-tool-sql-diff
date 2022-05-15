@@ -90,4 +90,5 @@ insert into event_gacha_data values (10089, 10089, 'シンデレラレッスン\
 insert into event_gacha_data values (10090, 10090, 'お宝頂戴！\u3000インビジブル・スティーラーズ', 2, 60892, 1, 6);
 insert into event_gacha_data values (10091, 10091, '鋼の聖女と聖なる学舎の異端児', 2, 60902, 1, 6);
 insert into event_gacha_data values (10092, 10092, 'エピソード・オブ・パイレーツ\u3000海賊島の呪われし遺宝', 2, 60912, 1, 6);
+insert into event_gacha_data values (10093, 10093, 'イノリＳＯＳ！！\u3000タイムトラベル・ドラゴンズ', 2, 60922, 1, 6);
 insert into event_gacha_data values (19003, 10003, 'ヴァンパイアハンターwithイリヤ討伐証交換', 2, 60022, 1, 5);

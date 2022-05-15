@@ -61,3 +61,5 @@ insert into shiori_quest_area values (20025201, 20025, '不思議の国', 201, '
 insert into shiori_quest_area values (20026101, 20026, 'ウィッシュビーチ周辺', 201, 'bgm_M380A', 'bgm_M380A', 1, 1, 90, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20026102, 20026, '星降る天の川', 201, 'bgm_M380B', 'bgm_M380B_02', 1, 2, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20026201, 20026, '星降る天の川', 201, 'bgm_M380B', 'bgm_M380B_02', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20027101, 20027, 'ビーチボールパーク', 201, 'bgm_M393', 'bgm_M393', 1, 0, 115, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20027201, 20027, 'ビーチボールパーク', 201, 'bgm_M393', 'bgm_M393', 1, 0, 0, 0, 0, '0', '0', 0);

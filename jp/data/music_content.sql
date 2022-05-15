@@ -219,3 +219,7 @@ insert into music_content values (217, 'Crossing Truth', '1:33', '0:58', 'キャ
 insert into music_content values (218, 'お宝頂戴！\u3000インビジブル・スティーラーズ', '1:04', '0:00', 'ストーリーイベントテーマ\\n-｢Secret Longing｣アレンジ-\\n\\n時間 / 01:04\\n作曲 / 河合泰志（Arte Refact）\\n編曲 / 長谷部翔（Cygames）', 'bgm_M574', 'bgm_M574_juke');
 insert into music_content values (219, '大慾暴君・カジノ王', '1:43', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 01:43\\n作曲 / 中村博\\n編曲 / 中村博', 'bgm_M577', 'bgm_M577_juke');
 insert into music_content values (220, 'Secret Longing', '1:31', '0:55', 'キャラクターソング\\n\\n時間 / 01:31\\n歌\u3000 / アユミ（大関英里）\\n作詞 / 真崎エリカ\\n作曲 / 河合泰志（Arte Refact）\\n編曲 / 河合泰志（Arte Refact）', 'bgm_M592', 'bgm_M592');
+insert into music_content values (221, 'エピソード・オブ・パイレーツ\u3000海賊島の呪われし遺宝', '1:36', '0:00', 'ストーリーイベントテーマ\\n-｢無敵のパイレーツ｣アレンジ-\\n\\n時間 / 01:36\\n作曲 / 塩原大貴\\n編曲 / 下智子', 'bgm_M582', 'bgm_M582_juke');
+insert into music_content values (222, '解放されし財宝の守護者', '1:53', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 01:53\\n作曲 / 畑田浩孝\\n編曲 / 畑田浩孝', 'bgm_M585', 'bgm_M585_juke');
+insert into music_content values (223, '無敵のパイレーツ', '1:30', '0:47', 'キャラクターソング\\n\\n時間 / 01:30\\n歌\u3000 / アンナ（髙野麻美）\\n\u3000\u3000\u3000シノブ（大坪由佳）\\n\u3000\u3000\u3000カスミ（水瀬いのり）\\n作詞 / 月丘りあ子\\n作曲 / 塩原大貴\\n編曲 / 塩原大貴', 'bgm_M593', 'bgm_M593');
+insert into music_content values (224, '荘厳なる熱砂', '1:07', '0:00', 'メインクエスト\\n\\n時間 / 01:07\\n作曲 / 中村博\\n編曲 / 中村博', 'bgm_M571', 'bgm_M571_juke');

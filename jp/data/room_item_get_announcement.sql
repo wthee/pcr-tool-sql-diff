@@ -10,3 +10,4 @@ insert into room_item_get_announcement values (8, 2814, '2021/07/31 12:00', '203
 insert into room_item_get_announcement values (9, 2804, '2022/01/18 12:00', '2030/12/31 23:59:59', '2022/01/18 12:00', 'オーマ地域振興ポスター\\n『新春トゥンヌス釣上図柄』');
 insert into room_item_get_announcement values (10, 2816, '2022/02/15 05:00', '2030/12/31 23:59:59', '', '');
 insert into room_item_get_announcement values (11, 2818, '2022/02/28 12:00', '2030/12/31 23:59:59', '', '');
+insert into room_item_get_announcement values (12, 2805, '2022/05/15 15:00', '2030/12/31 23:59:59', '2022/05/15 15:00', '');

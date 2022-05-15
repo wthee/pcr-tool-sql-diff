@@ -105,6 +105,7 @@ insert into tips values (4121301, 121301, 1, '開演直前');
 insert into tips values (4121401, 121401, 1, 'セクシーアピール');
 insert into tips values (4121501, 121501, 1, 'ライバル出現？');
 insert into tips values (4121601, 121601, 1, '不安の種');
+insert into tips values (4121901, 121901, 1, '満を持して');
 insert into tips values (4122001, 122001, 1, 'よく視える');
 insert into tips values (4180101, 180101, 1, 'じゃんけんタイム！');
 insert into tips values (4180201, 180201, 1, 'ぺこぺこ');
