@@ -102,6 +102,7 @@ insert into unique_equipment_craft values (131141, 1000000, 2, 31114, 50, 4, 140
 insert into unique_equipment_craft values (131151, 1000000, 2, 31115, 50, 4, 140000, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unique_equipment_craft values (131161, 1000000, 2, 31116, 50, 4, 140000, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unique_equipment_craft values (131171, 1000000, 2, 31117, 50, 4, 140000, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into unique_equipment_craft values (131181, 1000000, 2, 31118, 50, 4, 140000, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unique_equipment_craft values (131191, 1000000, 2, 31119, 50, 4, 140000, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unique_equipment_craft values (131201, 1000000, 2, 31120, 50, 4, 140000, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unique_equipment_craft values (131211, 1000000, 2, 31121, 50, 4, 140000, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -130,3 +131,5 @@ insert into unique_equipment_craft values (131431, 1000000, 2, 31143, 50, 4, 140
 insert into unique_equipment_craft values (131441, 1000000, 2, 31144, 50, 4, 140000, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unique_equipment_craft values (131451, 1000000, 2, 31145, 50, 4, 140000, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unique_equipment_craft values (131461, 1000000, 2, 31146, 50, 4, 140000, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into unique_equipment_craft values (131471, 1000000, 2, 31147, 50, 4, 140000, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into unique_equipment_craft values (131501, 1000000, 2, 31150, 50, 4, 140000, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);

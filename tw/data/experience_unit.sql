@@ -230,3 +230,6 @@ insert into experience_unit values (228, 9756242);
 insert into experience_unit values (229, 9864594);
 insert into experience_unit values (230, 9973546);
 insert into experience_unit values (231, 10083098);
+insert into experience_unit values (232, 10193250);
+insert into experience_unit values (233, 10304002);
+insert into experience_unit values (234, 10415354);
