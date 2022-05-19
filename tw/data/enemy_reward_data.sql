@@ -3696,6 +3696,9 @@ insert into enemy_reward_data values (61008103, 1, 2, 60802, 130, 100, 0, 0, 0, 
 insert into enemy_reward_data values (61008201, 1, 2, 60812, 5, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into enemy_reward_data values (61008202, 1, 2, 60812, 40, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into enemy_reward_data values (61008203, 1, 2, 60812, 130, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into enemy_reward_data values (61008301, 1, 2, 60822, 5, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into enemy_reward_data values (61008302, 1, 2, 60822, 40, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into enemy_reward_data values (61008303, 1, 2, 60822, 130, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into enemy_reward_data values (62001016, 1, 2, 60002, 40, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into enemy_reward_data values (62001045, 1, 2, 60001, 1, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into enemy_reward_data values (62001046, 1, 2, 60002, 3, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
