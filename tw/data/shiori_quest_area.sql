@@ -50,3 +50,5 @@ insert into shiori_quest_area values (20021102, 20021, '公會競速賽\u30003�
 insert into shiori_quest_area values (20021201, 20021, '公會競速賽\u30003區→4區', 201, 'bgm_M294', 'bgm_M294', 1, 1, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20022101, 20022, '王城蘭德索爾', 201, 'bgm_M316', 'bgm_M316', 1, 1, 87, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20022201, 20022, '王城蘭德索爾', 201, 'bgm_M316', 'bgm_M316', 1, 1, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20023101, 20023, '聖德蕾莎女子學院', 201, 'bgm_M343', 'bgm_M343', 1, 1, 45, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20023201, 20023, '聖德蕾莎女子學院', 201, 'bgm_M343', 'bgm_M343', 1, 0, 0, 0, 0, '0', '0', 0);
