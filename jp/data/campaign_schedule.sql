@@ -1166,3 +1166,12 @@ insert into campaign_schedule values (1206, 41, 2000.0, 101, 40, '2022/05/26 5:0
 insert into campaign_schedule values (1207, 34, 2000.0, 103, 30, '2022/05/26 5:00:00', '2022/06/06 04:59:59', 0, 0, 0, 0);
 insert into campaign_schedule values (1208, 44, 2000.0, 103, 40, '2022/05/26 5:00:00', '2022/06/06 04:59:59', 0, 0, 0, 0);
 insert into campaign_schedule values (1209, 541, 2000.0, 122, 120, '2022/05/17 5:00:00', '2022/05/22 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1241, 91, 1500.0, 101, 100, '2022/05/26 5:00:00', '2022/06/01 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1242, 92, 1500.0, 102, 100, '2022/05/26 5:00:00', '2022/06/01 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1243, 93, 1500.0, 111, 100, '2022/05/26 5:00:00', '2022/06/01 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1244, 94, 1500.0, 109, 100, '2022/05/26 5:00:00', '2022/06/01 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1245, 95, 1500.0, 112, 100, '2022/05/26 5:00:00', '2022/06/01 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1246, 100, 1500.0, 8004, 100, '2022/05/26 5:00:00', '2022/06/01 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1247, 101, 1500.0, 8005, 100, '2022/05/26 5:00:00', '2022/06/01 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1248, 96, 1500.0, 6004, 100, '2022/05/31 12:00:00', '2022/06/01 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1249, 97, 1500.0, 6005, 100, '2022/05/31 12:00:00', '2022/06/01 4:59:59', 0, 0, 0, 0);
