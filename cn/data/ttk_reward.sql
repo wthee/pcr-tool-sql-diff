@@ -1,16 +1,3 @@
 CREATE TABLE 'ttk_reward' ('id' INTEGER NOT NULL, 'ttk_score' INTEGER NOT NULL, 'mission_detail' TEXT NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_count_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_count_2' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_count_3' INTEGER NOT NULL, 'reward_type_4' INTEGER NOT NULL, 'reward_id_4' INTEGER NOT NULL, 'reward_count_4' INTEGER NOT NULL, 'reward_type_5' INTEGER NOT NULL, 'reward_id_5' INTEGER NOT NULL, 'reward_count_5' INTEGER NOT NULL, PRIMARY KEY('id'));
-insert into ttk_reward values (1, 32000, '累计获得32000以上的分数吧', 12, 94002, 20000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into ttk_reward values (2, 64000, '累计获得64000以上的分数吧', 12, 94002, 30000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into ttk_reward values (3, 96000, '累计获得96000以上的分数吧', 12, 94002, 40000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into ttk_reward values (4, 128000, '累计获得128000以上的分数吧', 12, 94002, 50000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into ttk_reward values (5, 160000, '累计获得160000以上的分数吧', 8, 91002, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into ttk_reward values (6, 192000, '累计获得192000以上的分数吧', 15, 11001071, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into ttk_reward values (7, 224000, '累计获得224000以上的分数吧', 2, 23001, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into ttk_reward values (8, 256000, '累计获得256000以上的分数吧', 8, 91002, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into ttk_reward values (9, 288000, '累计获得288000以上的分数吧', 12, 94002, 70000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into ttk_reward values (10, 320000, '累计获得320000以上的分数吧', 12, 94002, 80000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into ttk_reward values (11, 352000, '累计获得352000以上的分数吧', 8, 91002, 75, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into ttk_reward values (12, 384000, '累计获得384000以上的分数吧', 12, 94002, 100000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into ttk_reward values (13, 416000, '累计获得416000以上的分数吧', 2, 23001, 45, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into ttk_reward values (14, 448000, '累计获得448000以上的分数吧', 8, 91002, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into ttk_reward values (15, 480000, '累计获得480000以上的分数吧', 15, 11001072, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into ttk_reward values (1, 192000, '累计获得192000以上的分数吧', 15, 11001071, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into ttk_reward values (2, 480000, '累计获得480000以上的分数吧', 15, 11001072, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
