@@ -208,3 +208,4 @@ insert into custom_mypage values (9000206, 10008, 0, 'ED Movie', 0, 0, 2);
 insert into custom_mypage values (9000207, 10008, 0, 'Moviescene1', 0, 0, 2);
 insert into custom_mypage values (9000208, 10008, 0, 'Moviescene2', 0, 0, 2);
 insert into custom_mypage values (9000209, 10008, 0, 'Moviescene3', 0, 0, 2);
+insert into custom_mypage values (9000210, 40001, 0, '5月の連休！', 0, 0, 1);
