@@ -81,4 +81,5 @@ insert into event_gacha_data values (10080, 10080, '聖誕布丁快樂！ 飛舞
 insert into event_gacha_data values (10081, 10081, '名媛初登夢想秘境\u3000聖誕夜的戀愛遊戲', 2, 60802, 1, 6);
 insert into event_gacha_data values (10082, 10082, '新春美食回憶\u3000雪菲的跑腿大作戰！', 2, 60812, 1, 6);
 insert into event_gacha_data values (10083, 10083, '新春美食公主！\u3000賭上關鍵一擲的少女們', 2, 60822, 1, 6);
+insert into event_gacha_data values (10084, 10084, 'Re:member\u3000我的心願編織出的未來', 2, 60832, 1, 6);
 insert into event_gacha_data values (19003, 10003, '吸血鬼獵人 with伊莉亞', 2, 60022, 1, 5);
