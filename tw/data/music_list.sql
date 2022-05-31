@@ -205,3 +205,14 @@ insert into music_list values (203, '布丁‧聖‧代‧聖誕節來的！', 2
 insert into music_list values (204, '新春美食回憶\u3000雪菲的跑腿大作戰！', 20.0, '', '2022-01-15 15:00:00', '', -1, 1000, 204, '新春美食回憶雪菲的跑腿大作戰', '', '', '');
 insert into music_list values (205, '邪牛神哞猛', 20.0, '', '2022-01-15 15:00:00', '', -1, 1000, 205, '邪牛神哞猛', '', '', '');
 insert into music_list values (206, 'Ice Wings', 20.0, '', '2022-01-15 15:00:00', '', -1, 1500, 206, 'Ice Wings', '', '', '');
+insert into music_list values (207, '尋找線索', 20.0, '', '2022-02-15 15:00:00', '', -1, 1000, 207, '尋找線索', '', '', '');
+insert into music_list values (208, '到大家所度過的世界', 20.0, '', '2022-02-15 15:00:00', '', -1, 1000, 208, '到大家所度過的世界', '', '', '');
+insert into music_list values (209, '超載力量', 20.0, '', '2022-02-15 15:00:00', '', -1, 1000, 209, '超載力量', '', '', '');
+insert into music_list values (210, 'Asymmetric World', 20.0, '', '2022-02-15 15:00:00', '', -1, 1500, 210, 'Asymmetric World', '', '', '');
+insert into music_list values (211, '大家的情感', 20.0, '', '2022-02-15 15:00:00', '', -1, 1000, 211, '大家的情感', '', '', '');
+insert into music_list values (212, 'Sweet Tiny Stage！ 新進女演員與小小淑女', 20.0, '', '2022-03-15 15:00:00', '', -1, 1000, 212, 'Sweet Tiny Stage！ 新進女演員與小小淑女', '', '', '');
+insert into music_list values (213, '仇鼠‧怒髮衝冠的啾二', 20.0, '', '2022-03-15 15:00:00', '', -1, 1000, 213, '仇鼠‧怒髮衝冠的啾二', '', '', '');
+insert into music_list values (214, 'Happy Anniv.特別版 蘭德索爾猜謎連結！', 20.0, '', '2022-03-15 15:00:00', '', -1, 1000, 214, 'Happy Anniv.特別版 蘭德索爾猜謎連結！', '', '', '');
+insert into music_list values (215, 'Thinking Time！', 20.0, '', '2022-03-15 15:00:00', '', -1, 1000, 215, 'Thinking Time！', '', '', '');
+insert into music_list values (216, '聽得見音樂劇嗎？', 20.0, '', '2022-03-15 15:00:00', '', -1, 1500, 216, '聽得見音樂劇嗎？', '', '', '');
+insert into music_list values (217, 'Crossing Truth', 20.0, '', '2022-03-15 15:00:00', '', 2109012, 1500, 217, 'Crossing Truth', '', '', '');

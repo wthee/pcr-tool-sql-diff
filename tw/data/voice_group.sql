@@ -282,3 +282,5 @@ insert into voice_group values (30156, '流夏（新年）（花凜對話用）'
 insert into voice_group values (30157, '禊美美鏡華（花凜對話用）', 118501001, 380801001, 0, 0, 0);
 insert into voice_group values (30158, '雪菲（新年）（花凜對話用）', 118501001, 320701001, 0, 0, 0);
 insert into voice_group values (30159, '伊莉亞（新年）（花凜對話用）', 118501001, 320901001, 0, 0, 0);
+insert into voice_group values (30160, '貪吃佩可（超載）（花凜對話用）', 118501001, 321001001, 0, 0, 0);
+insert into voice_group values (30161, '拉比林斯達（超載）（花凜對話用）', 118501001, 321201001, 0, 0, 0);

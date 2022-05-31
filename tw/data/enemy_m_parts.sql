@@ -203,6 +203,12 @@ insert into enemy_m_parts values (610081301, '被操控的雪人 VERY HARD', 610
 insert into enemy_m_parts values (610081401, '被操控的雪人 SP1', 610081412, 610081413, 0, 0, 0);
 insert into enemy_m_parts values (610081402, '被操控的雪人 SP2', 610081422, 610081423, 0, 0, 0);
 insert into enemy_m_parts values (610081403, '被操控的雪人 SP3', 610081432, 610081433, 0, 0, 0);
+insert into enemy_m_parts values (610085101, '超載力量', 610085102, 610085103, 0, 0, 0);
+insert into enemy_m_parts values (610085201, '超載力量', 610085202, 610085203, 0, 0, 0);
+insert into enemy_m_parts values (610085301, '超載力量', 610085302, 610085303, 0, 0, 0);
+insert into enemy_m_parts values (610085401, '超載力量', 610085411, 610085412, 0, 0, 0);
+insert into enemy_m_parts values (610085402, '超載力量', 610085421, 610085422, 0, 0, 0);
+insert into enemy_m_parts values (610085403, '超載力量', 610085431, 610085432, 0, 0, 0);
 insert into enemy_m_parts values (800100203, '機械莉瑪2020MODE3', 800100212, 800100213, 800100214, 0, 0);
 insert into enemy_m_parts values (801100213, '霸瞳僕役（複合）', 801100223, 801100233, 801100243, 0, 0);
 insert into enemy_m_parts values (802100210, '蘭法', 802100211, 802100212, 0, 0, 0);

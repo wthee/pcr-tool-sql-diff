@@ -179,3 +179,5 @@ insert into odds_name_data values (1008202, '1008220102', '伊莉亞的記憶碎
 insert into odds_name_data values (1008203, 'box_rank_6-14', '隨機裝備箱', 99002, '能夠獲得隨機的裝備。');
 insert into odds_name_data values (1008301, '1008320101', '矛依未（新年）的記憶碎片', 99002, '');
 insert into odds_name_data values (1008302, '1008320102', '凱留的記憶碎片', 99002, '');
+insert into odds_name_data values (1008401, '1008620101', '可可蘿的記憶碎片', 99002, '');
+insert into odds_name_data values (1008402, '1008620102', '凱留的記憶碎片', 99002, '');

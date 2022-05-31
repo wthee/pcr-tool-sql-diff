@@ -48,3 +48,4 @@ insert into event_story_data values (5078, 5, 10078, '魔法少女外傳\u3000\\
 insert into event_story_data values (5080, 5, 10080, '聖誕布丁快樂！\u3000\\n飛舞的少女與飽含真心的點心', 0, 1, '2022/03/28 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5082, 5, 10082, '新春美食回憶\u3000\\n雪菲的跑腿大作戰！', 0, 1, '2022/04/29 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5084, 5, 10084, 'Re:member\u3000我的心願編織出的未來', 0, 1, '2022/05/30 16:00:00', '2030/04/24 14:59:59');
+insert into event_story_data values (5085, 5, 10085, 'Re:member\u3000我的心願編織出的未來', 0, 1, '2022/05/30 16:00:00', '2030/04/24 14:59:59');
