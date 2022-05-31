@@ -30,11 +30,11 @@ insert into voice_group_chara values (103001001, 'ヴァイスフリューゲル
 insert into voice_group_chara values (103101001, 'ディアボロス（シノブ）', 103101, 108101, 122001, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (103201001, 'メルクリウス財団（アキノ）', 103201, 114401, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (103301001, 'エリザベスパーク（マヒル）', 103301, 112801, 119201, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (103401001, 'メルクリウス財団（ユカリ）', 103401, 114601, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (103401001, 'メルクリウス財団（ユカリ）', 103401, 114601, 122201, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (103601001, 'リトルリリカル（キョウカ）', 103601, 111101, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (103701001, 'NIGHTMARE（トモ）', 103701, 114301, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (103801001, 'エリザベスパーク（シオリ）', 103801, 112301, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (104001001, 'フォレスティエ（アオイ）', 104001, 110701, 116701, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (104001001, 'フォレスティエ（アオイ）', 104001, 110701, 116701, 122101, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (104201001, 'カルミナ（チカ）', 104201, 108401, 117301, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (104301001, 'カォン（マコト）', 104301, 110401, 115901, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (104401001, 'ディアボロス（イリヤ）', 104401, 111701, 120901, 0, 0, 0, 0, 0, 0, 0);
@@ -243,6 +243,8 @@ insert into voice_group_chara values (321501001, 'アユミ（怪盗）（カリ
 insert into voice_group_chara values (321601001, 'イノリ（怪盗）（カリン掛け合い用）', 121601, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (321901001, 'アンナ（パイレーツ）（カリン掛け合い用）', 121901, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (322001001, 'シノブ（パイレーツ）（カリン掛け合い用）', 122001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (322101001, 'アオイ（キャンプ）（カリン掛け合い用）', 122101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (322201001, 'ユカリ（キャンプ）（カリン掛け合い用）', 122201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380101001, 'ヒヨリ（プリンセス）（カリン掛け合い用）', 180101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380201001, 'ユイ（プリンセス）（カリン掛け合い用）', 180201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380301001, 'レイ（プリンセス）（カリン掛け合い用）', 180301, 0, 0, 0, 0, 0, 0, 0, 0, 0);

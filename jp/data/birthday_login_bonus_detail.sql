@@ -147,3 +147,8 @@ insert into birthday_login_bonus_detail values (148, 9106703, 2, 31067, 10);
 insert into birthday_login_bonus_detail values (149, 9104403, 2, 31044, 10);
 insert into birthday_login_bonus_detail values (150, 9102303, 2, 31023, 10);
 insert into birthday_login_bonus_detail values (151, 9105903, 2, 31059, 10);
+insert into birthday_login_bonus_detail values (152, 9104203, 2, 31042, 10);
+insert into birthday_login_bonus_detail values (153, 9104003, 2, 31040, 10);
+insert into birthday_login_bonus_detail values (154, 9102103, 2, 31021, 10);
+insert into birthday_login_bonus_detail values (155, 9106303, 2, 31063, 10);
+insert into birthday_login_bonus_detail values (156, 9106503, 2, 31065, 10);

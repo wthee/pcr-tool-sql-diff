@@ -379,3 +379,4 @@ insert into gacha_exchange_lineup values (377, 200, 180201, 3, 0, '2022/05/28 12
 insert into gacha_exchange_lineup values (378, 200, 180501, 3, 0, '2022/05/28 12:00:00', '2022/05/31 11:59:59');
 insert into gacha_exchange_lineup values (379, 200, 180401, 3, 0, '2022/05/28 12:00:00', '2022/05/31 11:59:59');
 insert into gacha_exchange_lineup values (380, 200, 107101, 3, 0, '2022/05/28 12:00:00', '2022/05/31 11:59:59');
+insert into gacha_exchange_lineup values (381, 201, 122201, 3, 1082, '2022/05/31 12:00:00', '2022/06/09 11:59:59');

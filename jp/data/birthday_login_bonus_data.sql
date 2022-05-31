@@ -42,6 +42,7 @@ insert into birthday_login_bonus_data values (9102002, 'ミミ「バースデー
 insert into birthday_login_bonus_data values (9102003, 'ミミ「バースデーストーリー」', 9, '2022-04-03 05:00:00', '2022-04-04 04:59:59', 4814);
 insert into birthday_login_bonus_data values (9102101, 'クルミ「バースデーストーリー」', 9, '2020-06-09 05:00:00', '2020-06-10 04:59:59', 1021500);
 insert into birthday_login_bonus_data values (9102102, 'クルミ「バースデーストーリー」', 9, '2021-06-09 05:00:00', '2021-06-10 04:59:59', 1021501);
+insert into birthday_login_bonus_data values (9102103, 'クルミ「バースデーストーリー」', 9, '2022-06-09 05:00:00', '2022-06-10 04:59:59', 11514);
 insert into birthday_login_bonus_data values (9102301, 'アヤネ「バースデーストーリー」', 9, '2020-05-10 05:00:00', '2020-05-11 04:59:59', 1023500);
 insert into birthday_login_bonus_data values (9102302, 'アヤネ「バースデーストーリー」', 9, '2021-05-10 05:00:00', '2021-05-11 04:59:59', 1023501);
 insert into birthday_login_bonus_data values (9102303, 'アヤネ「バースデーストーリー」', 9, '2022-05-10 05:00:00', '2022-05-11 04:59:59', 8514);
@@ -73,8 +74,10 @@ insert into birthday_login_bonus_data values (9103801, 'シオリ「バースデ
 insert into birthday_login_bonus_data values (9103802, 'シオリ「バースデーストーリー」', 9, '2021-11-03 05:00:00', '2021-11-04 04:59:59', 1038501);
 insert into birthday_login_bonus_data values (9104001, 'アオイ「バースデーストーリー」', 9, '2020-06-06 05:00:00', '2020-06-07 04:59:59', 1040500);
 insert into birthday_login_bonus_data values (9104002, 'アオイ「バースデーストーリー」', 9, '2021-06-06 05:00:00', '2021/06/07 4:59:59', 1040501);
+insert into birthday_login_bonus_data values (9104003, 'アオイ「バースデーストーリー」', 9, '2022-06-06 05:00:00', '2022/06/07 4:59:59', 11214);
 insert into birthday_login_bonus_data values (9104201, 'チカ「バースデーストーリー」', 9, '2020-06-03 05:00:00', '2020-06-04 04:59:59', 1042500);
 insert into birthday_login_bonus_data values (9104202, 'チカ「バースデーストーリー」', 9, '2021-06-03 05:00:00', '2021/06/04 4:59:59', 1042501);
+insert into birthday_login_bonus_data values (9104203, 'チカ「バースデーストーリー」', 9, '2022-06-03 05:00:00', '2022/06/04 4:59:59', 10914);
 insert into birthday_login_bonus_data values (9104301, 'マコト「バースデーストーリー」', 9, '2020-08-09 05:00:00', '2020-08-10 04:59:59', 1043500);
 insert into birthday_login_bonus_data values (9104302, 'マコト「バースデーストーリー」', 9, '2021-08-09 05:00:00', '2021/08/10 4:59:59', 1043501);
 insert into birthday_login_bonus_data values (9104401, 'イリヤ「バースデーストーリー」', 9, '2020-05-05 05:00:00', '2020-05-06 04:59:59', 1044500);
@@ -119,8 +122,10 @@ insert into birthday_login_bonus_data values (9106101, 'ムイミ「バースデ
 insert into birthday_login_bonus_data values (9106102, 'ムイミ「バースデーストーリー」', 9, '2021-08-11 05:00:00', '2021/08/12 4:59:59', 1061501);
 insert into birthday_login_bonus_data values (9106301, 'アリサ「バースデーストーリー」', 9, '2020-06-17 05:00:00', '2020-06-18 04:59:59', 1063500);
 insert into birthday_login_bonus_data values (9106302, 'アリサ「バースデーストーリー」', 9, '2021-06-17 05:00:00', '2021/06/18 4:59:59', 1063501);
+insert into birthday_login_bonus_data values (9106303, 'アリサ「バースデーストーリー」', 9, '2022-06-17 05:00:00', '2022/06/18 4:59:59', 12314);
 insert into birthday_login_bonus_data values (9106501, 'カヤ「バースデーストーリー」', 9, '2020-06-25 05:00:00', '2020-06-26 04:59:59', 1065500);
 insert into birthday_login_bonus_data values (9106502, 'カヤ「バースデーストーリー」', 9, '2021-06-25 05:00:00', '2021/06/26 4:59:59', 1065501);
+insert into birthday_login_bonus_data values (9106503, 'カヤ「バースデーストーリー」', 9, '2022-06-25 05:00:00', '2022/06/26 4:59:59', 13114);
 insert into birthday_login_bonus_data values (9106601, 'イノリ「バースデーストーリー」', 9, '2020-09-29 05:00:00', '2020-09-30 04:59:59', 1066500);
 insert into birthday_login_bonus_data values (9106602, 'イノリ「バースデーストーリー」', 9, '2021/09/29 5:00:00', '2021/09/30 4:59:59', 1066501);
 insert into birthday_login_bonus_data values (9106703, 'ホマレ「バースデーストーリー」', 9, '2022-04-17 05:00:00', '2022-04-18 04:59:59', 6214);
