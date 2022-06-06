@@ -68,6 +68,10 @@ insert into chara_story_status values (1007005, 'ミヤコのエピソード第5
 insert into chara_story_status values (1007006, 'ミヤコのエピソード第6話', 2, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1007, 1082, 1199, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1007007, 'ミヤコのエピソード第7話', 2, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1007, 1082, 1199, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1007008, 'ミヤコのエピソード第8話', 2, 90, 15, 5, 0, 0, 0, 0, 0, 0, 1007, 1082, 1199, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1007009, 'ミヤコのエピソード第9話', 2, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1007, 1082, 1199, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1007010, 'ミヤコのエピソード第10話', 2, 140, 0, 0, 0, 0, 0, 0, 0, 0, 1007, 1082, 1199, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1007011, 'ミヤコのエピソード第11話', 2, 140, 0, 0, 0, 0, 0, 0, 0, 0, 1007, 1082, 1199, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1007012, 'ミヤコのエピソード第12話', 2, 240, 15, 5, 0, 0, 0, 0, 0, 0, 1007, 1082, 1199, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1008002, 'ユキのエピソード第2話', 4, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1008, 1176, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1008003, 'ユキのエピソード第3話', 4, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1008, 1176, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1008004, 'ユキのエピソード第4話', 4, 30, 0, 0, 0, 0, 0, 0, 0, 0, 1008, 1176, 0, 0, 0, 0, 0, 0, 0, 0);
