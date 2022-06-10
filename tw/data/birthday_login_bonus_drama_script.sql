@@ -3031,7 +3031,7 @@ insert into birthday_login_bonus_drama_script values (1059501048, 1059501, 21, '
 insert into birthday_login_bonus_drama_script values (1059501049, 1059501, 11, '105911', '如此難得的機會，\\n我們來吃蛋糕吧。\\n主人請坐。\\n在下來去準備。', '6', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1059501050, 1059501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1059501051, 1059501, 21, 'vo_adv_1059501', 'vo_adv_1059501_004', '0', '0', '', '', '', '');
-insert into birthday_login_bonus_drama_script values (1059501052, 1059501, 11, '105911', '即使今天是我的生日，\\n但照顧主人這件事\\n在下是不會讓給任何人的。', '7', '1', '1', '0', '0', '');
+insert into birthday_login_bonus_drama_script values (1059501052, 1059501, 11, '105911', '即使今天是在下的生日，\\n但照顧主人這件事\\n在下是不會讓給任何人的。', '7', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1059501053, 1059501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1059501054, 1059501, 21, 'vo_adv_1059501', 'vo_adv_1059501_005', '0', '0', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1059501055, 1059501, 11, '105911', '那主人，\\n請張開嘴巴。\\n來，啊～♪', '4', '1', '1', '0', '0', '');
