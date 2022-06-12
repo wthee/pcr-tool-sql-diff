@@ -88,6 +88,7 @@ insert into tips values (4115901, 115901, 1, '輕飄飄');
 insert into tips values (4116001, 116001, 1, '優雅優雅');
 insert into tips values (4116201, 116201, 1, '女性們的加油聲援');
 insert into tips values (4116301, 116301, 1, '切嚕式跑法');
+insert into tips values (4116401, 116401, 1, '擅長不擅長');
 insert into tips values (4116501, 116501, 1, '征服完成！');
 insert into tips values (4116601, 116601, 1, '工作中');
 insert into tips values (4116701, 116701, 1, '（可能）擅長領域');

@@ -642,6 +642,9 @@ insert into event_navi_comment_condition values (10085052, 3, 5085005, 0, 0, 0, 
 insert into event_navi_comment_condition values (10085053, 3, 5085005, 0, 0, 0, 0);
 insert into event_navi_comment_condition values (10085054, 3, 5085005, 0, 0, 0, 0);
 insert into event_navi_comment_condition values (10085055, 3, 5085005, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10085056, 3, 5085005, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10085057, 3, 5085005, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10086013, 3, 5058005, 0, 0, 0, 0);
 insert into event_navi_comment_condition values (20003106, 2, 5003006, 0, 0, 0, 0);
 insert into event_navi_comment_condition values (20003107, 1, 5003006, 0, 0, 0, 0);
 insert into event_navi_comment_condition values (20003110, 2, 5003006, 0, 0, 0, 0);

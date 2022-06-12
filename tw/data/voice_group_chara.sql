@@ -71,7 +71,7 @@ insert into voice_group_chara values (109801001, 'Re:從零（拉姆）', 109801
 insert into voice_group_chara values (109901001, 'Re:從零（愛蜜莉雅）', 109901, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (110801001, '聖德蕾莎女子學院（好朋友社）（克蘿依）', 110801, 116201, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (110901001, '聖德蕾莎女子學院（好朋友社）（琪愛兒）', 110901, 116301, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (111001001, '聖德蕾莎女子學院（好朋友社）（優妮）', 111001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (111001001, '聖德蕾莎女子學院（好朋友社）（優妮）', 111001, 116401, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (112401001, 'new generations（卯月）', 112401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (112501001, 'new generations（凜）', 112501, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (112601001, 'new generations（未央）', 112601, 0, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -208,6 +208,7 @@ insert into voice_group_chara values (315901001, '真琴（灰姑娘）（花凜
 insert into voice_group_chara values (316001001, '真步（灰姑娘）（花凜對話用）', 116001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (316201001, '克蘿依（聖學祭）（花凜對話用）', 116201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (316301001, '琪愛兒（聖學祭）（花凜對話用）', 116301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (316401001, '優妮（聖學祭）（カリン掛け合い用）', 116401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (316501001, '祈梨（時空旅行）（花凜對話用）', 116501, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (316601001, '嘉夜（時空旅行）（花凜對話用）', 116601, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (316701001, '碧（工作服）（花凜對話用）', 116701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
