@@ -2,3 +2,4 @@ CREATE TABLE 'shiori_event_list' ('event_id' INTEGER NOT NULL, 'start_time' TEXT
 insert into shiori_event_list values (20001, '2022/03/13 11:00:00', '2088/06/15 11:00:00', 0, 0, 0, 0, 10001, '2020/05/15 11:00:00', 5001, '1');
 insert into shiori_event_list values (20002, '2022/04/15 11:00:00', '2088/06/15 11:00:00', 0, 0, 0, 0, 10002, '2020/06/08 11:00:00', 8101, '1');
 insert into shiori_event_list values (20003, '2022/05/15 11:00:00', '2088/06/15 11:00:00', 0, 0, 0, 0, 10003, '2020/07/06 11:00:00', 201, '1');
+insert into shiori_event_list values (20004, '2022/06/14 11:00:00', '2088/06/15 11:00:00', 0, 0, 0, 0, 10004, '2020/08/19 19:00:00', 3394, '1,2');
