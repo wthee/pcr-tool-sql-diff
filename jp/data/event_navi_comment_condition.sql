@@ -905,3 +905,11 @@ insert into event_navi_comment_condition values (20027121, 4, 5046001, 0, 0, 0, 
 insert into event_navi_comment_condition values (20027122, 3, 5046001, 0, 0, 0, 0);
 insert into event_navi_comment_condition values (20027123, 4, 5046002, 0, 0, 0, 0);
 insert into event_navi_comment_condition values (20027124, 3, 5046002, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (20028101, 4, 5048001, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (20028102, 4, 5048001, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (20028104, 3, 5048001, 4, 5048004, 0, 0);
+insert into event_navi_comment_condition values (20028105, 3, 5048001, 4, 5048004, 0, 0);
+insert into event_navi_comment_condition values (20028106, 3, 5048004, 4, 5048006, 0, 0);
+insert into event_navi_comment_condition values (20028107, 3, 5048003, 4, 5048006, 0, 0);
+insert into event_navi_comment_condition values (20028108, 3, 5048006, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (20028109, 3, 5048006, 0, 0, 0, 0);

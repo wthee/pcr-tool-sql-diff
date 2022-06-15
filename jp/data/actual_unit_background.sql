@@ -175,6 +175,7 @@ insert into actual_unit_background values (121931, '柊 杏奈', 510300, 4);
 insert into actual_unit_background values (122031, '上喜 しのぶ', 510350, 4);
 insert into actual_unit_background values (122131, '双葉 碧', 510390, 2);
 insert into actual_unit_background values (122231, '綾瀬 ゆかり', 510070, 2);
+insert into actual_unit_background values (122331, 'ヴァンピィ', 510212, 20);
 insert into actual_unit_background values (180131, '春咲 ひより', 510121, 4);
 insert into actual_unit_background values (180231, '草野 優衣', 510350, 2);
 insert into actual_unit_background values (180331, '士条 怜', 510100, 2);

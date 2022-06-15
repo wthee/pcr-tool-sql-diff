@@ -182,6 +182,7 @@ insert into unit_background values (121901, 'アンナ（パイレーツ）', 50
 insert into unit_background values (122001, 'シノブ（パイレーツ）', 500843, '船の甲板', 0.0, 20);
 insert into unit_background values (122101, 'アオイ（キャンプ）', 501590, 'キャンプ場_昼', 0.0, 20);
 insert into unit_background values (122201, 'ユカリ（キャンプ）', 501590, 'キャンプ場_昼', 0.0, 2);
+insert into unit_background values (122301, 'ヴァンピィ', 500140, 'プラノ平原', 0.0, 4);
 insert into unit_background values (180101, 'ヒヨリ（プリンセス）', 500130, 'エステレラ街道', 0.0, 2);
 insert into unit_background values (180201, 'ユイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 4);
 insert into unit_background values (180301, 'レイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 3);
