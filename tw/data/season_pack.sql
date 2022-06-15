@@ -32,4 +32,14 @@ insert into season_pack values (541, 0, 14, 0, '', '', 9418, 0, 0, 0, 0, 0, 9, 0
 insert into season_pack values (542, 0, 15, 0, '', '', 9419, 0, 0, 0, 0, 0, 10, 0, 0, 0, 37);
 insert into season_pack values (543, 0, 16, 0, '', '', 9420, 0, 0, 0, 0, 0, 11, 0, 0, 0, 37);
 insert into season_pack values (550, 0, 1, 0, '', '', 9319, 30, 0, 0, 908, 0, 110, 0, 0, 0, 0);
+insert into season_pack values (561, 0, 17, 0, '', '', 9421, 0, 0, 0, 0, 0, 4, 0, 0, 0, 34);
+insert into season_pack values (562, 0, 18, 0, '', '', 9422, 0, 0, 0, 0, 0, 5, 0, 0, 0, 31);
+insert into season_pack values (563, 0, 19, 0, '', '', 9423, 0, 0, 0, 0, 0, 6, 0, 0, 0, 37);
+insert into season_pack values (564, 0, 20, 0, '', '', 9424, 0, 0, 0, 0, 0, 7, 0, 0, 0, 38);
+insert into season_pack values (565, 0, 21, 0, '', '', 9425, 0, 0, 0, 0, 0, 8, 0, 0, 0, 37);
+insert into season_pack values (566, 0, 22, 0, '', '', 9426, 0, 0, 0, 0, 0, 9, 0, 0, 0, 37);
+insert into season_pack values (567, 0, 23, 0, '', '', 9427, 0, 0, 0, 0, 0, 10, 0, 0, 0, 37);
+insert into season_pack values (568, 0, 24, 0, '', '', 9428, 0, 0, 0, 0, 0, 11, 0, 0, 0, 37);
+insert into season_pack values (569, 0, 25, 0, '', '', 9429, 0, 0, 0, 0, 0, 12, 0, 0, 0, 37);
+insert into season_pack values (570, 0, 26, 0, '', '', 9430, 0, 0, 0, 0, 0, 13, 0, 0, 0, 37);
 insert into season_pack values (571, 0, 1, 0, '', '', 9319, 30, 0, 0, 908, 0, 111, 0, 0, 0, 0);

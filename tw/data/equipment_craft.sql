@@ -366,4 +366,13 @@ insert into equipment_craft values (107583, 70000, 117583, 30, 0, 0, 0, 0, 0, 0,
 insert into equipment_craft values (107611, 70000, 117611, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into equipment_craft values (107612, 70000, 117612, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into equipment_craft values (107613, 70000, 117613, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into equipment_craft values (108011, 80000, 118011, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into equipment_craft values (108041, 80000, 128041, 15, 106581, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into equipment_craft values (108071, 80000, 118071, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into equipment_craft values (108101, 80000, 118101, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into equipment_craft values (108131, 80000, 128131, 15, 106612, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into equipment_craft values (108161, 80000, 128161, 15, 106611, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into equipment_craft values (108191, 80000, 118191, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into equipment_craft values (108221, 80000, 118221, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into equipment_craft values (108251, 80000, 118251, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into equipment_craft values (140000, 0, 140001, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
