@@ -164,6 +164,7 @@ insert into actual_unit_background values (120731, '阿賀斗 紫布菜', 510130
 insert into actual_unit_background values (120831, '太刀洗 流夏', 510303, 2);
 insert into actual_unit_background values (120931, '伊莉亞・奧恩斯坦', 510202, 4);
 insert into actual_unit_background values (121031, '尤絲蒂亞娜‧F‧阿斯特賴亞', 510360, 2);
+insert into actual_unit_background values (121131, '百地 希留耶', 510350, 2);
 insert into actual_unit_background values (121231, '模索路 晶', 510121, 2);
 insert into actual_unit_background values (180131, '春咲 日和', 510121, 4);
 insert into actual_unit_background values (180231, '草野 優衣', 510350, 2);
