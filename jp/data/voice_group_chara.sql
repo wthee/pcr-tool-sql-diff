@@ -78,6 +78,7 @@ insert into voice_group_chara values (112601001, 'ニュージェネレーショ
 insert into voice_group_chara values (118001001, 'クレジッタ', 118001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (118101001, 'レイジレギオン（ランファ）', 118101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (118501001, 'カリン', 118501, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (122301001, 'ヴァンピィ', 122301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (180701001, 'ハツネ＆シオリ', 180701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (180801001, 'ミソギ＆ミミ＆キョウカ', 180801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (180901001, 'アキノ＆サレン', 180901, 0, 0, 0, 0, 0, 0, 0, 0, 0);

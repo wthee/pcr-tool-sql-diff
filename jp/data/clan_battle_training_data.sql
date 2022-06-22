@@ -69,3 +69,8 @@ insert into clan_battle_training_data values (67, 1051, 0, 2, 229);
 insert into clan_battle_training_data values (68, 1051, 0, 3, 230);
 insert into clan_battle_training_data values (69, 1051, 0, 4, 231);
 insert into clan_battle_training_data values (70, 1051, 0, 5, 232);
+insert into clan_battle_training_data values (71, 1052, 0, 1, 234);
+insert into clan_battle_training_data values (72, 1052, 0, 2, 235);
+insert into clan_battle_training_data values (73, 1052, 0, 3, 236);
+insert into clan_battle_training_data values (74, 1052, 0, 4, 237);
+insert into clan_battle_training_data values (75, 1052, 0, 5, 238);

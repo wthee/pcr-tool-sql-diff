@@ -1,0 +1,1 @@
+CREATE INDEX 'sjr_drama_script_0_drama_id' on 'sjr_drama_script'('drama_id')
