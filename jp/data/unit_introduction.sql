@@ -195,3 +195,4 @@ insert into unit_introduction values (193, 50200, 2, '2022/05/28 12:00:00', '202
 insert into unit_introduction values (194, 30201, 1, '2022/05/31 12:00:00', '2022/06/09 11:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (195, 30202, 1, '2022/06/09 12:00:00', '2022/06/15 14:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (196, 30203, 1, '2022/06/15 15:00:00', '2022/06/24 11:59:59', 380000, 380000, 0, 0, 0, 0);
+insert into unit_introduction values (197, 30204, 1, '2022/06/24 12:00:00', '2022/06/30 11:59:59', 380000, 380000, 0, 0, 0, 0);
