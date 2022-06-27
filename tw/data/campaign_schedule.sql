@@ -823,3 +823,5 @@ insert into campaign_schedule values (821, 84, 1500.0, 109, 80, '2022/06/25 05:0
 insert into campaign_schedule values (822, 85, 1500.0, 112, 80, '2022/06/25 05:00:00', '2022/07/01 04:59:59', 0, 0, 0, 0);
 insert into campaign_schedule values (823, 351, 1500.0, 8004, 80, '2022/06/25 05:00:00', '2022/07/01 04:59:59', 0, 0, 0, 0);
 insert into campaign_schedule values (824, 352, 1500.0, 8005, 80, '2022/06/25 05:00:00', '2022/07/01 04:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (828, 151, 1500.0, 6004, 80, '2022/07/01 16:00:00', '2022/07/15 15:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (829, 152, 1500.0, 6005, 80, '2022/07/01 16:00:00', '2022/07/15 15:59:59', 0, 0, 0, 0);
