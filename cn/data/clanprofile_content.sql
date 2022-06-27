@@ -31,3 +31,6 @@ insert into clanprofile_content values (29, '元旦日出', '2021-12-31 11:00:00
 insert into clanprofile_content values (30, 'New Generations', '2022-05-31 11:00:00', '', 34);
 insert into clanprofile_content values (31, '不可思议之国的城堡', '2022-05-31 11:00:00', '', 4);
 insert into clanprofile_content values (32, '不可思议之国的平原', '2022-05-31 11:00:00', '', 5);
+insert into clanprofile_content values (33, '银河', '2022-06-30 11:00:00', '', 1);
+insert into clanprofile_content values (34, '祈愿竹之村的白天', '2022-06-30 11:00:00', '', 2);
+insert into clanprofile_content values (35, '祈愿竹之村的夜晚', '2022-06-30 11:00:00', '', 3);

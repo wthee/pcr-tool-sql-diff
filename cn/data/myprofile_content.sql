@@ -20,3 +20,6 @@ insert into myprofile_content values (18, '圣诞节的夜晚', '2021-12-11 11:0
 insert into myprofile_content values (19, '元旦日出', '2021-12-31 11:00:00', '', 6);
 insert into myprofile_content values (20, '不可思议之国的城堡', '2022-05-31 11:00:00', '', 4);
 insert into myprofile_content values (21, '不可思议之国的平原', '2022-05-31 11:00:00', '', 5);
+insert into myprofile_content values (22, '银河', '2022-06-30 11:00:00', '', 1);
+insert into myprofile_content values (23, '祈愿竹之村的白天', '2022-06-30 11:00:00', '', 2);
+insert into myprofile_content values (24, '祈愿竹之村的夜晚', '2022-06-30 11:00:00', '', 3);
