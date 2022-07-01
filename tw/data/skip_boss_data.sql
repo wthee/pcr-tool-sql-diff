@@ -153,3 +153,5 @@ insert into skip_boss_data values (1008601, 312600, 100021, 0, 0, 1.75, 1.75);
 insert into skip_boss_data values (1008602, 312600, 100531, 0, 0, 1.75, 1.75);
 insert into skip_boss_data values (1008701, 312700, 101821, 0, 0, 1.0, 1.0);
 insert into skip_boss_data values (1008702, 312700, 101841, 0, 0, 1.0, 1.0);
+insert into skip_boss_data values (1008801, 315100, 81008801, 0, -20, 0.8, 0.8);
+insert into skip_boss_data values (1008802, 315100, 81008802, 0, -20, 0.8, 0.8);
