@@ -144,6 +144,10 @@ insert into chara_story_status values (1015005, 'ミサトのエピソード第5
 insert into chara_story_status values (1015006, 'ミサトのエピソード第6話', 4, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1015, 1135, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1015007, 'ミサトのエピソード第7話', 4, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1015, 1135, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1015008, 'ミサトのエピソード第8話', 4, 90, 11, 60, 0, 0, 0, 0, 0, 0, 1015, 1135, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1015009, 'ミサトのエピソード第9話', 4, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1015, 1135, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1015010, 'ミサトのエピソード第10話', 4, 140, 0, 0, 0, 0, 0, 0, 0, 0, 1015, 1135, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1015011, 'ミサトのエピソード第11話', 4, 140, 0, 0, 0, 0, 0, 0, 0, 0, 1015, 1135, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1015012, 'ミサトのエピソード第12話', 4, 240, 15, 5, 0, 0, 0, 0, 0, 0, 1015, 1135, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1016002, 'スズナのエピソード第2話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1016, 1100, 1179, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1016003, 'スズナのエピソード第3話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1016, 1100, 1179, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1016004, 'スズナのエピソード第4話', 2, 30, 0, 0, 0, 0, 0, 0, 0, 0, 1016, 1100, 1179, 0, 0, 0, 0, 0, 0, 0);
