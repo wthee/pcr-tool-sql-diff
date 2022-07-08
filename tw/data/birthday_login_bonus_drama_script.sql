@@ -2829,7 +2829,7 @@ insert into birthday_login_bonus_drama_script values (1056501017, 1056501, 2, '1
 insert into birthday_login_bonus_drama_script values (1056501018, 1056501, 93, '1.4', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1056501019, 1056501, 121, '0', '0', '1.4', '1.4', '1', '3', '', '');
 insert into birthday_login_bonus_drama_script values (1056501020, 1056501, 131, '1', '', '', '', '', '', '', '');
-insert into birthday_login_bonus_drama_script values (1056501021, 1056501, 3, '105611', 'blb_blowout_ruka', '0', 'blb_idle', '1', '0.3', '0.3', '');
+insert into birthday_login_bonus_drama_script values (1056501021, 1056501, 3, '105611', 'blb_blowout_01_ruka', '0', 'blb_idle', '1', '0.3', '0.3', '');
 insert into birthday_login_bonus_drama_script values (1056501022, 1056501, 93, '0.7', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1056501023, 1056501, 32, '12', '0', '0', '0', '1', '1', '', '');
 insert into birthday_login_bonus_drama_script values (1056501024, 1056501, 31, '13', '13', '0', '0', '1', '1', '', '');
@@ -2844,7 +2844,7 @@ insert into birthday_login_bonus_drama_script values (1056501032, 1056501, 3, '1
 insert into birthday_login_bonus_drama_script values (1056501033, 1056501, 93, '1.05', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1056501034, 1056501, 23, 'se_common', 'se_sys_login_birthday_cracker', '0', '0', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1056501035, 1056501, 31, '6', '6', '0', '0', '1', '1', '', '');
-insert into birthday_login_bonus_drama_script values (1056501036, 1056501, 3, '105611', 'blb_joy_ruka', '0', 'blb_wish_01', '1', '0', '', '');
+insert into birthday_login_bonus_drama_script values (1056501036, 1056501, 3, '105611', 'blb_joy_01_ruka', '0', 'blb_wish_01', '1', '0', '', '');
 insert into birthday_login_bonus_drama_script values (1056501037, 1056501, 93, '2', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1056501038, 1056501, 21, 'vo_adv_1056501', 'vo_adv_1056501_000', '0', '0', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1056501039, 1056501, 13, '105611', '870', '', '', '', '', '', '');
