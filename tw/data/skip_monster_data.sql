@@ -2727,6 +2727,9 @@ insert into skip_monster_data values (13029003, 13029, '迪茲塔爾河蝕岸‧
 insert into skip_monster_data values (13030001, 13030, '弗泰拉斷崖‧北部 30-1', 103300103, 101641);
 insert into skip_monster_data values (13030002, 13030, '弗泰拉斷崖‧北部 30-2', 103290201, 100931);
 insert into skip_monster_data values (13030003, 13030, '弗泰拉斷崖‧北部 30-3', 103290302, 102201);
+insert into skip_monster_data values (13031001, 13031, '弗泰拉斷崖‧南部 31-1', 103300201, 101691);
+insert into skip_monster_data values (13031002, 13031, '弗泰拉斷崖‧南部 31-2', 103300307, 101641);
+insert into skip_monster_data values (13031003, 13031, '弗泰拉斷崖‧南部 31-3', 103310101, 102201);
 insert into skip_monster_data values (18001001, 18001, '聖跡調查冒險Lv1', 108010108, 101331);
 insert into skip_monster_data values (18001002, 18001, '聖跡調查冒險Lv2', 108010208, 101341);
 insert into skip_monster_data values (18001003, 18001, '聖跡調查冒險Lv3', 108010308, 101341);
