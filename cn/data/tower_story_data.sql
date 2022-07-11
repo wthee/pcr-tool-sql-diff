@@ -11,3 +11,4 @@ insert into tower_story_data values (7009, 7, 9, '毛茸茸的童话旅途', 0, 
 insert into tower_story_data values (7010, 7, 10, '老师们的学习辅导', 0, 1, '2022/01/14 11:00:00', '2099/12/31 23:59:59');
 insert into tower_story_data values (7011, 7, 11, '忍剑奇道中', 0, 1, '2022/03/16 12:00:00', '2099/12/31 23:59:59');
 insert into tower_story_data values (7012, 7, 12, '擦肩而过的距离', 0, 1, '2022/05/15 12:00:00', '2099/12/31 23:59:59');
+insert into tower_story_data values (7013, 7, 13, '劳逸不均', 0, 1, '2022/07/14 12:00:00', '2099/12/31 23:59:59');

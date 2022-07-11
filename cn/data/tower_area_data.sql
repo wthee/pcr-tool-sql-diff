@@ -21,3 +21,4 @@ insert into tower_area_data values (19, 400, 81000104, 'bgm_M125', 73190400);
 insert into tower_area_data values (20, 410, 81000104, 'bgm_M125', 73200410);
 insert into tower_area_data values (21, 420, 81000104, 'bgm_M125', 73210420);
 insert into tower_area_data values (22, 430, 81000104, 'bgm_M125', 73220430);
+insert into tower_area_data values (23, 440, 81000104, 'bgm_M125', 73230440);
