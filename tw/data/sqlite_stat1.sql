@@ -6,7 +6,7 @@ insert into sqlite_stat1 values ('goldset_data_2', None, '70');
 insert into sqlite_stat1 values ('emblem_mission_data', None, '725');
 insert into sqlite_stat1 values ('shiori_mission_reward_data', 'shiori_mission_reward_data_0_mission_reward_id', '1098 2');
 insert into sqlite_stat1 values ('shiori_item', None, '24');
-insert into sqlite_stat1 values ('campaign_schedule', None, '834');
+insert into sqlite_stat1 values ('campaign_schedule', None, '836');
 insert into sqlite_stat1 values ('tower_ex_quest_data', 'tower_ex_quest_data_0_floor_num', '42 1');
 insert into sqlite_stat1 values ('event_navi_comment_condition', None, '681');
 insert into sqlite_stat1 values ('sekai_boss_mode', None, '12');
