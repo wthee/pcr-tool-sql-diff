@@ -30,3 +30,4 @@ insert into login_bonus_data values (70007, '元旦紀念特別登入獎勵', 7,
 insert into login_bonus_data values (80003, '2.5周年倒數登入獎勵', 8, 15, '2021/01/25 05:00:00', '2021/02/09 04:59:59', 0, 0, 0, 0, 1);
 insert into login_bonus_data values (80004, '3周年倒數登入獎勵', 10, 17, '2021/07/17 05:00:00', '2021/08/03 04:59:59', 0, 0, 0, 1, 1);
 insert into login_bonus_data values (80005, '三周年半倒數登入獎勵', 8, 15, '2022/01/18 05:00:00', '2022/02/02 04:59:59', 0, 0, 0, 0, 1);
+insert into login_bonus_data values (80006, '4th Year Anniversary倒數登入獎勵', 10, 17, '2022/07/16 05:00:00', '2022/08/02 04:59:59', 0, 0, 0, 1, 1);
