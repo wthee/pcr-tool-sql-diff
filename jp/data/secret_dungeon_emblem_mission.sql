@@ -4,3 +4,8 @@ insert into secret_dungeon_emblem_mission values (3200102, 1004110, 603, 'スペ
 insert into secret_dungeon_emblem_mission values (3200103, 1004110, 603, 'スペシャルダンジョンを3回登頂しよう', '3rd Round Clear！', 80001, 0, 0, 0, '3', 32001003, 32001, 1, '2015/04/01 15:00:00', '2030/04/01 14:59:59');
 insert into secret_dungeon_emblem_mission values (3200104, 1004110, 603, 'スペシャルダンジョンを4回登頂しよう', '4th Round Clear！', 80001, 0, 0, 0, '4', 32001004, 32001, 1, '2015/04/01 15:00:00', '2030/04/01 14:59:59');
 insert into secret_dungeon_emblem_mission values (3200105, 1004110, 603, 'スペシャルダンジョンを5回登頂しよう', 'CONQUEST！', 80001, 0, 0, 0, '5', 32001005, 32001, 1, '2015/04/01 15:00:00', '2030/04/01 14:59:59');
+insert into secret_dungeon_emblem_mission values (3200201, 1004110, 603, 'スペシャルダンジョンを1回登頂しよう', '1st Round Clear!', 80001, 0, 0, 0, '1', 32001001, 32002, 1, '2015/04/01 15:00:00', '2030/04/01 14:59:59');
+insert into secret_dungeon_emblem_mission values (3200202, 1004110, 603, 'スペシャルダンジョンを2回登頂しよう', '2nd Round Clear!', 80001, 0, 0, 0, '2', 32001002, 32002, 1, '2015/04/01 15:00:00', '2030/04/01 14:59:59');
+insert into secret_dungeon_emblem_mission values (3200203, 1004110, 603, 'スペシャルダンジョンを3回登頂しよう', '3rd Round Clear!', 80001, 0, 0, 0, '3', 32001003, 32002, 1, '2015/04/01 15:00:00', '2030/04/01 14:59:59');
+insert into secret_dungeon_emblem_mission values (3200204, 1004110, 603, 'スペシャルダンジョンを4回登頂しよう', '4th Round Clear!', 80001, 0, 0, 0, '4', 32001004, 32002, 1, '2015/04/01 15:00:00', '2030/04/01 14:59:59');
+insert into secret_dungeon_emblem_mission values (3200205, 1004110, 603, 'スペシャルダンジョンを5回登頂しよう', 'CONQUEST!', 80001, 0, 0, 0, '5', 32001005, 32002, 1, '2015/04/01 15:00:00', '2030/04/01 14:59:59');

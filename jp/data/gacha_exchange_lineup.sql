@@ -388,3 +388,4 @@ insert into gacha_exchange_lineup values (386, 205, 122501, 3, 1084, '2022/06/30
 insert into gacha_exchange_lineup values (387, 206, 117001, 3, 0, '2022/07/08 12:00:00', '2022/07/11 11:59:59');
 insert into gacha_exchange_lineup values (388, 207, 120701, 3, 0, '2022/07/11 12:00:00', '2022/07/15 14:59:59');
 insert into gacha_exchange_lineup values (389, 207, 120901, 3, 0, '2022/07/11 12:00:00', '2022/07/15 14:59:59');
+insert into gacha_exchange_lineup values (390, 208, 122601, 3, 1085, '2022/07/15 15:00:00', '2022/07/25 11:59:59');

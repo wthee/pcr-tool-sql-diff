@@ -92,3 +92,6 @@ insert into event_effect_setting values (10091, 4, 80002);
 insert into event_effect_setting values (10093, 4, 80002);
 insert into event_effect_setting values (10094, 4, 10094);
 insert into event_effect_setting values (10096, 4, 10072);
+insert into event_effect_setting values (10097, 1, 10070);
+insert into event_effect_setting values (10097, 2, 10070);
+insert into event_effect_setting values (10097, 6, 10070);

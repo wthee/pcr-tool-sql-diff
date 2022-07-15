@@ -227,3 +227,7 @@ insert into music_content values (225, 'エンジョイ＆リフレッシュ！\
 insert into music_content values (226, 'アストライアタケモドキ', '1:59', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 01:59\\n作曲 / 長谷部翔（Cygames）\\n編曲 / 長谷部翔（Cygames）', 'bgm_M598', 'bgm_M598_juke');
 insert into music_content values (227, 'さん！シャインPARTY', '1:34', '0:51', 'キャラクターソング\\n\\n時間 / 01:34\\n歌\u3000 / アオイ（花澤香菜）\\n\u3000\u3000\u3000ユカリ（今井麻美）\\n\u3000\u3000\u3000ジュン（川澄綾子）\\n作詞 / no_my\\n作曲 / no_my\\n編曲 / 青柳諒', 'bgm_M594', 'bgm_M594');
 insert into music_content values (228, 'いざ行かん、霊妙なる森の奥へと', '1:18', '0:00', 'メインクエスト\\n\\n時間 / 01:18\\n作曲 / 長門千晴（Cygames）\\n編曲 / 長門千晴（Cygames）', 'bgm_M599A', 'bgm_M599A_juke');
+insert into music_content values (229, 'トゥインクルサマーゲーム\u3000夏海にきらめく三つの想い', '1:14', '0:00', 'ストーリーイベントテーマ\\n-｢Secret Star｣アレンジ-\\n\\n時間 / 01:14\\n作曲 / PandaBoY\\n編曲 / 畑田浩孝（Cygames）', 'bgm_M601', 'bgm_M601_juke');
+insert into music_content values (230, '海将タツノココマンダー', '2:31', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 02:31\\n作曲 / 中川峻彰\\n編曲 / 中川峻彰', 'bgm_M604', 'bgm_M604_juke');
+insert into music_content values (231, 'Secret Star', '1:30', '0:43', 'キャラクターソング\\n\\n時間 / 01:30\\n歌\u3000 / ユイ（種田梨沙）\\n\u3000\u3000\u3000ヒヨリ（東山奈央）\\n\u3000\u3000\u3000レイ（早見沙織）\\n作詞 / PandaBoY\\n作曲 / PandaBoY\\n編曲 / PandaBoY', 'bgm_M606', 'bgm_M606');
+insert into music_content values (232, '駆けろ常夏！アルティメットビーチフラッグス', '1:42', '0:00', 'ミニゲーム\\n-｢Secret Star｣アレンジ-\\n\\n時間 / 01:42\\n作曲 / PandaBoY\\n編曲 / 関根修平（Cygames）', 'bgm_M605', 'bgm_M605_juke');

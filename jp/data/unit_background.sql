@@ -185,6 +185,7 @@ insert into unit_background values (122201, 'ユカリ（キャンプ）', 50159
 insert into unit_background values (122301, 'ヴァンピィ', 500140, 'プラノ平原', 0.0, 4);
 insert into unit_background values (122401, 'ヒヨリ（サマー）', 501610, 'リゾートビーチ_昼', 0.0, 4);
 insert into unit_background values (122501, 'レイ（サマー）', 501610, 'リゾートビーチ_昼', 0.0, 2);
+insert into unit_background values (122601, 'ユイ（サマー）', 501610, 'リゾートビーチ_昼', 0.0, 6);
 insert into unit_background values (180101, 'ヒヨリ（プリンセス）', 500130, 'エステレラ街道', 0.0, 2);
 insert into unit_background values (180201, 'ユイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 4);
 insert into unit_background values (180301, 'レイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 3);
