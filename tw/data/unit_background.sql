@@ -175,6 +175,7 @@ insert into unit_background values (121001, '貪吃佩可（超載）', 500361, 
 insert into unit_background values (121101, '凱留（超載）', 500361, '美食殿堂 公會小屋', 0.0, 2);
 insert into unit_background values (121201, '拉比林斯達（超載）', 500341, '拉比林斯的公會據點', 0.0, 3);
 insert into unit_background values (121301, '胡桃（舞台）', 501510, '牧場_溫泉設施_舞台', 0.0, 2);
+insert into unit_background values (121401, '美咲（舞台）', 500354, '咲戀育幼院_物產展', 0.0, 2);
 insert into unit_background values (180101, '日和（公主）', 500130, '埃斯特雷拉街道', 0.0, 2);
 insert into unit_background values (180201, '優衣（公主）', 500130, '埃斯特雷拉街道', 0.0, 4);
 insert into unit_background values (180301, '怜（公主）', 500130, '埃斯特雷拉街道', 0.0, 3);
