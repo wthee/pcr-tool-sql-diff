@@ -1,0 +1,1 @@
+CREATE INDEX 'unique_equipment_bonus_0_equipment_id' on 'unique_equipment_bonus'('equipment_id')

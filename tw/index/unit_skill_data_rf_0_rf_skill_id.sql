@@ -1,0 +1,1 @@
+CREATE INDEX 'unit_skill_data_rf_0_rf_skill_id' on 'unit_skill_data_rf'('rf_skill_id')

@@ -216,3 +216,10 @@ insert into music_content values (214, 'Happy Anniv.特別版 蘭德索爾猜謎
 insert into music_content values (215, 'Thinking Time！', '1:49', '0:00', '小遊戲\\n-「Mirage Game」編曲-\\n\\n時間 / 01:49\\n作曲 / 田中公平\\n編曲 / 中村博', 'bgm_M569', 'bgm_M569_juke');
 insert into music_content values (216, '聽得見音樂劇嗎？', '1:27', '0:55', '角色歌曲\\n\\n時間 / 01:27\\n演唱\u3000 / 胡桃（植田佳奈）\\n作詞 / 藤村鼓乃美、北川勝利（ROUND TABLE）\\n作曲 / 北川勝利（ROUND TABLE）\\n編曲 / 北川勝利（ROUND TABLE）', 'bgm_M573', 'bgm_M573');
 insert into music_content values (217, 'Crossing Truth', '1:33', '0:58', '角色歌曲\\n\\n時間 / 01:33\\n演唱\u3000 / 貪吃佩可（M‧A‧O）\\n\u3000\u3000\u3000可可蘿（伊藤美来）\\n\u3000\u3000\u3000凱留（立花理香）\\n\u3000\u3000\u3000雪菲（近藤玲奈）\\n作詞 / 磯谷佳江\\n作曲 / 中土智博\\n編曲 / 中土智博', 'bgm_M581', 'bgm_M581');
+insert into music_content values (218, '交出寶物！透明怪盜雙人組', '1:04', '0:00', '故事劇情主題曲\\n-「Secret Longing」編曲-\\n\\n時間 / 01:04\\n作曲 / 河合泰志（Arte Refact）\\n編曲 / 長谷部翔（Cygames）', 'bgm_M574', 'bgm_M574_juke');
+insert into music_content values (219, '貪婪暴君‧賭場王', '1:43', '0:00', '故事劇情Boss戰\\n\\n時間 / 01:43\\n作曲 / 中村博\\n編曲 / 中村博', 'bgm_M577', 'bgm_M577_juke');
+insert into music_content values (220, 'Secret Longing', '1:31', '0:55', '角色歌曲\\n\\n時間 / 01:31\\n演唱\u3000 / 步未（大関英里）\\n作詞 / 真崎エリカ\\n作曲 / 河合泰志（Arte Refact）\\n編曲 / 河合泰志（Arte Refact）', 'bgm_M592', 'bgm_M592');
+insert into music_content values (221, ' Episode of Pirate\u3000海賊島上被詛咒的遺寶', '1:36', '0:00', '故事劇情主題曲\\n-「無敵海盜」編曲-\\n\\n時間 / 01:36\\n作曲 / 鹽原大貴\\n編曲 / 下智子', 'bgm_M582', 'bgm_M582_juke');
+insert into music_content values (222, '受解放的寶藏守護者', '1:53', '0:00', '故事劇情Boss戰\\n\\n時間 / 01:53\\n作曲 / 畑田浩孝（Cygames）\\n編曲 / 畑田浩孝（Cygames）', 'bgm_M585', 'bgm_M585_juke');
+insert into music_content values (223, '無敵海盜', '1:30', '0:47', '角色歌曲\\n\\n時間 / 01:30\\n演唱\u3000 / 杏奈（高野麻美）\\n\u3000\u3000\u3000忍（大坪由佳）\\n\u3000\u3000\u3000霞（水瀨いのり）\\n作詞 / 月丘りあ子\\n作曲 / 鹽原大貴\\n編曲 / 鹽原大貴', 'bgm_M593', 'bgm_M593');
+insert into music_content values (224, '莊嚴的熱沙', '1:07', '0:00', '主線冒險\\n\\n時間 / 01:07\\n作曲 / 中村博\\n編曲 / 中村博', 'bgm_M571', 'bgm_M571_juke');
