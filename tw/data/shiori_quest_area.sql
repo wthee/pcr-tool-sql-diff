@@ -56,3 +56,5 @@ insert into shiori_quest_area values (20024101, 20024, '伊麗莎白牧場', 201
 insert into shiori_quest_area values (20024102, 20024, '王城蘭德索爾', 201, 'bgm_M351', 'bgm_M351', 1, 2, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20024103, 20024, '伊麗莎白牧場', 201, 'bgm_M351', 'bgm_M351', 1, 3, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20024201, 20024, '伊麗莎白牧場', 201, 'bgm_M351', 'bgm_M351', 1, 1, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20025101, 20025, '不可思議之國', 201, 'bgm_M375', 'bgm_M375', 1, 0, 200, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20025201, 20025, '不可思議之國', 201, 'bgm_M375', 'bgm_M375', 1, 0, 100, 0, 0, '0', '0', 0);
