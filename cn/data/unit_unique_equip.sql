@@ -85,3 +85,5 @@ insert into unit_unique_equip values (110301, 1, 131031);
 insert into unit_unique_equip values (110401, 1, 131041);
 insert into unit_unique_equip values (110501, 1, 131051);
 insert into unit_unique_equip values (110601, 1, 131061);
+insert into unit_unique_equip values (110701, 1, 131071);
+insert into unit_unique_equip values (110801, 1, 131081);

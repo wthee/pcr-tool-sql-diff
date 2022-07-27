@@ -8,3 +8,4 @@ insert into campaign_freegacha values (6, 6, 0, 1, '2021/08/21 5:00:00', '2021/0
 insert into campaign_freegacha values (7, 7, 0, 1, '2021/12/20 5:00:00', '2022/01/03 15:59:59', 1, 0, 0);
 insert into campaign_freegacha values (8, 8, 0, 1, '2022/01/28 5:00:00', '2022/02/12 4:59:59', 1, 0, 0);
 insert into campaign_freegacha values (9, 9, 0, 1, '2022/04/30 5:00:00', '2022/05/07 4:59:59', 1, 0, 0);
+insert into campaign_freegacha values (10, 10, 0, 1, '2022/08/15 5:00:00', '2022/09/01 4:59:59', 1, 0, 0);
