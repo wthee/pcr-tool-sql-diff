@@ -50,3 +50,4 @@ insert into event_story_data values (5082, 5, 10082, '新春美食回憶\u3000\\
 insert into event_story_data values (5084, 5, 10084, 'Re:member\u3000我的心願編織出的未來', 0, 1, '2022/05/30 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5085, 5, 10085, 'Re:member\u3000我的心願編織出的未來', 0, 1, '2022/05/30 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5088, 5, 10088, 'Sweet Tiny Stage！\u3000\\n初出茅廬的女演員與小小淑女', 0, 1, '2022/06/28 16:00:00', '2030/04/24 14:59:59');
+insert into event_story_data values (5090, 5, 10090, '交出寶物！透明怪盜雙人組', 0, 1, '2022/07/29 16:00:00', '2030/04/24 14:59:59');

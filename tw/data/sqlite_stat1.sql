@@ -103,7 +103,7 @@ insert into sqlite_stat1 values ('unit_comments', 'unit_comments_0_unit_id', '24
 insert into sqlite_stat1 values ('pct_gaming_motion', None, '8');
 insert into sqlite_stat1 values ('pct_evaluation', None, '5');
 insert into sqlite_stat1 values ('event_top_adv', 'event_top_adv_0_event_id_1_type', '1377 14 4');
-insert into sqlite_stat1 values ('event_gacha_data', 'event_gacha_data_0_event_id', '89 1');
+insert into sqlite_stat1 values ('event_gacha_data', 'event_gacha_data_0_event_id', '90 1');
 insert into sqlite_stat1 values ('shiori_unlock_unit_condition', 'shiori_unlock_unit_condition_0_condition_mission_id', '14 1');
 insert into sqlite_stat1 values ('shiori_unlock_unit_condition', 'shiori_unlock_unit_condition_0_unit_id_1_event_id', '14 1 1');
 insert into sqlite_stat1 values ('hatsune_bg_change_data', 'hatsune_bg_change_data_0_target_type_1_area_id', '46 23 2');
@@ -177,7 +177,7 @@ insert into sqlite_stat1 values ('event_effect_setting', 'sqlite_autoindex_event
 insert into sqlite_stat1 values ('uek_boss', 'uek_boss_0_enemy_id', '4 1');
 insert into sqlite_stat1 values ('event_revival_series_wave_group_data', None, '4518');
 insert into sqlite_stat1 values ('goldset_data', None, '70');
-insert into sqlite_stat1 values ('event_story_data', 'event_story_data_0_value', '51 1');
+insert into sqlite_stat1 values ('event_story_data', 'event_story_data_0_value', '52 1');
 insert into sqlite_stat1 values ('quest_data', None, '992');
 insert into sqlite_stat1 values ('legion_effective_unit', 'legion_effective_unit_0_legion_boss_id', '76 19');
 insert into sqlite_stat1 values ('legion_effective_unit', 'sqlite_autoindex_legion_effective_unit_1', '76 19 1');
@@ -384,8 +384,8 @@ insert into sqlite_stat1 values ('shiori_boss', 'shiori_boss_0_event_id', '75 3'
 insert into sqlite_stat1 values ('hatsune_limit_chara', None, '5');
 insert into sqlite_stat1 values ('hatsune_quiz_reward', None, '8');
 insert into sqlite_stat1 values ('hatsune_daily_mission_data', None, '171');
-insert into sqlite_stat1 values ('hatsune_schedule', 'hatsune_schedule_0_original_event_id', '89 3');
-insert into sqlite_stat1 values ('hatsune_schedule', 'hatsune_schedule_0_series_event_id', '89 15');
+insert into sqlite_stat1 values ('hatsune_schedule', 'hatsune_schedule_0_original_event_id', '90 3');
+insert into sqlite_stat1 values ('hatsune_schedule', 'hatsune_schedule_0_series_event_id', '90 15');
 insert into sqlite_stat1 values ('exceed_level_unit', 'exceed_level_unit_0_unit_id', '185 1');
 insert into sqlite_stat1 values ('exceed_level_unit', 'sqlite_autoindex_exceed_level_unit_1', '185 1 1');
 insert into sqlite_stat1 values ('dodge_tp_recovery', None, '40');
