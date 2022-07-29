@@ -123,6 +123,13 @@ insert into voice_group values (20125, '禊美美鏡華＆凱留', 180801001, 10
 insert into voice_group values (20126, '禊美美鏡華＆雪菲', 180801001, 106401001, 0, 0, 0);
 insert into voice_group values (20127, '禊美美鏡華＆胡桃', 180801001, 102101001, 0, 0, 0);
 insert into voice_group values (20128, '禊美美鏡華＆綾音', 180801001, 102301001, 0, 0, 0);
+insert into voice_group values (20129, '秋乃咲戀＆鈴莓', 180901001, 102501001, 0, 0, 0);
+insert into voice_group values (20130, '秋乃咲戀＆綾音', 180901001, 102301001, 0, 0, 0);
+insert into voice_group values (20131, '秋乃咲戀＆胡桃', 180901001, 102101001, 0, 0, 0);
+insert into voice_group values (20132, '秋乃咲戀＆純', 180901001, 104701001, 0, 0, 0);
+insert into voice_group values (20133, '秋乃咲戀＆美冬', 180901001, 104801001, 0, 0, 0);
+insert into voice_group values (20134, '秋乃咲戀＆優花梨', 180901001, 103401001, 0, 0, 0);
+insert into voice_group values (20135, '秋乃咲戀＆珠希', 180901001, 104601001, 0, 0, 0);
 insert into voice_group values (20136, '蘭法＆可可蘿', 118101001, 105901001, 0, 0, 0);
 insert into voice_group values (20137, '蘭法＆千歌', 118101001, 104201001, 0, 0, 0);
 insert into voice_group values (30001, '日和（花凜對話用）', 118501001, 300101001, 0, 0, 0);
