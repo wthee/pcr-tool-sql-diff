@@ -11,5 +11,6 @@ insert into custom_mypage_group values (20001, 'プリンセスコネクト！Re
 insert into custom_mypage_group values (20002, '公式アートワークス Vol.3 発売記念アイテム');
 insert into custom_mypage_group values (20003, 'プリンセスコネクト！Re:Dive 3.5周年記念');
 insert into custom_mypage_group values (20004, 'プリンセスコネクト！Re:Dive 4周年記念');
+insert into custom_mypage_group values (20005, 'プリンセスコネクト！Re:Dive 4.5周年記念');
 insert into custom_mypage_group values (30001, 'ミニゲーム');
 insert into custom_mypage_group values (40001, 'みんなのカレンダー');

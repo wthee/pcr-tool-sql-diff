@@ -54,3 +54,4 @@ insert into hatsune_unlock_unit_condition values (54, 115801, 10089, 71089032, '
 insert into hatsune_unlock_unit_condition values (55, 122101, 10094, 71094032, 'ボスNORMAL討伐で解放！', '[3C404E]イベントを進めて、ボスに挑戦！\\nボスNORMALを討伐すると、\\n限定キャラ解放！！[-]', '[3C404E]ボスNORMAL討伐で解放！');
 insert into hatsune_unlock_unit_condition values (56, 116801, 10095, 71095032, 'ボスNORMAL討伐で解放！', '[3C404E]イベントを進めて、ボスに挑戦！\\nボスNORMALを討伐すると、\\n限定キャラ解放！！[-]', '[3C404E]ボスNORMAL討伐で解放！');
 insert into hatsune_unlock_unit_condition values (57, 122401, 10096, 71096032, 'ボスNORMAL討伐で解放！', '[3C404E]イベントを進めて、ボスに挑戦！\\nボスNORMALを討伐すると、\\n限定キャラ解放！！[-]', '[3C404E]ボスNORMAL討伐で解放！');
+insert into hatsune_unlock_unit_condition values (58, 122801, 10098, 71098032, 'ボスNORMAL討伐で解放！', '[3C404E]イベントを進めて、ボスに挑戦！\\nボスNORMALを討伐すると、\\n限定キャラ解放！！[-]', '[3C404E]ボスNORMAL討伐で解放！');

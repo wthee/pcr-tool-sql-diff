@@ -53,3 +53,18 @@ insert into login_bonus_adv values (61, 80006, '2022/02/15 5:00:00', '2022/02/16
 insert into login_bonus_adv values (62, 70007, '0', '0', 1, 436, 0);
 insert into login_bonus_adv values (63, 70007, '0', '0', 2, 437, 0);
 insert into login_bonus_adv values (64, 70007, '0', '0', 3, 438, 0);
+insert into login_bonus_adv values (65, 80007, '2022/08/01 5:00:00', '2022/08/02 4:59:59', 3, 9005001, 0);
+insert into login_bonus_adv values (66, 80007, '2022/08/02 5:00:00', '2022/08/03 4:59:59', 3, 9005002, 0);
+insert into login_bonus_adv values (67, 80007, '2022/08/03 5:00:00', '2022/08/04 4:59:59', 3, 9005003, 0);
+insert into login_bonus_adv values (68, 80007, '2022/08/04 5:00:00', '2022/08/05 4:59:59', 3, 9005004, 0);
+insert into login_bonus_adv values (69, 80007, '2022/08/05 5:00:00', '2022/08/06 4:59:59', 3, 9005005, 0);
+insert into login_bonus_adv values (70, 80007, '2022/08/06 5:00:00', '2022/08/07 4:59:59', 3, 9005006, 0);
+insert into login_bonus_adv values (71, 80007, '2022/08/07 5:00:00', '2022/08/08 4:59:59', 3, 9005007, 0);
+insert into login_bonus_adv values (72, 80007, '2022/08/08 5:00:00', '2022/08/09 4:59:59', 3, 9005008, 0);
+insert into login_bonus_adv values (73, 80007, '2022/08/09 5:00:00', '2022/08/10 4:59:59', 3, 9005009, 0);
+insert into login_bonus_adv values (74, 80007, '2022/08/10 5:00:00', '2022/08/11 4:59:59', 3, 9005010, 0);
+insert into login_bonus_adv values (75, 80007, '2022/08/11 5:00:00', '2022/08/12 4:59:59', 3, 9005011, 0);
+insert into login_bonus_adv values (76, 80007, '2022/08/12 5:00:00', '2022/08/13 4:59:59', 3, 9005012, 0);
+insert into login_bonus_adv values (77, 80007, '2022/08/13 5:00:00', '2022/08/14 4:59:59', 3, 9005013, 0);
+insert into login_bonus_adv values (78, 80007, '2022/08/14 5:00:00', '2022/08/15 4:59:59', 3, 9005014, 0);
+insert into login_bonus_adv values (79, 80007, '2022/08/15 5:00:00', '2022/08/16 4:59:59', 3, 9005015, 1);

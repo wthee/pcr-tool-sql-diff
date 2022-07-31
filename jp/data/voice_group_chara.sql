@@ -2,7 +2,7 @@ CREATE TABLE 'voice_group_chara' ('group_unit_id' INTEGER NOT NULL, 'group_unit_
 insert into voice_group_chara values (100101001, 'トゥインクルウィッシュ（ヒヨリ）', 100101, 108701, 180101, 122401, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100201001, 'トゥインクルウィッシュ（ユイ）', 100201, 108801, 180201, 115601, 122601, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100301001, 'トゥインクルウィッシュ（レイ）', 100301, 108901, 114001, 180301, 122501, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (100401001, 'リトルリリカル（ミソギ）', 100401, 111201, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (100401001, 'リトルリリカル（ミソギ）', 100401, 111201, 122801, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100501001, 'NIGHTMARE（マツリ）', 100501, 114101, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100601001, 'ディアボロス（アカリ）', 100601, 113701, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100701001, 'ディアボロス（ミヤコ）', 100701, 108201, 119901, 0, 0, 0, 0, 0, 0, 0);
@@ -17,7 +17,7 @@ insert into voice_group_chara values (101501001, 'フォレスティエ（ミサ
 insert into voice_group_chara values (101601001, 'ルーセント学院（スズナ）', 101601, 110001, 117901, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (101701001, 'カォン（カオリ）', 101701, 110501, 117701, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (101801001, 'ルーセント学院（イオ）', 101801, 110101, 119001, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (102001001, 'リトルリリカル（ミミ）', 102001, 111301, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (102001001, 'リトルリリカル（ミミ）', 102001, 111301, 122901, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (102101001, 'サレンディア救護院（クルミ）', 102101, 108501, 121301, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (102201001, 'ディアボロス（ヨリ）', 102201, 113801, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (102301001, 'サレンディア救護院（アヤネ）', 102301, 108601, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -249,6 +249,8 @@ insert into voice_group_chara values (322201001, 'ユカリ（キャンプ）（
 insert into voice_group_chara values (322401001, 'ヒヨリ（サマー）（カリン掛け合い用）', 122401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (322501001, 'レイ（サマー）（カリン掛け合い用）', 122501, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (322601001, 'ユイ（サマー）（カリン掛け合い用）', 122601, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (322801001, 'ミソギ（サマー）（カリン掛け合い用）', 122801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (322901001, 'ミミ（サマー）（カリン掛け合い用）', 122901, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380101001, 'ヒヨリ（プリンセス）（カリン掛け合い用）', 180101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380201001, 'ユイ（プリンセス）（カリン掛け合い用）', 180201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380301001, 'レイ（プリンセス）（カリン掛け合い用）', 180301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
