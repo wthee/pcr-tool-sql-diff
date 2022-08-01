@@ -22,4 +22,5 @@ insert into room_effect values (20, 0, 0, 0, 0, 0, 10061, 0);
 insert into room_effect values (21, 0, 0, 0, 0, 0, 0, 0);
 insert into room_effect values (22, 0, 0, 0, 0, 0, 0, 0);
 insert into room_effect values (23, 0, 0, 0, 0, 0, 0, 23);
+insert into room_effect values (25, 25, 0, 0, 0, 0, 0, 0);
 insert into room_effect values (26, 0, 0, 0, 0, 0, 10088, 0);

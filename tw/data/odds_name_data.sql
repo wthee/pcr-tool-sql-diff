@@ -187,3 +187,6 @@ insert into odds_name_data values (1008801, '1008820101', '真陽（遊俠）的
 insert into odds_name_data values (1008802, '1008820102', '鈴的記憶碎片', 99002, '');
 insert into odds_name_data values (1008901, '1008920101', '莉瑪（灰姑娘）的記憶碎片', 99002, '');
 insert into odds_name_data values (1008902, '1008920102', '真步的記憶碎片', 99002, '');
+insert into odds_name_data values (1009001, '1009020101', '嘉夜的記憶碎片', 99002, '');
+insert into odds_name_data values (1009002, '1009020102', '珠希的記憶碎片', 99002, '');
+insert into odds_name_data values (1009003, 'box_rank_7-15', '隨機裝備箱', 99002, '能夠獲得隨機的裝備。');

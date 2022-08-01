@@ -15,3 +15,4 @@ insert into arcade_story_list values (5040703, 1005, '萌生愛意？');
 insert into arcade_story_list values (5040704, 1005, '勞動會持續到天長地久');
 insert into arcade_story_list values (5080700, 1008, '通往究極之路');
 insert into arcade_story_list values (5080701, 1008, '布丁會持續到天長地久');
+insert into arcade_story_list values (9004201, 1009, '團結一致以答對為目標！');

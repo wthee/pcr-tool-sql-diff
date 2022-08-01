@@ -21,3 +21,4 @@ insert into dear_story_data values (6068, 6, 10068, '心電感應！碧與玩具
 insert into dear_story_data values (6076, 6, 10076, '萬聖節拯救隊大亂鬥！ 捕獲毛茸茸大作戰', 0, 1, '2022/02/01 16:00:00', '2030/04/24 14:59:59');
 insert into dear_story_data values (6078, 6, 10078, '魔法少女外傳\u3000黑暗魔法★三人組！', 0, 1, '2022/03/01 16:00:00', '2030/04/24 14:59:59');
 insert into dear_story_data values (6088, 6, 10088, 'Sweet Tiny Stage！\u3000初出茅廬的女演員與小小淑女', 0, 1, '2022/07/01 16:00:00', '2030/04/24 14:59:59');
+insert into dear_story_data values (6090, 6, 10090, '交出寶物！透明怪盜雙人組', 0, 1, '2022/08/01 16:00:00', '2030/04/24 14:59:59');
