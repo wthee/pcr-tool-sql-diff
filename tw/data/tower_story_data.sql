@@ -21,3 +21,4 @@ insert into tower_story_data values (7019, 7, 19, '與軍人們的共同任務',
 insert into tower_story_data values (7020, 7, 20, '小題大作的搞笑與鯛魚燒', 0, 1, '2022/02/10 16:00:00', '2030/04/24 14:59:59');
 insert into tower_story_data values (7021, 7, 21, '年輕正義與大人美學', 0, 1, '2022/04/08 16:00:00', '2030/04/24 14:59:59');
 insert into tower_story_data values (7022, 7, 22, '超能力×魔法＝超魔法少女', 0, 1, '2022/06/10 16:00:00', '2030/04/24 14:59:59');
+insert into tower_story_data values (7023, 7, 23, '加油打氣英雄團！', 0, 1, '2022/08/09 16:00:00', '2030/04/24 14:59:59');
