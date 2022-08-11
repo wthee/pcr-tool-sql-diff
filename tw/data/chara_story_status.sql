@@ -383,6 +383,10 @@ insert into chara_story_status values (1045005, '空花のエピソード第5話
 insert into chara_story_status values (1045006, '空花のエピソード第6話', 2, 60, 4, 60, 0, 0, 0, 0, 0, 0, 1045, 1095, 1191, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1045007, '空花のエピソード第7話', 2, 60, 4, 60, 0, 0, 0, 0, 0, 0, 1045, 1095, 1191, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1045008, '空花のエピソード第8話', 2, 80, 4, 80, 0, 0, 0, 0, 0, 0, 1045, 1095, 1191, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1045009, 'クウカのエピソード第9話', 2, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1045, 1095, 1191, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1045010, 'クウカのエピソード第10話', 2, 140, 0, 0, 0, 0, 0, 0, 0, 0, 1045, 1095, 1191, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1045011, 'クウカのエピソード第11話', 2, 140, 0, 0, 0, 0, 0, 0, 0, 0, 1045, 1095, 1191, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1045012, 'クウカのエピソード第12話', 2, 240, 15, 5, 0, 0, 0, 0, 0, 0, 1045, 1095, 1191, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1046002, '珠希のエピソード第2話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1046, 1079, 1168, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1046003, '珠希のエピソード第3話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1046, 1079, 1168, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1046004, '珠希のエピソード第4話', 2, 30, 0, 0, 0, 0, 0, 0, 0, 0, 1046, 1079, 1168, 0, 0, 0, 0, 0, 0, 0);
