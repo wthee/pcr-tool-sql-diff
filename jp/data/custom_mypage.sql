@@ -213,5 +213,5 @@ insert into custom_mypage values (9000211, 40001, 0, '梅雨の合唱隊', 0, 0,
 insert into custom_mypage values (9000212, 40001, 0, '夏の森の探検隊', 0, 0, 1);
 insert into custom_mypage values (9000213, 40001, 0, '夏の思い出', 0, 0, 1);
 insert into custom_mypage values (9000214, 40001, 0, '夏のピクニック', 0, 0, 1);
-insert into custom_mypage values (9000215, 20005, 9000215, '4.5周年記念カスタムマイページ', 0, 0, 1);
-insert into custom_mypage values (9000216, 20005, 9000215, '4.5周年記念カスタムマイページ', 0, 0, 1);
+insert into custom_mypage values (9000215, 20005, 0, '4.5周年記念カスタムマイページ1', 1, 0, 1);
+insert into custom_mypage values (9000216, 20005, 0, '4.5周年記念カスタムマイページ2', 1, 0, 1);
