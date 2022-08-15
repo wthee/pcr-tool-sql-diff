@@ -96,4 +96,5 @@ insert into event_gacha_data values (10095, 10095, '以心電心！アオイ ト
 insert into event_gacha_data values (10096, 10096, 'トゥインクルサマーゲーム\u3000\\n夏海にきらめく三つの想い', 2, 60952, 1, 6);
 insert into event_gacha_data values (10097, 10097, 'エンドレスサマープロデュース\u3000真夏のふたり占めパラダイス', 2, 60962, 1, 6);
 insert into event_gacha_data values (10098, 10098, 'リトル・サマー・メモリーズ\u3000渚でみつけた小さな幸せ', 2, 60972, 1, 6);
+insert into event_gacha_data values (10099, 10099, 'カルミナサマーライブ\u3000ジャストアモーメント！ ', 2, 60982, 1, 6);
 insert into event_gacha_data values (19003, 10003, 'ヴァンパイアハンターwithイリヤ討伐証交換', 2, 60022, 1, 5);

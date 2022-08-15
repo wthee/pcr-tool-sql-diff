@@ -5,3 +5,4 @@ insert into spskill_label_data values (116401, '通常時', '特殊スキル');
 insert into spskill_label_data values (118501, '通常時', '特殊スキル');
 insert into spskill_label_data values (122001, '通常時', '特殊スキル');
 insert into spskill_label_data values (122301, '通常時', '共闘中');
+insert into spskill_label_data values (122701, '通常時', '特殊スキル');

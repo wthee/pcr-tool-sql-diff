@@ -241,3 +241,6 @@ insert into experience_team values (239, 763984, 297, 999, 30);
 insert into experience_team values (240, 768409, 298, 999, 30);
 insert into experience_team values (241, 772834, 299, 999, 30);
 insert into experience_team values (242, 777259, 300, 999, 30);
+insert into experience_team values (243, 781684, 301, 999, 30);
+insert into experience_team values (244, 786109, 302, 999, 30);
+insert into experience_team values (245, 790534, 303, 999, 30);
