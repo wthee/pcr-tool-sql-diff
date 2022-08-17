@@ -177,6 +177,7 @@ insert into unit_background values (121201, '拉比林斯達（超載）', 50034
 insert into unit_background values (121301, '胡桃（舞台）', 501510, '牧場_溫泉設施_舞台', 0.0, 2);
 insert into unit_background values (121401, '美咲（舞台）', 500354, '咲戀育幼院_物產展', 0.0, 2);
 insert into unit_background values (121501, '步未（怪盜）', 500012, '蘭德索爾_市中心_夜晚', 0.0, 18);
+insert into unit_background values (121601, '祈梨（怪盜）', 500892, '小巷子_夜晚', 0.0, 20);
 insert into unit_background values (180101, '日和（公主）', 500130, '埃斯特雷拉街道', 0.0, 2);
 insert into unit_background values (180201, '優衣（公主）', 500130, '埃斯特雷拉街道', 0.0, 4);
 insert into unit_background values (180301, '怜（公主）', 500130, '埃斯特雷拉街道', 0.0, 3);

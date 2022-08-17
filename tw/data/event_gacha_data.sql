@@ -88,4 +88,5 @@ insert into event_gacha_data values (10087, 10087, '羈絆相連。心相繫。'
 insert into event_gacha_data values (10088, 10088, 'Sweet Tiny Stage！\u3000初出茅廬的女演員與小小淑女', 2, 60872, 1, 6);
 insert into event_gacha_data values (10089, 10089, '灰姑娘課程\u3000璀璨的日子有著蘋果的滋味', 2, 60882, 1, 6);
 insert into event_gacha_data values (10090, 10090, '交出寶物！透明怪盜雙人組', 2, 60892, 1, 6);
+insert into event_gacha_data values (10091, 10091, '鋼鐵聖女與神聖學院的問題兒童', 2, 60902, 1, 6);
 insert into event_gacha_data values (19003, 10003, '吸血鬼獵人 with伊莉亞', 2, 60022, 1, 5);

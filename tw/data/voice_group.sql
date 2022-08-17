@@ -298,3 +298,4 @@ insert into voice_group values (30163, '凱留（超載）（花凜對話用）'
 insert into voice_group values (30164, '胡桃（舞台）（花凜對話用）', 118501001, 321301001, 0, 0, 0);
 insert into voice_group values (30165, '美咲（舞台）（花凜對話用）', 118501001, 321401001, 0, 0, 0);
 insert into voice_group values (30166, '步未（怪盜）（花凜對話用）', 118501001, 321501001, 0, 0, 0);
+insert into voice_group values (30167, '祈梨（怪盜）（花凜對話用）', 118501001, 321601001, 0, 0, 0);

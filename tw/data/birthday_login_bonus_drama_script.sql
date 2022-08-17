@@ -218,7 +218,7 @@ insert into birthday_login_bonus_drama_script values (1004501039, 1004501, 13, '
 insert into birthday_login_bonus_drama_script values (1004501040, 1004501, 11, '100411', '謝謝你送我這麼大的蛋糕！\\n這是哥哥特地給我做的吧？\\n真有你的呢！', '7', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1004501041, 1004501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1004501042, 1004501, 21, 'vo_adv_1004501', 'vo_adv_1004501_001', '0', '0', '', '', '', '');
-insert into birthday_login_bonus_drama_script values (1004501043, 1004501, 11, '100411', '禊的話\\n倒是對我做了不少惡作劇……\\n但這個只是普通的美味蛋糕吧？', '7', '1', '1', '0', '0', '');
+insert into birthday_login_bonus_drama_script values (1004501043, 1004501, 11, '100411', '如果是禊做的蛋糕，\\n禊會藏很多惡作劇在裡面……\\n但這只是普通的好吃蛋糕對吧？', '7', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1004501044, 1004501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1004501045, 1004501, 21, 'vo_adv_1004501', 'vo_adv_1004501_002', '0', '0', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1004501046, 1004501, 11, '100411', '哥哥你太天真了啦──\\n不過正因為哥哥是這樣的人，\\n和你在一起就會很開心！\\n今後也請多多關照喔！', '6', '1', '1', '0', '0', '');

@@ -58,7 +58,7 @@ insert into voice_group_chara values (106101001, '？？？（矛依未）', 106
 insert into voice_group_chara values (106301001, '？？？（亞里莎）', 106301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (106401001, '', 106401, 120701, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (106501001, '龍族巢穴（嘉夜）', 106501, 116601, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (106601001, '龍族巢穴（祈梨）', 106601, 116501, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (106601001, '龍族巢穴（祈梨）', 106601, 116501, 121601, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (106701001, '龍族巢穴（帆希）', 106701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (106801001, '拉比林斯（拉比林斯達）', 106801, 121201, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (107001001, '？？？（似似花）', 107001, 115001, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -240,6 +240,7 @@ insert into voice_group_chara values (321201001, '拉比林斯達（超載）（
 insert into voice_group_chara values (321301001, '胡桃（舞台）（花凜對話用）', 121301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (321401001, '美咲（舞台）（花凜對話用）', 121401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (321501001, '步未（怪盜）（花凜對話用）', 121501, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (321601001, '祈梨（怪盜）（花凜對話用）', 121601, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380101001, '日和（公主）（花凜對話用）', 180101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380201001, '優衣（公主）（花凜對話用）', 180201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380301001, '怜（公主）（花凜對話用）', 180301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
