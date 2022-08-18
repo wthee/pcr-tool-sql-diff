@@ -190,3 +190,5 @@ insert into odds_name_data values (1008902, '1008920102', '真步的記憶碎片
 insert into odds_name_data values (1009001, '1009020101', '嘉夜的記憶碎片', 99002, '');
 insert into odds_name_data values (1009002, '1009020102', '珠希的記憶碎片', 99002, '');
 insert into odds_name_data values (1009003, 'box_rank_7-15', '隨機裝備箱', 99002, '能夠獲得隨機的裝備。');
+insert into odds_name_data values (1009101, '1009120101', '秋乃的記憶碎片', 99002, '');
+insert into odds_name_data values (1009102, '1009120102', '忍的記憶碎片', 99002, '');
