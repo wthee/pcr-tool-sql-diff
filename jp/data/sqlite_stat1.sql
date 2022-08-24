@@ -523,7 +523,7 @@ insert into sqlite_stat1 values ('mhp_story_data', 'mhp_story_data_0_original_ev
 insert into sqlite_stat1 values ('hatsune_boss', 'hatsune_boss_0_wave_group_id_1', '449 2');
 insert into sqlite_stat1 values ('hatsune_boss', 'hatsune_boss_0_event_id_1_difficulty', '449 5 1');
 insert into sqlite_stat1 values ('hatsune_boss', 'hatsune_boss_0_event_id', '449 5');
-insert into sqlite_stat1 values ('gift_message', None, '117');
+insert into sqlite_stat1 values ('gift_message', None, '118');
 insert into sqlite_stat1 values ('enemy_parameter', None, '13307');
 insert into sqlite_stat1 values ('unique_equipment_rankup', 'unique_equipment_rankup_0_equip_id', '2635 17');
 insert into sqlite_stat1 values ('unique_equipment_rankup', 'sqlite_autoindex_unique_equipment_rankup_1', '2635 17 1');
