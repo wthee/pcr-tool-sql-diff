@@ -58,3 +58,6 @@ insert into shiori_quest_area values (20024103, 20024, '伊麗莎白牧場', 201
 insert into shiori_quest_area values (20024201, 20024, '伊麗莎白牧場', 201, 'bgm_M351', 'bgm_M351', 1, 1, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20025101, 20025, '不可思議之國', 201, 'bgm_M375', 'bgm_M375', 1, 0, 200, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20025201, 20025, '不可思議之國', 201, 'bgm_M375', 'bgm_M375', 1, 0, 100, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20026101, 20026, '祈願海岸周圍', 201, 'bgm_M380A', 'bgm_M380A', 1, 1, 90, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20026102, 20026, '繁星降臨的銀河', 201, 'bgm_M380B', 'bgm_M380B_02', 1, 2, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20026201, 20026, '繁星降臨的銀河', 201, 'bgm_M380B', 'bgm_M380B_02', 1, 0, 0, 0, 0, '0', '0', 0);

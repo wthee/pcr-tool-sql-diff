@@ -27,7 +27,7 @@ insert into event_story_data values (5036, 5, 10063, '星光公主\u3000Re:M@STE
 insert into event_story_data values (5038, 5, 20023, '恩賜的財團與神聖學院的問題兒童', 0, 1, '2020/07/02 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5040, 5, 20024, '牧場的四農士\u3000貧窮農場奮鬥記', 0, 1, '2020/08/03 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5042, 5, 20025, '不可思議之國的璃乃 小小愛麗絲與希望的繪本', 0, 1, '2020/09/04 16:00:00', '2030/04/24 14:59:59');
-insert into event_story_data values (5044, 5, 10071, '七夕劍客旅情譚 天際川流夏之戀', 0, 1, '2020/10/29 16:00:00', '2030/04/24 14:59:59');
+insert into event_story_data values (5044, 5, 20026, '七夕劍客旅情譚 天際川流夏之戀', 0, 1, '2020/10/29 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5046, 5, 10073, '美里的夏日聲援！\u3000追夢的盛夏棒球隊', 0, 1, '2020/12/01 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5048, 5, 10075, 'Happy・Change・Angels', 0, 1, '2020/12/28 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5050, 5, 10077, '迴響！尖叫！萬聖鬼怪狂歡節', 0, 1, '2021/02/01 16:00:00', '2030/04/24 14:59:59');
