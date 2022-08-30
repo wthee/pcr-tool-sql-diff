@@ -44,4 +44,7 @@ insert into event_gacha_data values (10043, 10043, '铃奈的RAINBOW STAGE！', 
 insert into event_gacha_data values (10044, 10044, '七夕剑客旅情谭\u3000天际川流夏之恋', 2, 60432, 1, 5);
 insert into event_gacha_data values (10045, 10045, '盛夏的真步真步王国 海滩上的灵魂之夏！', 2, 60442, 1, 5);
 insert into event_gacha_data values (10046, 10046, '美里的夏日应援！\u3000追梦的盛夏棒球队', 2, 60452, 1, 5);
+insert into event_gacha_data values (10047, 10047, '森林里的胆小鬼与神圣学院的问题儿童', 2, 60462, 1, 5);
+insert into event_gacha_data values (10048, 10048, '快乐变身 双生天使', 2, 60472, 1, 5);
+insert into event_gacha_data values (10049, 10049, '小小的勇气·万圣节之夜！', 2, 60482, 1, 5);
 insert into event_gacha_data values (19003, 10003, '吸血鬼猎人with伊莉亚讨伐证交换', 2, 60022, 1, 5);

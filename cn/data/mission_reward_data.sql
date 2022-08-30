@@ -362,3 +362,6 @@ insert into mission_reward_data values (413, 26002022, 8, 91002, 800, 1, -1, '20
 insert into mission_reward_data values (414, 26002023, 8, 91002, 800, 1, -1, '2020/01/01 0:00:00', '2099/12/31 23:59:59');
 insert into mission_reward_data values (415, 26002024, 8, 91002, 800, 1, -1, '2020/01/01 0:00:00', '2099/12/31 23:59:59');
 insert into mission_reward_data values (416, 26002025, 8, 91002, 800, 1, -1, '2020/01/01 0:00:00', '2099/12/31 23:59:59');
+insert into mission_reward_data values (9001, 280009001, 2, 25001, 30, 1, -1, '2022/08/15 11:00:00', '2022/08/26 10:59:59');
+insert into mission_reward_data values (9002, 280009002, 4, 140001, 30, 1, -1, '2022/08/15 11:00:00', '2022/08/26 10:59:59');
+insert into mission_reward_data values (9003, 280009003, 2, 24002, 1, 1, -1, '2022/08/15 11:00:00', '2022/08/26 10:59:59');

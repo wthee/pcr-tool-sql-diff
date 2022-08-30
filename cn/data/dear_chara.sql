@@ -7,9 +7,9 @@ insert into dear_chara values (10043, 2, '美咲', 1000, 1, 110201, 0, 0, 0, 0, 
 insert into dear_chara values (10047, 1, '克罗依', 1000, 1, 110801, 0, 0, 0, 0, 0);
 insert into dear_chara values (10047, 2, '千爱瑠', 1000, 1, 110901, 0, 0, 0, 0, 0);
 insert into dear_chara values (10047, 3, '优妮', 1000, 1, 111001, 0, 0, 0, 40, 0);
-insert into dear_chara values (10025, 1, '美美', 1000, 1, 111301, 0, 0, 0, 0, 0);
-insert into dear_chara values (10025, 2, '镜华', 1000, 1, 111101, 0, 0, 0, 0, 0);
-insert into dear_chara values (10025, 3, '未奏希', 1000, 1, 111201, 0, 0, 0, 0, 0);
+insert into dear_chara values (10049, 1, '美美', 1000, 1, 111301, 0, 0, 0, 0, 0);
+insert into dear_chara values (10049, 2, '镜华', 1000, 1, 111101, 0, 0, 0, 0, 0);
+insert into dear_chara values (10049, 3, '未奏希', 1000, 1, 111201, 0, 0, 0, 0, 0);
 insert into dear_chara values (10027, 1, '祈梨', 1000, 1, 106601, 0, 0, 0, 0, 0);
 insert into dear_chara values (10027, 2, '嘉夜', 1000, 1, 106501, 0, 0, 0, 0, 0);
 insert into dear_chara values (10029, 3, '望', 1000, 1, 111601, 0, 0, 0, 0, 0);
@@ -32,3 +32,5 @@ insert into dear_chara values (10042, 5, '帆稀', 1000, 2, 106701, 0, -40, 0, 0
 insert into dear_chara values (10044, 1, '流夏', 1000, 1, 113101, 0, 0, 0, 0, 0);
 insert into dear_chara values (10044, 2, '七七香', 1000, 1, 113301, 0, 0, 0, 0, 0);
 insert into dear_chara values (10044, 3, '杏奈', 1000, 1, 113201, 0, 0, 0, 0, 0);
+insert into dear_chara values (10048, 1, '依里', 1000, 1, 113801, 0, 0, 0, 0, 0);
+insert into dear_chara values (10048, 2, '茜里', 1000, 1, 113701, 0, 0, 0, 0, 0);

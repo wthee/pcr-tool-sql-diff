@@ -9,3 +9,5 @@ insert into shiori_quest_area values (20004101, 20004, '塔帕斯海滩周边', 
 insert into shiori_quest_area values (20004201, 20004, '塔帕斯海滩周边', 201, 'bgm_M112', 'bgm_M112', 1, 0, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20005101, 20005, '伊尔西翁的孤岛', 201, 'bgm_M121', 'bgm_M121', 1, 0, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20005201, 20005, '伊尔西翁的孤岛', 201, 'bgm_M121', 'bgm_M121', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20006101, 20006, '王都兰德索尔', 201, 'bgm_M128', 'bgm_M128', 1, 0, 85, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20006201, 20006, '王都兰德索尔', 201, 'bgm_M128', 'bgm_M128', 1, 0, 0, 0, 0, '0', '0', 0);

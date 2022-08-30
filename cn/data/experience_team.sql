@@ -169,3 +169,6 @@ insert into experience_team values (167, 445384, 225, 999, 30);
 insert into experience_team values (168, 449809, 226, 999, 30);
 insert into experience_team values (169, 454234, 227, 999, 30);
 insert into experience_team values (170, 458659, 228, 999, 30);
+insert into experience_team values (171, 463084, 229, 999, 30);
+insert into experience_team values (172, 467509, 230, 999, 30);
+insert into experience_team values (173, 471934, 231, 999, 30);
