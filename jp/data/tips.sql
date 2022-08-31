@@ -110,6 +110,7 @@ insert into tips values (4122001, 122001, 1, 'よく視える');
 insert into tips values (4122101, 122101, 1, 'キャンプマイスター');
 insert into tips values (4122201, 122201, 1, '贅沢な時間');
 insert into tips values (4122301, 122301, 1, 'さいきょーですし♪');
+insert into tips values (4123001, 123001, 1, 'ぷにぷにプニプニ');
 insert into tips values (4180101, 180101, 1, 'じゃんけんタイム！');
 insert into tips values (4180201, 180201, 1, 'ぺこぺこ');
 insert into tips values (4180301, 180301, 1, '守る力');
