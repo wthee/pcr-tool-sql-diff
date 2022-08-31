@@ -7,7 +7,7 @@ insert into sqlite_stat1 values ('goldset_data_2', None, '70');
 insert into sqlite_stat1 values ('emblem_mission_data', None, '741');
 insert into sqlite_stat1 values ('shiori_mission_reward_data', 'shiori_mission_reward_data_0_mission_reward_id', '1188 2');
 insert into sqlite_stat1 values ('shiori_item', None, '26');
-insert into sqlite_stat1 values ('campaign_schedule', None, '884');
+insert into sqlite_stat1 values ('campaign_schedule', None, '890');
 insert into sqlite_stat1 values ('tower_area_data', None, '43');
 insert into sqlite_stat1 values ('prizegacha_sp_detail', None, '4');
 insert into sqlite_stat1 values ('gacha_exchange_lineup', 'gacha_exchange_lineup_0_exchange_id', '381 3');
@@ -31,7 +31,7 @@ insert into sqlite_stat1 values ('omp_story_data', 'omp_story_data_0_story_seq',
 insert into sqlite_stat1 values ('omp_story_data', 'omp_story_data_0_event_id', '15 8');
 insert into sqlite_stat1 values ('shiori_stationary_mission_data', None, '605');
 insert into sqlite_stat1 values ('hatsune_special_enemy', None, '222');
-insert into sqlite_stat1 values ('campaign_freegacha', None, '25');
+insert into sqlite_stat1 values ('campaign_freegacha', None, '26');
 insert into sqlite_stat1 values ('room_item_announcement', None, '2');
 insert into sqlite_stat1 values ('tw_treasure_item', None, '14');
 insert into sqlite_stat1 values ('ttk_story', 'ttk_story_0_ttk_score', '5 1');
@@ -208,7 +208,7 @@ insert into sqlite_stat1 values ('campaign_mission_data', 'campaign_mission_data
 insert into sqlite_stat1 values ('campaign_mission_data', 'campaign_mission_data_0_campaign_id', '16 16');
 insert into sqlite_stat1 values ('ttk_score', None, '4');
 insert into sqlite_stat1 values ('sekai_unlock_story_condition', None, '5');
-insert into sqlite_stat1 values ('campaign_freegacha_data', None, '73');
+insert into sqlite_stat1 values ('campaign_freegacha_data', None, '74');
 insert into sqlite_stat1 values ('birthday_login_bonus_data', None, '129');
 insert into sqlite_stat1 values ('campaign_mission_category', 'campaign_mission_category_0_campaign_id_1_type', '2 2 1');
 insert into sqlite_stat1 values ('campaign_mission_reward_data', 'campaign_mission_reward_data_0_campaign_mission_reward_id', '12 2');
