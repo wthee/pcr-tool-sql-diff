@@ -142,3 +142,5 @@ insert into unique_equip_enhance_rate values (1315910, 131591, 2, -1, 0.0, 4.1, 
 insert into unique_equip_enhance_rate values (1316010, 131601, 2, -1, 0.0, 0.0, 4.6, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0);
 insert into unique_equip_enhance_rate values (1316210, 131621, 2, -1, 0.0, 4.9, 0.0, 0.0, 0.0, 0.5, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0);
 insert into unique_equip_enhance_rate values (1316310, 131631, 2, -1, 0.0, 4.6, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0);
+insert into unique_equip_enhance_rate values (1380210, 138021, 2, -1, 0.0, 0.0, 3.75, 0.0, 0.0, 0.0, 1.5, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.05, 0.0, 0.0);
+insert into unique_equip_enhance_rate values (1380410, 138041, 2, -1, 25.0, 1.1, 0.0, 0.0, 0.0, 2.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.1, 0.0, 0.0);

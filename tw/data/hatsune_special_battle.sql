@@ -215,3 +215,6 @@ insert into hatsune_special_battle values (10090, 3, 218, 1, 0, 0, 0, 0, 6100900
 insert into hatsune_special_battle values (10091, 1, 172, 1, 0, 76, 5064321, 5064322, 610091004, 0, 5.5, 5.0, 1, 600, 3.0, 1.25, -50.0, '', 0);
 insert into hatsune_special_battle values (10091, 2, 172, 1, 0, 50, 0, 5064323, 610091005, 0, 1.5, 5.0, 1, 600, 0.0, 1.25, -50.0, '', 0);
 insert into hatsune_special_battle values (10091, 3, 172, 1, 0, 0, 0, 0, 610091006, 0, 1.5, 5.0, 1, 0, 0.0, 1.25, -50.0, '', 0);
+insert into hatsune_special_battle values (10092, 1, 220, 1, 0, 60, 5092321, 5092322, 610092004, 0, 5.5, 5.0, 1, 600, 3.0, 1.4, -50.0, '', 0);
+insert into hatsune_special_battle values (10092, 2, 220, 2, 0, 0, 0, 5092323, 610092005, 610092402, 1.5, 5.0, 1, 600, 0.0, 1.15, -20.0, '', 0);
+insert into hatsune_special_battle values (10092, 3, 220, 1, 0, 0, 0, 0, 610092006, 0, 1.5, 5.0, 1, 0, 0.0, 1.4, -50.0, '', 0);

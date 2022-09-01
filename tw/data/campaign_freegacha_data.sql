@@ -72,4 +72,5 @@ insert into campaign_freegacha_data values (70, 25, 30186);
 insert into campaign_freegacha_data values (71, 25, 30187);
 insert into campaign_freegacha_data values (72, 25, 30188);
 insert into campaign_freegacha_data values (73, 25, 50195);
+insert into campaign_freegacha_data values (74, 26, 50190);
 insert into campaign_freegacha_data values (75, 26, 30194);
