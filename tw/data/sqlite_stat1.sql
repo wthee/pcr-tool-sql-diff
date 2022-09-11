@@ -7,7 +7,7 @@ insert into sqlite_stat1 values ('goldset_data_2', None, '70');
 insert into sqlite_stat1 values ('emblem_mission_data', None, '744');
 insert into sqlite_stat1 values ('shiori_mission_reward_data', 'shiori_mission_reward_data_0_mission_reward_id', '1188 2');
 insert into sqlite_stat1 values ('shiori_item', None, '26');
-insert into sqlite_stat1 values ('campaign_schedule', None, '897');
+insert into sqlite_stat1 values ('campaign_schedule', None, '900');
 insert into sqlite_stat1 values ('tower_area_data', None, '44');
 insert into sqlite_stat1 values ('prizegacha_sp_detail', None, '4');
 insert into sqlite_stat1 values ('gacha_exchange_lineup', 'gacha_exchange_lineup_0_exchange_id', '397 3');
