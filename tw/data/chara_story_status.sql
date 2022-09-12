@@ -235,6 +235,10 @@ insert into chara_story_status values (1026005, '鈴のエピソード第5話', 
 insert into chara_story_status values (1026006, '鈴のエピソード第6話', 2, 40, 11, 60, 0, 0, 0, 0, 0, 0, 1026, 1127, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1026007, '鈴のエピソード第7話', 2, 40, 11, 60, 0, 0, 0, 0, 0, 0, 1026, 1127, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1026008, '鈴のエピソード第8話', 2, 80, 11, 90, 0, 0, 0, 0, 0, 0, 1026, 1127, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1026009, '鈴のエピソード第9話', 2, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1026, 1127, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1026010, '鈴のエピソード第10話', 2, 120, 0, 0, 0, 0, 0, 0, 0, 0, 1026, 1127, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1026011, '鈴のエピソード第11話', 2, 120, 0, 0, 0, 0, 0, 0, 0, 0, 1026, 1127, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1026012, '鈴のエピソード第12話', 2, 200, 6, 30, 0, 0, 0, 0, 0, 0, 1026, 1127, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1027002, '惠理子のエピソード第2話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1027, 1090, 1170, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1027003, '惠理子のエピソード第3話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1027, 1090, 1170, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1027004, '惠理子のエピソード第4話', 2, 30, 0, 0, 0, 0, 0, 0, 0, 0, 1027, 1090, 1170, 0, 0, 0, 0, 0, 0, 0);
