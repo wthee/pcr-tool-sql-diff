@@ -899,3 +899,8 @@ insert into campaign_schedule values (897, 82, 2000.0, 102, 80, '2022/09/09 05:0
 insert into campaign_schedule values (898, 39, 2000.0, 111, 30, '2022/09/12 05:00:00', '2022/09/16 04:59:59', 0, 0, 0, 0);
 insert into campaign_schedule values (899, 49, 2000.0, 111, 40, '2022/09/12 05:00:00', '2022/09/16 04:59:59', 0, 0, 0, 0);
 insert into campaign_schedule values (900, 45, 2000.0, 104, 40, '2022/09/12 05:00:00', '2022/09/29 04:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (901, 31, 3000.0, 101, 30, '2022/09/15 05:00:00', '2022/09/25 04:59:59', 0, 0, 0, 6);
+insert into campaign_schedule values (902, 41, 2000.0, 101, 40, '2022/09/15 05:00:00', '2022/09/25 04:59:59', 0, 0, 0, 6);
+insert into campaign_schedule values (903, 81, 3000.0, 101, 81, '2022/09/15 05:00:00', '2022/09/20 04:59:59', 0, 0, 0, 3);
+insert into campaign_schedule values (904, 11, 50.0, 101, 11, '2022/09/15 05:00:00', '2022/09/20 04:59:59', 0, 0, 0, 3);
+insert into campaign_schedule values (905, 81, 2000.0, 101, 80, '2022/09/15 05:00:00', '2022/09/20 04:59:59', 0, 0, 0, 4);
