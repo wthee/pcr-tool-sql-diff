@@ -191,6 +191,7 @@ insert into unit_background values (122801, 'ミソギ（サマー）', 500160, 
 insert into unit_background values (122901, 'ミミ（サマー）', 500160, 'マルジェン海岸', 0.0, 4);
 insert into unit_background values (123001, 'アメス', 500270, 'ソルの塔_庭園', 0.0, 4);
 insert into unit_background values (123101, 'マホ（エクスプローラー）', 500833, '密林_テント', 0.0, 4);
+insert into unit_background values (123201, 'アヤネ（エクスプローラー）', 501850, '密林', 0.0, 4);
 insert into unit_background values (180101, 'ヒヨリ（プリンセス）', 500130, 'エステレラ街道', 0.0, 2);
 insert into unit_background values (180201, 'ユイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 4);
 insert into unit_background values (180301, 'レイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 3);

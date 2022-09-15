@@ -69,3 +69,5 @@ insert into shiori_quest_area values (20029101, 20029, 'ハロウィンパーク
 insert into shiori_quest_area values (20029201, 20029, 'ハロウィンパーク', 201, 'bgm_M413', 'bgm_M413', 1, 0, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20030101, 20030, '王都ランドソル', 201, 'bgm_M421', 'bgm_M421', 1, 1, 80, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20030201, 20030, '王都ランドソル', 201, 'bgm_M421', 'bgm_M421', 1, 1, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20031101, 20031, 'デビュタント・シャングリ・ラ会場', 201, 'bgm_M426', 'bgm_M426', 1, 1, 60, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20031201, 20031, 'デビュタント・シャングリ・ラ会場', 201, 'bgm_M426', 'bgm_M426', 1, 1, 0, 0, 0, '0', '0', 0);

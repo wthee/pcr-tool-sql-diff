@@ -420,3 +420,4 @@ insert into gacha_exchange_lineup values (418, 217, 106101, 3, 0, '2022/08/31 12
 insert into gacha_exchange_lineup values (419, 217, 107101, 3, 0, '2022/08/31 12:00:00', '2022/09/03 18:59:59');
 insert into gacha_exchange_lineup values (420, 218, 123101, 3, 1089, '2022/09/03 19:00:00', '2022/09/12 11:59:59');
 insert into gacha_exchange_lineup values (421, 219, 118001, 3, 0, '2022/09/12 12:00:00', '2022/09/15 14:59:59');
+insert into gacha_exchange_lineup values (422, 220, 123201, 3, 1090, '2022/09/15 15:00:00', '2022/09/22 11:59:59');

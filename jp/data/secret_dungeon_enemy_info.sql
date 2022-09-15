@@ -1,1 +1,16 @@
 CREATE TABLE 'secret_dungeon_enemy_info' ('dungeon_area_id' INTEGER NOT NULL, 'floor_num' INTEGER NOT NULL, 'enemy_name' TEXT NOT NULL, PRIMARY KEY('dungeon_area_id','floor_num'));
+insert into secret_dungeon_enemy_info values (32001, 6, 'エレクトロ・ギガス');
+insert into secret_dungeon_enemy_info values (32001, 7, '壊乱の黒鎧騎士');
+insert into secret_dungeon_enemy_info values (32001, 8, 'ライライ');
+insert into secret_dungeon_enemy_info values (32001, 9, 'ニードルクリーパー');
+insert into secret_dungeon_enemy_info values (32001, 10, '白陽・黒月の守護像');
+insert into secret_dungeon_enemy_info values (32002, 6, 'エレクトロ・ギガス');
+insert into secret_dungeon_enemy_info values (32002, 7, '壊乱の黒鎧騎士');
+insert into secret_dungeon_enemy_info values (32002, 8, 'ライライ');
+insert into secret_dungeon_enemy_info values (32002, 9, 'ニードルクリーパー');
+insert into secret_dungeon_enemy_info values (32002, 10, '白陽・黒月の守護像');
+insert into secret_dungeon_enemy_info values (32003, 6, 'ハイ・ガルグ');
+insert into secret_dungeon_enemy_info values (32003, 7, 'カース・オラム');
+insert into secret_dungeon_enemy_info values (32003, 8, 'ワイルドグリフォン');
+insert into secret_dungeon_enemy_info values (32003, 9, 'ジャッカルシーフ');
+insert into secret_dungeon_enemy_info values (32003, 10, '黒月・白陽の守護像');

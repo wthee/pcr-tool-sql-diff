@@ -74,3 +74,4 @@ insert into app_icon values (118031,);
 insert into app_icon values (118131,);
 insert into app_icon values (118531,);
 insert into app_icon values (122331,);
+insert into app_icon values (123031,);

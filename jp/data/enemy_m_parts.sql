@@ -230,6 +230,16 @@ insert into enemy_m_parts values (502002414, '黒月の守護像', 502002415, 50
 insert into enemy_m_parts values (502002418, '白陽の守護像', 502002419, 502002420, 502002421, 0, 0);
 insert into enemy_m_parts values (502002514, '黒月の守護像', 502002515, 502002516, 502002517, 0, 0);
 insert into enemy_m_parts values (502002518, '白陽の守護像', 502002519, 502002520, 502002521, 0, 0);
+insert into enemy_m_parts values (502003114, '黒月の守護像', 502003115, 502003116, 502003117, 0, 0);
+insert into enemy_m_parts values (502003118, '白陽の守護像', 502003119, 502003120, 502003121, 0, 0);
+insert into enemy_m_parts values (502003214, '黒月の守護像', 502003215, 502003216, 502003217, 0, 0);
+insert into enemy_m_parts values (502003218, '白陽の守護像', 502003219, 502003220, 502003221, 0, 0);
+insert into enemy_m_parts values (502003314, '黒月の守護像', 502003315, 502003316, 502003317, 0, 0);
+insert into enemy_m_parts values (502003318, '白陽の守護像', 502003319, 502003320, 502003321, 0, 0);
+insert into enemy_m_parts values (502003414, '黒月の守護像', 502003415, 502003416, 502003417, 0, 0);
+insert into enemy_m_parts values (502003418, '白陽の守護像', 502003419, 502003420, 502003421, 0, 0);
+insert into enemy_m_parts values (502003514, '黒月の守護像', 502003515, 502003516, 502003517, 0, 0);
+insert into enemy_m_parts values (502003518, '白陽の守護像', 502003519, 502003520, 502003521, 0, 0);
 insert into enemy_m_parts values (610017101, 'ペテルギウス NORMAL', 610017102, 610017103, 610017104, 0, 0);
 insert into enemy_m_parts values (610017201, 'ペテルギウス HARD', 610017202, 610017203, 610017204, 0, 0);
 insert into enemy_m_parts values (610017301, 'ペテルギウス VERY HARD', 610017302, 610017303, 610017304, 0, 0);
@@ -284,6 +294,9 @@ insert into enemy_m_parts values (610093301, 'バースト・タイムラーベ 
 insert into enemy_m_parts values (610093401, 'バースト・タイムラーベ SP1', 610093411, 610093412, 610093413, 610093414, 0);
 insert into enemy_m_parts values (610093402, 'バースト・タイムラーベ SP2', 610093421, 610093422, 610093423, 610093424, 0);
 insert into enemy_m_parts values (610093403, 'バースト・タイムラーベ SP3', 610093431, 610093432, 610093433, 610093434, 0);
+insert into enemy_m_parts values (660031101, 'ドミネイテッドスノーマン NORMAL', 660031102, 660031103, 0, 0, 0);
+insert into enemy_m_parts values (660031201, 'ドミネイテッドスノーマン HARD', 660031202, 660031203, 0, 0, 0);
+insert into enemy_m_parts values (660031301, 'ドミネイテッドスノーマン VERY HARD', 660031302, 660031303, 0, 0, 0);
 insert into enemy_m_parts values (701000401, 'ガーゴイル・バースト', 701000402, 701000403, 701000404, 0, 0);
 insert into enemy_m_parts values (701000405, 'ガーゴイル・バースト', 701000406, 701000407, 701000408, 0, 0);
 insert into enemy_m_parts values (701000409, 'ガーゴイル・バースト', 701000410, 701000411, 701000412, 0, 0);
