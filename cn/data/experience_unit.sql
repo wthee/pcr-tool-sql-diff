@@ -172,3 +172,6 @@ insert into experience_unit values (170, 4498426);
 insert into experience_unit values (171, 4571978);
 insert into experience_unit values (172, 4646130);
 insert into experience_unit values (173, 4720882);
+insert into experience_unit values (174, 4796234);
+insert into experience_unit values (175, 4872186);
+insert into experience_unit values (176, 4948738);

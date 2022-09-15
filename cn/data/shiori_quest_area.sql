@@ -11,3 +11,7 @@ insert into shiori_quest_area values (20005101, 20005, '伊尔西翁的孤岛', 
 insert into shiori_quest_area values (20005201, 20005, '伊尔西翁的孤岛', 201, 'bgm_M121', 'bgm_M121', 1, 0, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20006101, 20006, '王都兰德索尔', 201, 'bgm_M128', 'bgm_M128', 1, 0, 85, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20006201, 20006, '王都兰德索尔', 201, 'bgm_M128', 'bgm_M128', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20007101, 20007, '兰德索尔郊外', 201, 'bgm_M135', 'bgm_M135', 1, 1, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20007102, 20007, '灵界', 201, 'bgm_M29', 'bgm_M29', 1, 2, 0, 80, 1, '202', '208', 0);
+insert into shiori_quest_area values (20007103, 20007, '兰德索尔中心部', 201, 'bgm_M135', 'bgm_M135', 1, 3, 0, 0, 1, '202', '209', 1);
+insert into shiori_quest_area values (20007201, 20007, '兰德索尔郊外', 201, 'bgm_M135', 'bgm_M135', 1, 1, 0, 0, 0, '0', '0', 31);

@@ -91,3 +91,4 @@ insert into unit_introduction values (93, 30093, 1, '2022/8/26  11:00:00', '2022
 insert into unit_introduction values (94, 50094, 2, '2022/08/31 11:00:00', '2022/09/03 17:59:59', 380000, 0, 380000, 380000, 0, 0);
 insert into unit_introduction values (95, 30095, 1, '2022/09/03 18:00:00', '2022/09/14 10:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (96, 30096, 1, '2022/09/14 11:00:00', '2022/09/19 10:59:59', 380000, 380000, 0, 0, 0, 0);
+insert into unit_introduction values (97, 30097, 1, '2022/09/19 11:00:00', '2022/09/30 10:59:59', 380000, 380000, 0, 0, 0, 0);
