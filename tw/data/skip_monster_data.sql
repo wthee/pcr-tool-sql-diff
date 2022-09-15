@@ -2641,6 +2641,13 @@ insert into skip_monster_data values (11057011, 11057, '歐呂克斯沙島‧南
 insert into skip_monster_data values (11057012, 11057, '歐呂克斯沙島‧南部 57-12', 101571201, 102181);
 insert into skip_monster_data values (11057013, 11057, '歐呂克斯沙島‧南部 57-13', 101571301, 101051);
 insert into skip_monster_data values (11057014, 11057, '歐呂克斯沙島‧南部 57-14', 101571410, 102191);
+insert into skip_monster_data values (11058001, 11058, '歐呂克斯沙島‧南部 58-1', 101580101, 100011);
+insert into skip_monster_data values (11058002, 11058, '歐呂克斯沙島‧南部 58-2', 101580201, 100011);
+insert into skip_monster_data values (11058003, 11058, '歐呂克斯沙島‧南部 58-3', 101580301, 101621);
+insert into skip_monster_data values (11058004, 11058, '歐呂克斯沙島‧南部 58-4', 101580401, 100011);
+insert into skip_monster_data values (11058005, 11058, '歐呂克斯沙島‧南部 58-5', 101580501, 101621);
+insert into skip_monster_data values (11058006, 11058, '歐呂克斯沙島‧南部 58-6', 101580601, 100011);
+insert into skip_monster_data values (11058007, 11058, '歐呂克斯沙島‧南部 58-7', 101580701, 100021);
 insert into skip_monster_data values (12001001, 12001, '朱諾平原 1-1（Hard）', 101010101, 100911);
 insert into skip_monster_data values (12001002, 12001, '朱諾平原 1-2（Hard）', 101010101, 100911);
 insert into skip_monster_data values (12001003, 12001, '朱諾平原 1-3（Hard）', 101010101, 100361);
@@ -2799,6 +2806,7 @@ insert into skip_monster_data values (12052002, 12052, '皮尼翁沿岸堤‧西
 insert into skip_monster_data values (12052003, 12052, '皮尼翁沿岸堤‧西岸 52-3', 102520310, 101131);
 insert into skip_monster_data values (12053001, 12053, '皮尼翁沿岸堤‧東岸 53-1', 102530101, 101131);
 insert into skip_monster_data values (12053002, 12053, '皮尼翁沿岸堤‧東岸 53-2', 102530201, 101071);
+insert into skip_monster_data values (12053003, 12053, '皮尼翁沿岸堤‧東岸 53-3', 102530310, 101131);
 insert into skip_monster_data values (13018001, 13018, '法艾頓草原‧北部 18-1', 103180101, 101401);
 insert into skip_monster_data values (13018002, 13018, '法艾頓草原‧北部 18-2', 103180204, 100691);
 insert into skip_monster_data values (13018003, 13018, '法艾頓草原‧北部 18-3', 103180301, 101431);
