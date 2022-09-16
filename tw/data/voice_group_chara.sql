@@ -7,7 +7,7 @@ insert into voice_group_chara values (100501001, '王宮騎士團（茉莉）', 
 insert into voice_group_chara values (100601001, '惡魔偽王國軍（茜里）', 100601, 113701, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100701001, '惡魔偽王國軍（宮子）', 100701, 108201, 119901, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100801001, '純白之翼（雪）', 100801, 117601, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (100901001, '暮光流星群（杏奈）', 100901, 113201, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (100901001, '暮光流星群（杏奈）', 100901, 113201, 121901, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (101001001, '哞哞自衛隊（真步）', 101001, 110601, 116001, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (101101001, '拉比林斯（璃乃）', 101101, 112901, 119301, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (101201001, '森林守衛（初音）', 101201, 113401, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -241,6 +241,7 @@ insert into voice_group_chara values (321301001, '胡桃（舞台）（花凜對
 insert into voice_group_chara values (321401001, '美咲（舞台）（花凜對話用）', 121401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (321501001, '步未（怪盜）（花凜對話用）', 121501, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (321601001, '祈梨（怪盜）（花凜對話用）', 121601, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (321901001, '杏奈（海盜）（花凜對話用）', 121901, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (322001001, '忍（海盜）（花凜對話用）', 122001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380101001, '日和（公主）（花凜對話用）', 180101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380201001, '優衣（公主）（花凜對話用）', 180201, 0, 0, 0, 0, 0, 0, 0, 0, 0);

@@ -105,6 +105,7 @@ insert into tips values (4121301, 121301, 1, '開演前');
 insert into tips values (4121401, 121401, 1, '展現性感魅力');
 insert into tips values (4121501, 121501, 1, '勁敵出現？');
 insert into tips values (4121601, 121601, 1, '不安的種子');
+insert into tips values (4121901, 121901, 1, '準備萬全');
 insert into tips values (4122001, 122001, 1, '看得一清二楚');
 insert into tips values (4180101, 180101, 1, '猜拳時間！');
 insert into tips values (4180201, 180201, 1, '肚子咕咕叫');
