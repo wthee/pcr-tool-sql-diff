@@ -166,6 +166,14 @@ insert into enemy_m_parts values (401503504, '三重岩 第5階段', 401503505, 
 insert into enemy_m_parts values (401503604, '三重岩 第1階段 單人模式', 401503605, 401503606, 401503607, 0, 0);
 insert into enemy_m_parts values (401503704, '三重岩 第2階段 單人模式', 401503705, 401503706, 401503707, 0, 0);
 insert into enemy_m_parts values (401503804, '三重岩 第3階段 單人模式', 401503805, 401503806, 401503807, 0, 0);
+insert into enemy_m_parts values (401504104, '劍蛇 第1階段', 401504105, 401504106, 401504107, 0, 0);
+insert into enemy_m_parts values (401504204, '劍蛇 第2階段', 401504205, 401504206, 401504207, 0, 0);
+insert into enemy_m_parts values (401504304, '劍蛇 第3階段', 401504305, 401504306, 401504307, 0, 0);
+insert into enemy_m_parts values (401504404, '劍蛇 第4階段', 401504405, 401504406, 401504407, 0, 0);
+insert into enemy_m_parts values (401504504, '劍蛇 第5階段', 401504505, 401504506, 401504507, 0, 0);
+insert into enemy_m_parts values (401504604, '劍蛇 第1階段 單人模式', 401504605, 401504606, 401504607, 0, 0);
+insert into enemy_m_parts values (401504704, '劍蛇 第2階段 單人模式', 401504705, 401504706, 401504707, 0, 0);
+insert into enemy_m_parts values (401504804, '劍蛇 第3階段 單人模式', 401504805, 401504806, 401504807, 0, 0);
 insert into enemy_m_parts values (501010601, '狂怒綠龍', 501010602, 501010603, 501010604, 0, 0);
 insert into enemy_m_parts values (501010701, '黑月守護像', 501010702, 501010703, 501010704, 0, 0);
 insert into enemy_m_parts values (501010705, '白陽守護像', 501010706, 501010707, 501010708, 0, 0);
@@ -218,6 +226,12 @@ insert into enemy_m_parts values (610085301, '超載力量', 610085302, 61008530
 insert into enemy_m_parts values (610085401, '超載力量', 610085411, 610085412, 0, 0, 0);
 insert into enemy_m_parts values (610085402, '超載力量', 610085421, 610085422, 0, 0, 0);
 insert into enemy_m_parts values (610085403, '超載力量', 610085431, 610085432, 0, 0, 0);
+insert into enemy_m_parts values (610093101, '爆裂‧時間儀 NORMAL', 610093102, 610093103, 610093104, 610093105, 0);
+insert into enemy_m_parts values (610093201, '爆裂‧時間儀 HARD', 610093202, 610093203, 610093204, 610093205, 0);
+insert into enemy_m_parts values (610093301, '爆裂‧時間儀 VERY HARD', 610093302, 610093303, 610093304, 610093305, 0);
+insert into enemy_m_parts values (610093401, '爆裂‧時間儀 SP1', 610093411, 610093412, 610093413, 610093414, 0);
+insert into enemy_m_parts values (610093402, '爆裂‧時間儀 SP2', 610093421, 610093422, 610093423, 610093424, 0);
+insert into enemy_m_parts values (610093403, '爆裂‧時間儀 SP3', 610093431, 610093432, 610093433, 610093434, 0);
 insert into enemy_m_parts values (800100203, '機械莉瑪2020MODE3', 800100212, 800100213, 800100214, 0, 0);
 insert into enemy_m_parts values (801100213, '霸瞳僕役（複合）', 801100223, 801100233, 801100243, 0, 0);
 insert into enemy_m_parts values (802100210, '蘭法', 802100211, 802100212, 0, 0, 0);
