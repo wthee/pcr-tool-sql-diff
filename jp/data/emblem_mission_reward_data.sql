@@ -966,3 +966,7 @@ insert into emblem_mission_reward_data values (1087, 56011657, 15, 10201657, 1, 
 insert into emblem_mission_reward_data values (1088, 56011658, 15, 10201658, 1, 1002);
 insert into emblem_mission_reward_data values (1089, 56011659, 15, 10201659, 1, 1003);
 insert into emblem_mission_reward_data values (1090, 56011659, 8, 91002, 50, 0);
+insert into emblem_mission_reward_data values (1091, 56011660, 15, 10201660, 1, 1001);
+insert into emblem_mission_reward_data values (1092, 56011661, 15, 10201661, 1, 1002);
+insert into emblem_mission_reward_data values (1093, 56011662, 15, 10201662, 1, 1003);
+insert into emblem_mission_reward_data values (1094, 56011662, 8, 91002, 50, 0);

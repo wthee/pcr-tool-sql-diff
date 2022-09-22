@@ -80,6 +80,7 @@ insert into voice_group_chara values (118101001, 'レイジレギオン（ラン
 insert into voice_group_chara values (118501001, 'カリン', 118501, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (122301001, 'ヴァンピィ', 122301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (123001001, 'アメス', 123001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (123301001, 'ネア', 123301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (180701001, 'ハツネ＆シオリ', 180701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (180801001, 'ミソギ＆ミミ＆キョウカ', 180801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (180901001, 'アキノ＆サレン', 180901, 0, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -255,6 +256,7 @@ insert into voice_group_chara values (322801001, 'ミソギ（サマー）（カ
 insert into voice_group_chara values (322901001, 'ミミ（サマー）（カリン掛け合い用）', 122901, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (323101001, 'マホ（エクスプローラー）（カリン掛け合い用）', 123101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (323201001, 'アヤネ（エクスプローラー）（カリン掛け合い用）', 123201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (323301001, 'ネア（カリン掛け合い用）', 123301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380101001, 'ヒヨリ（プリンセス）（カリン掛け合い用）', 180101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380201001, 'ユイ（プリンセス）（カリン掛け合い用）', 180201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380301001, 'レイ（プリンセス）（カリン掛け合い用）', 180301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
