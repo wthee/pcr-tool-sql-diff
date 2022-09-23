@@ -232,6 +232,16 @@ insert into enemy_m_parts values (610093301, '爆裂‧時間儀 VERY HARD', 610
 insert into enemy_m_parts values (610093401, '爆裂‧時間儀 SP1', 610093411, 610093412, 610093413, 610093414, 0);
 insert into enemy_m_parts values (610093402, '爆裂‧時間儀 SP2', 610093421, 610093422, 610093423, 610093424, 0);
 insert into enemy_m_parts values (610093403, '爆裂‧時間儀 SP3', 610093431, 610093432, 610093433, 610093434, 0);
+insert into enemy_m_parts values (701000401, '石像鬼‧炸裂', 701000402, 701000403, 701000404, 0, 0);
+insert into enemy_m_parts values (701000405, '石像鬼‧炸裂', 701000406, 701000407, 701000408, 0, 0);
+insert into enemy_m_parts values (701000409, '石像鬼‧炸裂', 701000410, 701000411, 701000412, 0, 0);
+insert into enemy_m_parts values (701000413, '石像鬼‧炸裂', 701000414, 701000415, 701000416, 0, 0);
+insert into enemy_m_parts values (701000417, '石像鬼‧炸裂', 701000418, 701000419, 701000420, 0, 0);
+insert into enemy_m_parts values (701000501, '石像鬼‧魔幻', 701000502, 701000503, 701000504, 0, 0);
+insert into enemy_m_parts values (701000505, '石像鬼‧魔幻', 701000506, 701000507, 701000508, 0, 0);
+insert into enemy_m_parts values (701000509, '石像鬼‧魔幻', 701000510, 701000511, 701000512, 0, 0);
+insert into enemy_m_parts values (701000513, '石像鬼‧魔幻', 701000514, 701000515, 701000516, 0, 0);
+insert into enemy_m_parts values (701000517, '石像鬼‧魔幻', 701000518, 701000519, 701000520, 0, 0);
 insert into enemy_m_parts values (800100203, '機械莉瑪2020MODE3', 800100212, 800100213, 800100214, 0, 0);
 insert into enemy_m_parts values (801100213, '霸瞳僕役（複合）', 801100223, 801100233, 801100243, 0, 0);
 insert into enemy_m_parts values (802100210, '蘭法', 802100211, 802100212, 0, 0, 0);
