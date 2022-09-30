@@ -463,3 +463,12 @@ insert into hatsune_unlock_story_condition values (5100005, 10100, 0, 10100112, 
 insert into hatsune_unlock_story_condition values (5100006, 10100, 0, 10100115, 0, 0, '0', 0);
 insert into hatsune_unlock_story_condition values (5100007, 10100, 0, 0, 1010001, 0, '0', 0);
 insert into hatsune_unlock_story_condition values (5100601, 10100, 0, 0, 0, 0, '2022/09/14 21:00:00', 0);
+insert into hatsune_unlock_story_condition values (5102000, 10102, 1, 0, 0, 0, '0', 0);
+insert into hatsune_unlock_story_condition values (5102001, 10102, 0, 10102102, 0, 0, '0', 0);
+insert into hatsune_unlock_story_condition values (5102002, 10102, 0, 10102105, 0, 0, '0', 0);
+insert into hatsune_unlock_story_condition values (5102003, 10102, 0, 10102107, 0, 0, '0', 0);
+insert into hatsune_unlock_story_condition values (5102004, 10102, 0, 10102109, 0, 0, '0', 0);
+insert into hatsune_unlock_story_condition values (5102005, 10102, 0, 10102112, 0, 0, '0', 0);
+insert into hatsune_unlock_story_condition values (5102006, 10102, 0, 10102115, 0, 0, '0', 0);
+insert into hatsune_unlock_story_condition values (5102007, 10102, 0, 0, 1010201, 0, '0', 0);
+insert into hatsune_unlock_story_condition values (5102601, 10102, 0, 0, 0, 0, '0', 5102007);

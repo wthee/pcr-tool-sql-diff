@@ -216,3 +216,4 @@ insert into custom_mypage values (9000214, 40001, 0, '夏のピクニック', 0,
 insert into custom_mypage values (9000215, 20005, 0, '4.5周年記念カスタムマイページ1', 1, 0, 1);
 insert into custom_mypage values (9000216, 20005, 0, '4.5周年記念カスタムマイページ2', 1, 0, 1);
 insert into custom_mypage values (9000217, 40001, 0, 'みんなでお月見', 0, 0, 1);
+insert into custom_mypage values (9000218, 40001, 0, 'ハロウィンパーティ', 0, 0, 1);
