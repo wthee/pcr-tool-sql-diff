@@ -180,6 +180,8 @@ insert into unit_background values (121501, '步未（怪盜）', 500012, '蘭�
 insert into unit_background values (121601, '祈梨（怪盜）', 500892, '小巷子_夜晚', 0.0, 20);
 insert into unit_background values (121901, '杏奈（海盜）', 500843, '船上甲板', 0.0, 2);
 insert into unit_background values (122001, '忍（海盜）', 500843, '船上甲板', 0.0, 20);
+insert into unit_background values (122101, '碧（露營）', 501590, '露營場_中午', 0.0, 20);
+insert into unit_background values (122201, '優花梨（露營）', 501590, '露營場_中午', 0.0, 2);
 insert into unit_background values (180101, '日和（公主）', 500130, '埃斯特雷拉街道', 0.0, 2);
 insert into unit_background values (180201, '優衣（公主）', 500130, '埃斯特雷拉街道', 0.0, 4);
 insert into unit_background values (180301, '怜（公主）', 500130, '埃斯特雷拉街道', 0.0, 3);
