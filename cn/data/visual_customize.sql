@@ -6,9 +6,5 @@ insert into visual_customize values (10004, 1002, 1001, 1002, 1, 1, 1002, 0, '20
 insert into visual_customize values (10005, 1002, 1002, 1002, 2, 2, 1002, 2015009, '2022/04/15 11:00:00', '2022/05/15 10:59:59');
 insert into visual_customize values (10006, 0, 1001, 0, 1, 1, 0, 0, '2022/02/28 9:00:00', '2022/04/15 10:59:59');
 insert into visual_customize values (10007, 0, 1002, 0, 2, 2, 0, 2015009, '2022/02/28 9:00:00', '2022/04/15 10:59:59');
-insert into visual_customize values (10008, 0, 1001, 0, 1, 1, 0, 0, '2022/05/15 11:00:00', '2022/10/14 10:59:59');
-insert into visual_customize values (10009, 0, 1002, 0, 2, 2, 0, 2015009, '2022/05/15 11:00:00', '2022/10/14 10:59:59');
-insert into visual_customize values (10010, 0, 1001, 0, 1, 1, 1003, 0, '2022/10/14 11:00:00', '2022/10/31 10:59:59');
-insert into visual_customize values (10011, 0, 1002, 0, 2, 2, 1003, 2015009, '2022/10/14 11:00:00', '2022/10/31 10:59:59');
-insert into visual_customize values (10012, 0, 1001, 0, 1, 1, 0, 0, '2022/10/31 11:00:00', '2099/12/31 23:59:59');
-insert into visual_customize values (10013, 0, 1002, 0, 2, 2, 0, 2015009, '2022/10/31 11:00:00', '2099/12/31 23:59:59');
+insert into visual_customize values (10008, 0, 1001, 0, 1, 1, 0, 0, '2022/05/15 11:00:00', '2099/12/31 23:59:59');
+insert into visual_customize values (10009, 0, 1002, 0, 2, 2, 0, 2015009, '2022/05/15 11:00:00', '2099/12/31 23:59:59');

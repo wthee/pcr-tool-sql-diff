@@ -175,6 +175,3 @@ insert into experience_team values (173, 471934, 231, 999, 30);
 insert into experience_team values (174, 476359, 232, 999, 30);
 insert into experience_team values (175, 480784, 233, 999, 30);
 insert into experience_team values (176, 485209, 234, 999, 30);
-insert into experience_team values (177, 489634, 235, 999, 30);
-insert into experience_team values (178, 494059, 236, 999, 30);
-insert into experience_team values (179, 498484, 237, 999, 30);
