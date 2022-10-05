@@ -1,0 +1,1 @@
+CREATE INDEX 'travel_ex_event_drama_0_drama_id' on 'travel_ex_event_drama'('drama_id')

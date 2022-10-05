@@ -1,0 +1,1 @@
+CREATE INDEX 'travel_quest_data_0_travel_area_id' on 'travel_quest_data'('travel_area_id')
