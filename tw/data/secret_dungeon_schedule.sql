@@ -1,1 +1,2 @@
 CREATE TABLE 'secret_dungeon_schedule' ('dungeon_area_id' INTEGER NOT NULL, 'teaser_time' TEXT NOT NULL, 'start_time' TEXT NOT NULL, 'count_start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'close_time' TEXT NOT NULL, PRIMARY KEY('dungeon_area_id'));
+insert into secret_dungeon_schedule values (32001, '2022/10/05 16:00:00', '2022/10/07 05:00:00', '2022/10/11 04:59:59', '2022/10/12 04:59:59', '2022/10/15 14:59:59');
