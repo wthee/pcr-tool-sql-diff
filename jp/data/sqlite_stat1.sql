@@ -332,7 +332,7 @@ insert into sqlite_stat1 values ('pct_system_fruits', None, '1');
 insert into sqlite_stat1 values ('birthday_login_bonus_detail', 'birthday_login_bonus_detail_0_login_bonus_id', '181 2');
 insert into sqlite_stat1 values ('redeem_static_price_group', None, '2');
 insert into sqlite_stat1 values ('skill_cost', None, '257');
-insert into sqlite_stat1 values ('season_pack', 'season_pack_0_mission_id', '38 13');
+insert into sqlite_stat1 values ('season_pack', 'season_pack_0_mission_id', '52 18');
 insert into sqlite_stat1 values ('unique_equipment_data', None, '158');
 insert into sqlite_stat1 values ('sjr_feature_group', None, '7');
 insert into sqlite_stat1 values ('srt_action', 'sqlite_autoindex_srt_action_1', '41 1');

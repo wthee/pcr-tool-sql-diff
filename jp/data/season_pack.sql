@@ -1,8 +1,8 @@
 CREATE TABLE 'season_pack' ('id' INTEGER NOT NULL, 'mission_id' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, 'category_icon' INTEGER NOT NULL, 'receive_text' TEXT NOT NULL, 'after_text' TEXT NOT NULL, 'gift_message_id' INTEGER NOT NULL, 'term' INTEGER NOT NULL, 'repurchase_day' INTEGER NOT NULL, 'group_id' INTEGER NOT NULL, 'system_id_1' INTEGER NOT NULL, 'add_num_1' INTEGER NOT NULL, 'item_record_id' INTEGER NOT NULL, 'condition_flg' INTEGER NOT NULL, 'reward_rate_1' INTEGER NOT NULL, PRIMARY KEY('id'));
-insert into season_pack values (9, 17001001, 1, 403, 'デイリージュエルパック{1}日目のアイテムセット', 'デイリージュエルパック未受け取り分のジュエル', 0, 30, 3, 0, 104, 0, 1, 0, 2000);
+insert into season_pack values (9, 17001001, 1, 403, 'デイリージュエルパック{1}日目のアイテムセット', 'デイリージュエルパック未受け取り分のジュエル', 0, 30, 3, 2, 104, 0, 1, 0, 2000);
 insert into season_pack values (15, 0, 0, 0, '', '', 0, 7, 3, 1, 103, 3, 0, 1, 0);
 insert into season_pack values (18, 0, 0, 0, '', '', 0, 30, 3, 1, 103, 3, 0, 1, 0);
-insert into season_pack values (19, 17001002, 2, 405, '7日間スタミナ応援パック{1}日目のアイテムセット', '', 9402, 7, 0, 0, 103, 1, 2, 0, 0);
+insert into season_pack values (19, 17001002, 2, 405, '7日間スタミナ応援パック{1}日目のアイテムセット', '', 9402, 7, 0, 3, 103, 1, 2, 0, 0);
 insert into season_pack values (20, 0, 2, 0, '', '', 9403, 0, 0, 0, 0, 0, 3, 0, 0);
 insert into season_pack values (21, 0, 5, 0, '', '', 9404, 0, 0, 0, 0, 0, 4, 0, 0);
 insert into season_pack values (22, 0, 8, 0, '', '', 9405, 0, 0, 0, 0, 0, 5, 0, 0);
@@ -37,3 +37,17 @@ insert into season_pack values (52, 0, 27, 0, '', '', 9428, 0, 0, 0, 0, 0, 11, 0
 insert into season_pack values (53, 0, 28, 0, '', '', 9429, 0, 0, 0, 0, 0, 16, 0, 0);
 insert into season_pack values (54, 0, 29, 0, '', '', 9430, 0, 0, 0, 0, 0, 17, 0, 0);
 insert into season_pack values (55, 0, 1, 0, '', '', 9319, 0, 0, 0, 908, 0, 18, 0, 0);
+insert into season_pack values (56, 17001002, 2, 405, '7日間スタミナ応援パック{1}日目のアイテムセット', '', 9402, 7, 0, 3, 103, 1, 2, 0, 0);
+insert into season_pack values (57, 17001001, 1, 403, 'デイリージュエルパック{1}日目のアイテムセット', 'デイリージュエルパック未受け取り分のジュエル', 0, 30, 3, 2, 104, 0, 1, 0, 2000);
+insert into season_pack values (58, 0, 0, 0, '', '', 0, 7, 3, 1, 103, 3, 0, 1, 0);
+insert into season_pack values (59, 0, 0, 0, '', '', 0, 30, 3, 1, 103, 3, 0, 1, 0);
+insert into season_pack values (71, 0, 20, 0, '', '', 9421, 0, 0, 0, 0, 0, 3, 0, 0);
+insert into season_pack values (72, 0, 21, 0, '', '', 9422, 0, 0, 0, 0, 0, 4, 0, 0);
+insert into season_pack values (73, 0, 22, 0, '', '', 9423, 0, 0, 0, 0, 0, 5, 0, 0);
+insert into season_pack values (74, 0, 23, 0, '', '', 9424, 0, 0, 0, 0, 0, 6, 0, 0);
+insert into season_pack values (75, 0, 24, 0, '', '', 9425, 0, 0, 0, 0, 0, 7, 0, 0);
+insert into season_pack values (76, 0, 25, 0, '', '', 9426, 0, 0, 0, 0, 0, 8, 0, 0);
+insert into season_pack values (77, 0, 26, 0, '', '', 9427, 0, 0, 0, 0, 0, 10, 0, 0);
+insert into season_pack values (78, 0, 27, 0, '', '', 9428, 0, 0, 0, 0, 0, 11, 0, 0);
+insert into season_pack values (79, 0, 28, 0, '', '', 9429, 0, 0, 0, 0, 0, 16, 0, 0);
+insert into season_pack values (80, 0, 29, 0, '', '', 9430, 0, 0, 0, 0, 0, 17, 0, 0);
