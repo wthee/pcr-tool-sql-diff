@@ -68,6 +68,10 @@ insert into chara_story_status values (1007005, '宮子のエピソード第5話
 insert into chara_story_status values (1007006, '宮子のエピソード第6話', 2, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1007, 1082, 1199, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1007007, '宮子のエピソード第7話', 2, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1007, 1082, 1199, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1007008, '宮子のエピソード第8話', 2, 90, 15, 5, 0, 0, 0, 0, 0, 0, 1007, 1082, 1199, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1007009, '宮子のエピソード第9話', 2, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1007, 1082, 1199, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1007010, '宮子のエピソード第10話', 2, 140, 0, 0, 0, 0, 0, 0, 0, 0, 1007, 1082, 1199, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1007011, '宮子のエピソード第11話', 2, 140, 0, 0, 0, 0, 0, 0, 0, 0, 1007, 1082, 1199, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1007012, '宮子のエピソード第12話', 2, 240, 15, 5, 0, 0, 0, 0, 0, 0, 1007, 1082, 1199, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1008002, '雪のエピソード第2話', 4, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1008, 1176, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1008003, '雪のエピソード第3話', 4, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1008, 1176, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1008004, '雪のエピソード第4話', 4, 30, 0, 0, 0, 0, 0, 0, 0, 0, 1008, 1176, 0, 0, 0, 0, 0, 0, 0, 0);

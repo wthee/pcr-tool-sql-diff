@@ -1,0 +1,1 @@
+CREATE INDEX 'lsv_drama_script_0_drama_id' on 'lsv_drama_script'('drama_id')

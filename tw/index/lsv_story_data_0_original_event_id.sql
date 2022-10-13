@@ -1,0 +1,1 @@
+CREATE INDEX 'lsv_story_data_0_original_event_id' on 'lsv_story_data'('original_event_id')
