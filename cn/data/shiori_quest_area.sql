@@ -15,3 +15,5 @@ insert into shiori_quest_area values (20007101, 20007, '兰德索尔郊外', 201
 insert into shiori_quest_area values (20007102, 20007, '灵界', 201, 'bgm_M29', 'bgm_M29', 1, 2, 0, 80, 1, '202', '208', 0);
 insert into shiori_quest_area values (20007103, 20007, '兰德索尔中心部', 201, 'bgm_M135', 'bgm_M135', 1, 3, 0, 0, 1, '202', '209', 1);
 insert into shiori_quest_area values (20007201, 20007, '兰德索尔郊外', 201, 'bgm_M135', 'bgm_M135', 1, 1, 0, 0, 0, '0', '0', 31);
+insert into shiori_quest_area values (20008101, 20008, '兰德索尔近郊', 201, 'bgm_M162', 'bgm_M162', 1, 0, 35, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20008201, 20008, '兰德索尔近郊', 201, 'bgm_M162', 'bgm_M162', 1, 0, 0, 0, 0, '0', '0', 0);

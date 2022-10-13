@@ -588,3 +588,17 @@ insert into campaign_schedule values (586, 38, 2000.0, 112, 30, '2022/10/13 5:00
 insert into campaign_schedule values (587, 45, 2000.0, 104, 40, '2022/10/13 5:00:00', '2022/10/23 4:59:59', 0, 0, 0);
 insert into campaign_schedule values (588, 151, 1500.0, 6004, 80, '2022/09/30 11:00:00', '2022/10/14 23:59:59', 0, 0, 0);
 insert into campaign_schedule values (589, 152, 1500.0, 6005, 80, '2022/09/30 11:00:00', '2022/10/14 23:59:59', 0, 0, 0);
+insert into campaign_schedule values (590, 31, 2000.0, 101, 30, '2022/10/17 5:00:00', '2022/10/22 4:59:59', 0, 0, 0);
+insert into campaign_schedule values (591, 41, 2000.0, 101, 40, '2022/10/17 5:00:00', '2022/10/22 4:59:59', 0, 0, 0);
+insert into campaign_schedule values (592, 34, 2000.0, 103, 30, '2022/10/16 5:00:00', '2022/10/24 4:59:59', 0, 0, 0);
+insert into campaign_schedule values (593, 44, 2000.0, 103, 40, '2022/10/16 5:00:00', '2022/10/24 4:59:59', 0, 0, 0);
+insert into campaign_schedule values (594, 31, 2000.0, 101, 30, '2022/10/27 5:00:00', '2022/10/31 4:59:59', 0, 0, 0);
+insert into campaign_schedule values (595, 41, 2000.0, 101, 40, '2022/10/27 5:00:00', '2022/10/31 4:59:59', 0, 0, 0);
+insert into campaign_schedule values (596, 32, 2000.0, 102, 30, '2022/10/22 5:00:00', '2022/10/27 4:59:59', 0, 0, 0);
+insert into campaign_schedule values (597, 42, 2000.0, 102, 40, '2022/10/22 5:00:00', '2022/10/27 4:59:59', 0, 0, 0);
+insert into campaign_schedule values (598, 37, 2000.0, 109, 30, '2022/10/22 5:00:00', '2022/10/27 4:59:59', 0, 0, 0);
+insert into campaign_schedule values (599, 38, 2000.0, 112, 30, '2022/10/22 5:00:00', '2022/10/27 4:59:59', 0, 0, 0);
+insert into campaign_schedule values (600, 34, 2000.0, 103, 30, '2022/10/31 5:00:00', '2022/11/07 4:59:59', 0, 0, 0);
+insert into campaign_schedule values (601, 44, 2000.0, 103, 40, '2022/10/31 5:00:00', '2022/11/07 4:59:59', 0, 0, 0);
+insert into campaign_schedule values (602, 251, 1500.0, 7004, 80, '2022/10/16 12:00:00', '2022/10/23 23:59:59', 0, 0, 0);
+insert into campaign_schedule values (603, 252, 1500.0, 7005, 80, '2022/10/16 12:00:00', '2022/10/23 23:59:59', 0, 0, 0);
