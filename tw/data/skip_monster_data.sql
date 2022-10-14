@@ -2688,6 +2688,13 @@ insert into skip_monster_data values (11058004, 11058, '歐呂克斯沙島‧南
 insert into skip_monster_data values (11058005, 11058, '歐呂克斯沙島‧南部 58-5', 101580501, 101621);
 insert into skip_monster_data values (11058006, 11058, '歐呂克斯沙島‧南部 58-6', 101580601, 100011);
 insert into skip_monster_data values (11058007, 11058, '歐呂克斯沙島‧南部 58-7', 101580701, 100021);
+insert into skip_monster_data values (11058008, 11058, '克魯斯密林‧東部 58-8', 101580801, 101621);
+insert into skip_monster_data values (11058009, 11058, '克魯斯密林‧東部 58-9', 101580901, 100031);
+insert into skip_monster_data values (11058010, 11058, '克魯斯密林‧東部 58-10', 101581001, 100021);
+insert into skip_monster_data values (11058011, 11058, '克魯斯密林‧東部 58-11', 101581101, 100021);
+insert into skip_monster_data values (11058012, 11058, '克魯斯密林‧東部 58-12', 101581201, 100031);
+insert into skip_monster_data values (11058013, 11058, '克魯斯密林‧東部 58-13', 101581301, 100021);
+insert into skip_monster_data values (11058014, 11058, '克魯斯密林‧東部 58-14', 101581410, 102101);
 insert into skip_monster_data values (12001001, 12001, '朱諾平原 1-1（Hard）', 101010101, 100911);
 insert into skip_monster_data values (12001002, 12001, '朱諾平原 1-2（Hard）', 101010101, 100911);
 insert into skip_monster_data values (12001003, 12001, '朱諾平原 1-3（Hard）', 101010101, 100361);
@@ -2847,6 +2854,8 @@ insert into skip_monster_data values (12052003, 12052, '皮尼翁沿岸堤‧西
 insert into skip_monster_data values (12053001, 12053, '皮尼翁沿岸堤‧東岸 53-1', 102530101, 101131);
 insert into skip_monster_data values (12053002, 12053, '皮尼翁沿岸堤‧東岸 53-2', 102530201, 101071);
 insert into skip_monster_data values (12053003, 12053, '皮尼翁沿岸堤‧東岸 53-3', 102530310, 101131);
+insert into skip_monster_data values (12054001, 12054, '托塔提斯沙岸‧西部 54-1', 102540101, 101131);
+insert into skip_monster_data values (12054002, 12054, '托塔提斯沙岸‧西部 54-2', 102540201, 101071);
 insert into skip_monster_data values (13018001, 13018, '法艾頓草原‧北部 18-1', 103180101, 101401);
 insert into skip_monster_data values (13018002, 13018, '法艾頓草原‧北部 18-2', 103180204, 100691);
 insert into skip_monster_data values (13018003, 13018, '法艾頓草原‧北部 18-3', 103180301, 101431);
