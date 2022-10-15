@@ -214,3 +214,5 @@ insert into odds_name_data values (1010102, '1010120102', 'ミツキのメモリ
 insert into odds_name_data values (1010201, '1010220101', 'リン（ハロウィン）のメモリーピース', 99002, '');
 insert into odds_name_data values (1010202, '1010220102', 'ナナカのメモリーピース', 99002, '');
 insert into odds_name_data values (1010203, 'box_rank_9-17', 'ランダム装備BOX', 99002, 'ランダムな装備が獲得できる。');
+insert into odds_name_data values (1010301, '1010320101', 'ニノン（ハロウィン）のメモリーピース', 99002, '');
+insert into odds_name_data values (1010302, '1010320102', 'ジュンのメモリーピース', 99002, '');
