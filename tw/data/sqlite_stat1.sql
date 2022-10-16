@@ -285,7 +285,7 @@ insert into sqlite_stat1 values ('room_item_detail', 'room_item_detail_0_lvup_tr
 insert into sqlite_stat1 values ('room_item_detail', 'sqlite_autoindex_room_item_detail_1', '515 2 1');
 insert into sqlite_stat1 values ('shiori_description', 'shiori_description_0_type', '18 1');
 insert into sqlite_stat1 values ('hatsune_quest_area', 'hatsune_quest_area_0_event_id', '229 3');
-insert into sqlite_stat1 values ('login_bonus_detail', 'login_bonus_detail_0_login_bonus_id_1_count', '283 11 2');
+insert into sqlite_stat1 values ('login_bonus_detail', 'login_bonus_detail_0_login_bonus_id_1_count', '293 11 2');
 insert into sqlite_stat1 values ('redeem_unit', 'redeem_unit_0_unit_id', '2 2');
 insert into sqlite_stat1 values ('growth_parameter_unique', None, '1');
 insert into sqlite_stat1 values ('unit_introduction', 'unit_introduction_0_gacha_id', '190 1');
@@ -371,7 +371,7 @@ insert into sqlite_stat1 values ('hatsune_boss_enemy_setting', 'sqlite_autoindex
 insert into sqlite_stat1 values ('sekai_top_story_data', 'sekai_top_story_data_0_sekai_id', '4 4');
 insert into sqlite_stat1 values ('actual_unit_background', None, '185');
 insert into sqlite_stat1 values ('special_still', None, '1');
-insert into sqlite_stat1 values ('login_bonus_data', None, '32');
+insert into sqlite_stat1 values ('login_bonus_data', None, '33');
 insert into sqlite_stat1 values ('story_character_mask', None, '665');
 insert into sqlite_stat1 values ('skill_data', None, '3436');
 insert into sqlite_stat1 values ('item_data', None, '689');
