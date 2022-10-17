@@ -132,6 +132,7 @@ insert into voice_group values (20134, '秋乃咲戀＆優花梨', 180901001, 10
 insert into voice_group values (20135, '秋乃咲戀＆珠希', 180901001, 104601001, 0, 0, 0);
 insert into voice_group values (20136, '蘭法＆可可蘿', 118101001, 105901001, 0, 0, 0);
 insert into voice_group values (20137, '蘭法＆千歌', 118101001, 104201001, 0, 0, 0);
+insert into voice_group values (20138, '班比&伊莉亞', 122301001, 104401001, 0, 0, 0);
 insert into voice_group values (30001, '日和（花凜對話用）', 118501001, 300101001, 0, 0, 0);
 insert into voice_group values (30002, '優衣（花凜對話用）', 118501001, 300201001, 0, 0, 0);
 insert into voice_group values (30003, '怜（花凜對話用）', 118501001, 300301001, 0, 0, 0);
