@@ -196,3 +196,5 @@ insert into odds_name_data values (1009301, '1009320101', '嘉夜的記憶碎片
 insert into odds_name_data values (1009302, '1009320102', '美里的記憶碎片', 99002, '');
 insert into odds_name_data values (1009401, '1009420101', '碧（露營）的記憶碎片', 99002, '');
 insert into odds_name_data values (1009402, '1009420102', '優花梨的記憶碎片', 99002, '');
+insert into odds_name_data values (1009501, '1009520101', '珠希（工作服）的記憶碎片', 99002, '');
+insert into odds_name_data values (1009502, '1009520102', '碧的記憶碎片', 99002, '');
