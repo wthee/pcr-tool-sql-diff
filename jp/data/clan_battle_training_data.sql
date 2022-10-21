@@ -89,3 +89,8 @@ insert into clan_battle_training_data values (87, 1055, 0, 2, 253);
 insert into clan_battle_training_data values (88, 1055, 0, 3, 254);
 insert into clan_battle_training_data values (89, 1055, 0, 4, 255);
 insert into clan_battle_training_data values (90, 1055, 0, 5, 256);
+insert into clan_battle_training_data values (91, 1056, 0, 1, 258);
+insert into clan_battle_training_data values (92, 1056, 0, 2, 259);
+insert into clan_battle_training_data values (93, 1056, 0, 3, 260);
+insert into clan_battle_training_data values (94, 1056, 0, 4, 261);
+insert into clan_battle_training_data values (95, 1056, 0, 5, 262);
