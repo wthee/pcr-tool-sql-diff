@@ -63,3 +63,5 @@ insert into shiori_quest_area values (20026102, 20026, '繁星降臨的銀河', 
 insert into shiori_quest_area values (20026201, 20026, '繁星降臨的銀河', 201, 'bgm_M380B', 'bgm_M380B_02', 1, 0, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20027101, 20027, '海灘運動公園', 201, 'bgm_M393', 'bgm_M393', 1, 0, 115, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20027201, 20027, '海灘運動公園', 201, 'bgm_M393', 'bgm_M393', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20028101, 20028, '王城蘭德索爾', 201, 'bgm_M403', 'bgm_M403', 1, 1, 80, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20028201, 20028, '王城蘭德索爾', 201, 'bgm_M403', 'bgm_M403', 1, 1, 0, 0, 0, '0', '0', 0);
