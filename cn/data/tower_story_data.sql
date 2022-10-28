@@ -13,3 +13,4 @@ insert into tower_story_data values (7011, 7, 11, '忍剑奇道中', 0, 1, '2022
 insert into tower_story_data values (7012, 7, 12, '擦肩而过的距离', 0, 1, '2022/05/15 12:00:00', '2099/12/31 23:59:59');
 insert into tower_story_data values (7013, 7, 13, '劳逸不均', 0, 1, '2022/07/14 12:00:00', '2099/12/31 23:59:59');
 insert into tower_story_data values (7014, 7, 14, '淑女的理想和大人的真实', 0, 1, '2022/09/15 12:00:00', '2099/12/31 23:59:59');
+insert into tower_story_data values (7015, 7, 15, '姐姐的命题和博士的对偶', 0, 1, '2022/11/18 12:00:00', '2099/12/31 23:59:59');

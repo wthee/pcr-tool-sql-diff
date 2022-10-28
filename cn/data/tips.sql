@@ -79,6 +79,7 @@ insert into tips values (4112901, 112901, 1, '同款');
 insert into tips values (4113001, 113001, 1, '随便看');
 insert into tips values (4113701, 113701, 1, '恋爱的魔法');
 insert into tips values (4113801, 113801, 1, '太羞耻了！');
+insert into tips values (4114201, 114201, 1, '微服出行');
 insert into tips values (4170101, 170101, 1, '闪亮登场');
 insert into tips values (4170201, 170201, 1, '努力打年糕');
 insert into tips values (4180201, 180201, 1, '点点头');

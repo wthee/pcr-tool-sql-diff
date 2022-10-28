@@ -1,7 +1,7 @@
 CREATE TABLE 'dear_chara' ('event_id' INTEGER NOT NULL, 'chara_index' INTEGER NOT NULL, 'chara_name' TEXT NOT NULL, 'max_dear_point' INTEGER NOT NULL, 'reference_type' INTEGER NOT NULL, 'reference_id' INTEGER NOT NULL, 'episode_unlock_offset_x' INTEGER NOT NULL, 'episode_unlock_offset_y' INTEGER NOT NULL, 'dear_point_up_offset_x' INTEGER NOT NULL, 'dear_point_up_offset_y' INTEGER NOT NULL, 'condition_story_id' INTEGER NOT NULL, PRIMARY KEY('event_id','chara_index'));
-insert into dear_chara values (10017, 1, '爱蜜莉雅', 1000, 1, 109901, 0, 0, 0, 0, 0);
-insert into dear_chara values (10017, 2, '雷姆', 1000, 1, 109701, 0, 0, 0, 0, 0);
-insert into dear_chara values (10017, 3, '拉姆', 1000, 1, 109801, 0, 0, 0, 0, 0);
+insert into dear_chara values (10053, 1, '爱蜜莉雅', 1000, 1, 109901, 0, 0, 0, 0, 0);
+insert into dear_chara values (10053, 2, '雷姆', 1000, 1, 109701, 0, 0, 0, 0, 0);
+insert into dear_chara values (10053, 3, '拉姆', 1000, 1, 109801, 0, 0, 0, 0, 0);
 insert into dear_chara values (10043, 1, '铃奈', 1000, 1, 110001, 0, 0, 0, 0, 0);
 insert into dear_chara values (10043, 2, '美咲', 1000, 1, 110201, 0, 0, 0, 0, 0);
 insert into dear_chara values (10047, 1, '克罗依', 1000, 1, 110801, 0, 0, 0, 0, 0);
@@ -37,3 +37,5 @@ insert into dear_chara values (10048, 2, '茜里', 1000, 1, 113701, 0, 0, 0, 0, 
 insert into dear_chara values (10050, 1, '纺希', 1000, 1, 113901, 0, 0, 0, 0, 0);
 insert into dear_chara values (10050, 2, '怜', 1000, 1, 114001, 0, 0, 0, 0, 0);
 insert into dear_chara values (10050, 3, '茉莉', 1000, 1, 114101, 0, 0, 0, 0, 0);
+insert into dear_chara values (10052, 1, '莫妮卡', 1000, 1, 114201, 0, 0, 0, 0, 0);
+insert into dear_chara values (10052, 2, '智', 1000, 1, 114301, 0, 0, 0, 0, 0);
