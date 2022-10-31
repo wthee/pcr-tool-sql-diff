@@ -1,1 +1,8 @@
 CREATE TABLE 'travel_ex_event_data' ('still_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('still_id'));
+insert into travel_ex_event_data values (8000000, 'お腹が空いたらひと休み！', 1);
+insert into travel_ex_event_data values (8000001, '夜は秘密のガールズトーク', 2);
+insert into travel_ex_event_data values (8000002, '⼩さな⼀歩、⼤きな冒険！', 3);
+insert into travel_ex_event_data values (8000003, '幸せあふれる朝のひととき', 4);
+insert into travel_ex_event_data values (8000004, '混沌が通るぞ道を退け', 5);
+insert into travel_ex_event_data values (8000005, 'ワイルドライフ・アドベンチャー！', 6);
+insert into travel_ex_event_data values (8000006, 'アオハル登⼭♪徒歩で来た☆', 7);

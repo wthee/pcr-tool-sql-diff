@@ -324,3 +324,4 @@ insert into voice_group values (30180, 'ネア（カリン掛け合い用）', 1
 insert into voice_group values (30181, 'トモ（ハロウィン））（カリン掛け合い用）', 118501001, 323601001, 0, 0, 0);
 insert into voice_group values (30182, 'リン（ハロウィン）（カリン掛け合い用）', 118501001, 323501001, 0, 0, 0);
 insert into voice_group values (30183, 'ナナカ（ハロウィン）（カリン掛け合い用）', 118501001, 323701001, 0, 0, 0);
+insert into voice_group values (30184, 'クリスティーナ（ワイルド）（カリン掛け合い用）', 118501001, 323801001, 0, 0, 0);

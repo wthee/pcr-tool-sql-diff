@@ -955,6 +955,16 @@ insert into event_navi_comment_condition values (10103127, 4, 5076002, 0, 0, 0, 
 insert into event_navi_comment_condition values (10103128, 3, 5076002, 0, 0, 0, 0);
 insert into event_navi_comment_condition values (10103129, 4, 5076002, 0, 0, 0, 0);
 insert into event_navi_comment_condition values (10103130, 3, 5076002, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10104101, 4, 5104001, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10104102, 4, 5104001, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10104103, 3, 5104001, 4, 5104006, 0, 0);
+insert into event_navi_comment_condition values (10104105, 3, 5104001, 4, 5104006, 0, 0);
+insert into event_navi_comment_condition values (10104107, 3, 5104006, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10104108, 3, 5104006, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10104109, 4, 5104006, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10104110, 3, 5104006, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10104111, 4, 5104006, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10104112, 3, 5104006, 0, 0, 0, 0);
 insert into event_navi_comment_condition values (20003106, 2, 5003006, 0, 0, 0, 0);
 insert into event_navi_comment_condition values (20003107, 1, 5003006, 0, 0, 0, 0);
 insert into event_navi_comment_condition values (20003110, 2, 5003006, 0, 0, 0, 0);

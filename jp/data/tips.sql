@@ -114,6 +114,7 @@ insert into tips values (4123001, 123001, 1, 'ぷにぷにプニプニ');
 insert into tips values (4123101, 123101, 1, 'ひらひらくるりん');
 insert into tips values (4123201, 123201, 1, 'ピクニック気分で');
 insert into tips values (4123301, 123301, 1, '目のホヨー');
+insert into tips values (4123801, 123801, 1, '容赦なく');
 insert into tips values (4180101, 180101, 1, 'じゃんけんタイム！');
 insert into tips values (4180201, 180201, 1, 'ぺこぺこ');
 insert into tips values (4180301, 180301, 1, '守る力');
