@@ -1943,10 +1943,10 @@ insert into birthday_login_bonus_drama_script values (1038501038, 1038501, 3, '1
 insert into birthday_login_bonus_drama_script values (1038501039, 1038501, 93, '2', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1038501040, 1038501, 21, 'vo_adv_1038501', 'vo_adv_1038501_000', '0', '0', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1038501041, 1038501, 13, '103811', '870', '', '', '', '', '', '');
-insert into birthday_login_bonus_drama_script values (1038501042, 1038501, 11, '103811', '哇，好厲害……！_x000D_\\n若大的蛋糕上有如此豪華的裝飾……_x000D_\\n好像在做夢喔。_x000D_\\n我真的覺得自己走進書中世界了……！', '5', '1', '1', '0', '0', '');
+insert into birthday_login_bonus_drama_script values (1038501042, 1038501, 11, '103811', '哇，好厲害……！\\n若大的蛋糕上有如此豪華的裝飾……\\n好像在做夢喔。\\n我真的覺得自己走進書中世界了……！', '5', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1038501043, 1038501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1038501044, 1038501, 21, 'vo_adv_1038501', 'vo_adv_1038501_001', '0', '0', '', '', '', '');
-insert into birthday_login_bonus_drama_script values (1038501045, 1038501, 11, '103811', '這麼盛大地幫我慶祝，_x000D_\\n還真有點不好意思呢。_x000D_\\n像我這種小人物的慶生會，_x000D_\\n好像有點兒太誇張了。不過……', '4', '1', '1', '0', '0', '');
+insert into birthday_login_bonus_drama_script values (1038501045, 1038501, 11, '103811', '這麼盛大地幫我慶祝，\\n還真有點不好意思呢。\\n像我這種小人物的慶生會，\\n好像有點兒太誇張了。不過……', '4', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1038501046, 1038501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1038501047, 1038501, 21, 'vo_adv_1038501', 'vo_adv_1038501_002', '0', '0', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1038501048, 1038501, 11, '103811', '我姊姊為了哄我開心，\\n也常常做一些誇張的事。\\n所以我很明白，\\n你有多為我著想。', '8', '1', '1', '0', '0', '');

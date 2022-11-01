@@ -198,3 +198,6 @@ insert into odds_name_data values (1009401, '1009420101', '碧（露營）的記
 insert into odds_name_data values (1009402, '1009420102', '優花梨的記憶碎片', 99002, '');
 insert into odds_name_data values (1009501, '1009520101', '珠希（工作服）的記憶碎片', 99002, '');
 insert into odds_name_data values (1009502, '1009520102', '碧的記憶碎片', 99002, '');
+insert into odds_name_data values (1009601, '1009620101', '日和（夏日）的記憶碎片', 99002, '');
+insert into odds_name_data values (1009602, '1009620102', '優衣的記憶碎片', 99002, '');
+insert into odds_name_data values (1009603, 'box_rank_8-16', '隨機裝備箱', 99002, '能夠獲得隨機的裝備。');

@@ -226,6 +226,8 @@ insert into ub_auto_define values (1220001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1221001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1222001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1223001, 1, 0, 0, 0, 0);
+insert into ub_auto_define values (1224001, 1, 0, 0, 0, 0);
+insert into ub_auto_define values (1225001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1701011, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1801001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1802001, 1, 0, 0, 0, 0);
