@@ -144,6 +144,10 @@ insert into chara_story_status values (1015005, '美里のエピソード第5話
 insert into chara_story_status values (1015006, '美里のエピソード第6話', 4, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1015, 1135, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1015007, '美里のエピソード第7話', 4, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1015, 1135, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1015008, '美里のエピソード第8話', 4, 90, 11, 60, 0, 0, 0, 0, 0, 0, 1015, 1135, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1015009, '美里のエピソード第9話', 4, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1015, 1135, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1015010, '美里のエピソード第10話', 4, 140, 0, 0, 0, 0, 0, 0, 0, 0, 1015, 1135, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1015011, '美里のエピソード第11話', 4, 140, 0, 0, 0, 0, 0, 0, 0, 0, 1015, 1135, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1015012, '美里のエピソード第12話', 4, 240, 15, 5, 0, 0, 0, 0, 0, 0, 1015, 1135, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1016002, '鈴奈のエピソード第2話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1016, 1100, 1179, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1016003, '鈴奈のエピソード第3話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1016, 1100, 1179, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1016004, '鈴奈のエピソード第4話', 2, 30, 0, 0, 0, 0, 0, 0, 0, 0, 1016, 1100, 1179, 0, 0, 0, 0, 0, 0, 0);
