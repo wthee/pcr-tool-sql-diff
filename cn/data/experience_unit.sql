@@ -178,3 +178,6 @@ insert into experience_unit values (176, 4948738);
 insert into experience_unit values (177, 5025890);
 insert into experience_unit values (178, 5103642);
 insert into experience_unit values (179, 5181994);
+insert into experience_unit values (180, 5260946);
+insert into experience_unit values (181, 5340498);
+insert into experience_unit values (182, 5420650);

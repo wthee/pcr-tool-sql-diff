@@ -98,3 +98,4 @@ insert into unit_introduction values (100, 30100, 1, '2022/10/14 11:00:00', '202
 insert into unit_introduction values (101, 30101, 1, '2022/10/26 11:00:00', '2022/10/31 10:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (102, 30102, 1, '2022/10/31 11:00:00', '2022/11/10 10:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (103, 30103, 1, '2022/11/10 11:00:00', '2022/11/21 10:59:59', 380000, 380000, 0, 0, 0, 0);
+insert into unit_introduction values (104, 30104, 1, '2022/11/21 11:00:00', '2022/11/30 10:59:59', 380000, 380000, 0, 0, 0, 0);
