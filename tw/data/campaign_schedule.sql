@@ -975,3 +975,4 @@ insert into campaign_schedule values (973, 32, 2000.0, 102, 30, '2022/11/04 05:0
 insert into campaign_schedule values (974, 42, 2000.0, 102, 40, '2022/11/04 05:00:00', '2022/11/15 04:59:59', 0, 0, 0, 0);
 insert into campaign_schedule values (975, 39, 2000.0, 111, 30, '2022/11/11 05:00:00', '2022/11/15 04:59:59', 0, 0, 0, 0);
 insert into campaign_schedule values (976, 49, 2000.0, 111, 40, '2022/11/11 05:00:00', '2022/11/15 04:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (977, 45, 2000.0, 104, 40, '2022/11/12 05:00:00', '2022/11/29 04:59:59', 0, 0, 0, 0);
