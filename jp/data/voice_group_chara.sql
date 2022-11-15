@@ -3,7 +3,7 @@ insert into voice_group_chara values (100101001, 'トゥインクルウィッシ
 insert into voice_group_chara values (100201001, 'トゥインクルウィッシュ（ユイ）', 100201, 108801, 180201, 115601, 122601, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100301001, 'トゥインクルウィッシュ（レイ）', 100301, 108901, 114001, 180301, 122501, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100401001, 'リトルリリカル（ミソギ）', 100401, 111201, 122801, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (100501001, 'NIGHTMARE（マツリ）', 100501, 114101, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (100501001, 'NIGHTMARE（マツリ）', 100501, 114101, 123901, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100601001, 'ディアボロス（アカリ）', 100601, 113701, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100701001, 'ディアボロス（ミヤコ）', 100701, 108201, 119901, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100801001, 'ヴァイスフリューゲルランドソル支部（ユキ）', 100801, 117601, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -61,6 +61,7 @@ insert into voice_group_chara values (106501001, 'ドラゴンズネスト（カ
 insert into voice_group_chara values (106601001, 'ドラゴンズネスト（イノリ）', 106601, 116501, 121601, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (106701001, 'ドラゴンズネスト（ホマレ）', 106701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (106801001, 'ラビリンス（ラビリスタ）', 106801, 121201, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (106901001, '？？？（カイザーインサイト）', 106901, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (107001001, '？？？（ネネカ）', 107001, 115001, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (107101001, 'NIGHTMARE（クリスティーナ）', 107101, 111501, 123801, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (109201001, 'マナリア（アン）', 109201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -261,6 +262,7 @@ insert into voice_group_chara values (323501001, 'リン（ハロウィン）（
 insert into voice_group_chara values (323601001, 'トモ（ハロウィン）（カリン掛け合い用）', 123601, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (323701001, 'ナナカ（ハロウィン）（カリン掛け合い用）', 123701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (323801001, 'クリスティーナ（ワイルド）（カリン掛け合い用）', 123801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (323901001, 'マツリ（ワイルド）（カリン掛け合い用）', 123901, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380101001, 'ヒヨリ（プリンセス）（カリン掛け合い用）', 180101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380201001, 'ユイ（プリンセス）（カリン掛け合い用）', 180201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380301001, 'レイ（プリンセス）（カリン掛け合い用）', 180301, 0, 0, 0, 0, 0, 0, 0, 0, 0);

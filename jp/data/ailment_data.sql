@@ -39,3 +39,5 @@ insert into ailment_data values (37, 11, 2, '混乱（別枠）');
 insert into ailment_data values (38, 8, 13, '結晶化');
 insert into ailment_data values (39, 83, 1, 'スロウ(加算可能)');
 insert into ailment_data values (40, 83, 2, 'ヘイスト(加算可能)');
+insert into ailment_data values (41, 49, 3, 'バフ消去');
+insert into ailment_data values (42, 49, 10, 'バリア消去');

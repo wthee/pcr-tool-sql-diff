@@ -61,6 +61,7 @@ insert into unit_background values (106501, 'カヤ', 500833, '密林_テント'
 insert into unit_background values (106601, 'イノリ', 500833, '密林_テント', 0.0, 4);
 insert into unit_background values (106701, 'ホマレ', 501320, 'ホマレの部屋', 0.0, 2);
 insert into unit_background values (106801, '模索路晶', 500030, 'ランドソル 繁華街', 0.0, 18);
+insert into unit_background values (106901, 'カイザーインサイト', 500100, 'ランドソル王城_玉座の間', 0.0, 2);
 insert into unit_background values (107001, 'ネネカ', 500341, 'ラビリンスギルド拠点', 0.0, 2);
 insert into unit_background values (107101, 'クリスティーナ・モーガン', 500090, 'ランドソル 王城入口', 0.0, 2);
 insert into unit_background values (107501, 'ペコリーヌ（サマー）', 500164, 'マルジェン海岸', 0.0, 4);
@@ -197,6 +198,7 @@ insert into unit_background values (123501, 'リン（ハロウィン）', 50187
 insert into unit_background values (123601, 'トモ（ハロウィン）', 501860, 'ランドソル_繁華街_ハロウィン_フェス', 0.0, 2);
 insert into unit_background values (123701, 'ナナカ（ハロウィン）', 501870, '舞台_コンテンツフェス_昼', 0.0, 4);
 insert into unit_background values (123801, 'クリスティーナ（ワイルド）', 500170, 'ミステリオン森林', 0.0, 2);
+insert into unit_background values (123901, 'マツリ（ワイルド）', 500090, 'ランドソル 王城入口', 0.0, 2);
 insert into unit_background values (180101, 'ヒヨリ（プリンセス）', 500130, 'エステレラ街道', 0.0, 2);
 insert into unit_background values (180201, 'ユイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 4);
 insert into unit_background values (180301, 'レイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 3);

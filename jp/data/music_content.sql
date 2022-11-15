@@ -241,3 +241,6 @@ insert into music_content values (239, 'はんなり乙女道中', '1:36', '0:55
 insert into music_content values (240, 'ファボ！ラブ！大集合！\u3000至高の祭典と少女の秘めた推し事', '1:34', '0:00', "ストーリーイベントテーマ\\n-｢O-TA-O-TA WORLD｣アレンジ-\\n\\n時間 / 01:34\\n作曲 / Heart's Cry (TOKYO LOGIC)\\n編曲 / 市橋卓也（Cygames）", 'bgm_M623', 'bgm_M623_juke');
 insert into music_content values (241, '狂乱の配信者・カガミ', '2:00', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 02:00\\n作曲 / 榎本 三和子（Cygames）\\n編曲 / 榎本 三和子（Cygames）', 'bgm_M625', 'bgm_M625_juke');
 insert into music_content values (242, 'O-TA-O-TA WORLD', '1:35', '1:01', "キャラクターソング\\n\\n時間 / 01:35\\n歌\u3000 / トモ（茅原実里）\\n\u3000\u3000\u3000ナナカ（佳村はるか）\\n\u3000\u3000\u3000リン（小岩井ことり）\\n作詞 / Heart's Cry (TOKYO LOGIC)\\n作曲 / Heart's Cry (TOKYO LOGIC)\\n編曲 / Heart's Cry (TOKYO LOGIC)", 'bgm_M622', 'bgm_M622');
+insert into music_content values (243, 'トライバルスピリッツ\u3000掲げる剣と誇りの架け橋', '1:37', '0:00', "ストーリーイベントテーマ\\n-｢Knight's Soul｣アレンジ-\\n\\n時間 / 01:37\\n作曲 / 設楽哲也\\n編曲 / 畑田浩孝（Cygames）", 'bgm_M630', 'bgm_M630_juke');
+insert into music_content values (244, 'オブシダンゴーレム', '1:59', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 01:59\\n作曲 / 西村真吾\\n編曲 / 西村真吾', 'bgm_M634', 'bgm_M634_juke');
+insert into music_content values (245, "Knight's Soul", '1:28', '0:52', 'キャラクターソング\\n\\n時間 / 01:28\\n歌\u3000 / マツリ（下田麻美）\\n\u3000\u3000\u3000クリスティーナ（たかはし智秋）\\n作詞 / eNu\\n作曲 / 設楽哲也\\n編曲 / 設楽哲也', 'bgm_M637', 'bgm_M637');

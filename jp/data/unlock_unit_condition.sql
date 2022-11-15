@@ -61,6 +61,7 @@ insert into unlock_unit_condition values (106501, 'カヤ', 1, 0, 1, 2, 31065, 1
 insert into unlock_unit_condition values (106601, 'イノリ', 1, 0, 1, 2, 31066, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (106701, 'ホマレ', 1, 0, 1, 2, 31067, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (106801, 'ラビリスタ', 1, 0, 1, 2, 31068, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
+insert into unlock_unit_condition values (106901, 'カイザーインサイト', 1, 0, 1, 2, 31069, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (107001, 'ネネカ', 1, 0, 1, 2, 31070, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (107101, 'クリスティーナ', 1, 0, 1, 2, 31071, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (107501, 'ペコリーヌ（サマー）', 1, 0, 1, 2, 31075, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -197,6 +198,7 @@ insert into unlock_unit_condition values (123501, 'リン（ハロウィン）',
 insert into unlock_unit_condition values (123601, 'トモ（ハロウィン）', 1, 0, 1, 2, 31236, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (123701, 'ナナカ（ハロウィン）', 1, 0, 1, 2, 31237, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (123801, 'クリスティーナ（ワイルド）', 1, 0, 1, 2, 31238, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
+insert into unlock_unit_condition values (123901, 'マツリ（ワイルド）', 1, 0, 1, 2, 31239, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (180101, 'ヒヨリ（プリンセス）', 1, 0, 1, 2, 31801, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (180201, 'ユイ（プリンセス）', 1, 0, 1, 2, 31802, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (180301, 'レイ（プリンセス）', 1, 0, 1, 2, 31803, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);

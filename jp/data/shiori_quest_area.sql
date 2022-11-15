@@ -73,3 +73,7 @@ insert into shiori_quest_area values (20031101, 20031, 'デビュタント・シ
 insert into shiori_quest_area values (20031201, 20031, 'デビュタント・シャングリ・ラ会場', 201, 'bgm_M426', 'bgm_M426', 1, 1, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20032101, 20032, '港町・オーマ', 201, 'bgm_M435', 'bgm_M435', 1, 1, 100, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20032201, 20032, '港町・オーマ', 201, 'bgm_M435', 'bgm_M435', 1, 1, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20033101, 20033, 'ランドソル近郊', 201, 'bgm_M442A', 'bgm_M442A', 1, 1, 70, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20033201, 20033, 'ランドソル近郊', 201, 'bgm_M442A', 'bgm_M442A', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20034101, 20034, 'エルフの里\u3000清らかな森', 201, 'bgm_M442B', 'bgm_M442B', 1, 0, 25, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20034201, 20034, 'エルフの里\u3000清らかな森', 201, 'bgm_M442B', 'bgm_M442B', 1, 0, 0, 0, 0, '0', '0', 0);

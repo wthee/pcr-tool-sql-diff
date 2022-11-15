@@ -14,3 +14,8 @@ insert into secret_dungeon_enemy_info values (32003, 7, 'カース・オラム')
 insert into secret_dungeon_enemy_info values (32003, 8, 'ワイルドグリフォン');
 insert into secret_dungeon_enemy_info values (32003, 9, 'ジャッカルシーフ');
 insert into secret_dungeon_enemy_info values (32003, 10, '黒月・白陽の守護像');
+insert into secret_dungeon_enemy_info values (32004, 6, 'マスター・ウキキー');
+insert into secret_dungeon_enemy_info values (32004, 7, 'キリングオルカ');
+insert into secret_dungeon_enemy_info values (32004, 8, 'ランドスロース');
+insert into secret_dungeon_enemy_info values (32004, 9, 'マッドベア');
+insert into secret_dungeon_enemy_info values (32004, 10, 'ラースドラゴン');
