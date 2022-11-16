@@ -94,4 +94,5 @@ insert into event_gacha_data values (10093, 10093, '祈梨ＳＯＳ！！ 踏上
 insert into event_gacha_data values (10094, 10094, 'Enjoy＆Refresh！\u3000天差地遠的女孩露營', 2, 60932, 1, 6);
 insert into event_gacha_data values (10095, 10095, '心電感應！碧與玩具朋友們', 2, 60942, 1, 6);
 insert into event_gacha_data values (10096, 10096, '破曉之星的夏日遊戲\u3000\\n於夏海閃耀的三份心意', 2, 60952, 1, 6);
+insert into event_gacha_data values (10097, 10097, '永不完結的夏日計畫\u3000盛夏的雙人獨佔樂園', 2, 60962, 1, 6);
 insert into event_gacha_data values (19003, 10003, '吸血鬼獵人 with伊莉亞', 2, 60022, 1, 5);
