@@ -230,6 +230,14 @@ insert into enemy_m_parts values (401510504, 'トライロッカー 5段階目',
 insert into enemy_m_parts values (401510604, 'トライロッカー 1段階目 シングルモード', 401510605, 401510606, 401510607, 0, 0);
 insert into enemy_m_parts values (401510704, 'トライロッカー 2段階目 シングルモード', 401510705, 401510706, 401510707, 0, 0);
 insert into enemy_m_parts values (401510804, 'トライロッカー 3段階目 シングルモード', 401510805, 401510806, 401510807, 0, 0);
+insert into enemy_m_parts values (401511105, 'サジタリウス 1段階目', 401511106, 401511107, 0, 0, 0);
+insert into enemy_m_parts values (401511205, 'サジタリウス 2段階目', 401511206, 401511207, 0, 0, 0);
+insert into enemy_m_parts values (401511305, 'サジタリウス 3段階目', 401511306, 401511307, 0, 0, 0);
+insert into enemy_m_parts values (401511405, 'サジタリウス 4段階目', 401511406, 401511407, 0, 0, 0);
+insert into enemy_m_parts values (401511505, 'サジタリウス 5段階目', 401511506, 401511507, 0, 0, 0);
+insert into enemy_m_parts values (401511605, 'サジタリウス 1段階目 シングルモード', 401511606, 401511607, 0, 0, 0);
+insert into enemy_m_parts values (401511705, 'サジタリウス 2段階目 シングルモード', 401511706, 401511707, 0, 0, 0);
+insert into enemy_m_parts values (401511805, 'サジタリウス 3段階目 シングルモード', 401511806, 401511807, 0, 0, 0);
 insert into enemy_m_parts values (501010601, 'ラースドラゴン', 501010602, 501010603, 501010604, 0, 0);
 insert into enemy_m_parts values (501010701, '黒月の守護像', 501010702, 501010703, 501010704, 0, 0);
 insert into enemy_m_parts values (501010705, '白陽の守護像', 501010706, 501010707, 501010708, 0, 0);
