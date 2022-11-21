@@ -201,3 +201,5 @@ insert into odds_name_data values (1009502, '1009520102', '碧的記憶碎片', 
 insert into odds_name_data values (1009601, '1009620101', '日和（夏日）的記憶碎片', 99002, '');
 insert into odds_name_data values (1009602, '1009620102', '優衣的記憶碎片', 99002, '');
 insert into odds_name_data values (1009603, 'box_rank_8-16', '隨機裝備箱', 99002, '能夠獲得隨機的裝備。');
+insert into odds_name_data values (1009701, '1009720101', '伊緒的記憶碎片', 99002, '');
+insert into odds_name_data values (1009702, '1009720102', '美咲的記憶碎片', 99002, '');
