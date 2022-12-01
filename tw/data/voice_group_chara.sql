@@ -2,7 +2,7 @@ CREATE TABLE 'voice_group_chara' ('group_unit_id' INTEGER NOT NULL, 'group_unit_
 insert into voice_group_chara values (100101001, '破曉之星（日和）', 100101, 108701, 180101, 122401, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100201001, '破曉之星（優衣）', 100201, 108801, 180201, 115601, 122601, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100301001, '破曉之星（怜）', 100301, 108901, 114001, 180301, 122501, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (100401001, '小小甜心（禊）', 100401, 111201, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (100401001, '小小甜心（禊）', 100401, 111201, 122801, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100501001, '王宮騎士團（茉莉）', 100501, 114101, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100601001, '惡魔偽王國軍（茜里）', 100601, 113701, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100701001, '惡魔偽王國軍（宮子）', 100701, 108201, 119901, 0, 0, 0, 0, 0, 0, 0);
@@ -249,6 +249,7 @@ insert into voice_group_chara values (322201001, '優花梨（露營）（花凜
 insert into voice_group_chara values (322401001, '日和（夏日）（花凜對話用）', 122401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (322501001, '怜（夏日）（花凜對話用）', 122501, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (322601001, '優衣（夏日）（花凜對話用）', 122601, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (322801001, '禊（夏日）（花凜對話用）', 122801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380101001, '日和（公主）（花凜對話用）', 180101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380201001, '優衣（公主）（花凜對話用）', 180201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380301001, '怜（公主）（花凜對話用）', 180301, 0, 0, 0, 0, 0, 0, 0, 0, 0);

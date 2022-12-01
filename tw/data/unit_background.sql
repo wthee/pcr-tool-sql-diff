@@ -186,6 +186,7 @@ insert into unit_background values (122301, '班比', 500140, '普拉諾平原',
 insert into unit_background values (122401, '日和（夏日）', 501610, '度假海灘_中午', 0.0, 4);
 insert into unit_background values (122501, '怜（夏日）', 501610, '度假海灘_中午', 0.0, 2);
 insert into unit_background values (122601, '優衣（夏日）', 501610, '度假海灘_中午', 0.0, 6);
+insert into unit_background values (122801, '禊（夏日）', 500160, '瑪爾傑海岸', 0.0, 4);
 insert into unit_background values (180101, '日和（公主）', 500130, '埃斯特雷拉街道', 0.0, 2);
 insert into unit_background values (180201, '優衣（公主）', 500130, '埃斯特雷拉街道', 0.0, 4);
 insert into unit_background values (180301, '怜（公主）', 500130, '埃斯特雷拉街道', 0.0, 3);
