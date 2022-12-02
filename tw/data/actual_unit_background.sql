@@ -180,6 +180,7 @@ insert into actual_unit_background values (122431, '春咲 日和', 510250, 2);
 insert into actual_unit_background values (122531, '士条 怜', 510250, 2);
 insert into actual_unit_background values (122631, '草野 優衣', 510250, 4);
 insert into actual_unit_background values (122831, '穗高 禊', 510250, 4);
+insert into actual_unit_background values (122931, '茜 美美', 510080, 4);
 insert into actual_unit_background values (180131, '春咲 日和', 510121, 4);
 insert into actual_unit_background values (180231, '草野 優衣', 510350, 2);
 insert into actual_unit_background values (180331, '士条 怜', 510100, 2);

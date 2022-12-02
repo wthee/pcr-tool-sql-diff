@@ -1005,3 +1005,5 @@ insert into campaign_schedule values (1003, 38, 2000.0, 112, 30, '2022/12/01 05:
 insert into campaign_schedule values (1004, 45, 2000.0, 104, 40, '2022/12/01 05:00:00', '2022/12/18 04:59:59', 0, 0, 0, 0);
 insert into campaign_schedule values (1005, 151, 1500.0, 6004, 80, '2022/12/01 16:00:00', '2022/12/15 15:59:59', 0, 0, 0, 0);
 insert into campaign_schedule values (1006, 152, 1500.0, 6005, 80, '2022/12/01 16:00:00', '2022/12/15 15:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1007, 32, 2000.0, 102, 30, '2022/12/04 05:00:00', '2022/12/15 04:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1008, 42, 2000.0, 102, 40, '2022/12/04 05:00:00', '2022/12/15 04:59:59', 0, 0, 0, 0);
