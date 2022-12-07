@@ -1,0 +1,1 @@
+CREATE INDEX 'wave_group_data_0_wave_group_id' on 'wave_group_data'('wave_group_id')

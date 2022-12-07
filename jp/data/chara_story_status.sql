@@ -473,6 +473,10 @@ insert into chara_story_status values (1051005, 'ミツキのエピソード第5
 insert into chara_story_status values (1051006, 'ミツキのエピソード第6話', 2, 40, 6, 10, 0, 0, 0, 0, 0, 0, 1051, 1175, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1051007, 'ミツキのエピソード第7話', 2, 40, 6, 10, 0, 0, 0, 0, 0, 0, 1051, 1175, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1051008, 'ミツキのエピソード第8話', 2, 60, 6, 15, 11, 60, 0, 0, 0, 0, 1051, 1175, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1051009, 'ミツキのエピソード第9話', 2, 40, 0, 0, 0, 0, 0, 0, 0, 0, 1051, 1175, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1051010, 'ミツキのエピソード第10話', 2, 40, 6, 10, 0, 0, 0, 0, 0, 0, 1051, 1175, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1051011, 'ミツキのエピソード第11話', 2, 40, 6, 10, 0, 0, 0, 0, 0, 0, 1051, 1175, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1051012, 'ミツキのエピソード第12話', 2, 60, 6, 15, 11, 60, 0, 0, 0, 0, 1051, 1175, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1052002, 'リマのエピソード第2話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1052, 1158, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1052003, 'リマのエピソード第3話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1052, 1158, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1052004, 'リマのエピソード第4話', 2, 30, 0, 0, 0, 0, 0, 0, 0, 0, 1052, 1158, 0, 0, 0, 0, 0, 0, 0, 0);
