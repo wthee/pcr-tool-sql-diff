@@ -453,3 +453,4 @@ insert into gacha_exchange_lineup values (451, 231, 107101, 3, 0, '2022/11/24 12
 insert into gacha_exchange_lineup values (452, 232, 108401, 3, 0, '2022/11/27 12:00:00', '2022/11/30 11:59:59');
 insert into gacha_exchange_lineup values (453, 232, 108601, 3, 0, '2022/11/27 12:00:00', '2022/11/30 11:59:59');
 insert into gacha_exchange_lineup values (454, 233, 124001, 3, 1097, '2022/11/30 12:00:00', '2022/12/09 11:59:59');
+insert into gacha_exchange_lineup values (455, 234, 119901, 3, 0, '2022/12/09 12:00:00', '2022/12/16 11:59:59');
