@@ -1,0 +1,11 @@
+CREATE TABLE 'secret_dungeon_enemy_info' ('dungeon_area_id' INTEGER NOT NULL, 'floor_num' INTEGER NOT NULL, 'enemy_name' TEXT NOT NULL, PRIMARY KEY('dungeon_area_id','floor_num'));
+insert into secret_dungeon_enemy_info values (32001, 6, '電光・怪人');
+insert into secret_dungeon_enemy_info values (32001, 7, '壞亂黑鎧騎士');
+insert into secret_dungeon_enemy_info values (32001, 8, '雷雷');
+insert into secret_dungeon_enemy_info values (32001, 9, '芒刺爬行者');
+insert into secret_dungeon_enemy_info values (32001, 10, '白陽・黑月守護像');
+insert into secret_dungeon_enemy_info values (32002, 6, '電光・怪人');
+insert into secret_dungeon_enemy_info values (32002, 7, '壞亂黑鎧騎士');
+insert into secret_dungeon_enemy_info values (32002, 8, '雷雷');
+insert into secret_dungeon_enemy_info values (32002, 9, '芒刺爬行者');
+insert into secret_dungeon_enemy_info values (32002, 10, '白陽・黑月守護像');
