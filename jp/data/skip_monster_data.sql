@@ -2970,6 +2970,13 @@ insert into skip_monster_data values (11061004, 11061, 'カウダ砂浜・南部
 insert into skip_monster_data values (11061005, 11061, 'カウダ砂浜・南部 61-5', 101610501, 100201);
 insert into skip_monster_data values (11061006, 11061, 'カウダ砂浜・南部 61-6', 101610601, 101411);
 insert into skip_monster_data values (11061007, 11061, 'カウダ砂浜・南部 61-7', 101610701, 100201);
+insert into skip_monster_data values (11061008, 11061, 'カウダ砂浜・南部 61-8', 101610801, 101411);
+insert into skip_monster_data values (11061009, 11061, 'カウダ砂浜・南部 61-9', 101610901, 100201);
+insert into skip_monster_data values (11061010, 11061, 'カウダ砂浜・南部 61-10', 101611001, 100201);
+insert into skip_monster_data values (11061011, 11061, 'カウダ砂浜・南部 61-11', 101611101, 102181);
+insert into skip_monster_data values (11061012, 11061, 'カウダ砂浜・南部 61-12', 101611201, 102181);
+insert into skip_monster_data values (11061013, 11061, 'カウダ砂浜・南部 61-13', 101611301, 101621);
+insert into skip_monster_data values (11061014, 11061, 'カウダ砂浜・南部 61-14', 101611403, 102101);
 insert into skip_monster_data values (12001001, 12001, 'ジュノー平野 1-1（ハード）', 101010101, 100911);
 insert into skip_monster_data values (12001002, 12001, 'ジュノー平野 1-2（ハード）', 101010101, 100911);
 insert into skip_monster_data values (12001003, 12001, 'ジュノー平野 1-3（ハード）', 101010101, 100361);
@@ -3138,6 +3145,8 @@ insert into skip_monster_data values (12055003, 12055, 'トータティス砂岸
 insert into skip_monster_data values (12056001, 12056, 'オニュクス砂島・北部 56-1', 102560101, 101131);
 insert into skip_monster_data values (12056002, 12056, 'オニュクス砂島・北部 56-2', 102560201, 101071);
 insert into skip_monster_data values (12056003, 12056, 'オニュクス砂島・北部 56-3', 102560310, 100571);
+insert into skip_monster_data values (12057001, 12057, 'オニュクス砂島・南部 57-1', 102570101, 100571);
+insert into skip_monster_data values (12057002, 12057, 'オニュクス砂島・南部 57-2', 102570201, 101131);
 insert into skip_monster_data values (13018001, 13018, 'ファエトン原野・北部 18-1', 103180101, 101401);
 insert into skip_monster_data values (13018002, 13018, 'ファエトン原野・北部 18-2', 103180204, 100691);
 insert into skip_monster_data values (13018003, 13018, 'ファエトン原野・北部 18-3', 103180301, 101431);
