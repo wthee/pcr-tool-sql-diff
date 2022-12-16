@@ -350,3 +350,6 @@ insert into enemy_m_parts values (802100210, 'ランファ', 802100211, 80210021
 insert into enemy_m_parts values (802100230, 'カリザ', 802100231, 802100232, 802100233, 802100234, 0);
 insert into enemy_m_parts values (802100241, 'ランファ', 802100242, 802100243, 0, 0, 0);
 insert into enemy_m_parts values (802100245, 'カリザ', 802100246, 802100247, 802100248, 802100249, 0);
+insert into enemy_m_parts values (803100201, '黒の王ジャバウォック', 803100202, 803100203, 803100204, 0, 0);
+insert into enemy_m_parts values (803100205, '黒の王ジャバウォック', 803100206, 803100207, 803100208, 0, 0);
+insert into enemy_m_parts values (803100209, '黒の王ジャバウォック', 803100210, 803100211, 803100212, 0, 0);

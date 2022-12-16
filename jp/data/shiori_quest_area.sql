@@ -77,3 +77,6 @@ insert into shiori_quest_area values (20033101, 20033, 'ランドソル近郊', 
 insert into shiori_quest_area values (20033201, 20033, 'ランドソル近郊', 201, 'bgm_M442A', 'bgm_M442A', 1, 0, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20034101, 20034, 'エルフの里\u3000清らかな森', 201, 'bgm_M442B', 'bgm_M442B', 1, 0, 25, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20034201, 20034, 'エルフの里\u3000清らかな森', 201, 'bgm_M442B', 'bgm_M442B', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20035101, 20035, 'ランドソル近郊', 201, 'bgm_M451', 'bgm_M451', 1, 1, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20035102, 20035, '辺境の地', 201, 'bgm_M451', 'bgm_M451', 1, 2, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20035201, 20035, '辺境の地', 201, 'bgm_M451', 'bgm_M451', 1, 0, 0, 0, 0, '0', '0', 0);
