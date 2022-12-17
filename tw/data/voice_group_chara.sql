@@ -31,7 +31,7 @@ insert into voice_group_chara values (103101001, '惡魔偽王國軍（忍）', 
 insert into voice_group_chara values (103201001, '墨丘利財團（秋乃）', 103201, 114401, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (103301001, '伊麗莎白牧場（真陽）', 103301, 112801, 119201, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (103401001, '墨丘利財團（優花梨）', 103401, 114601, 122201, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (103601001, '小小甜心（鏡華）', 103601, 111101, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (103601001, '小小甜心（鏡華）', 103601, 111101, 122701, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (103701001, '王宮騎士團（智）', 103701, 114301, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (103801001, '伊麗莎白牧場（栞）', 103801, 112301, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (104001001, '森林守衛（碧）', 104001, 110701, 116701, 122101, 0, 0, 0, 0, 0, 0);
@@ -211,7 +211,7 @@ insert into voice_group_chara values (315901001, '真琴（灰姑娘）（花凜
 insert into voice_group_chara values (316001001, '真步（灰姑娘）（花凜對話用）', 116001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (316201001, '克蘿依（聖學祭）（花凜對話用）', 116201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (316301001, '琪愛兒（聖學祭）（花凜對話用）', 116301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (316401001, '優妮（聖學祭）（カリン掛け合い用）', 116401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (316401001, '優妮（聖學祭）（花凜對話用）', 116401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (316501001, '祈梨（時空旅行）（花凜對話用）', 116501, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (316601001, '嘉夜（時空旅行）（花凜對話用）', 116601, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (316701001, '碧（工作服）（花凜對話用）', 116701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -249,6 +249,7 @@ insert into voice_group_chara values (322201001, '優花梨（露營）（花凜
 insert into voice_group_chara values (322401001, '日和（夏日）（花凜對話用）', 122401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (322501001, '怜（夏日）（花凜對話用）', 122501, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (322601001, '優衣（夏日）（花凜對話用）', 122601, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (322701001, '鏡華（夏日）（花凜對話用）', 122701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (322801001, '禊（夏日）（花凜對話用）', 122801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (322901001, '美美（夏日）（花凜對話用）', 122901, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380101001, '日和（公主）（花凜對話用）', 180101, 0, 0, 0, 0, 0, 0, 0, 0, 0);

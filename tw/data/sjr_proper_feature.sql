@@ -26,3 +26,6 @@ insert into sjr_proper_feature values (24, 1, 2, 3, 120, 120, 120);
 insert into sjr_proper_feature values (25, 1, 2, 3, 105, 120, 105);
 insert into sjr_proper_feature values (26, 1, 2, 3, 100, 100, 100);
 insert into sjr_proper_feature values (27, 1, 2, 3, 100, 100, 100);
+insert into sjr_proper_feature values (28, 1, 2, 3, 100, 100, 100);
+insert into sjr_proper_feature values (29, 1, 2, 3, 120, 120, 120);
+insert into sjr_proper_feature values (30, 1, 2, 3, 105, 105, 120);
