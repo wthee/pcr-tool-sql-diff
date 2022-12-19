@@ -549,6 +549,12 @@ insert into hatsune_description values (1009803, 10098, 1, '強大的VERY HARD B
 insert into hatsune_description values (1009804, 10098, 1, '交換討伐證將是得到獎勵的契機。\\n獎勵之中，也包含在活動中登場之角色的記憶碎片。\\n多多蒐集，將角色變成夥伴吧。');
 insert into hatsune_description values (1009805, 10098, 3, '特別戰鬥是有著 3 階段變化的戰鬥模式。\\n去取得更豪華的獎勵與任務獎勵吧。\\n由於期間中只能挑戰 1 隻，請多花點心思組成隊伍挑戰吧。');
 insert into hatsune_description values (1009806, 10098, 3, '在展演模式中，可以重複和SPECIAL的BOSS對戰。\\n另外，將戰鬥的記錄存檔後就可以回顧戰鬥內容，\\n可以用來找尋您專屬的攻略法或嘗試各種編組不同的隊伍對戰。');
+insert into hatsune_description values (1009901, 10099, 1, '可透過活動，體驗特別的劇情。\\n活動劇情將於進入活動冒險後解放。');
+insert into hatsune_description values (1009902, 10099, 1, '達成活動限定的任務後，可解放的角色\\n即會登場。在活動期間內\\n以完成任務為目標吧。');
+insert into hatsune_description values (1009903, 10099, 1, '強大的VERY HARD Boss登場。\\nVERY HARD Boss１天能夠討伐１隻。\\n做好萬全準備後，小心地進行挑戰吧。');
+insert into hatsune_description values (1009904, 10099, 1, '交換討伐證將是得到獎勵的契機。\\n獎勵之中，也包含在活動中登場之角色的記憶碎片。\\n多多蒐集，將角色變成夥伴吧。');
+insert into hatsune_description values (1009905, 10099, 3, '特別戰鬥是有著 3 階段變化的戰鬥模式。\\n去取得更豪華的獎勵與任務獎勵吧。\\n由於期間中只能挑戰 1 隻，請多花點心思組成隊伍挑戰吧。');
+insert into hatsune_description values (1009906, 10099, 3, '在展演模式中，可以重複和SPECIAL的BOSS對戰。\\n另外，將戰鬥的記錄存檔後就可以回顧戰鬥內容，\\n可以用來找尋您專屬的攻略法或嘗試各種編組不同的隊伍對戰。');
 insert into hatsune_description values (100210105, 10021, 1, '可透過活動，體驗特別的劇情。\\n活動劇情將於進入活動冒險後解放。');
 insert into hatsune_description values (100210106, 10021, 1, '達成活動限定的任務後，可解放的角色\\n即會登場。在活動期間內\\n以完成任務為目標吧。');
 insert into hatsune_description values (100210107, 10021, 1, '強大的VERY HARD Boss登場。\\nVERY HARD Boss１天能夠討伐１隻。\\n做好萬全準備後，小心地進行挑戰吧。');

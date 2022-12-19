@@ -61,3 +61,5 @@ insert into hatsune_bg_change_data values (74, 10097, 3, 5070005, 2, 500016);
 insert into hatsune_bg_change_data values (75, 10098, 3, 5098000, 2, 501031);
 insert into hatsune_bg_change_data values (76, 10098101, 1, 10098104, 1, 0);
 insert into hatsune_bg_change_data values (77, 10098102, 1, 10098111, 1, 0);
+insert into hatsune_bg_change_data values (78, 10099, 3, 5072004, 2, 501364);
+insert into hatsune_bg_change_data values (79, 10099, 3, 5072006, 2, 501365);
