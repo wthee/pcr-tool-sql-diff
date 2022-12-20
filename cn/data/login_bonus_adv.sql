@@ -9,3 +9,5 @@ insert into login_bonus_adv values (7, 70002, '2021/12/25 5:00:00', '2021/12/26 
 insert into login_bonus_adv values (8, 70003, '0', '0', 1, 413, 0);
 insert into login_bonus_adv values (9, 70003, '0', '0', 2, 414, 0);
 insert into login_bonus_adv values (10, 70003, '0', '0', 3, 415, 0);
+insert into login_bonus_adv values (21, 70004, '2022/12/24 5:00:00', '2022/12/25 4:59:59', 0, 400, 0);
+insert into login_bonus_adv values (22, 70004, '2022/12/25 5:00:00', '2022/12/25 4:59:59', 0, 401, 0);
