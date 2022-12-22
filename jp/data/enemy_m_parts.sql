@@ -238,6 +238,14 @@ insert into enemy_m_parts values (401511505, 'サジタリウス 5段階目', 40
 insert into enemy_m_parts values (401511605, 'サジタリウス 1段階目 シングルモード', 401511606, 401511607, 0, 0, 0);
 insert into enemy_m_parts values (401511705, 'サジタリウス 2段階目 シングルモード', 401511706, 401511707, 0, 0, 0);
 insert into enemy_m_parts values (401511805, 'サジタリウス 3段階目 シングルモード', 401511806, 401511807, 0, 0, 0);
+insert into enemy_m_parts values (401512102, 'ゴブリンライダー 1段階目', 401512103, 401512104, 0, 0, 0);
+insert into enemy_m_parts values (401512202, 'ゴブリンライダー 2段階目', 401512203, 401512204, 0, 0, 0);
+insert into enemy_m_parts values (401512302, 'ゴブリンライダー 3段階目', 401512303, 401512304, 0, 0, 0);
+insert into enemy_m_parts values (401512402, 'ゴブリンライダー 4段階目', 401512403, 401512404, 0, 0, 0);
+insert into enemy_m_parts values (401512502, 'ゴブリンライダー 5段階目', 401512503, 401512504, 0, 0, 0);
+insert into enemy_m_parts values (401512602, 'ゴブリンライダー 1段階目 シングルモード', 401512603, 401512604, 0, 0, 0);
+insert into enemy_m_parts values (401512702, 'ゴブリンライダー 2段階目 シングルモード', 401512703, 401512704, 0, 0, 0);
+insert into enemy_m_parts values (401512802, 'ゴブリンライダー 3段階目 シングルモード', 401512803, 401512804, 0, 0, 0);
 insert into enemy_m_parts values (501010601, 'ラースドラゴン', 501010602, 501010603, 501010604, 0, 0);
 insert into enemy_m_parts values (501010701, '黒月の守護像', 501010702, 501010703, 501010704, 0, 0);
 insert into enemy_m_parts values (501010705, '白陽の守護像', 501010706, 501010707, 501010708, 0, 0);
