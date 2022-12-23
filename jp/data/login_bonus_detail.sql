@@ -258,3 +258,5 @@ insert into login_bonus_detail values (277, 80007, 14, 8, 91002, 100, 0, '', '',
 insert into login_bonus_detail values (278, 80007, 15, 8, 91002, 100, 0, '', '', 0, 530137);
 insert into login_bonus_detail values (279, 80007, 15, 16, 9000215, 1, 0, '', '', 0, 530137);
 insert into login_bonus_detail values (280, 80007, 15, 16, 9000216, 1, 0, '', '', 0, 530137);
+insert into login_bonus_detail values (281, 70008, 1, 8, 91002, 500, 0, '', '', 0, 0);
+insert into login_bonus_detail values (282, 70008, 2, 8, 91002, 500, 0, '', '', 0, 0);
