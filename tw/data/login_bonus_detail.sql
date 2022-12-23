@@ -292,3 +292,13 @@ insert into login_bonus_detail values (338, 49017, 7, 8, 91002, 150, 0, '', '', 
 insert into login_bonus_detail values (339, 49017, 8, 8, 91002, 150, 0, '', '', 0, 0);
 insert into login_bonus_detail values (340, 49017, 9, 8, 91002, 150, 0, '', '', 0, 0);
 insert into login_bonus_detail values (341, 49017, 10, 8, 91002, 150, 0, '', '', 0, 0);
+insert into login_bonus_detail values (342, 49018, 1, 8, 91002, 300, 0, '', '', 0, 0);
+insert into login_bonus_detail values (343, 49018, 2, 8, 91002, 300, 0, '', '', 0, 0);
+insert into login_bonus_detail values (344, 49018, 3, 8, 91002, 300, 0, '', '', 0, 0);
+insert into login_bonus_detail values (345, 49018, 4, 8, 91002, 300, 0, '', '', 0, 0);
+insert into login_bonus_detail values (346, 49018, 5, 8, 91002, 300, 0, '', '', 0, 0);
+insert into login_bonus_detail values (347, 49018, 6, 8, 91002, 300, 0, '', '', 0, 0);
+insert into login_bonus_detail values (348, 49018, 7, 8, 91002, 300, 0, '', '', 0, 0);
+insert into login_bonus_detail values (349, 49018, 8, 8, 91002, 300, 0, '', '', 0, 0);
+insert into login_bonus_detail values (350, 49018, 9, 8, 91002, 300, 0, '', '', 0, 0);
+insert into login_bonus_detail values (351, 49018, 10, 8, 91002, 300, 0, '', '', 0, 0);
