@@ -12,7 +12,7 @@ insert into dear_story_data values (6042, 6, 20025, '不可思議之國的璃乃
 insert into dear_story_data values (6044, 6, 20026, '七夕劍客旅情譚 天際川流夏之戀', 0, 1, '2020/11/02 16:00:00', '2030/04/24 14:59:59');
 insert into dear_story_data values (6048, 6, 20028, 'Happy・Change・Angels', 0, 1, '2020/12/28 16:00:00', '2030/04/24 14:59:59');
 insert into dear_story_data values (6050, 6, 20029, '迴響！尖叫！萬聖鬼怪狂歡節', 0, 1, '2021/02/01 16:00:00', '2030/04/24 14:59:59');
-insert into dear_story_data values (6052, 6, 10079, "魔法提督Lovely★莫妮卡\u3000Let's Go！魔法的四重奏！", 0, 1, '2021/03/02 16:00:00', '2030/04/24 14:59:59');
+insert into dear_story_data values (6052, 6, 20030, "魔法提督Lovely★莫妮卡\u3000Let's Go！魔法的四重奏！", 0, 1, '2021/03/02 16:00:00', '2030/04/24 14:59:59');
 insert into dear_story_data values (6054, 6, 10081, '名媛初登夢想秘境\u3000聖誕夜的戀愛遊戲', 0, 1, '2021/04/01 16:00:00', '2030/04/24 14:59:59');
 insert into dear_story_data values (6056, 6, 10083, '新春美食公主！\u3000賭上關鍵一擲的少女們', 0, 1, '2021/05/04 16:00:00', '2030/04/24 14:59:59');
 insert into dear_story_data values (6061, 6, 10089, '灰姑娘課程\u3000璀璨的日子有著蘋果的滋味', 0, 1, '2021/07/05 16:00:00', '2030/04/24 14:59:59');
