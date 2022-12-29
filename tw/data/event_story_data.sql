@@ -55,3 +55,4 @@ insert into event_story_data values (5092, 5, 10092, 'Episode of Pirate\u3000\\n
 insert into event_story_data values (5094, 5, 10094, 'Enjoy＆Refresh！\u3000\\n天差地遠的女孩露營', 0, 1, '2022/09/29 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5096, 5, 10096, '破曉之星的夏日遊戲\u3000\\n於夏海閃耀的三份心意', 0, 1, '2022/10/30 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5098, 5, 10098, '小小夏日回憶錄\u3000\\n在海邊發現的小小幸福', 0, 1, '2022/11/29 16:00:00', '2030/04/24 14:59:59');
+insert into event_story_data values (5100, 5, 10100, '真步真步的神奇旅程！\u3000\\n旅行的少女與邊境的大樹', 0, 1, '2022/12/30 16:00:00', '2030/04/24 14:59:59');

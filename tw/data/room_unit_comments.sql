@@ -390,7 +390,7 @@ insert into room_unit_comments values (404, 101001, 1, 4, 1, 0, 1, '當上真步
 insert into room_unit_comments values (405, 101001, 1, 5, 1, 0, 1, '來為王子先生\\n打毛線，\\n編織點什麼吧。', 0);
 insert into room_unit_comments values (406, 101001, 1, 101, 4, 0, 1, '真步公主與王子先生，\\n是來自繪本世界\\n的最佳情侶。', 0);
 insert into room_unit_comments values (407, 101001, 1, 102, 8, 0, 1, '跟王子先生\\n在一起的話\\n胸口就靜不下來\\n一直跳個不停。', 0);
-insert into room_unit_comments values (408, 101001, 2, 1, 1, 0, 1, '不覺得我們站在一起\\n看起來就像是\\n娃娃一般嗎？', 0);
+insert into room_unit_comments values (408, 101001, 2, 1, 1, 0, 1, '不覺得咱們站在一起\\n看起來就像是\\n娃娃一般嗎？', 0);
 insert into room_unit_comments values (409, 101001, 2, 2, 1, 0, 1, '把王子先生\\n帶回國內的話\\n大家應該都會\\n非常歡迎的吧。', 0);
 insert into room_unit_comments values (410, 101001, 2, 3, 1, 0, 1, '王子先生，\\n就好像從繪本裡\\n走出來的人一樣～', 0);
 insert into room_unit_comments values (411, 101001, 2, 4, 1, 0, 1, '人家的說話方式\\n很慢條斯理\\n嗎？', 0);
@@ -419,7 +419,7 @@ insert into room_unit_comments values (434, 101002, 2, 2, 1, 0, 1, '把王子先
 insert into room_unit_comments values (435, 101002, 2, 3, 1, 0, 1, '到時候，\\n也能帶我去\\n王子先生的國家嗎？', 0);
 insert into room_unit_comments values (436, 101002, 2, 4, 1, 0, 1, '讀讀繪本\\n也很好呢……', 0);
 insert into room_unit_comments values (437, 101002, 2, 101, 8, 0, 1, '如果人家被施了邪惡\\n魔法的話，王子先生\\n會用吻幫我解咒嗎？', 0);
-insert into room_unit_comments values (438, 101002, 2, 102, 8, 0, 1, '不覺得我們站在一起\\n看起來就像是\\n娃娃一般嗎？', 0);
+insert into room_unit_comments values (438, 101002, 2, 102, 8, 0, 1, '不覺得咱們站在一起\\n看起來就像是\\n娃娃一般嗎？', 0);
 insert into room_unit_comments values (439, 101002, 2, 1, 1, 1, 1, '早上小鳥先生也\\n餓了所以\\n到處飛來飛去。', 0);
 insert into room_unit_comments values (440, 101002, 2, 2, 1, 2, 1, '這個時間\\n真步真步王國\\n的大家都在\\n睡午覺呦。', 0);
 insert into room_unit_comments values (441, 101002, 2, 3, 1, 3, 1, '還有在黑夜之中飛行\\n鳴叫的鳥兒呦。\\n中午時就睡午覺吧。', 0);
@@ -2611,7 +2611,7 @@ insert into room_unit_comments values (2798, 108601, 3, 7, 1, 0, 1, '噗吉！\u
 insert into room_unit_comments values (2799, 108601, 3, 8, 1, 0, 1, '我，我已經是大人了，\\n這點內容…我能讀…\\n『別勉強了…』', 0);
 insert into room_unit_comments values (2801, 108601, 3, 14, 1, 0, 1, '畫會彈出來…\\n只要把噗吉\\n放進繪本裡\\n就能用來惡作劇吧…♪', 0);
 insert into room_unit_comments values (2802, 108601, 3, 15, 1, 0, 1, '雖，雖然很可愛…\\n但噗吉聖誕老人\\n更可愛喔…！', 0);
-insert into room_unit_comments values (2803, 108901, 1, 1, 1, 0, 1, '只要習慣了穿和服，\\n就能比叫移動自如了', 0);
+insert into room_unit_comments values (2803, 108901, 1, 1, 1, 0, 1, '就算是和服，\\n穿慣了也能活動自如的。', 0);
 insert into room_unit_comments values (2804, 108901, 1, 2, 1, 0, 1, '木屐上的綁帶鬆掉了，\\n看來穿木屐修行是\\n行不通的……', 0);
 insert into room_unit_comments values (2805, 108901, 1, 3, 1, 0, 1, '肚子餓了……\\n不知道優衣做的年糕\\n還能不能吃？', 0);
 insert into room_unit_comments values (2806, 108901, 1, 4, 1, 0, 1, '連服裝都變了\\n得用不同於以往的\\n戰鬥方式才行……', 0);
