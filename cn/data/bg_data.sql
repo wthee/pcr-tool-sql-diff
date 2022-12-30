@@ -145,3 +145,4 @@ insert into bg_data values ('PHOTO_BOOK', 0, 0);
 insert into bg_data values ('NORMAL_ARENA_RESULT', 0, 0);
 insert into bg_data values ('GRAND_ARENA_RESULT', 0, 0);
 insert into bg_data values ('THIRD_LOGIN_BONUS', 0, 0);
+insert into bg_data values ('SEASONPASS', 980001, 0);
