@@ -219,3 +219,4 @@ insert into custom_mypage values (9000217, 40001, 0, 'みんなでお月見', 0,
 insert into custom_mypage values (9000218, 40001, 0, 'ハロウィンパーティ', 0, 0, 1);
 insert into custom_mypage values (9000219, 40001, 0, '秋といえば......', 0, 0, 1);
 insert into custom_mypage values (9000220, 40001, 0, 'Wish a Merry Xmas', 0, 0, 1);
+insert into custom_mypage values (9000221, 40001, 0, '正月のひと時', 0, 0, 1);

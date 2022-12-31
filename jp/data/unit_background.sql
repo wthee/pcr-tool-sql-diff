@@ -202,6 +202,7 @@ insert into unit_background values (123901, 'マツリ（ワイルド）', 50009
 insert into unit_background values (124001, 'アカリ（クリスマス）', 500036, 'ランドソル_繁華街_クリスマス_昼', 0.0, 2);
 insert into unit_background values (124101, 'ヨリ（クリスマス）', 500036, 'ランドソル_繁華街_クリスマス_昼', 0.0, 2);
 insert into unit_background values (124201, 'ジュン（クリスマス）', 500036, 'ランドソル_繁華街_クリスマス_昼', 0.0, 2);
+insert into unit_background values (124701, 'ミツキ（ニューイヤー）', 501890, 'オーエド_温泉旅館_客室_昼', 0.0, 2);
 insert into unit_background values (180101, 'ヒヨリ（プリンセス）', 500130, 'エステレラ街道', 0.0, 2);
 insert into unit_background values (180201, 'ユイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 4);
 insert into unit_background values (180301, 'レイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 3);
@@ -211,3 +212,4 @@ insert into unit_background values (180601, 'キャル（プリンセス）', 50
 insert into unit_background values (180701, 'ハツネ＆シオリ', 501370, '滝壺_昼', 0.0, 2);
 insert into unit_background values (180801, 'ミソギ＆ミミ＆キョウカ', 500194, 'エルフの森_秘密基地', 0.0, 2);
 insert into unit_background values (180901, 'アキノ＆サレン', 500140, 'プラノ平原', 0.0, 2);
+insert into unit_background values (181001, 'アン＆グレア', 500213, '中腹_昼', 0.0, 2);

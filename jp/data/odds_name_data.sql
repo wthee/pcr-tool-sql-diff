@@ -224,3 +224,6 @@ insert into odds_name_data values (1010601, '1010620101', 'ヨリ（クリスマ
 insert into odds_name_data values (1010602, '1010620102', 'ジュンのメモリーピース', 99002, '');
 insert into odds_name_data values (1010701, '1010720101', 'マヒル（クリスマス）のメモリーピース', 99002, '');
 insert into odds_name_data values (1010702, '1010720102', 'アカリのメモリーピース', 99002, '');
+insert into odds_name_data values (1010801, '1010820101', 'ミツキ（ニューイヤー）のメモリーピース', 99002, '');
+insert into odds_name_data values (1010802, '1010820102', 'イノリのメモリーピース', 99002, '');
+insert into odds_name_data values (1010803, 'box_rank_10-18', 'ランダム装備BOX', 99002, 'ランダムな装備が獲得できる。');

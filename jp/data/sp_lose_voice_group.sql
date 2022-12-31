@@ -18,3 +18,7 @@ insert into sp_lose_voice_group values (20132, 180901, 121801);
 insert into sp_lose_voice_group values (20133, 180901, 121701);
 insert into sp_lose_voice_group values (20134, 180901, 121701);
 insert into sp_lose_voice_group values (20135, 180901, 121701);
+insert into sp_lose_voice_group values (20148, 181001, 124301);
+insert into sp_lose_voice_group values (20149, 181001, 124301);
+insert into sp_lose_voice_group values (20150, 181001, 124401);
+insert into sp_lose_voice_group values (20151, 181001, 124401);

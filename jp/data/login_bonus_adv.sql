@@ -70,3 +70,4 @@ insert into login_bonus_adv values (78, 80007, '2022/08/14 5:00:00', '2022/08/15
 insert into login_bonus_adv values (79, 80007, '2022/08/15 5:00:00', '2022/08/16 4:59:59', 3, 9005015, 1);
 insert into login_bonus_adv values (80, 70008, '2022/12/24 5:00:00', '2022/12/25 4:59:59', 0, 400, 0);
 insert into login_bonus_adv values (81, 70008, '2022/12/25 5:00:00', '2022/12/26 4:59:59', 0, 401, 0);
+insert into login_bonus_adv values (82, 70009, '0', '0', 1, 439, 0);
