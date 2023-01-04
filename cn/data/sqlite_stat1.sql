@@ -156,7 +156,7 @@ insert into sqlite_stat1 values ('quest_data', None, '796');
 insert into sqlite_stat1 values ('emblem_mission_reward_data', 'emblem_mission_reward_data_0_reward_id', '729 2');
 insert into sqlite_stat1 values ('emblem_mission_reward_data', 'emblem_mission_reward_data_0_mission_reward_id', '729 2');
 insert into sqlite_stat1 values ('tower_quest_fix_reward_group', None, '581');
-insert into sqlite_stat1 values ('hatsune_special_mission_data', None, '304');
+insert into sqlite_stat1 values ('hatsune_special_mission_data', None, '305');
 insert into sqlite_stat1 values ('sekai_unlock_story_condition', None, '5');
 insert into sqlite_stat1 values ('dungeon_quest_data', None, '47');
 insert into sqlite_stat1 values ('campaign_mission_reward_data', 'campaign_mission_reward_data_0_campaign_mission_reward_id', '24 2');
