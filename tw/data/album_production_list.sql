@@ -1752,6 +1752,14 @@ insert into album_production_list values (12300105, 123001, 104, '羈絆Rank表�
 insert into album_production_list values (12300106, 123001, 105, '羈絆Rank表演5', '');
 insert into album_production_list values (12300107, 123001, 106, '羈絆Rank表演6', '');
 insert into album_production_list values (12300108, 123001, 107, '羈絆Rank表演7', '');
+insert into album_production_list values (12310101, 123101, 201, '解放表演1', '');
+insert into album_production_list values (12310102, 123101, 101, '羈絆Rank表演1', '');
+insert into album_production_list values (12310103, 123101, 102, '羈絆Rank表演2', '');
+insert into album_production_list values (12310104, 123101, 103, '羈絆Rank表演3', '');
+insert into album_production_list values (12310105, 123101, 104, '羈絆Rank表演4', '');
+insert into album_production_list values (12310106, 123101, 105, '羈絆Rank表演5', '');
+insert into album_production_list values (12310107, 123101, 106, '羈絆Rank表演6', '');
+insert into album_production_list values (12310108, 123101, 107, '羈絆Rank表演7', '');
 insert into album_production_list values (18010101, 180101, 201, '解放表演1', '');
 insert into album_production_list values (18010102, 180101, 101, '羈絆Rank表演1', '');
 insert into album_production_list values (18010103, 180101, 102, '羈絆Rank表演2', '');

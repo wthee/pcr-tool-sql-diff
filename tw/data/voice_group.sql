@@ -315,3 +315,4 @@ insert into voice_group values (30174, '優衣（夏日）（花凜對話用）'
 insert into voice_group values (30175, '禊（夏日）（花凜對話用）', 118501001, 322801001, 0, 0, 0);
 insert into voice_group values (30176, '美美（夏日）（花凜對話用）', 118501001, 322901001, 0, 0, 0);
 insert into voice_group values (30177, '鏡華（夏日）（花凜對話用）', 118501001, 322701001, 0, 0, 0);
+insert into voice_group values (30178, '真步（探險家）（花凜對話用）', 118501001, 323101001, 0, 0, 0);
