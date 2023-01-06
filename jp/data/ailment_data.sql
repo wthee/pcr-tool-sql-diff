@@ -42,3 +42,4 @@ insert into ailment_data values (40, 83, 2, 'ヘイスト(加算可能)');
 insert into ailment_data values (41, 49, 3, 'バフ消去');
 insert into ailment_data values (42, 49, 10, 'バリア消去');
 insert into ailment_data values (43, 9, 9, '黒炎');
+insert into ailment_data values (44, 99, 2, 'ヘイストフィールド');

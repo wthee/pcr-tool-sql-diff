@@ -3237,6 +3237,7 @@ insert into skip_monster_data values (13033002, 13033, 'ファスキア森林・
 insert into skip_monster_data values (13033003, 13033, 'ファスキア森林・東部 33-3', 103330301, 102111);
 insert into skip_monster_data values (13034001, 13034, 'デクスティア岩崖・西壁 34-1', 103340101, 101641);
 insert into skip_monster_data values (13034002, 13034, 'デクスティア岩崖・西壁 34-2', 103340201, 101641);
+insert into skip_monster_data values (13034003, 13034, 'デクスティア岩崖・西壁 34-3', 103340301, 100361);
 insert into skip_monster_data values (18001001, 18001, '聖跡調査クエストLv1', 108010108, 101331);
 insert into skip_monster_data values (18001002, 18001, '聖跡調査クエストLv2', 108010208, 101341);
 insert into skip_monster_data values (18001003, 18001, '聖跡調査クエストLv3', 108010308, 101341);
