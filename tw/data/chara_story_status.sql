@@ -298,6 +298,10 @@ insert into chara_story_status values (1031005, '忍のエピソード第5話', 
 insert into chara_story_status values (1031006, '忍のエピソード第6話', 2, 40, 6, 10, 0, 0, 0, 0, 0, 0, 1031, 1081, 1220, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1031007, '忍のエピソード第7話', 2, 40, 6, 10, 0, 0, 0, 0, 0, 0, 1031, 1081, 1220, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1031008, '忍のエピソード第8話', 2, 85, 6, 15, 0, 0, 0, 0, 0, 0, 1031, 1081, 1220, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1031009, '忍のエピソード第9話', 2, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1031, 1081, 1220, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1031010, '忍のエピソード第10話', 2, 100, 6, 20, 0, 0, 0, 0, 0, 0, 1031, 1081, 1220, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1031011, '忍のエピソード第11話', 2, 100, 6, 20, 0, 0, 0, 0, 0, 0, 1031, 1081, 1220, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1031012, '忍のエピソード第12話', 2, 225, 6, 30, 0, 0, 0, 0, 0, 0, 1031, 1081, 1220, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1032002, '秋乃のエピソード第2話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1032, 1144, 1809, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1032003, '秋乃のエピソード第3話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1032, 1144, 1809, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1032004, '秋乃のエピソード第4話', 2, 30, 0, 0, 0, 0, 0, 0, 0, 0, 1032, 1144, 1809, 0, 0, 0, 0, 0, 0, 0);
@@ -392,6 +396,10 @@ insert into chara_story_status values (1044005, '伊莉亞のエピソード第5
 insert into chara_story_status values (1044006, '伊莉亞のエピソード第6話', 4, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1044, 1117, 1209, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1044007, '伊莉亞のエピソード第7話', 4, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1044, 1117, 1209, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1044008, '伊莉亞のエピソード第8話', 4, 90, 7, 10, 0, 0, 0, 0, 0, 0, 1044, 1117, 1209, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1044009, '伊莉亞のエピソード第9話', 4, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1044, 1117, 1209, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1044010, '伊莉亞のエピソード第10話', 4, 140, 0, 0, 0, 0, 0, 0, 0, 0, 1044, 1117, 1209, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1044011, '伊莉亞のエピソード第11話', 4, 140, 0, 0, 0, 0, 0, 0, 0, 0, 1044, 1117, 1209, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1044012, '伊莉亞のエピソード第12話', 4, 240, 15, 5, 0, 0, 0, 0, 0, 0, 1044, 1117, 1209, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1045002, '空花のエピソード第2話', 2, 15, 4, 15, 0, 0, 0, 0, 0, 0, 1045, 1095, 1191, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1045003, '空花のエピソード第3話', 2, 15, 4, 15, 0, 0, 0, 0, 0, 0, 1045, 1095, 1191, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1045004, '空花のエピソード第4話', 2, 30, 4, 30, 0, 0, 0, 0, 0, 0, 1045, 1095, 1191, 0, 0, 0, 0, 0, 0, 0);
