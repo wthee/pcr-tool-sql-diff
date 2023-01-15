@@ -19,3 +19,8 @@ insert into secret_dungeon_enemy_info values (32004, 7, 'キリングオルカ')
 insert into secret_dungeon_enemy_info values (32004, 8, 'ランドスロース');
 insert into secret_dungeon_enemy_info values (32004, 9, 'マッドベア');
 insert into secret_dungeon_enemy_info values (32004, 10, 'ラースドラゴン');
+insert into secret_dungeon_enemy_info values (32005, 6, 'イワノヅチ');
+insert into secret_dungeon_enemy_info values (32005, 7, '水瑚麟');
+insert into secret_dungeon_enemy_info values (32005, 8, 'ワイバーン');
+insert into secret_dungeon_enemy_info values (32005, 9, 'マダムプリズム');
+insert into secret_dungeon_enemy_info values (32005, 10, 'ラースドラゴン');

@@ -80,3 +80,5 @@ insert into shiori_quest_area values (20034201, 20034, 'エルフの里\u3000清
 insert into shiori_quest_area values (20035101, 20035, 'ランドソル近郊', 201, 'bgm_M451', 'bgm_M451', 1, 1, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20035102, 20035, '辺境の地', 201, 'bgm_M451', 'bgm_M451', 1, 2, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20035201, 20035, '辺境の地', 201, 'bgm_M451', 'bgm_M451', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20036101, 20036, '聖テレサ女学院 聖学祭会場', 201, 'bgm_M457', 'bgm_M457', 1, 1, 91, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20036201, 20036, '聖テレサ女学院 聖学祭会場', 201, 'bgm_M457', 'bgm_M457', 1, 0, 0, 0, 0, '0', '0', 0);

@@ -285,6 +285,11 @@ insert into enemy_m_parts values (502004213, 'ラースドラゴン', 502004214,
 insert into enemy_m_parts values (502004313, 'ラースドラゴン', 502004314, 502004315, 502004316, 0, 0);
 insert into enemy_m_parts values (502004413, 'ラースドラゴン', 502004414, 502004415, 502004416, 0, 0);
 insert into enemy_m_parts values (502004513, 'ラースドラゴン', 502004514, 502004515, 502004516, 0, 0);
+insert into enemy_m_parts values (502005113, 'ラースドラゴン', 502005114, 502005115, 502005116, 0, 0);
+insert into enemy_m_parts values (502005213, 'ラースドラゴン', 502005214, 502005215, 502005216, 0, 0);
+insert into enemy_m_parts values (502005313, 'ラースドラゴン', 502005314, 502005315, 502005316, 0, 0);
+insert into enemy_m_parts values (502005413, 'ラースドラゴン', 502005414, 502005415, 502005416, 0, 0);
+insert into enemy_m_parts values (502005513, 'ラースドラゴン', 502005514, 502005515, 502005516, 0, 0);
 insert into enemy_m_parts values (610017101, 'ペテルギウス NORMAL', 610017102, 610017103, 610017104, 0, 0);
 insert into enemy_m_parts values (610017201, 'ペテルギウス HARD', 610017202, 610017203, 610017204, 0, 0);
 insert into enemy_m_parts values (610017301, 'ペテルギウス VERY HARD', 610017302, 610017303, 610017304, 0, 0);
