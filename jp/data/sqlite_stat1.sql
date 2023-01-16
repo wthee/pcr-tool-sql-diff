@@ -29,7 +29,7 @@ insert into sqlite_stat1 values ('dear_reward', 'dear_reward_0_event_id_1_chara_
 insert into sqlite_stat1 values ('sekai_boss_damage_rank_reward', None, '15');
 insert into sqlite_stat1 values ('ticket_gacha_data', None, '9');
 insert into sqlite_stat1 values ('clan_battle_2_map_data', 'clan_battle_2_map_data_0_clan_battle_id', '274 5');
-insert into sqlite_stat1 values ('movie', 'movie_0_story_id', '448 2');
+insert into sqlite_stat1 values ('movie', 'movie_0_story_id', '449 2');
 insert into sqlite_stat1 values ('sjr_npc_action_odds', 'sjr_npc_action_odds_0_action_odds_id', '258 2');
 insert into sqlite_stat1 values ('cgg_drama', 'cgg_drama_0_drama_id', '777 44');
 insert into sqlite_stat1 values ('serial_group_data', None, '5');
@@ -226,8 +226,8 @@ insert into sqlite_stat1 values ('nyx_story_data', 'nyx_story_data_0_story_seq',
 insert into sqlite_stat1 values ('hatsune_unlock_unit_condition', 'hatsune_unlock_unit_condition_0_condition_mission_id', '63 1');
 insert into sqlite_stat1 values ('hatsune_unlock_unit_condition', 'hatsune_unlock_unit_condition_0_unit_id_1_event_id', '63 2 1');
 insert into sqlite_stat1 values ('sekai_top_data', 'sekai_top_data_0_sekai_id', '22 11');
-insert into sqlite_stat1 values ('still', 'still_0_still_group_id', '1384 5');
-insert into sqlite_stat1 values ('still', 'still_0_story_id', '1384 2');
+insert into sqlite_stat1 values ('still', 'still_0_still_group_id', '1385 5');
+insert into sqlite_stat1 values ('still', 'still_0_story_id', '1385 2');
 insert into sqlite_stat1 values ('chara_fortune_rail', None, '114');
 insert into sqlite_stat1 values ('ub_auto_data', None, '19');
 insert into sqlite_stat1 values ('ttk_score', None, '4');
@@ -344,7 +344,7 @@ insert into sqlite_stat1 values ('arena_max_season_rank_reward', None, '118');
 insert into sqlite_stat1 values ('unit_mypage_pos', None, '36');
 insert into sqlite_stat1 values ('thumbnail_hide_condition', None, '2');
 insert into sqlite_stat1 values ('tower_story_detail', None, '150');
-insert into sqlite_stat1 values ('story_detail', 'story_detail_0_unlock_quest_id', '1830 6');
+insert into sqlite_stat1 values ('story_detail', 'story_detail_0_unlock_quest_id', '1832 6');
 insert into sqlite_stat1 values ('enemy_m_parts', None, '367');
 insert into sqlite_stat1 values ('resist_data', None, '48');
 insert into sqlite_stat1 values ('wac_present_still_data', 'sqlite_autoindex_wac_present_still_data_1', '12 12 1');
