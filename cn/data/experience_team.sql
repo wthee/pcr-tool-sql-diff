@@ -184,3 +184,6 @@ insert into experience_team values (182, 511759, 240, 999, 30);
 insert into experience_team values (183, 516184, 241, 999, 30);
 insert into experience_team values (184, 520609, 242, 999, 30);
 insert into experience_team values (185, 525034, 243, 999, 30);
+insert into experience_team values (186, 529459, 244, 999, 30);
+insert into experience_team values (187, 533884, 245, 999, 30);
+insert into experience_team values (188, 538309, 246, 999, 30);
