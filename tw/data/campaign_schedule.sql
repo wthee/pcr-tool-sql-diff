@@ -1060,3 +1060,5 @@ insert into campaign_schedule values (1058, 84, 2000.0, 109, 80, '2023/01/19 05:
 insert into campaign_schedule values (1059, 85, 2000.0, 112, 80, '2023/01/19 05:00:00', '2023/01/30 04:59:59', 0, 0, 0, 0);
 insert into campaign_schedule values (1060, 351, 2000.0, 8004, 80, '2023/01/19 05:00:00', '2023/01/30 04:59:59', 0, 0, 0, 0);
 insert into campaign_schedule values (1061, 352, 2000.0, 8005, 80, '2023/01/19 05:00:00', '2023/01/30 04:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1062, 34, 4000.0, 103, 30, '2023/01/20 05:00:00', '2023/01/25 04:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1063, 44, 4000.0, 103, 40, '2023/01/20 05:00:00', '2023/01/25 04:59:59', 0, 0, 0, 0);

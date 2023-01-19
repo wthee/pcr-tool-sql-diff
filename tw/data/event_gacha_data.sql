@@ -71,7 +71,7 @@ insert into event_gacha_data values (10070, 10070, '永不完結的夏日計畫\
 insert into event_gacha_data values (10071, 10071, '七夕劍客旅情譚 天際川流夏之戀', 2, 60702, 1, 5);
 insert into event_gacha_data values (10072, 10072, '慈樂之音的夏日演唱會\u3000Just a Moment！ ', 2, 60712, 1, 6);
 insert into event_gacha_data values (10073, 10073, '美里的夏日聲援！\u3000追夢的盛夏棒球隊', 2, 60722, 1, 5);
-insert into event_gacha_data values (10074, 10074, '非法的大江戶病歷\u3000Dr.深月的診療室', 2, 60732, 1, 6);
+insert into event_gacha_data values (10074, 10074, '大江戶的非法病歷\u3000Dr.深月的診療室', 2, 60732, 1, 6);
 insert into event_gacha_data values (10075, 10075, 'Happy・Change・Angels', 2, 60742, 1, 5);
 insert into event_gacha_data values (10076, 10076, '萬聖節拯救隊大亂鬥！\u3000捕獲毛茸茸大作戰', 2, 60752, 1, 6);
 insert into event_gacha_data values (10077, 10077, '迴響！尖叫！萬聖鬼怪狂歡節', 2, 60762, 1, 5);
@@ -98,5 +98,5 @@ insert into event_gacha_data values (10097, 10097, '永不完結的夏日計畫\
 insert into event_gacha_data values (10098, 10098, '小小夏日回憶錄\u3000在海邊發現的小小幸福', 2, 60972, 1, 6);
 insert into event_gacha_data values (10099, 10099, '慈樂之音的夏日演唱會\u3000Just a Moment！ ', 2, 60982, 1, 6);
 insert into event_gacha_data values (10100, 10100, '真步真步的神奇旅程！\u3000旅行的少女與邊境的大樹', 2, 60992, 1, 6);
-insert into event_gacha_data values (10101, 10101, '非法的大江戶病歷\u3000Dr.深月的診療室', 2, 61002, 1, 6);
+insert into event_gacha_data values (10101, 10101, '大江戶的非法病歷\u3000Dr.深月的診療室', 2, 61002, 1, 6);
 insert into event_gacha_data values (19003, 10003, '吸血鬼獵人 with伊莉亞', 2, 60022, 1, 5);
