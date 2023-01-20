@@ -3072,6 +3072,7 @@ insert into skip_monster_data values (18001001, 18001, '聖跡調查冒險Lv1', 
 insert into skip_monster_data values (18001002, 18001, '聖跡調查冒險Lv2', 108010208, 101341);
 insert into skip_monster_data values (18001003, 18001, '聖跡調查冒險Lv3', 108010308, 101341);
 insert into skip_monster_data values (18001004, 18001, '聖跡調查冒險Lv4', 108010408, 101341);
+insert into skip_monster_data values (18001005, 18001, '聖跡調查冒險Lv5', 108010508, 101341);
 insert into skip_monster_data values (19001001, 19001, '神殿調查冒險Lv1', 109010101, 102003);
 insert into skip_monster_data values (19001002, 19001, '神殿調查冒險Lv2', 109010201, 102003);
 insert into skip_monster_data values (20001101, 20001101, '活動01 Normal 1-1', 101020403, 100011);
@@ -3687,6 +3688,7 @@ insert into skip_monster_data values (21001010, 21001, '瑪那冒險Lv10', 10108
 insert into skip_monster_data values (21001011, 21001, '瑪那冒險Lv11', 101080703, 100051);
 insert into skip_monster_data values (21001012, 21001, '瑪那冒險Lv12', 201011205, 100051);
 insert into skip_monster_data values (21001013, 21001, '瑪那冒險Lv13', 201011305, 100051);
+insert into skip_monster_data values (21001014, 21001, '瑪那冒險Lv14', 201011405, 100051);
 insert into skip_monster_data values (21002001, 21002, '經驗值冒險Lv1', 101030303, 100391);
 insert into skip_monster_data values (21002002, 21002, '經驗值冒險Lv2', 101030303, 100391);
 insert into skip_monster_data values (21002003, 21002, '經驗值冒險Lv3', 101030303, 100391);
@@ -3700,6 +3702,7 @@ insert into skip_monster_data values (21002010, 21002, '經驗值冒險Lv10', 10
 insert into skip_monster_data values (21002011, 21002, '經驗值冒險Lv11', 101030303, 100391);
 insert into skip_monster_data values (21002012, 21002, '經驗值冒險Lv12', 202021208, 100391);
 insert into skip_monster_data values (21002013, 21002, '經驗值冒險Lv13', 202021301, 100391);
+insert into skip_monster_data values (21002014, 21002, '經驗值冒險Lv14', 202021406, 100391);
 insert into skip_monster_data values (71010001, 1, '露娜之塔 1-9 層', 710000104, 101181);
 insert into skip_monster_data values (71010011, 1, '露娜之塔 11-19 層', 710001103, 101181);
 insert into skip_monster_data values (71010021, 1, '露娜之塔 21-29 層', 710002103, 101181);
