@@ -198,6 +198,14 @@ insert into enemy_m_parts values (401507505, '奧爾獅 第5階段', 401507506, 
 insert into enemy_m_parts values (401507605, '奧爾獅 第1階段 單人模式', 401507606, 401507607, 401507608, 0, 0);
 insert into enemy_m_parts values (401507705, '奧爾獅 第2階段 單人模式', 401507706, 401507707, 401507708, 0, 0);
 insert into enemy_m_parts values (401507805, '奧爾獅 第3階段 單人模式', 401507806, 401507807, 401507808, 0, 0);
+insert into enemy_m_parts values (401508104, '泰坦龍龜 第1階段', 401508105, 401508106, 401508107, 0, 0);
+insert into enemy_m_parts values (401508204, '泰坦龍龜 第2階段', 401508205, 401508206, 401508207, 0, 0);
+insert into enemy_m_parts values (401508304, '泰坦龍龜 第3階段', 401508305, 401508306, 401508307, 0, 0);
+insert into enemy_m_parts values (401508404, '泰坦龍龜 第4階段', 401508405, 401508406, 401508407, 0, 0);
+insert into enemy_m_parts values (401508504, '泰坦龍龜 第5階段', 401508505, 401508506, 401508507, 0, 0);
+insert into enemy_m_parts values (401508604, '泰坦龍龜 第1階段 單人模式', 401508605, 401508606, 401508607, 0, 0);
+insert into enemy_m_parts values (401508704, '泰坦龍龜 第2階段 單人模式', 401508705, 401508706, 401508707, 0, 0);
+insert into enemy_m_parts values (401508804, '泰坦龍龜 第3階段 單人模式', 401508805, 401508806, 401508807, 0, 0);
 insert into enemy_m_parts values (501010601, '狂怒綠龍', 501010602, 501010603, 501010604, 0, 0);
 insert into enemy_m_parts values (501010701, '黑月守護像', 501010702, 501010703, 501010704, 0, 0);
 insert into enemy_m_parts values (501010705, '白陽守護像', 501010706, 501010707, 501010708, 0, 0);
@@ -276,6 +284,9 @@ insert into enemy_m_parts values (610093301, '爆裂‧時間儀 VERY HARD', 610
 insert into enemy_m_parts values (610093401, '爆裂‧時間儀 SP1', 610093411, 610093412, 610093413, 610093414, 0);
 insert into enemy_m_parts values (610093402, '爆裂‧時間儀 SP2', 610093421, 610093422, 610093423, 610093424, 0);
 insert into enemy_m_parts values (610093403, '爆裂‧時間儀 SP3', 610093431, 610093432, 610093433, 610093434, 0);
+insert into enemy_m_parts values (660031101, '被操控的雪人 NORMAL', 660031102, 660031103, 0, 0, 0);
+insert into enemy_m_parts values (660031201, '被操控的雪人 HARD', 660031202, 660031203, 0, 0, 0);
+insert into enemy_m_parts values (660031301, '被操控的雪人 VERY HARD', 660031302, 660031303, 0, 0, 0);
 insert into enemy_m_parts values (701000401, '石像鬼‧炸裂', 701000402, 701000403, 701000404, 0, 0);
 insert into enemy_m_parts values (701000405, '石像鬼‧炸裂', 701000406, 701000407, 701000408, 0, 0);
 insert into enemy_m_parts values (701000409, '石像鬼‧炸裂', 701000410, 701000411, 701000412, 0, 0);

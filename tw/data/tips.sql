@@ -113,6 +113,7 @@ insert into tips values (4122301, 122301, 1, '畢竟是最強的♪');
 insert into tips values (4123001, 123001, 1, 'QQ彈彈軟軟嫩嫩');
 insert into tips values (4123101, 123101, 1, '輕飄飄轉圈圈');
 insert into tips values (4123201, 123201, 1, '像在野餐的感覺');
+insert into tips values (4123301, 123301, 1, '養眼');
 insert into tips values (4180101, 180101, 1, '猜拳時間！');
 insert into tips values (4180201, 180201, 1, '肚子咕咕叫');
 insert into tips values (4180301, 180301, 1, '守護之力');

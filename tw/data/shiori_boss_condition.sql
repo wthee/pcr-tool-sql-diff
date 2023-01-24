@@ -89,3 +89,6 @@ insert into shiori_boss_condition values (2002903, 20029, 0, 2002902, 0, 0);
 insert into shiori_boss_condition values (2003001, 20030, 20030115, 0, 20030201, 2003002);
 insert into shiori_boss_condition values (2003002, 20030, 0, 2003001, 0, 2003003);
 insert into shiori_boss_condition values (2003003, 20030, 0, 2003002, 0, 0);
+insert into shiori_boss_condition values (2003101, 20031, 20031115, 0, 20031201, 2003102);
+insert into shiori_boss_condition values (2003102, 20031, 0, 2003101, 0, 2003103);
+insert into shiori_boss_condition values (2003103, 20031, 0, 2003102, 0, 0);
