@@ -277,3 +277,4 @@ insert into story_data values (9001, 9, 0, '王都終末決戦', 0, 0, '2015/04/
 insert into story_data values (9002, 4, 0, '3rd Anniversary', 0, 0, '2015/04/01 15:00:00', '2030/12/17 14:59:59', 6, 0, 40211);
 insert into story_data values (9004, 4, 0, '4th Anniversary', 0, 0, '2015/04/01 15:00:00', '2030/12/17 14:59:59', 6, 0, 40211);
 insert into story_data values (9005, 4, 0, '4.5 Year Anniversary', 0, 0, '2015/04/01 15:00:00', '2030/12/17 14:59:59', 6, 0, 40211);
+insert into story_data values (9006, 4, 0, '5th Anniversary', 0, 0, '2015/04/01 15:00:00', '2030/12/17 14:59:59', 6, 0, 40211);
