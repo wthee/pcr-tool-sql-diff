@@ -55,4 +55,6 @@ insert into event_gacha_data values (10054, 10054, '初次登场·香格里拉\u
 insert into event_gacha_data values (10055, 10055, '礼物大恐慌！\u3000兰德索尔的圣诞老人们', 2, 60542, 1, 5);
 insert into event_gacha_data values (10056, 10056, '新春美食公主！\u3000孤注一掷的少女们', 2, 60552, 1, 6);
 insert into event_gacha_data values (10057, 10057, '狂奔！\u3000兰德索尔公会竞速赛', 2, 60562, 1, 5);
+insert into event_gacha_data values (10058, 10058, '情相连。心相系。', 2, 60572, 1, 6);
+insert into event_gacha_data values (10059, 10059, '情相连。心相系。', 2, 60572, 1, 6);
 insert into event_gacha_data values (19003, 10003, '吸血鬼猎人with伊莉亚讨伐证交换', 2, 60022, 1, 5);
