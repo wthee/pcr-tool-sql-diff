@@ -350,7 +350,7 @@ insert into sqlite_stat1 values ('character_love_rankup_text', None, '42');
 insert into sqlite_stat1 values ('srt_action', 'sqlite_autoindex_srt_action_1', '41 1');
 insert into sqlite_stat1 values ('shiori_item', None, '11');
 insert into sqlite_stat1 values ('arena_defence_reward', None, '1');
-insert into sqlite_stat1 values ('banner', None, '141');
+insert into sqlite_stat1 values ('banner', None, '139');
 insert into sqlite_stat1 values ('stationary_mission_data', None, '1175');
 insert into sqlite_stat1 values ('lto_story_data', 'lto_story_data_0_event_id', '1 1');
 insert into sqlite_stat1 values ('dear_chara', 'dear_chara_0_event_id', '47 3');
