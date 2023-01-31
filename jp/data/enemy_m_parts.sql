@@ -352,6 +352,12 @@ insert into enemy_m_parts values (610093301, 'バースト・タイムラーベ 
 insert into enemy_m_parts values (610093401, 'バースト・タイムラーベ SP1', 610093411, 610093412, 610093413, 610093414, 0);
 insert into enemy_m_parts values (610093402, 'バースト・タイムラーベ SP2', 610093421, 610093422, 610093423, 610093424, 0);
 insert into enemy_m_parts values (610093403, 'バースト・タイムラーベ SP3', 610093431, 610093432, 610093433, 610093434, 0);
+insert into enemy_m_parts values (610110101, '楽園の守護者 NORMAL', 610110102, 610110103, 610110104, 610110105, 0);
+insert into enemy_m_parts values (610110201, '楽園の守護者 HARD', 610110202, 610110203, 610110204, 610110205, 0);
+insert into enemy_m_parts values (610110301, '楽園の守護者 VERY HARD', 610110302, 610110303, 610110304, 610110305, 0);
+insert into enemy_m_parts values (610110401, '楽園の守護者 SP1', 610110411, 610110412, 610110413, 610110414, 0);
+insert into enemy_m_parts values (610110402, '楽園の守護者 SP2', 610110421, 610110422, 610110423, 610110424, 0);
+insert into enemy_m_parts values (610110403, '楽園の守護者 SP3', 610110431, 610110432, 610110433, 610110434, 0);
 insert into enemy_m_parts values (660031101, 'ドミネイテッドスノーマン NORMAL', 660031102, 660031103, 0, 0, 0);
 insert into enemy_m_parts values (660031201, 'ドミネイテッドスノーマン HARD', 660031202, 660031203, 0, 0, 0);
 insert into enemy_m_parts values (660031301, 'ドミネイテッドスノーマン VERY HARD', 660031302, 660031303, 0, 0, 0);

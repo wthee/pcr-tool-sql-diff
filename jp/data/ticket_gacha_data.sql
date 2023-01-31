@@ -8,3 +8,4 @@ insert into ticket_gacha_data values (80006, '★3確定 プリコネフェス20
 insert into ticket_gacha_data values (80007, '★3確定アニメガチャチケット プリンセスコネクト！Re:Dive Season2 1', 1, 24011, 1, 2, '0', '80000', '80007_1', '80007_2', '80007_3', 1);
 insert into ticket_gacha_data values (80008, '★3確定アニメガチャチケット プリンセスコネクト！Re:Dive Season2 2', 1, 24012, 1, 2, '0', '80000', '80008_1', '80008_2', '80008_3', 1);
 insert into ticket_gacha_data values (80009, '★3確定アニメガチャチケット プリンセスコネクト！Re:Dive Season2 3', 1, 24013, 1, 2, '0', '80000', '80009_1', '80009_2', '80009_3', 1);
+insert into ticket_gacha_data values (80010, '★3確定 プリコネフェス2023記念ガチャチケット', 1, 24014, 1, 2, '0', '80000', '80010_1', '80010_2', '80010_3', 1);

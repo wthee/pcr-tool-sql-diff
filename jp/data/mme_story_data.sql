@@ -1,1 +1,18 @@
 CREATE TABLE 'mme_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'sub_title' TEXT NOT NULL, 'is_puzzle_piece' INTEGER NOT NULL, 'is_last' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+insert into mme_story_data values (5110601, 10110, 'オープニング', '懐かしき過去の結晶', 0, 0, 10110104, 0, 0, 0);
+insert into mme_story_data values (5110602, 10110, 'オクトーの追想\u3000その1', 'リーダーはどっちだ！', 1, 0, 10110104, 8, 91002, 30);
+insert into mme_story_data values (5110603, 10110, 'オクトーの追想\u3000その2', '勝ちたい理由', 1, 0, 10110105, 8, 91002, 30);
+insert into mme_story_data values (5110604, 10110, 'クリスティーナの追想\u3000その1', '聞き上手な誓約女君', 1, 0, 10110108, 8, 91002, 30);
+insert into mme_story_data values (5110605, 10110, 'ダイゴの追想\u3000その1', '秘めたる本当の実力……？', 1, 0, 10110109, 8, 91002, 30);
+insert into mme_story_data values (5110606, 10110, 'ラビリスタの追想\u3000その1', '友と書いてライバルと読む', 1, 0, 10110110, 8, 91002, 30);
+insert into mme_story_data values (5110607, 10110, 'マサキの追想', '悪と正義の高笑い', 1, 0, 10110112, 8, 91002, 30);
+insert into mme_story_data values (5110608, 10110, 'ラジラジの追想\u3000その1', 'プリンセスナイトとは', 1, 0, 10110113, 8, 91002, 30);
+insert into mme_story_data values (5110609, 10110, 'オクトーの追想\u3000その3', 'まだ見ぬ日々に想い馳せて', 1, 0, 10110114, 8, 91002, 30);
+insert into mme_story_data values (5111602, 10111, '0', '0', 1, 0, 10111103, 0, 0, 0);
+insert into mme_story_data values (5111603, 10111, '0', '0', 1, 0, 10111105, 0, 0, 0);
+insert into mme_story_data values (5111604, 10111, '0', '0', 1, 0, 10111108, 0, 0, 0);
+insert into mme_story_data values (5111605, 10111, '0', '0', 1, 0, 10111109, 0, 0, 0);
+insert into mme_story_data values (5111606, 10111, '0', '0', 1, 0, 10111110, 0, 0, 0);
+insert into mme_story_data values (5111607, 10111, '0', '0', 1, 0, 10111113, 0, 0, 0);
+insert into mme_story_data values (5111608, 10111, '0', '0', 1, 0, 10111113, 0, 0, 0);
+insert into mme_story_data values (5111609, 10111, '0', '0', 0, 1, 0, 0, 0, 0);

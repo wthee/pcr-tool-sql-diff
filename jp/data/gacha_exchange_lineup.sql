@@ -484,3 +484,4 @@ insert into gacha_exchange_lineup values (482, 241, 111901, 3, 0, '2023/01/24 12
 insert into gacha_exchange_lineup values (483, 241, 115001, 3, 0, '2023/01/24 12:00:00', '2023/01/31 11:59:59');
 insert into gacha_exchange_lineup values (484, 241, 108801, 3, 0, '2023/01/24 12:00:00', '2023/01/31 11:59:59');
 insert into gacha_exchange_lineup values (485, 241, 108701, 3, 0, '2023/01/24 12:00:00', '2023/01/31 11:59:59');
+insert into gacha_exchange_lineup values (486, 242, 124801, 3, 1102, '2023/01/31 12:00:00', '2023/02/09 11:59:59');
