@@ -321,3 +321,5 @@ insert into voice_group values (30177, '鏡華（夏日）（花凜對話用）'
 insert into voice_group values (30178, '真步（探險家）（花凜對話用）', 118501001, 323101001, 0, 0, 0);
 insert into voice_group values (30179, '綾音（探險家）（花凜對話用）', 118501001, 323201001, 0, 0, 0);
 insert into voice_group values (30180, '涅婭（花凜對話用）', 118501001, 323301001, 0, 0, 0);
+insert into voice_group values (30181, '智（萬聖節）（花凜對話用）', 118501001, 323601001, 0, 0, 0);
+insert into voice_group values (30182, '鈴（萬聖節）（花凜對話用）', 118501001, 323501001, 0, 0, 0);
