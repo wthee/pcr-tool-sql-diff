@@ -66,3 +66,6 @@ insert into dear_chara values (10094, 2, '碧', 1000, 1, 122101, 0, 0, 0, 0, 0);
 insert into dear_chara values (10094, 3, '純', 1000, 1, 123401, 0, 0, 0, 0, 0);
 insert into dear_chara values (10100, 1, '真步', 1000, 1, 123101, 0, 0, 0, 0, 0);
 insert into dear_chara values (10100, 2, '綾音', 1000, 1, 123201, 0, 0, 0, 0, 0);
+insert into dear_chara values (10102, 1, '智', 1000, 1, 123601, 0, 0, 0, 0, 0);
+insert into dear_chara values (10102, 2, '鈴', 1000, 1, 123501, 0, 0, 0, 0, 0);
+insert into dear_chara values (10102, 3, '七七香', 1000, 1, 123701, 0, 0, 0, 0, 0);
