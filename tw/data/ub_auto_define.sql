@@ -240,8 +240,6 @@ insert into ub_auto_define values (1230001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1231001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1232001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1233001, 1, 0, 0, 0, 0);
-insert into ub_auto_define values (1235001, 1, 0, 0, 0, 0);
-insert into ub_auto_define values (1236001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1701011, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1801001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1802001, 1, 0, 0, 0, 0);
