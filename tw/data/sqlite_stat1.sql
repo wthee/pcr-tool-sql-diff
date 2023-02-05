@@ -7,7 +7,7 @@ insert into sqlite_stat1 values ('goldset_data_2', None, '70');
 insert into sqlite_stat1 values ('emblem_mission_data', None, '798');
 insert into sqlite_stat1 values ('shiori_mission_reward_data', 'shiori_mission_reward_data_0_mission_reward_id', '1418 2');
 insert into sqlite_stat1 values ('shiori_item', None, '31');
-insert into sqlite_stat1 values ('campaign_schedule', None, '1092');
+insert into sqlite_stat1 values ('campaign_schedule', None, '1099');
 insert into sqlite_stat1 values ('tower_area_data', None, '46');
 insert into sqlite_stat1 values ('prizegacha_sp_detail', None, '5');
 insert into sqlite_stat1 values ('gacha_exchange_lineup', 'gacha_exchange_lineup_0_exchange_id', '460 3');
@@ -291,7 +291,7 @@ insert into sqlite_stat1 values ('room_item_detail', 'sqlite_autoindex_room_item
 insert into sqlite_stat1 values ('sjr_proper_feature', None, '30');
 insert into sqlite_stat1 values ('shiori_description', 'shiori_description_0_type', '20 1');
 insert into sqlite_stat1 values ('hatsune_quest_area', 'hatsune_quest_area_0_event_id', '253 3');
-insert into sqlite_stat1 values ('login_bonus_detail', 'login_bonus_detail_0_login_bonus_id_1_count', '329 11 2');
+insert into sqlite_stat1 values ('login_bonus_detail', 'login_bonus_detail_0_login_bonus_id_1_count', '330 11 2');
 insert into sqlite_stat1 values ('redeem_unit', 'redeem_unit_0_unit_id', '2 2');
 insert into sqlite_stat1 values ('growth_parameter_unique', None, '1');
 insert into sqlite_stat1 values ('unit_introduction', 'unit_introduction_0_gacha_id', '210 1');
