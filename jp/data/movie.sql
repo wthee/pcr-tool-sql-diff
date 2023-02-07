@@ -449,4 +449,7 @@ insert into movie values (510800701, 5108, 5108007, '', '', 1, 1, 1.0);
 insert into movie values (510800702, 5108, 5108007, '', '', 1, 1, 1.0);
 insert into movie values (510850101, 5108, 5108501, '', '', 0, 1, 1.0);
 insert into movie values (511000501, 5110, 5110005, '', '', 1, 1, 1.0);
+insert into movie values (511100401, 5111, 5111004, '', '', 1, 1, 1.0);
+insert into movie values (511100402, 5111, 5111004, '', '', 1, 1, 1.0);
+insert into movie values (511100501, 5111, 5111005, '', '', 1, 1, 1.0);
 insert into movie values (700100001, 7001, 7001000, '', '', 0, 1, 1.0);

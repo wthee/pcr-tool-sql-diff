@@ -1,0 +1,1 @@
+CREATE INDEX 'dungeon_pattern_battle_0_quest_id' on 'dungeon_pattern_battle'('quest_id')
