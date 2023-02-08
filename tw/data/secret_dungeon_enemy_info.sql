@@ -9,3 +9,8 @@ insert into secret_dungeon_enemy_info values (32002, 7, '壞亂黑鎧騎士');
 insert into secret_dungeon_enemy_info values (32002, 8, '雷雷');
 insert into secret_dungeon_enemy_info values (32002, 9, '芒刺爬行者');
 insert into secret_dungeon_enemy_info values (32002, 10, '白陽・黑月守護像');
+insert into secret_dungeon_enemy_info values (32003, 6, '高等加爾格');
+insert into secret_dungeon_enemy_info values (32003, 7, '詛咒・奧拉姆');
+insert into secret_dungeon_enemy_info values (32003, 8, '狂暴格里芬');
+insert into secret_dungeon_enemy_info values (32003, 9, '貪婪豺狼');
+insert into secret_dungeon_enemy_info values (32003, 10, '黑月・白陽守護像');

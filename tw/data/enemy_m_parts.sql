@@ -230,6 +230,16 @@ insert into enemy_m_parts values (502002414, '黑月守護像', 502002415, 50200
 insert into enemy_m_parts values (502002418, '白陽守護像', 502002419, 502002420, 502002421, 0, 0);
 insert into enemy_m_parts values (502002514, '黑月守護像', 502002515, 502002516, 502002517, 0, 0);
 insert into enemy_m_parts values (502002518, '白陽守護像', 502002519, 502002520, 502002521, 0, 0);
+insert into enemy_m_parts values (502003114, '黑月守護像', 502003115, 502003116, 502003117, 0, 0);
+insert into enemy_m_parts values (502003118, '白陽守護像', 502003119, 502003120, 502003121, 0, 0);
+insert into enemy_m_parts values (502003214, '黑月守護像', 502003215, 502003216, 502003217, 0, 0);
+insert into enemy_m_parts values (502003218, '白陽守護像', 502003219, 502003220, 502003221, 0, 0);
+insert into enemy_m_parts values (502003314, '黑月守護像', 502003315, 502003316, 502003317, 0, 0);
+insert into enemy_m_parts values (502003318, '白陽守護像', 502003319, 502003320, 502003321, 0, 0);
+insert into enemy_m_parts values (502003414, '黑月守護像', 502003415, 502003416, 502003417, 0, 0);
+insert into enemy_m_parts values (502003418, '白陽守護像', 502003419, 502003420, 502003421, 0, 0);
+insert into enemy_m_parts values (502003514, '黑月守護像', 502003515, 502003516, 502003517, 0, 0);
+insert into enemy_m_parts values (502003518, '白陽守護像', 502003519, 502003520, 502003521, 0, 0);
 insert into enemy_m_parts values (610017101, '貝特魯吉烏斯 NORMAL', 610017102, 610017103, 610017104, 0, 0);
 insert into enemy_m_parts values (610017201, '貝特魯吉烏斯 HARD', 610017202, 610017203, 610017204, 0, 0);
 insert into enemy_m_parts values (610017301, '貝特魯吉烏斯 VERY HARD', 610017302, 610017303, 610017304, 0, 0);
