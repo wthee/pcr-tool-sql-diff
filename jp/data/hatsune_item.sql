@@ -110,3 +110,4 @@ insert into hatsune_item values (10108, 61071, 61072, 31247, 31066, 0, 0, 0, 0, 
 insert into hatsune_item values (10109, 61081, 61082, 31208, 31044, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into hatsune_item values (10110, 61091, 61092, 31249, 31029, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into hatsune_item values (10111, 61101, 61102, 31249, 31042, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into hatsune_item values (10112, 61111, 61112, 31059, 31060, 0, 0, 0, 0, 0, 0, 0, 0);

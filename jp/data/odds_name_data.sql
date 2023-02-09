@@ -233,3 +233,5 @@ insert into odds_name_data values (1011001, '1011020101', 'カヤ（リベレイ
 insert into odds_name_data values (1011002, '1011020102', 'ノゾミのメモリーピース', 99002, '');
 insert into odds_name_data values (1011101, '1011120101', 'カヤ（リベレイター）のメモリーピース', 99002, '');
 insert into odds_name_data values (1011102, '1011120102', 'チカのメモリーピース', 99002, '');
+insert into odds_name_data values (1011201, '1011220101', 'コッコロのメモリーピース', 99002, '');
+insert into odds_name_data values (1011202, '1011220102', 'キャルのメモリーピース', 99002, '');

@@ -277,3 +277,9 @@ insert into login_bonus_detail values (296, 80008, 13, 8, 91002, 100, 0, '', '',
 insert into login_bonus_detail values (297, 80008, 14, 8, 91002, 100, 0, '', '', 0, 530154);
 insert into login_bonus_detail values (298, 80008, 15, 8, 91002, 100, 0, '', '', 0, 530155);
 insert into login_bonus_detail values (299, 80008, 16, 8, 91002, 100, 0, '', '', 0, 530156);
+insert into login_bonus_detail values (321, 40011, 1, 2, 24001, 1, 125801, 'リリ', 'もうすぐ、みなさまに\\nお会いできるのですね。\\n胸が高鳴ってしまいます……\\n', 1, 0);
+insert into login_bonus_detail values (322, 40011, 2, 2, 24001, 1, 126001, 'クリア', '初めまして、クリアです♪\\nみなさんと一緒に冒険するの\\nとっても楽しみにしてます', 1, 0);
+insert into login_bonus_detail values (323, 40011, 3, 2, 24001, 1, 126101, 'プレシア', 'んーと。\\nこれ、あげる。\\nはい', 1, 0);
+insert into login_bonus_detail values (324, 40011, 4, 2, 24001, 1, 125801, 'リリ', 'あらためまして……\\n【アルターメイデン】の\\nギルドマスター、リリと申します', 2, 0);
+insert into login_bonus_detail values (325, 40011, 5, 2, 24001, 1, 126001, 'クリア', 'こんにちは、お兄さん♪\\n【アルターメイデン】の\\nクリアです', 2, 0);
+insert into login_bonus_detail values (326, 40011, 6, 2, 24001, 1, 126101, 'プレシア', 'お兄。\\nきてくれて、うれしい', 2, 0);
