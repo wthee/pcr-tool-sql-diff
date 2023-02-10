@@ -1,0 +1,1 @@
+CREATE INDEX 'sre_battle_bonus_0_sre_id_1_type' on 'sre_battle_bonus'('sre_id','type')

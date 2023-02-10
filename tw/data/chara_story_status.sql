@@ -353,6 +353,10 @@ insert into chara_story_status values (1037005, 'トモのエピソード第5話
 insert into chara_story_status values (1037006, 'トモのエピソード第6話', 2, 40, 6, 10, 0, 0, 0, 0, 0, 0, 1037, 1143, 1236, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1037007, 'トモのエピソード第7話', 2, 40, 6, 10, 0, 0, 0, 0, 0, 0, 1037, 1143, 1236, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1037008, 'トモのエピソード第8話', 2, 60, 6, 15, 11, 60, 0, 0, 0, 0, 1037, 1143, 1236, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1037009, 'トモのエピソード第9話', 2, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1037, 1143, 1236, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1037010, 'トモのエピソード第10話', 2, 80, 6, 20, 0, 0, 0, 0, 0, 0, 1037, 1143, 1236, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1037011, 'トモのエピソード第11話', 2, 80, 6, 20, 0, 0, 0, 0, 0, 0, 1037, 1143, 1236, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1037012, 'トモのエピソード第12話', 2, 200, 6, 30, 0, 0, 0, 0, 0, 0, 1037, 1143, 1236, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1038002, '栞のエピソード第2話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1038, 1123, 1807, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1038003, '栞のエピソード第3話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1038, 1123, 1807, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1038004, '栞のエピソード第4話', 2, 30, 0, 0, 0, 0, 0, 0, 0, 0, 1038, 1123, 1807, 0, 0, 0, 0, 0, 0, 0);
