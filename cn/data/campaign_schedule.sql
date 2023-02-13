@@ -709,3 +709,13 @@ insert into campaign_schedule values (707, 44, 2000.0, 103, 40, '2023/02/15 5:00
 insert into campaign_schedule values (708, 45, 2000.0, 104, 40, '2023/02/14 5:00:00', '2023/02/24 4:59:59', 0, 0, 0);
 insert into campaign_schedule values (709, 151, 1500.0, 6004, 80, '2023/01/31 11:00:00', '2023/02/20 23:59:59', 0, 0, 0);
 insert into campaign_schedule values (710, 152, 1500.0, 6005, 80, '2023/01/31 11:00:00', '2023/02/20 23:59:59', 0, 0, 0);
+insert into campaign_schedule values (711, 31, 2000.0, 101, 30, '2023/02/18 5:00:00', '2023/02/22 4:59:59', 0, 0, 0);
+insert into campaign_schedule values (712, 41, 2000.0, 101, 40, '2023/02/18 5:00:00', '2023/02/22 4:59:59', 0, 0, 0);
+insert into campaign_schedule values (713, 39, 3000.0, 111, 30, '2023/02/26 5:00:00', '2023/03/01 4:59:59', 0, 0, 0);
+insert into campaign_schedule values (714, 49, 3000.0, 111, 40, '2023/02/26 5:00:00', '2023/03/01 4:59:59', 0, 0, 0);
+insert into campaign_schedule values (715, 32, 2000.0, 102, 30, '2023/02/22 5:00:00', '2023/02/26 4:59:59', 0, 0, 0);
+insert into campaign_schedule values (716, 42, 2000.0, 102, 40, '2023/02/22 5:00:00', '2023/02/26 4:59:59', 0, 0, 0);
+insert into campaign_schedule values (717, 34, 2000.0, 103, 30, '2023/02/24 5:00:00', '2023/03/05 4:59:59', 0, 0, 0);
+insert into campaign_schedule values (718, 44, 2000.0, 103, 40, '2023/02/24 5:00:00', '2023/03/05 4:59:59', 0, 0, 0);
+insert into campaign_schedule values (719, 251, 1500.0, 7004, 80, '2023/02/16 12:00:00', '2023/02/23 23:59:59', 0, 0, 0);
+insert into campaign_schedule values (720, 252, 1500.0, 7005, 80, '2023/02/16 12:00:00', '2023/02/23 23:59:59', 0, 0, 0);

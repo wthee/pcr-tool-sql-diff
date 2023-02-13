@@ -56,6 +56,7 @@ insert into tips values (4105901, 105901, 1, '初次的味道');
 insert into tips values (4106001, 106001, 1, '傲娇');
 insert into tips values (4106101, 106101, 1, '必杀技');
 insert into tips values (4106301, 106301, 1, '感动的相遇');
+insert into tips values (4106401, 106401, 1, '不对');
 insert into tips values (4106601, 106601, 1, '造反');
 insert into tips values (4106801, 106801, 1, '能力');
 insert into tips values (4107001, 107001, 1, '整蛊大成功');

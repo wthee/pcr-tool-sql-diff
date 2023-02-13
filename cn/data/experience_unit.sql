@@ -187,3 +187,6 @@ insert into experience_unit values (185, 5664706);
 insert into experience_unit values (186, 5747258);
 insert into experience_unit values (187, 5830410);
 insert into experience_unit values (188, 5914162);
+insert into experience_unit values (189, 5998514);
+insert into experience_unit values (190, 6083466);
+insert into experience_unit values (191, 6169018);

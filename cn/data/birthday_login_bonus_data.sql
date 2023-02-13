@@ -56,6 +56,7 @@ insert into birthday_login_bonus_data values (9109301, '露「生日剧情」', 
 insert into birthday_login_bonus_data values (9109401, '古蕾雅「生日剧情」', 9, '2022/11/3 5:00:00', '2022/11/4 4:59:00', 1094500);
 insert into birthday_login_bonus_data values (9110801, '克罗依「生日剧情」', 9, '2022/8/7 5:00:00', '2022/8/8 4:59:00', 1108500);
 insert into birthday_login_bonus_data values (9110901, '千爱瑠「生日剧情」', 9, '2022/9/15 5:00:00', '2022/9/16 4:59:00', 1109500);
+insert into birthday_login_bonus_data values (9111001, '优妮「生日剧情」', 9, '2023/2/28 5:00:00', '2023/3/1 4:59:00', 1110500);
 insert into birthday_login_bonus_data values (9112401, '卯月（偶像大师）「生日剧情」', 9, '2022/4/24 5:00:00', '2022/4/25 4:59:00', 1124500);
 insert into birthday_login_bonus_data values (9112501, '凛「生日剧情」', 9, '2022/8/10 5:00:00', '2022/8/11 4:59:00', 1125500);
 insert into birthday_login_bonus_data values (9112601, '未央（偶像大师）「生日剧情」', 9, '2022/12/1 5:00:00', '2022/12/2 4:59:00', 1126500);
