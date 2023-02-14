@@ -86,4 +86,4 @@ insert into login_bonus_adv values (94, 80008, '2023/02/11 5:00:00', '2023/02/12
 insert into login_bonus_adv values (95, 80008, '2023/02/12 5:00:00', '2023/02/13 4:59:59', 3, 9006013, 0);
 insert into login_bonus_adv values (96, 80008, '2023/02/13 5:00:00', '2023/02/14 4:59:59', 3, 9006014, 0);
 insert into login_bonus_adv values (97, 80008, '2023/02/14 5:00:00', '2023/02/15 4:59:59', 3, 9006015, 0);
-insert into login_bonus_adv values (98, 80008, '2023/02/15 5:00:00', '2023/02/16 4:59:59', 3, 9006001, 1);
+insert into login_bonus_adv values (98, 80008, '2023/02/15 5:00:00', '2023/02/16 4:59:59', 3, 9006016, 1);

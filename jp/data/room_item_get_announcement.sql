@@ -13,3 +13,4 @@ insert into room_item_get_announcement values (11, 2818, '2022/02/28 12:00', '20
 insert into room_item_get_announcement values (12, 2805, '2022/05/15 15:00', '2030/12/31 23:59:59', '2022/05/15 15:00', '');
 insert into room_item_get_announcement values (13, 2828, '2022/09/30 12:00', '2030/12/31 23:59:59', '', '');
 insert into room_item_get_announcement values (14, 2829, '2022/12/26 19:00', '2030/12/31 23:59:59', '', '');
+insert into room_item_get_announcement values (15, 2830, '2023/02/15 05:00', '2030/12/31 23:59:59', '', '');

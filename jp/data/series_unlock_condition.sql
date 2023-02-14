@@ -5,4 +5,5 @@ insert into series_unlock_condition values (10063, 0, 0, 10062, 10062115, 100620
 insert into series_unlock_condition values (10085, 0, 0, 10084, 10084115, 1008401);
 insert into series_unlock_condition values (10087, 0, 0, 10086, 10086115, 1008601);
 insert into series_unlock_condition values (10111, 0, 0, 10110, 10110115, 1011001);
+insert into series_unlock_condition values (10113, 0, 0, 10112, 10112115, 1011201);
 insert into series_unlock_condition values (20034, 0, 0, 20033, 20033115, 2003301);

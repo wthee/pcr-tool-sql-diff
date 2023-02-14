@@ -110,4 +110,5 @@ insert into event_gacha_data values (10109, 10109, '新春美食メモリーズ\
 insert into event_gacha_data values (10110, 10110, 'リベレイト・ジ・エデン\u3000いつか、また会う未来で', 2, 61092, 1, 6);
 insert into event_gacha_data values (10111, 10111, 'リベレイト・ジ・エデン\u3000いつか、また会う未来で', 2, 61102, 1, 6);
 insert into event_gacha_data values (10112, 10112, 'Re:member\u3000僕の願いが紡ぐ未来', 2, 61112, 1, 6);
+insert into event_gacha_data values (10113, 10113, 'Re:member\u3000僕の願いが紡ぐ未来', 2, 61122, 1, 6);
 insert into event_gacha_data values (19003, 10003, 'ヴァンパイアハンターwithイリヤ討伐証交換', 2, 60022, 1, 5);
