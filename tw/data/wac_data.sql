@@ -1,1 +1,15 @@
 CREATE TABLE 'wac_data' ('wac_id' INTEGER NOT NULL, 'date_id' INTEGER NOT NULL, 'unlock_time' TEXT NOT NULL, 'pre_drama_id' INTEGER NOT NULL, 'post_drama_id' INTEGER NOT NULL, 'idle_drama_id' INTEGER NOT NULL, 'bg_id' INTEGER NOT NULL, 'effect_id' INTEGER NOT NULL, 'mural_group_id' INTEGER NOT NULL, 'mural_offset_x' REAL NOT NULL, 'birthday_login_bonus_id' INTEGER NOT NULL, 'unit_id_1' INTEGER NOT NULL, 'unit_id_2' INTEGER NOT NULL, 'draw_end_to_center' INTEGER NOT NULL, 'unit_search_id' INTEGER NOT NULL, PRIMARY KEY('wac_id','date_id'));
+insert into wac_data values (2816, 11, '2023/02/15 05:00:00', 111, 112, 113, 100, 1, 0, 540.0, 0, 0, 0, 0, 1);
+insert into wac_data values (2816, 21, '2023/02/16 05:00:00', 211, 212, 213, 100, 1, 0, 493.0, 0, 0, 0, 0, 2);
+insert into wac_data values (2816, 31, '2023/02/17 05:00:00', 311, 312, 313, 100, 1, 0, 458.0, 0, 0, 0, 0, 3);
+insert into wac_data values (2816, 41, '2023/02/18 05:00:00', 411, 412, 413, 100, 1, 0, 420.0, 0, 0, 0, 0, 4);
+insert into wac_data values (2816, 51, '2023/02/19 05:00:00', 511, 512, 513, 100, 1, 0, 380.0, 0, 0, 0, 0, 5);
+insert into wac_data values (2816, 61, '2023/02/20 05:00:00', 611, 612, 613, 100, 1, 0, 340.0, 0, 0, 0, 0, 6);
+insert into wac_data values (2816, 71, '2023/02/21 05:00:00', 711, 712, 713, 100, 1, 1, 430.0, 0, 0, 0, 0, 7);
+insert into wac_data values (2816, 81, '2023/02/22 05:00:00', 811, 812, 813, 100, 1, 1, 402.0, 0, 0, 0, 0, 8);
+insert into wac_data values (2816, 91, '2023/02/23 05:00:00', 911, 912, 913, 100, 1, 1, 302.0, 0, 0, 0, 0, 9);
+insert into wac_data values (2816, 101, '2023/02/24 05:00:00', 1011, 1012, 1013, 100, 1, 1, 264.0, 0, 0, 0, 0, 10);
+insert into wac_data values (2816, 111, '2023/02/25 05:00:00', 1111, 1112, 1113, 100, 1, 1, 225.0, 0, 0, 0, 0, 11);
+insert into wac_data values (2816, 121, '2023/02/26 05:00:00', 1211, 1212, 1213, 100, 1, 1, 328.0, 0, 0, 0, 0, 12);
+insert into wac_data values (2816, 131, '2023/02/27 05:00:00', 1311, 1312, 1313, 100, 1, 1, 280.0, 0, 0, 0, 0, 13);
+insert into wac_data values (2816, 141, '2023/02/28 05:00:00', 1411, 1412, 1413, 100, 1, 1, 269.0, 0, 0, 0, 0, 14);

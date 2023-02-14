@@ -8,6 +8,7 @@ insert into room_item_get_announcement values (6, 2808, '2021/07/05 16:00', '203
 insert into room_item_get_announcement values (7, 2809, '2021/10/01 16:00', '2030/12/31 23:59:59', '', '');
 insert into room_item_get_announcement values (8, 2814, '2021/12/01 16:00', '2030/12/31 23:59:59', '2021/07/31 12:00', '');
 insert into room_item_get_announcement values (9, 2804, '2022/01/18 12:00', '2030/12/31 23:59:59', '2022/01/18 12:00', '大間地區振興海報\\n「新春金槍鮪釣起圖」');
-insert into room_item_get_announcement values (10, 2818, '2022/07/01 16:00', '2030/12/31 23:59:59', '', '');
-insert into room_item_get_announcement values (11, 2805, '2022/09/23 16:00', '2030/12/31 23:59:59', '2022/09/23 16:00', '');
-insert into room_item_get_announcement values (12, 2828, '2023/02/01 16:00', '2030/12/31 23:59:59', '', '');
+insert into room_item_get_announcement values (10, 2816, '2023/02/15 05:00', '2030/12/31 23:59:59', '', '');
+insert into room_item_get_announcement values (11, 2818, '2022/07/01 16:00', '2030/12/31 23:59:59', '', '');
+insert into room_item_get_announcement values (12, 2805, '2022/09/23 16:00', '2030/12/31 23:59:59', '2022/09/23 16:00', '');
+insert into room_item_get_announcement values (13, 2828, '2023/02/01 16:00', '2030/12/31 23:59:59', '', '');
