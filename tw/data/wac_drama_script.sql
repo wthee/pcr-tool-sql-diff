@@ -404,13 +404,13 @@ insert into wac_drama_script values (1012005, 1012, 32, '1', '0', '', '', '', ''
 insert into wac_drama_script values (1012006, 1012, 32, '2', '1', '', '', '', '', '', '');
 insert into wac_drama_script values (1012007, 1012, 32, '11', '0', '', '', '', '', '', '');
 insert into wac_drama_script values (1012008, 1012, 21, 'vo_wac_220224', 'vo_wac_220224_000', '0', '0', '', '', '', '');
-insert into wac_drama_script values (1012009, 1012, 11, '100711', '是布丁，這裡也是布丁，\\n這邊那邊也都是布丁。\\n沒有啦，騙你的。\\n人家有照著學到的好好畫。', '10', '1', '1', '0', '0', '0.5');
+insert into wac_drama_script values (1012009, 1012, 11, '100711', '是布丁來的，這裡也是布丁來的，\\n這邊那邊也都是布丁來的。\\n沒有啦，騙你的喲。\\n人家有照著學到的好好畫喲。', '10', '1', '1', '0', '0', '0.5');
 insert into wac_drama_script values (1012010, 1012, 91, '0', '', '', '', '', '', '', '');
 insert into wac_drama_script values (1012011, 1012, 21, 'vo_wac_220224', 'vo_wac_220224_001', '0', '0', '', '', '', '');
-insert into wac_drama_script values (1012012, 1012, 11, '100711', '……嗚～但一想到布丁，\\n人家的肚子就開始餓了。\\n所以人家在牆上畫布丁後有吃吃看。\\n一點都不好吃！', '10', '1', '1', '0', '0', '0.5');
+insert into wac_drama_script values (1012012, 1012, 11, '100711', '……嗚～但一想到布丁，\\n人家的肚子就開始餓了來的。\\n所以人家在牆上畫布丁後有吃吃看喲。\\n一點都不好吃來的！', '10', '1', '1', '0', '0', '0.5');
 insert into wac_drama_script values (1012013, 1012, 91, '0', '', '', '', '', '', '', '');
 insert into wac_drama_script values (1012014, 1012, 21, 'vo_wac_220224', 'vo_wac_220224_002', '0', '0', '', '', '', '');
-insert into wac_drama_script values (1012015, 1012, 11, '100711', '快把真正的布丁\\n交出來～！！', '10', '1', '1', '0', '0', '0.5');
+insert into wac_drama_script values (1012015, 1012, 11, '100711', '快把真正的布丁\\n交出來的～！！', '10', '1', '1', '0', '0', '0.5');
 insert into wac_drama_script values (1012016, 1012, 91, '0', '', '', '', '', '', '', '');
 insert into wac_drama_script values (1012017, 1012, 22, '0', '0', '', '', '', '', '', '');
 insert into wac_drama_script values (1013001, 1013, 3, '100711', 'wac_idle_smile', '1', '', '', '0.2', '', '');
@@ -966,7 +966,7 @@ insert into wac_drama_script values (2712005, 2712, 32, '3', '0', '', '', '', ''
 insert into wac_drama_script values (2712006, 2712, 32, '2', '1', '', '', '', '', '', '');
 insert into wac_drama_script values (2712007, 2712, 32, '13', '0', '', '', '', '', '', '');
 insert into wac_drama_script values (2712008, 2712, 21, 'vo_wac_220313', 'vo_wac_220313_000', '0', '0', '', '', '', '');
-insert into wac_drama_script values (2712009, 2712, 11, '101211', '嘿～咿！\\n看我的！\\n閃亮亮☆\\n完！\u3000成！\u3000啦！', '10', '1', '1', '0', '0', '0.5');
+insert into wac_drama_script values (2712009, 2712, 11, '101211', '嘿～咿！\\n看我的！\\n閃亮亮☆\\n完！成！啦！', '10', '1', '1', '0', '0', '0.5');
 insert into wac_drama_script values (2712010, 2712, 91, '0', '', '', '', '', '', '', '');
 insert into wac_drama_script values (2712011, 2712, 21, 'vo_wac_220313', 'vo_wac_220313_001', '0', '0', '', '', '', '');
 insert into wac_drama_script values (2712012, 2712, 11, '101211', '很好，給小栞看……\\n啊，有點努力過頭了……\\n好想睡……\\n呼嚕呼嚕……呼嚕呼嚕……', '10', '1', '1', '0', '0', '0.5');
@@ -1332,7 +1332,7 @@ insert into wac_drama_script values (3812008, 3812, 21, 'vo_wac_220324', 'vo_wac
 insert into wac_drama_script values (3812009, 3812, 11, '107011', '嗯……差不多就這樣吧。\\n雖然我自認很習慣模仿了，\\n但繪畫跟模仿還是有些不一樣呢。', '10', '1', '1', '0', '0', '0.5');
 insert into wac_drama_script values (3812010, 3812, 91, '0', '', '', '', '', '', '', '');
 insert into wac_drama_script values (3812011, 3812, 21, 'vo_wac_220324', 'vo_wac_220324_001', '0', '0', '', '', '', '');
-insert into wac_drama_script values (3812012, 3812, 11, '107011', '如果這樣能讓蘭德索爾\\n稍微變得更陽光的話……\\n我明明不需要在意這種事的……\\n可能是受到公務的影響吧。', '10', '1', '1', '0', '0', '0.5');
+insert into wac_drama_script values (3812012, 3812, 11, '107011', '如果這樣能讓蘭德索爾\\n稍微變得更有活力的話……\\n我明明不需要在意這種事的……\\n可能是受到公務的影響吧。', '10', '1', '1', '0', '0', '0.5');
 insert into wac_drama_script values (3812013, 3812, 91, '0', '', '', '', '', '', '', '');
 insert into wac_drama_script values (3812014, 3812, 22, '0', '0', '', '', '', '', '', '');
 insert into wac_drama_script values (3813001, 3813, 3, '107011', 'wac_idle_sad', '1', '', '', '0.2', '', '');
