@@ -367,6 +367,9 @@ insert into enemy_m_parts values (610113403, 'オーバーロードフォース'
 insert into enemy_m_parts values (660031101, 'ドミネイテッドスノーマン NORMAL', 660031102, 660031103, 0, 0, 0);
 insert into enemy_m_parts values (660031201, 'ドミネイテッドスノーマン HARD', 660031202, 660031203, 0, 0, 0);
 insert into enemy_m_parts values (660031301, 'ドミネイテッドスノーマン VERY HARD', 660031302, 660031303, 0, 0, 0);
+insert into enemy_m_parts values (660037101, 'バースト・タイムラーベ NORMAL', 660037102, 660037103, 660037104, 660037105, 0);
+insert into enemy_m_parts values (660037201, 'バースト・タイムラーベ HARD', 660037202, 660037203, 660037204, 660037205, 0);
+insert into enemy_m_parts values (660037301, 'バースト・タイムラーベ VERY HARD', 660037302, 660037303, 660037304, 660037305, 0);
 insert into enemy_m_parts values (701000401, 'ガーゴイル・バースト', 701000402, 701000403, 701000404, 0, 0);
 insert into enemy_m_parts values (701000405, 'ガーゴイル・バースト', 701000406, 701000407, 701000408, 0, 0);
 insert into enemy_m_parts values (701000409, 'ガーゴイル・バースト', 701000410, 701000411, 701000412, 0, 0);

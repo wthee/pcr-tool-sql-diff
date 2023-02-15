@@ -20,6 +20,7 @@ insert into mission_category_icon values (207, 'lightblue', '#3290D4');
 insert into mission_category_icon values (208, 'lightblue', '#3290D4');
 insert into mission_category_icon values (209, 'lightblue', '#3290D4');
 insert into mission_category_icon values (210, 'lightblue', '#3290D4');
+insert into mission_category_icon values (211, 'lightblue', '#3290D4');
 insert into mission_category_icon values (301, 'orange', '#E5681E');
 insert into mission_category_icon values (302, 'orange', '#E5681E');
 insert into mission_category_icon values (303, 'orange', '#E5681E');

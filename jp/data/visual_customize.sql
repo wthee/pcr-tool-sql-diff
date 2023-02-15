@@ -24,5 +24,9 @@ insert into visual_customize values (10022, 0, 1001, 0, 1, 1, 0, 0, '2022/02/28 
 insert into visual_customize values (10023, 0, 1002, 0, 2, 2, 0, 2015009, '2022/02/28 12:00:00', '2022/08/15 14:59:59');
 insert into visual_customize values (10024, 0, 1001, 0, 1, 1, 1007, 0, '2022/08/15 15:00:00', '2022/08/31 11:59:59');
 insert into visual_customize values (10025, 0, 1002, 0, 2, 2, 1007, 2015009, '2022/08/15 15:00:00', '2022/08/31 11:59:59');
-insert into visual_customize values (10026, 0, 1001, 0, 1, 1, 0, 0, '2022/08/31 12:00:00', '2030/02/15 14:59:59');
-insert into visual_customize values (10027, 0, 1002, 0, 2, 2, 0, 2015009, '2022/08/31 12:00:00', '2030/02/15 14:59:59');
+insert into visual_customize values (10026, 0, 1001, 0, 1, 1, 0, 0, '2022/08/31 12:00:00', '2023/02/15 14:59:59');
+insert into visual_customize values (10027, 0, 1002, 0, 2, 2, 0, 2015009, '2022/08/31 12:00:00', '2023/02/15 14:59:59');
+insert into visual_customize values (10028, 1005, 1001, 1005, 1, 1, 1008, 0, '2023/02/15 15:00:00', '2023/02/28 11:59:59');
+insert into visual_customize values (10029, 1005, 1002, 1005, 2, 2, 1008, 2015009, '2023/02/15 15:00:00', '2023/02/28 11:59:59');
+insert into visual_customize values (10030, 0, 1001, 0, 1, 1, 0, 0, '2023/02/28 12:00:00', '2030/08/15 14:59:59');
+insert into visual_customize values (10031, 0, 1002, 0, 2, 2, 0, 2015009, '2023/02/28 12:00:00', '2030/08/15 14:59:59');

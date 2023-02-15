@@ -223,3 +223,4 @@ insert into custom_mypage values (9000221, 40001, 0, '正月のひと時', 0, 0,
 insert into custom_mypage values (9000222, 30001, 0, '追想のデフラグ カスタムマイページ', 0, 0, 1);
 insert into custom_mypage values (9000223, 40002, 0, 'ローソンコラボ記念カスタムマイページ', 0, 0, 1);
 insert into custom_mypage values (9000224, 40001, 0, "Valentine's Day", 0, 0, 1);
+insert into custom_mypage values (9000225, 20006, 0, '5周年記念カスタムマイページ', 0, 0, 1);

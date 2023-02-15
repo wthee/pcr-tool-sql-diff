@@ -236,7 +236,7 @@ insert into music_content values (234, 'ムーンレイゲート', '3:10', '0:00
 insert into music_content values (235, 'わくわくSUMMER TIME！', '1:31', '0:48', 'キャラクターソング\\n\\n時間 / 01:31\\n歌\u3000 / キョウカ（小倉唯）\\n\u3000\u3000\u3000ミソギ（諸星すみれ）\\n\u3000\u3000\u3000ミミ（日高里菜）\\n作詞 / Mitsu（TRYTONELABO）\\n作曲 / 滝澤俊輔（TRYTONELABO）\\n編曲 / 滝澤俊輔（TRYTONELABO）', 'bgm_M607', 'bgm_M607');
 insert into music_content values (236, 'みゅ～ちゃんすくすく日記', '2:40', '0:00', 'ストーリーイベントミニコンテンツ\\n-｢わくわくSUMMER TIME！｣アレンジ-\\n\\n時間 / 02:40\\n作曲 / 滝澤俊輔（TRYTONELABO）\\n編曲 / 畑田浩孝（Cygames）', 'bgm_M612', 'bgm_M612_juke');
 insert into music_content values (237, 'マホマホ・ミラクル・ジャーニー！\u3000旅する少女と最果ての大樹', '2:02', '0:00', 'ストーリーイベントテーマ\\n-｢はんなり乙女道中｣アレンジ-\\n\\n時間 / 02:02\\n作曲 / 金山秀士（Dream Monster）\\n編曲 / 多田彰文', 'bgm_M618', 'bgm_M618_juke');
-insert into music_content values (238, '哀執のバロメッツ', '1:30', '0:00', 'ストーリーイベントボスバトル\\n-｢はんなり乙女道中｣アレンジ-\\n\\n時間 / 01:30\\n作曲 / Enarak（Cygames）\\n編曲 / Enarak（Cygames）', 'bgm_M621', 'bgm_M621_juke');
+insert into music_content values (238, '哀執のバロメッツ', '1:30', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 01:30\\n作曲 / Enarak（Cygames）\\n編曲 / Enarak（Cygames）', 'bgm_M621', 'bgm_M621_juke');
 insert into music_content values (239, 'はんなり乙女道中', '1:36', '0:55', 'キャラクターソング\\n\\n時間 / 01:36\\n歌\u3000 / マホ（内田真礼）\\n作詞 / 金山秀士（Dream Monster）\\n作曲 / 金山秀士（Dream Monster）\\n編曲 / 金山秀士（Dream Monster）', 'bgm_M617', 'bgm_M617');
 insert into music_content values (240, 'ファボ！ラブ！大集合！\u3000至高の祭典と少女の秘めた推し事', '1:34', '0:00', "ストーリーイベントテーマ\\n-｢O-TA-O-TA WORLD｣アレンジ-\\n\\n時間 / 01:34\\n作曲 / Heart's Cry (TOKYO LOGIC)\\n編曲 / 市橋卓也（Cygames）", 'bgm_M623', 'bgm_M623_juke');
 insert into music_content values (241, '狂乱の配信者・カガミ', '2:00', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 02:00\\n作曲 / 榎本 三和子（Cygames）\\n編曲 / 榎本 三和子（Cygames）', 'bgm_M625', 'bgm_M625_juke');
@@ -256,3 +256,8 @@ insert into music_content values (254, '甦りし脅威たち', '2:05', '0:00', 
 insert into music_content values (255, '偽りの救済者', '1:35', '0:00', '終炎のエリュシオンボスバトル\\n\\n時間 / 01:35\\n作曲 / 千葉梓（Cygames）、関根修平（Cygames）\\n編曲 / 関根修平（Cygames）', 'bgm_M646', 'bgm_M646_Mode1_juke');
 insert into music_content values (256, '終炎を司りし魔術師', '1:40', '0:00', '終炎のエリュシオンボスバトル\\n\\n時間 / 01:40\\n作曲 / 千葉梓（Cygames）、関根修平（Cygames）\\n編曲 / 関根修平（Cygames）', 'bgm_M646', 'bgm_M646_Mode2_juke');
 insert into music_content values (257, '理外の力を求めし者', '2:00', '0:00', '終炎のエリュシオンボスバトル\\n-｢Mirage Game｣アレンジ-\\n\\n時間 / 02:00\\n作曲 / 田中公平\\n編曲 / 吉川美矩、関根修平（Cygames）', 'bgm_M646', 'bgm_M646_Mode3_juke');
+insert into music_content values (258, '希望を夢見る楽園', '1:00', '0:00', 'ストーリーイベントテーマ\\n-｢ネバールーズアゲイン｣アレンジ-\\n\\n時間 / 01:00\\n作曲 / 奥井康介\\n編曲 / 榎本三和子（Cygames）', 'bgm_M659', 'bgm_M659_juke');
+insert into music_content values (259, '不確かな未来でも', '1:17', '0:00', 'ストーリーイベントテーマ\\n-｢ネバールーズアゲイン｣アレンジ-\\n\\n時間 / 01:17\\n作曲 / 奥井康介\\n編曲 / Enarak（Cygames）', 'bgm_M660', 'bgm_M660_juke');
+insert into music_content values (260, '楽園の守護者', '2:12', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 02:12\\n作曲 / 西木康智\\n編曲 / 佐藤遥（Cygames）', 'bgm_M664', 'bgm_M664_juke');
+insert into music_content values (261, '久遠の園を象る者', '3:26', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 03:26\\n作曲 / 畑田浩孝（Cygames）\\n編曲 / 畑田浩孝（Cygames）', 'bgm_M665', 'bgm_M665_juke');
+insert into music_content values (262, 'ネバールーズアゲイン', '1:22', '0:42', 'キャラクターソング\\n\\n時間 / 01:22\\n歌\u3000 / ムイミ（潘めぐみ）\\n作詞 / 稲葉エミ\\n作曲 / 奥井康介\\n編曲 / 奥井康介', 'bgm_M667', 'bgm_M667');

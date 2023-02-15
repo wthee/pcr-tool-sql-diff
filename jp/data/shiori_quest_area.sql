@@ -82,3 +82,6 @@ insert into shiori_quest_area values (20035102, 20035, '辺境の地', 201, 'bgm
 insert into shiori_quest_area values (20035201, 20035, '辺境の地', 201, 'bgm_M451', 'bgm_M451', 1, 0, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20036101, 20036, '聖テレサ女学院 聖学祭会場', 201, 'bgm_M457', 'bgm_M457', 1, 1, 91, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20036201, 20036, '聖テレサ女学院 聖学祭会場', 201, 'bgm_M457', 'bgm_M457', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20037101, 20037, '異時間軸のランドソル', 201, 'bgm_M467', 'bgm_M467', 1, 1, 90, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20037102, 20037, 'タイムトンネル', 201, 'bgm_M467', 'bgm_M467', 1, 2, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20037201, 20037, 'タイムトンネル', 201, 'bgm_M467', 'bgm_M467', 1, 0, 0, 0, 0, '0', '0', 0);
