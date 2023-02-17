@@ -254,6 +254,14 @@ insert into enemy_m_parts values (401601505, 'アクアリオス 5段階目', 40
 insert into enemy_m_parts values (401601605, 'アクアリオス 1段階目 シングルモード', 401601606, 401601607, 0, 0, 0);
 insert into enemy_m_parts values (401601705, 'アクアリオス 2段階目 シングルモード', 401601706, 401601707, 0, 0, 0);
 insert into enemy_m_parts values (401601805, 'アクアリオス 3段階目 シングルモード', 401601806, 401601807, 0, 0, 0);
+insert into enemy_m_parts values (401602104, 'ソードコブラ 1段階目', 401602105, 401602106, 401602107, 0, 0);
+insert into enemy_m_parts values (401602204, 'ソードコブラ 2段階目', 401602205, 401602206, 401602207, 0, 0);
+insert into enemy_m_parts values (401602304, 'ソードコブラ 3段階目', 401602305, 401602306, 401602307, 0, 0);
+insert into enemy_m_parts values (401602404, 'ソードコブラ 4段階目', 401602405, 401602406, 401602407, 0, 0);
+insert into enemy_m_parts values (401602504, 'ソードコブラ 5段階目', 401602505, 401602506, 401602507, 0, 0);
+insert into enemy_m_parts values (401602604, 'ソードコブラ 1段階目 シングルモード', 401602605, 401602606, 401602607, 0, 0);
+insert into enemy_m_parts values (401602704, 'ソードコブラ 2段階目 シングルモード', 401602705, 401602706, 401602707, 0, 0);
+insert into enemy_m_parts values (401602804, 'ソードコブラ 3段階目 シングルモード', 401602805, 401602806, 401602807, 0, 0);
 insert into enemy_m_parts values (501010601, 'ラースドラゴン', 501010602, 501010603, 501010604, 0, 0);
 insert into enemy_m_parts values (501010701, '黒月の守護像', 501010702, 501010703, 501010704, 0, 0);
 insert into enemy_m_parts values (501010705, '白陽の守護像', 501010706, 501010707, 501010708, 0, 0);
