@@ -127,7 +127,7 @@ insert into sqlite_stat1 values ('unit_comments', 'unit_comments_0_unit_id', '29
 insert into sqlite_stat1 values ('taq_drama_script', 'taq_drama_script_0_drama_id', '30 6');
 insert into sqlite_stat1 values ('pct_gaming_motion', None, '8');
 insert into sqlite_stat1 values ('pct_evaluation', None, '5');
-insert into sqlite_stat1 values ('event_top_adv', 'event_top_adv_0_event_id_1_type', '2031 15 5');
+insert into sqlite_stat1 values ('event_top_adv', 'event_top_adv_0_event_id_1_type', '2030 15 5');
 insert into sqlite_stat1 values ('event_gacha_data', 'event_gacha_data_0_event_id', '113 1');
 insert into sqlite_stat1 values ('shiori_unlock_unit_condition', 'shiori_unlock_unit_condition_0_condition_mission_id', '21 1');
 insert into sqlite_stat1 values ('shiori_unlock_unit_condition', 'shiori_unlock_unit_condition_0_unit_id_1_event_id', '21 1 1');
