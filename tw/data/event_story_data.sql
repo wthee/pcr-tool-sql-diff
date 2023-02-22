@@ -33,7 +33,7 @@ insert into event_story_data values (5048, 5, 20028, 'Happy・Change・Angels', 
 insert into event_story_data values (5050, 5, 20029, '迴響！尖叫！萬聖鬼怪狂歡節', 0, 1, '2021/02/01 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5052, 5, 20030, "魔法提督Lovely★莫妮卡\u3000Let's Go！魔法的四重奏！", 0, 1, '2021/03/02 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5054, 5, 20031, '名媛初登夢想秘境\u3000聖誕夜的戀愛遊戲', 0, 1, '2021/03/30 16:00:00', '2030/04/24 14:59:59');
-insert into event_story_data values (5056, 5, 10083, '新春美食公主！\u3000賭上關鍵一擲的少女們', 0, 1, '2021/05/01 16:00:00', '2030/04/24 14:59:59');
+insert into event_story_data values (5056, 5, 20032, '新春美食公主！\u3000賭上關鍵一擲的少女們', 0, 1, '2021/05/01 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5058, 5, 10086, '羈絆相連。心相繫。', 0, 1, '2021/06/02 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5059, 5, 10087, '羈絆相連。心相繫。', 0, 1, '2021/06/02 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5061, 5, 10089, '灰姑娘課程\u3000璀璨的日子有著蘋果的滋味', 0, 1, '2021/07/02 16:00:00', '2030/04/24 14:59:59');

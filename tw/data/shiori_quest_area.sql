@@ -71,3 +71,5 @@ insert into shiori_quest_area values (20030101, 20030, '王城蘭德索爾', 201
 insert into shiori_quest_area values (20030201, 20030, '王城蘭德索爾', 201, 'bgm_M421', 'bgm_M421', 1, 1, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20031101, 20031, '名媛初登夢想秘境會場', 201, 'bgm_M426', 'bgm_M426', 1, 1, 60, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20031201, 20031, '名媛初登夢想秘境會場', 201, 'bgm_M426', 'bgm_M426', 1, 1, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20032101, 20032, '港小鎮‧大間', 201, 'bgm_M435', 'bgm_M435', 1, 1, 100, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20032201, 20032, '港小鎮‧大間', 201, 'bgm_M435', 'bgm_M435', 1, 1, 0, 0, 0, '0', '0', 0);

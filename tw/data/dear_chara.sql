@@ -41,11 +41,11 @@ insert into dear_chara values (20030, 1, '莫妮卡', 1000, 1, 114201, 0, 0, 0, 
 insert into dear_chara values (20030, 2, '智', 1000, 1, 114301, 0, 0, 0, 0, 0);
 insert into dear_chara values (20031, 1, '秋乃', 1000, 1, 114401, 0, 0, 0, 0, 0);
 insert into dear_chara values (20031, 2, '咲戀', 1000, 1, 114501, 0, 0, 0, 0, 0);
-insert into dear_chara values (10083, 1, '貪吃佩可', 1000, 1, 111801, 0, 0, 0, 0, 0);
-insert into dear_chara values (10083, 2, '可可蘿', 1000, 1, 111901, 0, 0, 0, 0, 0);
-insert into dear_chara values (10083, 3, '凱留', 1000, 1, 112001, 0, 0, 0, 0, 0);
-insert into dear_chara values (10083, 4, '矛依未', 1000, 1, 114701, 0, 0, 0, 0, 5056002);
-insert into dear_chara values (10083, 5, '似似花', 1000, 1, 115001, 0, 0, 0, 0, 5056002);
+insert into dear_chara values (20032, 1, '貪吃佩可', 1000, 1, 111801, 0, 0, 0, 0, 0);
+insert into dear_chara values (20032, 2, '可可蘿', 1000, 1, 111901, 0, 0, 0, 0, 0);
+insert into dear_chara values (20032, 3, '凱留', 1000, 1, 112001, 0, 0, 0, 0, 0);
+insert into dear_chara values (20032, 4, '矛依未', 1000, 1, 114701, 0, 0, 0, 0, 5056002);
+insert into dear_chara values (20032, 5, '似似花', 1000, 1, 115001, 0, 0, 0, 0, 5056002);
 insert into dear_chara values (10089, 1, '莉瑪', 1000, 1, 115801, 0, 0, 0, 0, 0);
 insert into dear_chara values (10089, 2, '真步', 1000, 1, 116001, 0, 0, 0, 0, 5061002);
 insert into dear_chara values (10089, 3, '真琴', 1000, 1, 115901, 0, 0, 0, 0, 5061003);
