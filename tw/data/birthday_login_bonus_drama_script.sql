@@ -3600,7 +3600,7 @@ insert into birthday_login_bonus_drama_script values (1093501042, 1093501, 21, '
 insert into birthday_login_bonus_drama_script values (1093501043, 1093501, 11, '109311', '……說笑的，開玩笑的哦！\\n確實對露來說，\\n是有辦法吃掉整個蛋糕……', '7', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1093501044, 1093501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1093501045, 1093501, 21, 'vo_adv_1093501', 'vo_adv_1093501_002', '0', '0', '', '', '', '');
-insert into birthday_login_bonus_drama_script values (1093501046, 1093501, 11, '109311', '但是和最喜歡的人一起吃，\\n就會覺得更加美味！\\n所以你一定也願意\\n和露一起想用蛋糕對吧！', '6', '1', '1', '0', '0', '');
+insert into birthday_login_bonus_drama_script values (1093501046, 1093501, 11, '109311', '但是和最喜歡的人一起吃，\\n就會覺得更加美味！\\n所以你一定也願意\\n和露一起享用蛋糕對吧！', '6', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1093501047, 1093501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1093501048, 1093501, 21, 'vo_adv_1093501', 'vo_adv_1093501_003', '0', '0', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1093501049, 1093501, 11, '109311', '既然決定了……來吧來吧！\\n這個看起來很美味的蛋糕，\\n就由你說聲「啊」，\\n餵給露吃吧！', '6', '1', '1', '0', '0', '');
