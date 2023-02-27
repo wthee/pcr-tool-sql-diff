@@ -83,7 +83,6 @@ insert into tips values (4113801, 113801, 1, '太羞耻了！');
 insert into tips values (4114201, 114201, 1, '微服出行');
 insert into tips values (4114301, 114301, 1, '一起！');
 insert into tips values (4115801, 115801, 1, '生产者的面孔');
-insert into tips values (4115901, 115901, 1, '轻飘飘');
 insert into tips values (4170101, 170101, 1, '闪亮登场');
 insert into tips values (4170201, 170201, 1, '努力打年糕');
 insert into tips values (4180101, 180101, 1, '猜拳时间！');
