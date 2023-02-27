@@ -22,8 +22,8 @@ insert into event_story_data values (5027, 5, 10051, '龙之探索者', 0, 1, '2
 insert into event_story_data values (5029, 5, 10055, '礼物大恐慌！\u3000兰德索尔的圣诞老人们', 0, 1, '2021/11/25 15:00:00', '2099/12/31 23:59:59');
 insert into event_story_data values (5031, 5, 10057, '狂奔！\u3000兰德索尔公会竞速赛', 0, 1, '2021/12/26 15:00:00', '2099/12/31 23:59:59');
 insert into event_story_data values (5033, 5, 10060, '魔法少女\u3000二人是Misty＆Purely', 0, 1, '2022/01/24 15:00:00', '2099/12/31 23:59:59');
-insert into event_story_data values (5035, 5, 10035, '星光公主\u3000Re:M@STER！', 0, 1, '2022/02/25 15:00:00', '2099/12/31 23:59:59');
-insert into event_story_data values (5036, 5, 10036, '星光公主\u3000Re:M@STER！', 0, 1, '2022/02/25 15:00:00', '2099/12/31 23:59:59');
+insert into event_story_data values (5035, 5, 10062, '星光公主\u3000Re:M@STER！', 0, 1, '2022/02/25 15:00:00', '2099/12/31 23:59:59');
+insert into event_story_data values (5036, 5, 10063, '星光公主\u3000Re:M@STER！', 0, 1, '2022/02/25 15:00:00', '2099/12/31 23:59:59');
 insert into event_story_data values (5038, 5, 10038, '恩赐的财团与神圣学院的问题儿童', 0, 1, '2022/03/26 15:00:00', '2099/12/31 23:59:59');
 insert into event_story_data values (5040, 5, 10040, '牧场里的四农士\u3000贫穷农场奋斗记！', 0, 1, '2022/04/24 15:00:00', '2099/12/31 23:59:59');
 insert into event_story_data values (5042, 5, 10042, '不可思议之国的璃乃\u3000小小爱丽丝与希望的绘本', 0, 1, '2022/05/26 15:00:00', '2099/12/31 23:59:59');
