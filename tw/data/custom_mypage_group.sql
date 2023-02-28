@@ -4,3 +4,4 @@ insert into custom_mypage_group values (20003, '公主連結！Re:Dive 3.5周年
 insert into custom_mypage_group values (20004, '公主連結！Re:Dive 4周年紀念');
 insert into custom_mypage_group values (20005, '公主連結！Re:Dive 4.5周年紀念');
 insert into custom_mypage_group values (30001, '宮子廚房 通往究極之路');
+insert into custom_mypage_group values (40001, '大家的日曆');
