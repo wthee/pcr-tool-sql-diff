@@ -12,3 +12,4 @@ insert into wac_present_still_data values (2816, 2891, 9000219);
 insert into wac_present_still_data values (2816, 3201, 9000220);
 insert into wac_present_still_data values (2816, 3511, 9000221);
 insert into wac_present_still_data values (2816, 3791, 9000224);
+insert into wac_present_still_data values (2816, 4091, 9000226);

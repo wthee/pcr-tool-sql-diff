@@ -135,6 +135,7 @@ insert into voice_group values (20137, 'ランファ＆チカ', 118101001, 10420
 insert into voice_group values (20138, 'ヴァンピィ＆イリヤ', 122301001, 104401001, 0, 0, 0);
 insert into voice_group values (20139, 'ネア＆ランファ', 123301001, 118101001, 0, 0, 0);
 insert into voice_group values (20140, 'ネア＆キョウカ', 123301001, 103601001, 0, 0, 0);
+insert into voice_group values (20141, 'ネア＆ミソラ', 123301001, 118201001, 0, 0, 0);
 insert into voice_group values (20142, 'ネア＆キャル', 123301001, 106001001, 0, 0, 0);
 insert into voice_group values (20143, 'アメス＆コッコロ', 123001001, 105901001, 0, 0, 0);
 insert into voice_group values (20144, 'アメス＆ユイ', 123001001, 100201001, 0, 0, 0);
@@ -149,6 +150,8 @@ insert into voice_group values (20152, '覇瞳皇帝＆キャル', 106901001, 10
 insert into voice_group values (20153, '覇瞳皇帝＆ラビリスタ', 106901001, 106801001, 0, 0, 0);
 insert into voice_group values (20154, '覇瞳皇帝＆クリス', 106901001, 107101001, 0, 0, 0);
 insert into voice_group values (20155, '覇瞳皇帝＆ネネカ', 106901001, 107001001, 0, 0, 0);
+insert into voice_group values (20156, 'ミソラ＆ランファ', 118201001, 118101001, 0, 0, 0);
+insert into voice_group values (20157, 'ミソラ＆ムイミ', 118201001, 106101001, 0, 0, 0);
 insert into voice_group values (30001, 'ヒヨリ（カリン掛け合い用）', 118501001, 300101001, 0, 0, 0);
 insert into voice_group values (30002, 'ユイ（カリン掛け合い用）', 118501001, 300201001, 0, 0, 0);
 insert into voice_group values (30003, 'レイ（カリン掛け合い用）', 118501001, 300301001, 0, 0, 0);

@@ -10,3 +10,5 @@ insert into travel_ex_event_data values (8000007, '迷える悪魔の狂詩曲',
 insert into travel_ex_event_data values (8000008, '『急がば舞い上がれ』ですね！', 9);
 insert into travel_ex_event_data values (8000009, 'エルフたちのためのニギヤカ大冒険', 10);
 insert into travel_ex_event_data values (8000010, '前途多難の冒険レクチャー？', 11);
+insert into travel_ex_event_data values (8000011, 'ナイツ・オン・ザ・シー', 12);
+insert into travel_ex_event_data values (8000012, '冒険は山あり「谷」あり', 13);

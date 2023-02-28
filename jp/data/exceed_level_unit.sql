@@ -163,6 +163,7 @@ insert into exceed_level_unit values (1117801, 117801, 1, 41178, 31178, 2, 40, 9
 insert into exceed_level_unit values (1117901, 117901, 1, 41179, 31179, 2, 120, 94000, 12, 20000000, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into exceed_level_unit values (1118001, 118001, 1, 41180, 31180, 2, 40, 94000, 12, 30000000, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into exceed_level_unit values (1118101, 118101, 1, 41181, 31181, 2, 40, 94000, 12, 30000000, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into exceed_level_unit values (1118201, 118201, 1, 41182, 31182, 2, 40, 94000, 12, 30000000, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into exceed_level_unit values (1118501, 118501, 1, 41185, 31185, 2, 40, 94000, 12, 30000000, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into exceed_level_unit values (1119001, 119001, 1, 41190, 31190, 2, 120, 94000, 12, 20000000, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into exceed_level_unit values (1119101, 119101, 1, 41191, 31191, 2, 120, 94000, 12, 20000000, 0, 0, 0, 0, 0, 0, 0, 0, 0);

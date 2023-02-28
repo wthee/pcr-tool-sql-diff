@@ -71,3 +71,5 @@ insert into dear_chara values (10102, 2, 'リン', 1000, 1, 123501, 0, 0, 0, 0, 
 insert into dear_chara values (10102, 3, 'ナナカ', 1000, 1, 123701, 0, 0, 0, 0, 0);
 insert into dear_chara values (10104, 1, 'マツリ', 1000, 1, 123901, 0, 0, 0, 0, 0);
 insert into dear_chara values (10104, 2, 'クリスティーナ', 1000, 1, 123801, 0, 0, 0, 0, 0);
+insert into dear_chara values (10114, 1, 'モニカ', 1000, 1, 125201, 0, 0, 0, 0, 0);
+insert into dear_chara values (10114, 2, 'タマキ', 1000, 1, 125101, 0, 0, 0, 0, 0);

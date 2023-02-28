@@ -163,6 +163,7 @@ insert into unit_background values (117801, 'ニノン（ハロウィン）', 50
 insert into unit_background values (117901, 'スズナ（ハロウィン）', 505035, 'ランドソル_繁華街_ハロウィン_夜', 0.0, 4);
 insert into unit_background values (118001, 'クレジッタ', 501070, 'ランドソル_王城周辺_執務室', 0.0, 4);
 insert into unit_background values (118101, 'ランファ', 501040, 'レイジ・レギオン拠点', 0.0, 4);
+insert into unit_background values (118201, 'ミソラ', 501040, 'レイジ・レギオン拠点', 0.0, 4);
 insert into unit_background values (118501, 'カリン', 500371, 'ランドソル_お役所', 0.0, 4);
 insert into unit_background values (119001, 'イオ（ノワール）', 501450, 'ノワールのアジト', 0.0, 4);
 insert into unit_background values (119101, 'クウカ（ノワール）', 501450, 'ノワールのアジト', 0.0, 4);
