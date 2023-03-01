@@ -39,3 +39,5 @@ insert into ailment_data values (37, 11, 2, '混亂（另計）');
 insert into ailment_data values (38, 8, 13, '結晶化');
 insert into ailment_data values (39, 83, 1, '緩速(可加成)');
 insert into ailment_data values (40, 83, 2, '加速(可加成)');
+insert into ailment_data values (41, 49, 3, '消除增益');
+insert into ailment_data values (42, 49, 10, '消除護盾');

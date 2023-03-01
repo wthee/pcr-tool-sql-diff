@@ -1,1 +1,18 @@
 CREATE TABLE 'travel_quest_result_group' ('id' INTEGER NOT NULL, 'situation_group_id' INTEGER NOT NULL, 'situation_id' INTEGER NOT NULL, PRIMARY KEY('id'));
+insert into travel_quest_result_group values (1, 1, 101);
+insert into travel_quest_result_group values (2, 1, 103);
+insert into travel_quest_result_group values (3, 1, 105);
+insert into travel_quest_result_group values (4, 2, 101);
+insert into travel_quest_result_group values (5, 2, 102);
+insert into travel_quest_result_group values (6, 2, 103);
+insert into travel_quest_result_group values (7, 2, 105);
+insert into travel_quest_result_group values (8, 3, 101);
+insert into travel_quest_result_group values (9, 3, 102);
+insert into travel_quest_result_group values (10, 3, 103);
+insert into travel_quest_result_group values (11, 4, 101);
+insert into travel_quest_result_group values (12, 4, 103);
+insert into travel_quest_result_group values (13, 4, 104);
+insert into travel_quest_result_group values (14, 4, 105);
+insert into travel_quest_result_group values (15, 5, 103);
+insert into travel_quest_result_group values (16, 5, 104);
+insert into travel_quest_result_group values (17, 5, 105);

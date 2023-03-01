@@ -216,3 +216,5 @@ insert into odds_name_data values (1010202, '1010220102', '七七香的記憶碎
 insert into odds_name_data values (1010203, 'box_rank_9-17', '隨機裝備箱', 99002, '能夠獲得隨機的裝備。');
 insert into odds_name_data values (1010301, '1010320101', '妮諾（萬聖節）的記憶碎片', 99002, '');
 insert into odds_name_data values (1010302, '1010320102', '純的記憶碎片', 99002, '');
+insert into odds_name_data values (1010401, '1010420101', '智的記憶碎片', 99002, '');
+insert into odds_name_data values (1010402, '1010420102', '茉莉的記憶碎片', 99002, '');
