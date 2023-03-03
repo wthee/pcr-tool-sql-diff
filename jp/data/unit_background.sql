@@ -209,6 +209,7 @@ insert into unit_background values (124701, 'ミツキ（ニューイヤー）',
 insert into unit_background values (124801, 'ノゾミ（リベレイター）', 500033, 'ランドソル_繁華街_祭_昼', 0.0, 2);
 insert into unit_background values (124901, 'カヤ（リベレイター）', 500033, 'ランドソル_繁華街_祭_昼', 0.0, 4);
 insert into unit_background values (125001, 'ムイミ（リベレイター）', 500033, 'ランドソル_繁華街_祭_昼', 0.0, 2);
+insert into unit_background values (125101, 'タマキ（カフェ）', 501950, 'ランドソル_飲食店内_猫カフェ_昼', 0.0, 4);
 insert into unit_background values (180101, 'ヒヨリ（プリンセス）', 500130, 'エステレラ街道', 0.0, 2);
 insert into unit_background values (180201, 'ユイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 4);
 insert into unit_background values (180301, 'レイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 3);
