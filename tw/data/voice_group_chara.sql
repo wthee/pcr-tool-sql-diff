@@ -62,7 +62,7 @@ insert into voice_group_chara values (106601001, '龍族巢穴（祈梨）', 106
 insert into voice_group_chara values (106701001, '龍族巢穴（帆希）', 106701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (106801001, '拉比林斯（拉比林斯達）', 106801, 121201, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (107001001, '？？？（似似花）', 107001, 115001, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (107101001, '王宮騎士團（克莉絲提娜）', 107101, 111501, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (107101001, '王宮騎士團（克莉絲提娜）', 107101, 111501, 123801, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (109201001, '馬納歷亞（安）', 109201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (109301001, '馬納歷亞（露）', 109301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (109401001, '馬納歷亞（古蕾婭）', 109401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -260,6 +260,7 @@ insert into voice_group_chara values (323301001, '涅婭（花凜對話用）', 
 insert into voice_group_chara values (323501001, '鈴（萬聖節）（花凜對話用）', 123501, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (323601001, '智（萬聖節）（花凜對話用）', 123601, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (323701001, '七七香（萬聖節）（花凜對話用）', 123701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (323801001, '克莉絲提娜（狂野）（花凜對話用）', 123801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380101001, '日和（公主）（花凜對話用）', 180101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380201001, '優衣（公主）（花凜對話用）', 180201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380301001, '怜（公主）（花凜對話用）', 180301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
