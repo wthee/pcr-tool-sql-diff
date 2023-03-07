@@ -1,0 +1,1 @@
+CREATE INDEX 'quest_data_0_area_id' on 'quest_data'('area_id')

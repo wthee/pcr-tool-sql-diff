@@ -1,0 +1,1 @@
+CREATE INDEX 'byway_delivery_quest_data_0_quest_id' on 'byway_delivery_quest_data'('quest_id')

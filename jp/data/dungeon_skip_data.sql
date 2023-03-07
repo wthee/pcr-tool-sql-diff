@@ -7,3 +7,4 @@ insert into dungeon_skip_data values (31005, 301700, 101611, 0, -10, 0.9, 0.9);
 insert into dungeon_skip_data values (31006, 310100, 102174, 0, -40, 0.7, 0.7);
 insert into dungeon_skip_data values (31007, 399800, 102751, -80, -60, 0.3, 0.3);
 insert into dungeon_skip_data values (31008, 314901, 103001, -20, 20, 0.9, 0.9);
+insert into dungeon_skip_data values (31009, 318405, 103232, 30, -110, 0.7, 0.7);

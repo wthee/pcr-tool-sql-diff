@@ -1,0 +1,1 @@
+CREATE INDEX 'spot_drama_script_data_0_drama_id' on 'spot_drama_script_data'('drama_id')

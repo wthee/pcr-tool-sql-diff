@@ -1,0 +1,1 @@
+CREATE INDEX 'quest_area_data_0_map_type' on 'quest_area_data'('map_type')
