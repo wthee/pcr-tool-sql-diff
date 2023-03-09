@@ -994,3 +994,5 @@ insert into emblem_mission_reward_data values (1109, 56011673, 15, 10201673, 1, 
 insert into emblem_mission_reward_data values (1110, 56011674, 15, 10201674, 1, 1002);
 insert into emblem_mission_reward_data values (1111, 56011675, 15, 10201675, 1, 1003);
 insert into emblem_mission_reward_data values (1112, 56011675, 8, 91002, 50, 0);
+insert into emblem_mission_reward_data values (1113, 56011676, 15, 10201676, 1, 1003);
+insert into emblem_mission_reward_data values (1114, 56011676, 8, 91002, 100, 0);

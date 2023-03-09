@@ -581,6 +581,10 @@ insert into chara_story_status values (1064005, '雪菲のエピソード第5話
 insert into chara_story_status values (1064006, '雪菲のエピソード第6話', 2, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1064, 1207, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1064007, '雪菲のエピソード第7話', 2, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1064, 1207, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1064008, '雪菲のエピソード第8話', 2, 90, 6, 10, 0, 0, 0, 0, 0, 0, 1064, 1207, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1064009, '雪菲のエピソード第9話', 2, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1064, 1207, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1064010, '雪菲のエピソード第10話', 2, 80, 6, 40, 0, 0, 0, 0, 0, 0, 1064, 1207, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1064011, '雪菲のエピソード第11話', 2, 80, 6, 40, 0, 0, 0, 0, 0, 0, 1064, 1207, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1064012, '雪菲のエピソード第12話', 2, 200, 6, 60, 0, 0, 0, 0, 0, 0, 1064, 1207, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1065002, '嘉夜のエピソード第2話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1065, 1166, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1065003, '嘉夜のエピソード第3話', 2, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1065, 1166, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1065004, '嘉夜のエピソード第4話', 2, 30, 0, 0, 0, 0, 0, 0, 0, 0, 1065, 1166, 0, 0, 0, 0, 0, 0, 0, 0);
