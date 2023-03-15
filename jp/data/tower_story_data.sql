@@ -24,3 +24,4 @@ insert into tower_story_data values (7022, 7, 22, '超能力×魔法＝超魔法
 insert into tower_story_data values (7023, 7, 23, 'チアアップ・ヒーローズ！', 0, 1, '2022/03/17 12:00:00', '2030/04/24 14:59:59');
 insert into tower_story_data values (7024, 7, 24, '変貌大妃と（元）悪徳商人', 0, 1, '2022/06/17 12:00:00', '2030/04/24 14:59:59');
 insert into tower_story_data values (7025, 7, 25, '激闘！\u3000交わる竜獣の拳', 0, 1, '2022/10/18 12:00:00', '2030/04/24 14:59:59');
+insert into tower_story_data values (7026, 7, 26, 'ロンリーガールズ交流会', 0, 1, '2023/03/17 12:00:00', '2030/04/24 14:59:59');

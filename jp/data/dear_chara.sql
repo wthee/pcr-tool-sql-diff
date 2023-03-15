@@ -51,7 +51,7 @@ insert into dear_chara values (20035, 2, 'マホ', 1000, 1, 116001, 0, 0, 0, 0, 
 insert into dear_chara values (20035, 3, 'マコト', 1000, 1, 115901, 0, 0, 0, 0, 5061003);
 insert into dear_chara values (20037, 1, 'イノリ', 1000, 1, 116501, 0, 0, 0, 0, 0);
 insert into dear_chara values (20037, 2, 'カヤ', 1000, 1, 116601, 0, 0, 0, 0, 0);
-insert into dear_chara values (10095, 1, 'アオイ', 1000, 1, 116701, 0, 0, 0, 0, 0);
+insert into dear_chara values (20038, 1, 'アオイ', 1000, 1, 116701, 0, 0, 0, 0, 0);
 insert into dear_chara values (10103, 1, 'カオリ', 1000, 1, 117701, 0, 0, 0, 0, 0);
 insert into dear_chara values (10103, 2, 'ニノン', 1000, 1, 117801, 0, 0, 0, 0, 0);
 insert into dear_chara values (10103, 3, 'スズナ', 1000, 1, 117901, 0, 0, 0, 0, 0);

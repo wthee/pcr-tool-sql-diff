@@ -30,3 +30,4 @@ insert into visual_customize values (10028, 1005, 1001, 1005, 1, 1, 1008, 0, '20
 insert into visual_customize values (10029, 1005, 1002, 1005, 2, 2, 1008, 2015009, '2023/02/15 15:00:00', '2023/02/28 11:59:59');
 insert into visual_customize values (10030, 0, 1001, 0, 1, 1, 0, 0, '2023/02/28 12:00:00', '2030/08/15 14:59:59');
 insert into visual_customize values (10031, 0, 1002, 0, 2, 2, 0, 2015009, '2023/02/28 12:00:00', '2030/08/15 14:59:59');
+insert into visual_customize values (10032, 0, 1003, 0, 3, 2, 0, 2201005, '2023/03/15 12:00:00', '2023/08/15 14:59:59');

@@ -261,3 +261,6 @@ insert into music_content values (259, '不確かな未来でも', '1:17', '0:00
 insert into music_content values (260, '楽園の守護者', '2:12', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 02:12\\n作曲 / 西木康智\\n編曲 / 佐藤遥（Cygames）', 'bgm_M664', 'bgm_M664_juke');
 insert into music_content values (261, '久遠の園を象る者', '3:26', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 03:26\\n作曲 / 畑田浩孝（Cygames）\\n編曲 / 畑田浩孝（Cygames）', 'bgm_M665', 'bgm_M665_juke');
 insert into music_content values (262, 'ネバールーズアゲイン', '1:22', '0:42', 'キャラクターソング\\n\\n時間 / 01:22\\n歌\u3000 / ムイミ（潘めぐみ）\\n作詞 / 稲葉エミ\\n作曲 / 奥井康介\\n編曲 / 奥井康介', 'bgm_M667', 'bgm_M667');
+insert into music_content values (263, '猫と駄菓子の喫茶店\u3000カフェ・ナッシュカッツェにようこそ', '1:39', '0:00', 'ストーリーイベントテーマ\\n-｢にゃんだフルスウィング｣アレンジ-\\n\\n時間 / 01:39\\n作曲 / TAKT (TRYTONELABO)\\n編曲 / 佐藤遥（Cygames）', 'bgm_M668', 'bgm_M668_juke');
+insert into music_content values (264, '願福寄災の招き猫', '1:34', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 01:34\\n作曲 / 多田彰文\\n編曲 / 多田彰文', 'bgm_M671', 'bgm_M671_juke');
+insert into music_content values (265, 'にゃんだフルスウィング', '1:35', '0:51', 'キャラクターソング\\n\\n時間 / 01:35\\n歌\u3000 / タマキ（沼倉愛美）\\n作詞 / TAKT (TRYTONELABO)\\n作曲 / TAKT (TRYTONELABO)\\n編曲 / TAKT (TRYTONELABO)', 'bgm_M674', 'bgm_M674');
