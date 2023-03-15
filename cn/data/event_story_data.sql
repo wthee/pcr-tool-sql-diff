@@ -11,7 +11,7 @@ insert into event_story_data values (5009, 5, 20009, '忘却的圣歌', 0, 1, '2
 insert into event_story_data values (5010, 5, 20010, '新春破晓之星大危机', 0, 1, '2021/01/14 15:00:00', '2099/12/31 23:59:59');
 insert into event_story_data values (5011, 5, 20011, '情人节之战！正中红心的甜蜜战斗', 0, 1, '2022/02/10 15:00:00', '2099/12/31 23:59:59');
 insert into event_story_data values (5012, 5, 20012, '王都的名侦探\u3000叹息的追踪者（STALKER）', 0, 1, '2021/03/11 15:00:00', '2099/12/31 23:59:59');
-insert into event_story_data values (5013, 5, 10039, '盛开在阿斯特莱亚的双轮之花', 0, 1, '2021/05/13 15:00:00', '2099/12/31 23:59:59');
+insert into event_story_data values (5013, 5, 20013, '盛开在阿斯特莱亚的双轮之花', 0, 1, '2021/05/13 15:00:00', '2099/12/31 23:59:59');
 insert into event_story_data values (5015, 5, 10041, '将军道中记\u3000白翼的武士', 0, 1, '2021/06/07 15:00:00', '2099/12/31 23:59:59');
 insert into event_story_data values (5017, 5, 10053, 'Re: 从零开始收集的异世界餐桌', 0, 1, '2021/04/14 15:00:00', '2099/12/31 23:59:59');
 insert into event_story_data values (5019, 5, 10043, '铃奈的RAINBOW STAGE！', 0, 1, '2021/07/09 15:00:00', '2099/12/31 23:59:59');
@@ -37,3 +37,4 @@ insert into event_story_data values (5056, 5, 10056, '新春美食公主！\u300
 insert into event_story_data values (5058, 5, 10058, '情相连。心相系。', 0, 1, '2023/01/25 15:00:00', '2099/12/31 23:59:59');
 insert into event_story_data values (5059, 5, 10059, '情相连。心相系。', 0, 1, '2023/01/25 15:00:00', '2099/12/31 23:59:59');
 insert into event_story_data values (5061, 5, 10061, '灰姑娘课程\u3000璀璨的日子是苹果的滋味', 0, 1, '2023/02/24 15:00:00', '2099/12/31 23:59:59');
+insert into event_story_data values (5064, 5, 10064, '钢铁圣女与神圣学院的问题儿童', 0, 1, '2023/03/27 15:00:00', '2099/12/31 23:59:59');

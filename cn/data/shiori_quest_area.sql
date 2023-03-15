@@ -26,3 +26,6 @@ insert into shiori_quest_area values (20011102, 20011, '厨房竞技场', 201, '
 insert into shiori_quest_area values (20011201, 20011, '厨房竞技场', 201, 'bgm_M189', 'bgm_M189', 1, 1, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20012101, 20012, '王都兰德索尔', 201, 'bgm_M206', 'bgm_M206', 1, 1, 115, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20012201, 20012, '王都兰德索尔', 201, 'bgm_M206', 'bgm_M206', 1, 1, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20013101, 20013, '加斯特罗斯山', 201, 'bgm_M215', 'bgm_M215', 1, 1, 100, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20013102, 20013, '光之裂缝', 201, 'bgm_M215', 'bgm_M215', 1, 2, 0, 0, 1, '202', '208', 11);
+insert into shiori_quest_area values (20013201, 20013, '光之裂缝', 201, 'bgm_M215', 'bgm_M215', 1, 1, 0, 0, 0, '0', '0', 0);

@@ -115,3 +115,4 @@ insert into unit_introduction values (117, 50119, 2, '2023/02/28 11:00:00', '202
 insert into unit_introduction values (118, 30120, 1, '2023/03/03 18:00:00', '2023/03/12 10:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (119, 30121, 1, '2023/03/08 11:00:00', '2023/03/24 10:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (120, 30122, 1, '2023/03/12 11:00:00', '2023/03/22 10:59:59', 380000, 380000, 0, 0, 0, 0);
+insert into unit_introduction values (121, 30123, 1, '2023/03/22 11:00:00', '2023/03/31 10:59:59', 380000, 380000, 0, 0, 0, 0);
