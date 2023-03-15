@@ -61,6 +61,7 @@ insert into unit_background values (106501, '嘉夜', 500833, '叢林_帳篷', 0
 insert into unit_background values (106601, '祈梨', 500833, '叢林_帳篷', 0.0, 4);
 insert into unit_background values (106701, '帆稀', 501320, '帆稀的房間', 0.0, 2);
 insert into unit_background values (106801, '模索路晶', 500030, '蘭德索爾 鬧區', 0.0, 18);
+insert into unit_background values (106901, '霸瞳皇帝', 500100, '蘭德索爾王城_王座之廳', 0.0, 2);
 insert into unit_background values (107001, '似似花', 500341, '拉比林斯的公會據點', 0.0, 2);
 insert into unit_background values (107101, '克莉絲提娜‧摩根', 500090, '蘭德索爾 王城入口', 0.0, 2);
 insert into unit_background values (107501, '貪吃佩可（夏日）', 500164, '瑪爾傑海岸', 0.0, 4);

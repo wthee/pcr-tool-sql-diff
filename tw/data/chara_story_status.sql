@@ -609,6 +609,9 @@ insert into chara_story_status values (1067008, '帆稀のエピソード第8話
 insert into chara_story_status values (1068002, '拉比林斯達のエピソード第2話', 2, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1068, 1212, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1068003, '拉比林斯達のエピソード第3話', 2, 80, 11, 60, 0, 0, 0, 0, 0, 0, 1068, 1212, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1068004, '拉比林斯達のエピソード第4話', 2, 120, 11, 150, 0, 0, 0, 0, 0, 0, 1068, 1212, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1069002, '霸瞳皇帝のエピソード第2話', 2, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1069, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1069003, '霸瞳皇帝のエピソード第3話', 2, 100, 0, 0, 0, 0, 0, 0, 0, 0, 1069, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_story_status values (1069004, '霸瞳皇帝のエピソード第4話', 2, 150, 6, 10, 0, 0, 0, 0, 0, 0, 1069, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1070002, '似似花のエピソード第2話', 4, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1070, 1150, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1070003, '似似花のエピソード第3話', 4, 80, 11, 60, 0, 0, 0, 0, 0, 0, 1070, 1150, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_story_status values (1070004, '似似花のエピソード第4話', 4, 120, 11, 150, 0, 0, 0, 0, 0, 0, 1070, 1150, 0, 0, 0, 0, 0, 0, 0, 0);

@@ -61,6 +61,7 @@ insert into unlock_unit_condition values (106501, '嘉夜', 1, 0, 1, 2, 31065, 1
 insert into unlock_unit_condition values (106601, '祈梨', 1, 0, 1, 2, 31066, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (106701, '帆稀', 1, 0, 1, 2, 31067, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (106801, '拉比林斯達', 1, 0, 1, 2, 31068, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
+insert into unlock_unit_condition values (106901, '霸瞳皇帝', 1, 0, 1, 2, 31069, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (107001, '似似花', 1, 0, 1, 2, 31070, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (107101, '克莉絲提娜', 1, 0, 1, 2, 31071, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (107501, '貪吃佩可（夏日）', 1, 0, 1, 2, 31075, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);

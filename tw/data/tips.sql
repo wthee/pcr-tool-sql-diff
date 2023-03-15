@@ -60,6 +60,7 @@ insert into tips values (4106401, 106401, 1, '不是啦');
 insert into tips values (4106601, 106601, 1, '下剋上');
 insert into tips values (4106701, 106701, 1, '祕密的作者');
 insert into tips values (4106801, 106801, 1, '手藝');
+insert into tips values (4106901, 106901, 1, '捏呀捏');
 insert into tips values (4107001, 107001, 1, '整人大成功');
 insert into tips values (4107101, 107101, 1, '無聊啊……');
 insert into tips values (4109201, 109201, 1, '興致勃勃');

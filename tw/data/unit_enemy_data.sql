@@ -1138,6 +1138,7 @@ insert into unit_enemy_data values (606601, '祈梨的闇影', 106601, 3, 3, 450
 insert into unit_enemy_data values (606602, '祈梨的闇影', 106601, 3, 3, 450, 300, 1, 1.55, 0, 0, 1, '有著祈梨樣貌的特殊魔物');
 insert into unit_enemy_data values (606701, '帆稀的闇影', 106701, 21, 7, 450, 727, 2, 2.27, 0, 0, 1, '有著帆稀樣貌的特殊魔物');
 insert into unit_enemy_data values (606801, '拉比林斯達的闇影', 106801, 4, 4, 450, 560, 1, 1.55, 0, 0, 1, '有著拉比林斯達樣貌的特殊魔物');
+insert into unit_enemy_data values (606901, '霸瞳皇帝的闇影', 106901, 0, 0, 450, 660, 1, 2.0, 0, 0, 1, '有著霸瞳皇帝樣貌的特殊魔物');
 insert into unit_enemy_data values (607001, '似似花的闇影', 107001, 0, 0, 450, 660, 2, 2.0, 0, 0, 1, '有著似似花樣貌的特殊魔物');
 insert into unit_enemy_data values (607101, '克莉絲提娜的闇影', 107101, 10, 4, 450, 290, 1, 2.0, 0, 0, 1, '有著克莉絲提娜樣貌的特殊魔物');
 insert into unit_enemy_data values (607501, '貪吃佩可（夏日）的闇影', 107501, 5, 5, 450, 235, 1, 2.125, 0, 0, 1, '有著貪吃佩可（夏日）樣貌的特殊魔物');

@@ -61,6 +61,7 @@ insert into chara_identity values (106501, 65, 0, 0);
 insert into chara_identity values (106601, 66, 0, 0);
 insert into chara_identity values (106701, 67, 0, 0);
 insert into chara_identity values (106801, 68, 0, 0);
+insert into chara_identity values (106901, 69, 0, 0);
 insert into chara_identity values (107001, 70, 0, 0);
 insert into chara_identity values (107101, 71, 0, 0);
 insert into chara_identity values (107501, 58, 0, 0);
