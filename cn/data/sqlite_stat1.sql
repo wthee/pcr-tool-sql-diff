@@ -145,7 +145,7 @@ insert into sqlite_stat1 values ('hatsune_multi_route_parameter', 'hatsune_multi
 insert into sqlite_stat1 values ('hatsune_multi_route_parameter', 'hatsune_multi_route_parameter_0_quest_id', '20 2');
 insert into sqlite_stat1 values ('hatsune_boss_condition', None, '269');
 insert into sqlite_stat1 values ('sekai_enemy_parameter', None, '6');
-insert into sqlite_stat1 values ('clan_battle_period_rank_reward', None, '555');
+insert into sqlite_stat1 values ('clan_battle_period_rank_reward', None, '570');
 insert into sqlite_stat1 values ('event_story_detail', 'event_story_detail_0_story_group_id', '322 9');
 insert into sqlite_stat1 values ('worldmap', None, '4');
 insert into sqlite_stat1 values ('training_quest_data', None, '22');
