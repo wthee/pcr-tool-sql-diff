@@ -102,4 +102,5 @@ insert into event_gacha_data values (10101, 10101, '大江戶的非法病歷\u30
 insert into event_gacha_data values (10102, 10102, '點讚！最愛！大集合！\u3000至高祭典與少女秘密的本命任務', 2, 61012, 1, 6);
 insert into event_gacha_data values (10103, 10103, '萬聖節拯救隊大亂鬥！\u3000捕獲毛茸茸大作戰', 2, 61022, 1, 6);
 insert into event_gacha_data values (10104, 10104, '部族精神\u3000高揭之劍與榮耀和平之橋', 2, 61032, 1, 6);
+insert into event_gacha_data values (10105, 10105, '魔法少女外傳\u3000黑暗魔法★三人組！', 2, 61042, 1, 6);
 insert into event_gacha_data values (19003, 10003, '吸血鬼獵人 with伊莉亞', 2, 60022, 1, 5);
