@@ -103,6 +103,7 @@ insert into tips values (4118201, 118201, 1, '機銃掃射');
 insert into tips values (4118501, 118501, 1, '素敵な仲間');
 insert into tips values (4119001, 119001, 1, '闇の授業');
 insert into tips values (4119101, 119101, 1, '高まる');
+insert into tips values (4120001, 120001, 1, '平和を守るお姉ちゃん');
 insert into tips values (4121301, 121301, 1, '開演直前');
 insert into tips values (4121401, 121401, 1, 'セクシーアピール');
 insert into tips values (4121501, 121501, 1, 'ライバル出現？');
