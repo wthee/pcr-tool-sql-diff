@@ -216,3 +216,4 @@ insert into unit_introduction values (219, 30226, 1, '2023/03/01 16:00:00', '202
 insert into unit_introduction values (220, 30227, 1, '2023/03/04 16:00:00', '2023/03/12 15:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (221, 30228, 1, '2023/03/12 16:00:00', '2023/03/15 15:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (222, 30229, 1, '2023/03/15 16:00:00', '2023/03/19 15:59:59', 380000, 380000, 0, 0, 0, 0);
+insert into unit_introduction values (223, 30230, 1, '2023/03/19 16:00:00', '2023/03/28 15:59:59', 380000, 380000, 0, 0, 0, 0);

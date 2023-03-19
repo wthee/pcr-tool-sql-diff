@@ -469,3 +469,4 @@ insert into gacha_exchange_lineup values (473, 227, 123801, 3, 1094, '2023/03/04
 insert into gacha_exchange_lineup values (474, 228, 121501, 3, 0, '2023/03/12 16:00:00', '2023/03/15 15:59:59');
 insert into gacha_exchange_lineup values (475, 229, 107801, 3, 0, '2023/03/15 16:00:00', '2023/03/19 15:59:59');
 insert into gacha_exchange_lineup values (476, 229, 107501, 3, 0, '2023/03/15 16:00:00', '2023/03/19 15:59:59');
+insert into gacha_exchange_lineup values (477, 230, 123901, 3, 1095, '2023/03/19 16:00:00', '2023/03/28 15:59:59');
