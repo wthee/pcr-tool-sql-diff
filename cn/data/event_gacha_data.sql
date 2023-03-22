@@ -61,4 +61,5 @@ insert into event_gacha_data values (10060, 10060, '魔法少女\u3000二人是M
 insert into event_gacha_data values (10061, 10061, '灰姑娘课程\u3000璀璨的日子有着苹果的滋味', 2, 60602, 1, 6);
 insert into event_gacha_data values (10062, 10062, '星光公主\u3000Re:M@STER！', 2, 60612, 1, 5);
 insert into event_gacha_data values (10063, 10063, '星光公主\u3000Re:M@STER！', 2, 60612, 1, 5);
+insert into event_gacha_data values (10064, 10064, '钢铁圣女与神圣学院的问题儿童', 2, 60632, 1, 6);
 insert into event_gacha_data values (19003, 10003, '吸血鬼猎人with伊莉亚讨伐证交换', 2, 60022, 1, 5);
