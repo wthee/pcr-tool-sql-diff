@@ -262,6 +262,14 @@ insert into enemy_m_parts values (401602504, 'ソードコブラ 5段階目', 40
 insert into enemy_m_parts values (401602604, 'ソードコブラ 1段階目 シングルモード', 401602605, 401602606, 401602607, 0, 0);
 insert into enemy_m_parts values (401602704, 'ソードコブラ 2段階目 シングルモード', 401602705, 401602706, 401602707, 0, 0);
 insert into enemy_m_parts values (401602804, 'ソードコブラ 3段階目 シングルモード', 401602805, 401602806, 401602807, 0, 0);
+insert into enemy_m_parts values (401603103, 'ライデン 1段階目', 401603104, 401603105, 401603106, 0, 0);
+insert into enemy_m_parts values (401603203, 'ライデン 2段階目', 401603204, 401603205, 401603206, 0, 0);
+insert into enemy_m_parts values (401603303, 'ライデン 3段階目', 401603304, 401603305, 401603306, 0, 0);
+insert into enemy_m_parts values (401603403, 'ライデン 4段階目', 401603404, 401603405, 401603406, 0, 0);
+insert into enemy_m_parts values (401603503, 'ライデン 5段階目', 401603504, 401603505, 401603506, 0, 0);
+insert into enemy_m_parts values (401603603, 'ライデン 1段階目 シングルモード', 401603604, 401603605, 401603606, 0, 0);
+insert into enemy_m_parts values (401603703, 'ライデン 2段階目 シングルモード', 401603704, 401603705, 401603706, 0, 0);
+insert into enemy_m_parts values (401603803, 'ライデン 3段階目 シングルモード', 401603804, 401603805, 401603806, 0, 0);
 insert into enemy_m_parts values (501010601, 'ラースドラゴン', 501010602, 501010603, 501010604, 0, 0);
 insert into enemy_m_parts values (501010701, '黒月の守護像', 501010702, 501010703, 501010704, 0, 0);
 insert into enemy_m_parts values (501010705, '白陽の守護像', 501010706, 501010707, 501010708, 0, 0);
