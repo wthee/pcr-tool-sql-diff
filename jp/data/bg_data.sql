@@ -169,3 +169,4 @@ insert into bg_data values ('HATSUNE_DSB', 0, 0);
 insert into bg_data values ('HATSUNE_DSB_DRAMA', 0, 0);
 insert into bg_data values ('HATSUNE_DSB_DIARY', 0, 0);
 insert into bg_data values ('DIMENSION_FAULT_TOP', 0, 0);
+insert into bg_data values ('STORY_FBS_DETAIL', 530030, 0);

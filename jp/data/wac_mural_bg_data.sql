@@ -411,3 +411,4 @@ insert into wac_mural_bg_data values (2816, 4061, 14, 1, '-534', '-459');
 insert into wac_mural_bg_data values (2816, 4071, 14, 1, '-459', '-384');
 insert into wac_mural_bg_data values (2816, 4081, 14, 1, '-384', '-308');
 insert into wac_mural_bg_data values (2816, 4091, 14, 1, '-308', '-230');
+insert into wac_mural_bg_data values (2816, 4092, 1, 1, '-200', '-200');
