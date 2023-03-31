@@ -118,3 +118,7 @@ insert into event_effect_setting values (10105, 1, 10078);
 insert into event_effect_setting values (10105, 2, 10078);
 insert into event_effect_setting values (10105, 3, 10078);
 insert into event_effect_setting values (10105, 4, 80002);
+insert into event_effect_setting values (10106, 1, 91101);
+insert into event_effect_setting values (10106, 2, 91101);
+insert into event_effect_setting values (10106, 3, 91101);
+insert into event_effect_setting values (10106, 4, 10074);
