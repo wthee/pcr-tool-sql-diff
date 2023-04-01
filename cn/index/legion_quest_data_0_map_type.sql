@@ -1,0 +1,1 @@
+CREATE INDEX 'legion_quest_data_0_map_type' on 'legion_quest_data'('map_type')

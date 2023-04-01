@@ -1,1 +1,2 @@
 CREATE TABLE 'clan_battle_training_schedule' ('training_id' INTEGER NOT NULL, 'clan_battle_id' INTEGER NOT NULL, 'battle_start_time' TEXT NOT NULL, 'battle_end_time' TEXT NOT NULL, 'interval_start_time' TEXT NOT NULL, 'interval_end_time' TEXT NOT NULL, PRIMARY KEY('training_id'));
+insert into clan_battle_training_schedule values (1038, 1038, '2023/4/20 12:00:00', '2023/04/27 23:59:59', '2023/4/28', '2023/05/23 11:59:59');

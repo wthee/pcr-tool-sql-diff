@@ -90,6 +90,7 @@ insert into tips values (4170101, 170101, 1, '闪亮登场');
 insert into tips values (4170201, 170201, 1, '努力打年糕');
 insert into tips values (4180101, 180101, 1, '猜拳时间！');
 insert into tips values (4180201, 180201, 1, '点点头');
+insert into tips values (4180301, 180301, 1, '守护之力');
 insert into tips values (4180401, 180401, 1, '力量提升☆');
 insert into tips values (4180501, 180501, 1, '软乎乎');
 insert into tips values (4180601, 180601, 1, '助威声');

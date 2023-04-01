@@ -1,0 +1,1 @@
+CREATE INDEX 'wac_data_0_mural_group_id' on 'wac_data'('mural_group_id')

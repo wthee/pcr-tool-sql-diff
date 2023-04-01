@@ -1,0 +1,18 @@
+CREATE TABLE 'mhp_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'sub_title' TEXT NOT NULL, 'unit_id' INTEGER NOT NULL, 'read_condition_time' TEXT NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_boss_id' INTEGER NOT NULL, 'read_condition' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+insert into mhp_story_data values (1007401, 10074, '若さと微熱', 'ユイのカルテ\u3000その１', 100201, '2021/08/31 12:00:00', 10074106, 0, 0, 8, 91002, 20);
+insert into mhp_story_data values (1007402, 10074, 'この胸の高鳴りを', 'ユイのカルテ\u3000その２', 100201, '2021/08/31 12:00:00', 10074112, 0, 1007401, 8, 91002, 20);
+insert into mhp_story_data values (1007403, 10074, '狂おしき病の名は', 'ユイのカルテ\u3000その３', 100201, '2021/09/02 5:00:00', 10074115, 0, 1007402, 8, 91002, 30);
+insert into mhp_story_data values (1007404, 10074, '予期せぬ来訪者', 'ユニのカルテ\u3000その１', 111001, '2021/08/31 12:00:00', 10074106, 0, 0, 8, 91002, 20);
+insert into mhp_story_data values (1007405, 10074, 'お薬の時間', 'ユニのカルテ\u3000その２', 111001, '2021/08/31 12:00:00', 10074112, 0, 1007404, 8, 91002, 20);
+insert into mhp_story_data values (1007406, 10074, '親愛なるあなたへ', 'ユニのカルテ\u3000その３', 111001, '2021/09/03 5:00:00', 10074115, 0, 1007405, 8, 91002, 30);
+insert into mhp_story_data values (1007407, 10074, '奇妙な外来患者', 'スズメのカルテ\u3000その１', 102501, '2021/08/31 12:00:00', 10074108, 0, 0, 8, 91002, 20);
+insert into mhp_story_data values (1007408, 10074, '恐るべき症例', 'スズメのカルテ\u3000その２', 102501, '2021/08/31 12:00:00', 10074114, 0, 1007407, 8, 91002, 20);
+insert into mhp_story_data values (1007409, 10074, '現代医学の限界', 'スズメのカルテ\u3000その３', 102501, '2021/09/04 5:00:00', 10074115, 0, 1007408, 8, 91002, 30);
+insert into mhp_story_data values (1007410, 10074, '夜を統べる者の受難', 'イリヤのカルテ\u3000その１', 104401, '2021/08/31 12:00:00', 10074108, 0, 0, 8, 91002, 20);
+insert into mhp_story_data values (1007411, 10074, '美しきプロデュース', 'イリヤのカルテ\u3000その２', 104401, '2021/08/31 12:00:00', 10074114, 0, 1007410, 8, 91002, 20);
+insert into mhp_story_data values (1007412, 10074, '麗しのレッスン', 'イリヤのカルテ\u3000その３', 104401, '2021/09/05 5:00:00', 10074115, 0, 1007411, 8, 91002, 30);
+insert into mhp_story_data values (1007413, 10074, '見えない敵', 'アンナのカルテ\u3000その１', 100901, '2021/08/31 12:00:00', 10074110, 0, 0, 8, 91002, 20);
+insert into mhp_story_data values (1007414, 10074, '封じられた魔法', 'アンナのカルテ\u3000その２', 100901, '2021/08/31 12:00:00', 10074115, 1007401, 1007413, 8, 91002, 20);
+insert into mhp_story_data values (1007415, 10074, '隻眼の悪魔の特別診療', 'アンナのカルテ\u3000その３', 100901, '2021/09/06 5:00:00', 10074115, 1007401, 1007414, 8, 91002, 30);
+insert into mhp_story_data values (1007416, 10074, 'スカルサプライズ', 'シノブのカルテ\u3000その１', 103101, '2021/08/31 12:00:00', 10074110, 0, 0, 8, 91002, 20);
+insert into mhp_story_data values (1007417, 10074, '迷える少女に救いの手を', 'シノブのカルテ\u3000その２', 103101, '2021/09/01 5:00:00', 10074115, 1007401, 1007416, 8, 91002, 30);

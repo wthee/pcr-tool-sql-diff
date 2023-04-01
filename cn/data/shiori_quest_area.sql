@@ -29,3 +29,5 @@ insert into shiori_quest_area values (20012201, 20012, '王都兰德索尔', 201
 insert into shiori_quest_area values (20013101, 20013, '加斯特罗斯山', 201, 'bgm_M215', 'bgm_M215', 1, 1, 100, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20013102, 20013, '光之裂缝', 201, 'bgm_M215', 'bgm_M215', 1, 2, 0, 0, 1, '202', '208', 11);
 insert into shiori_quest_area values (20013201, 20013, '光之裂缝', 201, 'bgm_M215', 'bgm_M215', 1, 1, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20014101, 20014, '大江户镇', 201, 'bgm_M223', 'bgm_M223', 1, 1, 120, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20014201, 20014, '大江户镇', 201, 'bgm_M223', 'bgm_M223', 1, 1, 0, 0, 0, '0', '0', 0);

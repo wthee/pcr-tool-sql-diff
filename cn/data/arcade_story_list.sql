@@ -13,3 +13,6 @@ insert into arcade_story_list values (5040701, 1005, '和弱小敌人的攻防')
 insert into arcade_story_list values (5040702, 1005, '奶酪的诱惑');
 insert into arcade_story_list values (5040703, 1005, '萌芽的爱情？');
 insert into arcade_story_list values (5040704, 1005, '劳动会一直持续下去');
+insert into arcade_story_list values (5080700, 1008, '通往究极的道路');
+insert into arcade_story_list values (5080701, 1008, '布丁永存');
+insert into arcade_story_list values (9004201, 1009, '以正确答案为目标团结一致！');

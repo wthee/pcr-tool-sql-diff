@@ -1,0 +1,11 @@
+CREATE TABLE 'secret_dungeon_floor_reward' ('dungeon_area_id' INTEGER NOT NULL, 'clear_count' INTEGER NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_num_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_num_2' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_num_3' INTEGER NOT NULL, 'reward_type_4' INTEGER NOT NULL, 'reward_id_4' INTEGER NOT NULL, 'reward_num_4' INTEGER NOT NULL, 'reward_type_5' INTEGER NOT NULL, 'reward_id_5' INTEGER NOT NULL, 'reward_num_5' INTEGER NOT NULL, 'clear_effect_flag' INTEGER NOT NULL, 'icon_type' INTEGER NOT NULL, PRIMARY KEY('dungeon_area_id','clear_count'));
+insert into secret_dungeon_floor_reward values (32001, 5, 2, 90008, 500, 4, 140000, 1, 4, 140001, 2, 2, 90005, 10, 12, 94002, 500000, 1, 1);
+insert into secret_dungeon_floor_reward values (32001, 10, 8, 91002, 200, 4, 140001, 2, 2, 25001, 1, 12, 94002, 500000, 0, 0, 0, 1, 1);
+insert into secret_dungeon_floor_reward values (32001, 15, 2, 90008, 500, 4, 140000, 1, 4, 140001, 2, 2, 90005, 5, 12, 94002, 750000, 1, 2);
+insert into secret_dungeon_floor_reward values (32001, 20, 8, 91002, 300, 4, 140001, 2, 2, 25001, 1, 12, 94002, 750000, 0, 0, 0, 1, 2);
+insert into secret_dungeon_floor_reward values (32001, 25, 2, 90008, 500, 4, 140000, 1, 4, 140001, 2, 2, 90005, 5, 12, 94002, 750000, 1, 2);
+insert into secret_dungeon_floor_reward values (32001, 30, 8, 91002, 500, 4, 140001, 2, 2, 25001, 1, 12, 94002, 750000, 0, 0, 0, 1, 3);
+insert into secret_dungeon_floor_reward values (32001, 35, 2, 90008, 750, 4, 140000, 1, 4, 140001, 2, 2, 90005, 5, 12, 94002, 1000000, 1, 3);
+insert into secret_dungeon_floor_reward values (32001, 40, 2, 90008, 1000, 4, 140001, 2, 2, 25001, 1, 12, 94002, 1000000, 0, 0, 0, 1, 4);
+insert into secret_dungeon_floor_reward values (32001, 45, 2, 90008, 1250, 4, 140000, 1, 4, 140001, 2, 2, 90005, 5, 12, 94002, 2000000, 1, 4);
+insert into secret_dungeon_floor_reward values (32001, 50, 2, 90008, 1500, 4, 140001, 2, 2, 25001, 1, 12, 94002, 2000000, 0, 0, 0, 1, 4);

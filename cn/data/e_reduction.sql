@@ -1,0 +1,10 @@
+CREATE TABLE 'e_reduction' ('id' INTEGER NOT NULL, 'border' INTEGER NOT NULL, 'threshold_1' INTEGER NOT NULL, 'value_1' REAL NOT NULL, 'threshold_2' INTEGER NOT NULL, 'value_2' REAL NOT NULL, 'threshold_3' INTEGER NOT NULL, 'value_3' REAL NOT NULL, 'threshold_4' INTEGER NOT NULL, 'value_4' REAL NOT NULL, 'threshold_5' INTEGER NOT NULL, 'value_5' REAL NOT NULL, PRIMARY KEY('id'));
+insert into e_reduction values (1, 161, 17, 0.0, 13, 0.0, 9, 0.0, 0, 0.0, 0, 0.0);
+insert into e_reduction values (2, 152, 16, 0.0, 12, 0.0, 8, 0.0, 0, 0.0, 0, 0.0);
+insert into e_reduction values (3, 143, 15, 0.0, 11, 0.0, 7, 0.0, 0, 0.0, 0, 0.0);
+insert into e_reduction values (4, 134, 14, 0.0, 10, 0.0, 6, 0.0, 0, 0.0, 0, 0.0);
+insert into e_reduction values (5, 125, 13, 0.0, 9, 0.0, 5, 0.0, 0, 0.0, 0, 0.0);
+insert into e_reduction values (6, 116, 12, 0.0, 8, 0.0, 4, 0.0, 0, 0.0, 0, 0.0);
+insert into e_reduction values (7, 107, 11, 0.0, 7, 0.0, 3, 0.0, 0, 0.0, 0, 0.0);
+insert into e_reduction values (8, 101, 10, 0.0, 6, 0.0, 2, 0.0, 0, 0.0, 0, 0.0);
+insert into e_reduction values (9, 1, 0, 0.0, 0, 0.0, 0, 0.0, 0, 0.0, 0, 0.0);
