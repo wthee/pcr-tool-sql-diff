@@ -449,7 +449,7 @@ insert into sqlite_stat1 values ('shiori_item', None, '14');
 insert into sqlite_stat1 values ('dungeon_area', None, '7');
 insert into sqlite_stat1 values ('arena_defence_reward', None, '1');
 insert into sqlite_stat1 values ('stationary_mission_data', None, '1392');
-insert into sqlite_stat1 values ('banner', None, '155');
+insert into sqlite_stat1 values ('banner', None, '151');
 insert into sqlite_stat1 values ('cgg_gacha_lineup', 'cgg_gacha_lineup_0_gacha_type', '60 20');
 insert into sqlite_stat1 values ('lto_story_data', 'lto_story_data_0_event_id', '1 1');
 insert into sqlite_stat1 values ('dear_chara', 'dear_chara_0_event_id', '50 3');
