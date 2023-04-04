@@ -124,7 +124,7 @@ insert into sqlite_stat1 values ('trial_battle_reward_data', None, '25');
 insert into sqlite_stat1 values ('taq_drama_script', 'taq_drama_script_0_drama_id', '30 6');
 insert into sqlite_stat1 values ('hatsune_diary_script', 'hatsune_diary_script_0_diary_id', '427 31');
 insert into sqlite_stat1 values ('gift_message', None, '122');
-insert into sqlite_stat1 values ('skill_action', None, '8813');
+insert into sqlite_stat1 values ('skill_action', None, '8828');
 insert into sqlite_stat1 values ('kaiser_extermination_reward', None, '4');
 insert into sqlite_stat1 values ('emblem_data', None, '645');
 insert into sqlite_stat1 values ('vote_unit', 'sqlite_autoindex_vote_unit_1', '55 55 1');
