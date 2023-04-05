@@ -1158,6 +1158,11 @@ insert into quest_reward_data values (301010031, 8, 91002, 150, 2, 90007, 1500, 
 insert into quest_reward_data values (301010041, 8, 91002, 150, 2, 90007, 3000, 2, 23001, 6, 0, 0, 0, 0, 0, 0);
 insert into quest_reward_data values (301010051, 8, 91002, 150, 2, 90007, 3000, 2, 23001, 6, 0, 0, 0, 0, 0, 0);
 insert into quest_reward_data values (301010061, 8, 91002, 150, 2, 90007, 3000, 2, 23001, 6, 0, 0, 0, 0, 0, 0);
+insert into quest_reward_data values (320040106, 2, 90009, 300, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into quest_reward_data values (320040107, 2, 90010, 300, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into quest_reward_data values (320040108, 2, 90011, 300, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into quest_reward_data values (320040109, 2, 90009, 600, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into quest_reward_data values (320040110, 18, 4101351, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into quest_reward_data values (501010001, 7, 144, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into quest_reward_data values (501010002, 7, 145, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into quest_reward_data values (501010003, 7, 146, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
