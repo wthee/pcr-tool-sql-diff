@@ -10,7 +10,7 @@ insert into sqlite_stat1 values ('cgg_completion_reward_data', 'cgg_completion_r
 insert into sqlite_stat1 values ('serial_group_data', None, '4');
 insert into sqlite_stat1 values ('ttk_drama', 'ttk_drama_0_drama_id', '62 11');
 insert into sqlite_stat1 values ('hatsune_unlock_story_condition', 'hatsune_unlock_story_condition_0_event_id', '439 9');
-insert into sqlite_stat1 values ('clan_invite_level_group', None, '38');
+insert into sqlite_stat1 values ('clan_invite_level_group', None, '39');
 insert into sqlite_stat1 values ('ssp_story_data', 'ssp_story_data_0_contents_type', '22 6');
 insert into sqlite_stat1 values ('ssp_story_data', 'ssp_story_data_0_original_event_id', '22 22');
 insert into sqlite_stat1 values ('hatsune_special_battle', 'hatsune_special_battle_0_wave_group_id', '225 1');
@@ -231,7 +231,7 @@ insert into sqlite_stat1 values ('shiori_boss', 'shiori_boss_0_wave_group_id_1',
 insert into sqlite_stat1 values ('shiori_boss', 'shiori_boss_0_event_id_1_difficulty', '42 3 1');
 insert into sqlite_stat1 values ('shiori_boss', 'shiori_boss_0_event_id', '42 3');
 insert into sqlite_stat1 values ('hatsune_bg_change_data', 'hatsune_bg_change_data_0_target_type_1_area_id', '55 28 2');
-insert into sqlite_stat1 values ('gacha_exchange_lineup', 'gacha_exchange_lineup_0_exchange_id', '235 2');
+insert into sqlite_stat1 values ('gacha_exchange_lineup', 'gacha_exchange_lineup_0_exchange_id', '236 2');
 insert into sqlite_stat1 values ('campaign_schedule', None, '791');
 insert into sqlite_stat1 values ('unit_rarity', 'unit_rarity_0_unit_material_id', '1107 6');
 insert into sqlite_stat1 values ('unit_rarity', 'unit_rarity_0_unit_id', '1107 6');
