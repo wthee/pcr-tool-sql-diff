@@ -390,7 +390,7 @@ insert into sqlite_stat1 values ('exceed_level_unit', 'sqlite_autoindex_exceed_l
 insert into sqlite_stat1 values ('bg_data', 'sqlite_autoindex_bg_data_1', '163 1');
 insert into sqlite_stat1 values ('ttk_enemy', None, '8');
 insert into sqlite_stat1 values ('chara_fortune_scenario', None, '30');
-insert into sqlite_stat1 values ('skill_data', None, '3451');
+insert into sqlite_stat1 values ('skill_data', None, '3450');
 insert into sqlite_stat1 values ('love_chara', None, '12');
 insert into sqlite_stat1 values ('nop_drama_data', 'nop_drama_data_0_stage_id', '18 6');
 insert into sqlite_stat1 values ('hatsune_boss', 'hatsune_boss_0_wave_group_id_1', '279 2');
