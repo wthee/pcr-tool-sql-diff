@@ -530,3 +530,4 @@ insert into gacha_exchange_lineup values (528, 251, 120001, 3, 1107, '2023/03/17
 insert into gacha_exchange_lineup values (529, 252, 122901, 3, 0, '2023/03/27 12:00:00', '2023/03/31 11:59:59');
 insert into gacha_exchange_lineup values (530, 253, 125301, 3, 1108, '2023/03/31 12:00:00', '2023/04/07 11:59:59');
 insert into gacha_exchange_lineup values (531, 254, 121501, 3, 0, '2023/04/07 12:00:00', '2023/04/10 11:59:59');
+insert into gacha_exchange_lineup values (532, 255, 125401, 3, 1109, '2023/04/10 12:00:00', '2023/04/17 11:59:59');

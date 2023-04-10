@@ -122,6 +122,7 @@ insert into tips values (4123901, 123901, 1, '●ヒミツ図鑑● ①マツリ
 insert into tips values (4125101, 125101, 1, '至福のカフェ');
 insert into tips values (4125201, 125201, 1, 'お菓子に囲まれて');
 insert into tips values (4125301, 125301, 1, '主さまと一緒');
+insert into tips values (4125401, 125401, 1, '夢見る');
 insert into tips values (4180101, 180101, 1, 'じゃんけんタイム！');
 insert into tips values (4180201, 180201, 1, 'ぺこぺこ');
 insert into tips values (4180301, 180301, 1, '守る力');

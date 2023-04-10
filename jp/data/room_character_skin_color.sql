@@ -220,6 +220,7 @@ insert into room_character_skin_color values (1250, 1);
 insert into room_character_skin_color values (1251, 1);
 insert into room_character_skin_color values (1252, 2);
 insert into room_character_skin_color values (1253, 2);
+insert into room_character_skin_color values (1254, 2);
 insert into room_character_skin_color values (1701, 1);
 insert into room_character_skin_color values (1801, 1);
 insert into room_character_skin_color values (1802, 1);
