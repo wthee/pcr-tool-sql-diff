@@ -379,7 +379,7 @@ insert into sqlite_stat1 values ('mhp_story_data', 'mhp_story_data_0_original_ev
 insert into sqlite_stat1 values ('login_bonus_data', None, '27');
 insert into sqlite_stat1 values ('unit_attack_pattern', None, '1628');
 insert into sqlite_stat1 values ('chara_story_status', None, '846');
-insert into sqlite_stat1 values ('visual_customize', None, '17');
+insert into sqlite_stat1 values ('visual_customize', None, '13');
 insert into sqlite_stat1 values ('apa_schedule', None, '1');
 insert into sqlite_stat1 values ('hatsune_emblem_mission', 'hatsune_emblem_mission_0_event_id', '117 5');
 insert into sqlite_stat1 values ('sekai_top_story_data', 'sekai_top_story_data_0_sekai_id', '4 4');
