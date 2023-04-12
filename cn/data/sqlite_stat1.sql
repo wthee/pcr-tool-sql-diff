@@ -175,7 +175,7 @@ insert into sqlite_stat1 values ('taq_good_unit', None, '184');
 insert into sqlite_stat1 values ('event_reminder_condition', 'event_reminder_condition_0_reminder_id', '7 1');
 insert into sqlite_stat1 values ('unit_introduction', 'unit_introduction_0_gacha_id', '123 1');
 insert into sqlite_stat1 values ('quest_reward_data', None, '4433');
-insert into sqlite_stat1 values ('quest_data', None, '1008');
+insert into sqlite_stat1 values ('quest_data', None, '1007');
 insert into sqlite_stat1 values ('emblem_mission_reward_data', 'emblem_mission_reward_data_0_reward_id', '927 2');
 insert into sqlite_stat1 values ('emblem_mission_reward_data', 'emblem_mission_reward_data_0_mission_reward_id', '927 2');
 insert into sqlite_stat1 values ('psy_reward', None, '11');
