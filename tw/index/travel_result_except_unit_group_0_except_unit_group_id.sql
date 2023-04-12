@@ -1,0 +1,1 @@
+CREATE INDEX 'travel_result_except_unit_group_0_except_unit_group_id' on 'travel_result_except_unit_group'('except_unit_group_id')

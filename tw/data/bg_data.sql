@@ -165,3 +165,6 @@ insert into bg_data values ('HATSUNE_LSV', 0, 0);
 insert into bg_data values ('SECRET_DUNGEON_TOP', 501560, 0);
 insert into bg_data values ('TRIAL_CLAN_BATTLE_SELECT_DIFFICULTY', 531000, 0);
 insert into bg_data values ('HATSUNE_XEH', 531100, 0);
+insert into bg_data values ('HATSUNE_DSB', 0, 0);
+insert into bg_data values ('HATSUNE_DSB_DRAMA', 0, 0);
+insert into bg_data values ('HATSUNE_DSB_DIARY', 0, 0);
