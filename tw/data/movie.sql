@@ -267,6 +267,7 @@ insert into movie values (211501080, 2115, 2115010, '', '', 1, 1, 0.3);
 insert into movie values (211501081, 2115, 2115010, '', '', 0, 1, 1.0);
 insert into movie values (211600201, 2116, 2116002, '', '', 1, 1, 1.0);
 insert into movie values (211600401, 2116, 2116004, '', '', 1, 1, 1.0);
+insert into movie values (211600501, 2116, 2116005, '', '', 1, 1, 1.0);
 insert into movie values (301000301, 3010, 3010003, '', '', 1, 1, 1.0);
 insert into movie values (500100701, 5001, 5001007, '', '', 1, 1, 1.0);
 insert into movie values (500200701, 5002, 5002007, '', '', 1, 1, 1.0);
