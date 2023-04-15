@@ -88,3 +88,7 @@ insert into shiori_quest_area values (20037201, 20037, 'タイムトンネル', 
 insert into shiori_quest_area values (20038101, 20038, 'おもちゃ工場', 201, 'bgm_M478', 'bgm_M478_Lofi', 1, 1, 0, 40, 0, '0', '0', 0);
 insert into shiori_quest_area values (20038102, 20038, '王都ランドソル', 201, 'bgm_M478', 'bgm_M478_Lofi', 1, 2, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20038201, 20038, '王都ランドソル', 201, 'bgm_M478', 'bgm_M478_Lofi', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20039101, 20039, '王都ランドソル', 201, 'bgm_M486', 'bgm_M486', 1, 1, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20039102, 20039, 'とある無人島', 201, 'bgm_M486', 'bgm_M486', 1, 2, 58, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20039103, 20039, '王都ランドソル', 201, 'bgm_M486', 'bgm_M486', 1, 3, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20039201, 20039, '王都ランドソル', 201, 'bgm_M486', 'bgm_M486', 1, 0, 0, 0, 0, '0', '0', 0);

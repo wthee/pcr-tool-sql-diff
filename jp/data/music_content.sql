@@ -264,3 +264,9 @@ insert into music_content values (262, 'ネバールーズアゲイン', '1:22',
 insert into music_content values (263, '猫と駄菓子の喫茶店\u3000カフェ・ナッシュカッツェにようこそ', '1:39', '0:00', 'ストーリーイベントテーマ\\n-｢にゃんだフルスウィング｣アレンジ-\\n\\n時間 / 01:39\\n作曲 / TAKT (TRYTONELABO)\\n編曲 / 佐藤遥（Cygames）', 'bgm_M668', 'bgm_M668_juke');
 insert into music_content values (264, '願福寄災の招き猫', '1:34', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 01:34\\n作曲 / 多田彰文\\n編曲 / 多田彰文', 'bgm_M671', 'bgm_M671_juke');
 insert into music_content values (265, 'にゃんだフルスウィング', '1:35', '0:51', 'キャラクターソング\\n\\n時間 / 01:35\\n歌\u3000 / タマキ（沼倉愛美）\\n作詞 / TAKT (TRYTONELABO)\\n作曲 / TAKT (TRYTONELABO)\\n編曲 / TAKT (TRYTONELABO)', 'bgm_M674', 'bgm_M674');
+insert into music_content values (266, 'Dears\u3000おかえりとただいまの約束', '1:21', '0:00', 'ストーリーイベントテーマ\\n-｢私色STORY｣アレンジ-\\n\\n時間 / 01:21\\n作曲 / 高木龍一 (Dream Monster)\\n編曲 / Max Mullowney（Cygames）', 'bgm_MC017', 'bgm_MC017_juke');
+insert into music_content values (267, 'ダイオウショウジョウ', '2:31', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 02:31\\n作曲 / 小半大\\n編曲 / 小半大', 'bgm_MC020', 'bgm_MC020_juke');
+insert into music_content values (268, '私色STORY', '1:29', '0:59', 'キャラクターソング\\n\\n時間 / 01:29\\n歌\u3000 / シオリ（小清水亜美）\\n作詞 / Cocoro. (Dream Monster)\\n作曲 / 高木龍一 (Dream Monster)\\n編曲 / 高木龍一 (Dream Monster)', 'bgm_MC034', 'bgm_MC034');
+insert into music_content values (269, '魔物生態報告書', '2:19', '0:00', 'ストーリーイベントミニコンテンツ\\n-｢私色STORY｣アレンジ-\\n\\n時間 / 02:19\\n作曲 / 高木龍一 (Dream Monster)\\n編曲 / Enarak（Cygames）', 'bgm_MC021', 'bgm_MC021_juke');
+insert into music_content values (270, '万華色めく新天地', '2:06', '0:00', 'メインクエスト\\n\\n時間 / 02:06\\n作曲 / 佐藤遥（Cygames）\\n編曲 / 佐藤遥（Cygames）', 'bgm_MC001', 'bgm_MC001_juke');
+insert into music_content values (271, 'ジオ・テオゴニアの戦い', '1:23', '0:00', 'メインクエスト\\n\\n時間 / 01:23\\n作曲 / 長谷部翔（Cygames）\\n編曲 / 長谷部翔（Cygames）', 'bgm_MC022', 'bgm_MC022_juke');

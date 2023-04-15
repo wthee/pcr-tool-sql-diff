@@ -44,3 +44,5 @@ insert into ailment_data values (42, 49, 10, 'バリア消去');
 insert into ailment_data values (43, 9, 9, '黒炎');
 insert into ailment_data values (44, 99, 2, 'ヘイストフィールド');
 insert into ailment_data values (45, 99, 1, 'スロウフィールド');
+insert into ailment_data values (46, 49, 20, 'バフ消去（指定）');
+insert into ailment_data values (47, 101, 5, '殴り刻印（攻撃ヒット）');
