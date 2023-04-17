@@ -122,3 +122,6 @@ insert into event_effect_setting values (10106, 1, 91101);
 insert into event_effect_setting values (10106, 2, 91101);
 insert into event_effect_setting values (10106, 3, 91101);
 insert into event_effect_setting values (10106, 4, 10074);
+insert into event_effect_setting values (10107, 1, 91101);
+insert into event_effect_setting values (10107, 2, 91101);
+insert into event_effect_setting values (10107, 3, 91101);
