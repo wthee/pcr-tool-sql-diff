@@ -201,6 +201,7 @@ insert into unit_background values (123801, '克莉絲提娜（狂野）', 50017
 insert into unit_background values (123901, '茉莉（狂野）', 500090, '蘭德索爾 王城入口', 0.0, 2);
 insert into unit_background values (124001, '茜里（聖誕節）', 500036, '蘭德索爾_鬧區_聖誕節_白天', 0.0, 2);
 insert into unit_background values (124101, '依里（聖誕節）', 500036, '蘭德索爾_鬧區_聖誕節_白天', 0.0, 2);
+insert into unit_background values (124201, '純（聖誕節）', 500036, '蘭德索爾_鬧區_聖誕節_白天', 0.0, 2);
 insert into unit_background values (180101, '日和（公主）', 500130, '埃斯特雷拉街道', 0.0, 2);
 insert into unit_background values (180201, '優衣（公主）', 500130, '埃斯特雷拉街道', 0.0, 4);
 insert into unit_background values (180301, '怜（公主）', 500130, '埃斯特雷拉街道', 0.0, 3);
