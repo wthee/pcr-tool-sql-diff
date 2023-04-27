@@ -244,12 +244,12 @@ insert into enemy_m_parts values (610085301, '超负荷之力', 610085302, 61008
 insert into enemy_m_parts values (610085401, '超负荷之力', 610085411, 610085412, 0, 0, 0);
 insert into enemy_m_parts values (610085402, '超负荷之力', 610085421, 610085422, 0, 0, 0);
 insert into enemy_m_parts values (610085403, '超负荷之力', 610085431, 610085432, 0, 0, 0);
-insert into enemy_m_parts values (610093101, '爆裂·时间天秤 普通', 610093102, 610093103, 610093104, 610093105, 0);
-insert into enemy_m_parts values (610093201, '爆裂·时间天秤 困难', 610093202, 610093203, 610093204, 610093205, 0);
-insert into enemy_m_parts values (610093301, '爆裂·时间天秤 高难', 610093302, 610093303, 610093304, 610093305, 0);
-insert into enemy_m_parts values (610093401, '爆裂·时间天秤 SP1', 610093411, 610093412, 610093413, 610093414, 0);
-insert into enemy_m_parts values (610093402, '爆裂·时间天秤 SP2', 610093421, 610093422, 610093423, 610093424, 0);
-insert into enemy_m_parts values (610093403, '爆裂·时间天秤 SP3', 610093431, 610093432, 610093433, 610093434, 0);
+insert into enemy_m_parts values (610093101, '爆裂·时间星盘 普通', 610093102, 610093103, 610093104, 610093105, 0);
+insert into enemy_m_parts values (610093201, '爆裂·时间星盘 困难', 610093202, 610093203, 610093204, 610093205, 0);
+insert into enemy_m_parts values (610093301, '爆裂·时间星盘 高难', 610093302, 610093303, 610093304, 610093305, 0);
+insert into enemy_m_parts values (610093401, '爆裂·时间星盘 SP1', 610093411, 610093412, 610093413, 610093414, 0);
+insert into enemy_m_parts values (610093402, '爆裂·时间星盘 SP2', 610093421, 610093422, 610093423, 610093424, 0);
+insert into enemy_m_parts values (610093403, '爆裂·时间星盘 SP3', 610093431, 610093432, 610093433, 610093434, 0);
 insert into enemy_m_parts values (701000401, '滴水嘴兽·炸裂', 701000402, 701000403, 701000404, 0, 0);
 insert into enemy_m_parts values (701000405, '滴水嘴兽·炸裂', 701000406, 701000407, 701000408, 0, 0);
 insert into enemy_m_parts values (701000409, '滴水嘴兽·炸裂', 701000410, 701000411, 701000412, 0, 0);

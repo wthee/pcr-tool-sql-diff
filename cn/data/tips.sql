@@ -87,6 +87,7 @@ insert into tips values (4115901, 115901, 1, '轻飘飘');
 insert into tips values (4116001, 116001, 1, '装模作样');
 insert into tips values (4116201, 116201, 1, '黄色加油声');
 insert into tips values (4116301, 116301, 1, '切噜式的跑法');
+insert into tips values (4116501, 116501, 1, '征服完毕！');
 insert into tips values (4170101, 170101, 1, '闪亮登场');
 insert into tips values (4170201, 170201, 1, '努力打年糕');
 insert into tips values (4180101, 180101, 1, '猜拳时间！');
