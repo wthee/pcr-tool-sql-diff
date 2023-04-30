@@ -7,3 +7,4 @@ insert into chara_e_ticket_data values (27005, '2022/02/15 15:00:00', '2022/03/0
 insert into chara_e_ticket_data values (27006, '2022/08/15 15:00:00', '2022/09/05 11:59:59', 55, 27001);
 insert into chara_e_ticket_data values (27007, '2022/12/31 12:00:00', '2023/01/21 11:59:59', 81, 27001);
 insert into chara_e_ticket_data values (27008, '2023/02/15 15:00:00', '2023/03/05 14:59:59', 82, 27005);
+insert into chara_e_ticket_data values (27009, '2023/04/30 12:00:00', '2023/05/25 14:59:59', 85, 27009);

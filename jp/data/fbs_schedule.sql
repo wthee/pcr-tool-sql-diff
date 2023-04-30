@@ -6,3 +6,6 @@ insert into fbs_schedule values (4, 4010004, '2023/4/7 5:00:00', '2023/4/8 4:59:
 insert into fbs_schedule values (5, 4010005, '2023/4/10 5:00:00', '2023/4/11 4:59:59');
 insert into fbs_schedule values (6, 4010006, '2023/4/17 5:00:00', '2023/4/18 4:59:59');
 insert into fbs_schedule values (7, 4010007, '2023/4/29 5:00:00', '2023/4/30 4:59:59');
+insert into fbs_schedule values (8, 4010008, '2023/5/5 5:00:00', '2023/5/6 4:59:59');
+insert into fbs_schedule values (9, 4010009, '2023/5/10 5:00:00', '2023/5/11 4:59:59');
+insert into fbs_schedule values (10, 4010010, '2023/5/11 5:00:00', '2023/5/12 4:59:59');

@@ -369,3 +369,6 @@ insert into room_setup values (2830, 1, 1, 0);
 insert into room_setup values (2831, 1, 1, 0);
 insert into room_setup values (2832, 1, 1, 0);
 insert into room_setup values (2833, 2, 2, 0);
+insert into room_setup values (2834, 2, 3, 0);
+insert into room_setup values (2835, 1, 1, 0);
+insert into room_setup values (2836, 3, 4, 0);

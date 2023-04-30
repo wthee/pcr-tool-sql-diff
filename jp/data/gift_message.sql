@@ -96,6 +96,7 @@ insert into gift_message values (9427, 'アイテム装備パックⅦ（4周年
 insert into gift_message values (9428, 'アイテム装備パックⅧ（4周年）を購入して獲得したアイテムです。', 0, 0, 0, 0);
 insert into gift_message values (9429, 'アイテム装備パックⅨ（4周年）を購入して獲得したアイテムです。', 0, 0, 0, 0);
 insert into gift_message values (9430, 'アイテム装備パックⅩ（4周年）を購入して獲得したアイテムです。', 0, 0, 0, 0);
+insert into gift_message values (9431, 'コラボパックを購入して獲得したアイテムです。', 0, 0, 0, 0);
 insert into gift_message values (9501, '「イベントログインボーナス」{1}日目で獲得したアイテムです。', 13, 2, 0, 0);
 insert into gift_message values (9502, 'イベントクエスト初回クリアで獲得したアイテムです。', 13, 0, 0, 0);
 insert into gift_message values (9503, 'イベントクエスト{1}クリアで獲得したアイテムです。', 13, 14, 0, 0);

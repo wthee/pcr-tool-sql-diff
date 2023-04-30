@@ -1,2 +1,14 @@
 CREATE TABLE 'dvs_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'sub_title' TEXT NOT NULL, 'detail_title' TEXT NOT NULL, 'detail_description' TEXT NOT NULL, 'dvs_story_type' INTEGER NOT NULL, 'is_last' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_count_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_count_2' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
-insert into dvs_story_data values (5118600, 10118, '0', '0', '0', '0', 1, 0, 10118115, 0, 0, 0, 0, 0, 0);
+insert into dvs_story_data values (5118061, 10118, 'ペコリーヌとの出会い', '青空の下で謁見', 'フリーマーケット会場', 'フリーマーケットを訪れたジータが出会ったのは\\n城をこっそり抜け出していたペコリーヌだった。', 2, 0, 0, 7, 2834, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118062, 10118, 'マホとの出会い', '未来の騎空団\\nマスコット？', 'フリーマーケット会場', 'ジータたちがフリーマーケットを巡っていると\\n露店を出していたマホに声をかけられる。', 2, 0, 0, 7, 2835, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118063, 10118, 'アキノとの出会い', 'お嬢さまからの\\n緊急依頼', 'ランドソル市街地', 'ジータが騎空団への依頼を確認していると、\\n高笑いをしながらアキノが現れる。', 2, 0, 0, 7, 2837, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118064, 10118, 'ジュンとの出会い', '黄金色の悩みごと', 'フリーマーケット会場', 'ジータたちは、フリーマーケット会場で\\n少し困った様子のジュンを見かける。', 2, 0, 0, 18, 4108402, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118065, 10118, 'カオリとの出会い', '白熱！\u3000格闘大会！', 'フリーマーケット会場', 'フリーマーケットの隅で開かれる格闘大会──\\nそこにはカオリもいて……？', 2, 0, 0, 18, 4107402, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118066, 10118, 'ニノンとの出会い', '祭り太鼓はオーエドの華', 'オーエド町', '太鼓祭を控えるオーエド町──\\nジータは、困った様子のニノンと出会う。', 2, 1, 0, 16, 9000227, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118067, 10118, 'スズナとの出会い', '人気者は遅れて\\nやってくる', 'フリーマーケット会場', 'ビカラはイベントに出演中のスズナを見かける。\\nしかし、スズナはどこか困っているようで……？', 3, 0, 0, 19, 2101181, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118068, 10118, 'ナナカとの出会い', '巫女・ミーツ・魔法少女', 'ランドソル市街地', 'ビカラたちが街を散策していると、通りかかった\\nナナカが興奮した様子で近づいてきて……？', 3, 0, 0, 18, 4109402, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118069, 10118, 'キャル＆コッコロとの出会い', 'ネズ耳は二度なくなる', 'フリーマーケット会場', 'ネズ耳をなくしてしまい絶望するビカラ。同じ頃\\nキャルとコッコロは落とし物を拾っており……', 3, 0, 0, 18, 4305402, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118070, 10118, 'ユカリとの出会い', 'この出会いにカンパイ！', 'ランドソル市街地', '街外れでひと休みをしていたビカラたちは、\\nすっかりゴキゲンな様子のユカリと出会う。', 3, 0, 0, 18, 4101402, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118071, 10118, 'アオイとの出会い', '陰陽アンサンブル', 'ランドソル市街地', 'ビカラは、人混みに怯えるアオイを心配し、\\n陽気に声をかけるも……', 3, 0, 0, 18, 4106402, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118072, 10118, 'シノブとの出会い', '運試し十番勝負！', 'フリーマーケット会場', 'ビカラがフリーマーケット会場を歩いていると\\n占いをしていたシノブに声をかけられる。', 3, 1, 0, 7, 2836, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118600, 10118, 'オープニング', '彼女たちの新たな日常', '0', '0', 1, 0, 10118115, 0, 0, 0, 0, 0, 0);

@@ -115,4 +115,5 @@ insert into event_gacha_data values (10114, 10114, '猫と駄菓子の喫茶店\
 insert into event_gacha_data values (10115, 10115, 'スイート・タイニー・ステージ！\u3000駆け出し女優とリトルレディ', 2, 61142, 1, 6);
 insert into event_gacha_data values (10116, 10116, 'Dears\u3000おかえりとただいまの約束', 2, 61152, 1, 6);
 insert into event_gacha_data values (10117, 10117, 'お宝頂戴！\u3000インビジブル・スティーラーズ', 2, 61162, 1, 6);
+insert into event_gacha_data values (10118, 10118, 'コネクト・ウィズ・ブルー\u3000少女が空に至るまで', 2, 61172, 1, 6);
 insert into event_gacha_data values (19003, 10003, 'ヴァンパイアハンターwithイリヤ討伐証交換', 2, 60022, 1, 5);
