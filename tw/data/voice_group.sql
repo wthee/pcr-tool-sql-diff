@@ -333,3 +333,4 @@ insert into voice_group values (30185, '茉莉（狂野）（花凜對話用）'
 insert into voice_group values (30186, '茜里（聖誕節）（花凜對話用）', 118501001, 324001001, 0, 0, 0);
 insert into voice_group values (30187, '依里（聖誕節）（花凜對話用）', 118501001, 324101001, 0, 0, 0);
 insert into voice_group values (30188, '純（聖誕節）（花凜對話用）', 118501001, 324201001, 0, 0, 0);
+insert into voice_group values (30189, '深月（新年）（花凜對話用）', 118501001, 324701001, 0, 0, 0);
