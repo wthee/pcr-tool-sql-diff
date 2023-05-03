@@ -85,6 +85,7 @@ insert into voice_group_chara values (123301001, '涅婭', 123301, 0, 0, 0, 0, 0
 insert into voice_group_chara values (180701001, '初音＆栞（夏日）', 180701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (180801001, '禊＆美美＆鏡華', 180801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (180901001, '秋乃＆咲戀', 180901, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (181001001, '安＆古蕾婭', 181001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (300101001, '日和（花凜對話用）', 100101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (300201001, '優衣（花凜對話用）', 100201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (300301001, '怜（花凜對話用）', 100301, 0, 0, 0, 0, 0, 0, 0, 0, 0);

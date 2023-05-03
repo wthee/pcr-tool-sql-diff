@@ -141,6 +141,10 @@ insert into voice_group values (20144, '愛梅斯＆優衣', 123001001, 10020100
 insert into voice_group values (20145, '愛梅斯＆怜', 123001001, 100301001, 0, 0, 0);
 insert into voice_group values (20146, '愛梅斯＆日和', 123001001, 100101001, 0, 0, 0);
 insert into voice_group values (20147, '愛梅斯＆拉比林斯達', 123001001, 106801001, 0, 0, 0);
+insert into voice_group values (20148, '安古蕾婭＆貪吃佩可', 181001001, 105801001, 0, 0, 0);
+insert into voice_group values (20149, '安古蕾婭＆可可蘿', 181001001, 105901001, 0, 0, 0);
+insert into voice_group values (20150, '安古蕾婭＆凱留', 181001001, 106001001, 0, 0, 0);
+insert into voice_group values (20151, '安古蕾婭＆露', 181001001, 109301001, 0, 0, 0);
 insert into voice_group values (20152, '霸瞳皇帝＆凱留', 106901001, 106001001, 0, 0, 0);
 insert into voice_group values (20153, '霸瞳皇帝＆拉比林斯達', 106901001, 106801001, 0, 0, 0);
 insert into voice_group values (20154, '霸瞳皇帝＆克莉絲', 106901001, 107101001, 0, 0, 0);

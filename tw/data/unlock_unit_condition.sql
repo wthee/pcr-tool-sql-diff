@@ -212,3 +212,4 @@ insert into unlock_unit_condition values (180601, '凱留（公主）', 1, 0, 1,
 insert into unlock_unit_condition values (180701, '初音＆栞', 1, 0, 1, 2, 31807, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (180801, '禊＆美美＆鏡華', 1, 0, 1, 2, 31808, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (180901, '秋乃&咲戀', 1, 0, 1, 2, 31809, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
+insert into unlock_unit_condition values (181001, '安＆古蕾婭', 1, 0, 1, 2, 31810, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);

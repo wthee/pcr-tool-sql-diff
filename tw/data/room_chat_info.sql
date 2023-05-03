@@ -34,3 +34,5 @@ insert into room_chat_info values (32, 9, 32);
 insert into room_chat_info values (33, 9, 33);
 insert into room_chat_info values (34, 10, 34);
 insert into room_chat_info values (35, 10, 35);
+insert into room_chat_info values (36, 11, 36);
+insert into room_chat_info values (37, 11, 37);
