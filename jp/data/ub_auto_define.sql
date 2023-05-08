@@ -102,6 +102,7 @@ insert into ub_auto_define values (1059011, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1060001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1060011, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1061001, 1, 0, 0, 0, 0);
+insert into ub_auto_define values (1061011, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1063001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1063011, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1064001, 1, 0, 0, 0, 0);
