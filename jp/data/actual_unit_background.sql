@@ -207,6 +207,7 @@ insert into actual_unit_background values (125231, 'モニカ・ヴァイスヴ�
 insert into actual_unit_background values (125331, '棗 こころ', 510140, 2);
 insert into actual_unit_background values (125431, '柏崎 栞', 510100, 2);
 insert into actual_unit_background values (125531, 'ジータ', 510220, 2);
+insert into actual_unit_background values (125631, 'ビカラ', 510350, 2);
 insert into actual_unit_background values (125731, '観崎 佳凛', 510300, 2);
 insert into actual_unit_background values (125831, '徳川 莉々', 510090, 2);
 insert into actual_unit_background values (180131, '春咲 ひより', 510121, 4);

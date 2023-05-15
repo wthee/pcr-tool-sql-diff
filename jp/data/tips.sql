@@ -124,6 +124,7 @@ insert into tips values (4125201, 125201, 1, 'お菓子に囲まれて');
 insert into tips values (4125301, 125301, 1, '主さまと一緒');
 insert into tips values (4125401, 125401, 1, '夢見る');
 insert into tips values (4125501, 125501, 1, '魔法でひと工夫');
+insert into tips values (4125601, 125601, 1, '理想のあたし');
 insert into tips values (4125701, 125701, 1, '不思議なカバン');
 insert into tips values (4125801, 125801, 1, 'さすが兄様です');
 insert into tips values (4180101, 180101, 1, 'じゃんけんタイム！');

@@ -54,6 +54,7 @@ insert into season_pack values (80, 0, 29, 0, '', '', 9430, 0, 0, 0, 0, 0, 17, 0
 insert into season_pack values (81, 0, 1, 0, '', '', 9319, 0, 0, 0, 908, 0, 19, 0, 0, 5);
 insert into season_pack values (82, 0, 1, 0, '', '', 9319, 0, 0, 0, 908, 0, 20, 0, 0, 5);
 insert into season_pack values (83, 0, 1, 0, '', '', 9431, 0, 0, 0, 0, 0, 21, 0, 0, 6);
+insert into season_pack values (84, 0, 1, 0, '', '', 9431, 0, 0, 0, 0, 0, 22, 0, 0, 6);
 insert into season_pack values (85, 0, 2, 0, '', '', 9319, 0, 0, 0, 908, 0, 23, 0, 0, 5);
 insert into season_pack values (86, 17001002, 2, 405, '7日間スタミナ応援パック{1}日目のアイテムセット', '', 9402, 7, 0, 3, 103, 1, 2, 0, 0, 3);
 insert into season_pack values (87, 17001001, 1, 403, 'デイリージュエルパック{1}日目のアイテムセット', 'デイリージュエルパック未受け取り分のジュエル', 0, 30, 3, 2, 104, 0, 1, 0, 2000, 2);

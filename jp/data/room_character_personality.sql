@@ -224,6 +224,7 @@ insert into room_character_personality values (1252, 1);
 insert into room_character_personality values (1253, 1);
 insert into room_character_personality values (1254, 4);
 insert into room_character_personality values (1255, 1);
+insert into room_character_personality values (1256, 3);
 insert into room_character_personality values (1257, 1);
 insert into room_character_personality values (1258, 4);
 insert into room_character_personality values (1701, 1);

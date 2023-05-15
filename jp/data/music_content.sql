@@ -270,3 +270,10 @@ insert into music_content values (268, '私色STORY', '1:29', '0:59', 'キャラ
 insert into music_content values (269, '魔物生態報告書', '2:19', '0:00', 'ストーリーイベントミニコンテンツ\\n-｢私色STORY｣アレンジ-\\n\\n時間 / 02:19\\n作曲 / 高木龍一 (Dream Monster)\\n編曲 / Enarak（Cygames）', 'bgm_MC021', 'bgm_MC021_juke');
 insert into music_content values (270, '万華色めく新天地', '2:06', '0:00', 'メインクエスト\\n\\n時間 / 02:06\\n作曲 / 佐藤遥（Cygames）\\n編曲 / 佐藤遥（Cygames）', 'bgm_MC001', 'bgm_MC001_juke');
 insert into music_content values (271, 'ジオ・テオゴニアの戦い', '1:23', '0:00', 'メインクエスト\\n\\n時間 / 01:23\\n作曲 / 長谷部翔（Cygames）\\n編曲 / 長谷部翔（Cygames）', 'bgm_MC022', 'bgm_MC022_juke');
+insert into music_content values (272, 'コネクト・ウィズ・ブルー\u3000少女が空に至るまで', '2:09', '0:00', 'ストーリーイベントテーマ\\n-｢ツバサのプロローグ｣アレンジ-\\n\\n時間 / 02:09\\n作曲 / 本多友紀 (Arte Refact)\\n編曲 / 畑田浩孝（Cygames）', 'bgm_MC026', 'bgm_MC026_juke');
+insert into music_content values (273, '叡智の錬金術師・モーヴ', '2:08', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 02:08\\n作曲 / Enarak（Cygames）\\n編曲 / Enarak（Cygames）', 'bgm_MC029', 'bgm_MC029_juke');
+insert into music_content values (274, 'ツバサのプロローグ', '1:32', '1:03', 'キャラクターソング\\n\\n時間 / 01:32\\n歌\u3000 / ジータ（金元寿子）\\n作詞 / 真崎エリカ\\n作曲 / 本多友紀 (Arte Refact)\\n編曲 / 本多友紀 (Arte Refact)', 'bgm_MC035', 'bgm_MC035');
+insert into music_content values (275, 'ランドソル一期一会', '1:58', '0:00', 'ストーリーイベントミニコンテンツ\\n-｢ツバサのプロローグ｣アレンジ-\\n\\n時間 / 01:58\\n作曲 / 本多友紀 (Arte Refact)\\n編曲 / 亀井瑠美', 'bgm_MC030', 'bgm_MC030_juke');
+insert into music_content values (276, '次元断層', '1:07', '0:00', '次元断層\\n\\n時間 / 01:07\\n作曲 / Enarak（Cygames）\\n編曲 / Enarak（Cygames）', 'bgm_MC007', 'bgm_MC007_juke');
+insert into music_content values (277, '次元の狭間に現れし脅威', '1:46', '0:00', '次元断層\\n\\n時間 / 01:46\\n作曲 / 中村博\\n編曲 / 中村博', 'bgm_MC008', 'bgm_MC008_juke');
+insert into music_content values (278, '華麗なる世界の強敵', '1:32', '0:00', 'メインクエストボスバトル\\n\\n時間 / 01:32\\n作曲 / 中町友洋\\n編曲 / 中町友洋', 'bgm_MC023', 'bgm_MC023_juke');

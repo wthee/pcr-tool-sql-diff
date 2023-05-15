@@ -215,6 +215,7 @@ insert into unit_background values (125201, 'モニカ（カフェ）', 501950, 
 insert into unit_background values (125301, 'コッコロ（レンジャー）', 501690, '平原_競技場_昼', 0.0, 2);
 insert into unit_background values (125401, 'シオリ（レンジャー）', 501690, '平原_競技場_昼', 0.0, 20);
 insert into unit_background values (125501, 'ジータ（ウォーロック）', 500033, 'ランドソル_繁華街_祭_昼', 0.0, 4);
+insert into unit_background values (125601, 'ビカラ', 500033, 'ランドソル_繁華街_祭_昼', 0.0, 4);
 insert into unit_background values (125701, 'カリン（アルケミスト）', 500371, 'ランドソル_お役所', 0.0, 2);
 insert into unit_background values (125801, 'リリ（フォールン）', 501670, 'ジオ・テオゴニア_街道_昼', 0.0, 2);
 insert into unit_background values (180101, 'ヒヨリ（プリンセス）', 500130, 'エステレラ街道', 0.0, 2);

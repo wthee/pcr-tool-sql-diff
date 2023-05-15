@@ -153,6 +153,9 @@ insert into voice_group values (20155, '覇瞳皇帝＆ネネカ', 106901001, 10
 insert into voice_group values (20156, 'ミソラ＆ランファ', 118201001, 118101001, 0, 0, 0);
 insert into voice_group values (20157, 'ミソラ＆ムイミ', 118201001, 106101001, 0, 0, 0);
 insert into voice_group values (20160, 'リリ＆コッコロ', 125801001, 105901001, 0, 0, 0);
+insert into voice_group values (20161, 'ビカラ＆ジータ', 125601001, 105701001, 0, 0, 0);
+insert into voice_group values (20162, 'ビカラ＆カリン', 125601001, 118501001, 0, 0, 0);
+insert into voice_group values (20163, 'ビカラ＆ルカ', 125601001, 105601001, 0, 0, 0);
 insert into voice_group values (30001, 'ヒヨリ（カリン掛け合い用）', 118501001, 300101001, 0, 0, 0);
 insert into voice_group values (30002, 'ユイ（カリン掛け合い用）', 118501001, 300201001, 0, 0, 0);
 insert into voice_group values (30003, 'レイ（カリン掛け合い用）', 118501001, 300301001, 0, 0, 0);
