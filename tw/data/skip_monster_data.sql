@@ -3017,6 +3017,13 @@ insert into skip_monster_data values (11061011, 11061, '考達海灘‧南部 61
 insert into skip_monster_data values (11061012, 11061, '考達海灘‧南部 61-12', 101611201, 102181);
 insert into skip_monster_data values (11061013, 11061, '考達海灘‧南部 61-13', 101611301, 101621);
 insert into skip_monster_data values (11061014, 11061, '考達海灘‧南部 61-14', 101611403, 102101);
+insert into skip_monster_data values (11062001, 11062, '普洛庇那海角 62-1', 101620101, 101621);
+insert into skip_monster_data values (11062002, 11062, '普洛庇那海角 62-2', 101620201, 101411);
+insert into skip_monster_data values (11062003, 11062, '普洛庇那海角 62-3', 101620301, 101411);
+insert into skip_monster_data values (11062004, 11062, '普洛庇那海角 62-4', 101620401, 100201);
+insert into skip_monster_data values (11062005, 11062, '普洛庇那海角 62-5', 101620501, 101411);
+insert into skip_monster_data values (11062006, 11062, '普洛庇那海角 62-6', 101620601, 101411);
+insert into skip_monster_data values (11062007, 11062, '普洛庇那海角 62-7', 101620701, 100201);
 insert into skip_monster_data values (12001001, 12001, '朱諾平原 1-1（Hard）', 101010101, 100911);
 insert into skip_monster_data values (12001002, 12001, '朱諾平原 1-2（Hard）', 101010101, 100911);
 insert into skip_monster_data values (12001003, 12001, '朱諾平原 1-3（Hard）', 101010101, 100361);
@@ -3187,6 +3194,7 @@ insert into skip_monster_data values (12056002, 12056, '歐呂克斯沙島‧北
 insert into skip_monster_data values (12056003, 12056, '歐呂克斯沙島‧北部 56-3', 102560310, 100571);
 insert into skip_monster_data values (12057001, 12057, '歐呂克斯沙島‧南部 57-1', 102570101, 100571);
 insert into skip_monster_data values (12057002, 12057, '歐呂克斯沙島‧南部 57-2', 102570201, 101131);
+insert into skip_monster_data values (12057003, 12057, '歐呂克斯沙島‧南部 57-3', 102570310, 101071);
 insert into skip_monster_data values (13018001, 13018, '法艾頓草原‧北部 18-1', 103180101, 101401);
 insert into skip_monster_data values (13018002, 13018, '法艾頓草原‧北部 18-2', 103180204, 100691);
 insert into skip_monster_data values (13018003, 13018, '法艾頓草原‧北部 18-3', 103180301, 101431);
