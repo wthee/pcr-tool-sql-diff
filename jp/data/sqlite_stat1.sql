@@ -43,7 +43,7 @@ insert into sqlite_stat1 values ('room_item_announcement', None, '1');
 insert into sqlite_stat1 values ('wac_drama_script', 'wac_drama_script_0_drama_id', '17968 15');
 insert into sqlite_stat1 values ('ttk_story', 'ttk_story_0_ttk_score', '5 1');
 insert into sqlite_stat1 values ('odds_name_data', None, '249');
-insert into sqlite_stat1 values ('grand_arena_daily_rank_reward', None, '40');
+insert into sqlite_stat1 values ('grand_arena_daily_rank_reward', None, '15');
 insert into sqlite_stat1 values ('sp_battle_voice', 'sp_battle_voice_0_unit_id', '54 14');
 insert into sqlite_stat1 values ('sp_battle_voice', 'sqlite_autoindex_sp_battle_voice_1', '54 1 1');
 insert into sqlite_stat1 values ('sre_mission_category_data', None, '4');
@@ -420,7 +420,7 @@ insert into sqlite_stat1 values ('wac_unit_search_data', 'wac_unit_search_data_0
 insert into sqlite_stat1 values ('legion_quest_data', 'legion_quest_data_0_map_type', '5 3');
 insert into sqlite_stat1 values ('dungeon_pattern_battle', 'dungeon_pattern_battle_0_quest_id', '5 5');
 insert into sqlite_stat1 values ('dungeon_pattern_battle', 'dungeon_pattern_battle_0_quest_id_1_pattern', '5 5 1');
-insert into sqlite_stat1 values ('arena_daily_rank_reward', None, '40');
+insert into sqlite_stat1 values ('arena_daily_rank_reward', None, '15');
 insert into sqlite_stat1 values ('stationary_mission_data', None, '1849');
 insert into sqlite_stat1 values ('unique_equipment_enhance_data', 'sqlite_autoindex_unique_equipment_enhance_data_1', '279 279 1');
 insert into sqlite_stat1 values ('sre_extermination_reward', None, '8');
