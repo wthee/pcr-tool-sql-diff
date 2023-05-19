@@ -266,6 +266,3 @@ insert into experience_unit values (264, 14034914);
 insert into experience_unit values (265, 14164866);
 insert into experience_unit values (266, 14295418);
 insert into experience_unit values (267, 14426570);
-insert into experience_unit values (268, 14558322);
-insert into experience_unit values (269, 14690674);
-insert into experience_unit values (270, 14823626);
