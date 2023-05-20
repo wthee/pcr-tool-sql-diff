@@ -202,6 +202,7 @@ insert into unlock_unit_condition values (123901, '茉莉（狂野）', 1, 0, 1,
 insert into unlock_unit_condition values (124001, '茜里（聖誕節）', 1, 0, 1, 2, 31240, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (124101, '依里（聖誕節）', 1, 0, 1, 2, 31241, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (124201, '純（聖誕節）', 1, 0, 1, 2, 31242, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
+insert into unlock_unit_condition values (124501, '帆稀（新年）', 1, 0, 1, 2, 31245, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (124601, '美里（新年）', 1, 0, 1, 2, 31246, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (124701, '深月（新年）', 1, 0, 1, 2, 31247, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (180101, '日和（公主）', 1, 0, 1, 2, 31801, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);

@@ -194,6 +194,7 @@ insert into actual_unit_background values (123931, '織原 茉莉', 510360, 4);
 insert into actual_unit_background values (124031, '風宮 茜里', 510330, 4);
 insert into actual_unit_background values (124131, '風宮 依里', 510150, 2);
 insert into actual_unit_background values (124231, '白銀 純', 510280, 2);
+insert into actual_unit_background values (124531, '遠野 帆稀', 510290, 4);
 insert into actual_unit_background values (124631, '愛川 美里', 510130, 4);
 insert into actual_unit_background values (124731, '宵濱 深月', 510301, 4);
 insert into actual_unit_background values (180131, '春咲 日和', 510121, 4);
