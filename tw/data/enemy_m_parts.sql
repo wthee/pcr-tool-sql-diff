@@ -238,6 +238,14 @@ insert into enemy_m_parts values (401511505, '人馬座 第5階段', 401511506, 
 insert into enemy_m_parts values (401511605, '人馬座 第1階段 單人模式', 401511606, 401511607, 0, 0, 0);
 insert into enemy_m_parts values (401511705, '人馬座 第2階段 單人模式', 401511706, 401511707, 0, 0, 0);
 insert into enemy_m_parts values (401511805, '人馬座 第3階段 單人模式', 401511806, 401511807, 0, 0, 0);
+insert into enemy_m_parts values (401512102, '哥布林騎兵 第1階段', 401512103, 401512104, 0, 0, 0);
+insert into enemy_m_parts values (401512202, '哥布林騎兵 第2階段', 401512203, 401512204, 0, 0, 0);
+insert into enemy_m_parts values (401512302, '哥布林騎兵 第3階段', 401512303, 401512304, 0, 0, 0);
+insert into enemy_m_parts values (401512402, '哥布林騎兵 第4階段', 401512403, 401512404, 0, 0, 0);
+insert into enemy_m_parts values (401512502, '哥布林騎兵 第5階段', 401512503, 401512504, 0, 0, 0);
+insert into enemy_m_parts values (401512602, '哥布林騎兵 第1階段 單人模式', 401512603, 401512604, 0, 0, 0);
+insert into enemy_m_parts values (401512702, '哥布林騎兵 第2階段 單人模式', 401512703, 401512704, 0, 0, 0);
+insert into enemy_m_parts values (401512802, '哥布林騎兵 第3階段 單人模式', 401512803, 401512804, 0, 0, 0);
 insert into enemy_m_parts values (501010601, '狂怒綠龍', 501010602, 501010603, 501010604, 0, 0);
 insert into enemy_m_parts values (501010701, '黑月守護像', 501010702, 501010703, 501010704, 0, 0);
 insert into enemy_m_parts values (501010705, '白陽守護像', 501010706, 501010707, 501010708, 0, 0);
