@@ -80,3 +80,5 @@ insert into shiori_quest_area values (20034201, 20034, '精靈族之村\u3000純
 insert into shiori_quest_area values (20035101, 20035, '蘭德索爾近郊', 201, 'bgm_M451', 'bgm_M451', 1, 1, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20035102, 20035, '邊境之地', 201, 'bgm_M451', 'bgm_M451', 1, 2, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20035201, 20035, '邊境之地', 201, 'bgm_M451', 'bgm_M451', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20036101, 20036, '聖德蕾莎女子學院 聖學祭會場', 201, 'bgm_M457', 'bgm_M457', 1, 1, 91, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20036201, 20036, '聖德蕾莎女子學院 聖學祭會場', 201, 'bgm_M457', 'bgm_M457', 1, 0, 0, 0, 0, '0', '0', 0);
