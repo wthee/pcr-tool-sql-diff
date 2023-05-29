@@ -22,6 +22,7 @@ insert into birthday_login_bonus_data values (9101801, '伊绪「生日剧情」
 insert into birthday_login_bonus_data values (9102001, '美美「生日剧情」', 9, '2022/4/3 5:00:00', '2022/4/4 4:59:00', 1020500);
 insert into birthday_login_bonus_data values (9102002, '美美「生日剧情」', 9, '2023/4/3 5:00:00', '2023/4/4 4:59:00', 1020501);
 insert into birthday_login_bonus_data values (9102101, '胡桃「生日剧情」', 9, '2022/6/9 5:00:00', '2022/6/10 4:59:00', 1021500);
+insert into birthday_login_bonus_data values (9102102, '胡桃「生日剧情」', 9, '2023/6/9 5:00:00', '2023/6/10 4:59:00', 1021501);
 insert into birthday_login_bonus_data values (9102301, '绫音「生日剧情」', 9, '2022/5/10 5:00:00', '2022/5/11 4:59:00', 1023500);
 insert into birthday_login_bonus_data values (9102302, '绫音「生日剧情」', 9, '2023/5/10 5:00:00', '2023/5/11 4:59:00', 1023501);
 insert into birthday_login_bonus_data values (9102501, '铃莓「生日剧情」', 9, '2022/12/12 5:00:00', '2022/12/13 4:59:00', 1025500);
@@ -38,7 +39,9 @@ insert into birthday_login_bonus_data values (9103601, '镜华「生日剧情」
 insert into birthday_login_bonus_data values (9103701, '智「生日剧情」', 9, '2022/8/11 5:00:00', '2022/8/12 4:59:00', 1037500);
 insert into birthday_login_bonus_data values (9103801, '栞「生日剧情」', 9, '2022/11/3 5:00:00', '2022/11/4 4:59:00', 1038500);
 insert into birthday_login_bonus_data values (9104001, '碧「生日剧情」', 9, '2022/6/6 5:00:00', '2022/6/7 4:59:00', 1040500);
+insert into birthday_login_bonus_data values (9104002, '碧「生日剧情」', 9, '2023/6/6 5:00:00', '2023/6/7 4:59:00', 1040501);
 insert into birthday_login_bonus_data values (9104201, '千歌「生日剧情」', 9, '2022/6/3 5:00:00', '2022/6/4 4:59:00', 1042500);
+insert into birthday_login_bonus_data values (9104202, '千歌「生日剧情」', 9, '2023/6/3 5:00:00', '2023/6/4 4:59:00', 1042501);
 insert into birthday_login_bonus_data values (9104301, '真琴「生日剧情」', 9, '2022/8/9 5:00:00', '2022/8/10 4:59:00', 1043500);
 insert into birthday_login_bonus_data values (9104401, '伊莉亚「生日剧情」', 9, '2022/5/5 5:00:00', '2022/5/6 4:59:00', 1044500);
 insert into birthday_login_bonus_data values (9104402, '伊莉亚「生日剧情」', 9, '2023/5/5 5:00:00', '2023/5/6 4:59:00', 1044501);
