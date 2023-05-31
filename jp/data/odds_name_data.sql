@@ -248,3 +248,5 @@ insert into odds_name_data values (1011801, '1011820101', 'カリン（アルケ
 insert into odds_name_data values (1011802, '1011820102', 'ジータのメモリーピース', 99002, '');
 insert into odds_name_data values (1011901, '1011920101', 'カスミのメモリーピース', 99002, '');
 insert into odds_name_data values (1011902, '1011920102', 'シノブのメモリーピース', 99002, '');
+insert into odds_name_data values (1012001, '1012020101', 'イリヤのメモリーピース', 99002, '');
+insert into odds_name_data values (1012002, '1012020102', 'ユキのメモリーピース', 99002, '');

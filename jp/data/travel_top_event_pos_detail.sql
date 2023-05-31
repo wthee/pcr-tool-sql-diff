@@ -9,3 +9,7 @@ insert into travel_top_event_pos_detail values (7, 4, -195, -335, 1);
 insert into travel_top_event_pos_detail values (8, 4, 105, -415, 1);
 insert into travel_top_event_pos_detail values (9, 5, 135, -160, 1);
 insert into travel_top_event_pos_detail values (10, 6, 345, -40, 1);
+insert into travel_top_event_pos_detail values (11, 7, -230, 90, 1);
+insert into travel_top_event_pos_detail values (12, 8, 230, -420, 1);
+insert into travel_top_event_pos_detail values (13, 9, 30, 250, 1);
+insert into travel_top_event_pos_detail values (14, 10, 280, -245, 1);
