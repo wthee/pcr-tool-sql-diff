@@ -1239,7 +1239,7 @@ insert into unit_enemy_data values (600501, 'マツリのシャドウ', 100501, 
 insert into unit_enemy_data values (600601, 'アカリのシャドウ', 100601, 6, 6, 450, 570, 2, 2.19, 0, 0, 1, 'アカリの姿をした特殊な魔物');
 insert into unit_enemy_data values (600701, 'ミヤコのシャドウ', 100701, 3, 3, 450, 125, 1, 1.7, 0, 0, 1, 'ミヤコの姿をした特殊な魔物');
 insert into unit_enemy_data values (600801, 'ユキのシャドウ', 100801, 7, 7, 450, 805, 2, 2.07, 0, 0, 1, 'ユキの姿をした特殊な魔物');
-insert into unit_enemy_data values (600802, 'ユキのシャドウ', 100801, 7, 7, 450, 805, 2, 2.07, 0, 0, 1, 'ユキの姿をした特殊な魔物');
+insert into unit_enemy_data values (600802, 'ユキのシャドウ', 100801, 21, 7, 450, 805, 2, 2.07, 0, 0, 1, 'ユキの姿をした特殊な魔物');
 insert into unit_enemy_data values (600901, 'アンナのシャドウ', 100901, 5, 5, 450, 440, 2, 2.25, 0, 0, 1, 'アンナの姿をした特殊な魔物');
 insert into unit_enemy_data values (601001, 'マホのシャドウ', 101001, 7, 7, 450, 795, 2, 2.27, 0, 0, 1, 'マホの姿をした特殊な魔物');
 insert into unit_enemy_data values (601002, 'マホのシャドウ', 101001, 7, 7, 450, 795, 2, 2.27, 0, 0, 1, 'マホの姿をした特殊な魔物');
