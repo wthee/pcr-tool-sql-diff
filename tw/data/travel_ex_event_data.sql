@@ -6,3 +6,7 @@ insert into travel_ex_event_data values (8000003, '在露營地吃早餐', 4);
 insert into travel_ex_event_data values (8000004, '混沌要通過了，把路讓開！', 5);
 insert into travel_ex_event_data values (8000005, '穿越叢林', 6);
 insert into travel_ex_event_data values (8000006, '徒步（與機械）行來。', 7);
+insert into travel_ex_event_data values (8000007, '迷途惡魔的狂想曲', 8);
+insert into travel_ex_event_data values (8000008, '正所謂「欲速則飛舞」！', 9);
+insert into travel_ex_event_data values (8000009, '為了精靈族進行的熱鬧大冒險', 10);
+insert into travel_ex_event_data values (8000010, '前途多難的冒險講座？', 11);

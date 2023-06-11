@@ -108,4 +108,6 @@ insert into event_gacha_data values (10107, 10107, '聖誕布丁快樂！ 飛舞
 insert into event_gacha_data values (10108, 10108, '煙霧繚繞忘年奇譚\u3000為旭日初升舉杯', 2, 61072, 1, 6);
 insert into event_gacha_data values (10109, 10109, '新春美食回憶\u3000雪菲的跑腿大作戰！', 2, 61082, 1, 6);
 insert into event_gacha_data values (10110, 10110, '解放自由的伊甸園\u3000有朝一日重逢的未來', 2, 61092, 1, 6);
+insert into event_gacha_data values (10111, 10111, '解放自由的伊甸園\u3000有朝一日重逢的未來', 2, 61102, 1, 6);
+insert into event_gacha_data values (10112, 10112, 'Re:member\u3000我的心願編織出的未來', 2, 61112, 1, 6);
 insert into event_gacha_data values (19003, 10003, '吸血鬼獵人 with伊莉亞', 2, 60022, 1, 5);

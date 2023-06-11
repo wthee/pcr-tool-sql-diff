@@ -1,0 +1,1 @@
+CREATE INDEX 'won_story_data_0_unit_id_1_is_last' on 'won_story_data'('unit_id','is_last')

@@ -17963,12 +17963,7 @@ insert into wac_drama_script values (40922045, 40922, 3, '105811', 'wac_215_peko
 insert into wac_drama_script values (40922046, 40922, 21, 'vo_wac_230331', 'vo_wac_230331_008', '0', '0', '', '', '', '');
 insert into wac_drama_script values (40922047, 40922, 11, '105811', '當然♪\\n讓我們一起把蘭德索爾變得更加美好吧☆', '10', '1', '1', '0', '0', '0.5');
 insert into wac_drama_script values (40922048, 40922, 91, '0', '', '', '', '', '', '', '');
-insert into wac_drama_script values (40922049, 40922, 22, '0', '0', '', '', '', '', '', '');
-insert into wac_drama_script values (40922050, 40922, 111, '', '', '', '', '', '', '', '');
-insert into wac_drama_script values (40923001, 40923, 3, '118511', 'wac_215_karin_idle_normal', '1', '', '', '0.2', '', '');
-insert into wac_drama_script values (40923002, 40923, 3, '105911', 'wac_215_coccoro_idle_wish2', '1', '', '', '0.2', '', '');
-insert into wac_drama_script values (40923003, 40923, 3, '105811', 'wac_215_peko_idle_guts2', '1', '', '', '0.2', '', '');
-insert into wac_drama_script values (40923004, 40923, 3, '106011', 'wac_215_idle_arm_crossed', '1', '', '', '0.2', '', '');
-insert into wac_drama_script values (40923005, 40923, 3, '106411', 'wac_215_idle_normal2_joy', '1', '', '', '0.2', '', '');
-insert into wac_drama_script values (40923006, 40923, 3, '2', 'wac_kishi_idle_normal_joy', '1', '', '', '0.2', '', '');
-insert into wac_drama_script values (40923007, 40923, 91, '0', '', '', '', '', '', '', '');
+insert into wac_drama_script values (40922049, 40922, 3, '105811', 'wac_215_peko_idle_guts2', '1', '', '', '0.2', '', '');
+insert into wac_drama_script values (40922050, 40922, 22, '0', '0', '', '', '', '', '', '');
+insert into wac_drama_script values (40922051, 40922, 93, '0.5', '0', '', '', '', '', '', '');
+insert into wac_drama_script values (40923001, 40923, 91, '0', '', '', '', '', '', '', '');

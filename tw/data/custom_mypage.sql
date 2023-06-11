@@ -12,3 +12,4 @@ insert into custom_mypage values (9000210, 40001, 0, '5月的連假！', 0, 0, 1
 insert into custom_mypage values (9000211, 40001, 0, '梅雨合唱團', 0, 0, 1);
 insert into custom_mypage values (9000215, 20005, 0, '4.5周年紀念自訂主頁面1', 1, 0, 1);
 insert into custom_mypage values (9000216, 20005, 0, '4.5周年紀念自訂主頁面2', 1, 0, 1);
+insert into custom_mypage values (9000222, 30001, 0, '回想重組 自訂主頁面', 0, 0, 1);
