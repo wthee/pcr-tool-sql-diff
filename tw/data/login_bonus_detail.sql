@@ -342,3 +342,9 @@ insert into login_bonus_detail values (372, 49020, 7, 8, 91002, 200, 0, '', '', 
 insert into login_bonus_detail values (373, 49020, 8, 8, 91002, 300, 0, '', '', 0, 0);
 insert into login_bonus_detail values (374, 49020, 9, 8, 91002, 300, 0, '', '', 0, 0);
 insert into login_bonus_detail values (375, 49020, 10, 8, 91002, 600, 0, '', '', 0, 0);
+insert into login_bonus_detail values (376, 40011, 1, 2, 24001, 1, 125801, '莉莉', '馬上就可以\\n見到大家了呢。\\n現在我的內心雀躍不已……\\n', 1, 0);
+insert into login_bonus_detail values (377, 40011, 2, 2, 24001, 1, 126001, '可璃亞', '初次見面，我是可璃亞♪\\n我非常期待\\n和大家一起冒險', 1, 0);
+insert into login_bonus_detail values (378, 40011, 3, 2, 24001, 1, 126101, '普蕾西亞', '嗯──\\n這個，給你。\\n是的', 1, 0);
+insert into login_bonus_detail values (379, 40011, 4, 2, 24001, 1, 125801, '莉莉', '讓我再次自我介紹……\\n我是【幻變少女】的\\n公會長莉莉', 2, 0);
+insert into login_bonus_detail values (380, 40011, 5, 2, 24001, 1, 126001, '可璃亞', '你好，哥哥♪\\n我是【幻變少女】的\\n可璃亞', 2, 0);
+insert into login_bonus_detail values (381, 40011, 6, 2, 24001, 1, 126101, '普蕾西亞', '哥哥。\\n你願意過來，我很開心', 2, 0);
