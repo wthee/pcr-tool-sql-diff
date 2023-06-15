@@ -94,3 +94,6 @@ insert into shiori_quest_area values (20039103, 20039, '王都ランドソル', 
 insert into shiori_quest_area values (20039201, 20039, '王都ランドソル', 201, 'bgm_M486', 'bgm_M486', 1, 0, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20040101, 20040, 'カルミナサマーライブ会場', 201, 'bgm_M496', 'bgm_M496', 1, 1, 100, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20040201, 20040, 'カルミナサマーライブ会場', 201, 'bgm_M496', 'bgm_M496', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20041101, 20041, '王都ランドソル', 201, 'bgm_M508', 'bgm_M508', 1, 1, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20041102, 20041, 'オーエド町', 201, 'bgm_M508', 'bgm_M508', 1, 2, 45, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20041201, 20041, 'オーエド町', 201, 'bgm_M508', 'bgm_M508', 1, 0, 0, 0, 0, '0', '0', 0);

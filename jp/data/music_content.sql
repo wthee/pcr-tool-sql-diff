@@ -277,3 +277,9 @@ insert into music_content values (275, 'ランドソル一期一会', '1:58', '0
 insert into music_content values (276, '次元断層', '1:07', '0:00', '次元断層\\n\\n時間 / 01:07\\n作曲 / Enarak（Cygames）\\n編曲 / Enarak（Cygames）', 'bgm_MC007', 'bgm_MC007_juke');
 insert into music_content values (277, '次元の狭間に現れし脅威', '1:46', '0:00', '次元断層\\n\\n時間 / 01:46\\n作曲 / 中村博\\n編曲 / 中村博', 'bgm_MC008', 'bgm_MC008_juke');
 insert into music_content values (278, '華麗なる世界の強敵', '1:32', '0:00', 'メインクエストボスバトル\\n\\n時間 / 01:32\\n作曲 / 中町友洋\\n編曲 / 中町友洋', 'bgm_MC023', 'bgm_MC023_juke');
+insert into music_content values (279, 'ヴァンパイアフォークロア\u3000夜と美の饗宴', '1:13', '0:00', 'ストーリーイベントテーマ\\n-｢Gothical Radical † Eternal Wedding｣\\nアレンジ-\\n\\n時間 / 01:13\\n作曲 / 毛蟹（LIVE LAB.）\\n編曲 / 佐藤遥（Cygames）', 'bgm_MC036', 'bgm_MC036_juke');
+insert into music_content values (280, '変貌せし従者・ブラド', '2:07', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 02:07\\n作曲 / 関根修平（Cygames）\\n編曲 / 関根修平（Cygames）', 'bgm_MC039', 'bgm_MC039_juke');
+insert into music_content values (281, 'Gothical Radical † Eternal Wedding', '1:29', '0:48', 'キャラクターソング\\n\\n時間 / 01:29\\n歌\u3000 / イリヤ（丹下桜）\\n作詞 / 毛蟹（LIVE LAB.）\\n作曲 / 毛蟹（LIVE LAB.）\\n編曲 / 毛蟹（LIVE LAB.）', 'bgm_MC052', 'bgm_MC052');
+insert into music_content values (282, 'ユキの審美会', '1:28', '0:00', 'ストーリーイベントミニコンテンツ\\n-｢Gothical Radical † Eternal Wedding｣\\nアレンジ-\\n\\n時間 / 01:28\\n作曲 / 毛蟹（LIVE LAB.）\\n編曲 / 中村早織（Cygames）', 'bgm_MC040', 'bgm_MC040_juke');
+insert into music_content values (283, 'プリンセス・ファイト☆', '0:54', '0:00', 'メインクエスト\\n\\n時間 / 00:54\\n作曲 / 西木康智\\n編曲 / 西木康智', 'bgm_M06', 'bgm_M06_juke');
+insert into music_content values (284, 'エルピス島の戦い', '1:10', '0:00', 'メインクエスト\\n\\n時間 / 01:10\\n作曲 / 白井友規（Cygames）\\n編曲 / 白井友規（Cygames）', 'bgm_M169', 'bgm_M169_juke');
