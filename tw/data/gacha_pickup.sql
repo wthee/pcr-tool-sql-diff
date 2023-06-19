@@ -20,3 +20,7 @@ insert into gacha_pickup values (3, 4, 1, 123201, '綾音（探險家）');
 insert into gacha_pickup values (3, 5, 1, 123701, '七七香（萬聖節）');
 insert into gacha_pickup values (3, 6, 1, 123901, '茉莉（狂野）');
 insert into gacha_pickup values (3, 7, 1, 124201, '純（聖誕節）');
+insert into gacha_pickup values (4, 1, 1, 121001, '貪吃佩可（超載）');
+insert into gacha_pickup values (4, 2, 1, 121101, '凱留（超載）');
+insert into gacha_pickup values (4, 3, 1, 115501, '可可蘿（祭服）');
+insert into gacha_pickup values (4, 4, 1, 109101, '靜流（情人節）');
