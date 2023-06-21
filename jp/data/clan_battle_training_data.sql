@@ -127,3 +127,7 @@ insert into clan_battle_training_data values (125, 1064, 0, 1, 299);
 insert into clan_battle_training_data values (126, 1064, 0, 2, 300);
 insert into clan_battle_training_data values (127, 1064, 0, 3, 301);
 insert into clan_battle_training_data values (128, 1064, 0, 4, 302);
+insert into clan_battle_training_data values (129, 1065, 0, 1, 304);
+insert into clan_battle_training_data values (130, 1065, 0, 2, 305);
+insert into clan_battle_training_data values (131, 1065, 0, 3, 306);
+insert into clan_battle_training_data values (132, 1065, 0, 4, 307);
