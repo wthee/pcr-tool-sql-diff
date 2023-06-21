@@ -350,6 +350,12 @@ insert into enemy_m_parts values (610110301, '樂園守護者 VERY HARD', 610110
 insert into enemy_m_parts values (610110401, '樂園守護者 SP1', 610110411, 610110412, 610110413, 610110414, 0);
 insert into enemy_m_parts values (610110402, '樂園守護者 SP2', 610110421, 610110422, 610110423, 610110424, 0);
 insert into enemy_m_parts values (610110403, '樂園守護者 SP3', 610110431, 610110432, 610110433, 610110434, 0);
+insert into enemy_m_parts values (610113101, '超載力量', 610113102, 610113103, 0, 0, 0);
+insert into enemy_m_parts values (610113201, '超載力量', 610113202, 610113203, 0, 0, 0);
+insert into enemy_m_parts values (610113301, '超載力量', 610113302, 610113303, 0, 0, 0);
+insert into enemy_m_parts values (610113401, '超載力量', 610113411, 610113412, 0, 0, 0);
+insert into enemy_m_parts values (610113402, '超載力量', 610113421, 610113422, 0, 0, 0);
+insert into enemy_m_parts values (610113403, '超載力量', 610113431, 610113432, 0, 0, 0);
 insert into enemy_m_parts values (660031101, '被操控的雪人 NORMAL', 660031102, 660031103, 0, 0, 0);
 insert into enemy_m_parts values (660031201, '被操控的雪人 HARD', 660031202, 660031203, 0, 0, 0);
 insert into enemy_m_parts values (660031301, '被操控的雪人 VERY HARD', 660031302, 660031303, 0, 0, 0);
