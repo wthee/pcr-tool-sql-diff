@@ -104,3 +104,7 @@ insert into clan_battle_training_data values (102, 1058, 0, 2, 271);
 insert into clan_battle_training_data values (103, 1058, 0, 3, 272);
 insert into clan_battle_training_data values (104, 1058, 0, 4, 273);
 insert into clan_battle_training_data values (105, 1058, 0, 5, 274);
+insert into clan_battle_training_data values (106, 1059, 0, 1, 276);
+insert into clan_battle_training_data values (107, 1059, 0, 2, 277);
+insert into clan_battle_training_data values (108, 1059, 0, 3, 278);
+insert into clan_battle_training_data values (109, 1059, 0, 4, 279);
