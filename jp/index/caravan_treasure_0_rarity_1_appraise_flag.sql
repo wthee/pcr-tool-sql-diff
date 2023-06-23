@@ -1,0 +1,1 @@
+CREATE INDEX 'caravan_treasure_0_rarity_1_appraise_flag' on 'caravan_treasure'('rarity','appraise_flag')
