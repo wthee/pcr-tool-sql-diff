@@ -49,8 +49,8 @@ insert into dear_chara values (20032, 5, '似似花', 1000, 1, 115001, 0, 0, 0, 
 insert into dear_chara values (20035, 1, '莉瑪', 1000, 1, 115801, 0, 0, 0, 0, 0);
 insert into dear_chara values (20035, 2, '真步', 1000, 1, 116001, 0, 0, 0, 0, 5061002);
 insert into dear_chara values (20035, 3, '真琴', 1000, 1, 115901, 0, 0, 0, 0, 5061003);
-insert into dear_chara values (10093, 1, '祈梨', 1000, 1, 116501, 0, 0, 0, 0, 0);
-insert into dear_chara values (10093, 2, '嘉夜', 1000, 1, 116601, 0, 0, 0, 0, 0);
+insert into dear_chara values (20037, 1, '祈梨', 1000, 1, 116501, 0, 0, 0, 0, 0);
+insert into dear_chara values (20037, 2, '嘉夜', 1000, 1, 116601, 0, 0, 0, 0, 0);
 insert into dear_chara values (10095, 1, '碧', 1000, 1, 116701, 0, 0, 0, 0, 0);
 insert into dear_chara values (10103, 1, '香織', 1000, 1, 117701, 0, 0, 0, 0, 0);
 insert into dear_chara values (10103, 2, '妮諾', 1000, 1, 117801, 0, 0, 0, 0, 0);
