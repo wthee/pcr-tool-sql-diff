@@ -18,6 +18,7 @@ insert into birthday_login_bonus_data values (9100801, '雪「生日劇情」', 
 insert into birthday_login_bonus_data values (9100802, '雪「生日劇情」', 9, '2022/10/10 05:00:00', '2022/10/11 04:59:59', 1008501);
 insert into birthday_login_bonus_data values (9100901, '杏奈「生日劇情」', 9, '2021/07/05 05:00:00', '2021/07/06 04:59:59', 1009500);
 insert into birthday_login_bonus_data values (9100902, '杏奈「生日劇情」', 9, '2022/07/05 05:00:00', '2022/07/06 04:59:59', 1009501);
+insert into birthday_login_bonus_data values (9100903, '杏奈「生日劇情」', 9, '2023/07/05 05:00:00', '2023/07/06 04:59:59', 14114);
 insert into birthday_login_bonus_data values (9101001, '真步「生日劇情」', 9, '2021/09/22 05:00:00', '2021/09/23 04:59:59', 1010500);
 insert into birthday_login_bonus_data values (9101002, '真步「生日劇情」', 9, '2022/09/22 05:00:00', '2022/09/23 04:59:59', 1010501);
 insert into birthday_login_bonus_data values (9101101, '璃乃「生日劇情」', 9, '2021/08/25 05:00:00', '2021/08/26 04:59:59', 1011500);
@@ -35,6 +36,7 @@ insert into birthday_login_bonus_data values (9101602, '鈴奈「生日劇情」
 insert into birthday_login_bonus_data values (9101603, '鈴奈「生日劇情」', 9, '2023/04/10 05:00:00', '2023/04/11 04:59:59', 5514);
 insert into birthday_login_bonus_data values (9101701, '香織「生日劇情」', 9, '2021/07/07 05:00:00', '2021/07/08 04:59:59', 1017500);
 insert into birthday_login_bonus_data values (9101702, '香織「生日劇情」', 9, '2022/07/07 05:00:00', '2022/07/08 04:59:59', 1017501);
+insert into birthday_login_bonus_data values (9101703, '香織「生日劇情」', 9, '2023/07/07 05:00:00', '2023/07/08 04:59:59', 14314);
 insert into birthday_login_bonus_data values (9101801, '伊緒「生日劇情」', 9, '2021/08/14 05:00:00', '2021/08/15 04:59:59', 1018500);
 insert into birthday_login_bonus_data values (9101802, '伊緒「生日劇情」', 9, '2022/08/14 05:00:00', '2022/08/15 04:59:59', 1018501);
 insert into birthday_login_bonus_data values (9102001, '美美「生日劇情」', 9, '2021/04/03 05:00:00', '2021/04/04 04:59:59', 1020500);
@@ -52,6 +54,7 @@ insert into birthday_login_bonus_data values (9102601, '鈴「生日劇情」', 
 insert into birthday_login_bonus_data values (9102602, '鈴「生日劇情」', 9, '2023/01/01 05:00:00', '2023/01/02 04:59:59', 1026501);
 insert into birthday_login_bonus_data values (9102701, '惠理子「生日劇情」', 9, '2021/07/30 05:00:00', '2021/07/31 04:59:59', 1027500);
 insert into birthday_login_bonus_data values (9102702, '惠理子「生日劇情」', 9, '2022/07/30 05:00:00', '2022/07/31 04:59:59', 1027501);
+insert into birthday_login_bonus_data values (9102703, '惠理子「生日劇情」', 9, '2023/07/30 05:00:00', '2023/07/31 04:59:59', 16614);
 insert into birthday_login_bonus_data values (9102801, '咲戀「生日劇情」', 9, '2021/10/04 05:00:00', '2021/10/05 04:59:59', 1028500);
 insert into birthday_login_bonus_data values (9102802, '咲戀「生日劇情」', 9, '2022/10/04 05:00:00', '2022/10/05 04:59:59', 1028501);
 insert into birthday_login_bonus_data values (9102901, '望「生日劇情」', 9, '2022/01/24 05:00:00', '2022/01/25 04:59:59', 1029500);
@@ -101,6 +104,7 @@ insert into birthday_login_bonus_data values (9105201, '莉瑪「生日劇情」
 insert into birthday_login_bonus_data values (9105202, '莉瑪「生日劇情」', 9, '2023/03/14 05:00:00', '2023/03/15 04:59:59', 1052501);
 insert into birthday_login_bonus_data values (9105301, '莫妮卡「生日劇情」', 9, '2021/07/28 05:00:00', '2021/07/29 04:59:59', 1053500);
 insert into birthday_login_bonus_data values (9105302, '莫妮卡「生日劇情」', 9, '2022/07/28 05:00:00', '2022/07/29 04:59:59', 1053501);
+insert into birthday_login_bonus_data values (9105303, '莫妮卡「生日劇情」', 9, '2023/07/28 05:00:00', '2023/07/29 04:59:59', 16414);
 insert into birthday_login_bonus_data values (9105401, '紡希「生日劇情」', 9, '2021/09/07 05:00:00', '2021/09/08 04:59:59', 1054500);
 insert into birthday_login_bonus_data values (9105402, '紡希「生日劇情」', 9, '2022/09/07 05:00:00', '2022/09/08 04:59:59', 1054501);
 insert into birthday_login_bonus_data values (9105501, '步未「生日劇情」', 9, '2021/04/07 05:00:00', '2021/04/08 04:59:59', 1055500);
@@ -108,6 +112,7 @@ insert into birthday_login_bonus_data values (9105502, '步未「生日劇情」
 insert into birthday_login_bonus_data values (9105503, '步未「生日劇情」', 9, '2023/04/07 05:00:00', '2023/04/08 04:59:59', 5214);
 insert into birthday_login_bonus_data values (9105601, '流夏「生日劇情」', 9, '2021/07/11 05:00:00', '2021/07/12 04:59:59', 1056500);
 insert into birthday_login_bonus_data values (9105602, '流夏「生日劇情」', 9, '2022/07/11 05:00:00', '2022/07/12 04:59:59', 1056501);
+insert into birthday_login_bonus_data values (9105603, '流夏「生日劇情」', 9, '2023/07/11 05:00:00', '2023/07/12 04:59:59', 14714);
 insert into birthday_login_bonus_data values (9105701, '吉塔「生日劇情」', 9, '2022/03/10 05:00:00', '2022/03/11 04:59:59', 1057500);
 insert into birthday_login_bonus_data values (9105702, '吉塔「生日劇情」', 9, '2023/03/10 05:00:00', '2023/03/11 04:59:59', 1057501);
 insert into birthday_login_bonus_data values (9105801, '貪吃佩可「生日劇情」', 9, '2021/03/31 05:00:00', '2021/04/01 04:59:59', 1058500);
@@ -130,6 +135,7 @@ insert into birthday_login_bonus_data values (9106601, '祈梨「生日劇情」
 insert into birthday_login_bonus_data values (9106602, '祈梨「生日劇情」', 9, '2022/09/29 05:00:00', '2022/09/30 04:59:59', 1066501);
 insert into birthday_login_bonus_data values (9106703, '帆稀「生日劇情」', 9, '2023/04/17 05:00:00', '2023/04/18 04:59:59', 6214);
 insert into birthday_login_bonus_data values (9106802, '拉比林斯達「生日劇情」', 9, '2022/07/25 05:00:00', '2022/07/26 04:59:59', 1068501);
+insert into birthday_login_bonus_data values (9106803, '拉比林斯達「生日劇情」', 9, '2023/07/25 05:00:00', '2023/07/26 04:59:59', 16114);
 insert into birthday_login_bonus_data values (9107001, '似似花「生日劇情」', 9, '2022/03/24 05:00:00', '2022/03/25 04:59:59', 1070500);
 insert into birthday_login_bonus_data values (9107002, '似似花「生日劇情」', 9, '2023/03/24 05:00:00', '2023/03/25 04:59:59', 1070501);
 insert into birthday_login_bonus_data values (9107101, '克莉絲提娜「生日劇情」', 9, '2022/02/07 05:00:00', '2022/02/08 04:59:59', 1071500);
