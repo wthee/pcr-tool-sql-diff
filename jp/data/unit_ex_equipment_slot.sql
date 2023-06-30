@@ -221,6 +221,8 @@ insert into unit_ex_equipment_slot values (125701, 110, 203, 305);
 insert into unit_ex_equipment_slot values (125801, 105, 201, 301);
 insert into unit_ex_equipment_slot values (126201, 109, 204, 304);
 insert into unit_ex_equipment_slot values (126301, 110, 203, 305);
+insert into unit_ex_equipment_slot values (126401, 107, 201, 301);
+insert into unit_ex_equipment_slot values (126701, 102, 202, 301);
 insert into unit_ex_equipment_slot values (180101, 107, 201, 301);
 insert into unit_ex_equipment_slot values (180201, 109, 204, 304);
 insert into unit_ex_equipment_slot values (180301, 101, 202, 301);

@@ -1,1 +1,15 @@
 CREATE TABLE 'caravan_buff_disp' ('id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'effect_id' INTEGER NOT NULL, 'category' INTEGER NOT NULL, 'icon_id' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'count_from' INTEGER NOT NULL, 'count_to' INTEGER NOT NULL, PRIMARY KEY('id'));
+insert into caravan_buff_disp values (1, 1, 52001, 1, 1, '【料理】ダイスが2個に増える', 0, 0);
+insert into caravan_buff_disp values (2, 1, 52002, 1, 1, '【料理】ダイスの目が必ず「1」になる', 0, 0);
+insert into caravan_buff_disp values (3, 1, 52002, 3, 2, '【料理】次のターン数のカウントをスキップする', 0, 0);
+insert into caravan_buff_disp values (4, 1, 52004, 1, 1, '【料理】ダイスの目が必ず「4」になる', 0, 0);
+insert into caravan_buff_disp values (5, 1, 52006, 1, 1, '【料理】ダイスの目が\\n「4・5・6」のみになる', 0, 0);
+insert into caravan_buff_disp values (6, 1, 52007, 1, 1, '【料理】ダイスの目が1回目は必ず「3」に、2回目は必ず「6」になる', 0, 0);
+insert into caravan_buff_disp values (7, 1, 52003, 1, 1, '【料理】ダイスの目が必ず「5」になる', 0, 0);
+insert into caravan_buff_disp values (8, 1, 52008, 2, 7, '【料理】マイルマスの獲得マイルが200%アップする', 0, 0);
+insert into caravan_buff_disp values (9, 2, 4, 3, 2, '【イベント】次のターン数のカウントをスキップする', 0, 0);
+insert into caravan_buff_disp values (10, 2, 5, 2, 3, '【イベント】マイルマスの獲得マイルが100%アップする', 0, 0);
+insert into caravan_buff_disp values (11, 2, 6, 2, 5, '【イベント】ミニゲームの獲得マイルが100%アップする', 0, 0);
+insert into caravan_buff_disp values (12, 2, 7, 3, 4, '【イベント】マイルショップの全商品が20%以上割引される', 0, 0);
+insert into caravan_buff_disp values (13, 1, 52009, 1, 1, '【料理】ダイスの目が1回目は必ず「8」に、2回目は必ず「1」になる', 0, 0);
+insert into caravan_buff_disp values (14, 1, 52010, 2, 6, '【料理】「マイルマス」「トレ\\nジャーマス」「ショップマス」のRANKが1つ上がる', 0, 0);

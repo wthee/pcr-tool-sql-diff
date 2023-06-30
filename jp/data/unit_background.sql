@@ -220,6 +220,8 @@ insert into unit_background values (125701, 'カリン（アルケミスト）',
 insert into unit_background values (125801, 'リリ（フォールン）', 501670, 'ジオ・テオゴニア_街道_昼', 0.0, 2);
 insert into unit_background values (126201, 'イリヤ（儀装束）', 501372, '滝壺_夜', 0.0, 20);
 insert into unit_background values (126301, 'ユキ（儀装束）', 500040, 'ランドソル ギルドハウス', 0.0, 4);
+insert into unit_background values (126401, 'クローチェ', 501660, 'ジオ・テオゴニア_平原_昼', 0.0, 4);
+insert into unit_background values (126701, 'アキノ（サマー）', 501030, 'ウィッシュビーチ', 0.0, 4);
 insert into unit_background values (180101, 'ヒヨリ（プリンセス）', 500130, 'エステレラ街道', 0.0, 2);
 insert into unit_background values (180201, 'ユイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 4);
 insert into unit_background values (180301, 'レイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 3);

@@ -455,3 +455,11 @@ insert into hatsune_emblem_mission_reward values (469, 99001247, 8, 91002, 30, 0
 insert into hatsune_emblem_mission_reward values (470, 99001248, 15, 11001248, 1, 1003);
 insert into hatsune_emblem_mission_reward values (471, 99001248, 8, 91002, 30, 0);
 insert into hatsune_emblem_mission_reward values (472, 99001249, 15, 11001249, 1, 1003);
+insert into hatsune_emblem_mission_reward values (473, 99001250, 15, 11001250, 1, 1001);
+insert into hatsune_emblem_mission_reward values (474, 99001250, 8, 91002, 30, 0);
+insert into hatsune_emblem_mission_reward values (475, 99001251, 15, 11001251, 1, 1001);
+insert into hatsune_emblem_mission_reward values (476, 99001251, 8, 91002, 30, 0);
+insert into hatsune_emblem_mission_reward values (477, 99001252, 15, 11001252, 1, 1002);
+insert into hatsune_emblem_mission_reward values (478, 99001252, 8, 91002, 30, 0);
+insert into hatsune_emblem_mission_reward values (479, 99001253, 15, 11001253, 1, 1003);
+insert into hatsune_emblem_mission_reward values (480, 99001253, 8, 91002, 30, 0);
