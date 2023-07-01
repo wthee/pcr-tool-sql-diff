@@ -10,3 +10,5 @@ insert into travel_ex_event_data values (8000007, '迷途惡魔的狂想曲', 8)
 insert into travel_ex_event_data values (8000008, '正所謂「欲速則飛舞」！', 9);
 insert into travel_ex_event_data values (8000009, '為了精靈族進行的熱鬧大冒險', 10);
 insert into travel_ex_event_data values (8000010, '前途多難的冒險講座？', 11);
+insert into travel_ex_event_data values (8000011, '海上騎士', 12);
+insert into travel_ex_event_data values (8000012, '冒險路上有山有「谷」', 13);

@@ -460,7 +460,7 @@ insert into sqlite_stat1 values ('sp_lose_voice_group', 'sqlite_autoindex_sp_los
 insert into sqlite_stat1 values ('training_quest_data', None, '28');
 insert into sqlite_stat1 values ('unique_equip_enhance_rate', 'unique_equip_enhance_rate_0_equipment_id', '240 2');
 insert into sqlite_stat1 values ('trial_battle_reward_data', None, '25');
-insert into sqlite_stat1 values ('travel_ex_event_data', None, '11');
+insert into sqlite_stat1 values ('travel_ex_event_data', None, '13');
 insert into sqlite_stat1 values ('hatsune_diary_script', 'hatsune_diary_script_0_diary_id', '427 31');
 insert into sqlite_stat1 values ('hatsune_boss_condition', None, '519');
 insert into sqlite_stat1 values ('room_item_get_announcement', None, '14');
