@@ -135,6 +135,7 @@ insert into voice_group values (20137, '蘭法＆千歌', 118101001, 104201001, 
 insert into voice_group values (20138, '班比&伊莉亞', 122301001, 104401001, 0, 0, 0);
 insert into voice_group values (20139, '涅婭＆蘭法', 123301001, 118101001, 0, 0, 0);
 insert into voice_group values (20140, '涅婭＆鏡華', 123301001, 103601001, 0, 0, 0);
+insert into voice_group values (20141, '涅婭＆美空', 123301001, 118201001, 0, 0, 0);
 insert into voice_group values (20142, '涅婭＆凱留', 123301001, 106001001, 0, 0, 0);
 insert into voice_group values (20143, '愛梅斯＆可可蘿', 123001001, 105901001, 0, 0, 0);
 insert into voice_group values (20144, '愛梅斯＆優衣', 123001001, 100201001, 0, 0, 0);
@@ -149,6 +150,8 @@ insert into voice_group values (20152, '霸瞳皇帝＆凱留', 106901001, 10600
 insert into voice_group values (20153, '霸瞳皇帝＆拉比林斯達', 106901001, 106801001, 0, 0, 0);
 insert into voice_group values (20154, '霸瞳皇帝＆克莉絲', 106901001, 107101001, 0, 0, 0);
 insert into voice_group values (20155, '霸瞳皇帝＆似似花', 106901001, 107001001, 0, 0, 0);
+insert into voice_group values (20156, '美空＆蘭法', 118201001, 118101001, 0, 0, 0);
+insert into voice_group values (20157, '美空＆矛依未', 118201001, 106101001, 0, 0, 0);
 insert into voice_group values (30001, '日和（花凜對話用）', 118501001, 300101001, 0, 0, 0);
 insert into voice_group values (30002, '優衣（花凜對話用）', 118501001, 300201001, 0, 0, 0);
 insert into voice_group values (30003, '怜（花凜對話用）', 118501001, 300301001, 0, 0, 0);

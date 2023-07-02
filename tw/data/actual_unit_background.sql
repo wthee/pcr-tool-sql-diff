@@ -156,6 +156,7 @@ insert into actual_unit_background values (117831, '妮諾・珠貝爾', 510220,
 insert into actual_unit_background values (117931, '美波 鈴奈', 510300, 2);
 insert into actual_unit_background values (118031, '克蕾雅‧波洋希亞', 510100, 4);
 insert into actual_unit_background values (118131, '卯之花 蘭', 510392, 4);
+insert into actual_unit_background values (118231, '流 美空', 510100, 2);
 insert into actual_unit_background values (118531, '觀崎 佳凜', 510100, 2);
 insert into actual_unit_background values (119031, '支倉 伊緒', 510090, 2);
 insert into actual_unit_background values (119131, '遠見 空花', 510150, 4);
