@@ -579,3 +579,4 @@ insert into gacha_exchange_lineup values (577, 267, 180401, 3, 0, '2023/06/30 12
 insert into gacha_exchange_lineup values (578, 267, 107001, 3, 0, '2023/06/30 12:00:00', '2023/07/03 18:59:59');
 insert into gacha_exchange_lineup values (579, 267, 106101, 3, 0, '2023/06/30 12:00:00', '2023/07/03 18:59:59');
 insert into gacha_exchange_lineup values (580, 267, 107101, 3, 0, '2023/06/30 12:00:00', '2023/07/03 18:59:59');
+insert into gacha_exchange_lineup values (581, 268, 126601, 3, 1117, '2023/07/03 19:00:00', '2023/07/12 11:59:59');

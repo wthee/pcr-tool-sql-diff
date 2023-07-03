@@ -62,7 +62,7 @@ insert into voice_group_chara values (106601001, 'ドラゴンズネスト（イ
 insert into voice_group_chara values (106701001, 'ドラゴンズネスト（ホマレ）', 106701, 124501, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (106801001, 'ラビリンス（ラビリスタ）', 106801, 121201, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (106901001, '？？？（カイザーインサイト）', 106901, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (107001001, '？？？（ネネカ）', 107001, 115001, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (107001001, '？？？（ネネカ）', 107001, 115001, 126601, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (107101001, 'NIGHTMARE（クリスティーナ）', 107101, 111501, 123801, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (109201001, 'マナリア（アン）', 109201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (109301001, 'マナリア（ルゥ）', 109301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
