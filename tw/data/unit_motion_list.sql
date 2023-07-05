@@ -209,6 +209,7 @@ insert into unit_motion_list values (124701, 1);
 insert into unit_motion_list values (124801, 1);
 insert into unit_motion_list values (124901, 1);
 insert into unit_motion_list values (125001, 1);
+insert into unit_motion_list values (125101, 1);
 insert into unit_motion_list values (125901, 1);
 insert into unit_motion_list values (180101, 1);
 insert into unit_motion_list values (180201, 1);

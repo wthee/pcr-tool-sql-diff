@@ -218,6 +218,7 @@ insert into chara_identity values (124701, 51, 0, 0);
 insert into chara_identity values (124801, 29, 0, 0);
 insert into chara_identity values (124901, 65, 0, 0);
 insert into chara_identity values (125001, 61, 0, 0);
+insert into chara_identity values (125101, 46, 0, 0);
 insert into chara_identity values (180101, 1, 0, 0);
 insert into chara_identity values (180201, 2, 0, 0);
 insert into chara_identity values (180301, 3, 0, 0);

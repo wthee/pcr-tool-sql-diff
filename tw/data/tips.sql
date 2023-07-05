@@ -118,6 +118,7 @@ insert into tips values (4123201, 123201, 1, '像在野餐的感覺');
 insert into tips values (4123301, 123301, 1, '養眼');
 insert into tips values (4123801, 123801, 1, '毫不留情');
 insert into tips values (4123901, 123901, 1, '●秘密圖鑑● ①茉莉');
+insert into tips values (4125101, 125101, 1, '無比幸福咖啡廳');
 insert into tips values (4180101, 180101, 1, '猜拳時間！');
 insert into tips values (4180201, 180201, 1, '肚子咕咕叫');
 insert into tips values (4180301, 180301, 1, '守護之力');
