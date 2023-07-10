@@ -1097,7 +1097,7 @@ insert into quest_condition_data values (13034001, 12034001, 13033003, 0, 0, 0, 
 insert into quest_condition_data values (13034002, 13034001, 0, 0, 0, 0, 13034003, 0, 0, 0, 0);
 insert into quest_condition_data values (13034003, 13034002, 0, 0, 0, 0, 13035001, 0, 0, 0, 0);
 insert into quest_condition_data values (13035001, 12035001, 13034003, 0, 0, 0, 13035002, 0, 0, 0, 0);
-insert into quest_condition_data values (13035002, 99999999, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into quest_condition_data values (13035002, 13035001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into quest_condition_data values (13035003, 99999999, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into quest_condition_data values (18001001, 11009002, 0, 0, 0, 0, 18001002, 0, 0, 0, 0);
 insert into quest_condition_data values (18001002, 11013001, 18001001, 0, 0, 0, 18001003, 0, 0, 0, 0);
