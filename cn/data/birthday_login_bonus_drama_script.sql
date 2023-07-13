@@ -50,7 +50,7 @@ insert into birthday_login_bonus_drama_script values (1001501048, 1001501, 21, '
 insert into birthday_login_bonus_drama_script values (1001501049, 1001501, 11, '100111', '因为是我的生日，\\n这样做就算不上惊喜了？\\n是吗！真的是呢！诶嘿嘿……', '5', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1001501050, 1001501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1001501051, 1001501, 21, 'vo_adv_1001501', 'vo_adv_1001501_004', '0', '0', '', '', '', '');
-insert into birthday_login_bonus_drama_script values (1001501052, 1001501, 11, '100111', '多亏了骑士先生，\\n今天hi完美的一天！\\n总觉得心脏怦怦直跳，停不下来……\\n好了好了，赶快来吃蛋糕吧！', '6', '1', '1', '0', '0', '');
+insert into birthday_login_bonus_drama_script values (1001501052, 1001501, 11, '100111', '多亏了骑士先生，\\n今天是完美的一天！\\n总觉得心脏怦怦直跳，停不下来……\\n好了好了，赶快来吃蛋糕吧！', '6', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1001501053, 1001501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1001501054, 1001501, 31, '9', '9', '0', '0', '1', '1', '', '');
 insert into birthday_login_bonus_drama_script values (1001501055, 1001501, 131, '0', '', '', '', '', '', '', '');
@@ -735,7 +735,7 @@ insert into birthday_login_bonus_drama_script values (1013501036, 1013501, 3, '1
 insert into birthday_login_bonus_drama_script values (1013501037, 1013501, 93, '2', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1013501038, 1013501, 21, 'vo_adv_1013501', 'vo_adv_1013501_000', '0', '0', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1013501039, 1013501, 13, '101311', '870', '', '', '', '', '', '');
-insert into birthday_login_bonus_drama_script values (1013501040, 1013501, 11, '101311', '呜，居然是惊喜生日派对，\\n你也很厉害呢！', '6', '1', '1', '0', '0', '');
+insert into birthday_login_bonus_drama_script values (1013501040, 1013501, 11, '101311', '哇，居然是惊喜生日派对，\\n你也很厉害呢！', '6', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1013501041, 1013501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1013501042, 1013501, 21, 'vo_adv_1013501', 'vo_adv_1013501_001', '0', '0', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1013501043, 1013501, 11, '101311', '诶？不，我我我才没害羞！\\n因为惊喜而心脏怦怦直跳\\n或是开心得忍不住嘴角上扬，\\n这种事怎么可能……唔、唔唔唔……', '7', '1', '1', '0', '0', '');
@@ -799,7 +799,7 @@ insert into birthday_login_bonus_drama_script values (1014501045, 1014501, 21, '
 insert into birthday_login_bonus_drama_script values (1014501046, 1014501, 11, '101411', '诶？你喂我？\\n不、不，不用了！\\n没必要做到这个份上！\\n虽说今天的确是个特别的日子……', '5', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1014501047, 1014501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1014501048, 1014501, 21, 'vo_adv_1014501', 'vo_adv_1014501_003', '0', '0', '', '', '', '');
-insert into birthday_login_bonus_drama_script values (1014501049, 1014501, 11, '101411', '特别的……嗯，说的也是呢。\\n生日这天撒撒娇也没关系吧。\\n那，这是我和助手之间的秘密哦？\\n啊～呜……果、果然好羞耻……', '4', '1', '1', '0', '0', '');
+insert into birthday_login_bonus_drama_script values (1014501049, 1014501, 11, '101411', '特别的……嗯，说的也是呢。\\n生日这天撒撒娇也没关系吧。\\n那，这是我和助手之间的秘密哦？\\n啊～……果、果然好羞耻……', '4', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1014501050, 1014501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1014501051, 1014501, 31, '9', '9', '0', '0', '1', '1', '', '');
 insert into birthday_login_bonus_drama_script values (1014501052, 1014501, 131, '0', '', '', '', '', '', '', '');
@@ -848,10 +848,10 @@ insert into birthday_login_bonus_drama_script values (1015501039, 1015501, 13, '
 insert into birthday_login_bonus_drama_script values (1015501040, 1015501, 11, '101511', '哎呀呀！\\n你竟然会给老师\\n庆祝生日，真是个好孩子♪\\n我非常开心哦！', '5', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1015501041, 1015501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1015501042, 1015501, 21, 'vo_adv_1015501', 'vo_adv_1015501_001', '0', '0', '', '', '', '');
-insert into birthday_login_bonus_drama_script values (1015501043, 1015501, 11, '101511', '有这么温柔的你在身边，\\n对老师来说\\n就是最棒的礼物了哟！', '5', '1', '1', '0', '0', '');
+insert into birthday_login_bonus_drama_script values (1015501043, 1015501, 11, '101511', '有这么温柔的你在身边，\\n对老师来说\\n就是最棒的礼物了！', '5', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1015501044, 1015501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1015501045, 1015501, 21, 'vo_adv_1015501', 'vo_adv_1015501_002', '0', '0', '', '', '', '');
-insert into birthday_login_bonus_drama_script values (1015501046, 1015501, 11, '101511', '而且这个蛋糕好漂亮啊♪\\n和老师一起吃吧！\\n来，把嘴大大地张开哦？\\n啊～呜……嗯，做得很好♪', '4', '1', '1', '0', '0', '');
+insert into birthday_login_bonus_drama_script values (1015501046, 1015501, 11, '101511', '而且这个蛋糕好漂亮啊♪\\n和老师一起吃吧！\\n来，把嘴大大地张开哦？\\n啊～……嗯，做得很好♪', '4', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1015501047, 1015501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1015501048, 1015501, 21, 'vo_adv_1015501', 'vo_adv_1015501_003', '0', '0', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1015501049, 1015501, 11, '101511', '呵呵，从今往后，你也要\\n永远当个好孩子哦？\\n抱紧……今天谢谢你了♪', '4', '1', '1', '0', '0', '');
@@ -1324,7 +1324,7 @@ insert into birthday_login_bonus_drama_script values (1026501045, 1026501, 21, '
 insert into birthday_login_bonus_drama_script values (1026501046, 1026501, 11, '102611', '你都做到这个份上了，\\n现在可不是嫌麻烦的时候呢。\\n如果不尽情享受，就对不起\\n你的一番好意了。', '7', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1026501047, 1026501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1026501048, 1026501, 21, 'vo_adv_1026501', 'vo_adv_1026501_003', '0', '0', '', '', '', '');
-insert into birthday_login_bonus_drama_script values (1026501049, 1026501, 11, '102611', '那我们一边吃蛋糕\\n一边玩游戏吧？\\n我也要拿出珍藏的饮料\\n和豆沙面包。', '7', '1', '1', '0', '0', '');
+insert into birthday_login_bonus_drama_script values (1026501049, 1026501, 11, '102611', '那我们一边吃蛋糕\\n一边玩游戏吧？\\n我也要拿出珍藏的橡子\\n和豆沙面包。', '7', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1026501050, 1026501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1026501051, 1026501, 21, 'vo_adv_1026501', 'vo_adv_1026501_004', '0', '0', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1026501052, 1026501, 11, '102611', '是你让我拿出了干劲，\\n所以，你也要负起责任来\\n和我一起享受。\\n好，派对要开始了哦！', '6', '1', '1', '0', '0', '');
@@ -1489,10 +1489,10 @@ insert into birthday_login_bonus_drama_script values (1029501036, 1029501, 3, '1
 insert into birthday_login_bonus_drama_script values (1029501037, 1029501, 93, '2', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1029501038, 1029501, 21, 'vo_adv_1029501', 'vo_adv_1029501_000', '0', '0', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1029501039, 1029501, 13, '102911', '870', '', '', '', '', '', '');
-insert into birthday_login_bonus_drama_script values (1029501040, 1029501, 11, '102911', '还在想你为什么突然邀请我，\\n居然是要为我庆祝生日！\\n还为我准备了漂亮的蛋糕，\\n我真的吓了一跳哦。', '5', '1', '1', '0', '0', '');
+insert into birthday_login_bonus_drama_script values (1029501040, 1029501, 11, '102911', '还在想你为什么突然邀请我，\\n居然是要为我庆祝生日！\\n还为我准备了漂亮的蛋糕，\\n我真的吓了一跳。', '5', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1029501041, 1029501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1029501042, 1029501, 21, 'vo_adv_1029501', 'vo_adv_1029501_001', '0', '0', '', '', '', '');
-insert into birthday_login_bonus_drama_script values (1029501043, 1029501, 11, '102911', '虽然我工作的时候也经常遇到惊喜，\\n但今天是最让我开心的一次哦。', '7', '1', '1', '0', '0', '');
+insert into birthday_login_bonus_drama_script values (1029501043, 1029501, 11, '102911', '虽然我工作的时候也经常遇到惊喜，\\n但今天是最让我开心的一次。', '7', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1029501044, 1029501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1029501045, 1029501, 21, 'vo_adv_1029501', 'vo_adv_1029501_002', '0', '0', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1029501046, 1029501, 11, '102911', '诶，这个蛋糕是你做的吗！？\\n没想到还是双重惊喜……\\n呵呵，你也是一位\\n很优秀的表演者呢♪', '5', '1', '1', '0', '0', '');
@@ -1599,7 +1599,7 @@ insert into birthday_login_bonus_drama_script values (1031501036, 1031501, 3, '1
 insert into birthday_login_bonus_drama_script values (1031501037, 1031501, 93, '2', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1031501038, 1031501, 21, 'vo_adv_1031501', 'vo_adv_1031501_000', '0', '0', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1031501039, 1031501, 13, '103111', '870', '', '', '', '', '', '');
-insert into birthday_login_bonus_drama_script values (1031501040, 1031501, 11, '103111', '今天早上，我为自己的运势卜了一卦，\\n得到了有史以来最好的结果……\\n呵呵，原来是这么一回事啊。', '5', '1', '1', '0', '0', '');
+insert into birthday_login_bonus_drama_script values (1031501040, 1031501, 11, '103111', '今天早上，我占卜了自己的运势，\\n得到了有史以来最好的结果……\\n呵呵，原来是这么一回事啊。', '5', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1031501041, 1031501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1031501042, 1031501, 21, 'vo_adv_1031501', 'vo_adv_1031501_001', '0', '0', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1031501043, 1031501, 11, '103111', '只是得到你的祝贺，就已经\\n让我非常感动了，居然还有蛋糕……\\n我还是第一次过上这么开心的生日。', '5', '1', '1', '0', '0', '');
@@ -2230,7 +2230,7 @@ insert into birthday_login_bonus_drama_script values (1045501048, 1045501, 21, '
 insert into birthday_login_bonus_drama_script values (1045501049, 1045501, 11, '104511', '呵呵呵……呲溜……\\n虐待狂先生，你真的很懂得\\n如何让空花开心呢！\\n诶，不是这样？希望我正常地吃掉它？', '5', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1045501050, 1045501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1045501051, 1045501, 21, 'vo_adv_1045501', 'vo_adv_1045501_004', '0', '0', '', '', '', '');
-insert into birthday_login_bonus_drama_script values (1045501052, 1045501, 11, '104511', '好，那空花就吃掉它……\\n唔呵呵♪', '5', '1', '1', '0', '0', '');
+insert into birthday_login_bonus_drama_script values (1045501052, 1045501, 11, '104511', '好，那空花就吃掉它……\\n嘿嘿嘿♪', '5', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1045501053, 1045501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1045501054, 1045501, 31, '9', '9', '0', '0', '1', '1', '', '');
 insert into birthday_login_bonus_drama_script values (1045501055, 1045501, 131, '0', '', '', '', '', '', '', '');
@@ -3602,7 +3602,7 @@ insert into birthday_login_bonus_drama_script values (1093501045, 1093501, 21, '
 insert into birthday_login_bonus_drama_script values (1093501046, 1093501, 11, '109311', '但如果和最喜欢的人一起吃，\\n蛋糕就会变得更好吃！\\n所以，你也要和露一起\\n吃蛋糕哦！', '6', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1093501047, 1093501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1093501048, 1093501, 21, 'vo_adv_1093501', 'vo_adv_1093501_003', '0', '0', '', '', '', '');
-insert into birthday_login_bonus_drama_script values (1093501049, 1093501, 11, '109311', '既然决定了……来吧来吧！\\n请把那个可口的蛋糕\\n“啊～唔”地\\n喂到露的嘴里！', '6', '1', '1', '0', '0', '');
+insert into birthday_login_bonus_drama_script values (1093501049, 1093501, 11, '109311', '既然决定了……来吧来吧！\\n请把那个可口的蛋糕\\n“啊～”地\\n喂到露的嘴里！', '6', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1093501050, 1093501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1093501051, 1093501, 21, 'vo_adv_1093501', 'vo_adv_1093501_004', '0', '0', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1093501052, 1093501, 11, '109311', '诶嘿嘿……因为今天\\n是你宠爱露的日子！\\n我会一直向你撒娇的，\\n请做好心理准备哦！', '6', '1', '1', '0', '0', '');
@@ -3717,10 +3717,10 @@ insert into birthday_login_bonus_drama_script values (1108501042, 1108501, 21, '
 insert into birthday_login_bonus_drama_script values (1108501043, 1108501, 11, '110811', '话说，这是那种手工制作的吧。\\n骗人，是你做的？不会很麻烦吗？\\n啊不，别叫我，这种事我完全不在行。\\n两个人一起做不是各方面都不太好吗。', '5', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1108501044, 1108501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1108501045, 1108501, 21, 'vo_adv_1108501', 'vo_adv_1108501_002', '0', '0', '', '', '', '');
-insert into birthday_login_bonus_drama_script values (1108501046, 1108501, 11, '110811', '噗……算了，随便怎么样都好啦。\\n你送我，那我也送你……咦？\\n找不到限定色的彩色铅笔。\\n啊，对了，我放在家里了……', '4', '1', '1', '0', '0', '');
+insert into birthday_login_bonus_drama_script values (1108501046, 1108501, 11, '110811', '噗……算了，随便怎么样都好啦。\\n你送我，那我也送你……咦？\\n找不到限定色的杀手铅笔。\\n啊，对了，我放在家里了……', '4', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1108501047, 1108501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1108501048, 1108501, 21, 'vo_adv_1108501', 'vo_adv_1108501_003', '0', '0', '', '', '', '');
-insert into birthday_login_bonus_drama_script values (1108501049, 1108501, 11, '110811', '那么，不好意思，你待会\\n可以顺便来我家一趟吗。\\n你每次来的时候，我妈也会很奇怪地情绪高涨。\\n喂，记得要来哦。嗯，决定了。那我走了——', '6', '1', '1', '0', '0', '');
+insert into birthday_login_bonus_drama_script values (1108501049, 1108501, 11, '110811', '那么，不好意思，你待会\\n可以顺便来我家一趟吗。\\n你每次来的时候，我妈也会很奇怪地情绪高涨。\\n喂，记得要来哦。嗯，决定了。那出发吧——', '6', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1108501050, 1108501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1108501051, 1108501, 31, '9', '9', '0', '0', '1', '1', '', '');
 insert into birthday_login_bonus_drama_script values (1108501052, 1108501, 131, '0', '', '', '', '', '', '', '');
