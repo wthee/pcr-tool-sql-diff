@@ -283,3 +283,8 @@ insert into music_content values (281, 'Gothical Radical † Eternal Wedding', '
 insert into music_content values (282, 'ユキの審美会', '1:28', '0:00', 'ストーリーイベントミニコンテンツ\\n-｢Gothical Radical † Eternal Wedding｣\\nアレンジ-\\n\\n時間 / 01:28\\n作曲 / 毛蟹（LIVE LAB.）\\n編曲 / 中村早織（Cygames）', 'bgm_MC040', 'bgm_MC040_juke');
 insert into music_content values (283, 'プリンセス・ファイト☆', '0:54', '0:00', 'メインクエスト\\n\\n時間 / 00:54\\n作曲 / 西木康智\\n編曲 / 西木康智', 'bgm_M06', 'bgm_M06_juke');
 insert into music_content values (284, 'エルピス島の戦い', '1:10', '0:00', 'メインクエスト\\n\\n時間 / 01:10\\n作曲 / 白井友規（Cygames）\\n編曲 / 白井友規（Cygames）', 'bgm_M169', 'bgm_M169_juke');
+insert into music_content values (285, 'オーマの水からっぽ大作戦\u3000秘密主義者と禁断の海', '1:14', '0:00', 'ストーリーイベントテーマ\\n-｢メタモル・カレイドスコープ｣アレンジ-\\n\\n時間 / 01:14\\n作曲 / やしきん\\n編曲 / 守谷勇人', 'bgm_MC046', 'bgm_MC046_juke');
+insert into music_content values (286, '復活の白き島クジラ', '2:28', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 02:28\\n作曲 / 東大路憲太\\n編曲 / 中町友洋', 'bgm_MC048', 'bgm_MC048_juke');
+insert into music_content values (287, 'メタモル・カレイドスコープ', '1:29', '0:51', 'キャラクターソング\\n\\n時間 / 01:29\\n歌\u3000 / ネネカ（井口裕香）\\n作詞 / 高瀬愛虹\\n作曲 / やしきん\\n編曲 / やしきん', 'bgm_MC055', 'bgm_MC055');
+insert into music_content values (288, 'プリンセスの秘密', '1:42', '0:00', 'ストーリーイベントミニコンテンツ\\n-｢メタモル・カレイドスコープ｣アレンジ-\\n\\n時間 / 01:42\\n作曲 / やしきん\\n編曲 / 塚越廉', 'bgm_MC049', 'bgm_MC049_juke');
+insert into music_content values (289, 'グルメチェイサー号、出発進行！', '1:39', '0:00', 'キャラバン\\n\\n時間 / 01:39\\n作曲 / 市橋卓也（Cygames）\\n編曲 / 市橋卓也（Cygames）', 'bgm_MC043', 'bgm_MC043_juke');

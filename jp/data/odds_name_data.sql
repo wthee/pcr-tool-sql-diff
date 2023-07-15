@@ -255,3 +255,5 @@ insert into odds_name_data values (1012102, '1012120102', 'ユカリのメモリ
 insert into odds_name_data values (1012201, '1012220101', 'アキノ（サマー）のメモリーピース', 99002, '');
 insert into odds_name_data values (1012202, '1012220102', 'ミフユのメモリーピース', 99002, '');
 insert into odds_name_data values (1012203, 'box_rank_12-20', 'ランダム装備BOX', 99002, 'ランダムな装備が獲得できる。');
+insert into odds_name_data values (1012301, '1012320101', 'ヒヨリ（サマー）のメモリーピース', 99002, '');
+insert into odds_name_data values (1012302, '1012320102', 'ユイのメモリーピース', 99002, '');

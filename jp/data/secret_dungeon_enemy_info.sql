@@ -29,3 +29,8 @@ insert into secret_dungeon_enemy_info values (32006, 7, '紅極鳥');
 insert into secret_dungeon_enemy_info values (32006, 8, 'ライライ');
 insert into secret_dungeon_enemy_info values (32006, 9, 'オークチーフ');
 insert into secret_dungeon_enemy_info values (32006, 10, 'ラースドラゴン');
+insert into secret_dungeon_enemy_info values (32007, 6, 'エレクトロ・ギガス');
+insert into secret_dungeon_enemy_info values (32007, 7, 'クリスタルゴーレム');
+insert into secret_dungeon_enemy_info values (32007, 8, 'ランドスロース');
+insert into secret_dungeon_enemy_info values (32007, 9, 'ソードコブラ');
+insert into secret_dungeon_enemy_info values (32007, 10, 'アルティマガーディアン');
