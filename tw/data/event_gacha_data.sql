@@ -112,4 +112,5 @@ insert into event_gacha_data values (10111, 10111, '解放自由的伊甸園\u30
 insert into event_gacha_data values (10112, 10112, 'Re:member\u3000我的心願編織出的未來', 2, 61112, 1, 6);
 insert into event_gacha_data values (10113, 10113, 'Re:member\u3000我的心願編織出的未來', 2, 61122, 1, 6);
 insert into event_gacha_data values (10114, 10114, '貓與懷舊點心的咖啡廳 歡迎光臨Café Naschkatze', 2, 61132, 1, 6);
+insert into event_gacha_data values (10115, 10115, 'Sweet Tiny Stage！\u3000初出茅廬的女演員與小小淑女', 2, 61142, 1, 6);
 insert into event_gacha_data values (19003, 10003, '吸血鬼獵人 with伊莉亞', 2, 60022, 1, 5);
