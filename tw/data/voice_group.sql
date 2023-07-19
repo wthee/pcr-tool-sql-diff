@@ -348,3 +348,4 @@ insert into voice_group values (30193, '望（解放者）（花凜對話用）'
 insert into voice_group values (30194, '矛依未（解放者）（花凜對話用）', 118501001, 325001001, 0, 0, 0);
 insert into voice_group values (30195, '珠希（咖啡廳）（花凜對話用）', 118501001, 325101001, 0, 0, 0);
 insert into voice_group values (30196, '莫妮卡（咖啡廳）（花凜對話用）', 118501001, 325201001, 0, 0, 0);
+insert into voice_group values (30197, '靜流（黑暗）（花凜對話用）', 118501001, 320001001, 0, 0, 0);

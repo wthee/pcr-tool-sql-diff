@@ -42,7 +42,7 @@ insert into voice_group_chara values (104501001, '純白之翼（空花）', 104
 insert into voice_group_chara values (104601001, '墨丘利財團（珠希）', 104601, 107901, 116801, 125101, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (104701001, '王宮騎士團（純）', 104701, 113601, 124201, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (104801001, '墨丘利財團（美冬）', 104801, 108001, 116901, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (104901001, '拉比林斯（靜流）', 104901, 109101, 117101, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (104901001, '拉比林斯（靜流）', 104901, 109101, 117101, 120001, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (105001001, '月光學院（美咲）', 105001, 108301, 121401, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (105101001, '暮光流星群（深月）', 105101, 117501, 124701, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (105201001, '伊麗莎白牧場（莉瑪）', 105201, 115801, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -237,6 +237,7 @@ insert into voice_group_chara values (319101001, '空花（黑暗）（花凜對
 insert into voice_group_chara values (319201001, '真陽（聖誕節）（花凜對話用）', 119201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (319301001, '璃乃（聖誕節）（花凜對話用）', 119301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (319901001, '宮子（聖誕節）（花凜對話用）', 119901, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (320001001, '靜流（黑暗）（花凜對話用）', 120001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (320701001, '雪菲（新年）（花凜對話用）', 120701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (320801001, '流夏（新年）（花凜對話用）', 120801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (320901001, '伊莉亞（新年）（花凜對話用）', 120901, 0, 0, 0, 0, 0, 0, 0, 0, 0);

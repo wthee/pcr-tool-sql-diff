@@ -103,6 +103,7 @@ insert into tips values (4118201, 118201, 1, '機槍掃射');
 insert into tips values (4118501, 118501, 1, '美好的夥伴');
 insert into tips values (4119001, 119001, 1, '黑暗的課堂');
 insert into tips values (4119101, 119101, 1, '高漲');
+insert into tips values (4120001, 120001, 1, '守護和平的姐姐');
 insert into tips values (4121301, 121301, 1, '開演前');
 insert into tips values (4121401, 121401, 1, '展現性感魅力');
 insert into tips values (4121501, 121501, 1, '勁敵出現？');

@@ -170,6 +170,7 @@ insert into unit_motion_list values (119101, 1);
 insert into unit_motion_list values (119201, 1);
 insert into unit_motion_list values (119301, 1);
 insert into unit_motion_list values (119901, 1);
+insert into unit_motion_list values (120001, 1);
 insert into unit_motion_list values (120701, 1);
 insert into unit_motion_list values (120801, 1);
 insert into unit_motion_list values (120901, 1);
