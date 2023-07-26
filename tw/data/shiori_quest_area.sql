@@ -85,3 +85,6 @@ insert into shiori_quest_area values (20036201, 20036, '聖德蕾莎女子學院
 insert into shiori_quest_area values (20037101, 20037, '不同時間軸的蘭德索爾', 201, 'bgm_M467', 'bgm_M467', 1, 1, 90, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20037102, 20037, '時光隧道', 201, 'bgm_M467', 'bgm_M467', 1, 2, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20037201, 20037, '時光隧道', 201, 'bgm_M467', 'bgm_M467', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20038101, 20038, '玩具工廠', 201, 'bgm_M478', 'bgm_M478_Lofi', 1, 1, 0, 40, 0, '0', '0', 0);
+insert into shiori_quest_area values (20038102, 20038, '王城蘭德索爾', 201, 'bgm_M478', 'bgm_M478_Lofi', 1, 2, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20038201, 20038, '王城蘭德索爾', 201, 'bgm_M478', 'bgm_M478_Lofi', 1, 0, 0, 0, 0, '0', '0', 0);

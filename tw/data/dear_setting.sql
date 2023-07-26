@@ -2,7 +2,6 @@ CREATE TABLE 'dear_setting' ('event_id' INTEGER NOT NULL, 'system_name' TEXT NOT
 insert into dear_setting values (10053, '信賴度', 10053102, 1, 6017101);
 insert into dear_setting values (10090, '信賴度', 10090104, 1, 6090101);
 insert into dear_setting values (10094, '信賴度', 10094102, 1, 6094101);
-insert into dear_setting values (10095, '信賴度', 10095103, 1, 6068101);
 insert into dear_setting values (10100, '信賴度', 10100103, 1, 6100101);
 insert into dear_setting values (10102, '信賴度', 10102106, 1, 6102101);
 insert into dear_setting values (10103, '信賴度', 10103105, 1, 6076101);
@@ -27,3 +26,4 @@ insert into dear_setting values (20031, '信賴度', 0, 1, 0);
 insert into dear_setting values (20032, '信賴度', 0, 1, 0);
 insert into dear_setting values (20035, '信賴度', 0, 1, 0);
 insert into dear_setting values (20037, '信賴度', 0, 1, 0);
+insert into dear_setting values (20038, '信賴度', 0, 1, 0);
