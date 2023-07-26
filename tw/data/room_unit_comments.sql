@@ -6264,7 +6264,7 @@ insert into room_unit_comments values (7041, 118201, 1, 102, 8, 0, 1, '我很想
 insert into room_unit_comments values (7042, 118201, 2, 1, 1, 0, 1, '你很擔心\\n只留我一個人嗎？\\n我說過，\\n我會當個乖孩子的～★', 0);
 insert into room_unit_comments values (7043, 118201, 2, 2, 1, 0, 1, '你要出去嗎？\\n還是要待在家裡\\n享受悠閒時光呢？', 0);
 insert into room_unit_comments values (7044, 118201, 2, 3, 1, 0, 1, '竟然馬上就讓\\n女孩子進家門……\\n呵呵，你果真\\n有兩下子～★', 0);
-insert into room_unit_comments values (7045, 118201, 2, 4, 1, 0, 1, '騎士先生、騎士先生★\\n我可以\\n纏著你不放嗎？\\n我說騎士先生──★', 0);
+insert into room_unit_comments values (7045, 118201, 2, 4, 1, 0, 1, '騎士同學、騎士同學★\\n我可以\\n纏著你不放嗎？\\n我說騎士同學──★', 0);
 insert into room_unit_comments values (7046, 118201, 2, 101, 4, 0, 1, '要不要一起\\n耍懶呢～？\\n就像情侶那樣，\\n感覺很有趣呢♪', 0);
 insert into room_unit_comments values (7047, 118201, 2, 102, 8, 0, 1, '呵呵★\\n像這樣被你\\n溫柔對待……\\n害我心頭小鹿亂撞呢♪', 0);
 insert into room_unit_comments values (7048, 118201, 2, 1, 1, 1, 1, '早安★\\n哎呀呀～？\\n你還在睡啊──？', 0);
