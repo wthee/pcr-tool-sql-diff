@@ -896,3 +896,16 @@ insert into campaign_schedule values (894, 351, 1500.0, 8004, 80, '2023/07/24 5:
 insert into campaign_schedule values (895, 352, 1500.0, 8005, 80, '2023/07/24 5:00:00', '2023/07/30 4:59:59', 0, 0, 0, 0);
 insert into campaign_schedule values (896, 251, 1500.0, 7004, 80, '2023/07/18 12:00:00', '2023/07/25 23:59:59', 0, 0, 0, 0);
 insert into campaign_schedule values (897, 252, 1500.0, 7005, 80, '2023/07/18 12:00:00', '2023/07/25 23:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (898, 39, 2000.0, 111, 30, '2023/08/05 5:00:00', '2023/08/09 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (899, 49, 2000.0, 111, 40, '2023/08/05 5:00:00', '2023/08/09 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (900, 31, 2000.0, 101, 30, '2023/08/09 5:00:00', '2023/08/12 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (901, 41, 2000.0, 101, 40, '2023/08/09 5:00:00', '2023/08/12 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (902, 31, 4000.0, 101, 30, '2023/08/15 5:00:00', '2023/08/22 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (903, 41, 4000.0, 101, 40, '2023/08/15 5:00:00', '2023/08/22 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (904, 32, 2000.0, 102, 30, '2023/08/12 5:00:00', '2023/08/15 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (905, 42, 2000.0, 102, 40, '2023/08/12 5:00:00', '2023/08/15 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (906, 45, 2000.0, 104, 40, '2023/08/09 5:00:00', '2023/08/20 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (907, 34, 3000.0, 103, 30, '2023/08/15 5:00:00', '2023/08/20 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (908, 44, 3000.0, 103, 40, '2023/08/15 5:00:00', '2023/08/20 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (909, 151, 1500.0, 6004, 80, '2023/7/31 11:00:00', '2023/8/14 23:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (910, 152, 1500.0, 6005, 80, '2023/7/31 11:00:00', '2023/8/14 23:59:59', 0, 0, 0, 0);

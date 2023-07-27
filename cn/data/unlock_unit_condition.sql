@@ -150,6 +150,8 @@ insert into unlock_unit_condition values (116801, '珠希（工作服）', 1, 0,
 insert into unlock_unit_condition values (116901, '美冬（工作服）', 1, 0, 1, 2, 31169, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (117001, '惠理子（夏日）', 1, 0, 1, 2, 31170, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (117101, '静流（夏日）', 1, 0, 1, 2, 31171, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
+insert into unlock_unit_condition values (117201, '望（夏日）', 1, 0, 1, 2, 31172, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
+insert into unlock_unit_condition values (117401, '纺希（夏日）', 1, 0, 1, 2, 31174, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (170101, '环奈', 1, 0, 1, 2, 31701, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unlock_unit_condition values (170201, '环奈（振袖）', 1, 0, 1, 2, 31702, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unlock_unit_condition values (180101, '日和莉（公主）', 1, 0, 1, 2, 31801, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
