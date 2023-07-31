@@ -1352,6 +1352,12 @@ insert into event_navi_comment_condition values (10123127, 4, 5096002, 0, 0, 0, 
 insert into event_navi_comment_condition values (10123128, 3, 5096002, 0, 0, 0, 0);
 insert into event_navi_comment_condition values (10123129, 4, 5096002, 0, 0, 0, 0);
 insert into event_navi_comment_condition values (10123130, 3, 5096002, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10124102, 3, 5124001, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10124103, 3, 5124006, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10124105, 4, 5124003, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10124107, 3, 5124006, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10124110, 3, 5124001, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10124111, 3, 5124002, 0, 0, 0, 0);
 insert into event_navi_comment_condition values (20003106, 2, 5003006, 0, 0, 0, 0);
 insert into event_navi_comment_condition values (20003107, 1, 5003006, 0, 0, 0, 0);
 insert into event_navi_comment_condition values (20003110, 2, 5003006, 0, 0, 0, 0);

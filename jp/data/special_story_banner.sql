@@ -3,3 +3,4 @@ insert into special_story_banner values (80004, 9002, '2021-01-30 05:00:00', '20
 insert into special_story_banner values (80006, 9004, '2022-01-30 05:00:00', '2022-02-28 11:59:59', '2022-07-31 11:00:00');
 insert into special_story_banner values (80007, 9005, '2022-08-01 05:00:00', '2022-08-31 04:59:59', '2022-08-31 04:59:59');
 insert into special_story_banner values (80008, 9006, '2023-01-31 05:00:00', '2023-02-28 11:59:59', '2023-07-12 14:30:00');
+insert into special_story_banner values (80009, 9007, '2023-08-01 05:00:00', '2023-08-16 04:59:59', '2023-08-16 04:59:59');

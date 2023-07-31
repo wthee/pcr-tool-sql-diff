@@ -23,3 +23,12 @@ insert into fbs_schedule values (21, 4010021, '2023/7/11 5:00:00', '2023/7/12 4:
 insert into fbs_schedule values (22, 4010022, '2023/7/25 5:00:00', '2023/7/26 4:59:59');
 insert into fbs_schedule values (23, 4010023, '2023/7/28 5:00:00', '2023/7/29 4:59:59');
 insert into fbs_schedule values (24, 4010024, '2023/7/30 5:00:00', '2023/7/31 4:59:59');
+insert into fbs_schedule values (25, 4010025, '2023/8/7 5:00:00', '2023/8/8 4:59:59');
+insert into fbs_schedule values (26, 4010026, '2023/8/9 5:00:00', '2023/8/10 4:59:59');
+insert into fbs_schedule values (27, 4010027, '2023/8/10 5:00:00', '2023/8/11 4:59:59');
+insert into fbs_schedule values (28, 4010028, '2023/8/11 5:00:00', '2023/8/12 4:59:59');
+insert into fbs_schedule values (29, 4010029, '2023/8/14 5:00:00', '2023/8/15 4:59:59');
+insert into fbs_schedule values (30, 4010030, '2023/8/21 5:00:00', '2023/8/22 4:59:59');
+insert into fbs_schedule values (31, 4010031, '2023/8/25 5:00:00', '2023/8/26 4:59:59');
+insert into fbs_schedule values (32, 4010032, '2023/8/27 5:00:00', '2023/8/28 4:59:59');
+insert into fbs_schedule values (33, 4010033, '2023/8/31 5:00:00', '2023/9/1 4:59:59');
