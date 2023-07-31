@@ -11,6 +11,8 @@ insert into custom_mypage values (9000170, 40001, 0, '和大家一起賞花', 0,
 insert into custom_mypage values (9000210, 40001, 0, '5月的連假！', 0, 0, 1);
 insert into custom_mypage values (9000211, 40001, 0, '梅雨合唱團', 0, 0, 1);
 insert into custom_mypage values (9000212, 40001, 0, '夏日森林探險隊', 0, 0, 1);
+insert into custom_mypage values (9000213, 40001, 0, '夏日的回憶', 0, 0, 1);
+insert into custom_mypage values (9000214, 40001, 0, '夏天野餐趣', 0, 0, 1);
 insert into custom_mypage values (9000215, 20005, 0, '4.5周年紀念自訂主頁面1', 1, 0, 1);
 insert into custom_mypage values (9000216, 20005, 0, '4.5周年紀念自訂主頁面2', 1, 0, 1);
 insert into custom_mypage values (9000222, 30001, 0, '回想重組 自訂主頁面', 0, 0, 1);

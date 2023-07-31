@@ -1,5 +1,6 @@
 CREATE TABLE 'login_bonus_data' ('login_bonus_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'login_bonus_type' INTEGER NOT NULL, 'count_num' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'bg_id' INTEGER NOT NULL, 'stamp_id' INTEGER NOT NULL, 'odds_group_id' INTEGER NOT NULL, 'adv_play_type' INTEGER NOT NULL, 'count_type' INTEGER NOT NULL, PRIMARY KEY('login_bonus_id'));
-insert into login_bonus_data values (20000, '新手衝刺登入活動', 2, 10, '2016/09/01 15:00:00', '2099/01/01 23:59:00', 530100, 0, 0, 0, 0);
+insert into login_bonus_data values (20000, '新手衝刺登入活動', 2, 10, '2016/09/01 15:00:00', '2023/08/01 04:59:59', 530100, 0, 0, 0, 0);
+insert into login_bonus_data values (20001, '新手衝刺登入活動', 2, 10, '2023/08/01 05:00:00', '2099/01/01 23:59:00', 530100, 0, 0, 0, 0);
 insert into login_bonus_data values (30000, '登入獎勵', 3, 15, '2016/04/01 15:00:00', '2099/01/01 23:59:00', 0, 0, 0, 0, 0);
 insert into login_bonus_data values (40001, '半周年紀念登入活動', 4, 10, '2019/01/30 05:00:00', '2019/02/14 04:59:59', 500160, 1, 0, 0, 0);
 insert into login_bonus_data values (40009, '偶像大師復刻合作紀念', 4, 10, '2021/08/09 05:00:00', '2021/08/26 04:59:59', 40009, 2, 0, 0, 0);

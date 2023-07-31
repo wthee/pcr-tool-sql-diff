@@ -26,6 +26,4 @@ insert into chara_fortune_scenario values (24, 1076, 1000, 1010, 1038);
 insert into chara_fortune_scenario values (25, 1077, 1003, 1043, 1019);
 insert into chara_fortune_scenario values (26, 1071, 1070, 1068, 1069);
 insert into chara_fortune_scenario values (27, 1089, 1092, 1090, 1091);
-insert into chara_fortune_scenario values (28, 1093, 1094, 1096, 1095);
-insert into chara_fortune_scenario values (29, 1083, 1012, 1021, 1006);
-insert into chara_fortune_scenario values (30, 1086, 1087, 1084, 1085);
+insert into chara_fortune_scenario values (28, 1088, 1089, 1090, 1091);
