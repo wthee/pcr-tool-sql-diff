@@ -277,6 +277,7 @@ insert into voice_group_chara values (324901001, '嘉夜（解放者）（花凜
 insert into voice_group_chara values (325001001, '矛依未（解放者）（花凜對話用）', 125001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (325101001, '珠希（咖啡廳）（花凜對話用）', 125101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (325201001, '莫妮卡（咖啡廳）（花凜對話用）', 125201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (325301001, '可可蘿（遊俠）（花凜對話用）', 125301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380101001, '日和（公主）（花凜對話用）', 180101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380201001, '優衣（公主）（花凜對話用）', 180201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380301001, '怜（公主）（花凜對話用）', 180301, 0, 0, 0, 0, 0, 0, 0, 0, 0);

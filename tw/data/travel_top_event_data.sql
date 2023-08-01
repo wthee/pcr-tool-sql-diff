@@ -17,3 +17,9 @@ insert into travel_top_event_data values (4009, 1, 2, 6, 0, 0, 40091, 40092, 0, 
 insert into travel_top_event_data values (4010, 1, 2, 1, 0, 0, 40101, 40102, 0, 0, 0, 0, 0, 40004, 1);
 insert into travel_top_event_data values (4011, 1, 2, 5, 0, 0, 40111, 40112, 0, 0, 0, 0, 0, 40004, 1);
 insert into travel_top_event_data values (4012, 1, 2, 6, 0, 0, 40121, 40122, 0, 0, 0, 0, 0, 40001, 1);
+insert into travel_top_event_data values (4013, 1, 2, 1, 0, 0, 40131, 40132, 0, 0, 0, 0, 0, 40004, 1);
+insert into travel_top_event_data values (4014, 1, 2, 5, 0, 0, 40141, 40142, 0, 0, 0, 0, 0, 40004, 1);
+insert into travel_top_event_data values (4015, 1, 2, 6, 0, 0, 40151, 40152, 0, 0, 0, 0, 0, 40001, 1);
+insert into travel_top_event_data values (4016, 1, 2, 1, 0, 0, 40161, 40162, 0, 0, 0, 0, 0, 40004, 1);
+insert into travel_top_event_data values (4017, 1, 2, 5, 0, 0, 40171, 40172, 0, 0, 0, 0, 0, 40004, 1);
+insert into travel_top_event_data values (4018, 1, 2, 6, 0, 0, 40181, 40182, 0, 0, 0, 0, 0, 40001, 1);

@@ -239,3 +239,6 @@ insert into odds_name_data values (1011401, '1011420101', '莫妮卡的記憶碎
 insert into odds_name_data values (1011402, '1011420102', '珠希的記憶碎片', 99002, '');
 insert into odds_name_data values (1011501, '1011520101', '真陽（遊俠）的記憶碎片', 99002, '');
 insert into odds_name_data values (1011502, '1011520102', '鈴的記憶碎片', 99002, '');
+insert into odds_name_data values (1011601, '1011620101', '初音的記憶碎片', 99002, '');
+insert into odds_name_data values (1011602, '1011620102', '栞的記憶碎片', 99002, '');
+insert into odds_name_data values (1011603, 'box_rank_11-19', '隨機裝備箱', 99002, '能夠獲得隨機的裝備。');

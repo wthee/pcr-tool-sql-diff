@@ -116,3 +116,4 @@ insert into room_effect_reward_get values (12, 1, 6, 93001, 48, 12, 21600, '', '
 insert into room_effect_reward_get values (19, 1, 6, 93001, 48, 12, 21600, '', '');
 insert into room_effect_reward_get values (23, 0, 0, 0, 0, 1, 0, '4999999999', '14999999999');
 insert into room_effect_reward_get values (25, 1, 6, 93001, 48, 12, 21600, '', '');
+insert into room_effect_reward_get values (28, 1, 6, 93001, 48, 12, 21600, '', '');

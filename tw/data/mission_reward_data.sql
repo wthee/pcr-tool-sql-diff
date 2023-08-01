@@ -282,6 +282,7 @@ insert into mission_reward_data values (293, 15004001, 5, 0, 60, 1, 199, '2023/0
 insert into mission_reward_data values (294, 15004001, 2, 90007, 100, 1, 199, '2023/04/17 05:00:00', '2030/12/31 23:59:59');
 insert into mission_reward_data values (295, 15004001, 5, 0, 30, 200, -1, '2023/04/17 05:00:00', '2030/12/31 23:59:59');
 insert into mission_reward_data values (296, 15004001, 2, 90007, 100, 200, -1, '2023/04/17 05:00:00', '2030/12/31 23:59:59');
+insert into mission_reward_data values (297, 21005039, 8, 91002, 100, 1, -1, '2018/01/01 05:00:00', '2030/12/31 23:59:59');
 insert into mission_reward_data values (298, 28002039, 8, 91002, 1100, 1, -1, '2018/01/01 05:00:00', '2030/12/31 23:59:59');
 insert into mission_reward_data values (299, 28002039, 12, 94002, 15000000, 1, -1, '2018/01/01 05:00:00', '2030/12/31 23:59:59');
 insert into mission_reward_data values (300, 28002039, 2, 90007, 1500, 1, -1, '2018/01/01 05:00:00', '2030/12/31 23:59:59');

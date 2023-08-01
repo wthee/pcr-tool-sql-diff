@@ -4,3 +4,4 @@ insert into travel_quest_result values (102, 1021, 0);
 insert into travel_quest_result values (103, 1031, 1);
 insert into travel_quest_result values (104, 1041, 0);
 insert into travel_quest_result values (105, 1051, 0);
+insert into travel_quest_result values (106, 1061, 1);
