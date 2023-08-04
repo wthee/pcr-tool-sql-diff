@@ -6637,7 +6637,7 @@ insert into wac_drama_script values (16412046, 16412, 91, '0', '', '', '', '', '
 insert into wac_drama_script values (16412047, 16412, 3, '105511', 'wac_idle_smile_L', '1', '', '1', '0.2', '', '');
 insert into wac_drama_script values (16412048, 16412, 3, '105311', 'wac_talk_smile_in', '0', 'wac_talk_smile_loop', '1', '0.2', '', '');
 insert into wac_drama_script values (16412049, 16412, 21, 'vo_wac_220728', 'vo_wac_220728_005', '0', '0', '', '', '', '');
-insert into wac_drama_script values (16412050, 16412, 11, '105311', '嗯！超完美的合作！\\n說是有史以來最團結的一次也不為過呢！\\n……雖然這是麼講也是有點傻眼。\\n但就以這個步調完成繪圖大業吧！', '10', '1', '1', '0', '0', '0.5');
+insert into wac_drama_script values (16412050, 16412, 11, '105311', '嗯！超完美的合作！\\n說是有史以來最團結的一次也不為過呢！\\n……雖然這麼講也是有點傻眼。\\n但就以這個步調完成繪圖大業吧！', '10', '1', '1', '0', '0', '0.5');
 insert into wac_drama_script values (16412051, 16412, 91, '0', '', '', '', '', '', '', '');
 insert into wac_drama_script values (16412052, 16412, 22, '0', '0', '', '', '', '', '', '');
 insert into wac_drama_script values (16412053, 16412, 111, '', '', '', '', '', '', '', '');
