@@ -3613,6 +3613,7 @@ insert into skip_monster_data values (13035003, 13035, 'デクスティア岩崖
 insert into skip_monster_data values (13063001, 13063, 'アパレーユ街道・西側 63-1', 103630101, 103193);
 insert into skip_monster_data values (13063002, 13063, 'アパレーユ街道・西側 63-2', 103630201, 103193);
 insert into skip_monster_data values (13063003, 13063, 'アパレーユ街道・西側 63-3', 103630301, 103193);
+insert into skip_monster_data values (13064001, 13063, 'アパレーユ街道・東側 64-1', 103640101, 103193);
 insert into skip_monster_data values (18001001, 18001, '聖跡調査クエストLv1', 108010108, 101331);
 insert into skip_monster_data values (18001002, 18001, '聖跡調査クエストLv2', 108010208, 101341);
 insert into skip_monster_data values (18001003, 18001, '聖跡調査クエストLv3', 108010308, 101341);

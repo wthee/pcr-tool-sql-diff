@@ -1133,6 +1133,7 @@ insert into quest_reward_data values (130350031, 4, 119611, 1, 4, 119551, 1, 2, 
 insert into quest_reward_data values (130630011, 4, 119341, 1, 4, 119461, 1, 2, 32061, 5, 0, 0, 0, 0, 0, 0);
 insert into quest_reward_data values (130630021, 4, 119252, 1, 4, 119012, 1, 2, 32008, 5, 0, 0, 0, 0, 0, 0);
 insert into quest_reward_data values (130630031, 4, 119582, 1, 4, 119552, 1, 2, 32054, 5, 0, 0, 0, 0, 0, 0);
+insert into quest_reward_data values (130640011, 4, 129312, 1, 4, 119432, 1, 2, 32005, 5, 0, 0, 0, 0, 0, 0);
 insert into quest_reward_data values (180010011, 4, 140001, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into quest_reward_data values (180010021, 4, 140001, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into quest_reward_data values (180010031, 4, 140001, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -1176,6 +1177,7 @@ insert into quest_reward_data values (222001001, 8, 91002, 100, 2, 20004, 10, 4,
 insert into quest_reward_data values (222001002, 8, 91002, 100, 2, 20004, 10, 4, 115586, 5, 4, 125256, 5, 0, 0, 0);
 insert into quest_reward_data values (222001003, 8, 91002, 100, 2, 20004, 10, 4, 115556, 5, 4, 125016, 5, 0, 0, 0);
 insert into quest_reward_data values (222001004, 8, 91002, 100, 2, 20004, 10, 4, 126103, 5, 4, 116133, 5, 0, 0, 0);
+insert into quest_reward_data values (222001005, 8, 91002, 100, 2, 20004, 10, 4, 129312, 5, 4, 119432, 5, 0, 0, 0);
 insert into quest_reward_data values (222001006, 8, 91002, 100, 2, 20004, 10, 4, 116612, 5, 4, 116582, 5, 0, 0, 0);
 insert into quest_reward_data values (222001007, 8, 91002, 100, 2, 20004, 10, 4, 128162, 5, 4, 118012, 5, 0, 0, 0);
 insert into quest_reward_data values (222001008, 8, 91002, 100, 2, 20004, 10, 4, 119252, 5, 4, 119012, 5, 0, 0, 0);

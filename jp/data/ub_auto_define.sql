@@ -8,6 +8,7 @@ insert into ub_auto_define values (1003011, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1004001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1004011, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1005001, 1, 0, 0, 0, 0);
+insert into ub_auto_define values (1005011, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1006001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1006011, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1007001, 12002, 0, 0, 0, 0);
