@@ -24,3 +24,4 @@ insert into tower_story_data values (7022, 7, 22, '超能力×魔法＝超魔法
 insert into tower_story_data values (7023, 7, 23, '加油打氣英雄團！', 0, 1, '2022/08/09 16:00:00', '2030/04/24 14:59:59');
 insert into tower_story_data values (7024, 7, 24, '變貌大妃與（前）黑心商人', 0, 1, '2022/11/08 16:00:00', '2030/04/24 14:59:59');
 insert into tower_story_data values (7025, 7, 25, '激鬥！龍獸之拳交鋒', 0, 1, '2023/03/09 16:00:00', '2030/04/24 14:59:59');
+insert into tower_story_data values (7026, 7, 26, '孤獨女孩交流會', 0, 1, '2023/08/11 16:00:00', '2030/04/24 14:59:59');
