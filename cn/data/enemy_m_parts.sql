@@ -263,6 +263,6 @@ insert into enemy_m_parts values (701000517, '滴水嘴兽·魔能', 701000518, 
 insert into enemy_m_parts values (800100203, '机械莉玛2020 阶段3', 800100212, 800100213, 800100214, 0, 0);
 insert into enemy_m_parts values (801100213, '覇瞳侍从（复数）', 801100223, 801100233, 801100243, 0, 0);
 insert into enemy_m_parts values (802100210, '兰法', 802100211, 802100212, 0, 0, 0);
-insert into enemy_m_parts values (802100230, '卡里萨', 802100231, 802100232, 802100233, 802100234, 0);
+insert into enemy_m_parts values (802100230, '卡利萨', 802100231, 802100232, 802100233, 802100234, 0);
 insert into enemy_m_parts values (802100241, '兰法', 802100242, 802100243, 0, 0, 0);
-insert into enemy_m_parts values (802100245, '卡里萨', 802100246, 802100247, 802100248, 802100249, 0);
+insert into enemy_m_parts values (802100245, '卡利萨', 802100246, 802100247, 802100248, 802100249, 0);

@@ -8,3 +8,4 @@ insert into event_reminder_condition values (1006102, 1006102, 3, 5061602);
 insert into event_reminder_condition values (1006103, 1006103, 1, 5061601);
 insert into event_reminder_condition values (1006601, 1006601, 4, 5027704);
 insert into event_reminder_condition values (1007001, 1007001, 5, 0);
+insert into event_reminder_condition values (1007301, 1007301, 1, 5046601);

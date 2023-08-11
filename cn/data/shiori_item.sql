@@ -16,3 +16,4 @@ insert into shiori_item values (20014, 31053, 31045);
 insert into shiori_item values (20015, 31101, 31050);
 insert into shiori_item values (20016, 31105, 31014);
 insert into shiori_item values (20017, 31056, 31040);
+insert into shiori_item values (20018, 31112, 31036);
