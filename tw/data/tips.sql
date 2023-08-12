@@ -122,6 +122,7 @@ insert into tips values (4123901, 123901, 1, '●秘密圖鑑● ①茉莉');
 insert into tips values (4125101, 125101, 1, '無比幸福咖啡廳');
 insert into tips values (4125201, 125201, 1, '被點心包圍');
 insert into tips values (4125301, 125301, 1, '與主人一起');
+insert into tips values (4125401, 125401, 1, '做夢');
 insert into tips values (4180101, 180101, 1, '猜拳時間！');
 insert into tips values (4180201, 180201, 1, '肚子咕咕叫');
 insert into tips values (4180301, 180301, 1, '守護之力');
