@@ -9,7 +9,7 @@ insert into sqlite_stat1 values ('goldset_data_2', None, '70');
 insert into sqlite_stat1 values ('emblem_mission_data', None, '870');
 insert into sqlite_stat1 values ('shiori_mission_reward_data', 'shiori_mission_reward_data_0_mission_reward_id', '1744 2');
 insert into sqlite_stat1 values ('shiori_item', None, '38');
-insert into sqlite_stat1 values ('campaign_schedule', None, '1404');
+insert into sqlite_stat1 values ('campaign_schedule', None, '1418');
 insert into sqlite_stat1 values ('tower_area_data', None, '49');
 insert into sqlite_stat1 values ('dsb_story_data', 'dsb_story_data_0_original_event_id', '9 9');
 insert into sqlite_stat1 values ('prizegacha_sp_detail', None, '5');
@@ -579,7 +579,7 @@ insert into sqlite_stat1 values ('birthday_login_bonus_drama_script', 'birthday_
 insert into sqlite_stat1 values ('promotion_bonus', 'promotion_bonus_0_unit_id', '450 2');
 insert into sqlite_stat1 values ('promotion_bonus', 'sqlite_autoindex_promotion_bonus_1', '450 2 1');
 insert into sqlite_stat1 values ('spskill_lv_initialize_data', None, '28');
-insert into sqlite_stat1 values ('daily_mission_data', None, '87');
+insert into sqlite_stat1 values ('daily_mission_data', None, '89');
 insert into sqlite_stat1 values ('ex_equipment_rankup_data', 'sqlite_autoindex_ex_equipment_rankup_data_1', '5 2 1');
 insert into sqlite_stat1 values ('unique_equipment_craft', None, '180');
 insert into sqlite_stat1 values ('legion_boss_enemy_setting', None, '4');
