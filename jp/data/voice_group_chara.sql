@@ -27,7 +27,7 @@ insert into voice_group_chara values (102701001, 'トワイライトキャラバ
 insert into voice_group_chara values (102801001, 'サレンディア救護院（サレン）', 102801, 110301, 114501, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (102901001, 'カルミナ（ノゾミ）', 102901, 111601, 117201, 124801, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (103001001, 'ヴァイスフリューゲルランドソル支部（ニノン）', 103001, 109601, 117801, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (103101001, 'ディアボロス（シノブ）', 103101, 108101, 122001, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (103101001, 'ディアボロス（シノブ）', 103101, 108101, 122001, 127101, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (103201001, 'メルクリウス財団（アキノ）', 103201, 114401, 126701, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (103301001, 'エリザベスパーク（マヒル）', 103301, 112801, 119201, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (103401001, 'メルクリウス財団（ユカリ）', 103401, 114601, 122201, 126801, 0, 0, 0, 0, 0, 0);
@@ -288,6 +288,7 @@ insert into voice_group_chara values (326301001, 'ユキ（儀装束）（カリ
 insert into voice_group_chara values (326701001, 'アキノ（サマー）（カリン掛け合い用）', 126701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (326801001, 'ユカリ（サマー）（カリン掛け合い用）', 126801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (327001001, 'クウカ（サマー）（カリン掛け合い用）', 127001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (327101001, 'シノブ（サマー）（カリン掛け合い用）', 127101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380101001, 'ヒヨリ（プリンセス）（カリン掛け合い用）', 180101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380201001, 'ユイ（プリンセス）（カリン掛け合い用）', 180201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380301001, 'レイ（プリンセス）（カリン掛け合い用）', 180301, 0, 0, 0, 0, 0, 0, 0, 0, 0);

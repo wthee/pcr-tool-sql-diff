@@ -100,3 +100,6 @@ insert into shiori_quest_area values (20041201, 20041, 'オーエド町', 201, '
 insert into shiori_quest_area values (20042101, 20042, '王都ランドソル', 201, 'bgm_M520', 'bgm_M520', 1, 1, 128, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20042102, 20042, '王都ランドソル', 201, 'bgm_M520', 'bgm_M520', 1, 2, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20042201, 20042, '王都ランドソル', 201, 'bgm_M520', 'bgm_M520', 1, 1, 0, 0, 0, '0', '0', 31);
+insert into shiori_quest_area values (20043101, 20043, '王都ランドソル', 201, 'bgm_M527', 'bgm_M527', 1, 1, 40, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20043102, 20043, 'ランドソル近郊', 201, 'bgm_M527', 'bgm_M527', 1, 2, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20043201, 20043, 'ランドソル近郊', 201, 'bgm_M527', 'bgm_M527', 1, 0, 0, 0, 0, '0', '0', 0);

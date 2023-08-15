@@ -226,6 +226,7 @@ insert into unit_background values (126701, 'アキノ（サマー）', 501030, 
 insert into unit_background values (126801, 'ユカリ（サマー）', 500280, '無人島', 0.0, 4);
 insert into unit_background values (126901, 'ランファ（サマー）', 501030, 'ウィッシュビーチ', 0.0, 2);
 insert into unit_background values (127001, 'クウカ（サマー）', 500160, 'マルジェン海岸_昼', 0.0, 4);
+insert into unit_background values (127101, 'シノブ（サマー）', 500162, 'マルジェン海岸_夜', 0.0, 4);
 insert into unit_background values (180101, 'ヒヨリ（プリンセス）', 500130, 'エステレラ街道', 0.0, 2);
 insert into unit_background values (180201, 'ユイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 4);
 insert into unit_background values (180301, 'レイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 3);

@@ -1,1 +1,2 @@
 CREATE TABLE 'beginner_chara_e_ticket_data' ('beginner_id' INTEGER NOT NULL, 'ticket_id' INTEGER NOT NULL, 'beginner_type' INTEGER NOT NULL, 'jewel_store_id' INTEGER NOT NULL, 'chara_e_ticket_id' INTEGER NOT NULL, 'beginner_limit_hour' INTEGER NOT NULL, 'forced_exchange_hour' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'icon_id' INTEGER NOT NULL, PRIMARY KEY('beginner_id','ticket_id'));
+insert into beginner_chara_e_ticket_data values (1, 27011, 1, 114, 27008, 240, 240, '2023/08/15 15:00:00', '2024/02/25 14:59:59', 27011);

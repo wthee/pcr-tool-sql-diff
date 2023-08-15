@@ -367,6 +367,11 @@ insert into enemy_m_parts values (502007212, 'ソードコブラ 19階', 5020072
 insert into enemy_m_parts values (502007312, 'ソードコブラ 29階', 502007313, 502007314, 502007315, 0, 0);
 insert into enemy_m_parts values (502007412, 'ソードコブラ 39階', 502007413, 502007414, 502007415, 0, 0);
 insert into enemy_m_parts values (502007512, 'ソードコブラ 49階', 502007513, 502007514, 502007515, 0, 0);
+insert into enemy_m_parts values (550103114, 'オブシダンワイバーン 1段階目（次元断層）', 550103115, 550103116, 550103117, 0, 0);
+insert into enemy_m_parts values (550103216, 'オブシダンワイバーン 2段階目（次元断層）', 550103217, 550103218, 550103219, 0, 0);
+insert into enemy_m_parts values (550103317, 'オブシダンワイバーン 3段階目（次元断層）', 550103318, 550103319, 550103320, 0, 0);
+insert into enemy_m_parts values (550103417, 'オブシダンワイバーン 4段階目（次元断層）', 550103418, 550103419, 550103420, 0, 0);
+insert into enemy_m_parts values (550103517, 'オブシダンワイバーン 5段階目（次元断層）', 550103518, 550103519, 550103520, 0, 0);
 insert into enemy_m_parts values (610017101, 'ペテルギウス NORMAL', 610017102, 610017103, 610017104, 0, 0);
 insert into enemy_m_parts values (610017201, 'ペテルギウス HARD', 610017202, 610017203, 610017204, 0, 0);
 insert into enemy_m_parts values (610017301, 'ペテルギウス VERY HARD', 610017302, 610017303, 610017304, 0, 0);
