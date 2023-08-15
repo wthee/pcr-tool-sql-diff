@@ -44,3 +44,5 @@ insert into ailment_data values (42, 49, 10, '消除護盾');
 insert into ailment_data values (43, 9, 9, '黑炎');
 insert into ailment_data values (44, 99, 2, '加速領域');
 insert into ailment_data values (45, 99, 1, '緩速領域');
+insert into ailment_data values (46, 49, 20, '消除增益（指定）');
+insert into ailment_data values (47, 101, 5, '擊打烙印（攻擊命中）');
