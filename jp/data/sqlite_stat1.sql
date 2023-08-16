@@ -406,7 +406,7 @@ insert into sqlite_stat1 values ('hatsune_mission_reward_data', 'hatsune_mission
 insert into sqlite_stat1 values ('unit_enemy_data', None, '1513');
 insert into sqlite_stat1 values ('special_story_banner', 'special_story_banner_0_story_group_id', '5 1');
 insert into sqlite_stat1 values ('tp_recovery_at', None, '1');
-insert into sqlite_stat1 values ('visual_customize', None, '36');
+insert into sqlite_stat1 values ('visual_customize', None, '38');
 insert into sqlite_stat1 values ('sjr_ub_data', None, '30');
 insert into sqlite_stat1 values ('apa_schedule', None, '1');
 insert into sqlite_stat1 values ('xeh_story_data', 'xeh_story_data_0_original_event_id', '10 10');
