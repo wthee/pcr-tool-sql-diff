@@ -321,3 +321,6 @@ insert into hatsune_special_enemy values (610114504, 10114, 1, 1, -100, 0);
 insert into hatsune_special_enemy values (610115404, 10115, 1, 1, 20, 1);
 insert into hatsune_special_enemy values (610115405, 10115, 1, 1, 140, 2);
 insert into hatsune_special_enemy values (610115406, 10115, 1, 1, 300, 3);
+insert into hatsune_special_enemy values (610117501, 10117, 1, 1, 20, 0);
+insert into hatsune_special_enemy values (610117502, 10117, 1, 1, 140, 0);
+insert into hatsune_special_enemy values (610117503, 10117, 1, 1, 300, 0);
