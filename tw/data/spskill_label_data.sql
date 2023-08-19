@@ -13,3 +13,4 @@ insert into spskill_label_data values (122301, '平常時', '共鬥中');
 insert into spskill_label_data values (122701, '平常時', '特殊技');
 insert into spskill_label_data values (123001, '平常時', '特殊技');
 insert into spskill_label_data values (125001, '平常時', '共鬥中');
+insert into spskill_label_data values (125801, '平常時', '特殊技能');

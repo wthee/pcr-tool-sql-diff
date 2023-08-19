@@ -83,6 +83,7 @@ insert into voice_group_chara values (118501001, '花凜', 118501, 0, 0, 0, 0, 0
 insert into voice_group_chara values (122301001, '班比', 122301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (123001001, '愛梅斯', 123001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (123301001, '涅婭', 123301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (125801001, '莉莉（幻變少女）', 125801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (180701001, '初音＆栞（夏日）', 180701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (180801001, '禊＆美美＆鏡華', 180801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (180901001, '秋乃＆咲戀', 180901, 0, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -279,6 +280,7 @@ insert into voice_group_chara values (325101001, '珠希（咖啡廳）（花凜
 insert into voice_group_chara values (325201001, '莫妮卡（咖啡廳）（花凜對話用）', 125201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (325301001, '可可蘿（遊俠）（花凜對話用）', 125301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (325401001, '栞（遊俠）（花凜對話用）', 125401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (325801001, '莉莉（墮落）（花凜對話用）', 125801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380101001, '日和（公主）（花凜對話用）', 180101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380201001, '優衣（公主）（花凜對話用）', 180201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380301001, '怜（公主）（花凜對話用）', 180301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
