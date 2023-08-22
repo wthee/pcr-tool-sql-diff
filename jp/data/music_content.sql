@@ -287,7 +287,7 @@ insert into music_content values (285, 'オーマの水からっぽ大作戦\u30
 insert into music_content values (286, '復活の白き島クジラ', '2:28', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 02:28\\n作曲 / 東大路憲太\\n編曲 / 中町友洋', 'bgm_MC048', 'bgm_MC048_juke');
 insert into music_content values (287, 'メタモル・カレイドスコープ', '1:29', '0:51', 'キャラクターソング\\n\\n時間 / 01:29\\n歌\u3000 / ネネカ（井口裕香）\\n作詞 / 高瀬愛虹\\n作曲 / やしきん\\n編曲 / やしきん', 'bgm_MC055', 'bgm_MC055');
 insert into music_content values (288, 'プリンセスの秘密', '1:42', '0:00', 'ストーリーイベントミニコンテンツ\\n-｢メタモル・カレイドスコープ｣アレンジ-\\n\\n時間 / 01:42\\n作曲 / やしきん\\n編曲 / 塚越廉', 'bgm_MC049', 'bgm_MC049_juke');
-insert into music_content values (289, 'グルメチェイサー号、出発進行！', '1:39', '0:00', 'キャラバン\\n\\n時間 / 01:39\\n作曲 / 市橋卓也（Cygames）\\n編曲 / 市橋卓也（Cygames）', 'bgm_MC043', 'bgm_MC043_juke');
+insert into music_content values (289, 'グルメチェイサー号、出発進行！', '1:39', '0:00', 'キャラバン\\n\\n時間 / 01:39\\n作曲 / 東大路憲太\\n編曲 / 市橋卓也（Cygames）', 'bgm_MC043', 'bgm_MC043_juke');
 insert into music_content values (290, '戦慄幽奇海岸\u3000～サマーリゾートスリラーズ～', '1:08', '0:00', 'ストーリーイベントテーマ\\n-｢アイノキズナ｣アレンジ-\\n\\n時間 / 01:08\\n作曲 / 松坂康司 (SUPA LOVE)\\n編曲 / 関根修平（Cygames）', 'bgm_MC056', 'bgm_MC056_juke');
 insert into music_content values (291, 'グラッジレイス', '1:27', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 01:27\\n作曲 / 畑田浩孝（Cygames）\\n編曲 / 畑田浩孝（Cygames）', 'bgm_MC058', 'bgm_MC058_juke');
 insert into music_content values (292, 'アイノキズナ', '1:33', '0:55', 'キャラクターソング\\n\\n時間 / 01:33\\n歌\u3000 / ランファ（原田彩楓）\\n作詞 / 松坂康司 (SUPA LOVE)\\n作曲 / 松坂康司 (SUPA LOVE)\\n編曲 / 松坂康司 (SUPA LOVE)', 'bgm_MC072', 'bgm_MC072_juke');
