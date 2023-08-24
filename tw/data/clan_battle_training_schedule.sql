@@ -22,3 +22,4 @@ insert into clan_battle_training_schedule values (1057, 1057, '2023/04/23 12:00:
 insert into clan_battle_training_schedule values (1058, 1058, '2023/05/24 12:00:00', '2023/05/31 23:59:59', '2023/06/01', '2023/06/22 11:59:59');
 insert into clan_battle_training_schedule values (1059, 1059, '2023/06/22 12:00:00', '2023/06/30 23:59:59', '2023/07/01', '2023/07/24 11:59:59');
 insert into clan_battle_training_schedule values (1060, 1060, '2023/07/24 12:00:00', '2023/07/31 23:59:59', '2023/08/01', '2023/08/24 11:59:59');
+insert into clan_battle_training_schedule values (1061, 1061, '2023/08/24 12:00:00', '2023/08/31 23:59:59', '2023/09/01', '2023/09/23 11:59:59');

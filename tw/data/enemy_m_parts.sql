@@ -260,6 +260,13 @@ insert into enemy_m_parts values (401602404, '劍蛇 第4階段', 401602405, 401
 insert into enemy_m_parts values (401602604, '劍蛇 第1階段 單人模式', 401602605, 401602606, 401602607, 0, 0);
 insert into enemy_m_parts values (401602704, '劍蛇 第2階段 單人模式', 401602705, 401602706, 401602707, 0, 0);
 insert into enemy_m_parts values (401602804, '劍蛇 第3階段 單人模式', 401602805, 401602806, 401602807, 0, 0);
+insert into enemy_m_parts values (401603103, '雷電 第1階段', 401603104, 401603105, 401603106, 0, 0);
+insert into enemy_m_parts values (401603203, '雷電 第2階段', 401603204, 401603205, 401603206, 0, 0);
+insert into enemy_m_parts values (401603303, '雷電 第3階段', 401603304, 401603305, 401603306, 0, 0);
+insert into enemy_m_parts values (401603403, '雷電 第4階段', 401603404, 401603405, 401603406, 0, 0);
+insert into enemy_m_parts values (401603603, '雷電 第1階段 單人模式', 401603604, 401603605, 401603606, 0, 0);
+insert into enemy_m_parts values (401603703, '雷電 第2階段 單人模式', 401603704, 401603705, 401603706, 0, 0);
+insert into enemy_m_parts values (401603803, '雷電 第3階段 單人模式', 401603804, 401603805, 401603806, 0, 0);
 insert into enemy_m_parts values (501010601, '狂怒綠龍', 501010602, 501010603, 501010604, 0, 0);
 insert into enemy_m_parts values (501010701, '黑月守護像', 501010702, 501010703, 501010704, 0, 0);
 insert into enemy_m_parts values (501010705, '白陽守護像', 501010706, 501010707, 501010708, 0, 0);
