@@ -32,3 +32,7 @@ insert into gacha_pickup values (6, 1, 1, 107701, 'スズメ（サマー）');
 insert into gacha_pickup values (6, 2, 1, 107901, 'タマキ（サマー）');
 insert into gacha_pickup values (6, 3, 1, 110601, 'マホ（サマー）');
 insert into gacha_pickup values (6, 4, 1, 110401, 'マコト（サマー）');
+insert into gacha_pickup values (7, 1, 1, 117201, 'ノゾミ（サマー）');
+insert into gacha_pickup values (7, 2, 1, 117001, 'エリコ（サマー）');
+insert into gacha_pickup values (7, 3, 1, 113101, 'ルカ（サマー）');
+insert into gacha_pickup values (7, 4, 1, 113401, 'ハツネ（サマー）');
