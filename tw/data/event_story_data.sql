@@ -64,3 +64,4 @@ insert into event_story_data values (5110, 5, 10110, '解放自由的伊甸園\u
 insert into event_story_data values (5111, 5, 10111, '解放自由的伊甸園\u3000\\n有朝一日重逢的未來', 0, 1, '2023/05/29 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5114, 5, 10114, '貓與懷舊點心的咖啡廳 \\n歡迎光臨Café Naschkatze', 0, 1, '2023/06/28 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5116, 5, 10116, 'Dears\u3000\\n歡迎回家與我回來了的約定', 0, 1, '2023/07/29 16:00:00', '2030/04/24 14:59:59');
+insert into event_story_data values (5118, 5, 10118, 'Connect‧With‧Blue\u3000\\n直至少女前往天際', 0, 1, '2023/08/29 16:00:00', '2030/05/14 14:59:59');
