@@ -20,3 +20,4 @@ insert into travel_ex_event_data values (8000017, '進む旅路に積もる話',
 insert into travel_ex_event_data values (8000018, 'シング・ア・ララバイ', 19);
 insert into travel_ex_event_data values (8000019, 'デスクよりハードなワーク', 20);
 insert into travel_ex_event_data values (8000020, 'ガイドたちのフォトグラフ', 21);
+insert into travel_ex_event_data values (8000021, 'あたらしいおともだち', 22);

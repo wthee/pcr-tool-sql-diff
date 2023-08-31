@@ -9,3 +9,4 @@ insert into minigame values (7, 1007, 10072, 3, 5072006, 0, 3, 5072006, 1, 'pt',
 insert into minigame values (8, 1008, 10080, 3, 5080007, 5080700, 3, 5080000, 0, 'pt', 0);
 insert into minigame values (9, 1009, 0, 0, 0, 9004201, 0, 0, 0, 'pt', 0);
 insert into minigame values (10, 1010, 10096, 1, 5096007, 5096700, 3, 5096007, 1, 'pt', 0);
+insert into minigame values (11, 1012, 10126, 2, 10126107, 0, 3, 5126000, 0, 'pt', 0);

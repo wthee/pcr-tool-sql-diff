@@ -4,6 +4,7 @@ insert into bg_data values ('TITLE', 0, 0);
 insert into bg_data values ('HOME', 0, 0);
 insert into bg_data values ('UNIT_TOP', 530010, 0);
 insert into bg_data values ('UNIT_DETAIL', 530010, 0);
+insert into bg_data values ('ARENA_TOP', 500380, 0);
 insert into bg_data values ('NORMAL_ARENA_TOP', 500380, 0);
 insert into bg_data values ('NORMAL_ARENA_RANKING', 500380, 0);
 insert into bg_data values ('GRAND_ARENA_TOP', 500381, 0);

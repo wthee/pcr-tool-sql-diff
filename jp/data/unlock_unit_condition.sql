@@ -221,6 +221,7 @@ insert into unlock_unit_condition values (125801, 'リリ（フォールン）',
 insert into unlock_unit_condition values (126201, 'イリヤ（儀装束）', 1, 0, 1, 2, 31262, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (126301, 'ユキ（儀装束）', 1, 0, 1, 2, 31263, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (126401, 'クローチェ', 1, 0, 1, 2, 31264, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
+insert into unlock_unit_condition values (126501, 'ライラエル', 1, 0, 1, 2, 31265, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (126601, 'ネネカ（サマー）', 1, 0, 1, 2, 31266, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (126701, 'アキノ（サマー）', 1, 0, 1, 2, 31267, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (126801, 'ユカリ（サマー）', 1, 0, 1, 2, 31268, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
