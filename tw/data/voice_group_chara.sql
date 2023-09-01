@@ -79,7 +79,7 @@ insert into voice_group_chara values (112601001, 'new generations（未央）', 
 insert into voice_group_chara values (118001001, '克蕾琪塔', 118001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (118101001, '憤怒軍團（蘭法）', 118101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (118201001, '憤怒軍團（美空）', 118201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (118501001, '花凜', 118501, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (118501001, '花凜', 118501, 125701, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (122301001, '班比', 122301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (123001001, '愛梅斯', 123001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (123301001, '涅婭', 123301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
