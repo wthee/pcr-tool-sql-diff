@@ -53,7 +53,7 @@ insert into voice_group_chara values (105601001, 'トワイライトキャラバ
 insert into voice_group_chara values (105701001, '？？？（ジータ）', 105701, 125501, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (105801001, '美食殿（ペコリーヌ）', 105801, 107501, 180401, 111801, 121001, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (105901001, '美食殿（コッコロ）', 105901, 107601, 111901, 180501, 115501, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (106001001, '美食殿（キャル）', 106001, 107801, 112001, 180601, 121101, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (106001001, '美食殿（キャル）', 106001, 107801, 112001, 180601, 121101, 127201, 0, 0, 0, 0);
 insert into voice_group_chara values (106101001, '？？？（ムイミ）', 106101, 114701, 125001, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (106301001, '？？？（アリサ）', 106301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (106401001, '美食殿（シェフィ）', 106401, 120701, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -290,6 +290,7 @@ insert into voice_group_chara values (326701001, 'アキノ（サマー）（カ
 insert into voice_group_chara values (326801001, 'ユカリ（サマー）（カリン掛け合い用）', 126801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (327001001, 'クウカ（サマー）（カリン掛け合い用）', 127001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (327101001, 'シノブ（サマー）（カリン掛け合い用）', 127101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (327201001, 'キャル（編入生）（カリン掛け合い用）', 127201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380101001, 'ヒヨリ（プリンセス）（カリン掛け合い用）', 180101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380201001, 'ユイ（プリンセス）（カリン掛け合い用）', 180201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380301001, 'レイ（プリンセス）（カリン掛け合い用）', 180301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
