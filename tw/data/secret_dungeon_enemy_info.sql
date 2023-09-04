@@ -24,3 +24,8 @@ insert into secret_dungeon_enemy_info values (32005, 7, '水瑚麟');
 insert into secret_dungeon_enemy_info values (32005, 8, '飛龍');
 insert into secret_dungeon_enemy_info values (32005, 9, '稜鏡夫人');
 insert into secret_dungeon_enemy_info values (32005, 10, '狂怒綠龍');
+insert into secret_dungeon_enemy_info values (32006, 6, '邪惡領主');
+insert into secret_dungeon_enemy_info values (32006, 7, '紅極鳥');
+insert into secret_dungeon_enemy_info values (32006, 8, '雷雷');
+insert into secret_dungeon_enemy_info values (32006, 9, '獸人酋長');
+insert into secret_dungeon_enemy_info values (32006, 10, '狂怒綠龍');
