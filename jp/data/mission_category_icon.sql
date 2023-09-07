@@ -36,3 +36,4 @@ insert into mission_category_icon values (601, 'green', '#339910');
 insert into mission_category_icon values (602, 'green', '#339910');
 insert into mission_category_icon values (603, 'green', '#339910');
 insert into mission_category_icon values (1000, 'darkgreen', '#0F8B5E');
+insert into mission_category_icon values (1001, 'orange', '#E5681E');

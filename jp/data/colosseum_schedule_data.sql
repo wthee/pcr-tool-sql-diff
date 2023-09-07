@@ -1,1 +1,2 @@
 CREATE TABLE 'colosseum_schedule_data' ('schedule_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'count_start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'close_time' TEXT NOT NULL, 'calc_start' TEXT NOT NULL, 'result_start' TEXT NOT NULL, PRIMARY KEY('schedule_id'));
+insert into colosseum_schedule_data values (1001, '2023/09/07 12:00:00', '2023/09/10 23:59:59', '2023/09/11 23:59:59', '2023/09/15 11:59:59', '2023/09/12 00:00:00', '2023/09/12 15:00:00');
