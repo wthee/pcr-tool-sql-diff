@@ -171,3 +171,7 @@ insert into bg_data values ('HATSUNE_DSB_DIARY', 0, 0);
 insert into bg_data values ('DIMENSION_FAULT_TOP', 0, 0);
 insert into bg_data values ('STORY_FBS_DETAIL', 530030, 0);
 insert into bg_data values ('HATSUNE_DVS', 500130, 0);
+insert into bg_data values ('HATSUNE_BMY', 501992, 0);
+insert into bg_data values ('HATSUNE_WTS', 502015, 0);
+insert into bg_data values ('CARAVAN_TOP', 0, 0);
+insert into bg_data values ('CARAVAN_SHOP', 500370, 0);

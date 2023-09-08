@@ -270,3 +270,16 @@ insert into music_content values (268, '我的色彩STORY', '1:29', '0:59', '角
 insert into music_content values (269, '魔物生態報告書', '2:19', '0:00', '故事劇情迷你內容\\n-《我的色彩STORY》編曲-\\n\\n時間／02:19\\n作曲／高木龍一（Dream Monster）\\n編曲／Enarak（Cygames）', 'bgm_MC021', 'bgm_MC021_juke');
 insert into music_content values (270, '萬花綻放的新天地', '2:06', '0:00', '主線冒險\\n\\n時間／02:06\\n作曲／佐藤遥（Cygames）\\n編曲／佐藤遥（Cygames）', 'bgm_MC001', 'bgm_MC001_juke');
 insert into music_content values (271, '吉歐‧提格尼亞的戰鬥', '1:23', '0:00', '主線冒險\\n\\n時間／01:23\\n作曲／長谷部翔（Cygames）\\n編曲／長谷部翔（Cygames）', 'bgm_MC022', 'bgm_MC022_juke');
+insert into music_content values (272, 'Connect‧With‧Blue\u3000直至少女前往天際', '2:09', '0:00', '故事劇情主題曲\\n-「羽翼的序幕」編曲-\\n\\n時間 / 02:09\\n作曲 / 本多友紀 (Arte Refact)\\n編曲 / 畑田浩孝（Cygames）', 'bgm_MC026', 'bgm_MC026_juke');
+insert into music_content values (273, '智慧的鍊金術師‧莫夫', '2:08', '0:00', '故事劇情Boss戰\\n\\n時間 / 02:08\\n作曲 / Enarak（Cygames）\\n編曲 / Enarak（Cygames）', 'bgm_MC029', 'bgm_MC029_juke');
+insert into music_content values (274, '羽翼的序幕', '1:32', '1:03', '角色歌曲\\n\\n時間 / 01:32\\n演唱 / 吉塔（金元寿子）\\n作詞 / 真崎エリカ\\n作曲 / 本多友紀 (Arte Refact)\\n編曲 / 本多友紀 (Arte Refact)', 'bgm_MC035', 'bgm_MC035');
+insert into music_content values (275, '蘭德索爾一期一會', '1:58', '0:00', '故事劇情迷你內容\\n-「羽翼的序幕」編曲-\\n\\n時間 / 01:58\\n作曲 / 本多友紀 (Arte Refact)\\n編曲 / 亀井瑠美', 'bgm_MC030', 'bgm_MC030_juke');
+insert into music_content values (276, '次元斷層', '1:07', '0:00', '次元斷層\\n\\n時間 / 01:07\\n作曲 / Enarak（Cygames）\\n編曲 / Enarak（Cygames）', 'bgm_MC007', 'bgm_MC007_juke');
+insert into music_content values (277, '出現於次元夾縫的威脅', '1:46', '0:00', '次元斷層\\n\\n時間 / 01:46\\n作曲 / 中村博\\n編曲 / 中村博', 'bgm_MC008', 'bgm_MC008_juke');
+insert into music_content values (278, '華麗世界的強敵', '1:32', '0:00', '主線冒險Boss戰\\n\\n時間 / 01:32\\n作曲 / 中町友洋\\n編曲 / 中町友洋', 'bgm_MC023', 'bgm_MC023_juke');
+insert into music_content values (279, '吸血鬼傳聞錄\u3000黑夜與美麗的饗宴', '1:13', '0:00', '故事劇情主題曲\\n-《Gothical Radical † Eternal Wedding》\\n編曲-\\n\\n時間 / 01:13\\n作曲 / 毛蟹（LIVE LAB.）\\n編曲 / 佐藤遥（Cygames）', 'bgm_MC036', 'bgm_MC036_juke');
+insert into music_content values (280, '變貌的從者‧布拉德', '2:07', '0:00', '故事劇情Boss戰\\n\\n時間 / 02:07\\n作曲 / 関根修平（Cygames）\\n編曲 / 関根修平（Cygames）', 'bgm_MC039', 'bgm_MC039_juke');
+insert into music_content values (281, 'Gothical Radical † Eternal Wedding', '1:29', '0:48', '角色歌曲\\n\\n時間 / 01:29\\n演唱\u3000 / 伊莉亞（丹下桜）\\n作詞 / 毛蟹（LIVE LAB.）\\n作曲 / 毛蟹（LIVE LAB.）\\n編曲 / 毛蟹（LIVE LAB.）', 'bgm_MC052', 'bgm_MC052');
+insert into music_content values (282, '雪的審美會', '1:28', '0:00', '故事劇情迷你內容\\n-《Gothical Radical † Eternal Wedding》\\n編曲-\\n\\n時間 / 01:28\\n作曲 / 毛蟹（LIVE LAB.）\\n編曲 / 中村早織（Cygames）', 'bgm_MC040', 'bgm_MC040_juke');
+insert into music_content values (283, 'Princess Fight☆', '0:54', '0:00', '主線冒險\\n\\n時間 / 00:54\\n作曲 / 西木康智\\n編曲 / 西木康智', 'bgm_M06', 'bgm_M06_juke');
+insert into music_content values (284, '艾爾皮斯島之戰', '1:10', '0:00', '主線冒險\\n\\n時間 / 01:10\\n作曲 / 白井友規（Cygames）\\n編曲 / 白井友規（Cygames）', 'bgm_M169', 'bgm_M169_juke');

@@ -1,0 +1,1 @@
+CREATE INDEX 'caravan_treasure_block_real_0_odds_id' on 'caravan_treasure_block_real'('odds_id')

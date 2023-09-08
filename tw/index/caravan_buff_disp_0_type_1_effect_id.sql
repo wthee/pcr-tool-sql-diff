@@ -1,0 +1,1 @@
+CREATE INDEX 'caravan_buff_disp_0_type_1_effect_id' on 'caravan_buff_disp'('type','effect_id')

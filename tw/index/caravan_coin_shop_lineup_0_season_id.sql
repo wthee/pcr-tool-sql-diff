@@ -1,0 +1,1 @@
+CREATE INDEX 'caravan_coin_shop_lineup_0_season_id' on 'caravan_coin_shop_lineup'('season_id')

@@ -1,0 +1,1 @@
+CREATE INDEX 'unique_equip_consume_group_0_group_id' on 'unique_equip_consume_group'('group_id')
