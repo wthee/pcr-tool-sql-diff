@@ -40,3 +40,5 @@ insert into shiori_quest_area values (20017201, 20017, '圣特蕾莎女子学院
 insert into shiori_quest_area values (20018101, 20018, '鬼屋周边', 201, 'bgm_M265', 'bgm_M265_Top', 1, 1, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20018102, 20018, '幽灵墓地', 201, 'bgm_M265', 'bgm_M265_Top', 1, 2, 0, 0, 1, '202', '0', 0);
 insert into shiori_quest_area values (20018201, 20018, '幽灵墓地', 201, 'bgm_M265', 'bgm_M265_Top', 1, 1, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20019101, 20019, '厄尔庇斯岛 营地开拓区', 201, 'bgm_M273', 'bgm_M273', 1, 0, 90, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20019201, 20019, '厄尔庇斯岛 营地开拓区', 201, 'bgm_M273', 'bgm_M273', 1, 0, 0, 0, 0, '0', '0', 0);
