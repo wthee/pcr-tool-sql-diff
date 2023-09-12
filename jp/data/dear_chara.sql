@@ -64,8 +64,8 @@ insert into dear_chara values (10117, 2, 'イノリ', 1000, 1, 121601, 0, 0, 0, 
 insert into dear_chara values (10121, 1, 'ユカリ', 1000, 1, 122201, 0, 0, 0, 0, 0);
 insert into dear_chara values (10121, 2, 'アオイ', 1000, 1, 122101, 0, 0, 0, 0, 0);
 insert into dear_chara values (10121, 3, 'ジュン', 1000, 1, 123401, 0, 0, 0, 0, 0);
-insert into dear_chara values (10100, 1, 'マホ', 1000, 1, 123101, 0, 0, 0, 0, 0);
-insert into dear_chara values (10100, 2, 'アヤネ', 1000, 1, 123201, 0, 0, 0, 0, 0);
+insert into dear_chara values (10127, 1, 'マホ', 1000, 1, 123101, 0, 0, 0, 0, 0);
+insert into dear_chara values (10127, 2, 'アヤネ', 1000, 1, 123201, 0, 0, 0, 0, 0);
 insert into dear_chara values (10102, 1, 'トモ', 1000, 1, 123601, 0, 0, 0, 0, 0);
 insert into dear_chara values (10102, 2, 'リン', 1000, 1, 123501, 0, 0, 0, 0, 0);
 insert into dear_chara values (10102, 3, 'ナナカ', 1000, 1, 123701, 0, 0, 0, 0, 0);
