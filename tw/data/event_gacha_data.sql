@@ -116,4 +116,5 @@ insert into event_gacha_data values (10115, 10115, 'Sweet Tiny Stage！\u3000初
 insert into event_gacha_data values (10116, 10116, 'Dears\u3000歡迎回家與我回來了的約定', 2, 61152, 1, 6);
 insert into event_gacha_data values (10117, 10117, '交出寶物！透明怪盜雙人組', 2, 61162, 1, 6);
 insert into event_gacha_data values (10118, 10118, 'Connect‧With‧Blue\u3000直至少女前往天際', 2, 61172, 1, 6);
+insert into event_gacha_data values (10119, 10119, ' Episode of Pirate\u3000海盜島上被詛咒的遺寶', 2, 61182, 1, 6);
 insert into event_gacha_data values (19003, 10003, '吸血鬼獵人 with伊莉亞', 2, 60022, 1, 5);

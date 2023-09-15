@@ -3241,6 +3241,11 @@ insert into skip_monster_data values (11063007, 11063, '阿帕雷尤街道‧西
 insert into skip_monster_data values (11063008, 11063, '阿帕雷尤街道‧西側 63-8', 101630801, 103173);
 insert into skip_monster_data values (11063009, 11063, '阿帕雷尤街道‧西側 63-9', 101630901, 103203);
 insert into skip_monster_data values (11063010, 11063, '阿帕雷尤街道‧西側 63-10', 101631010, 103183);
+insert into skip_monster_data values (11064001, 11064, '阿帕雷尤街道‧東側 64-1', 101640101, 103203);
+insert into skip_monster_data values (11064002, 11064, '阿帕雷尤街道‧東側 64-2', 101640201, 103173);
+insert into skip_monster_data values (11064003, 11064, '阿帕雷尤街道‧東側 64-3', 101640301, 103173);
+insert into skip_monster_data values (11064004, 11064, '阿帕雷尤街道‧東側 64-4', 101640401, 103173);
+insert into skip_monster_data values (11064005, 11064, '阿帕雷尤街道‧東側 64-5', 101640501, 103173);
 insert into skip_monster_data values (12001001, 12001, '朱諾平原 1-1（Hard）', 101010101, 100911);
 insert into skip_monster_data values (12001002, 12001, '朱諾平原 1-2（Hard）', 101010101, 100911);
 insert into skip_monster_data values (12001003, 12001, '朱諾平原 1-3（Hard）', 101010101, 100361);
@@ -3417,6 +3422,7 @@ insert into skip_monster_data values (12058002, 12058, '克魯斯密林‧東部
 insert into skip_monster_data values (12058003, 12058, '克魯斯密林‧東部 58-3', 102580310, 101071);
 insert into skip_monster_data values (12063001, 12063, '阿帕雷尤街道‧西側 63-1', 102630101, 103193);
 insert into skip_monster_data values (12063002, 12063, '阿帕雷尤街道‧西側 63-2', 102630201, 103193);
+insert into skip_monster_data values (12063003, 12063, '阿帕雷尤街道‧西側 63-3', 102630310, 103193);
 insert into skip_monster_data values (13018001, 13018, '法艾頓草原‧北部 18-1', 103180101, 101401);
 insert into skip_monster_data values (13018002, 13018, '法艾頓草原‧北部 18-2', 103180204, 100691);
 insert into skip_monster_data values (13018003, 13018, '法艾頓草原‧北部 18-3', 103180301, 101431);
