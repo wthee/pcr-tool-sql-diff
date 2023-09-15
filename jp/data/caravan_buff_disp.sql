@@ -16,3 +16,8 @@ insert into caravan_buff_disp values (14, 1, 52010, 2, 6, '【料理】「マイ
 insert into caravan_buff_disp values (15, 1, 52011, 1, 1, '【料理】ダイスの目が1回目は必ず「2」に、2回目は必ず「7」になる', 0, 0);
 insert into caravan_buff_disp values (16, 1, 52012, 1, 1, '【料理】ダイスの目が\\n「1・2・3」のみになる', 0, 0);
 insert into caravan_buff_disp values (17, 1, 52012, 3, 2, '【料理】次のターン数のカウントをスキップする', 0, 0);
+insert into caravan_buff_disp values (18, 1, 52014, 1, 8, '【料理】移動時にマイルマスをスキップできる。', 0, 0);
+insert into caravan_buff_disp values (19, 1, 52005, 1, 1, '【料理】次回移動時に1マス分多く進める。', 0, 0);
+insert into caravan_buff_disp values (20, 1, 52014, 1, 1, '【料理】次回移動時に1マス分多く進める。', 2, 2);
+insert into caravan_buff_disp values (21, 1, 52015, 1, 1, '【料理】ダイスが2個に増える', 0, 0);
+insert into caravan_buff_disp values (22, 1, 52015, 1, 1, '【料理】次回移動時に1マス分多く進める。', 0, 0);

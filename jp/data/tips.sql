@@ -132,6 +132,7 @@ insert into tips values (4126301, 126301, 1, '美を統べる者');
 insert into tips values (4126401, 126401, 1, 'エンプティ');
 insert into tips values (4126501, 126501, 1, '内緒のつまみ食い');
 insert into tips values (4127201, 127201, 1, 'っぽいじゃない');
+insert into tips values (4127301, 127301, 1, '一緒にアオハルを');
 insert into tips values (4180101, 180101, 1, 'じゃんけんタイム！');
 insert into tips values (4180201, 180201, 1, 'ぺこぺこ');
 insert into tips values (4180301, 180301, 1, '守る力');

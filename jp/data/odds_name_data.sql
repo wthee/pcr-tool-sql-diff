@@ -263,3 +263,5 @@ insert into odds_name_data values (1012501, '1012520101', 'ミソギ（サマー
 insert into odds_name_data values (1012502, '1012520102', 'キョウカのメモリーピース', 99002, '');
 insert into odds_name_data values (1012601, '1012620101', 'リノのメモリーピース', 99002, '');
 insert into odds_name_data values (1012602, '1012620102', 'キャルのメモリーピース', 99002, '');
+insert into odds_name_data values (1012701, '1012720101', 'マホのメモリーピース', 99002, '');
+insert into odds_name_data values (1012702, '1012720102', 'アヤネのメモリーピース', 99002, '');

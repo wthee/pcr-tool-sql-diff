@@ -103,3 +103,5 @@ insert into shiori_quest_area values (20042201, 20042, '王都ランドソル', 
 insert into shiori_quest_area values (20043101, 20043, '王都ランドソル', 201, 'bgm_M527', 'bgm_M527', 1, 1, 40, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20043102, 20043, 'ランドソル近郊', 201, 'bgm_M527', 'bgm_M527', 1, 2, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20043201, 20043, 'ランドソル近郊', 201, 'bgm_M527', 'bgm_M527', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20044101, 20044, 'スイーツコンテスト会場', 201, 'bgm_M536', 'bgm_M536', 1, 1, 70, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20044201, 20044, 'スイーツコンテスト会場', 201, 'bgm_M536', 'bgm_M536', 1, 0, 0, 0, 0, '0', '0', 0);

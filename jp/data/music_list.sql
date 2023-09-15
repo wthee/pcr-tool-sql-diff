@@ -293,3 +293,9 @@ insert into music_list values (291, 'グラッジレイス', 20.0, '', '2023-08-
 insert into music_list values (292, 'アイノキズナ', 20.0, '', '2023-08-15 15:00:00', '', -1, 1500, 292, 'あいのきずな', '', '', '');
 insert into music_list values (293, 'Precious Journey', 20.0, '', '2023-08-15 15:00:00', '', 2201005, 1500, 293, 'ぷれしゃすじゃーにー', 'https://music.apple.com/jp/album/princess-connect-re-dive-priconne-character-song-34-ep/1698958405?app=itunes', '', 'A2003649511/');
 insert into music_list values (294, '茜色の寄り道', 20.0, '', '2023-08-15 15:00:00', '', 2201008, 1500, 294, 'あかねいろのよりみち', 'https://music.apple.com/jp/album/princess-connect-re-dive-priconne-character-song-34-ep/1698958405?app=itunes', '', 'A2003649511/');
+insert into music_list values (295, 'ウィザーディング・アオハル・デイズ\u3000魔法学園と奇跡の鐘', 20.0, '', '2023-09-15 15:00:00', '', -1, 1000, 290, 'うぃざーでぃんぐあおはるでいずまほうがくえんときせきのかね', '', '', '');
+insert into music_list values (296, '放たれし暴魔・アルゲース', 20.0, '', '2023-09-15 15:00:00', '', -1, 1000, 291, 'はなたれしぼうまあるげーす', '', '', '');
+insert into music_list values (297, 'その春、日記の続きから', 20.0, '', '2023-09-15 15:00:00', '', -1, 1500, 292, 'そのはるにっきのつづきから', '', '', '');
+insert into music_list values (298, 'ライラエル', 20.0, '', '2023-09-15 15:00:00', '', 2201007, 1000, 289, 'らいらえる', '', '', '');
+insert into music_list values (299, '勉強の準備はできてる？', 20.0, '', '2023-09-15 15:00:00', '', -1, 1000, 233, 'べんきょうのじゅんびはできてる', '', '', '');
+insert into music_list values (300, '放課後エデュケーション', 20.0, '', '2023-09-15 15:00:00', '', -1, 1000, 233, 'ほうかごえでゅけーしょん', '', '', '');

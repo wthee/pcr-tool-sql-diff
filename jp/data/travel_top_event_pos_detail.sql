@@ -13,3 +13,4 @@ insert into travel_top_event_pos_detail values (11, 7, -230, 90, 1);
 insert into travel_top_event_pos_detail values (12, 8, 230, -420, 1);
 insert into travel_top_event_pos_detail values (13, 9, 30, 250, 1);
 insert into travel_top_event_pos_detail values (14, 10, 280, -245, 1);
+insert into travel_top_event_pos_detail values (15, 11, -150, -110, 1);
