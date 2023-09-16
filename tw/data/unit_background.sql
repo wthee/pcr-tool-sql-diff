@@ -215,6 +215,7 @@ insert into unit_background values (125201, '莫妮卡（咖啡廳）', 501950, 
 insert into unit_background values (125301, '可可蘿（遊俠）', 501690, '平原_競技場_白天', 0.0, 2);
 insert into unit_background values (125401, '栞（遊俠）', 501690, '平原_競技場_白天', 0.0, 20);
 insert into unit_background values (125501, '吉塔（術士）', 500033, '蘭德索爾_鬧區_祭典_白天', 0.0, 4);
+insert into unit_background values (125601, '碧卡拉', 500033, '蘭德索爾_鬧區_祭典_白天', 0.0, 4);
 insert into unit_background values (125701, '花凜（鍊金術師）', 500371, '蘭德索爾_公務機關', 0.0, 2);
 insert into unit_background values (125801, '莉莉（墮落）', 501670, '吉歐‧提格尼亞_街道_白天', 0.0, 2);
 insert into unit_background values (180101, '日和（公主）', 500130, '埃斯特雷拉街道', 0.0, 2);

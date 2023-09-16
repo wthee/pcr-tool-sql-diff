@@ -50,7 +50,7 @@ insert into voice_group_chara values (105301001, '純白之翼（莫妮卡）', 
 insert into voice_group_chara values (105401001, '慈樂之音（紡希）', 105401, 113901, 117401, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (105501001, '純白之翼（步未）', 105501, 113001, 121501, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (105601001, '暮光流星群（流夏）', 105601, 113101, 120801, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (105701001, '？？？（吉塔）', 105701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (105701001, '？？？（吉塔）', 105701, 125501, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (105801001, '美食殿堂（貪吃佩可）', 105801, 107501, 180401, 111801, 121001, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (105901001, '美食殿堂（可可蘿）', 105901, 107601, 111901, 180501, 115501, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (106001001, '美食殿堂（凱留）', 106001, 107801, 112001, 180601, 121101, 0, 0, 0, 0, 0);
@@ -83,6 +83,7 @@ insert into voice_group_chara values (118501001, '花凜', 118501, 125701, 0, 0,
 insert into voice_group_chara values (122301001, '班比', 122301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (123001001, '愛梅斯', 123001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (123301001, '涅婭', 123301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (125601001, '碧卡拉', 125601, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (125801001, '莉莉（幻變少女）', 125801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (180701001, '初音＆栞（夏日）', 180701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (180801001, '禊＆美美＆鏡華', 180801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
