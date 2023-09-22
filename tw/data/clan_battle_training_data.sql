@@ -116,3 +116,7 @@ insert into clan_battle_training_data values (116, 1061, 0, 1, 288);
 insert into clan_battle_training_data values (117, 1061, 0, 2, 289);
 insert into clan_battle_training_data values (118, 1061, 0, 3, 290);
 insert into clan_battle_training_data values (119, 1061, 0, 4, 291);
+insert into clan_battle_training_data values (121, 1063, 0, 1, 294);
+insert into clan_battle_training_data values (122, 1063, 0, 2, 295);
+insert into clan_battle_training_data values (123, 1063, 0, 3, 296);
+insert into clan_battle_training_data values (124, 1063, 0, 4, 297);
