@@ -92,3 +92,5 @@ insert into shiori_quest_area values (20039101, 20039, '王城蘭德索爾', 201
 insert into shiori_quest_area values (20039102, 20039, '某座無人島', 201, 'bgm_M486', 'bgm_M486', 1, 2, 58, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20039103, 20039, '王城蘭德索爾', 201, 'bgm_M486', 'bgm_M486', 1, 3, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20039201, 20039, '王城蘭德索爾', 201, 'bgm_M486', 'bgm_M486', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20040101, 20040, '慈樂之音夏日演唱會會場', 201, 'bgm_M496', 'bgm_M496', 1, 1, 100, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20040201, 20040, '慈樂之音夏日演唱會會場', 201, 'bgm_M496', 'bgm_M496', 1, 0, 0, 0, 0, '0', '0', 0);

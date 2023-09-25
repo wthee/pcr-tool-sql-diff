@@ -139,6 +139,7 @@ insert into actual_unit_background values (115931, '安芸 真琴', 510220, 1);
 insert into actual_unit_background values (116031, '姬宮 真步', 510124, 4);
 insert into actual_unit_background values (116231, '黑江 花子', 510150, 2);
 insert into actual_unit_background values (116331, '風間 琪愛兒', 510050, 4);
+insert into actual_unit_background values (116431, '真行寺 由仁', 510124, 4);
 insert into actual_unit_background values (116531, '一之瀨 祈梨', 510301, 4);
 insert into actual_unit_background values (116631, '鬼道 嘉夜', 510300, 4);
 insert into actual_unit_background values (116731, '雙葉 碧', 510390, 2);
