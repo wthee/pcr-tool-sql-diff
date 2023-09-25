@@ -16,3 +16,4 @@ insert into custom_mypage_group values (20006, 'プリンセスコネクト！Re
 insert into custom_mypage_group values (30001, 'ミニゲーム・ミニコンテンツ');
 insert into custom_mypage_group values (40001, 'みんなのカレンダー');
 insert into custom_mypage_group values (40002, 'ローソンコラボ記念');
+insert into custom_mypage_group values (40003, 'TANITAコラボ記念');
