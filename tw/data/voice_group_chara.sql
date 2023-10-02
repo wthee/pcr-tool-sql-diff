@@ -37,7 +37,7 @@ insert into voice_group_chara values (103801001, '伊麗莎白牧場（栞）', 
 insert into voice_group_chara values (104001001, '森林守衛（碧）', 104001, 110701, 116701, 122101, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (104201001, '慈樂之音（千歌）', 104201, 108401, 117301, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (104301001, '哞哞自衛隊（真琴）', 104301, 110401, 115901, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (104401001, '惡魔偽王國軍（伊莉亞）', 104401, 111701, 120901, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (104401001, '惡魔偽王國軍（伊莉亞）', 104401, 111701, 120901, 126201, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (104501001, '純白之翼（空花）', 104501, 109501, 119101, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (104601001, '墨丘利財團（珠希）', 104601, 107901, 116801, 125101, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (104701001, '王宮騎士團（純）', 104701, 113601, 124201, 0, 0, 0, 0, 0, 0, 0);
@@ -282,6 +282,7 @@ insert into voice_group_chara values (325201001, '莫妮卡（咖啡廳）（花
 insert into voice_group_chara values (325301001, '可可蘿（遊俠）（花凜對話用）', 125301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (325401001, '栞（遊俠）（花凜對話用）', 125401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (325801001, '莉莉（墮落）（花凜對話用）', 125801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (326201001, '伊莉亞（祭服）（花凜對話用）', 126201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380101001, '日和（公主）（花凜對話用）', 180101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380201001, '優衣（公主）（花凜對話用）', 180201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380301001, '怜（公主）（花凜對話用）', 180301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
