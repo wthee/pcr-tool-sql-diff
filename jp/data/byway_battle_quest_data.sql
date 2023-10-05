@@ -20,7 +20,7 @@ insert into byway_battle_quest_data values (15065005, 1, 90, 103171, 150650051, 
 insert into byway_battle_quest_data values (15065006, 1, 90, 103201, 150650061, 'bgm_MC022', 'bgm_MC022', 0, 0, 0, 0, '', '', 0, 0, 0, 0, '', '', 0, 0, 105650602, 105650601, 0, 0, 0);
 insert into byway_battle_quest_data values (15066001, 1, 90, 103171, 150660011, 'bgm_MC022', 'bgm_MC022', 0, 0, 0, 0, '', '', 0, 0, 0, 0, '', '', 0, 0, 105660101, 105660102, 105660103, 105660104, 105660105);
 insert into byway_battle_quest_data values (15066002, 1, 90, 103171, 150660021, 'bgm_MC022', 'bgm_MC022', 0, 0, 0, 0, '', '', 0, 0, 0, 0, '', '', 0, 0, 105660201, 105660202, 105660203, 105660204, 105660205);
-insert into byway_battle_quest_data values (15066003, 1, 90, 103201, 150660031, 'bgm_MC081', 'bgm_MC081_Fubuki', 0, 0, 0, 0, '', '', 0, 0, 0, 0, '', '', 0, 0, 105660301, 0, 0, 0, 0);
+insert into byway_battle_quest_data values (15066003, 1, 90, 103201, 150660031, 'bgm_MC081', 'bgm_MC081_Fubuki', 9066157, 9066158, 0, 0, '', '', 0, 0, 0, 0, '', '', 0, 0, 105660301, 0, 0, 0, 0);
 insert into byway_battle_quest_data values (15066004, 1, 90, 103171, 0, '0', '0', 0, 0, 0, 0, '', '', 0, 0, 0, 0, '', '', 0, 0, 0, 0, 0, 0, 0);
 insert into byway_battle_quest_data values (15066005, 1, 90, 103171, 0, '0', '0', 0, 0, 0, 0, '', '', 0, 0, 0, 0, '', '', 0, 0, 0, 0, 0, 0, 0);
 insert into byway_battle_quest_data values (15066006, 1, 90, 103171, 0, '0', '0', 0, 0, 0, 0, '', '', 0, 0, 0, 0, '', '', 0, 0, 0, 0, 0, 0, 0);

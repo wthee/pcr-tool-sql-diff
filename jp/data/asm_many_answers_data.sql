@@ -61,7 +61,7 @@ insert into asm_many_answers_data values (3220006, 'グッピー', 0, 'ベタ', 
 insert into asm_many_answers_data values (3220007, 'チューリップ', 0, 'ヒヤシンス', 0, 'ヒマワリ', 0, 'タンポポ', 0, 1, 1, 0, 0);
 insert into asm_many_answers_data values (3220009, 'セミ', 0, 'マッコウ', 0, 'シロナガス', 0, 'ジンベエ', 0, 1, 1, 1, 0);
 insert into asm_many_answers_data values (3220011, 'トキ', 0, 'タンチョウ', 0, 'ツキノワグマ', 0, 'オコジョ', 0, 1, 1, 0, 0);
-insert into asm_many_answers_data values (3220012, 'スイカ', 0, 'メロン', 0, 'イチゴ', 0, 'バナナ', 0, 1, 1, 1, 0);
+insert into asm_many_answers_data values (3220012, 'スイカ', 0, 'メロン', 0, 'イチゴ', 0, 'リンゴ', 0, 1, 1, 1, 0);
 insert into asm_many_answers_data values (3220013, '水', 0, '光', 0, '二酸化炭素', 0, '酸素', 0, 1, 1, 1, 0);
 insert into asm_many_answers_data values (3220014, 'アオミドロ', 0, 'ミジンコ', 0, 'ボルボックス', 0, 'クツワムシ', 0, 1, 1, 1, 0);
 insert into asm_many_answers_data values (3220015, 'チワワ', 0, 'パグ', 0, 'シーズー', 0, 'ソマリ', 0, 1, 1, 1, 0);
