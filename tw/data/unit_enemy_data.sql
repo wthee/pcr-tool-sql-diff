@@ -1233,7 +1233,7 @@ insert into unit_enemy_data values (600501, '茉莉的闇影', 100501, 2, 2, 450
 insert into unit_enemy_data values (600601, '茜里的闇影', 100601, 6, 6, 450, 570, 2, 2.19, 0, 0, 1, '有著茜里樣貌的特殊魔物');
 insert into unit_enemy_data values (600701, '宮子的闇影', 100701, 3, 3, 450, 125, 1, 1.7, 0, 0, 1, '有著宮子樣貌的特殊魔物');
 insert into unit_enemy_data values (600801, '雪的闇影', 100801, 7, 7, 450, 805, 2, 2.07, 0, 0, 1, '有著雪樣貌的特殊魔物');
-insert into unit_enemy_data values (600802, '雪的闇影', 100801, 7, 7, 450, 805, 2, 2.07, 0, 0, 1, '有著雪樣貌的特殊魔物');
+insert into unit_enemy_data values (600802, '雪的闇影', 100801, 21, 7, 450, 805, 2, 2.07, 0, 0, 1, '有著雪樣貌的特殊魔物');
 insert into unit_enemy_data values (600901, '杏奈的闇影', 100901, 5, 5, 450, 440, 2, 2.25, 0, 0, 1, '有著杏奈樣貌的特殊魔物');
 insert into unit_enemy_data values (601001, '真步的闇影', 101001, 7, 7, 450, 795, 2, 2.27, 0, 0, 1, '有著真步樣貌的特殊魔物');
 insert into unit_enemy_data values (601002, '真步的闇影', 101001, 7, 7, 450, 795, 2, 2.27, 0, 0, 1, '有著真步樣貌的特殊魔物');
