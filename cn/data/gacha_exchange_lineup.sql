@@ -281,3 +281,7 @@ insert into gacha_exchange_lineup values (282, 156, 108301, 3, 0, '2023/09/24 11
 insert into gacha_exchange_lineup values (283, 157, 110601, 3, 0, '2023/09/24 11:00:00', '2023/09/30 10:59:59');
 insert into gacha_exchange_lineup values (284, 158, 117701, 3, 1059, '2023/09/30 11:00:00', '2023/10/08 10:59:59');
 insert into gacha_exchange_lineup values (285, 159, 113901, 3, 0, '2023/10/08 11:00:00', '2023/10/15 10:59:59');
+insert into gacha_exchange_lineup values (286, 160, 117901, 3, 1060, '2023/10/15 11:00:00', '2023/10/22 10:59:59');
+insert into gacha_exchange_lineup values (287, 803, 170101, 3, 0, '2023/10/17 11:00:00', '2023/10/31 10:59:59');
+insert into gacha_exchange_lineup values (288, 803, 170201, 3, 0, '2023/10/17 11:00:00', '2023/10/31 10:59:59');
+insert into gacha_exchange_lineup values (289, 161, 111101, 3, 0, '2023/10/22 11:00:00', '2023/10/31 10:59:59');

@@ -74,4 +74,5 @@ insert into event_gacha_data values (10073, 10073, '美里的夏日应援！\u30
 insert into event_gacha_data values (10074, 10074, '大江户的非法病历\u3000Dr.深月的诊疗室', 2, 60732, 1, 6);
 insert into event_gacha_data values (10075, 10075, '快乐变身 双生天使', 2, 60742, 1, 5);
 insert into event_gacha_data values (10076, 10076, '万圣节救援队·紧急出动！\u3000捕获毛茸茸大作战', 2, 60752, 1, 6);
+insert into event_gacha_data values (10077, 10077, '尖叫！连连！万圣鬼怪狂欢节', 2, 60762, 1, 5);
 insert into event_gacha_data values (19003, 10003, '吸血鬼猎人with伊莉亚讨伐证交换', 2, 60022, 1, 5);

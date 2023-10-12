@@ -42,3 +42,6 @@ insert into shiori_quest_area values (20018102, 20018, '幽灵墓地', 201, 'bgm
 insert into shiori_quest_area values (20018201, 20018, '幽灵墓地', 201, 'bgm_M265', 'bgm_M265_Top', 1, 1, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20019101, 20019, '厄尔庇斯岛 营地开拓区', 201, 'bgm_M273', 'bgm_M273', 1, 0, 90, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20019201, 20019, '厄尔庇斯岛 营地开拓区', 201, 'bgm_M273', 'bgm_M273', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20020101, 20020, '王都兰德索尔 郊外', 201, 'bgm_M281', 'bgm_M281', 1, 1, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20020102, 20020, '王都兰德索尔 中央广场', 201, 'bgm_M281', 'bgm_M281', 1, 2, 0, 0, 0, '0', '0', 11);
+insert into shiori_quest_area values (20020201, 20020, '王都兰德索尔 中央广场', 201, 'bgm_M281', 'bgm_M281', 1, 1, 0, 0, 0, '0', '0', 0);

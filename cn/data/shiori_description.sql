@@ -11,3 +11,4 @@ insert into shiori_description values (20013, 9, '完成任务后，会有可解
 insert into shiori_description values (20015, 10, '完成任务后，会有可解锁的角色登场。\\n努力完成任务吧。');
 insert into shiori_description values (20016, 11, '完成任务后，会有可解锁的角色登场。\\n努力完成任务吧。');
 insert into shiori_description values (20018, 12, '完成任务后，会有可解锁的角色登场。\\n努力完成任务吧。');
+insert into shiori_description values (20020, 13, '完成任务后，会有可解锁的角色登场。\\n努力完成任务吧。');
