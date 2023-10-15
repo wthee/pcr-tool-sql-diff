@@ -34,3 +34,8 @@ insert into secret_dungeon_enemy_info values (32007, 7, 'クリスタルゴー�
 insert into secret_dungeon_enemy_info values (32007, 8, 'ランドスロース');
 insert into secret_dungeon_enemy_info values (32007, 9, 'ソードコブラ');
 insert into secret_dungeon_enemy_info values (32007, 10, 'アルティマガーディアン');
+insert into secret_dungeon_enemy_info values (32008, 6, 'マスター・ウキキー');
+insert into secret_dungeon_enemy_info values (32008, 7, 'カース・オラム');
+insert into secret_dungeon_enemy_info values (32008, 8, 'ゴブリンライダー');
+insert into secret_dungeon_enemy_info values (32008, 9, 'ライデン');
+insert into secret_dungeon_enemy_info values (32008, 10, 'アルティマガーディアン');

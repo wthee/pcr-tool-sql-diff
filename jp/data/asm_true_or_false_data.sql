@@ -357,7 +357,7 @@ insert into asm_true_or_false_data values (1320009, 0);
 insert into asm_true_or_false_data values (1320010, 1);
 insert into asm_true_or_false_data values (1320011, 0);
 insert into asm_true_or_false_data values (1320012, 1);
-insert into asm_true_or_false_data values (1320014, 0);
+insert into asm_true_or_false_data values (1320014, 1);
 insert into asm_true_or_false_data values (1320017, 0);
 insert into asm_true_or_false_data values (1320019, 0);
 insert into asm_true_or_false_data values (1320020, 1);

@@ -299,3 +299,10 @@ insert into music_content values (297, 'その春、日記の続きから', '1:2
 insert into music_content values (298, 'ライラエル', '2:37', '0:00', 'キャラクターテーマ\\n-｢万華色めく新天地｣アレンジ-\\n\\n時間 / 02:37\\n作曲 / 守谷勇人・佐藤遥（Cygames）\\n編曲 / 守谷勇人', 'bgm_MC024', 'bgm_MC024_juke');
 insert into music_content values (299, '勉強の準備はできてる？', '1:19', '0:00', 'ミニゲーム\\n-｢その春、日記の続きから｣アレンジ-\\n\\n時間 / 01:19\\n作曲 / 瀬名航（SOVA）\\n編曲 / 畑田浩孝（Cygames）', 'bgm_MC067', 'bgm_MC067_juke');
 insert into music_content values (300, '放課後エデュケーション', '1:15', '0:00', 'ミニゲーム\\n-｢その春、日記の続きから｣アレンジ-\\n\\n時間 / 01:15\\n作曲 / 瀬名航（SOVA）\\n編曲 / Enarak（Cygames）', 'bgm_MC068', 'bgm_MC068_juke');
+insert into music_content values (301, 'ロマンシング・サラサリア\u3000～砂漠の花嫁と不思議のランプ～', '1:46', '0:00', 'ストーリーイベントテーマ\\n-｢Adenium｣アレンジ-\\n\\n時間 / 01:46\\n作曲 / 山口朗彦\\n編曲 / 畑田浩孝（Cygames）', 'bgm_MC075', 'bgm_MC075_juke');
+insert into music_content values (302, 'カリド', '2:18', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 02:18\\n作曲 / 植田能平\\n編曲 / 植田能平', 'bgm_MC077', 'bgm_MC077_juke');
+insert into music_content values (303, 'Adenium', '1:37', '0:57', 'キャラクターソング\\n\\n時間 / 01:37\\n歌\u3000 / サレン（堀江由衣）\\n\u3000\u3000\u3000ルカ（佐藤利奈）\\n作詞 / 山口朗彦\\n作曲 / 山口朗彦\\n編曲 / 山口朗彦', 'bgm_MC074', 'bgm_MC074');
+insert into music_content values (304, 'バンディ・シスターズ', '1:59', '0:00', 'キャラクターテーマ\\n\\n時間 / 01:59\\n作曲 / 関根修平（Cygames）\\n編曲 / 関根修平（Cygames）', 'bgm_MC032', 'bgm_MC032_juke');
+insert into music_content values (305, '夢幻のマリッジ・シム', '2:52', '0:00', 'ストーリーイベントミニコンテンツ\\n-｢Adenium｣アレンジ-\\n\\n時間 / 02:52\\n作曲 / 山口朗彦\\n編曲 / 佐藤遥（Cygames）', 'bgm_MC078', 'bgm_MC078_juke');
+insert into music_content values (306, '魔物が！！', '0:50', '0:00', 'メインクエストボスバトル\\n\\n時間 / 00:50\\n作曲 / 本田晃弘（Cygames）\\n編曲 / 多田彰文', 'bgm_M17', 'bgm_M17_02_juke');
+insert into music_content values (307, '新天地の強敵', '1:02', '0:00', 'メインクエストボスバトル\\n\\n時間 / 01:02\\n作曲 / 東大路憲太\\n編曲 / 東大路憲太', 'bgm_M170', 'bgm_M170_juke');
