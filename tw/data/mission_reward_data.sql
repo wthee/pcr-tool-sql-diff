@@ -297,6 +297,7 @@ insert into mission_reward_data values (308, 28002040, 2, 90007, 1500, 1, -1, '2
 insert into mission_reward_data values (309, 26003029, 8, 91002, 50, 1, -1, '2018/01/01 05:00:00', '2030/12/31 23:59:59');
 insert into mission_reward_data values (310, 26003029, 12, 94002, 750000, 1, -1, '2018/01/01 05:00:00', '2030/12/31 23:59:59');
 insert into mission_reward_data values (311, 26002033, 8, 91002, 1000, 1, -1, '2018/01/01 05:00:00', '2030/12/31 23:59:59');
+insert into mission_reward_data values (313, 21003002, 8, 91002, 100, 1, -1, '2018/01/01 05:00:00', '2030/12/31 23:59:59');
 insert into mission_reward_data values (10001, 20904001, 2, 31071, 10, 1, -1, '', '');
 insert into mission_reward_data values (10002, 20904002, 2, 31071, 20, 1, -1, '', '');
 insert into mission_reward_data values (10003, 20904003, 2, 31071, 30, 1, -1, '', '');
