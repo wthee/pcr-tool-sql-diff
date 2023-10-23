@@ -5,3 +5,6 @@ insert into unique_equip_consume_group values (3, 1, 32048);
 insert into unique_equip_consume_group values (4, 1, 32016);
 insert into unique_equip_consume_group values (5, 1, 32060);
 insert into unique_equip_consume_group values (5, 2, 32078);
+insert into unique_equip_consume_group values (6, 1, 32031);
+insert into unique_equip_consume_group values (7, 1, 32007);
+insert into unique_equip_consume_group values (8, 1, 32050);
