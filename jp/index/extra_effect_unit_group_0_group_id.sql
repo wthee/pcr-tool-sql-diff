@@ -1,0 +1,1 @@
+CREATE INDEX 'extra_effect_unit_group_0_group_id' on 'extra_effect_unit_group'('group_id')

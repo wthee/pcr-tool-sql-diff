@@ -182,3 +182,4 @@ insert into bg_data values ('CARAVAN_SHOP', 500370, 0);
 insert into bg_data values ('COLOSSEUM_TOP', 531300, 0);
 insert into bg_data values ('COLOSSEUM_SELECT_PARTY', 531400, 0);
 insert into bg_data values ('COLOSSEUM_BATTLE_RESULT', 0, 0);
+insert into bg_data values ('HATSUNE_ASB', 0, 0);

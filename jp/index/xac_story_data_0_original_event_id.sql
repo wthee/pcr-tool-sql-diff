@@ -1,0 +1,1 @@
+CREATE INDEX 'xac_story_data_0_original_event_id' on 'xac_story_data'('original_event_id')

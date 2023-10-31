@@ -1,0 +1,1 @@
+CREATE INDEX 'ex_plus_0_event_id' on 'ex_plus'('event_id')
