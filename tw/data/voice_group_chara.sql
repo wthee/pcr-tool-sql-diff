@@ -62,7 +62,7 @@ insert into voice_group_chara values (106601001, '龍族巢穴（祈梨）', 106
 insert into voice_group_chara values (106701001, '龍族巢穴（帆希）', 106701, 124501, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (106801001, '拉比林斯（拉比林斯達）', 106801, 121201, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (106901001, '？？？（霸瞳皇帝）', 106901, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (107001001, '？？？（似似花）', 107001, 115001, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (107001001, '？？？（似似花）', 107001, 115001, 126601, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (107101001, '王宮騎士團（克莉絲提娜）', 107101, 111501, 123801, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (109201001, '馬納歷亞（安）', 109201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (109301001, '馬納歷亞（露）', 109301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
