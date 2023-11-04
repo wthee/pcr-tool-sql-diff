@@ -21,3 +21,4 @@ insert into growth_parameter values (20, 1, 1, 0, 250, 250, 26, -1, -1, -1, -1, 
 insert into growth_parameter values (21, 1, 1, 0, 250, 250, 26, -1, -1, -1, -1, -1, -1, 0);
 insert into growth_parameter values (22, 1, 1, 0, 250, 250, 26, -1, -1, -1, -1, -1, -1, 0);
 insert into growth_parameter values (23, 1, 0, 0, 260, 260, 28, -1, -1, -1, -1, -1, -1, 0);
+insert into growth_parameter values (24, 1, 1, 0, 250, 250, 26, -1, -1, -1, -1, -1, -1, 0);

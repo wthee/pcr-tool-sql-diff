@@ -1,1 +1,15 @@
 CREATE TABLE 'caravan_buff_disp' ('id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'effect_id' INTEGER NOT NULL, 'category' INTEGER NOT NULL, 'icon_id' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'count_from' INTEGER NOT NULL, 'count_to' INTEGER NOT NULL, PRIMARY KEY('id'));
+insert into caravan_buff_disp values (1, 1, 52001, 1, 1, '【料理】骰子增加成為兩個', 0, 0);
+insert into caravan_buff_disp values (2, 1, 52002, 1, 1, '【料理】骰子只會丟出「1」', 0, 0);
+insert into caravan_buff_disp values (3, 1, 52002, 3, 2, '【料理】跳過下次的回合數計算', 0, 0);
+insert into caravan_buff_disp values (4, 1, 52004, 1, 1, '【料理】骰子只會丟出「4」', 0, 0);
+insert into caravan_buff_disp values (5, 1, 52006, 1, 1, '【料理】骰子只會丟出\\n「4・5・6」', 0, 0);
+insert into caravan_buff_disp values (6, 1, 52007, 1, 1, '【料理】骰子第1次只會丟出「3」，第2次只會丟出「6」', 0, 0);
+insert into caravan_buff_disp values (7, 1, 52003, 1, 1, '【料理】骰子只會丟出「5」', 0, 0);
+insert into caravan_buff_disp values (8, 1, 52008, 2, 7, '【料理】里程格所獲得的里程將提升200%', 0, 0);
+insert into caravan_buff_disp values (9, 2, 4, 3, 2, '【事件】跳過下次的回合數計算', 0, 0);
+insert into caravan_buff_disp values (10, 2, 5, 2, 3, '【事件】里程格所獲得的里程將提升100%', 0, 0);
+insert into caravan_buff_disp values (11, 2, 6, 2, 5, '【事件】小遊戲所獲得的里程將提升100%', 0, 0);
+insert into caravan_buff_disp values (12, 2, 7, 3, 4, '【事件】里程商店的所有商品折價20%以上', 0, 0);
+insert into caravan_buff_disp values (13, 1, 52009, 1, 1, '【料理】骰子第1次只會丟出「8」，第2次只會丟出「1」', 0, 0);
+insert into caravan_buff_disp values (14, 1, 52010, 2, 6, '【料理】「里程格」「寶物格」\\n「商店格」的RANK提升1個', 0, 0);

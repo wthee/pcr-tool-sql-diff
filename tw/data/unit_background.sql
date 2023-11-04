@@ -220,6 +220,8 @@ insert into unit_background values (125701, '花凜（鍊金術師）', 500371, 
 insert into unit_background values (125801, '莉莉（墮落）', 501670, '吉歐‧提格尼亞_街道_白天', 0.0, 2);
 insert into unit_background values (126201, '伊莉亞（祭服）', 501372, '瀑布潭_晚上', 0.0, 20);
 insert into unit_background values (126301, '雪（祭服）', 500040, '蘭德索爾 公會小屋', 0.0, 4);
+insert into unit_background values (126401, '克蘿茜', 501660, '吉歐‧提格尼亞_平原_白天', 0.0, 4);
+insert into unit_background values (126701, '秋乃（夏日）', 501030, '祈願海岸', 0.0, 4);
 insert into unit_background values (180101, '日和（公主）', 500130, '埃斯特雷拉街道', 0.0, 2);
 insert into unit_background values (180201, '優衣（公主）', 500130, '埃斯特雷拉街道', 0.0, 4);
 insert into unit_background values (180301, '怜（公主）', 500130, '埃斯特雷拉街道', 0.0, 3);

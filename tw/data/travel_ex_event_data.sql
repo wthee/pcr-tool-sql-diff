@@ -16,3 +16,5 @@ insert into travel_ex_event_data values (8000013, '五人五種的午睡景象',
 insert into travel_ex_event_data values (8000014, '船頭醉醺醺，船行下瀑布', 15);
 insert into travel_ex_event_data values (8000015, '翱翔天際的龍人幫派', 16);
 insert into travel_ex_event_data values (8000016, '慈樂之音☆自然演唱會！', 17);
+insert into travel_ex_event_data values (8000017, '在旅途上前進與許多想說的話', 18);
+insert into travel_ex_event_data values (8000018, '唱一首搖籃曲', 19);
