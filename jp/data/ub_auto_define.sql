@@ -68,6 +68,7 @@ insert into ub_auto_define values (1036011, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1037001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1037011, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1038001, 1, 0, 0, 0, 0);
+insert into ub_auto_define values (1038011, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1040001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1040011, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1042001, 14002, 11002, 0, 0, 0);
