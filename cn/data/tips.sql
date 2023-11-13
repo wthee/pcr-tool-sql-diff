@@ -98,6 +98,7 @@ insert into tips values (4117601, 117601, 1, '和我共度治愈时光');
 insert into tips values (4117701, 118001, 1, '第一忠臣！');
 insert into tips values (4118501, 118501, 1, '优秀的同伴');
 insert into tips values (4119001, 119001, 1, '暗黑授课');
+insert into tips values (4119101, 119101, 1, '进步');
 insert into tips values (4170101, 170101, 1, '闪亮登场');
 insert into tips values (4170201, 170201, 1, '努力打年糕');
 insert into tips values (4180101, 180101, 1, '猜拳时间！');

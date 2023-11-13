@@ -76,4 +76,5 @@ insert into event_gacha_data values (10075, 10075, '快乐变身 双生天使', 
 insert into event_gacha_data values (10076, 10076, '万圣节救援队·紧急出动！\u3000捕获毛茸茸大作战', 2, 60752, 1, 6);
 insert into event_gacha_data values (10077, 10077, '尖叫！连连！万圣鬼怪狂欢节', 2, 60762, 1, 5);
 insert into event_gacha_data values (10078, 10078, '魔法少女外传\u3000黑暗魔法★三人组！', 2, 60772, 1, 6);
+insert into event_gacha_data values (10079, 10079, "魔法提督Lovely★莫妮卡 Let's\u3000Go！魔法的四重奏！", 2, 60782, 1, 5);
 insert into event_gacha_data values (19003, 10003, '吸血鬼猎人with伊莉亚讨伐证交换', 2, 60022, 1, 5);
