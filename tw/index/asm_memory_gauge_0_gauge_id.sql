@@ -1,0 +1,1 @@
+CREATE INDEX 'asm_memory_gauge_0_gauge_id' on 'asm_memory_gauge'('gauge_id')

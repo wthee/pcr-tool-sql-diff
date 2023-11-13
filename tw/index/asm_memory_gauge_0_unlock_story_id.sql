@@ -1,0 +1,1 @@
+CREATE INDEX 'asm_memory_gauge_0_unlock_story_id' on 'asm_memory_gauge'('unlock_story_id')

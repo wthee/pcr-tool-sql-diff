@@ -2110,7 +2110,7 @@ insert into nop_drama_script values (516034, 516, 91, '516031', '', '', '', '', 
 insert into nop_drama_script values (516035, 516, 3, '106631', 'nop_16_inori_idle_guts', '1', '', '', '0.2', '', '');
 insert into nop_drama_script values (516036, 516, 3, '106731', 'nop_talk_normal', '1', '', '', '0.2', '', '');
 insert into nop_drama_script values (516037, 516, 21, 'vo_drama_10082016', 'vo_drama_10082016_005', '0', '0', '', '', '', '');
-insert into nop_drama_script values (516038, 516, 11, '106731', '祈梨好過分哦～\\n我剛剛那是「想和大家合作，\\n一起去探究世界的秘密～！」\\n的意思哦？', '7', '1', '0', '0', '0', '0.5');
+insert into nop_drama_script values (516038, 516, 11, '106731', '祈梨好過分哦～\\n我剛剛那是「想和大家合作，\\n一起去探究世界的祕密～！」\\n的意思哦？', '7', '1', '0', '0', '0', '0.5');
 insert into nop_drama_script values (516039, 516, 93, '4', '1', '', '', '', '', '', '');
 insert into nop_drama_script values (516040, 516, 3, '106731', 'nop_talk_guts2', '0', 'nop_talk_guts2_loop', '1', '0.2', '0', '');
 insert into nop_drama_script values (516041, 516, 91, '516038', '', '', '', '', '', '', '');
@@ -2250,7 +2250,7 @@ insert into nop_drama_script values (518028, 518, 91, '518027', '', '', '', '', 
 insert into nop_drama_script values (518029, 518, 3, '114711', 'nop_18_muimi_idle_normal', '1', '', '', '0.2', '', '');
 insert into nop_drama_script values (518030, 518, 3, '115031', 'nop_talk_thinking', '1', '', '', '0.2', '', '');
 insert into nop_drama_script values (518031, 518, 21, 'vo_drama_10082018', 'vo_drama_10082018_005', '0', '0', '', '', '', '');
-insert into nop_drama_script values (518032, 518, 11, '115031', '……穿著適當的服飾以融入當下場合，\\n這也是秘密行動的一環。', '9', '1', '0', '0', '0', '0.5');
+insert into nop_drama_script values (518032, 518, 11, '115031', '……穿著適當的服飾以融入當下場合，\\n這也是祕密行動的一環。', '9', '1', '0', '0', '0', '0.5');
 insert into nop_drama_script values (518033, 518, 91, '518032', '', '', '', '', '', '', '');
 insert into nop_drama_script values (518034, 518, 3, '115031', 'nop_idle_thinking', '1', '', '', '0.2', '', '');
 insert into nop_drama_script values (518035, 518, 3, '115031', 'nop_18_neneka_talk_normal', '1', '', '', '0.2', '', '');

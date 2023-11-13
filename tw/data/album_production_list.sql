@@ -611,6 +611,11 @@ insert into album_production_list values (10540105, 105401, 104, '羈絆Rank表�
 insert into album_production_list values (10540106, 105401, 105, '羈絆Rank表演5', '');
 insert into album_production_list values (10540107, 105401, 106, '羈絆Rank表演6', '');
 insert into album_production_list values (10540108, 105401, 107, '羈絆Rank表演7', '');
+insert into album_production_list values (10540109, 105401, 202, '★6才能開花演出', '');
+insert into album_production_list values (10540110, 105401, 108, '羈絆Rank表演8', '');
+insert into album_production_list values (10540111, 105401, 109, '羈絆Rank表演9', '');
+insert into album_production_list values (10540112, 105401, 110, '羈絆Rank表演10', '');
+insert into album_production_list values (10540113, 105401, 111, '羈絆Rank表演11', '');
 insert into album_production_list values (10550101, 105501, 201, '解放表演1', '');
 insert into album_production_list values (10550102, 105501, 101, '羈絆Rank表演1', '');
 insert into album_production_list values (10550103, 105501, 102, '羈絆Rank表演2', '');

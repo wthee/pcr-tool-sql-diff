@@ -799,7 +799,7 @@ insert into birthday_login_bonus_drama_script values (1014501045, 1014501, 21, '
 insert into birthday_login_bonus_drama_script values (1014501046, 1014501, 11, '101411', '咦？你要餵我吃？\\n不、不用啦！\\n你不用做到這種地步……！\\n雖然今天確實是特別的日子……！', '5', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1014501047, 1014501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1014501048, 1014501, 21, 'vo_adv_1014501', 'vo_adv_1014501_003', '0', '0', '', '', '', '');
-insert into birthday_login_bonus_drama_script values (1014501049, 1014501, 11, '101411', '特別的……嗯，你說的沒錯。\\n生日這天撒撒嬌也是可以的吧。\\n既然如此，這是我跟助手先生的秘密喔！\\n啊～呣……太、太害羞了啦……', '4', '1', '1', '0', '0', '');
+insert into birthday_login_bonus_drama_script values (1014501049, 1014501, 11, '101411', '特別的……嗯，你說的沒錯。\\n生日這天撒撒嬌也是可以的吧。\\n既然如此，這是我跟助手先生的祕密喔！\\n啊～呣……太、太害羞了啦……', '4', '1', '1', '0', '0', '');
 insert into birthday_login_bonus_drama_script values (1014501050, 1014501, 91, '0', '', '', '', '', '', '', '');
 insert into birthday_login_bonus_drama_script values (1014501051, 1014501, 31, '9', '9', '0', '0', '1', '1', '', '');
 insert into birthday_login_bonus_drama_script values (1014501052, 1014501, 131, '0', '', '', '', '', '', '', '');

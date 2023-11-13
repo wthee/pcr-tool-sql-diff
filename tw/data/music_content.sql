@@ -238,7 +238,7 @@ insert into music_content values (236, '小繆快快長大日記', '2:40', '0:00
 insert into music_content values (237, '真步真步的神奇旅程！\u3000旅行的少女與邊境的大樹', '2:02', '0:00', '劇情活動主題曲\\n-｢優雅少女旅程｣編曲-\\n\\n時間 / 02:02\\n作曲 / 金山秀士（Dream Monster）\\n編曲 / 多田彰文', 'bgm_M618', 'bgm_M618_juke');
 insert into music_content values (238, '哀執的植物羊', '1:30', '0:00', '劇情活動Boss戰\\n-｢優雅少女旅程｣編曲-\\n\\n時間 / 01:30\\n時間 / Enarak（Cygames）\\n編曲 / Enarak（Cygames）', 'bgm_M621', 'bgm_M621_juke');
 insert into music_content values (239, '優雅少女旅程', '1:36', '0:55', '角色歌曲\\n\\n時間 / 01:36\\n演唱\u3000 / 真步（内田真礼）\\n作詞 / 金山秀士（Dream Monster）\\n作曲 / 金山秀士（Dream Monster）\\n編曲 / 金山秀士（Dream Monster）', 'bgm_M617', 'bgm_M617');
-insert into music_content values (240, '點讚！最愛！大集合！\u3000至高祭典與少女秘密的本命任務', '1:34', '0:00', "劇情活動主題曲\\n-｢O-TA-O-TA WORLD｣編曲-\\n\\n時間 / 01:34\\n作曲 / Heart's Cry (TOKYO LOGIC)\\n編曲 / 市橋卓也（Cygames）", 'bgm_M623', 'bgm_M623_juke');
+insert into music_content values (240, '點讚！最愛！大集合！\u3000至高祭典與少女祕密的本命任務', '1:34', '0:00', "劇情活動主題曲\\n-｢O-TA-O-TA WORLD｣編曲-\\n\\n時間 / 01:34\\n作曲 / Heart's Cry (TOKYO LOGIC)\\n編曲 / 市橋卓也（Cygames）", 'bgm_M623', 'bgm_M623_juke');
 insert into music_content values (241, '瘋狂直播主‧輝美', '2:00', '0:00', '劇情活動Boss戰\\n\\n時間 / 02:00\\n作曲 / 榎本 三和子（Cygames）\\n編曲 / 榎本 三和子（Cygames）', 'bgm_M625', 'bgm_M625_juke');
 insert into music_content values (242, 'O-TA-O-TA WORLD', '1:35', '1:01', "角色歌曲\\n\\n時間 / 01:35\\n演唱\u3000 / 智（茅原実里）\\n\u3000\u3000\u3000七七香（佳村はるか）\\n\u3000\u3000\u3000鈴（小岩井ことり）\\n作詞 / Heart's Cry (TOKYO LOGIC)\\n作曲 / Heart's Cry (TOKYO LOGIC)\\n編曲 / Heart's Cry (TOKYO LOGIC)", 'bgm_M622', 'bgm_M622');
 insert into music_content values (243, '部族精神\u3000高揭之劍與榮耀和平之橋', '1:37', '0:00', "故事劇情主題曲\\n-「Knight's Soul」編曲-\\n\\n時間 / 01:37\\n作曲 / 設楽哲也\\n編曲 / 畑田浩孝（Cygames）", 'bgm_M630', 'bgm_M630_juke');
@@ -283,3 +283,19 @@ insert into music_content values (281, 'Gothical Radical † Eternal Wedding', '
 insert into music_content values (282, '雪的審美會', '1:28', '0:00', '故事劇情迷你內容\\n-《Gothical Radical † Eternal Wedding》\\n編曲-\\n\\n時間 / 01:28\\n作曲 / 毛蟹（LIVE LAB.）\\n編曲 / 中村早織（Cygames）', 'bgm_MC040', 'bgm_MC040_juke');
 insert into music_content values (283, 'Princess Fight☆', '0:54', '0:00', '主線冒險\\n\\n時間 / 00:54\\n作曲 / 西木康智\\n編曲 / 西木康智', 'bgm_M06', 'bgm_M06_juke');
 insert into music_content values (284, '艾爾皮斯島之戰', '1:10', '0:00', '主線冒險\\n\\n時間 / 01:10\\n作曲 / 白井友規（Cygames）\\n編曲 / 白井友規（Cygames）', 'bgm_M169', 'bgm_M169_juke');
+insert into music_content values (285, '大間的排光海水大作戰\u3000祕密主義者與禁斷之海', '1:14', '0:00', '故事劇情主題曲\\n-《變身萬花筒》編曲-\\n\\n時間 / 01:14\\n作曲 / やしきん\\n編曲 / 守谷勇人', 'bgm_MC046', 'bgm_MC046_juke');
+insert into music_content values (286, '復活的白色島鯨', '2:28', '0:00', '故事劇情Boss戰\\n\\n時間 / 02:28\\n作曲 / 東大路憲太\\n編曲 / 中町友洋', 'bgm_MC048', 'bgm_MC048_juke');
+insert into music_content values (287, '變身萬花筒', '1:29', '0:51', '角色歌曲\\n\\n時間 / 01:29\\n演唱\u3000 / 似似花（井口裕香）\\n作詞 / 高瀬愛虹\\n作曲 / やしきん\\n編曲 / やしきん', 'bgm_MC055', 'bgm_MC055');
+insert into music_content values (288, '公主的祕密', '1:42', '0:00', '故事劇情迷你內容\\n-《變身萬花筒》編曲-\\n\\n時間 / 01:42\\n作曲 / やしきん\\n編曲 / 塚越廉', 'bgm_MC049', 'bgm_MC049_juke');
+insert into music_content values (289, '美食獵人號，出發前進！', '1:39', '0:00', '巡遊\\n\\n時間 / 01:39\\n作曲 / 東大路憲太\\n編曲 / 市橋卓也（Cygames）', 'bgm_MC043', 'bgm_MC043_juke');
+insert into music_content values (290, '戰慄幽奇海岸\u3000～夏日度假村驚悚怪談～', '1:08', '0:00', '故事劇情主題曲\\n-「愛的羈絆」編曲-\\n\\n時間 / 01:08\\n作曲 / 松坂康司（SUPA LOVE）\\n編曲 / 関根修平（Cygames）', 'bgm_MC056', 'bgm_MC056_juke');
+insert into music_content values (291, '怨恨亡靈', '1:27', '0:00', '故事劇情Boss戰\\n\\n時間 / 01:27\\n作曲 / 畑田浩孝（Cygames）\\n編曲 / 畑田浩孝（Cygames）', 'bgm_MC058', 'bgm_MC058_juke');
+insert into music_content values (292, '愛的羈絆', '1:33', '0:55', '角色歌曲\\n\\n時間 / 01:33\\n演唱\u3000 / 蘭法（原田彩楓）\\n作詞 / 松坂康司（SUPA LOVE）\\n作曲 / 松坂康司（SUPA LOVE）\\n編曲 / 松坂康司（SUPA LOVE）', 'bgm_MC072', 'bgm_MC072_juke');
+insert into music_content values (293, 'Precious Journey', '1:50', '1:00', '角色歌曲\\n\\n時間 / 01:50\\n演唱\u3000 / 貪吃佩可（M‧A‧O）\\n\u3000\u3000\u3000可可蘿（伊藤美來）\\n\u3000\u3000\u3000凱留（立花理香）\\n\u3000\u3000\u3000莉莉（鈴木みのり）\\n\u3000\u3000\u3000可璃亞（前田佳織里）\\n\u3000\u3000\u3000普蕾西亞（高尾奏音）\\n作詞 / マイクスギヤマ\\n作曲 / 東大路憲太\\n編曲 / 東大路憲太', 'bgm_MC070', 'bgm_MC070_juke');
+insert into music_content values (294, '晚霞色的漫步', '1:32', '0:52', '角色歌曲\\n\\n時間 / 01:32\\n演唱\u3000 / 貪吃佩可（M‧A‧O）\\n\u3000\u3000\u3000可可蘿（伊藤美來）\\n\u3000\u3000\u3000凱留（立花理香）\\n作詞 / 瀬名航（SOVA）\\n作曲 / 白戸佑輔（Dream Monster）\\n編曲 / 白戸佑輔（Dream Monster）', 'bgm_MC071', 'bgm_MC071_juke');
+insert into music_content values (295, '魔法青春日子\u3000魔法學園與奇蹟之鐘', '1:24', '0:00', '故事劇情主題曲\\n-「那個春天，從日記的續篇開始」編曲-\\n\\n時間 / 01:24\\n作曲 / 瀬名航（SOVA）\\n編曲 / 中川峻彰', 'bgm_MC063', 'bgm_MC063_juke');
+insert into music_content values (296, '被解放的暴魔‧阿爾杰什', '2:25', '0:00', '故事劇情BOSS戰\\n\\n時間 / 02:25\\n作曲 / 松尾早人\\n編曲 / 松尾早人', 'bgm_MC066', 'bgm_MC066_juke');
+insert into music_content values (297, '那個春天，從日記的續篇開始', '1:29', '0:42', '角色歌曲\\n\\n時間 / 01:29\\n演唱\u3000 / 凱留（立花理香）\\n作詞 / 瀬名航（SOVA）\\n作曲 / 瀬名航（SOVA）\\n編曲 / 瀬名航（SOVA）', 'bgm_MC073', 'bgm_MC073');
+insert into music_content values (298, '萊拉耶爾', '2:37', '0:00', '角色主題曲\\n-「萬花綻放的新天地」編曲-\\n\\n時間 / 02:37\\n作曲 / 守谷勇人、佐藤遥（Cygames）\\n編曲 / 守谷勇人', 'bgm_MC024', 'bgm_MC024_juke');
+insert into music_content values (299, '做好要學習的準備了嗎？', '1:19', '0:00', '小遊戲\\n-「那個春天，從日記的續篇開始」編曲-\\n\\n時間 / 01:19\\n作曲 / 瀬名航（SOVA）\\n編曲 / 畑田浩孝（Cygames）', 'bgm_MC067', 'bgm_MC067_juke');
+insert into music_content values (300, '放學後的讀書會', '1:15', '0:00', '小遊戲\\n-「那個春天，從日記的續篇開始」編曲-\\n\\n時間 / 01:15\\n作曲 / 瀬名航（SOVA）\\n編曲 / Enarak（Cygames）', 'bgm_MC068', 'bgm_MC068_juke');

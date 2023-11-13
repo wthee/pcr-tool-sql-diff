@@ -3055,7 +3055,7 @@ insert into wac_birthday_drama_script values (23214074, 23214, 91, '23214073', '
 insert into wac_birthday_drama_script values (23214075, 23214, 3, '102311', 'wac_birthday_idle_smile', '1', '', '', '0.2', '', '');
 insert into wac_birthday_drama_script values (23214076, 23214, 3, '102511', 'wac_birthday_talk_sad', '1', '', '', '0.2', '', '');
 insert into wac_birthday_drama_script values (23214077, 23214, 21, 'vo_wac_23214', 'vo_wac_23214_003', '0', '0', '', '', '', '');
-insert into wac_birthday_drama_script values (23214078, 23214, 11, '102511', '小綾音，那是秘密……！\\n嗚嗚，製作途中我也犯了不少錯，\\n明明是在為大小姐的重要日子做準備，\\n真對不起……', '10', '1', '1', '0', '0', '0.5');
+insert into wac_birthday_drama_script values (23214078, 23214, 11, '102511', '小綾音，那是祕密……！\\n嗚嗚，製作途中我也犯了不少錯，\\n明明是在為大小姐的重要日子做準備，\\n真對不起……', '10', '1', '1', '0', '0', '0.5');
 insert into wac_birthday_drama_script values (23214079, 23214, 91, '0', '', '', '', '', '', '', '');
 insert into wac_birthday_drama_script values (23214080, 23214, 3, '102811', 'wac_birthday_talk_smile', '1', '', '', '0.2', '', '');
 insert into wac_birthday_drama_script values (23214081, 23214, 3, '102511', 'wac_birthday_idle_wish', '1', '', '', '0.2', '', '');
