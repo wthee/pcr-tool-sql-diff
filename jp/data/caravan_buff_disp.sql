@@ -22,3 +22,4 @@ insert into caravan_buff_disp values (20, 1, 52014, 1, 1, '【料理】次回移
 insert into caravan_buff_disp values (21, 1, 52015, 1, 1, '【料理】ダイスが2個に増える', 0, 0);
 insert into caravan_buff_disp values (22, 1, 52015, 1, 1, '【料理】次回移動時に1マス分多く進める。', 0, 0);
 insert into caravan_buff_disp values (23, 1, 52016, 1, 1, '【料理】ダイスの目が必ず「6」になる', 0, 0);
+insert into caravan_buff_disp values (24, 1, 52017, 1, 9, '【料理】移動系カテゴリーの料理が食べられなくなる。', 0, 0);

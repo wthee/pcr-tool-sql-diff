@@ -110,3 +110,11 @@ insert into shiori_quest_area values (20045102, 20045, '港町・オーマ', 201
 insert into shiori_quest_area values (20045103, 20045, 'タパスビーチ周辺', 201, 'bgm_M543', 'bgm_M543', 1, 3, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20045104, 20045, 'ガストロス山', 201, 'bgm_M543', 'bgm_M543', 1, 4, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20045201, 20045, 'ガストロス山', 201, 'bgm_M543', 'bgm_M543', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20046101, 20046, '王都ランドソル', 201, 'bgm_M552', 'bgm_M552_03', 1, 1, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20046102, 20046, 'ランドソル近郊', 201, 'bgm_M552', 'bgm_M552_03', 1, 2, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20046103, 20046, 'イリス樹海', 201, 'bgm_M552', 'bgm_M552_03', 1, 3, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20046104, 20046, 'フローラ湖畔', 201, 'bgm_M552', 'bgm_M552_03', 1, 4, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20046201, 20046, 'フローラ湖畔', 201, 'bgm_M552', 'bgm_M552_03', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20047101, 20047, '王都ランドソル', 201, 'bgm_M553', 'bgm_M553', 1, 1, 40, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20047102, 20047, '世界と世界の狭間', 201, 'bgm_M553', 'bgm_M553', 1, 2, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20047201, 20047, '世界と世界の狭間', 201, 'bgm_M553', 'bgm_M553', 1, 0, 0, 0, 0, '0', '0', 0);

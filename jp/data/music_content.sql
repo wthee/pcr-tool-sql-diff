@@ -306,3 +306,9 @@ insert into music_content values (304, 'バンディ・シスターズ', '1:59',
 insert into music_content values (305, '夢幻のマリッジ・シム', '2:52', '0:00', 'ストーリーイベントミニコンテンツ\\n-｢Adenium｣アレンジ-\\n\\n時間 / 02:52\\n作曲 / 山口朗彦\\n編曲 / 佐藤遥（Cygames）', 'bgm_MC078', 'bgm_MC078_juke');
 insert into music_content values (306, '魔物が！！', '0:50', '0:00', 'メインクエストボスバトル\\n\\n時間 / 00:50\\n作曲 / 本田晃弘（Cygames）\\n編曲 / 多田彰文', 'bgm_M17', 'bgm_M17_02_juke');
 insert into music_content values (307, '新天地の強敵', '1:02', '0:00', 'メインクエストボスバトル\\n\\n時間 / 01:02\\n作曲 / 東大路憲太\\n編曲 / 東大路憲太', 'bgm_M170', 'bgm_M170_juke');
+insert into music_content values (308, 'クリミナル ルーキー\u3000天使たちのパラドクス', '1:31', '0:00', 'ストーリーイベントテーマ\\n-｢イリドロータス｣アレンジ-\\n\\n時間 / 01:31\\n作曲 / 宮谷礼治\\n編曲 / 佐藤遥（Cygames）', 'bgm_MC082', 'bgm_MC082_juke');
+insert into music_content values (309, '最終クエストです★', '2:15', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 02:15\\n作曲 / IM.Lab\\n編曲 / IM.Lab', 'bgm_MC085', 'bgm_MC085_juke');
+insert into music_content values (310, 'イリドロータス', '1:27', '0:41', 'キャラクターソング\\n\\n時間 / 01:27\\n歌\u3000 / リリ（鈴木みのり）\\n\u3000\u3000\u3000クリア（前田佳織里）\\n\u3000\u3000\u3000プレシア（高尾奏音）\\n作詞 / 宮谷礼治\\n作曲 / 宮谷礼治\\n編曲 / アッシュ井上（Dream Monster）', 'bgm_MC089', 'bgm_MC089');
+insert into music_content values (311, '旅と成長（と反省）の記録', '1:35', '0:00', 'ストーリーイベントミニコンテンツ\\n-｢イリドロータス｣アレンジ-\\n\\n時間 / 01:35\\n作曲 / 宮谷礼治\\n編曲 / 田山里奈', 'bgm_MC083B', 'bgm_MC083B_02_juke');
+insert into music_content values (312, 'アルターメイデン', '2:41', '0:00', 'キャラクターテーマ\\n\\n時間 / 02:41\\n作曲 / Enarak（Cygames）\\n編曲 / Enarak（Cygames）', 'bgm_MC002', 'bgm_MC002_juke');
+insert into music_content values (313, 'アドベンチャー', '1:21', '0:00', 'アドベンチャー\\n\\n時間 / 01:21\\n作曲 / 西村真吾\\n編曲 / 西村真吾', 'bgm_M615', 'bgm_M615_juke');

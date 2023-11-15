@@ -1,6 +1,6 @@
 CREATE TABLE 'shiori_event_list' ('event_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'banner_y' INTEGER NOT NULL, 'condition_story_id' INTEGER NOT NULL, 'condition_chara_id' INTEGER NOT NULL, 'condition_main_quest_id' INTEGER NOT NULL, 'condition_shiori_quest_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'series_event_id' INTEGER NOT NULL, 'original_start_time' TEXT NOT NULL, 'gojuon_order' INTEGER NOT NULL, 'help_index' TEXT NOT NULL, PRIMARY KEY('event_id'));
 insert into shiori_event_list values (20001, '2020/03/16 15:00:00', '2030/04/19 15:00:00', -6, 0, 0, 0, 0, 10001, 0, '2018/03/31 15:00:00', 5032, '1');
-insert into shiori_event_list values (20002, '2020/04/15 15:00:00', '2030/04/19 15:00:00', -3, 0, 0, 0, 0, 10002, 0, '2018/04/30 15:00:00', 8181, '1');
+insert into shiori_event_list values (20002, '2020/04/15 15:00:00', '2030/04/19 15:00:00', -3, 0, 0, 0, 0, 10002, 0, '2018/04/30 15:00:00', 8135, '1');
 insert into shiori_event_list values (20003, '2020/05/15 15:00:00', '2030/04/19 15:00:00', -8, 0, 0, 0, 0, 10003, 0, '2018/05/25 16:00:00', 201, '1');
 insert into shiori_event_list values (20004, '2020/06/19 15:00:00', '2030/04/19 15:00:00', -5, 0, 0, 0, 0, 10004, 0, '2018/06/30 12:00:00', 3394, '1,2');
 insert into shiori_event_list values (20005, '2020/07/20 15:00:00', '2030/04/19 15:00:00', -3, 0, 0, 0, 0, 10005, 0, '2018/07/31 12:00:00', 3060, '1,4');
@@ -16,7 +16,7 @@ insert into shiori_event_list values (20014, '2021/04/16 15:00:00', '2030/04/19 
 insert into shiori_event_list values (20015, '2021/05/18 15:00:00', '2030/04/19 15:00:00', 3, 0, 0, 0, 0, 10019, 0, '2019/06/30 15:00:00', 2222, '1,10');
 insert into shiori_event_list values (20016, '2021/06/18 15:00:00', '2030/04/19 15:00:00', 0, 0, 0, 0, 0, 10021, 0, '2019/07/31 12:00:00', 6040, '1,11');
 insert into shiori_event_list values (20017, '2021/07/16 15:00:00', '2030/04/19 15:00:00', -4, 0, 0, 0, 0, 10023, 0, '2019/08/31 12:00:00', 6481, '1');
-insert into shiori_event_list values (20018, '2021/08/16 15:00:00', '2030/04/19 15:00:00', 0, 0, 0, 0, 0, 10025, 0, '2019/09/30 12:00:00', 8152, '1,12');
+insert into shiori_event_list values (20018, '2021/08/16 15:00:00', '2030/04/19 15:00:00', 0, 0, 0, 0, 0, 10025, 0, '2019/09/30 12:00:00', 8134, '1,12');
 insert into shiori_event_list values (20019, '2021/09/16 15:00:00', '2030/04/19 15:00:00', -2, 0, 0, 0, 0, 10027, 0, '2019/10/31 12:00:00', 3420, '1');
 insert into shiori_event_list values (20020, '2021/10/19 15:00:00', '2030/04/19 15:00:00', -5, 0, 0, 0, 0, 10029, 0, '2019/11/30 12:00:00', 5283, '1,13');
 insert into shiori_event_list values (20021, '2021/11/16 15:00:00', '2030/04/19 15:00:00', -4, 0, 0, 0, 0, 10031, 0, '2019/12/31 12:00:00', 1311, '1,14');
@@ -44,3 +44,5 @@ insert into shiori_event_list values (20042, '2023/07/18 15:00:00', '2030/04/19 
 insert into shiori_event_list values (20043, '2023/08/18 15:00:00', '2030/04/19 15:00:00', 0, 0, 0, 0, 0, 10078, 0, '2021/10/31 12:00:00', 6054, '1');
 insert into shiori_event_list values (20044, '2023/09/19 15:00:00', '2030/04/19 15:00:00', 0, 0, 0, 0, 0, 10080, 0, '2021/11/30 12:00:00', 6381, '1,27');
 insert into shiori_event_list values (20045, '2023/10/16 15:00:00', '2030/04/19 15:00:00', 0, 0, 0, 0, 0, 10082, 0, '2021/12/31 12:00:00', 2193, '1,28');
+insert into shiori_event_list values (20046, '2023/11/16 15:00:00', '2030/04/19 15:00:00', 0, 0, 0, 0, 0, 10084, 0, '2022/01/31 12:00:00', 8163, '1');
+insert into shiori_event_list values (20047, '2023/11/16 15:00:00', '2030/04/19 15:00:00', 0, 0, 0, 0, 0, 10085, 20046, '2022/02/07 12:00:00', 8164, '1,29');
