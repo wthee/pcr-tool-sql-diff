@@ -53,7 +53,7 @@ insert into event_story_data values (5088, 5, 10115, 'Sweet Tiny Stage！\u3000\
 insert into event_story_data values (5090, 5, 10117, '交出寶物！透明怪盜雙人組', 0, 1, '2022/07/29 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5092, 5, 10119, 'Episode of Pirate\u3000\\n海盜島上被詛咒的遺寶', 0, 1, '2022/08/29 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5094, 5, 10121, 'Enjoy＆Refresh！\u3000\\n天差地遠的女孩露營', 0, 1, '2022/09/29 16:00:00', '2030/04/24 14:59:59');
-insert into event_story_data values (5096, 5, 10096, '破曉之星的夏日遊戲\u3000\\n於夏海閃耀的三份心意', 0, 1, '2022/10/30 16:00:00', '2030/04/24 14:59:59');
+insert into event_story_data values (5096, 5, 10123, '破曉之星的夏日遊戲\u3000\\n於夏海閃耀的三份心意', 0, 1, '2022/10/30 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5098, 5, 10098, '小小夏日回憶錄\u3000\\n在海邊發現的小小幸福', 0, 1, '2022/11/29 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5100, 5, 10100, '真步真步的神奇旅程！\u3000\\n旅行的少女與邊境的大樹', 0, 1, '2022/12/30 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5102, 5, 10102, '點讚！最愛！大集合！\u3000\\n至高祭典與少女祕密的本命任務', 0, 1, '2023/01/30 16:00:00', '2030/04/24 14:59:59');
