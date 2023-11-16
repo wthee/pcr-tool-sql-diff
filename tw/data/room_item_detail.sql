@@ -544,3 +544,4 @@ insert into room_item_detail values (2834, 1, '連細節都精心製作的精美
 insert into room_item_detail values (2835, 1, '真步製作的可愛蜥蜴玩偶。身上有翅膀與角，臉上的表情像是在說「我才不是蜥蜴呢！」。', 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into room_item_detail values (2836, 1, '據說是可測量碰觸者運氣的神祕結晶。越是幸運，發出的光芒會越明亮。據說彩虹色的光輝代表最大的幸運。', 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into room_item_detail values (2837, 1, '無邊無際的天空背景。那澄澈的蒼藍天空，刺激著人們對未知冒險的憧憬。', 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into room_item_detail values (2838, 1, '無邊無際的天空背景。那澄澈的蒼藍天空，刺激著人們對未知冒險的憧憬。', 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
