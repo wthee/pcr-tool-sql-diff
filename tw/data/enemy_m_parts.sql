@@ -288,6 +288,13 @@ insert into enemy_m_parts values (401605405, '野豬雙胞胎 第4階段', 40160
 insert into enemy_m_parts values (401605505, '野豬雙胞胎 第1階段 單人模式', 401605506, 401605507, 401605508, 401605509, 0);
 insert into enemy_m_parts values (401605605, '野豬雙胞胎 第2階段 單人模式', 401605606, 401605607, 401605608, 401605609, 0);
 insert into enemy_m_parts values (401605705, '野豬雙胞胎 第3階段 單人模式', 401605706, 401605707, 401605708, 401605709, 0);
+insert into enemy_m_parts values (401606104, '涅普堤利昂 第1階段', 401606105, 401606106, 401606107, 0, 0);
+insert into enemy_m_parts values (401606204, '涅普堤利昂 第2階段', 401606205, 401606206, 401606207, 0, 0);
+insert into enemy_m_parts values (401606304, '涅普堤利昂 第3階段', 401606305, 401606306, 401606307, 0, 0);
+insert into enemy_m_parts values (401606404, '涅普堤利昂 第4階段', 401606405, 401606406, 401606407, 0, 0);
+insert into enemy_m_parts values (401606504, '涅普堤利昂 第1階段 單人模式', 401606505, 401606506, 401606507, 0, 0);
+insert into enemy_m_parts values (401606604, '涅普堤利昂 第2階段 單人模式', 401606605, 401606606, 401606607, 0, 0);
+insert into enemy_m_parts values (401606704, '涅普堤利昂 第3階段 單人模式', 401606705, 401606706, 401606707, 0, 0);
 insert into enemy_m_parts values (501010601, '狂怒綠龍', 501010602, 501010603, 501010604, 0, 0);
 insert into enemy_m_parts values (501010701, '黑月守護像', 501010702, 501010703, 501010704, 0, 0);
 insert into enemy_m_parts values (501010705, '白陽守護像', 501010706, 501010707, 501010708, 0, 0);
