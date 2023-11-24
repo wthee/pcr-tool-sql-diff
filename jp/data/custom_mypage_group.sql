@@ -7,6 +7,7 @@ insert into custom_mypage_group values (10005, 'プリンセスコネクト！Re
 insert into custom_mypage_group values (10006, 'プリンセスコネクト！Re:Dive Season2 2');
 insert into custom_mypage_group values (10007, 'プリンセスコネクト！Re:Dive Season2 3');
 insert into custom_mypage_group values (10008, 'プリンセスコネクト！Re:Dive Season2 全巻購入特典');
+insert into custom_mypage_group values (10009, 'CD購入特典');
 insert into custom_mypage_group values (20001, 'プリンセスコネクト！Re:Dive 3周年記念');
 insert into custom_mypage_group values (20002, '公式アートワークス Vol.3 発売記念アイテム');
 insert into custom_mypage_group values (20003, 'プリンセスコネクト！Re:Dive 3.5周年記念');
