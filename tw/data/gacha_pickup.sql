@@ -24,3 +24,7 @@ insert into gacha_pickup values (4, 1, 1, 121001, '貪吃佩可（超載）');
 insert into gacha_pickup values (4, 2, 1, 121101, '凱留（超載）');
 insert into gacha_pickup values (4, 3, 1, 115501, '可可蘿（祭服）');
 insert into gacha_pickup values (4, 4, 1, 109101, '靜流（情人節）');
+insert into gacha_pickup values (5, 1, 1, 107501, '貪吃佩可（夏日）');
+insert into gacha_pickup values (5, 2, 1, 107801, '凱留（夏日）');
+insert into gacha_pickup values (5, 3, 1, 110301, '咲戀（夏日）');
+insert into gacha_pickup values (5, 4, 1, 110001, '鈴奈（夏日）');
