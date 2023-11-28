@@ -67,3 +67,4 @@ insert into event_story_data values (5116, 5, 10116, 'Dears\u3000\\n歡迎回家
 insert into event_story_data values (5118, 5, 10118, 'Connect‧With‧Blue\u3000\\n直至少女前往天際', 0, 1, '2023/08/29 16:00:00', '2030/05/14 14:59:59');
 insert into event_story_data values (5120, 5, 10120, '吸血鬼傳聞錄\u3000\\n黑夜與美麗的饗宴', 0, 1, '2023/09/28 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5122, 5, 10122, '大間的排光海水大作戰\u3000祕密主義者與禁斷之海', 0, 1, '2023/10/30 16:00:00', '2030/04/24 14:59:59');
+insert into event_story_data values (5124, 5, 10124, '戰慄幽奇海岸\u3000\\n～夏日度假村驚悚怪談～', 0, 1, '2023/11/29 16:00:00', '2030/04/24 14:59:59');
