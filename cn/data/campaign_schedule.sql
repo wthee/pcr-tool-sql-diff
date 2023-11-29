@@ -1026,3 +1026,14 @@ insert into campaign_schedule values (1024, 351, 1500.0, 8004, 80, '2023/11/23 5
 insert into campaign_schedule values (1025, 352, 1500.0, 8005, 80, '2023/11/23 5:00:00', '2023/12/01 4:59:59', 0, 0, 0, 0);
 insert into campaign_schedule values (1026, 251, 1500.0, 7004, 80, '2023/11/18 12:00:00', '2023/11/25 23:59:59', 0, 0, 0, 0);
 insert into campaign_schedule values (1027, 252, 1500.0, 7005, 80, '2023/11/18 12:00:00', '2023/11/25 23:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1028, 32, 2000.0, 102, 30, '2023/12/01 5:00:00', '2023/12/06 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1029, 42, 2000.0, 102, 40, '2023/12/01 5:00:00', '2023/12/06 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1030, 31, 2000.0, 101, 30, '2023/12/06 5:00:00', '2023/12/11 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1031, 41, 2000.0, 101, 40, '2023/12/06 5:00:00', '2023/12/11 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1032, 39, 2000.0, 111, 30, '2023/12/11 5:00:00', '2023/12/15 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1033, 49, 2000.0, 111, 40, '2023/12/11 5:00:00', '2023/12/15 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1034, 31, 3000.0, 101, 30, '2023/12/15 5:00:00', '2023/12/20 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1035, 41, 2000.0, 101, 40, '2023/12/15 5:00:00', '2023/12/20 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1036, 45, 2000.0, 104, 40, '2023/12/15 5:00:00', '2023/12/31 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1037, 151, 1500.0, 6004, 80, '2023/11/30 11:00:00', '2023/12/14 23:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1038, 152, 1500.0, 6005, 80, '2023/11/30 11:00:00', '2023/12/14 23:59:59', 0, 0, 0, 0);
