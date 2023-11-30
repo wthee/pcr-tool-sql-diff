@@ -1,1 +1,4 @@
 CREATE TABLE 'extra_effect_data' ('extra_effect_id' INTEGER NOT NULL, 'content_type' INTEGER NOT NULL, 'target_value_1' INTEGER NOT NULL, 'target_value_2' INTEGER NOT NULL, 'set_id' INTEGER NOT NULL, 'exec_timing_1' INTEGER NOT NULL, 'exec_timing_2' INTEGER NOT NULL, 'exec_timing_3' INTEGER NOT NULL, 'exec_timing_4' INTEGER NOT NULL, 'exec_timing_5' INTEGER NOT NULL, 'enemy_id_1' INTEGER NOT NULL, 'enemy_id_2' INTEGER NOT NULL, 'enemy_id_3' INTEGER NOT NULL, 'enemy_id_4' INTEGER NOT NULL, 'enemy_id_5' INTEGER NOT NULL, PRIMARY KEY('extra_effect_id'));
+insert into extra_effect_data values (102311001, 16, 610132007, 0, 61013201, 1, 0, 0, 0, 0, 610132504, 0, 0, 0, 0);
+insert into extra_effect_data values (102311002, 16, 610132008, 0, 61013201, 1, 0, 0, 0, 0, 610132504, 0, 0, 0, 0);
+insert into extra_effect_data values (102311003, 16, 610132009, 0, 61013201, 1, 0, 0, 0, 0, 610132504, 0, 0, 0, 0);

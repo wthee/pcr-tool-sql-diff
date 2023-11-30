@@ -31,6 +31,7 @@ insert into dodge_tp_recovery values (6007, 0.0);
 insert into dodge_tp_recovery values (6010, 0.0);
 insert into dodge_tp_recovery values (6011, 0.0);
 insert into dodge_tp_recovery values (6012, 0.0);
+insert into dodge_tp_recovery values (6013, 0.0);
 insert into dodge_tp_recovery values (6101, 0.0);
 insert into dodge_tp_recovery values (7004, 0.0);
 insert into dodge_tp_recovery values (7005, 0.0);

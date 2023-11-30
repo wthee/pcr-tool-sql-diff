@@ -234,6 +234,7 @@ insert into unit_background values (127201, 'キャル（編入生）', 502030, 
 insert into unit_background values (127301, 'スズナ（編入生）', 502030, 'アンブローズ魔法学園_屋上_昼', 0.0, 4);
 insert into unit_background values (127501, 'サレン（サラサリア）', 502060, '砂漠の国の大通り_昼', 0.0, 2);
 insert into unit_background values (127601, 'ルカ（サラサリア）', 501370, '滝壺_昼', 0.0, 3);
+insert into unit_background values (127901, 'ペコリーヌ（クリスマス）', 500036, 'ランドソル_繁華街_クリスマス_昼', 0.0, 2);
 insert into unit_background values (180101, 'ヒヨリ（プリンセス）', 500130, 'エステレラ街道', 0.0, 2);
 insert into unit_background values (180201, 'ユイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 4);
 insert into unit_background values (180301, 'レイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 3);

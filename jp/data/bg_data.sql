@@ -177,6 +177,7 @@ insert into bg_data values ('HATSUNE_WTS', 502015, 0);
 insert into bg_data values ('HATSUNE_WTM_TOP', 502060, 0);
 insert into bg_data values ('HATSUNE_WTM_ADV', 502060, 0);
 insert into bg_data values ('HATSUNE_WTM_SECRET_ADV', 502060, 0);
+insert into bg_data values ('HATSUNE_XAC', 500038, 0);
 insert into bg_data values ('CARAVAN_TOP', 0, 0);
 insert into bg_data values ('CARAVAN_SHOP', 500370, 0);
 insert into bg_data values ('COLOSSEUM_TOP', 531300, 0);

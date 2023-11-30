@@ -1,0 +1,1 @@
+CREATE INDEX 'caravan_rival_bonus_0_season_id' on 'caravan_rival_bonus'('season_id')
