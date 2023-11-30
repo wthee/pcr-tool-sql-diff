@@ -12842,7 +12842,7 @@ insert into wac_drama_script values (29612008, 29612, 21, 'vo_wac_221207', 'vo_w
 insert into wac_drama_script values (29612009, 29612, 11, '100711', '人家一～直都在畫畫，\\n但卻總是只能拿到相同數量的布丁……\\n你絕對是明明還有卻瞞著人家來的～！\\n太小氣了喲～！', '10', '1', '1', '0', '0', '0.5');
 insert into wac_drama_script values (29612010, 29612, 91, '0', '', '', '', '', '', '', '');
 insert into wac_drama_script values (29612011, 29612, 21, 'vo_wac_221207', 'vo_wac_221207_001', '0', '0', '', '', '', '');
-insert into wac_drama_script values (29612012, 29612, 11, '100711', '宮子認真工作\\n可是非常罕見的事哟。\\n所以你應該給人家更多布丁\\n當作獎勵來的～！', '10', '1', '1', '0', '0', '0.5');
+insert into wac_drama_script values (29612012, 29612, 11, '100711', '宮子認真工作\\n可是非常罕見的事喲。\\n所以你應該給人家更多布丁\\n當作獎勵來的～！', '10', '1', '1', '0', '0', '0.5');
 insert into wac_drama_script values (29612013, 29612, 91, '0', '', '', '', '', '', '', '');
 insert into wac_drama_script values (29612014, 29612, 22, '0', '0', '', '', '', '', '', '');
 insert into wac_drama_script values (29613001, 29613, 3, '100711', 'wac_idle_anger_pout', '1', '', '', '0.2', '', '');
@@ -13588,7 +13588,7 @@ insert into wac_drama_script values (31212005, 31212, 32, '43', '0', '', '', '',
 insert into wac_drama_script values (31212006, 31212, 32, '57', '1', '', '', '', '', '', '');
 insert into wac_drama_script values (31212007, 31212, 32, '11', '0', '', '', '', '', '', '');
 insert into wac_drama_script values (31212008, 31212, 21, 'vo_wac_221223', 'vo_wac_221223_000', '0', '0', '', '', '', '');
-insert into wac_drama_script values (31212009, 31212, 11, '100711', '因為很努力所以筋疲力盡了哟～\\n主要是糖分不足來的～\\n要是不立刻吃布丁的話，\\n感覺就要成佛了哟～', '10', '1', '1', '0', '0', '0.5');
+insert into wac_drama_script values (31212009, 31212, 11, '100711', '因為很努力所以筋疲力盡了喲～\\n主要是糖分不足來的～\\n要是不立刻吃布丁的話，\\n感覺就要成佛了喲～', '10', '1', '1', '0', '0', '0.5');
 insert into wac_drama_script values (31212010, 31212, 91, '0', '', '', '', '', '', '', '');
 insert into wac_drama_script values (31212011, 31212, 3, '100711', 'wac_talk_smile_in', '0', 'wac_talk_smile_loop', '1', '0.2', '', '');
 insert into wac_drama_script values (31212012, 31212, 21, 'vo_wac_221223', 'vo_wac_221223_001', '0', '0', '', '', '', '');
