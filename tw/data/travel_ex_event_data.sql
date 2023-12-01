@@ -18,3 +18,5 @@ insert into travel_ex_event_data values (8000015, '翱翔天際的龍人幫派',
 insert into travel_ex_event_data values (8000016, '慈樂之音☆自然演唱會！', 17);
 insert into travel_ex_event_data values (8000017, '在旅途上前進與許多想說的話', 18);
 insert into travel_ex_event_data values (8000018, '唱一首搖籃曲', 19);
+insert into travel_ex_event_data values (8000019, '比桌板還要硬的工作', 20);
+insert into travel_ex_event_data values (8000020, '導遊們的攝影俱樂部', 21);

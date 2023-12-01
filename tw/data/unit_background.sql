@@ -224,6 +224,8 @@ insert into unit_background values (126401, '克蘿茜', 501660, '吉歐‧提�
 insert into unit_background values (126601, '似似花（夏日）', 500692, '海邊的店_夜晚', 0.0, 2);
 insert into unit_background values (126701, '秋乃（夏日）', 501030, '祈願海岸', 0.0, 4);
 insert into unit_background values (126801, '優花梨（夏日）', 500280, '無人島', 0.0, 4);
+insert into unit_background values (126901, '蘭法（夏日）', 501030, '祈願海岸', 0.0, 2);
+insert into unit_background values (127001, '空花（夏日）', 500160, '瑪爾傑海岸_白天', 0.0, 4);
 insert into unit_background values (180101, '日和（公主）', 500130, '埃斯特雷拉街道', 0.0, 2);
 insert into unit_background values (180201, '優衣（公主）', 500130, '埃斯特雷拉街道', 0.0, 4);
 insert into unit_background values (180301, '怜（公主）', 500130, '埃斯特雷拉街道', 0.0, 3);

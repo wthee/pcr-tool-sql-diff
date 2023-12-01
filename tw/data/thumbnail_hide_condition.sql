@@ -2,3 +2,4 @@ CREATE TABLE 'thumbnail_hide_condition' ('story_group_id' INTEGER NOT NULL, 'hid
 insert into thumbnail_hide_condition values (2015, 2015007, 0, 0, 0);
 insert into thumbnail_hide_condition values (2109, 2109007, 0, 2109007, 0);
 insert into thumbnail_hide_condition values (2116, 2116007, 0, 0, 0);
+insert into thumbnail_hide_condition values (5124, 5124006, 5124007, 5124004, 1);
