@@ -29,3 +29,8 @@ insert into secret_dungeon_emblem_mission values (3200602, 1004110, 603, '登頂
 insert into secret_dungeon_emblem_mission values (3200603, 1004110, 603, '登頂3次特殊地下城', '3rd Round Clear！', 80001, 0, 0, 0, '3', 32001003, 32006, 1, '2015/04/01 15:00:00', '2030/04/01 14:59:59');
 insert into secret_dungeon_emblem_mission values (3200604, 1004110, 603, '登頂4次特殊地下城', '4th Round Clear！', 80001, 0, 0, 0, '4', 32001004, 32006, 1, '2015/04/01 15:00:00', '2030/04/01 14:59:59');
 insert into secret_dungeon_emblem_mission values (3200605, 1004110, 603, '登頂5次特殊地下城', 'CONQUEST！', 80001, 0, 0, 0, '5', 32001005, 32006, 1, '2015/04/01 15:00:00', '2030/04/01 14:59:59');
+insert into secret_dungeon_emblem_mission values (3200701, 1004110, 603, '登頂1次特殊地下城', '1st Round Clear！', 80001, 0, 0, 0, '1', 32001001, 32007, 1, '2015/04/01 15:00:00', '2030/04/01 14:59:59');
+insert into secret_dungeon_emblem_mission values (3200702, 1004110, 603, '登頂2次特殊地下城', '2nd Round Clear！', 80001, 0, 0, 0, '2', 32001002, 32007, 1, '2015/04/01 15:00:00', '2030/04/01 14:59:59');
+insert into secret_dungeon_emblem_mission values (3200703, 1004110, 603, '登頂3次特殊地下城', '3rd Round Clear！', 80001, 0, 0, 0, '3', 32001003, 32007, 1, '2015/04/01 15:00:00', '2030/04/01 14:59:59');
+insert into secret_dungeon_emblem_mission values (3200704, 1004110, 603, '登頂4次特殊地下城', '4th Round Clear！', 80001, 0, 0, 0, '4', 32001004, 32007, 1, '2015/04/01 15:00:00', '2030/04/01 14:59:59');
+insert into secret_dungeon_emblem_mission values (3200705, 1004110, 603, '登頂5次特殊地下城', 'CONQUEST！', 80001, 0, 0, 0, '5', 32001005, 32007, 1, '2015/04/01 15:00:00', '2030/04/01 14:59:59');

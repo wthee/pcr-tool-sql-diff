@@ -345,6 +345,11 @@ insert into enemy_m_parts values (502006213, '狂怒綠龍', 502006214, 50200621
 insert into enemy_m_parts values (502006313, '狂怒綠龍', 502006314, 502006315, 502006316, 0, 0);
 insert into enemy_m_parts values (502006413, '狂怒綠龍', 502006414, 502006415, 502006416, 0, 0);
 insert into enemy_m_parts values (502006513, '狂怒綠龍', 502006514, 502006515, 502006516, 0, 0);
+insert into enemy_m_parts values (502007112, '劍蛇 09層', 502007113, 502007114, 502007115, 0, 0);
+insert into enemy_m_parts values (502007212, '劍蛇 19層', 502007213, 502007214, 502007215, 0, 0);
+insert into enemy_m_parts values (502007312, '劍蛇 29層', 502007313, 502007314, 502007315, 0, 0);
+insert into enemy_m_parts values (502007412, '劍蛇 39層', 502007413, 502007414, 502007415, 0, 0);
+insert into enemy_m_parts values (502007512, '劍蛇 49層', 502007513, 502007514, 502007515, 0, 0);
 insert into enemy_m_parts values (610017101, '貝特魯吉烏斯 NORMAL', 610017102, 610017103, 610017104, 0, 0);
 insert into enemy_m_parts values (610017201, '貝特魯吉烏斯 HARD', 610017202, 610017203, 610017204, 0, 0);
 insert into enemy_m_parts values (610017301, '貝特魯吉烏斯 VERY HARD', 610017302, 610017303, 610017304, 0, 0);
