@@ -4,3 +4,4 @@ insert into caravan_dish_reward values (2, 21, 99007, 500);
 insert into caravan_dish_reward values (3, 21, 99008, 1);
 insert into caravan_dish_reward values (4, 21, 99007, 800);
 insert into caravan_dish_reward values (5, 21, 99007, 2000);
+insert into caravan_dish_reward values (6, 21, 99007, 1000);

@@ -4,3 +4,5 @@ insert into ccc_object values (101, 0, 1, 1, 90, 10, 25, 0);
 insert into ccc_object values (200, 0, 1, 2, 80, 10, 0, 0);
 insert into ccc_object values (300, 0, 0, 4, 80, 0, 180, 0);
 insert into ccc_object values (400, 0, 0, 3, 100, 0, 0, 0);
+insert into ccc_object values (500, 500, 0, 5, 100, 0, 1, 1);
+insert into ccc_object values (510, 500, 0, 5, 130, 0, 2, 2);

@@ -289,3 +289,6 @@ insert into experience_team values (287, 976384, 345, 999, 30);
 insert into experience_team values (288, 980809, 346, 999, 30);
 insert into experience_team values (289, 985234, 347, 999, 30);
 insert into experience_team values (290, 989659, 348, 999, 30);
+insert into experience_team values (291, 994084, 349, 999, 30);
+insert into experience_team values (292, 998509, 350, 999, 30);
+insert into experience_team values (293, 1002934, 351, 999, 30);

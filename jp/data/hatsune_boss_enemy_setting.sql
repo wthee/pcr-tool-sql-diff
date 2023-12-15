@@ -64,3 +64,9 @@ insert into hatsune_boss_enemy_setting values (1011504, 1, 10115, 1, 10115401, 0
 insert into hatsune_boss_enemy_setting values (1011504, 2, 10115, 0, 0, 0.0, 100000, 0, -50, 0.8, 30, -30, 0.6, 0);
 insert into hatsune_boss_enemy_setting values (1011505, 1, 10115, 1, 0, 0.03, 100000, 0, -50, 0.92, -17, -30, 0.7, 10);
 insert into hatsune_boss_enemy_setting values (1011505, 2, 10115, 0, 0, 0.0, 100000, 0, -50, 0.8, 30, -30, 0.6, 0);
+insert into hatsune_boss_enemy_setting values (2004801, 1, 20048, 1, 0, 0.03, 100000, 0, -50, 0.92, -13, -25, 0.84, 10);
+insert into hatsune_boss_enemy_setting values (2004801, 2, 20048, 0, 0, 0.0, 100000, 0, -50, 0.8, 13, -25, 0.7, 0);
+insert into hatsune_boss_enemy_setting values (2004802, 1, 20048, 1, 0, 0.03, 100000, 0, -50, 0.92, -13, -25, 0.84, 10);
+insert into hatsune_boss_enemy_setting values (2004802, 2, 20048, 0, 0, 0.0, 100000, 0, -50, 0.8, 13, -25, 0.7, 0);
+insert into hatsune_boss_enemy_setting values (2004803, 1, 20048, 1, 0, 0.03, 100000, 0, -50, 0.92, -13, -25, 0.84, 10);
+insert into hatsune_boss_enemy_setting values (2004803, 2, 20048, 0, 0, 0.0, 100000, 0, -50, 0.8, 13, -25, 0.7, 0);

@@ -312,3 +312,9 @@ insert into music_content values (310, 'イリドロータス', '1:27', '0:41', 
 insert into music_content values (311, '旅と成長（と反省）の記録', '1:35', '0:00', 'ストーリーイベントミニコンテンツ\\n-｢イリドロータス｣アレンジ-\\n\\n時間 / 01:35\\n作曲 / 宮谷礼治\\n編曲 / 田山里奈', 'bgm_MC083B', 'bgm_MC083B_02_juke');
 insert into music_content values (312, 'アルターメイデン', '2:41', '0:00', 'キャラクターテーマ\\n\\n時間 / 02:41\\n作曲 / Enarak（Cygames）\\n編曲 / Enarak（Cygames）', 'bgm_MC002', 'bgm_MC002_juke');
 insert into music_content values (313, 'アドベンチャー', '1:21', '0:00', 'アドベンチャー\\n\\n時間 / 01:21\\n作曲 / 西村真吾\\n編曲 / 西村真吾', 'bgm_M615', 'bgm_M615_juke');
+insert into music_content values (314, 'クライ・ベイビー・クリスマス\u3000誰が為の幸福なる日', '1:06', '0:00', 'ストーリーイベントテーマ\\n-｢Christmas Blessing｣アレンジ-\\n\\n時間 / 01:06\\n作曲 / 高橋修平 (SUPA LOVE)\\n編曲 / 松尾早人', 'bgm_MC091', 'bgm_MC091_juke');
+insert into music_content values (315, 'バジリスク・アロス', '1:50', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 01:50\\n作曲 / 田山里奈\\n編曲 / 田山里奈', 'bgm_MC094', 'bgm_MC094_juke');
+insert into music_content values (316, 'Christmas Blessing', '1:32', '0:50', 'キャラクターソング\\n\\n時間 / 01:32\\n歌\u3000 / ペコリーヌ（M・A・O）\\n\u3000\u3000\u3000クレジッタ（Lynn）\\n作詞 / 藤原優樹 (SUPA LOVE)\\n作曲 / 高橋修平 (SUPA LOVE)\\n編曲 / 高橋修平 (SUPA LOVE)\\nストリングスアレンジ / 曽木琢磨 (SUPA LOVE)', 'bgm_MC090', 'bgm_MC090');
+insert into music_content values (317, 'アドベントカレンダー', '2:09', '0:00', 'ストーリーイベントミニコンテンツ\\n-｢Christmas Blessing｣アレンジ-\\n\\n時間 / 02:09\\n作曲 / 高橋修平 (SUPA LOVE)\\n編曲 / Enarak（Cygames）', 'bgm_MC095', 'bgm_MC095_juke');
+insert into music_content values (318, '業火燃え盛りし密林', '2:02', '0:00', 'メインクエスト\\n\\n時間 / 02:02\\n作曲 / 東大路憲太（IM.Lab）・守谷勇人（IM.Lab）・\\n\u3000\u3000\u3000中町友洋（IM.Lab）・吉川美矩（IM.Lab）\\n編曲 / 東大路憲太（IM.Lab）・守谷勇人（IM.Lab）・\\n\u3000\u3000\u3000中町友洋（IM.Lab）・吉川美矩（IM.Lab）', 'bgm_MC079', 'bgm_MC079_juke');
+insert into music_content values (319, 'ジオ・ゲヘナの戦い', '1:38', '0:00', 'メインクエスト\\n\\n時間 / 01:38\\n作曲 / 植田能平\\n編曲 / 植田能平', 'bgm_MC086', 'bgm_MC086_juke');
