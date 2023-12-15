@@ -305,6 +305,8 @@ insert into movie values (220300601, 2203, 2203006, '', '', 1, 1, 1.0);
 insert into movie values (220300602, 2203, 2203006, 'bgm_MC059_emt2203_006', '', 1, 1, 1.0);
 insert into movie values (220300680, 2203, 2203006, '', '', 1, 1, 0.3);
 insert into movie values (220300681, 2203, 2203006, '', '', 0, 1, 1.0);
+insert into movie values (220400101, 2204, 2204001, '', '', 1, 1, 1.0);
+insert into movie values (220400201, 2204, 2204002, 'bgm_MC069B_emt2204_002', '', 1, 1, 1.0);
 insert into movie values (301000301, 3010, 3010003, '', '', 1, 1, 1.0);
 insert into movie values (500100701, 5001, 5001007, '', '', 1, 1, 1.0);
 insert into movie values (500200701, 5002, 5002007, '', '', 1, 1, 1.0);

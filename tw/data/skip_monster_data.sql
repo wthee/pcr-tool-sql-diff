@@ -3376,6 +3376,11 @@ insert into skip_monster_data values (11065002, 11065, '芭菲之城城鎮 65-2'
 insert into skip_monster_data values (11065003, 11065, '芭菲之城城鎮 65-3', 101650301, 103203);
 insert into skip_monster_data values (11065004, 11065, '芭菲之城城鎮 65-4', 101650401, 103203);
 insert into skip_monster_data values (11065005, 11065, '芭菲之城城鎮 65-5', 101650501, 103173);
+insert into skip_monster_data values (11065006, 11065, '芭菲之城城鎮 65-6', 101650601, 103173);
+insert into skip_monster_data values (11065007, 11065, '芭菲之城城鎮 65-7', 101650701, 103173);
+insert into skip_monster_data values (11065008, 11065, '芭菲之城城鎮 65-8', 101650801, 103173);
+insert into skip_monster_data values (11065009, 11065, '芭菲之城城鎮 65-9', 101650901, 103203);
+insert into skip_monster_data values (11065010, 11065, '芭菲之城城鎮 65-10', 101651001, 103183);
 insert into skip_monster_data values (12001001, 12001, '朱諾平原 1-1（Hard）', 101010101, 100911);
 insert into skip_monster_data values (12001002, 12001, '朱諾平原 1-2（Hard）', 101010101, 100911);
 insert into skip_monster_data values (12001003, 12001, '朱諾平原 1-3（Hard）', 101010101, 100361);
@@ -3556,6 +3561,8 @@ insert into skip_monster_data values (12063003, 12063, '阿帕雷尤街道‧西
 insert into skip_monster_data values (12064001, 12064, '阿帕雷尤街道‧東側 64-1', 102640101, 103193);
 insert into skip_monster_data values (12064002, 12064, '阿帕雷尤街道‧東側 64-2', 102640201, 103193);
 insert into skip_monster_data values (12064003, 12064, '阿帕雷尤街道‧東側 64-3', 102640310, 103193);
+insert into skip_monster_data values (12065001, 12065, '芭菲之城城鎮 65-1', 102650101, 103193);
+insert into skip_monster_data values (12065002, 12065, '芭菲之城城鎮 65-2', 102650201, 103193);
 insert into skip_monster_data values (13018001, 13018, '法艾頓草原‧北部 18-1', 103180101, 101401);
 insert into skip_monster_data values (13018002, 13018, '法艾頓草原‧北部 18-2', 103180204, 100691);
 insert into skip_monster_data values (13018003, 13018, '法艾頓草原‧北部 18-3', 103180301, 101431);
