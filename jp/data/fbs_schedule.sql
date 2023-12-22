@@ -56,4 +56,5 @@ insert into fbs_schedule values (54, 4010054, '2023/12/06 5:00:00', '2023/12/07 
 insert into fbs_schedule values (55, 4010055, '2023/12/12 5:00:00', '2023/12/13 4:59:59');
 insert into fbs_schedule values (56, 4010056, '2023/12/14 5:00:00', '2023/12/15 4:59:59');
 insert into fbs_schedule values (57, 4010057, '2023/12/22 5:00:00', '2023/12/23 4:59:59');
+insert into fbs_schedule values (58, 4010058, '2023/12/24 5:00:00', '2023/12/25 4:59:59');
 insert into fbs_schedule values (59, 4010059, '2023/12/28 5:00:00', '2023/12/29 4:59:59');

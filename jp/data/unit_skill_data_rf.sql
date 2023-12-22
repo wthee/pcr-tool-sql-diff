@@ -33,6 +33,7 @@ insert into unit_skill_data_rf values (1082002, 1082002, 1082202, 261, -1);
 insert into unit_skill_data_rf values (1082012, 1082012, 1082212, 261, -1);
 insert into unit_skill_data_rf values (1083012, 1083012, 1083212, 261, -1);
 insert into unit_skill_data_rf values (1084003, 1084003, 1084203, 261, -1);
+insert into unit_skill_data_rf values (1084013, 1084013, 1084213, 261, -1);
 insert into unit_skill_data_rf values (1085012, 1085012, 1085212, 261, -1);
 insert into unit_skill_data_rf values (1089002, 1089002, 1089202, 301, -1);
 insert into unit_skill_data_rf values (1089012, 1089012, 1089212, 301, -1);
