@@ -28,3 +28,7 @@ insert into gacha_pickup values (5, 1, 1, 107501, '貪吃佩可（夏日）');
 insert into gacha_pickup values (5, 2, 1, 107801, '凱留（夏日）');
 insert into gacha_pickup values (5, 3, 1, 110301, '咲戀（夏日）');
 insert into gacha_pickup values (5, 4, 1, 110001, '鈴奈（夏日）');
+insert into gacha_pickup values (6, 1, 1, 107701, '鈴莓（夏日）');
+insert into gacha_pickup values (6, 2, 1, 107901, '珠希（夏日）');
+insert into gacha_pickup values (6, 3, 1, 110601, '真步（夏日）');
+insert into gacha_pickup values (6, 4, 1, 110401, '真琴（夏日）');
