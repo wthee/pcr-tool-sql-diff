@@ -32,3 +32,7 @@ insert into gacha_pickup values (6, 1, 1, 107701, '鈴莓（夏日）');
 insert into gacha_pickup values (6, 2, 1, 107901, '珠希（夏日）');
 insert into gacha_pickup values (6, 3, 1, 110601, '真步（夏日）');
 insert into gacha_pickup values (6, 4, 1, 110401, '真琴（夏日）');
+insert into gacha_pickup values (7, 1, 1, 117201, '望（夏日）');
+insert into gacha_pickup values (7, 2, 1, 117001, '惠理子（夏日）');
+insert into gacha_pickup values (7, 3, 1, 113101, '流夏（夏日）');
+insert into gacha_pickup values (7, 4, 1, 113401, '初音（夏日）');
