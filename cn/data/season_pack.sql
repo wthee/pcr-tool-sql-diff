@@ -11,6 +11,7 @@ insert into season_pack values (39, 0, 18, 0, '', '', 9418, 0, 0, 0, 0, 0, 8, 0,
 insert into season_pack values (40, 0, 19, 0, '', '', 9419, 0, 0, 0, 0, 0, 13, 0, 0);
 insert into season_pack values (41, 0, 20, 0, '', '', 9420, 0, 0, 0, 0, 0, 14, 0, 0);
 insert into season_pack values (42, 0, 1, 0, '', '', 9319, 0, 0, 0, 908, 0, 16, 0, 0);
+insert into season_pack values (43, 0, 1, 0, '', '', 9319, 0, 0, 0, 908, 0, 17, 0, 0);
 insert into season_pack values (50, 17001101, 0, 403, '特惠宝石月卡·第{1}天道具包', '特惠宝石月卡·未收取的宝石', 0, 30, 3, 0, 0, 0, 10, 0, 0);
 insert into season_pack values (51, 17001102, 0, 405, '体力礼包中的第{1}天的道具包', '', 0, 30, 3, 0, 0, 0, 11, 0, 0);
 insert into season_pack values (205, 17001103, 0, 405, '每日公主之心礼包中的第{1}天的道具包', '每日公主之心月卡·未收取的宝石', 0, 30, 3, 0, 0, 0, 12, 0, 0);

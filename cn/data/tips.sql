@@ -108,3 +108,4 @@ insert into tips values (4180401, 180401, 1, '力量提升☆');
 insert into tips values (4180501, 180501, 1, '软乎乎');
 insert into tips values (4180601, 180601, 1, '助威声');
 insert into tips values (4180701, 180701, 1, '我的色彩');
+insert into tips values (4180801, 180801, 1, '总是三个人');
