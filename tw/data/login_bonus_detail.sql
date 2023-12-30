@@ -385,3 +385,4 @@ insert into login_bonus_detail values (415, 20001, 9, 8, 91002, 300, 0, '', '', 
 insert into login_bonus_detail values (416, 20001, 9, 2, 23001, 20, 0, '', '', 0, 0);
 insert into login_bonus_detail values (417, 20001, 10, 2, 24016, 1, 0, '', '', 0, 0);
 insert into login_bonus_detail values (418, 20001, 10, 2, 23001, 20, 0, '', '', 0, 0);
+insert into login_bonus_detail values (434, 49021, 1, 8, 91002, 1500, 0, '', '', 0, 0);
