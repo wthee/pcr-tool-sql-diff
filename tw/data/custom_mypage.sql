@@ -19,6 +19,7 @@ insert into custom_mypage values (9000217, 40001, 0, '大家一起賞月', 0, 0,
 insert into custom_mypage values (9000218, 40001, 0, '萬聖節派對', 0, 0, 1);
 insert into custom_mypage values (9000219, 40001, 0, '說到秋天……', 0, 0, 1);
 insert into custom_mypage values (9000220, 40001, 0, 'Wish a Merry Xmas', 0, 0, 1);
+insert into custom_mypage values (9000221, 40001, 0, '新年的片刻時光', 0, 0, 1);
 insert into custom_mypage values (9000222, 30001, 0, '回想重組 自訂主頁面', 0, 0, 1);
 insert into custom_mypage values (9000225, 20006, 0, '5周年紀念自訂主頁面', 0, 0, 1);
 insert into custom_mypage values (9000227, 30001, 0, '太鼓高手的海報', 0, 0, 1);
