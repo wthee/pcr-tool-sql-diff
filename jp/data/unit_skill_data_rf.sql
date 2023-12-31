@@ -94,3 +94,4 @@ insert into unit_skill_data_rf values (1701003, 1701003, 1701203, 261, -1);
 insert into unit_skill_data_rf values (1802002, 1802002, 1802202, 261, -1);
 insert into unit_skill_data_rf values (1802012, 1802012, 1802212, 261, -1);
 insert into unit_skill_data_rf values (1807002, 1807002, 1807202, 261, -1);
+insert into unit_skill_data_rf values (1807012, 1807012, 1807212, 261, -1);

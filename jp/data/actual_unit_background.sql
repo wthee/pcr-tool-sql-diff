@@ -229,6 +229,7 @@ insert into actual_unit_background values (127531, '佐々木 咲恋', 510230, 2
 insert into actual_unit_background values (127631, '太刀洗 流夏', 510290, 4);
 insert into actual_unit_background values (127931, 'ユースティアナ・フォン・アストライア', 510125, 4);
 insert into actual_unit_background values (128031, 'クレア・ボヤンシア', 510301, 4);
+insert into actual_unit_background values (128331, '一ノ瀬 祈梨', 510290, 4);
 insert into actual_unit_background values (180131, '春咲 ひより', 510121, 4);
 insert into actual_unit_background values (180231, '草野 優衣', 510350, 2);
 insert into actual_unit_background values (180331, '士条 怜', 510100, 2);
@@ -238,3 +239,4 @@ insert into actual_unit_background values (180631, '百地 希留耶', 510351, 2
 insert into actual_unit_background values (180731, '柏崎 初音＆柏崎 栞', 510070, 2);
 insert into actual_unit_background values (180831, '穂高 みそぎ＆茜 ミミ＆氷川 鏡華', 510400, 2);
 insert into actual_unit_background values (180931, '藤堂 秋乃＆佐々木 咲恋', 510202, 2);
+insert into actual_unit_background values (181131, '星野 静流＆衣之咲 璃乃', 510100, 2);

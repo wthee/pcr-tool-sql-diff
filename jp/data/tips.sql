@@ -147,3 +147,4 @@ insert into tips values (4180701, 180701, 1, '私の色');
 insert into tips values (4180801, 180801, 1, '３人いつも');
 insert into tips values (4180901, 180901, 1, '二人一緒なら');
 insert into tips values (4181001, 181001, 1, '変わらないもの');
+insert into tips values (4181101, 181101, 1, '姉妹っぽいこと');

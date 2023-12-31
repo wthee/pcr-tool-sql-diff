@@ -131,4 +131,5 @@ insert into event_gacha_data values (10130, 10130, 'クリミナル ルーキー
 insert into event_gacha_data values (10131, 10131, 'トライバルスピリッツ\u3000掲げる剣と誇りの架け橋', 2, 61302, 1, 6);
 insert into event_gacha_data values (10132, 10132, 'クライ・ベイビー・クリスマス\u3000誰が為の幸福なる日', 2, 61312, 1, 6);
 insert into event_gacha_data values (10133, 10133, 'ハッピー・ハプニング\u3000幸せの双子天使と聖夜の贈り物', 2, 61322, 1, 6);
+insert into event_gacha_data values (10134, 10134, '迎春ドリーマーズ！\u3000新年、あけましてお隕石（メテオ）！？', 2, 61332, 1, 6);
 insert into event_gacha_data values (19003, 10003, 'ヴァンパイアハンターwithイリヤ討伐証交換', 2, 60022, 1, 5);
