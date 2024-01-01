@@ -549,3 +549,5 @@ insert into room_item_detail values (2835, 1, '真步製作的可愛蜥蜴玩偶
 insert into room_item_detail values (2836, 1, '據說是可測量碰觸者運氣的神祕結晶。越是幸運，發出的光芒會越明亮。據說彩虹色的光輝代表最大的幸運。', 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into room_item_detail values (2837, 1, '無邊無際的天空背景。那澄澈的蒼藍天空，刺激著人們對未知冒險的憧憬。', 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into room_item_detail values (2838, 1, '無邊無際的天空背景。那澄澈的蒼藍天空，刺激著人們對未知冒險的憧憬。', 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into room_item_detail values (2839, 1, '凱留在安布羅斯魔法學園中使用的置物櫃。裡頭不只放了課本與文具，也裝滿了青春日常的回憶。', 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into room_item_detail values (2840, 1, '鈴奈在安布羅斯魔法學園中使用的置物櫃。裡頭裝著滿滿的放學後閃耀動人的青春回憶。', 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);

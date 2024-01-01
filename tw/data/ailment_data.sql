@@ -46,3 +46,4 @@ insert into ailment_data values (44, 99, 2, '加速領域');
 insert into ailment_data values (45, 99, 1, '緩速領域');
 insert into ailment_data values (46, 49, 20, '消除增益（指定）');
 insert into ailment_data values (47, 101, 5, '擊打烙印（攻擊命中）');
+insert into ailment_data values (48, 79, 10, '行動時界雷傷害');
