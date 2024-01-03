@@ -230,6 +230,7 @@ insert into actual_unit_background values (127631, '太刀洗 流夏', 510290, 4
 insert into actual_unit_background values (127931, 'ユースティアナ・フォン・アストライア', 510125, 4);
 insert into actual_unit_background values (128031, 'クレア・ボヤンシア', 510301, 4);
 insert into actual_unit_background values (128331, '一ノ瀬 祈梨', 510290, 4);
+insert into actual_unit_background values (128431, '柏崎 初音', 510103, 4);
 insert into actual_unit_background values (180131, '春咲 ひより', 510121, 4);
 insert into actual_unit_background values (180231, '草野 優衣', 510350, 2);
 insert into actual_unit_background values (180331, '士条 怜', 510100, 2);

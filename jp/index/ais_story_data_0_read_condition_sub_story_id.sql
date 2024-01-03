@@ -1,0 +1,1 @@
+CREATE INDEX 'ais_story_data_0_read_condition_sub_story_id' on 'ais_story_data'('read_condition_sub_story_id')

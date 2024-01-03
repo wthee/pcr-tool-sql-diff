@@ -237,6 +237,7 @@ insert into unit_background values (127601, 'ルカ（サラサリア）', 50137
 insert into unit_background values (127901, 'ペコリーヌ（クリスマス）', 500036, 'ランドソル_繁華街_クリスマス_昼', 0.0, 2);
 insert into unit_background values (128001, 'クレジッタ（クリスマス）', 500036, 'ランドソル_繁華街_クリスマス_昼', 0.0, 2);
 insert into unit_background values (128301, 'イノリ（ニューイヤー）', 500893, '路地裏_雪_昼', 0.0, 4);
+insert into unit_background values (128401, 'ハツネ（ニューイヤー）', 501470, 'ランドソル_繁華街_お正月_昼', 0.0, 4);
 insert into unit_background values (180101, 'ヒヨリ（プリンセス）', 500130, 'エステレラ街道', 0.0, 2);
 insert into unit_background values (180201, 'ユイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 4);
 insert into unit_background values (180301, 'レイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 3);

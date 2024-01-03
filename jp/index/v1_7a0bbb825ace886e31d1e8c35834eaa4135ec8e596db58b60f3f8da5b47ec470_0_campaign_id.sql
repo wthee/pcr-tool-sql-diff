@@ -1,0 +1,1 @@
+CREATE INDEX 'v1_7a0bbb825ace886e31d1e8c35834eaa4135ec8e596db58b60f3f8da5b47ec470_0_campaign_id' on 'v1_7a0bbb825ace886e31d1e8c35834eaa4135ec8e596db58b60f3f8da5b47ec470'('697ce8ffd0cad0bfb69e0390e41feb4da92ffe728abf920f96fd4ad0eac9c4a7')
