@@ -655,3 +655,4 @@ insert into gacha_exchange_lineup values (659, 278, 180401, 3, 0, '2024/01/01 16
 insert into gacha_exchange_lineup values (660, 278, 107001, 3, 0, '2024/01/01 16:00:00', '2024/01/04 15:59:59');
 insert into gacha_exchange_lineup values (661, 278, 106101, 3, 0, '2024/01/01 16:00:00', '2024/01/04 15:59:59');
 insert into gacha_exchange_lineup values (662, 278, 107101, 3, 0, '2024/01/01 16:00:00', '2024/01/04 15:59:59');
+insert into gacha_exchange_lineup values (663, 279, 127201, 3, 1122, '2024/01/04 16:00:00', '2024/01/14 15:59:59');
