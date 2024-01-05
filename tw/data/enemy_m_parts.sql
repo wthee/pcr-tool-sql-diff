@@ -364,6 +364,11 @@ insert into enemy_m_parts values (502007212, '劍蛇 19層', 502007213, 50200721
 insert into enemy_m_parts values (502007312, '劍蛇 29層', 502007313, 502007314, 502007315, 0, 0);
 insert into enemy_m_parts values (502007412, '劍蛇 39層', 502007413, 502007414, 502007415, 0, 0);
 insert into enemy_m_parts values (502007512, '劍蛇 49層', 502007513, 502007514, 502007515, 0, 0);
+insert into enemy_m_parts values (550103114, '黑曜飛龍 第1階段（次元斷層）', 550103115, 550103116, 550103117, 0, 0);
+insert into enemy_m_parts values (550103216, '黑曜飛龍 第2階段（次元斷層）', 550103217, 550103218, 550103219, 0, 0);
+insert into enemy_m_parts values (550103317, '黑曜飛龍 第3階段（次元斷層）', 550103318, 550103319, 550103320, 0, 0);
+insert into enemy_m_parts values (550103417, '黑曜飛龍 第4階段（次元斷層）', 550103418, 550103419, 550103420, 0, 0);
+insert into enemy_m_parts values (550103517, '黑曜飛龍 第5階段（次元斷層）', 550103518, 550103519, 550103520, 0, 0);
 insert into enemy_m_parts values (610017101, '貝特魯吉烏斯 NORMAL', 610017102, 610017103, 610017104, 0, 0);
 insert into enemy_m_parts values (610017201, '貝特魯吉烏斯 HARD', 610017202, 610017203, 610017204, 0, 0);
 insert into enemy_m_parts values (610017301, '貝特魯吉烏斯 VERY HARD', 610017302, 610017303, 610017304, 0, 0);
