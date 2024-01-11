@@ -1,0 +1,1 @@
+CREATE INDEX 'extra_effect_target_range_0_set_id' on 'extra_effect_target_range'('set_id')

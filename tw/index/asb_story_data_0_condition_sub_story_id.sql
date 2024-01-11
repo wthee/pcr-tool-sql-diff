@@ -1,0 +1,1 @@
+CREATE INDEX 'asb_story_data_0_condition_sub_story_id' on 'asb_story_data'('condition_sub_story_id')
