@@ -220,3 +220,6 @@ insert into experience_team values (218, 671059, 276, 999, 30);
 insert into experience_team values (219, 675484, 277, 999, 30);
 insert into experience_team values (220, 679909, 278, 999, 30);
 insert into experience_team values (221, 684334, 279, 999, 30);
+insert into experience_team values (222, 688759, 280, 999, 30);
+insert into experience_team values (223, 693184, 281, 999, 30);
+insert into experience_team values (224, 697609, 282, 999, 30);

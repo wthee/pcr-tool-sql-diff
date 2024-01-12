@@ -12,3 +12,4 @@ insert into event_reminder_condition values (1007301, 1007301, 1, 5046601);
 insert into event_reminder_condition values (1007501, 1007501, 1, 5048007);
 insert into event_reminder_condition values (1007502, 1007502, 2, 1004801);
 insert into event_reminder_condition values (1008201, 1008201, 6, 0);
+insert into event_reminder_condition values (1008301, 1008301, 1, 5056601);

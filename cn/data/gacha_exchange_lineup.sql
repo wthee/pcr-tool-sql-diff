@@ -323,3 +323,8 @@ insert into gacha_exchange_lineup values (324, 172, 107101, 3, 0, '2023/12/29 11
 insert into gacha_exchange_lineup values (325, 173, 120701, 3, 1067, '2024/01/01 18:00:00', '2024/01/11 10:59:59');
 insert into gacha_exchange_lineup values (326, 174, 111801, 3, 0, '2024/01/11 11:00:00', '2024/01/15 10:59:59');
 insert into gacha_exchange_lineup values (327, 174, 115001, 3, 0, '2024/01/11 11:00:00', '2024/01/15 10:59:59');
+insert into gacha_exchange_lineup values (328, 175, 120901, 3, 1068, '2024/01/15 11:00:00', '2024/01/24 10:59:59');
+insert into gacha_exchange_lineup values (329, 176, 108801, 3, 0, '2024/01/24 11:00:00', '2024/01/27 10:59:59');
+insert into gacha_exchange_lineup values (330, 176, 108701, 3, 0, '2024/01/24 11:00:00', '2024/01/27 10:59:59');
+insert into gacha_exchange_lineup values (331, 177, 112001, 3, 0, '2024/01/27 11:00:00', '2024/01/31 10:59:59');
+insert into gacha_exchange_lineup values (332, 177, 111901, 3, 0, '2024/01/27 11:00:00', '2024/01/31 10:59:59');
