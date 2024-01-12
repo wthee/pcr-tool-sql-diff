@@ -3841,6 +3841,7 @@ insert into skip_monster_data values (13064002, 13063, 'アパレーユ街道・
 insert into skip_monster_data values (13064003, 13063, 'アパレーユ街道・東側 64-3', 103640301, 103193);
 insert into skip_monster_data values (13065001, 13065, 'キャッスル・オブ・パルフェ城下町 65-1', 103650101, 103193);
 insert into skip_monster_data values (13065002, 13065, 'キャッスル・オブ・パルフェ城下町 65-2', 103650201, 103193);
+insert into skip_monster_data values (13065003, 13065, 'キャッスル・オブ・パルフェ城下町 65-3', 103650301, 103193);
 insert into skip_monster_data values (18001001, 18001, '聖跡調査クエストLv1', 108010108, 101331);
 insert into skip_monster_data values (18001002, 18001, '聖跡調査クエストLv2', 108010208, 101341);
 insert into skip_monster_data values (18001003, 18001, '聖跡調査クエストLv3', 108010308, 101341);

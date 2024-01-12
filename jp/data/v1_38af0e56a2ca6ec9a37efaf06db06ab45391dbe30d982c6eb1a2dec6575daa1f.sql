@@ -876,7 +876,7 @@ insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f 
 insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f values (1630036, 6, 3, 2, 0, 'スキージャンプの飛型点は、審判1人につき「100点満点」でつけられる', 1);
 insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f values (1630038, 6, 3, 2, 0, '相撲の技で、相手の目の前でパチンと手を叩く戦法を「猫だまし」という', 1);
 insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f values (1630039, 6, 3, 2, 0, 'ゴルフで、一般的にバンカーからの打球で使われるクラブは「ドライバー」である', 1);
-insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f values (1630040, 6, 3, 2, 0, 'サッカーで、ディフェンダーが前線に上がり攻撃参加することを「オーバーラップ」という', 1);
+insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f values (1630040, 6, 3, 2, 0, 'サッカーで、ボールを保持している選手を、後方の選手が追い越していくプレーを「オーバーラップ」という', 1);
 insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f values (1630041, 6, 3, 2, 0, 'ラグビーは、「サッカーに熱中するあまりボールを手で持ってしまった」ことから生まれたスポーツである', 1);
 insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f values (1630043, 6, 3, 2, 0, '雪合戦の国際ルールでは、1チームの人数は「7人」で行われる', 1);
 insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f values (1630044, 6, 3, 2, 0, 'テニスで、ラケットに張る弦を「ガット」という', 1);
