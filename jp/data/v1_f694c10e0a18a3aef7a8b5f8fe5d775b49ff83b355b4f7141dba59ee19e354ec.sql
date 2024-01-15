@@ -16,3 +16,4 @@ insert into v1_f694c10e0a18a3aef7a8b5f8fe5d775b49ff83b355b4f7141dba59ee19e354ec 
 insert into v1_f694c10e0a18a3aef7a8b5f8fe5d775b49ff83b355b4f7141dba59ee19e354ec values (32006, 1, 'スペシャルダンジョン', '期間限定ダンジョンの踏破に挑戦', 31006, 0, 0, 0, 0, 10, 0, 0, 0, 100, 100);
 insert into v1_f694c10e0a18a3aef7a8b5f8fe5d775b49ff83b355b4f7141dba59ee19e354ec values (32007, 1, 'スペシャルダンジョン', '期間限定ダンジョンの踏破に挑戦', 31006, 0, 0, 0, 0, 10, 0, 0, 0, 100, 100);
 insert into v1_f694c10e0a18a3aef7a8b5f8fe5d775b49ff83b355b4f7141dba59ee19e354ec values (32008, 1, 'スペシャルダンジョン', '期間限定ダンジョンの踏破に挑戦', 31006, 0, 0, 0, 0, 10, 0, 0, 0, 100, 100);
+insert into v1_f694c10e0a18a3aef7a8b5f8fe5d775b49ff83b355b4f7141dba59ee19e354ec values (32009, 1, 'スペシャルダンジョン', '期間限定ダンジョンの踏破に挑戦', 31006, 0, 0, 0, 0, 10, 0, 0, 0, 100, 100);

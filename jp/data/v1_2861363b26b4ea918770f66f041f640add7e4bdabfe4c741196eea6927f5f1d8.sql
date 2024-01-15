@@ -280,3 +280,5 @@ insert into v1_2861363b26b4ea918770f66f041f640add7e4bdabfe4c741196eea6927f5f1d8 
 insert into v1_2861363b26b4ea918770f66f041f640add7e4bdabfe4c741196eea6927f5f1d8 values (1013302, '1013320102', 'ジュンのメモリーピース', 99002, '');
 insert into v1_2861363b26b4ea918770f66f041f640add7e4bdabfe4c741196eea6927f5f1d8 values (1013401, '1013420101', 'イノリ（ニューイヤー）のメモリーピース', 99002, '');
 insert into v1_2861363b26b4ea918770f66f041f640add7e4bdabfe4c741196eea6927f5f1d8 values (1013402, '1013420102', 'カスミのメモリーピース', 99002, '');
+insert into v1_2861363b26b4ea918770f66f041f640add7e4bdabfe4c741196eea6927f5f1d8 values (1013501, '1013520101', 'ミツキ（ニューイヤー）のメモリーピース', 99002, '');
+insert into v1_2861363b26b4ea918770f66f041f640add7e4bdabfe4c741196eea6927f5f1d8 values (1013502, '1013520102', 'イノリのメモリーピース', 99002, '');
