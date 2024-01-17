@@ -79,3 +79,13 @@ insert into secret_dungeon_floor_reward values (32008, 35, 2, 90008, 3500, 4, 14
 insert into secret_dungeon_floor_reward values (32008, 40, 2, 90008, 4000, 4, 140001, 5, 2, 25001, 1, 12, 94002, 1000000, 0, 0, 0, 1, 4);
 insert into secret_dungeon_floor_reward values (32008, 45, 2, 90008, 4500, 4, 140001, 15, 2, 90005, 5, 12, 94002, 2000000, 0, 0, 0, 1, 4);
 insert into secret_dungeon_floor_reward values (32008, 50, 2, 90008, 5000, 4, 140001, 5, 2, 25001, 1, 12, 94002, 2000000, 0, 0, 0, 1, 4);
+insert into secret_dungeon_floor_reward values (32009, 5, 2, 90008, 500, 4, 140001, 15, 2, 90005, 10, 12, 94002, 500000, 0, 0, 0, 1, 1);
+insert into secret_dungeon_floor_reward values (32009, 10, 8, 91002, 100, 2, 21951, 1, 4, 140001, 5, 2, 25001, 1, 12, 94002, 500000, 1, 1);
+insert into secret_dungeon_floor_reward values (32009, 15, 2, 90008, 1000, 4, 140001, 15, 2, 90005, 5, 12, 94002, 750000, 0, 0, 0, 1, 2);
+insert into secret_dungeon_floor_reward values (32009, 20, 8, 91002, 150, 4, 140001, 5, 2, 25001, 1, 12, 94002, 750000, 0, 0, 0, 1, 2);
+insert into secret_dungeon_floor_reward values (32009, 25, 2, 90008, 1500, 4, 140001, 15, 2, 90005, 5, 12, 94002, 750000, 0, 0, 0, 1, 2);
+insert into secret_dungeon_floor_reward values (32009, 30, 8, 91002, 250, 2, 90008, 3000, 4, 140001, 5, 2, 25001, 1, 12, 94002, 750000, 1, 3);
+insert into secret_dungeon_floor_reward values (32009, 35, 2, 90008, 3500, 4, 140001, 15, 2, 90005, 5, 12, 94002, 1000000, 0, 0, 0, 1, 3);
+insert into secret_dungeon_floor_reward values (32009, 40, 2, 90008, 4000, 4, 140001, 5, 2, 25001, 1, 12, 94002, 1000000, 0, 0, 0, 1, 4);
+insert into secret_dungeon_floor_reward values (32009, 45, 2, 90008, 4500, 4, 140001, 15, 2, 90005, 5, 12, 94002, 2000000, 0, 0, 0, 1, 4);
+insert into secret_dungeon_floor_reward values (32009, 50, 2, 90008, 5000, 4, 140001, 5, 2, 25001, 1, 12, 94002, 2000000, 0, 0, 0, 1, 4);

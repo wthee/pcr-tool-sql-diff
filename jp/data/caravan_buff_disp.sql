@@ -29,6 +29,7 @@ insert into caravan_buff_disp values (27, 2, 98011, 3, 2, '【イベント】次
 insert into caravan_buff_disp values (28, 2, 98012, 3, 2, '【イベント】次のターン数のカウントをスキップする', 0, 0);
 insert into caravan_buff_disp values (29, 1, 52020, 1, 10, '【料理】移動時にマイルマスをスキップできる。', 0, 0);
 insert into caravan_buff_disp values (30, 1, 52020, 1, 1, '【料理】次回移動時に1マス分多く進める。', 2, 2);
+insert into caravan_buff_disp values (31, 1, 52021, 1, 10, '【料理】移動時にトレジャーマスをスキップできる。', 0, 0);
 insert into caravan_buff_disp values (1001, 3, 1, 1, 99, '最大ｎマイルを入手する', 0, 0);
 insert into caravan_buff_disp values (1002, 3, 2, 1, 99, 'ダイスを1回振りなおせる', 0, 0);
 insert into caravan_buff_disp values (1003, 3, 3, 1, 99, 'ダイスを1回振りなおせる_有効ターン2', 0, 0);

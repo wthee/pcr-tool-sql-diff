@@ -39,3 +39,8 @@ insert into secret_dungeon_enemy_info values (32008, 7, 'カース・オラム')
 insert into secret_dungeon_enemy_info values (32008, 8, 'ゴブリンライダー');
 insert into secret_dungeon_enemy_info values (32008, 9, 'ライデン');
 insert into secret_dungeon_enemy_info values (32008, 10, 'アルティマガーディアン');
+insert into secret_dungeon_enemy_info values (32009, 6, 'イワノヅチ');
+insert into secret_dungeon_enemy_info values (32009, 7, '紅極鳥');
+insert into secret_dungeon_enemy_info values (32009, 8, 'ワイバーン');
+insert into secret_dungeon_enemy_info values (32009, 9, 'トライロッカー');
+insert into secret_dungeon_enemy_info values (32009, 10, 'アルティマガーディアン');
