@@ -1,23 +1,19 @@
 # pcr-tool-sql-diff 
 
-公主连结数据库
-
-- 在游戏数据有更新时，将自动提交最新数据
+公主连结数据库，在游戏数据有更新时，将自动提交最新数据
 
 - 数据库文件获取工具：[esterTion/unity-texture-toolkit](https://github.com/esterTion/unity-texture-toolkit)
 - 数据库表重命名工具：[peterli110/pcr-hash-table-rename](https://github.com/peterli110/pcr-hash-table-rename)
 
-#### 数据库文件
+## 数据库文件
 
 > .db为原文件
->
 > .br为压缩后的文件，需自行解压
->
-> XXXredive_xx.db 为 [PCR Tool](https://github.com/wthee/pcr-tool) 版本更新时的备份文件
+> XXXredive_xx.db.br 为 [PCR Tool](https://github.com/wthee/pcr-tool) 版本更新时的备份文件
 
 - [查看文件列表](http://wthee.xyz/db/)
 
-#### 数据版本接口
+## 数据版本接口
 
 > 可用于判断数据库文件是否有更新
 
