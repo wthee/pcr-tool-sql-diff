@@ -123,4 +123,3 @@ insert into enemy_enable_voice values (319303, 319300);
 insert into enemy_enable_voice values (319304, 319300);
 insert into enemy_enable_voice values (319305, 319300);
 insert into enemy_enable_voice values (319306, 319300);
-insert into enemy_enable_voice values (319700, 319700);

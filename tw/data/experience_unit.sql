@@ -290,6 +290,3 @@ insert into experience_unit values (288, 17319362);
 insert into experience_unit values (289, 17463714);
 insert into experience_unit values (290, 17608666);
 insert into experience_unit values (291, 17754218);
-insert into experience_unit values (292, 17900370);
-insert into experience_unit values (293, 18047122);
-insert into experience_unit values (294, 18194474);

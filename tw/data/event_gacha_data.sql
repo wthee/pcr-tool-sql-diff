@@ -124,5 +124,4 @@ insert into event_gacha_data values (10123, 10123, '破曉之星的夏日遊戲\
 insert into event_gacha_data values (10124, 10124, '戰慄幽奇海岸\u3000～夏日度假村驚悚怪談～', 2, 61232, 1, 6);
 insert into event_gacha_data values (10125, 10125, '小小夏日回憶錄\u3000在海邊發現的小小幸福', 2, 61242, 1, 6);
 insert into event_gacha_data values (10126, 10126, '魔法師的青春時日\u3000魔法學園與奇蹟之鐘', 2, 61252, 1, 6);
-insert into event_gacha_data values (10127, 10127, '真步真步的神奇旅程！\u3000旅行的少女與邊境的大樹', 2, 61262, 1, 6);
 insert into event_gacha_data values (19003, 10003, '吸血鬼獵人 with伊莉亞', 2, 60022, 1, 5);

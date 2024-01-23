@@ -132,7 +132,6 @@ insert into tips values (4126301, 126301, 1, '統御美麗之人');
 insert into tips values (4126401, 126401, 1, '電力耗盡');
 insert into tips values (4126501, 126501, 1, '不讓人發現地偷吃');
 insert into tips values (4127201, 127201, 1, '感覺好像不是這樣');
-insert into tips values (4127301, 127301, 1, '一起享受青春');
 insert into tips values (4180101, 180101, 1, '猜拳時間！');
 insert into tips values (4180201, 180201, 1, '肚子咕咕叫');
 insert into tips values (4180301, 180301, 1, '守護之力');

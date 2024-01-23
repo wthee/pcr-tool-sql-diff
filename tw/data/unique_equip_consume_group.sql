@@ -2,6 +2,3 @@ CREATE TABLE 'unique_equip_consume_group' ('group_id' INTEGER NOT NULL, 'index_i
 insert into unique_equip_consume_group values (1, 1, 32025);
 insert into unique_equip_consume_group values (2, 1, 32046);
 insert into unique_equip_consume_group values (3, 1, 32048);
-insert into unique_equip_consume_group values (4, 1, 32016);
-insert into unique_equip_consume_group values (5, 1, 32060);
-insert into unique_equip_consume_group values (5, 2, 32078);

@@ -16,8 +16,3 @@ insert into caravan_buff_disp values (14, 1, 52010, 2, 6, '【料理】「里程
 insert into caravan_buff_disp values (15, 1, 52011, 1, 1, '【料理】骰子第1次只會丟出「2」，第2次只會丟出「7」', 0, 0);
 insert into caravan_buff_disp values (16, 1, 52012, 1, 1, '【料理】骰子只會丟出\\n「1・2・3」', 0, 0);
 insert into caravan_buff_disp values (17, 1, 52012, 3, 2, '【料理】跳過下次的回合數計算', 0, 0);
-insert into caravan_buff_disp values (18, 1, 52014, 1, 8, '【料理】移動時將可以跳過里程格。', 0, 0);
-insert into caravan_buff_disp values (19, 1, 52005, 1, 1, '【料理】下次移動時，將多移動1格。', 0, 0);
-insert into caravan_buff_disp values (20, 1, 52014, 1, 1, '【料理】下次移動時，將多移動1格。', 2, 2);
-insert into caravan_buff_disp values (21, 1, 52015, 1, 1, '【料理】骰子增加成為兩個', 0, 0);
-insert into caravan_buff_disp values (22, 1, 52015, 1, 1, '【料理】下次移動時，將多移動1格。', 0, 0);
