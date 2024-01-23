@@ -816,9 +816,9 @@ insert into unit_attack_pattern values (30400001, 304000, 1, 7, 1, 1, 1001, 1, 1
 insert into unit_attack_pattern values (30400002, 304000, 2, 6, 1, 1001, 1, 1, 1001, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1);
 insert into unit_attack_pattern values (30400101, 304001, 1, 7, 1, 1, 1001, 1, 1, 1, 1001, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1);
 insert into unit_attack_pattern values (30410001, 304100, 1, 5, 1, 1, 1, 1001, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into unit_attack_pattern values (30410101, 304101, 1, 5, 1002, 1002, 1002, 1001, 1008, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into unit_attack_pattern values (30410101, 304101, 1, 5, 1002, 1002, 1002, 1002, 1001, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unit_attack_pattern values (30410102, 304101, 1, 5, 1007, 1007, 1007, 1007, 1007, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into unit_attack_pattern values (30410201, 304102, 1, 5, 1002, 1002, 1002, 1001, 1008, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into unit_attack_pattern values (30410201, 304102, 1, 5, 1002, 1002, 1002, 1002, 1001, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unit_attack_pattern values (30410202, 304102, 1, 5, 1007, 1007, 1007, 1007, 1007, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unit_attack_pattern values (30420001, 304200, 1, 7, 1, 1, 1001, 1, 1, 1, 1001, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unit_attack_pattern values (30420101, 304201, 1, 6, 1, 1002, 1, 1001, 1, 1002, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
