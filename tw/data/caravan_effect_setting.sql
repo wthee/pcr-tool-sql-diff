@@ -25,3 +25,4 @@ insert into caravan_effect_setting values (7000, 7, 0, 0, 90002);
 insert into caravan_effect_setting values (7001, 7, 0, 1, 90002);
 insert into caravan_effect_setting values (7002, 7, 0, 2, 90003);
 insert into caravan_effect_setting values (100001, 100, 1, 0, 1);
+insert into caravan_effect_setting values (100002, 100, 2, 0, 1);

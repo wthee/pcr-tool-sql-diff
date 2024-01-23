@@ -299,3 +299,16 @@ insert into music_content values (297, '那個春天，從日記的續篇開始'
 insert into music_content values (298, '萊拉耶爾', '2:37', '0:00', '角色主題曲\\n-「萬花綻放的新天地」編曲-\\n\\n時間 / 02:37\\n作曲 / 守谷勇人、佐藤遥（Cygames）\\n編曲 / 守谷勇人', 'bgm_MC024', 'bgm_MC024_juke');
 insert into music_content values (299, '做好要學習的準備了嗎？', '1:19', '0:00', '小遊戲\\n-「那個春天，從日記的續篇開始」編曲-\\n\\n時間 / 01:19\\n作曲 / 瀬名航（SOVA）\\n編曲 / 畑田浩孝（Cygames）', 'bgm_MC067', 'bgm_MC067_juke');
 insert into music_content values (300, '放學後的讀書會', '1:15', '0:00', '小遊戲\\n-「那個春天，從日記的續篇開始」編曲-\\n\\n時間 / 01:15\\n作曲 / 瀬名航（SOVA）\\n編曲 / Enarak（Cygames）', 'bgm_MC068', 'bgm_MC068_juke');
+insert into music_content values (301, '浪漫薩拉薩利亞\u3000～沙漠的新娘與不可思議的神燈～', '1:46', '0:00', '故事劇情主題曲\\n-「Adenium」編曲-\\n\\n時間 / 01:46\\n作曲 / 山口朗彦\\n編曲 / 畑田浩孝（Cygames）', 'bgm_MC075', 'bgm_MC075_juke');
+insert into music_content values (302, '哈立德', '2:18', '0:00', '故事劇情Boss戰\\n\\n時間 / 02:18\\n作曲 / 植田能平\\n編曲 / 植田能平', 'bgm_MC077', 'bgm_MC077_juke');
+insert into music_content values (303, 'Adenium', '1:37', '0:57', '角色歌曲\\n\\n時間 / 01:37\\n演唱\u3000 / 咲戀（堀江由衣）\\n\u3000\u3000\u3000流夏（佐藤利奈）\\n作詞 / 山口朗彦\\n作曲 / 山口朗彦\\n編曲 / 山口朗彦', 'bgm_MC074', 'bgm_MC074');
+insert into music_content values (304, '蠻賊三姊妹', '1:59', '0:00', '角色主題曲\\n\\n時間 / 01:59\\n作曲 / 関根修平（Cygames）\\n編曲 / 関根修平（Cygames）', 'bgm_MC032', 'bgm_MC032_juke');
+insert into music_content values (305, '夢幻的婚姻模擬遊戲', '2:52', '0:00', '故事劇情迷你內容\\n-「Adenium」編曲-\\n\\n時間 / 02:52\\n作曲 / 山口朗彦\\n編曲 / 佐藤遥（Cygames）', 'bgm_MC078', 'bgm_MC078_juke');
+insert into music_content values (306, '有魔物！！', '0:50', '0:00', '主線冒險Boss戰\\n\\n時間 / 00:50\\n作曲 / 本田晃弘（Cygames）\\n編曲 / 多田彰文', 'bgm_M17', 'bgm_M17_02_juke');
+insert into music_content values (307, '新天地的強敵', '1:02', '0:00', '主線冒險Boss戰\\n\\n時間 / 01:02\\n作曲 / 東大路憲太\\n編曲 / 東大路憲太', 'bgm_M170', 'bgm_M170_juke');
+insert into music_content values (308, 'Criminal Rookie\u3000天使們的悖論', '1:31', '0:00', '故事劇情主題曲\\n-「Ylide Lotus」編曲-\\n\\n時間 / 01:31\\n作曲 / 宮谷礼治\\n編曲 / 佐藤遥（Cygames）', 'bgm_MC082', 'bgm_MC082_juke');
+insert into music_content values (309, '最終冒險★', '2:15', '0:00', '故事劇情Boss戰\\n\\n時間 / 02:15\\n作曲 / IM.Lab\\n編曲 / IM.Lab', 'bgm_MC085', 'bgm_MC085_juke');
+insert into music_content values (310, 'Ylide Lotus', '1:27', '0:41', '角色歌曲\\n\\n時間 / 01:27\\n演唱\u3000 / 莉莉（鈴木みのり）\\n\u3000\u3000\u3000可璃亞（前田佳織里）\\n\u3000\u3000\u3000普蕾西亞（高尾奏音）\\n作詞 / 宮谷礼治\\n作曲 / 宮谷礼治\\n編曲 / アッシュ井上（Dream Monster）', 'bgm_MC089', 'bgm_MC089');
+insert into music_content values (311, '旅行與成長（與反省）的記錄', '1:35', '0:00', '故事劇情迷你內容\\n-「Ylide Lotus」編曲-\\n\\n時間 / 01:35\\n作曲 / 宮谷礼治\\n編曲 / 田山里奈', 'bgm_MC083B', 'bgm_MC083B_02_juke');
+insert into music_content values (312, '幻變少女', '2:41', '0:00', '角色主題曲\\n\\n時間 / 02:41\\n作曲 / Enarak（Cygames）\\n編曲 / Enarak（Cygames）', 'bgm_MC002', 'bgm_MC002_juke');
+insert into music_content values (313, '探險', '1:21', '0:00', '探險\\n\\n時間 / 01:21\\n作曲 / 西村真吾\\n編曲 / 西村真吾', 'bgm_M615', 'bgm_M615_juke');
