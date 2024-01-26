@@ -88,6 +88,7 @@ insert into tips values (4115901, 115901, 1, '轻飘飘');
 insert into tips values (4116001, 116001, 1, '装模作样');
 insert into tips values (4116201, 116201, 1, '黄色加油声');
 insert into tips values (4116301, 116301, 1, '切噜式的跑法');
+insert into tips values (4116401, 116401, 1, '擅长和不擅长');
 insert into tips values (4116501, 116501, 1, '征服完毕！');
 insert into tips values (4116601, 116601, 1, '工作中');
 insert into tips values (4116701, 116701, 1, '擅长领域（可能）');

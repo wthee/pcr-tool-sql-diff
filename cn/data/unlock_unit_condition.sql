@@ -144,6 +144,7 @@ insert into unlock_unit_condition values (115901, '真琴（灰姑娘）', 1, 0,
 insert into unlock_unit_condition values (116001, '真步（灰姑娘）', 1, 0, 1, 2, 31160, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (116201, '克罗依（圣学祭）', 1, 0, 1, 2, 31162, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (116301, '千爱瑠（圣学祭）', 1, 0, 1, 2, 31163, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
+insert into unlock_unit_condition values (116401, '优妮（圣学祭）', 1, 0, 1, 2, 31164, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3);
 insert into unlock_unit_condition values (116501, '祈梨（时间旅行）', 1, 0, 1, 2, 31165, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (116601, '嘉夜（时间旅行）', 1, 0, 1, 2, 31166, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (116701, '碧（工作服）', 1, 0, 1, 2, 31167, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
@@ -169,6 +170,8 @@ insert into unlock_unit_condition values (119901, '宫子（圣诞节）', 1, 0,
 insert into unlock_unit_condition values (120701, '雪菲（新年）', 1, 0, 1, 2, 31207, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (120801, '流夏（新年）', 1, 0, 1, 2, 31208, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (120901, '伊莉亚（新年）', 1, 0, 1, 2, 31209, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
+insert into unlock_unit_condition values (121001, '佩可莉姆（超负荷）', 1, 0, 1, 2, 31210, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
+insert into unlock_unit_condition values (121201, '菈比莉斯塔（超负荷）', 1, 0, 1, 2, 31212, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (170101, '环奈', 1, 0, 1, 2, 31701, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unlock_unit_condition values (170201, '环奈（振袖）', 1, 0, 1, 2, 31702, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unlock_unit_condition values (180101, '日和莉（公主）', 1, 0, 1, 2, 31801, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
