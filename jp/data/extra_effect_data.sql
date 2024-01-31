@@ -5,3 +5,9 @@ insert into extra_effect_data values (102311003, 16, 610132009, 0, 61013201, 1, 
 insert into extra_effect_data values (102312001, 16, 610134007, 0, 61013401, 1, 0, 0, 0, 0, 610134504, 0, 0, 0, 0);
 insert into extra_effect_data values (102312002, 16, 610134008, 0, 61013401, 1, 0, 0, 0, 0, 610134504, 0, 0, 0, 0);
 insert into extra_effect_data values (102312003, 16, 610134009, 0, 61013401, 1, 0, 0, 0, 0, 610134504, 0, 0, 0, 0);
+insert into extra_effect_data values (102401001, 16, 610136004, 0, 61013601, 1, 0, 0, 0, 0, 610136404, 0, 0, 0, 0);
+insert into extra_effect_data values (102401002, 16, 610136005, 0, 61013601, 1, 0, 0, 0, 0, 610136405, 0, 0, 0, 0);
+insert into extra_effect_data values (102401003, 16, 610136006, 0, 61013601, 1, 0, 0, 0, 0, 610136406, 0, 0, 0, 0);
+insert into extra_effect_data values (102401004, 16, 610136007, 0, 61013601, 1, 0, 0, 0, 0, 610136504, 0, 0, 0, 0);
+insert into extra_effect_data values (102401005, 16, 610136008, 0, 61013601, 1, 0, 0, 0, 0, 610136505, 0, 0, 0, 0);
+insert into extra_effect_data values (102401006, 16, 610136009, 0, 61013601, 1, 0, 0, 0, 0, 610136506, 0, 0, 0, 0);

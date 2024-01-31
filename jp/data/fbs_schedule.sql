@@ -65,3 +65,7 @@ insert into fbs_schedule values (63, 4010063, '2024/1/12 5:00:00', '2024/1/13 4:
 insert into fbs_schedule values (64, 4010064, '2024/1/17 5:00:00', '2024/1/18 4:59:59');
 insert into fbs_schedule values (65, 4010065, '2024/1/23 5:00:00', '2024/1/24 4:59:59');
 insert into fbs_schedule values (66, 4010066, '2024/1/24 5:00:00', '2024/1/25 4:59:59');
+insert into fbs_schedule values (67, 4010067, '2024/2/2 5:00:00', '2024/2/3 4:59:59');
+insert into fbs_schedule values (68, 4010068, '2024/2/4 5:00:00', '2024/2/5 4:59:59');
+insert into fbs_schedule values (69, 4010069, '2024/2/7 5:00:00', '2024/2/8 4:59:59');
+insert into fbs_schedule values (70, 4010070, '2024/2/18 5:00:00', '2024/2/19 4:59:59');

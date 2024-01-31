@@ -772,6 +772,13 @@ insert into hatsune_description values (1013503, 10135, 1, '強力なボス、VE
 insert into hatsune_description values (1013504, 10135, 1, '討伐証交換は、報酬ゲットのチャンスです。\\n報酬の中には、イベントに登場するキャラのメモリーピースもあります。\\nたくさん集めてキャラを仲間にしましょう。');
 insert into hatsune_description values (1013505, 10135, 3, 'SPECIALはバトルモードが３段階変化するバトルです。\\nより豪華な報酬やミッション報酬をゲットしましょう。\\n期間中１体しか討伐できないので編成を工夫して挑戦しましょう。');
 insert into hatsune_description values (1013506, 10135, 3, 'EXHIBITIONでは、SPECIALのボスと何度も戦えます。\\nまた、バトルのログを保存して振り返ることができるので、\\n独自の攻略法を見つけたり、様々な編成を試してみましょう。');
+insert into hatsune_description values (1013601, 10136, 1, 'イベントでは、特別なストーリーを楽しめます。\\nイベントストーリーはイベントクエストを進めると解放されていきます。');
+insert into hatsune_description values (1013602, 10136, 1, 'イベント限定のミッションを達成すると解放できる\\nキャラが登場します。イベントの期間内に\\nミッションクリアを目指しましょう。');
+insert into hatsune_description values (1013603, 10136, 1, '強力なボス、VERY HARDが登場します。\\nVERY HARDボスは１日に１体討伐が可能です。\\n準備をしっかりして、気を引き締めて挑みましょう。');
+insert into hatsune_description values (1013604, 10136, 1, '討伐証交換は、報酬ゲットのチャンスです。\\n報酬の中には、イベントに登場するキャラのメモリーピースもあります。\\nたくさん集めてキャラを仲間にしましょう。');
+insert into hatsune_description values (1013605, 10136, 3, 'SPECIALはバトルモードが３段階変化するバトルです。\\nより豪華な報酬やミッション報酬をゲットしましょう。\\n期間中１体しか討伐できないので編成を工夫して挑戦しましょう。');
+insert into hatsune_description values (1013606, 10136, 3, 'EXHIBITIONでは、SPECIALのボスと何度も戦えます。\\nまた、バトルのログを保存して振り返ることができるので、\\n独自の攻略法を見つけたり、様々な編成を試してみましょう。');
+insert into hatsune_description values (1013607, 10136, 7, 'EXHIBITION＋は、SPECIALがさらに強力になったボスバトルです。\\nボスチケットは消費されませんが、討伐までの挑戦回数に制限がござい\\nます。アドバンス効果で強化されたキャラと共に強敵に挑みましょう。');
 insert into hatsune_description values (100210105, 10021, 1, 'イベントでは、特別なストーリーを楽しめます。\\nイベントストーリーはイベントクエストを進めると解放されていきます。');
 insert into hatsune_description values (100210106, 10021, 1, 'イベント限定のミッションを達成すると解放できる\\nキャラが登場します。イベントの期間内に\\nミッションクリアを目指しましょう。');
 insert into hatsune_description values (100210107, 10021, 1, '強力なボス、VERY HARDが登場します。\\nVERY HARDボスは１日に１体討伐が可能です。\\n準備をしっかりして、気を引き締めて挑みましょう。');
