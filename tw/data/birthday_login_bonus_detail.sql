@@ -199,3 +199,8 @@ insert into birthday_login_bonus_detail values (200, 9105003, 2, 31050, 10);
 insert into birthday_login_bonus_detail values (201, 9100303, 2, 31003, 10);
 insert into birthday_login_bonus_detail values (202, 9100703, 2, 31007, 10);
 insert into birthday_login_bonus_detail values (203, 9102903, 2, 31029, 10);
+insert into birthday_login_bonus_detail values (204, 9103603, 2, 31036, 10);
+insert into birthday_login_bonus_detail values (205, 9109303, 2, 31093, 10);
+insert into birthday_login_bonus_detail values (206, 9107103, 2, 31071, 10);
+insert into birthday_login_bonus_detail values (207, 9123003, 2, 31230, 10);
+insert into birthday_login_bonus_detail values (208, 9111003, 2, 31110, 10);
