@@ -21,3 +21,4 @@ insert into travel_ex_event_data values (8000018, '唱一首搖籃曲', 19);
 insert into travel_ex_event_data values (8000019, '比桌板還要硬的工作', 20);
 insert into travel_ex_event_data values (8000020, '導遊們的攝影俱樂部', 21);
 insert into travel_ex_event_data values (8000021, '新的朋友們', 22);
+insert into travel_ex_event_data values (8000022, '相信勝利！', 23);

@@ -31,3 +31,5 @@ insert into travel_quest_result_group values (29, 9, 105);
 insert into travel_quest_result_group values (30, 10, 101);
 insert into travel_quest_result_group values (31, 10, 103);
 insert into travel_quest_result_group values (32, 10, 105);
+insert into travel_quest_result_group values (33, 11, 107);
+insert into travel_quest_result_group values (34, 11, 108);
