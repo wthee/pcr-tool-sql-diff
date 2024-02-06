@@ -12,6 +12,7 @@ insert into season_pack values (40, 0, 19, 0, '', '', 9419, 0, 0, 0, 0, 0, 13, 0
 insert into season_pack values (41, 0, 20, 0, '', '', 9420, 0, 0, 0, 0, 0, 14, 0, 0);
 insert into season_pack values (42, 0, 1, 0, '', '', 9319, 0, 0, 0, 908, 0, 16, 0, 0);
 insert into season_pack values (43, 0, 1, 0, '', '', 9319, 0, 0, 0, 908, 0, 17, 0, 0);
+insert into season_pack values (44, 0, 1, 0, '', '', 9319, 0, 0, 0, 908, 0, 18, 0, 0);
 insert into season_pack values (50, 17001101, 0, 403, '特惠宝石月卡·第{1}天道具包', '特惠宝石月卡·未收取的宝石', 0, 30, 3, 0, 0, 0, 10, 0, 0);
 insert into season_pack values (51, 17001102, 0, 405, '体力礼包中的第{1}天的道具包', '', 0, 30, 3, 0, 0, 0, 11, 0, 0);
 insert into season_pack values (205, 17001103, 0, 405, '每日公主之心礼包中的第{1}天的道具包', '每日公主之心月卡·未收取的宝石', 0, 30, 3, 0, 0, 0, 12, 0, 0);
@@ -28,3 +29,13 @@ insert into season_pack values (10030, 0, 7, 0, '', '', 9408, 0, 0, 0, 0, 0, 4, 
 insert into season_pack values (10031, 0, 10, 0, '', '', 9409, 0, 0, 0, 0, 0, 5, 0, 0);
 insert into season_pack values (10032, 0, 13, 0, '', '', 9410, 0, 0, 0, 0, 0, 6, 0, 0);
 insert into season_pack values (10033, 0, 2, 0, '', '', 9319, 0, 0, 0, 908, 0, 15, 0, 0);
+insert into season_pack values (10045, 0, 20, 0, '', '', 9421, 0, 0, 0, 0, 0, 3, 0, 0);
+insert into season_pack values (10046, 0, 21, 0, '', '', 9422, 0, 0, 0, 0, 0, 4, 0, 0);
+insert into season_pack values (10047, 0, 22, 0, '', '', 9423, 0, 0, 0, 0, 0, 5, 0, 0);
+insert into season_pack values (10048, 0, 23, 0, '', '', 9424, 0, 0, 0, 0, 0, 6, 0, 0);
+insert into season_pack values (10049, 0, 24, 0, '', '', 9425, 0, 0, 0, 0, 0, 7, 0, 0);
+insert into season_pack values (10050, 0, 25, 0, '', '', 9426, 0, 0, 0, 0, 0, 8, 0, 0);
+insert into season_pack values (10051, 0, 26, 0, '', '', 9427, 0, 0, 0, 0, 0, 13, 0, 0);
+insert into season_pack values (10052, 0, 27, 0, '', '', 9428, 0, 0, 0, 0, 0, 14, 0, 0);
+insert into season_pack values (10053, 0, 28, 0, '', '', 9429, 0, 0, 0, 0, 0, 19, 0, 0);
+insert into season_pack values (10054, 0, 29, 0, '', '', 9430, 0, 0, 0, 0, 0, 20, 0, 0);
