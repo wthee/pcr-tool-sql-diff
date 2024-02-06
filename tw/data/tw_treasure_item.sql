@@ -19,3 +19,4 @@ insert into tw_treasure_item values (17, 97517, 2, 3, 97517);
 insert into tw_treasure_item values (18, 97518, 2, 3, 97518);
 insert into tw_treasure_item values (19, 97519, 2, 3, 97519);
 insert into tw_treasure_item values (20, 97520, 2, 3, 97520);
+insert into tw_treasure_item values (21, 97521, 1, 1, 99657);

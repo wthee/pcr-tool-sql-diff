@@ -751,3 +751,8 @@ insert into tw_treasure_item_group values (97520045, 97520, 4, 108253, 1);
 insert into tw_treasure_item_group values (97520046, 97520, 4, 108553, 1);
 insert into tw_treasure_item_group values (97520047, 97520, 4, 108583, 1);
 insert into tw_treasure_item_group values (97520048, 97520, 4, 108613, 1);
+insert into tw_treasure_item_group values (97520049, 97521, 6, 93001, 1000);
+insert into tw_treasure_item_group values (97520050, 97521, 2, 90005, 80);
+insert into tw_treasure_item_group values (97520051, 97521, 4, 140001, 120);
+insert into tw_treasure_item_group values (97520052, 97521, 2, 23002, 60);
+insert into tw_treasure_item_group values (97520053, 97521, 2, 24001, 12);
