@@ -185,3 +185,4 @@ insert into bg_data values ('COLOSSEUM_SELECT_PARTY', 531400, 0);
 insert into bg_data values ('COLOSSEUM_BATTLE_RESULT', 0, 0);
 insert into bg_data values ('HATSUNE_ASB', 0, 0);
 insert into bg_data values ('HATSUNE_NYD', 0, 0);
+insert into bg_data values ('QUEST_SPECIAL_AND_UNIT_EXPAND', 500240, 0);
