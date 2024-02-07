@@ -231,3 +231,4 @@ insert into v1_a336c3cc6433d3c39628032f7349af9e25987c3dfa2a87ca83d2dc0e4d55e201 
 insert into v1_a336c3cc6433d3c39628032f7349af9e25987c3dfa2a87ca83d2dc0e4d55e201 values (9000230, 30001, 0, 'アドベントカレンダー カスタムマイページ', 0, 0, 1);
 insert into v1_a336c3cc6433d3c39628032f7349af9e25987c3dfa2a87ca83d2dc0e4d55e201 values (9000231, 10009, 0, 'サウンドトラックVol.6 購入特典カスタムマイページ', 0, 0, 1);
 insert into v1_a336c3cc6433d3c39628032f7349af9e25987c3dfa2a87ca83d2dc0e4d55e201 values (9000232, 10009, 0, 'キャラクターソングアルバムVol.5 購入特典カスタムマイページ', 0, 0, 1);
+insert into v1_a336c3cc6433d3c39628032f7349af9e25987c3dfa2a87ca83d2dc0e4d55e201 values (9000240, 30001, 0, 'アナザーウィッシュ・ログ カスタムマイページ', 0, 0, 1);

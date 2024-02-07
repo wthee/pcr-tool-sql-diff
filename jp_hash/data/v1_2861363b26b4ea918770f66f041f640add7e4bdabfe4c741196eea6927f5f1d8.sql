@@ -285,3 +285,5 @@ insert into v1_2861363b26b4ea918770f66f041f640add7e4bdabfe4c741196eea6927f5f1d8 
 insert into v1_2861363b26b4ea918770f66f041f640add7e4bdabfe4c741196eea6927f5f1d8 values (1013601, '1013620101', 'レイ（アストラル）のメモリーピース', 99002, '');
 insert into v1_2861363b26b4ea918770f66f041f640add7e4bdabfe4c741196eea6927f5f1d8 values (1013602, '1013620102', 'ユイのメモリーピース', 99002, '');
 insert into v1_2861363b26b4ea918770f66f041f640add7e4bdabfe4c741196eea6927f5f1d8 values (1013603, 'box_rank_14-22', 'ランダム装備BOX', 99002, 'ランダムな装備が獲得できる。');
+insert into v1_2861363b26b4ea918770f66f041f640add7e4bdabfe4c741196eea6927f5f1d8 values (1013701, '1013720101', 'レイ（アストラル）のメモリーピース', 99002, '');
+insert into v1_2861363b26b4ea918770f66f041f640add7e4bdabfe4c741196eea6927f5f1d8 values (1013702, '1013720102', 'ヒヨリのメモリーピース', 99002, '');
