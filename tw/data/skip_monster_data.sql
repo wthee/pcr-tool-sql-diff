@@ -3466,6 +3466,11 @@ insert into skip_monster_data values (11066002, 11066, '拉摩利爾平原 66-2'
 insert into skip_monster_data values (11066003, 11066, '拉摩利爾平原 66-3', 101660301, 103203);
 insert into skip_monster_data values (11066004, 11066, '拉摩利爾平原 66-4', 101660401, 103173);
 insert into skip_monster_data values (11066005, 11066, '拉摩利爾平原 66-5', 101660501, 103173);
+insert into skip_monster_data values (11066006, 11066, '拉摩利爾平原 66-6', 101660601, 103173);
+insert into skip_monster_data values (11066007, 11066, '拉摩利爾平原 66-7', 101660701, 103173);
+insert into skip_monster_data values (11066008, 11066, '拉摩利爾平原 66-8', 101660801, 103173);
+insert into skip_monster_data values (11066009, 11066, '拉摩利爾平原 66-9', 101660901, 103173);
+insert into skip_monster_data values (11066010, 11066, '拉摩利爾平原 66-10', 101661001, 103183);
 insert into skip_monster_data values (12001001, 12001, '朱諾平原 1-1（Hard）', 101010101, 100911);
 insert into skip_monster_data values (12001002, 12001, '朱諾平原 1-2（Hard）', 101010101, 100911);
 insert into skip_monster_data values (12001003, 12001, '朱諾平原 1-3（Hard）', 101010101, 100361);
@@ -3649,6 +3654,8 @@ insert into skip_monster_data values (12064003, 12064, '阿帕雷尤街道‧東
 insert into skip_monster_data values (12065001, 12065, '芭菲之城城鎮 65-1', 102650101, 103193);
 insert into skip_monster_data values (12065002, 12065, '芭菲之城城鎮 65-2', 102650201, 103193);
 insert into skip_monster_data values (12065003, 12065, '芭菲之城城鎮 65-3', 102650301, 103193);
+insert into skip_monster_data values (12066001, 12066, '拉摩利爾平原 66-1', 102660101, 103193);
+insert into skip_monster_data values (12066002, 12066, '拉摩利爾平原 66-2', 102660201, 103193);
 insert into skip_monster_data values (13018001, 13018, '法艾頓草原‧北部 18-1', 103180101, 101401);
 insert into skip_monster_data values (13018002, 13018, '法艾頓草原‧北部 18-2', 103180204, 100691);
 insert into skip_monster_data values (13018003, 13018, '法艾頓草原‧北部 18-3', 103180301, 101431);
@@ -3714,6 +3721,7 @@ insert into skip_monster_data values (18001003, 18001, '聖跡調查冒險Lv3', 
 insert into skip_monster_data values (18001004, 18001, '聖跡調查冒險Lv4', 108010408, 101341);
 insert into skip_monster_data values (18001005, 18001, '聖跡調查冒險Lv5', 108010508, 101341);
 insert into skip_monster_data values (18001006, 18001, '聖跡調查冒險Lv6', 108010608, 101341);
+insert into skip_monster_data values (18001007, 18001, '聖跡調查冒險Lv7', 108010708, 101341);
 insert into skip_monster_data values (19001001, 19001, '神殿調查冒險Lv1', 109010101, 102003);
 insert into skip_monster_data values (19001002, 19001, '神殿調查冒險Lv2', 109010201, 102003);
 insert into skip_monster_data values (20001101, 20001101, '活動01 Normal 1-1', 101020403, 100011);
@@ -4611,6 +4619,7 @@ insert into skip_monster_data values (21001012, 21001, '瑪那冒險Lv12', 20101
 insert into skip_monster_data values (21001013, 21001, '瑪那冒險Lv13', 201011305, 100051);
 insert into skip_monster_data values (21001014, 21001, '瑪那冒險Lv14', 201011405, 100051);
 insert into skip_monster_data values (21001015, 21001, '瑪那冒險Lv15', 201011505, 100051);
+insert into skip_monster_data values (21001016, 21001, '瑪那冒險Lv16', 201011605, 100051);
 insert into skip_monster_data values (21002001, 21002, '經驗值冒險Lv1', 101030303, 100391);
 insert into skip_monster_data values (21002002, 21002, '經驗值冒險Lv2', 101030303, 100391);
 insert into skip_monster_data values (21002003, 21002, '經驗值冒險Lv3', 101030303, 100391);
@@ -4626,6 +4635,7 @@ insert into skip_monster_data values (21002012, 21002, '經驗值冒險Lv12', 20
 insert into skip_monster_data values (21002013, 21002, '經驗值冒險Lv13', 202021301, 100391);
 insert into skip_monster_data values (21002014, 21002, '經驗值冒險Lv14', 202021406, 100391);
 insert into skip_monster_data values (21002015, 21002, '經驗值冒險Lv15', 202021506, 100391);
+insert into skip_monster_data values (21002016, 21002, '經驗值冒險Lv16', 202021606, 100391);
 insert into skip_monster_data values (71010001, 1, '露娜之塔 1-9 層', 710000104, 101181);
 insert into skip_monster_data values (71010011, 1, '露娜之塔 11-19 層', 710001103, 101181);
 insert into skip_monster_data values (71010021, 1, '露娜之塔 21-29 層', 710002103, 101181);
