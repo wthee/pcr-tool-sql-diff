@@ -135,4 +135,6 @@ insert into event_gacha_data values (10134, 10134, '迎春ドリーマーズ！\
 insert into event_gacha_data values (10135, 10135, '湯けむり忘年奇譚\u3000初日の出に盃を', 2, 61342, 1, 6);
 insert into event_gacha_data values (10136, 10136, 'I Wish\u3000握りしめるこの手を', 2, 61352, 1, 6);
 insert into event_gacha_data values (10137, 10137, 'I Wish\u3000握りしめるこの手を', 2, 61362, 1, 6);
+insert into event_gacha_data values (10138, 10138, 'リベレイト・ジ・エデン\u3000いつか、また会う未来で', 2, 61372, 1, 6);
+insert into event_gacha_data values (10139, 10139, 'リベレイト・ジ・エデン\u3000いつか、また会う未来で', 2, 61382, 1, 6);
 insert into event_gacha_data values (19003, 10003, 'ヴァンパイアハンターwithイリヤ討伐証交換', 2, 60022, 1, 5);

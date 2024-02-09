@@ -14,7 +14,9 @@ insert into custom_mypage_group values (20003, 'プリンセスコネクト！Re
 insert into custom_mypage_group values (20004, 'プリンセスコネクト！Re:Dive 4周年記念');
 insert into custom_mypage_group values (20005, 'プリンセスコネクト！Re:Dive 4.5周年記念');
 insert into custom_mypage_group values (20006, 'プリンセスコネクト！Re:Dive 5周年記念');
+insert into custom_mypage_group values (20007, 'プリンセスコネクト！Re:Dive 6周年記念');
 insert into custom_mypage_group values (30001, 'ミニゲーム・ミニコンテンツ');
 insert into custom_mypage_group values (40001, 'みんなのカレンダー');
 insert into custom_mypage_group values (40002, 'ローソンコラボ記念');
 insert into custom_mypage_group values (40003, 'TANITAコラボ記念');
+insert into custom_mypage_group values (40004, '2024年バレンタイン記念');
