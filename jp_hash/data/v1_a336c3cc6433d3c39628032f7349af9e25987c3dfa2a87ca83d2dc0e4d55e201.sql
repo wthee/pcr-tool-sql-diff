@@ -231,4 +231,11 @@ insert into v1_a336c3cc6433d3c39628032f7349af9e25987c3dfa2a87ca83d2dc0e4d55e201 
 insert into v1_a336c3cc6433d3c39628032f7349af9e25987c3dfa2a87ca83d2dc0e4d55e201 values (9000230, 30001, 0, 'アドベントカレンダー カスタムマイページ', 0, 0, 1);
 insert into v1_a336c3cc6433d3c39628032f7349af9e25987c3dfa2a87ca83d2dc0e4d55e201 values (9000231, 10009, 0, 'サウンドトラックVol.6 購入特典カスタムマイページ', 0, 0, 1);
 insert into v1_a336c3cc6433d3c39628032f7349af9e25987c3dfa2a87ca83d2dc0e4d55e201 values (9000232, 10009, 0, 'キャラクターソングアルバムVol.5 購入特典カスタムマイページ', 0, 0, 1);
+insert into v1_a336c3cc6433d3c39628032f7349af9e25987c3dfa2a87ca83d2dc0e4d55e201 values (9000233, 20007, 0, '「I Wish\u3000握りしめるこの手を」キービジュアル カスタムマイぺージ', 0, 0, 1);
+insert into v1_a336c3cc6433d3c39628032f7349af9e25987c3dfa2a87ca83d2dc0e4d55e201 values (9000234, 20007, 0, '6周年記念カスタムマイページ\u3000ロゴあり', 0, 0, 1);
+insert into v1_a336c3cc6433d3c39628032f7349af9e25987c3dfa2a87ca83d2dc0e4d55e201 values (9000235, 20007, 0, '6周年記念カスタムマイページ\u3000ロゴなし', 0, 0, 1);
+insert into v1_a336c3cc6433d3c39628032f7349af9e25987c3dfa2a87ca83d2dc0e4d55e201 values (9000236, 40004, 0, '2024年バレンタイン記念カスタムマイページ\u3000ペコリーヌ', 0, 0, 1);
+insert into v1_a336c3cc6433d3c39628032f7349af9e25987c3dfa2a87ca83d2dc0e4d55e201 values (9000237, 40004, 0, '2024年バレンタイン記念カスタムマイページ\u3000コッコロ', 0, 0, 1);
+insert into v1_a336c3cc6433d3c39628032f7349af9e25987c3dfa2a87ca83d2dc0e4d55e201 values (9000238, 40004, 0, '2024年バレンタイン記念カスタムマイページ\u3000キャル', 0, 0, 1);
+insert into v1_a336c3cc6433d3c39628032f7349af9e25987c3dfa2a87ca83d2dc0e4d55e201 values (9000239, 40004, 0, '2024年バレンタイン記念カスタムマイページ\u3000シェフィ', 0, 0, 1);
 insert into v1_a336c3cc6433d3c39628032f7349af9e25987c3dfa2a87ca83d2dc0e4d55e201 values (9000240, 30001, 0, 'アナザーウィッシュ・ログ カスタムマイページ', 0, 0, 1);

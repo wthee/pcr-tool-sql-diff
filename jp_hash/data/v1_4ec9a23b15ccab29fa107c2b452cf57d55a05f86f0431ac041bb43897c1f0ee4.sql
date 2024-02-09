@@ -14,7 +14,9 @@ insert into v1_4ec9a23b15ccab29fa107c2b452cf57d55a05f86f0431ac041bb43897c1f0ee4 
 insert into v1_4ec9a23b15ccab29fa107c2b452cf57d55a05f86f0431ac041bb43897c1f0ee4 values (20004, 'プリンセスコネクト！Re:Dive 4周年記念');
 insert into v1_4ec9a23b15ccab29fa107c2b452cf57d55a05f86f0431ac041bb43897c1f0ee4 values (20005, 'プリンセスコネクト！Re:Dive 4.5周年記念');
 insert into v1_4ec9a23b15ccab29fa107c2b452cf57d55a05f86f0431ac041bb43897c1f0ee4 values (20006, 'プリンセスコネクト！Re:Dive 5周年記念');
+insert into v1_4ec9a23b15ccab29fa107c2b452cf57d55a05f86f0431ac041bb43897c1f0ee4 values (20007, 'プリンセスコネクト！Re:Dive 6周年記念');
 insert into v1_4ec9a23b15ccab29fa107c2b452cf57d55a05f86f0431ac041bb43897c1f0ee4 values (30001, 'ミニゲーム・ミニコンテンツ');
 insert into v1_4ec9a23b15ccab29fa107c2b452cf57d55a05f86f0431ac041bb43897c1f0ee4 values (40001, 'みんなのカレンダー');
 insert into v1_4ec9a23b15ccab29fa107c2b452cf57d55a05f86f0431ac041bb43897c1f0ee4 values (40002, 'ローソンコラボ記念');
 insert into v1_4ec9a23b15ccab29fa107c2b452cf57d55a05f86f0431ac041bb43897c1f0ee4 values (40003, 'TANITAコラボ記念');
+insert into v1_4ec9a23b15ccab29fa107c2b452cf57d55a05f86f0431ac041bb43897c1f0ee4 values (40004, '2024年バレンタイン記念');
