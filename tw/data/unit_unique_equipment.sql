@@ -194,6 +194,7 @@ insert into unit_unique_equipment values (122901, 1, 132291);
 insert into unit_unique_equipment values (123101, 1, 132311);
 insert into unit_unique_equipment values (123201, 1, 132321);
 insert into unit_unique_equipment values (123301, 1, 132331);
+insert into unit_unique_equipment values (180501, 1, 138051);
 insert into unit_unique_equipment values (107701, 2, 130772);
 insert into unit_unique_equipment values (107901, 2, 130792);
 insert into unit_unique_equipment values (108001, 2, 130802);

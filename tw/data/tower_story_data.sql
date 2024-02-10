@@ -25,3 +25,4 @@ insert into tower_story_data values (7023, 7, 23, '加油打氣英雄團！', 0,
 insert into tower_story_data values (7024, 7, 24, '變貌大妃與（前）黑心商人', 0, 1, '2022/11/08 16:00:00', '2030/04/24 14:59:59');
 insert into tower_story_data values (7025, 7, 25, '激鬥！龍獸之拳交鋒', 0, 1, '2023/03/09 16:00:00', '2030/04/24 14:59:59');
 insert into tower_story_data values (7026, 7, 26, '孤獨女孩交流會', 0, 1, '2023/08/11 16:00:00', '2030/04/24 14:59:59');
+insert into tower_story_data values (7027, 7, 27, '壞蛋們充滿樂趣的旅程', 0, 1, '2024/02/10 16:00:00', '2030/04/24 14:59:59');

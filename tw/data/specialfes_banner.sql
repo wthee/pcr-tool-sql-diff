@@ -23,3 +23,4 @@ insert into specialfes_banner values (50248, 10019, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into specialfes_banner values (50261, 10011, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into specialfes_banner values (50267, 10020, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into specialfes_banner values (50278, 10021, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into specialfes_banner values (50291, 10006, 0, 0, 0, 0, 0, 0, 0, 0, 0);
