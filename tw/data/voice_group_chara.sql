@@ -49,7 +49,7 @@ insert into voice_group_chara values (105201001, '伊麗莎白牧場（莉瑪）
 insert into voice_group_chara values (105301001, '純白之翼（莫妮卡）', 105301, 114201, 125201, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (105401001, '慈樂之音（紡希）', 105401, 113901, 117401, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (105501001, '純白之翼（步未）', 105501, 113001, 121501, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (105601001, '暮光流星群（流夏）', 105601, 113101, 120801, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (105601001, '暮光流星群（流夏）', 105601, 113101, 120801, 127601, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (105701001, '？？？（吉塔）', 105701, 125501, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (105801001, '美食殿堂（貪吃佩可）', 105801, 107501, 180401, 111801, 121001, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (105901001, '美食殿堂（可可蘿）', 105901, 107601, 111901, 180501, 115501, 0, 0, 0, 0, 0);
@@ -293,6 +293,7 @@ insert into voice_group_chara values (327101001, '忍（夏日）（花凜對話
 insert into voice_group_chara values (327201001, '凱留（插班生）（花凜對話用）', 127201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (327301001, '鈴奈（插班生）（花凜對話用）', 127301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (327501001, '咲戀（薩拉薩利亞）（花凜對話用）', 127501, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (327601001, '流夏（薩拉薩利亞）（花凜對話用）', 127601, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380101001, '日和（公主）（花凜對話用）', 180101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380201001, '優衣（公主）（花凜對話用）', 180201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380301001, '怜（公主）（花凜對話用）', 180301, 0, 0, 0, 0, 0, 0, 0, 0, 0);

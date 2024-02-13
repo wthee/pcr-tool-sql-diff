@@ -370,3 +370,4 @@ insert into voice_group values (30206, '忍（夏日）（花凜對話用）', 1
 insert into voice_group values (30207, '凱留（插班生）（花凜對話用）', 118501001, 327201001, 0, 0, 0);
 insert into voice_group values (30208, '鈴奈（插班生）（花凜對話用）', 118501001, 327301001, 0, 0, 0);
 insert into voice_group values (30209, '咲戀（薩拉薩利亞）（花凜對話用）', 118501001, 327501001, 0, 0, 0);
+insert into voice_group values (30210, '流夏（薩拉薩利亞）（花凜對話用）', 118501001, 327601001, 0, 0, 0);

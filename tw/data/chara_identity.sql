@@ -240,6 +240,7 @@ insert into chara_identity values (127101, 31, 0, 0);
 insert into chara_identity values (127201, 60, 0, 0);
 insert into chara_identity values (127301, 16, 0, 0);
 insert into chara_identity values (127501, 28, 0, 0);
+insert into chara_identity values (127601, 56, 0, 0);
 insert into chara_identity values (180101, 1, 0, 0);
 insert into chara_identity values (180201, 2, 0, 0);
 insert into chara_identity values (180301, 3, 0, 0);
