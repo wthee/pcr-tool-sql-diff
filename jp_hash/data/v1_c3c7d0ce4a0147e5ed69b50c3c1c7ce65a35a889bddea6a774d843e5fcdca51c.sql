@@ -19,6 +19,7 @@ insert into v1_c3c7d0ce4a0147e5ed69b50c3c1c7ce65a35a889bddea6a774d843e5fcdca51c 
 insert into v1_c3c7d0ce4a0147e5ed69b50c3c1c7ce65a35a889bddea6a774d843e5fcdca51c values (125, 0.0);
 insert into v1_c3c7d0ce4a0147e5ed69b50c3c1c7ce65a35a889bddea6a774d843e5fcdca51c values (126, 0.0);
 insert into v1_c3c7d0ce4a0147e5ed69b50c3c1c7ce65a35a889bddea6a774d843e5fcdca51c values (127, 0.0);
+insert into v1_c3c7d0ce4a0147e5ed69b50c3c1c7ce65a35a889bddea6a774d843e5fcdca51c values (130, 0.0);
 insert into v1_c3c7d0ce4a0147e5ed69b50c3c1c7ce65a35a889bddea6a774d843e5fcdca51c values (401, 0.0);
 insert into v1_c3c7d0ce4a0147e5ed69b50c3c1c7ce65a35a889bddea6a774d843e5fcdca51c values (402, 0.0);
 insert into v1_c3c7d0ce4a0147e5ed69b50c3c1c7ce65a35a889bddea6a774d843e5fcdca51c values (501, 0.0);
