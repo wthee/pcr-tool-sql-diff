@@ -232,6 +232,7 @@ insert into actual_unit_background values (128031, 'クレア・ボヤンシア'
 insert into actual_unit_background values (128331, '一ノ瀬 祈梨', 510290, 4);
 insert into actual_unit_background values (128431, '柏崎 初音', 510103, 4);
 insert into actual_unit_background values (128531, '霧原 かすみ', 510160, 2);
+insert into actual_unit_background values (128731, '春咲 ひより', 510301, 9);
 insert into actual_unit_background values (128831, '士条 怜', 510150, 2);
 insert into actual_unit_background values (128931, '草野 優衣', 510240, 2);
 insert into actual_unit_background values (180131, '春咲 ひより', 510121, 4);

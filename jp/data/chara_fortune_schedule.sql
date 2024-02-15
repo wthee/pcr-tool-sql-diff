@@ -10,3 +10,4 @@ insert into chara_fortune_schedule values (10007, '4th Anniversary スペシャ�
 insert into chara_fortune_schedule values (10008, '4.5 Year Anniversary スペシャルログインボーナス', '2022/8/15 5:00:00', '2022/9/1 4:59:59');
 insert into chara_fortune_schedule values (10009, '5th Anniversary スペシャルログインボーナス', '2023/2/15 5:00:00', '2023/3/1 4:59:59');
 insert into chara_fortune_schedule values (10010, '5.5 Year Anniversary スペシャルログインボーナス', '2023/8/15 5:00:00', '2023/9/1 4:59:59');
+insert into chara_fortune_schedule values (10011, '6th Anniversary スペシャルログインボーナス', '2024/2/15 5:00:00', '2024/3/1 4:59:59');

@@ -37,3 +37,8 @@ insert into mission_category_icon values (602, 'green', '#339910');
 insert into mission_category_icon values (603, 'green', '#339910');
 insert into mission_category_icon values (1000, 'darkgreen', '#0F8B5E');
 insert into mission_category_icon values (1001, 'orange', '#E5681E');
+insert into mission_category_icon values (1002, 'green', '#339910');
+insert into mission_category_icon values (1003, 'pink', '#E24E7F');
+insert into mission_category_icon values (1004, 'lightblue', '#3290D4');
+insert into mission_category_icon values (1005, 'yellow', '#C09825');
+insert into mission_category_icon values (1006, 'yellow', '#C09825');

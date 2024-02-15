@@ -571,3 +571,7 @@ insert into enemy_m_parts values (802100245, 'カリザ', 802100246, 802100247, 
 insert into enemy_m_parts values (803100201, '黒の王ジャバウォック', 803100202, 803100203, 803100204, 0, 0);
 insert into enemy_m_parts values (803100205, '黒の王ジャバウォック', 803100206, 803100207, 803100208, 0, 0);
 insert into enemy_m_parts values (803100209, '黒の王ジャバウォック', 803100210, 803100211, 803100212, 0, 0);
+insert into enemy_m_parts values (820103001, '深域ティタノタートル', 820103002, 820103003, 820103004, 0, 0);
+insert into enemy_m_parts values (830102001, '深域ゴブリンライダー', 830102002, 830102003, 0, 0, 0);
+insert into enemy_m_parts values (840102001, '深域フロストハウンド', 840102002, 840102003, 840102004, 0, 0);
+insert into enemy_m_parts values (850103001, '深域ライデン', 850103002, 850103003, 850103004, 0, 0);

@@ -712,3 +712,4 @@ insert into gacha_exchange_lineup values (700, 304, 128901, 3, 1134, 0, '2024/01
 insert into gacha_exchange_lineup values (701, 305, 124801, 3, 0, 0, '2024/02/12 12:00:00', '2024/02/14 23:59:59');
 insert into gacha_exchange_lineup values (702, 305, 125001, 3, 0, 0, '2024/02/12 12:00:00', '2024/02/14 23:59:59');
 insert into gacha_exchange_lineup values (703, 306, 126601, 3, 0, 0, '2024/02/12 12:00:00', '2024/02/14 23:59:59');
+insert into gacha_exchange_lineup values (704, 307, 128701, 3, 1135, 40011, '2024/02/15', '2024/02/22 11:59:59');

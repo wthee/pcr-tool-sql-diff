@@ -43,3 +43,7 @@ insert into chara_fortune_reward values (41, 10010, 1, 8, 91002, 500, 0, 0, 0, 0
 insert into chara_fortune_reward values (42, 10010, 2, 8, 91002, 400, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_fortune_reward values (43, 10010, 3, 8, 91002, 300, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into chara_fortune_reward values (44, 10010, 4, 8, 91002, 250, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_fortune_reward values (45, 10011, 1, 8, 91002, 500, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_fortune_reward values (46, 10011, 2, 8, 91002, 400, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_fortune_reward values (47, 10011, 3, 8, 91002, 300, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into chara_fortune_reward values (48, 10011, 4, 8, 91002, 250, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);

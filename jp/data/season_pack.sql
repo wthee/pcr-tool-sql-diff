@@ -73,5 +73,8 @@ insert into season_pack values (110, 0, 29, 0, '', '', 9430, 0, 0, 0, 0, 0, 17, 
 insert into season_pack values (111, 0, 2, 0, '', '', 9432, 0, 0, 0, 0, 0, 24, 0, 0, 6);
 insert into season_pack values (112, 0, 2, 0, '', '', 9432, 0, 0, 0, 0, 0, 25, 0, 0, 6);
 insert into season_pack values (113, 0, 1, 0, '', '', 9319, 0, 0, 0, 908, 0, 26, 0, 0, 5);
-insert into season_pack values (114, 0, 1, 0, '', '', 9319, 0, 0, 0, 0, 0, 27, 0, 0, 7);
+insert into season_pack values (114, 0, 2, 0, '', '', 9319, 0, 0, 0, 0, 0, 27, 0, 0, 7);
 insert into season_pack values (115, 0, 1, 0, '', '', 9319, 0, 0, 0, 908, 0, 28, 0, 0, 5);
+insert into season_pack values (116, 0, 3, 0, '', '', 9433, 0, 0, 0, 0, 0, 29, 0, 0, 6);
+insert into season_pack values (117, 0, 4, 0, '', '', 9432, 0, 0, 0, 0, 0, 30, 0, 0, 6);
+insert into season_pack values (118, 0, 1, 0, '', '', 9319, 0, 0, 0, 908, 0, 31, 0, 0, 5);
