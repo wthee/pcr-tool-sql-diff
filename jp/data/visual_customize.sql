@@ -41,5 +41,5 @@ insert into visual_customize values (10039, 1006, 1001, 1006, 1, 1, 1010, 0, '20
 insert into visual_customize values (10040, 1006, 1002, 1006, 2, 2, 1010, 2015009, '2024/02/15', '2024/02/29 11:59:59');
 insert into visual_customize values (10041, 0, 1001, 0, 1, 1, 0, 0, '2024/02/29 12:00:00', '2024/08/15 14:59:59');
 insert into visual_customize values (10042, 0, 1002, 0, 2, 2, 0, 2015009, '2024/02/29 12:00:00', '2024/08/15 14:59:59');
-insert into visual_customize values (10043, 1006, 1003, 1006, 3, 2, 1010, 2201005, '2024/02/15', '2024/02/29 11:59:59');
+insert into visual_customize values (10043, 1006, 1003, 1006, 3, 3, 1010, 2201005, '2024/02/15', '2024/02/29 11:59:59');
 insert into visual_customize values (10044, 0, 1003, 0, 3, 3, 0, 2201005, '2024/02/29 12:00:00', '2024/08/15 14:59:59');
