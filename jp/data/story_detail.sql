@@ -1,34 +1,4 @@
-CREATE TABLE "story_detail" (
-  "story_id" INTEGER NOT NULL,
-  "story_group_id" INTEGER NOT NULL,
-  "title" TEXT NOT NULL,
-  "sub_title" TEXT NOT NULL,
-  "visible_type" INTEGER NOT NULL,
-  "story_end" INTEGER NOT NULL,
-  "pre_story_id" INTEGER NOT NULL,
-  "force_unlock_time" TEXT NOT NULL,
-  "pre_story_id_2" INTEGER NOT NULL,
-  "force_unlock_time_2" TEXT NOT NULL,
-  "love_level" INTEGER NOT NULL,
-  "requirement_id" INTEGER NOT NULL,
-  "unlock_quest_id" INTEGER NOT NULL,
-  "story_quest_id" INTEGER NOT NULL,
-  "lock_all_text" INTEGER NOT NULL,
-  "can_bookmark" INTEGER NOT NULL,
-  "unknown_1" integer,
-  "reward_type_1" INTEGER NOT NULL,
-  "reward_id_1" INTEGER NOT NULL,
-  "reward_value_1" INTEGER NOT NULL,
-  "reward_type_2" INTEGER NOT NULL,
-  "reward_id_2" INTEGER NOT NULL,
-  "reward_value_2" INTEGER NOT NULL,
-  "reward_type_3" INTEGER NOT NULL,
-  "reward_id_3" INTEGER NOT NULL,
-  "reward_value_3" INTEGER NOT NULL,
-  "start_time" TEXT NOT NULL,
-  "end_time" TEXT NOT NULL,
-  PRIMARY KEY ("story_id")
-);
+CREATE TABLE 'story_detail' ('story_id' INTEGER NOT NULL, 'story_group_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'sub_title' TEXT NOT NULL, 'visible_type' INTEGER NOT NULL, 'story_end' INTEGER NOT NULL, 'pre_story_id' INTEGER NOT NULL, 'force_unlock_time' TEXT NOT NULL, 'pre_story_id_2' INTEGER NOT NULL, 'force_unlock_time_2' TEXT NOT NULL, 'love_level' INTEGER NOT NULL, 'requirement_id' INTEGER NOT NULL, 'unlock_quest_id' INTEGER NOT NULL, 'story_quest_id' INTEGER NOT NULL, 'lock_all_text' INTEGER NOT NULL, 'can_bookmark' INTEGER NOT NULL, 'read_process_flag' INTEGER NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_value_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_value_2' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_value_3' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('story_id'));
 insert into story_detail values (1001001, 1001, 'ヒヨリ 第1話', '困った時はお互いさまさま', 0, 0, 0, '2030/12/17 14:59:59', 0, '2030/12/17 14:59:59', 0, 100101, 0, 0, 0, 1, 1, 8, 91002, 20, 0, 0, 0, 0, 0, 0, '2015/04/01 15:00:00', '2030/12/17 14:59:59');
 insert into story_detail values (1001002, 1001, 'ヒヨリ 第2話', '誓いのゆびきり', 0, 0, 1001001, '2030/12/17 14:59:59', 0, '2030/12/17 14:59:59', 2, 100101, 0, 0, 0, 1, 1, 8, 91002, 20, 0, 0, 0, 0, 0, 0, '2015/04/01 15:00:00', '2030/12/17 14:59:59');
 insert into story_detail values (1001003, 1001, 'ヒヨリ 第3話', '願いは笑顔のために', 0, 0, 1001002, '2030/12/17 14:59:59', 0, '2030/12/17 14:59:59', 3, 100101, 0, 0, 0, 1, 1, 8, 91002, 20, 0, 0, 0, 0, 0, 0, '2015/04/01 15:00:00', '2030/12/17 14:59:59');
