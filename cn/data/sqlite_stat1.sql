@@ -245,9 +245,9 @@ insert into sqlite_stat1 values ('shiori_boss', 'shiori_boss_0_event_id', '72 3'
 insert into sqlite_stat1 values ('hatsune_bg_change_data', 'hatsune_bg_change_data_0_target_type_1_area_id', '55 28 2');
 insert into sqlite_stat1 values ('gacha_exchange_lineup', 'gacha_exchange_lineup_0_exchange_id', '334 2');
 insert into sqlite_stat1 values ('campaign_schedule', None, '1118');
-insert into sqlite_stat1 values ('unit_rarity', 'unit_rarity_0_unit_material_id', '1117 6');
-insert into sqlite_stat1 values ('unit_rarity', 'unit_rarity_0_unit_id', '1117 6');
-insert into sqlite_stat1 values ('unit_rarity', 'sqlite_autoindex_unit_rarity_1', '1117 6 1');
+insert into sqlite_stat1 values ('unit_rarity', 'unit_rarity_0_unit_material_id', '1119 6');
+insert into sqlite_stat1 values ('unit_rarity', 'unit_rarity_0_unit_id', '1119 6');
+insert into sqlite_stat1 values ('unit_rarity', 'sqlite_autoindex_unit_rarity_1', '1119 6 1');
 insert into sqlite_stat1 values ('enemy_parameter', None, '12568');
 insert into sqlite_stat1 values ('legion_boss_enemy_setting', None, '4');
 insert into sqlite_stat1 values ('legion_quest_data', 'legion_quest_data_0_map_type', '5 3');
