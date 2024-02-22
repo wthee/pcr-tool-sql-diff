@@ -105,3 +105,8 @@ insert into shiori_quest_area values (20043102, 20043, '蘭德索爾近郊', 201
 insert into shiori_quest_area values (20043201, 20043, '蘭德索爾近郊', 201, 'bgm_M527', 'bgm_M527', 1, 0, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20044101, 20044, '甜點大賽會場', 201, 'bgm_M536', 'bgm_M536', 1, 1, 70, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20044201, 20044, '甜點大賽會場', 201, 'bgm_M536', 'bgm_M536', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20045101, 20045, '蘭德索爾近郊', 201, 'bgm_M543', 'bgm_M543', 1, 1, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20045102, 20045, '港小鎮‧大間', 201, 'bgm_M543', 'bgm_M543', 1, 2, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20045103, 20045, '塔帕斯海灘 周邊', 201, 'bgm_M543', 'bgm_M543', 1, 3, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20045104, 20045, '加托羅斯山', 201, 'bgm_M543', 'bgm_M543', 1, 4, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20045201, 20045, '加托羅斯山', 201, 'bgm_M543', 'bgm_M543', 1, 0, 0, 0, 0, '0', '0', 0);
