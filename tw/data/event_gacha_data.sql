@@ -127,4 +127,5 @@ insert into event_gacha_data values (10126, 10126, '魔法師的青春時日\u30
 insert into event_gacha_data values (10127, 10127, '真步真步的神奇旅程！\u3000旅行的少女與邊境的大樹', 2, 61262, 1, 6);
 insert into event_gacha_data values (10128, 10128, '浪漫薩拉薩利亞\u3000～沙漠的新娘與不可思議的神燈～', 2, 61272, 1, 6);
 insert into event_gacha_data values (10129, 10129, '點讚！最愛！大集合！\u3000至高祭典與少女祕密的本命任務', 2, 61282, 1, 6);
+insert into event_gacha_data values (10130, 10130, 'Criminal Rookie\u3000天使們的悖論', 2, 61292, 1, 6);
 insert into event_gacha_data values (19003, 10003, '吸血鬼獵人 with伊莉亞', 2, 60022, 1, 5);

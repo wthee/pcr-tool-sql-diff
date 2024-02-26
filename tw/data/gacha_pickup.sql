@@ -36,3 +36,8 @@ insert into gacha_pickup values (7, 1, 1, 117201, '望（夏日）');
 insert into gacha_pickup values (7, 2, 1, 117001, '惠理子（夏日）');
 insert into gacha_pickup values (7, 3, 1, 113101, '流夏（夏日）');
 insert into gacha_pickup values (7, 4, 1, 113401, '初音（夏日）');
+insert into gacha_pickup values (8, 1, 1, 108101, '忍（萬聖節）');
+insert into gacha_pickup values (8, 2, 1, 108301, '美咲（萬聖節）');
+insert into gacha_pickup values (8, 3, 1, 111101, '鏡華（萬聖節）');
+insert into gacha_pickup values (8, 4, 1, 113901, '紡希（萬聖節）');
+insert into gacha_pickup values (8, 5, 1, 117701, '香織（萬聖節）');
