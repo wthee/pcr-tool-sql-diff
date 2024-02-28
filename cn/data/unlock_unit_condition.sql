@@ -161,6 +161,7 @@ insert into unlock_unit_condition values (117701, '香织（万圣节）', 1, 0,
 insert into unlock_unit_condition values (117801, '妮侬（万圣节）', 1, 0, 1, 2, 31178, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (117901, '铃奈（万圣节）', 1, 0, 1, 2, 31179, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (118001, '克蕾琪塔', 1, 0, 1, 2, 31180, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
+insert into unlock_unit_condition values (118101, '兰法', 1, 0, 1, 2, 31181, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (118501, '花凛', 1, 0, 1, 2, 31185, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (119001, '伊绪（黑暗）', 1, 0, 1, 2, 31190, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (119101, '空花（黑暗）', 1, 0, 1, 2, 31191, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
@@ -173,6 +174,7 @@ insert into unlock_unit_condition values (120901, '伊莉亚（新年）', 1, 0,
 insert into unlock_unit_condition values (121001, '佩可莉姆（超负荷）', 1, 0, 1, 2, 31210, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (121101, '凯露（超负荷）', 1, 0, 1, 2, 31211, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (121201, '菈比莉斯塔（超负荷）', 1, 0, 1, 2, 31212, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
+insert into unlock_unit_condition values (121301, '胡桃（舞台）', 1, 0, 1, 2, 31213, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (170101, '环奈', 1, 0, 1, 2, 31701, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unlock_unit_condition values (170201, '环奈（振袖）', 1, 0, 1, 2, 31702, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unlock_unit_condition values (180101, '日和莉（公主）', 1, 0, 1, 2, 31801, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);

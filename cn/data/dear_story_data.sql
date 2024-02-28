@@ -20,3 +20,4 @@ insert into dear_story_data values (6066, 6, 10066, '祈梨SOS！！\u3000时间
 insert into dear_story_data values (6068, 6, 10068, '心电感应！碧与她的玩具朋友', 0, 1, '2023/5/31 11:00:00', '2099/12/31/ 23:59:59');
 insert into dear_story_data values (6076, 6, 10076, '万圣节救援队·紧急出动！捕获毛茸茸大作战', 0, 1, '2023/9/30 11:00:00', '2099/12/31/ 23:59:59');
 insert into dear_story_data values (6078, 6, 10078, '魔法少女外传\u3000黑暗魔法★三人组！', 0, 1, '2023/10/31 11:00:00', '2099/12/31/ 23:59:59');
+insert into dear_story_data values (6088, 6, 10088, 'Sweet tiny stage！\u3000新人女演员与小小淑女', 0, 1, '2024/02/29 11:00:00', '2099/12/31/ 23:59:59');
