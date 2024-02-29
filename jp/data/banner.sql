@@ -1,4 +1,4 @@
-CREATE TABLE 'banner' ('banner_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'system_id' INTEGER NOT NULL, 'gacha_id' INTEGER NOT NULL, 'condition_id' INTEGER NOT NULL, 'priority' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, 'sub_banner_id_1' INTEGER NOT NULL, 'is_show_room' INTEGER NOT NULL, PRIMARY KEY('banner_id'));
+CREATE TABLE `banner` (`banner_id` INTEGER, `type` INTEGER, `system_id` INTEGER, `gacha_id` INTEGER, `condition_id` INTEGER, `priority` INTEGER, `start_date` TEXT, `end_date` TEXT, `sub_banner_id_1` INTEGER, `is_show_room` INTEGER);
 insert into banner values (10000, 1, 302, 0, 0, 1, '2018/01/01 15:00:00', '2018/02/28 14:59:59', 0, 0);
 insert into banner values (10001, 1, 302, 0, 0, 1, '2018/02/28 15:00:00', '2018/03/15 14:59:59', 0, 0);
 insert into banner values (10002, 1, 302, 0, 0, 1, '2018/03/15 15:00:00', '2018/03/31 14:59:59', 0, 0);
@@ -301,6 +301,7 @@ insert into banner values (20028, 1, 305, 70086, 0, 11, '2024/02/15', '2024/02/1
 insert into banner values (20029, 1, 305, 70089, 0, 11, '2024/02/19 12:00:00', '2024/02/22 11:59:59', 0, 0);
 insert into banner values (20030, 1, 305, 70088, 0, 11, '2024/02/19 12:00:00', '2024/02/22 11:59:59', 0, 0);
 insert into banner values (20031, 1, 305, 70090, 0, 11, '2024/02/22 12:00:00', '2024/02/26 11:59:59', 0, 0);
+insert into banner values (20032, 1, 305, 0, 0, 11, '2024/02/29 12:00:00', '2024/03/03 18:59:59', 0, 0);
 insert into banner values (40001, 1, 107, 0, 0, 4, '2019/01/23 5:00:00', '2019/01/30 23:59:59', 0, 0);
 insert into banner values (50018, 1, 303, 0, 0, 1, '2018/10/31 12:00:00', '2018/11/03 18:59:59', 0, 0);
 insert into banner values (50023, 1, 303, 0, 0, 1, '2018/12/31 12:00:00', '2019/01/03 18:59:59', 50018, 0);
@@ -333,6 +334,7 @@ insert into banner values (50267, 1, 303, 0, 0, 7, '2023/06/30 12:00:00', '2023/
 insert into banner values (50278, 1, 303, 0, 0, 7, '2023/08/31 12:00:00', '2023/09/03 18:59:59', 0, 0);
 insert into banner values (50291, 1, 303, 0, 0, 7, '2023/11/24 12:00:00', '2023/11/27 11:59:59', 0, 0);
 insert into banner values (50298, 1, 303, 0, 0, 10, '2023/12/31 12:00:00', '2024/01/03 18:59:59', 0, 0);
+insert into banner values (50309, 1, 303, 0, 0, 10, '2024/02/29 12:00:00', '2024/03/03 18:59:59', 0, 0);
 insert into banner values (60001, 1, 304, 0, 0, 6, '2018/10/18 15:00:00', '2023/02/15 14:59:59', 0, 0);
 insert into banner values (60002, 1, 306, 0, 0, 7, '2019/09/03 19:00:00', '2030/10/31 11:59:59', 0, 0);
 insert into banner values (60003, 1, 308, 0, 0, 8, '2020/03/01 5:00:00', '2030/10/31 11:59:59', 0, 0);

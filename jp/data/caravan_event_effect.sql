@@ -1,4 +1,4 @@
-CREATE TABLE 'caravan_event_effect' ('event_id' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'effect_type' INTEGER NOT NULL, 'effect_value' INTEGER NOT NULL, 'effect_turn' INTEGER NOT NULL, 'effect_times' INTEGER NOT NULL, 'category' INTEGER NOT NULL, PRIMARY KEY('event_id'));
+CREATE TABLE `caravan_event_effect` (`event_id` INTEGER, `description` TEXT, `effect_type` INTEGER, `effect_value` INTEGER, `effect_turn` INTEGER, `effect_times` INTEGER, `category` INTEGER);
 insert into caravan_event_effect values (1, '料理入手イベント', 1, 3, 0, 0, 0);
 insert into caravan_event_effect values (2, 'ダイス入手イベント1', 2, 1, 0, 0, 0);
 insert into caravan_event_effect values (3, 'ダイス入手イベント2', 2, 2, 0, 0, 0);

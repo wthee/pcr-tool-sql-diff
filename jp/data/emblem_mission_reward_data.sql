@@ -1,4 +1,4 @@
-CREATE TABLE 'emblem_mission_reward_data' ('id' INTEGER NOT NULL, 'mission_reward_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_num' INTEGER NOT NULL, 'icon_type' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `emblem_mission_reward_data` (`id` INTEGER, `mission_reward_id` INTEGER, `reward_type` INTEGER, `reward_id` INTEGER, `reward_num` INTEGER, `icon_type` INTEGER);
 insert into emblem_mission_reward_data values (1, 58002001, 15, 10101001, 1, 1001);
 insert into emblem_mission_reward_data values (2, 58002002, 15, 10101002, 1, 1002);
 insert into emblem_mission_reward_data values (3, 58002003, 15, 10101003, 1, 1003);
@@ -1220,3 +1220,7 @@ insert into emblem_mission_reward_data values (1336, 56011830, 15, 10201830, 1, 
 insert into emblem_mission_reward_data values (1337, 56011831, 15, 10201831, 1, 1003);
 insert into emblem_mission_reward_data values (1338, 56011831, 8, 91002, 50, 0);
 insert into emblem_mission_reward_data values (1339, 51701001, 15, 11701001, 1, 1001);
+insert into emblem_mission_reward_data values (1340, 56011832, 15, 10201832, 1, 1001);
+insert into emblem_mission_reward_data values (1341, 56011833, 15, 10201833, 1, 1002);
+insert into emblem_mission_reward_data values (1342, 56011834, 15, 10201834, 1, 1003);
+insert into emblem_mission_reward_data values (1343, 56011834, 8, 91002, 50, 0);

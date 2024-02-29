@@ -1,4 +1,4 @@
-CREATE TABLE 'space_top_data' ('id' INTEGER NOT NULL, 'space_id' INTEGER NOT NULL, 'space_battle_id' INTEGER NOT NULL, 'part_flag' INTEGER NOT NULL, 'story_id' INTEGER NOT NULL, 'time_from' TEXT NOT NULL, 'time_to' TEXT NOT NULL, 'skip_battle_time' TEXT NOT NULL, 'name' TEXT NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `space_top_data` (`id` INTEGER, `space_id` INTEGER, `space_battle_id` INTEGER, `part_flag` INTEGER, `story_id` INTEGER, `time_from` TEXT, `time_to` TEXT, `skip_battle_time` TEXT, `name` TEXT);
 insert into space_top_data values (1, 1002, 0, 1, 4007001, '2020/04/01', '2020/04/01 23:59:59', '2020/04/02', 'バトル オブ ランドソル');
 insert into space_top_data values (2, 1002, 1002001, 0, 0, '2020/04/01', '2020/04/01 23:59:59', '2020/04/02', 'バトル オブ ランドソル');
 insert into space_top_data values (3, 1002, 0, 2, 4007001, '2020/04/01', '2020/04/01 23:59:59', '0', 'バトル オブ ランドソル');

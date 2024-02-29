@@ -1,4 +1,4 @@
-CREATE TABLE 'colosseum_quest_data' ('quest_id' INTEGER NOT NULL, 'schedule_id' INTEGER NOT NULL, 'difficulty' INTEGER NOT NULL, 'slot_id' INTEGER NOT NULL, 'display_unit_id' INTEGER NOT NULL, 'unit_id_1' INTEGER NOT NULL, 'unit_id_2' INTEGER NOT NULL, 'unit_id_3' INTEGER NOT NULL, 'unit_id_4' INTEGER NOT NULL, 'unit_id_5' INTEGER NOT NULL, 'enhance_id_1' INTEGER NOT NULL, 'enhance_id_2' INTEGER NOT NULL, 'enhance_id_3' INTEGER NOT NULL, 'enhance_id_4' INTEGER NOT NULL, 'enhance_id_5' INTEGER NOT NULL, 'princess_knight_enhance_id' INTEGER NOT NULL, 'limit_time' INTEGER NOT NULL, 'background' INTEGER NOT NULL, 'bg_position' INTEGER NOT NULL, PRIMARY KEY('quest_id'));
+CREATE TABLE `colosseum_quest_data` (`quest_id` INTEGER, `schedule_id` INTEGER, `difficulty` INTEGER, `slot_id` INTEGER, `display_unit_id` INTEGER, `unit_id_1` INTEGER, `unit_id_2` INTEGER, `unit_id_3` INTEGER, `unit_id_4` INTEGER, `unit_id_5` INTEGER, `enhance_id_1` INTEGER, `enhance_id_2` INTEGER, `enhance_id_3` INTEGER, `enhance_id_4` INTEGER, `enhance_id_5` INTEGER, `princess_knight_enhance_id` INTEGER, `limit_time` INTEGER, `background` INTEGER, `bg_position` INTEGER);
 insert into colosseum_quest_data values (100111, 1001, 1, 1, 100701, 100701, 103401, 105501, 112201, 123001, 6, 6, 6, 6, 6, 0, 90, 100003, -100);
 insert into colosseum_quest_data values (100112, 1001, 1, 2, 103401, 106601, 103401, 100901, 105101, 123001, 6, 6, 6, 6, 6, 0, 90, 100003, -100);
 insert into colosseum_quest_data values (100113, 1001, 1, 3, 110301, 112701, 113401, 110301, 106901, 101801, 6, 6, 6, 6, 6, 0, 90, 100003, -100);
@@ -53,3 +53,12 @@ insert into colosseum_quest_data values (100623, 1006, 2, 3, 117301, 100701, 117
 insert into colosseum_quest_data values (100631, 1006, 3, 1, 128301, 128301, 103401, 105501, 106001, 108301, 3, 1, 1, 7, 8, 0, 90, 100003, -100);
 insert into colosseum_quest_data values (100632, 1006, 3, 2, 106501, 106501, 106601, 123301, 123001, 108301, 1, 1, 2, 3, 8, 0, 90, 100003, -100);
 insert into colosseum_quest_data values (100633, 1006, 3, 3, 109001, 109001, 102601, 110301, 123001, 107701, 8, 1, 2, 3, 8, 0, 90, 100003, -100);
+insert into colosseum_quest_data values (100711, 1007, 1, 1, 125101, 102901, 122801, 103401, 123001, 125101, 6, 6, 6, 6, 6, 1001, 90, 100003, -100);
+insert into colosseum_quest_data values (100712, 1007, 1, 2, 111001, 105401, 106601, 180301, 110301, 111001, 6, 6, 6, 6, 6, 1001, 90, 100003, -100);
+insert into colosseum_quest_data values (100713, 1007, 1, 3, 118001, 101401, 121401, 123001, 118001, 118501, 6, 6, 6, 6, 6, 1001, 90, 100003, -100);
+insert into colosseum_quest_data values (100721, 1007, 2, 1, 100201, 102901, 103401, 117301, 123001, 100201, 4, 4, 4, 5, 4, 1001, 90, 100003, -100);
+insert into colosseum_quest_data values (100722, 1007, 2, 2, 105101, 104801, 117301, 105101, 110301, 104001, 4, 4, 4, 4, 4, 1001, 90, 100003, -100);
+insert into colosseum_quest_data values (100723, 1007, 2, 3, 100801, 101401, 118001, 118501, 100801, 111001, 4, 4, 4, 4, 4, 1001, 90, 100003, -100);
+insert into colosseum_quest_data values (100731, 1007, 3, 1, 128801, 128801, 123301, 102601, 123001, 118501, 3, 2, 1, 3, 3, 1001, 90, 100003, -100);
+insert into colosseum_quest_data values (100732, 1007, 3, 2, 128901, 104501, 103401, 105501, 128901, 108301, 1, 1, 1, 3, 8, 1001, 90, 100003, -100);
+insert into colosseum_quest_data values (100733, 1007, 3, 3, 128701, 128301, 128701, 117301, 123001, 108301, 3, 3, 2, 3, 8, 1001, 90, 100003, -100);

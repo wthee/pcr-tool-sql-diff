@@ -1,4 +1,4 @@
-CREATE TABLE 'room_effect' ('id' INTEGER NOT NULL, 'reward_get' INTEGER NOT NULL, 'jukebox' INTEGER NOT NULL, 'nebbia' INTEGER NOT NULL, 'arcade' INTEGER NOT NULL, 'vegetable' INTEGER NOT NULL, 'poster' INTEGER NOT NULL, 'stock' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `room_effect` (`id` INTEGER, `reward_get` INTEGER, `jukebox` INTEGER, `nebbia` INTEGER, `arcade` INTEGER, `vegetable` INTEGER, `poster` INTEGER, `stock` INTEGER);
 insert into room_effect values (1, 1, 0, 0, 0, 0, 0, 0);
 insert into room_effect values (2, 2, 0, 0, 0, 0, 0, 0);
 insert into room_effect values (3, 3, 0, 0, 0, 0, 0, 0);

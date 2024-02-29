@@ -1,4 +1,4 @@
-CREATE TABLE 'define_spskill' ('link_skill_slot' INTEGER NOT NULL, 'sp_skill_id' INTEGER NOT NULL, 'base_skill_id' INTEGER NOT NULL, 'skill_category' INTEGER NOT NULL, PRIMARY KEY('link_skill_slot'));
+CREATE TABLE `define_spskill` (`link_skill_slot` INTEGER, `sp_skill_id` INTEGER, `base_skill_id` INTEGER, `skill_category` INTEGER);
 insert into define_spskill values (1061002, 1061101, 1061001, 2);
 insert into define_spskill values (1061003, 1061102, 1061001, 2);
 insert into define_spskill values (1061012, 1061111, 1061001, 2);
@@ -35,3 +35,4 @@ insert into define_spskill values (1264001, 1264103, 1264001, 2);
 insert into define_spskill values (1264002, 1264101, 1264001, 2);
 insert into define_spskill values (1264003, 1264102, 1264001, 2);
 insert into define_spskill values (1265001, 1265101, 1265001, 2);
+insert into define_spskill values (1290001, 1290101, 1290001, 2);

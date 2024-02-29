@@ -1,4 +1,4 @@
-CREATE TABLE 'shiori_description' ('id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `shiori_description` (`id` INTEGER, `type` INTEGER, `description` TEXT);
 insert into shiori_description values (101, 1, 'サイドストーリーでは、特別なストーリーを楽しめます。\\nイベントストーリーはイベントクエストを進めると解放されていきます。');
 insert into shiori_description values (201, 2, 'ミッションを達成すると解放できるキャラが登場します。\\nミッションクリアを目指しましょう。');
 insert into shiori_description values (301, 3, 'ボスに挑戦すると、信頼度エピソードが発生する\\nことがございます。会話の結果によって信頼度がアップし、\\n特定の信頼度に到達するとプレゼントがもらえます。');

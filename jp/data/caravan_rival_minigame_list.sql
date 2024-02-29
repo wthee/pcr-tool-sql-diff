@@ -1,2 +1,2 @@
-CREATE TABLE 'caravan_rival_minigame_list' ('rival_minigame_id' INTEGER NOT NULL, 'rival_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, PRIMARY KEY('rival_minigame_id'));
+CREATE TABLE `caravan_rival_minigame_list` (`rival_minigame_id` INTEGER, `rival_id` INTEGER, `title` TEXT);
 insert into caravan_rival_minigame_list values (1, 10001, 'フルーツキャッチ');

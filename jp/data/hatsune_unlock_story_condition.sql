@@ -1,4 +1,4 @@
-CREATE TABLE 'hatsune_unlock_story_condition' ('story_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'condition_entry' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_boss_id' INTEGER NOT NULL, 'condition_mission_id' INTEGER NOT NULL, 'condition_time' TEXT NOT NULL, 'condition_story_id' INTEGER NOT NULL, PRIMARY KEY('story_id'));
+CREATE TABLE `hatsune_unlock_story_condition` (`story_id` INTEGER, `event_id` INTEGER, `condition_entry` INTEGER, `condition_quest_id` INTEGER, `condition_boss_id` INTEGER, `condition_mission_id` INTEGER, `condition_time` TEXT, `condition_story_id` INTEGER);
 insert into hatsune_unlock_story_condition values (5001000, 20001, 1, 0, 0, 0, '0', 0);
 insert into hatsune_unlock_story_condition values (5001001, 20001, 0, 20001103, 0, 0, '0', 0);
 insert into hatsune_unlock_story_condition values (5001002, 20001, 0, 20001105, 0, 0, '0', 0);
@@ -611,3 +611,11 @@ insert into hatsune_unlock_story_condition values (5137003, 10137, 0, 10137107, 
 insert into hatsune_unlock_story_condition values (5137004, 10137, 0, 10137110, 0, 0, '0', 0);
 insert into hatsune_unlock_story_condition values (5137005, 10137, 0, 0, 1013701, 0, '0', 0);
 insert into hatsune_unlock_story_condition values (5137201, 10137, 1, 0, 0, 0, '0', 0);
+insert into hatsune_unlock_story_condition values (5140000, 10140, 1, 0, 0, 0, '0', 0);
+insert into hatsune_unlock_story_condition values (5140001, 10140, 0, 10140101, 0, 0, '0', 0);
+insert into hatsune_unlock_story_condition values (5140002, 10140, 0, 10140103, 0, 0, '0', 0);
+insert into hatsune_unlock_story_condition values (5140003, 10140, 0, 10140105, 0, 0, '0', 0);
+insert into hatsune_unlock_story_condition values (5140004, 10140, 0, 10140106, 0, 0, '0', 0);
+insert into hatsune_unlock_story_condition values (5140005, 10140, 0, 10140107, 0, 0, '0', 0);
+insert into hatsune_unlock_story_condition values (5140006, 10140, 0, 10140108, 0, 0, '0', 0);
+insert into hatsune_unlock_story_condition values (5140007, 10140, 0, 0, 1014001, 0, '0', 0);

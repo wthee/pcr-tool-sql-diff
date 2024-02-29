@@ -1,4 +1,4 @@
-CREATE TABLE 'knight_mission_reward_data' ('id' INTEGER NOT NULL, 'mission_reward_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `knight_mission_reward_data` (`id` INTEGER, `mission_reward_id` INTEGER, `reward_type` INTEGER, `reward_id` INTEGER, `reward_count` INTEGER);
 insert into knight_mission_reward_data values (1, 1001, 12, 94002, 8000000);
 insert into knight_mission_reward_data values (2, 1001, 2, 90005, 40);
 insert into knight_mission_reward_data values (3, 1002, 12, 94002, 8000000);

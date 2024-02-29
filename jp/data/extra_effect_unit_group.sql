@@ -1,4 +1,4 @@
-CREATE TABLE 'extra_effect_unit_group' ('target_id' INTEGER NOT NULL, 'group_id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, PRIMARY KEY('target_id'));
+CREATE TABLE `extra_effect_unit_group` (`target_id` INTEGER, `group_id` INTEGER, `unit_id` INTEGER);
 insert into extra_effect_unit_group values (1, 6101321, 118001);
 insert into extra_effect_unit_group values (2, 6101322, 105801);
 insert into extra_effect_unit_group values (3, 6101323, 107501);
@@ -71,3 +71,12 @@ insert into extra_effect_unit_group values (69, 6101366, 128801);
 insert into extra_effect_unit_group values (70, 6101367, 108901);
 insert into extra_effect_unit_group values (71, 6101368, 100201);
 insert into extra_effect_unit_group values (72, 6101368, 108801);
+insert into extra_effect_unit_group values (73, 6101402, 110801);
+insert into extra_effect_unit_group values (74, 6101401, 110901);
+insert into extra_effect_unit_group values (75, 6101401, 116301);
+insert into extra_effect_unit_group values (76, 6101402, 110801);
+insert into extra_effect_unit_group values (77, 6101402, 116201);
+insert into extra_effect_unit_group values (78, 6101403, 111001);
+insert into extra_effect_unit_group values (79, 6101403, 116401);
+insert into extra_effect_unit_group values (81, 6101404, 110901);
+insert into extra_effect_unit_group values (82, 6101405, 116301);

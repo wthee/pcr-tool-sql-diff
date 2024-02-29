@@ -1,4 +1,4 @@
-CREATE TABLE 'asm_many_answers_data' ('asm_id' INTEGER NOT NULL, 'choice_1' TEXT NOT NULL, 'image_id_1' INTEGER NOT NULL, 'choice_2' TEXT NOT NULL, 'image_id_2' INTEGER NOT NULL, 'choice_3' TEXT NOT NULL, 'image_id_3' INTEGER NOT NULL, 'choice_4' TEXT NOT NULL, 'image_id_4' INTEGER NOT NULL, 'is_correct_1' INTEGER NOT NULL, 'is_correct_2' INTEGER NOT NULL, 'is_correct_3' INTEGER NOT NULL, 'is_correct_4' INTEGER NOT NULL, PRIMARY KEY('asm_id'));
+CREATE TABLE `asm_many_answers_data` (`asm_id` INTEGER, `choice_1` TEXT, `image_id_1` INTEGER, `choice_2` TEXT, `image_id_2` INTEGER, `choice_3` TEXT, `image_id_3` INTEGER, `choice_4` TEXT, `image_id_4` INTEGER, `is_correct_1` INTEGER, `is_correct_2` INTEGER, `is_correct_3` INTEGER, `is_correct_4` INTEGER);
 insert into asm_many_answers_data values (3110001, 'おおかみ', 0, 'いのしし', 0, 'ぶた', 0, 'いぬ', 0, 1, 1, 0, 0);
 insert into asm_many_answers_data values (3110002, '一', 0, '二', 0, '三', 0, '四', 0, 1, 1, 0, 0);
 insert into asm_many_answers_data values (3110003, '十', 0, '九', 0, '八', 0, '七', 0, 1, 1, 1, 0);

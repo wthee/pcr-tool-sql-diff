@@ -1,4 +1,4 @@
-CREATE TABLE 'sjr_drama_script' ('command_id' INTEGER NOT NULL, 'drama_id' INTEGER NOT NULL, 'command_type' INTEGER NOT NULL, 'param_01' TEXT NOT NULL, 'param_02' TEXT NOT NULL, 'param_03' TEXT NOT NULL, 'param_04' TEXT NOT NULL, 'param_05' TEXT NOT NULL, 'param_06' TEXT NOT NULL, 'param_07' TEXT NOT NULL, 'param_08' TEXT NOT NULL, PRIMARY KEY('command_id'));
+CREATE TABLE `sjr_drama_script` (`command_id` INTEGER, `drama_id` INTEGER, `command_type` INTEGER, `param_01` TEXT, `param_02` TEXT, `param_03` TEXT, `param_04` TEXT, `param_05` TEXT, `param_06` TEXT, `param_07` TEXT, `param_08` TEXT);
 insert into sjr_drama_script values (1001, 1, 1, '1', '122611', '100', '40', '-194', '1.65', '1', 'sjr_talk_idle');
 insert into sjr_drama_script values (1002, 1, 3, '122611', 'sjr_talk_wish_look', '1', '', '', '0.2', '', '');
 insert into sjr_drama_script values (1003, 1, 21, 'vo_minigame_1010', 'vo_minigame_1010_top_talk_1_001', '0', '0', '', '', '', '');

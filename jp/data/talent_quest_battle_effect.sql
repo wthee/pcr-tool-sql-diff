@@ -1,4 +1,4 @@
-CREATE TABLE 'talent_quest_battle_effect' ('id' INTEGER NOT NULL, 'quest_id' INTEGER NOT NULL, 'icon_name' TEXT NOT NULL, 'effect_name' TEXT NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `talent_quest_battle_effect` (`id` INTEGER, `quest_id` INTEGER, `icon_name` TEXT, `effect_name` TEXT, `description` TEXT);
 insert into talent_quest_battle_effect values (1, 81001001, '12', '火属性ボーナス特大アップ', '火属性のキャラが４体以上編成されているとき、キャラの属性ボーナスが強化される。火属性以外の属性ボーナスを無効化する。');
 insert into talent_quest_battle_effect values (2, 81001001, '11', '深域モンスター', 'すべてのモンスターが一度の行動で受けるダメージ値を減衰させる。ダメージ値が上昇するほど減衰率も上昇する。');
 insert into talent_quest_battle_effect values (3, 81001001, '17', 'ＴＰ上昇上限付与', 'バトル開始時、すべてのキャラのＴＰ上昇の上限値を150にする。');

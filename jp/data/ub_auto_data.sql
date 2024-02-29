@@ -1,4 +1,4 @@
-CREATE TABLE 'ub_auto_data' ('ub_auto_id' INTEGER NOT NULL, 'auto_type' INTEGER NOT NULL, 'auto_detail_1' INTEGER NOT NULL, 'auto_detail_2' INTEGER NOT NULL, 'auto_detail_3' INTEGER NOT NULL, 'auto_detail_4' INTEGER NOT NULL, 'auto_detail_5' INTEGER NOT NULL, 'auto_value_1' INTEGER NOT NULL, 'auto_value_2' INTEGER NOT NULL, 'auto_value_3' INTEGER NOT NULL, 'auto_value_4' INTEGER NOT NULL, 'auto_value_5' INTEGER NOT NULL, PRIMARY KEY('ub_auto_id'));
+CREATE TABLE `ub_auto_data` (`ub_auto_id` INTEGER, `auto_type` INTEGER, `auto_detail_1` INTEGER, `auto_detail_2` INTEGER, `auto_detail_3` INTEGER, `auto_detail_4` INTEGER, `auto_detail_5` INTEGER, `auto_value_1` INTEGER, `auto_value_2` INTEGER, `auto_value_3` INTEGER, `auto_value_4` INTEGER, `auto_value_5` INTEGER);
 insert into ub_auto_data values (1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into ub_auto_data values (11002, 1, 2, 3, 0, 0, 0, 1, 800, 0, 0, 0);
 insert into ub_auto_data values (12001, 1, 1, 1, 0, 0, 0, 1, 500, 0, 0, 0);

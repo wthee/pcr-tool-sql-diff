@@ -1,4 +1,4 @@
-CREATE TABLE 'fbs_schedule' ('fbs_id' INTEGER NOT NULL, 'story_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('fbs_id'));
+CREATE TABLE `fbs_schedule` (`fbs_id` INTEGER, `story_id` INTEGER, `start_time` TEXT, `end_time` TEXT);
 insert into fbs_schedule values (1, 4010001, '2023/3/31 5:00:00', '2023/4/1 4:59:59');
 insert into fbs_schedule values (2, 4010002, '2023/4/3 5:00:00', '2023/4/4 4:59:59');
 insert into fbs_schedule values (3, 4010003, '2023/4/5 5:00:00', '2023/4/6 4:59:59');
@@ -70,3 +70,11 @@ insert into fbs_schedule values (68, 4010068, '2024/2/4 5:00:00', '2024/2/5 4:59
 insert into fbs_schedule values (69, 4010069, '2024/2/7 5:00:00', '2024/2/8 4:59:59');
 insert into fbs_schedule values (70, 4010070, '2024/2/18 5:00:00', '2024/2/19 4:59:59');
 insert into fbs_schedule values (71, 4010071, '2024/2/28 5:00:00', '2024/2/29 4:59:59');
+insert into fbs_schedule values (72, 4010072, '2024/3/1 5:00:00', '2024/3/2 4:59:59');
+insert into fbs_schedule values (73, 4010073, '2024/3/3 5:00:00', '2024/3/4 4:59:59');
+insert into fbs_schedule values (74, 4010074, '2024/3/7 5:00:00', '2024/3/8 4:59:59');
+insert into fbs_schedule values (75, 4010075, '2024/3/10 5:00:00', '2024/3/11 4:59:59');
+insert into fbs_schedule values (76, 4010076, '2024/3/12 5:00:00', '2024/3/13 4:59:59');
+insert into fbs_schedule values (77, 4010077, '2024/3/14 5:00:00', '2024/3/15 4:59:59');
+insert into fbs_schedule values (78, 4010078, '2024/3/16 5:00:00', '2024/3/17 4:59:59');
+insert into fbs_schedule values (79, 4010079, '2024/3/24 5:00:00', '2024/3/25 4:59:59');

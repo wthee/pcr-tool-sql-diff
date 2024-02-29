@@ -1,4 +1,4 @@
-CREATE TABLE 'spskill_lv_initialize_data' ('initialize_skill_id' INTEGER NOT NULL, 'base_skill_id' INTEGER NOT NULL, PRIMARY KEY('initialize_skill_id'));
+CREATE TABLE `spskill_lv_initialize_data` (`initialize_skill_id` INTEGER, `base_skill_id` INTEGER);
 insert into spskill_lv_initialize_data values (1061101, 1061001);
 insert into spskill_lv_initialize_data values (1061102, 1061001);
 insert into spskill_lv_initialize_data values (1061111, 1061001);
@@ -37,3 +37,4 @@ insert into spskill_lv_initialize_data values (1264101, 1264001);
 insert into spskill_lv_initialize_data values (1264102, 1264001);
 insert into spskill_lv_initialize_data values (1264103, 1264001);
 insert into spskill_lv_initialize_data values (1265101, 1265001);
+insert into spskill_lv_initialize_data values (1290101, 1290001);

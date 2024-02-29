@@ -1,4 +1,4 @@
-CREATE TABLE 'sre_add_times_data' ('id' INTEGER NOT NULL, 'sre_id' INTEGER NOT NULL, 'add_times' INTEGER NOT NULL, 'add_times_time' TEXT NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `sre_add_times_data` (`id` INTEGER, `sre_id` INTEGER, `add_times` INTEGER, `add_times_time` TEXT);
 insert into sre_add_times_data values (1, 3, 1, '2022/12/16 13:00:00');
 insert into sre_add_times_data values (2, 3, 1, '2022/12/16 14:00:00');
 insert into sre_add_times_data values (3, 3, 1, '2022/12/16 15:00:00');

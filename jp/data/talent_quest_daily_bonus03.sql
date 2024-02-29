@@ -1,0 +1,1 @@
+CREATE TABLE `talent_quest_daily_bonus03` (`id` INTEGER, `reward_group_id` INTEGER, `reward_type_1` INTEGER, `reward_id_1` INTEGER, `reward_num_1` INTEGER, `reward_type_2` INTEGER, `reward_id_2` INTEGER, `reward_num_2` INTEGER, `reward_type_3` INTEGER, `reward_id_3` INTEGER, `reward_num_3` INTEGER);

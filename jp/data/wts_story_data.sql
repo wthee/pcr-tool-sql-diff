@@ -1,4 +1,4 @@
-CREATE TABLE 'wts_story_data' ('sub_story_id' INTEGER NOT NULL, 'repeat_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+CREATE TABLE `wts_story_data` (`sub_story_id` INTEGER, `repeat_story_id` INTEGER, `original_event_id` INTEGER, `title` TEXT, `condition_quest_id` INTEGER, `reward_type` INTEGER, `reward_id` INTEGER, `reward_count` INTEGER);
 insert into wts_story_data values (5122061, 5122061, 10122, 'アオイの秘密', 10122107, 8, 91002, 50);
 insert into wts_story_data values (5122062, 5122062, 10122, 'ミヤコの秘密', 0, 8, 91002, 50);
 insert into wts_story_data values (5122063, 5122063, 10122, 'イオの秘密', 0, 8, 91002, 50);

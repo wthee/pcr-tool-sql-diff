@@ -1,4 +1,4 @@
-CREATE TABLE 'shiori_mission_reward_data' ('id' INTEGER NOT NULL, 'mission_reward_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER , 'reward_num' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `shiori_mission_reward_data` (`id` INTEGER, `mission_reward_id` INTEGER, `reward_type` INTEGER, `reward_id` INTEGER, `reward_num` INTEGER);
 insert into shiori_mission_reward_data values (20001001, 72001001, 8, 91002, 30);
 insert into shiori_mission_reward_data values (20001002, 72001001, 2, 22002, 1);
 insert into shiori_mission_reward_data values (20001003, 72001002, 8, 91002, 30);

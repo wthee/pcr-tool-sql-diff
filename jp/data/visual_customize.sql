@@ -1,4 +1,4 @@
-CREATE TABLE 'visual_customize' ('id' INTEGER NOT NULL, 'title_prefab' INTEGER NOT NULL, 'title_movie' INTEGER NOT NULL, 'title_voice' INTEGER NOT NULL, 'story_top_movie' INTEGER NOT NULL, 'quest_top_movie' INTEGER NOT NULL, 'profile_logo' INTEGER NOT NULL, 'watched_story_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `visual_customize` (`id` INTEGER, `title_prefab` INTEGER, `title_movie` INTEGER, `title_voice` INTEGER, `story_top_movie` INTEGER, `quest_top_movie` INTEGER, `profile_logo` INTEGER, `watched_story_id` INTEGER, `start_time` TEXT, `end_time` TEXT);
 insert into visual_customize values (10001, 0, 0, 0, 0, 0, 0, 0, '2018/01/01 15:00:00', '2019/02/15 14:59:59');
 insert into visual_customize values (10002, 1001, 1001, 1001, 1, 1, 0, 0, '2019/02/15 15:00:00', '2019/02/28 11:59:59');
 insert into visual_customize values (10003, 0, 1001, 0, 1, 1, 0, 0, '2019/02/28 12:00:00', '2020/02/15 14:59:59');

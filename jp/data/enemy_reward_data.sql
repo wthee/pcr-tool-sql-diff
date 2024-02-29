@@ -1,4 +1,4 @@
-CREATE TABLE 'enemy_reward_data' ('drop_reward_id' INTEGER NOT NULL, 'drop_count' INTEGER NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_num_1' INTEGER NOT NULL, 'odds_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_num_2' INTEGER NOT NULL, 'odds_2' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_num_3' INTEGER NOT NULL, 'odds_3' INTEGER NOT NULL, 'reward_type_4' INTEGER NOT NULL, 'reward_id_4' INTEGER NOT NULL, 'reward_num_4' INTEGER NOT NULL, 'odds_4' INTEGER NOT NULL, 'reward_type_5' INTEGER NOT NULL, 'reward_id_5' INTEGER NOT NULL, 'reward_num_5' INTEGER NOT NULL, 'odds_5' INTEGER NOT NULL, PRIMARY KEY('drop_reward_id'));
+CREATE TABLE `enemy_reward_data` (`drop_reward_id` INTEGER, `drop_count` INTEGER, `reward_type_1` INTEGER, `reward_id_1` INTEGER, `reward_num_1` INTEGER, `odds_1` INTEGER, `reward_type_2` INTEGER, `reward_id_2` INTEGER, `reward_num_2` INTEGER, `odds_2` INTEGER, `reward_type_3` INTEGER, `reward_id_3` INTEGER, `reward_num_3` INTEGER, `odds_3` INTEGER, `reward_type_4` INTEGER, `reward_id_4` INTEGER, `reward_num_4` INTEGER, `odds_4` INTEGER, `reward_type_5` INTEGER, `reward_id_5` INTEGER, `reward_num_5` INTEGER, `odds_5` INTEGER);
 insert into enemy_reward_data values (11001011, 1, 4, 101011, 1, 54, 0, 0, 0, 46, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into enemy_reward_data values (11001012, 1, 4, 101281, 1, 54, 0, 0, 0, 46, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into enemy_reward_data values (11001013, 1, 4, 101581, 1, 54, 0, 0, 0, 46, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -5379,6 +5379,9 @@ insert into enemy_reward_data values (61013803, 1, 2, 61372, 130, 100, 0, 0, 0, 
 insert into enemy_reward_data values (61013901, 1, 2, 61382, 5, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into enemy_reward_data values (61013902, 1, 2, 61382, 40, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into enemy_reward_data values (61013903, 1, 2, 61382, 130, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into enemy_reward_data values (61014001, 1, 2, 61392, 5, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into enemy_reward_data values (61014002, 1, 2, 61392, 40, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into enemy_reward_data values (61014003, 1, 2, 61392, 130, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into enemy_reward_data values (62001016, 1, 2, 60002, 40, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into enemy_reward_data values (62001045, 1, 2, 60001, 1, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into enemy_reward_data values (62001046, 1, 2, 60002, 3, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);

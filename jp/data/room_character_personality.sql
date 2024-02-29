@@ -1,4 +1,4 @@
-CREATE TABLE 'room_character_personality' ('character_id' INTEGER NOT NULL, 'personality_id' INTEGER NOT NULL, PRIMARY KEY('character_id'));
+CREATE TABLE `room_character_personality` (`character_id` INTEGER, `personality_id` INTEGER);
 insert into room_character_personality values (1001, 3);
 insert into room_character_personality values (1002, 1);
 insert into room_character_personality values (1003, 4);
@@ -253,6 +253,7 @@ insert into room_character_personality values (1285, 1);
 insert into room_character_personality values (1287, 3);
 insert into room_character_personality values (1288, 4);
 insert into room_character_personality values (1289, 1);
+insert into room_character_personality values (1290, 5);
 insert into room_character_personality values (1701, 1);
 insert into room_character_personality values (1801, 3);
 insert into room_character_personality values (1802, 1);

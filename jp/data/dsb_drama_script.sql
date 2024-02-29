@@ -1,4 +1,4 @@
-CREATE TABLE 'dsb_drama_script' ('command_id' INTEGER NOT NULL, 'drama_id' INTEGER NOT NULL, 'command_type' INTEGER NOT NULL, 'param_01' TEXT NOT NULL, 'param_02' TEXT NOT NULL, 'param_03' TEXT NOT NULL, 'param_04' TEXT NOT NULL, 'param_05' TEXT NOT NULL, 'param_06' TEXT NOT NULL, 'param_07' TEXT NOT NULL, 'param_08' TEXT NOT NULL, PRIMARY KEY('command_id'));
+CREATE TABLE `dsb_drama_script` (`command_id` INTEGER, `drama_id` INTEGER, `command_type` INTEGER, `param_01` TEXT, `param_02` TEXT, `param_03` TEXT, `param_04` TEXT, `param_05` TEXT, `param_06` TEXT, `param_07` TEXT, `param_08` TEXT);
 insert into dsb_drama_script values (1010801001, 1010801, 5, '10', '1', '70', '-165', '-345', '2', '0', 'dsb_idle_normal');
 insert into dsb_drama_script values (1010801002, 1010801, 5, '4', '2', '70', '165', '-345', '2', '1', 'dsb_idle_worry');
 insert into dsb_drama_script values (1010801003, 1010801, 5, '10', '99', '70', '-215', '-350', '2', '0', 'dsb_lago');

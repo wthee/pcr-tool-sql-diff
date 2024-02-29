@@ -1,4 +1,4 @@
-CREATE TABLE 'secret_dungeon_enemy_info' ('dungeon_area_id' INTEGER NOT NULL, 'floor_num' INTEGER NOT NULL, 'enemy_name' TEXT NOT NULL, PRIMARY KEY('dungeon_area_id','floor_num'));
+CREATE TABLE `secret_dungeon_enemy_info` (`dungeon_area_id` INTEGER, `floor_num` INTEGER, `enemy_name` TEXT);
 insert into secret_dungeon_enemy_info values (32001, 6, 'エレクトロ・ギガス');
 insert into secret_dungeon_enemy_info values (32001, 7, '壊乱の黒鎧騎士');
 insert into secret_dungeon_enemy_info values (32001, 8, 'ライライ');

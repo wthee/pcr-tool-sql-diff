@@ -1,4 +1,4 @@
-CREATE TABLE 'campaign_schedule' ('id' INTEGER NOT NULL, 'campaign_category' INTEGER NOT NULL, 'value' REAL NOT NULL, 'system_id' INTEGER NOT NULL, 'icon_image' INTEGER NOT NULL, 'lv_from' INTEGER NOT NULL, 'lv_to' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'level_id' INTEGER NOT NULL, 'shiori_group_id' INTEGER NOT NULL, 'duplication_order' INTEGER NOT NULL, 'beginner_id' INTEGER NOT NULL, 'campaign_type' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `campaign_schedule` (`id` INTEGER, `campaign_category` INTEGER, `value` REAL, `system_id` INTEGER, `icon_image` INTEGER, `lv_from` INTEGER, `lv_to` INTEGER, `start_time` TEXT, `end_time` TEXT, `level_id` INTEGER, `shiori_group_id` INTEGER, `duplication_order` INTEGER, `beginner_id` INTEGER, `campaign_type` INTEGER);
 insert into campaign_schedule values (1, 34, 2000.0, 103, 30, 1, -1, '2018/03/06 05:00:00', '2018/03/13 04:59:59', 0, 0, 0, 0, 1);
 insert into campaign_schedule values (2, 44, 2000.0, 103, 40, 1, -1, '2018/03/06 05:00:00', '2018/03/13 04:59:59', 0, 0, 0, 0, 1);
 insert into campaign_schedule values (3, 45, 2000.0, 104, 40, 1, -1, '2018/03/13 05:00:00', '2018/03/20 04:59:59', 0, 0, 0, 0, 1);
@@ -2056,7 +2056,20 @@ insert into campaign_schedule values (2114, 49, 5000.0, 111, 40, 251, -1, '2024/
 insert into campaign_schedule values (2115, 37, 5000.0, 109, 30, 1, -1, '2024/02/26 05:00:00', '2024/3/1 04:59:59', 0, 0, 0, 0, 1);
 insert into campaign_schedule values (2116, 38, 5000.0, 112, 30, 1, -1, '2024/02/26 05:00:00', '2024/3/1 04:59:59', 0, 0, 0, 0, 1);
 insert into campaign_schedule values (2117, 45, 2000.0, 104, 40, 1, -1, '2024/02/15 5:00:00', '2024/03/01 4:59:59', 0, 0, 0, 0, 1);
+insert into campaign_schedule values (2118, 151, 1500.0, 6004, 80, 1, -1, '2024/02/29 12:00:00', '2024/03/14 20:59:59', 0, 0, 0, 0, 1);
+insert into campaign_schedule values (2119, 152, 1500.0, 6005, 80, 1, -1, '2024/02/29 12:00:00', '2024/03/14 20:59:59', 0, 0, 0, 0, 1);
 insert into campaign_schedule values (2120, 651, 2500.0, 130, 100, 1, -1, '2024/02/15 5:00:00', '2024/3/1 04:59:59', 0, 0, 0, 0, 1);
+insert into campaign_schedule values (2121, 31, 2000.0, 101, 30, 251, -1, '2024/03/01 5:00:00', '2024/03/06 4:59:59', 0, 0, 0, 0, 1);
+insert into campaign_schedule values (2122, 41, 2000.0, 101, 40, 251, -1, '2024/03/01 5:00:00', '2024/03/06 4:59:59', 0, 0, 0, 0, 1);
+insert into campaign_schedule values (2123, 32, 2000.0, 102, 30, 251, -1, '2024/03/06 5:00:00', '2024/03/11 4:59:59', 0, 0, 0, 0, 1);
+insert into campaign_schedule values (2124, 42, 2000.0, 102, 40, 251, -1, '2024/03/06 5:00:00', '2024/03/11 4:59:59', 0, 0, 0, 0, 1);
+insert into campaign_schedule values (2125, 39, 2000.0, 111, 30, 251, -1, '2024/03/11 5:00:00', '2024/03/26 4:59:59', 0, 0, 0, 0, 1);
+insert into campaign_schedule values (2126, 49, 2000.0, 111, 40, 251, -1, '2024/03/11 5:00:00', '2024/03/26 4:59:59', 0, 0, 0, 0, 1);
+insert into campaign_schedule values (2127, 37, 2000.0, 109, 30, 1, -1, '2024/03/11 5:00:00', '2024/03/15 4:59:59', 0, 0, 0, 0, 1);
+insert into campaign_schedule values (2128, 38, 2000.0, 112, 30, 1, -1, '2024/03/11 5:00:00', '2024/03/15 4:59:59', 0, 0, 0, 0, 1);
+insert into campaign_schedule values (2129, 31, 3000.0, 101, 30, 251, -1, '2024/03/15 5:00:00', '2024/03/20 4:59:59', 0, 0, 0, 0, 1);
+insert into campaign_schedule values (2130, 41, 2000.0, 101, 40, 251, -1, '2024/03/15 5:00:00', '2024/03/20 4:59:59', 0, 0, 0, 0, 1);
+insert into campaign_schedule values (2131, 45, 2000.0, 104, 40, 1, -1, '2024/03/15 5:00:00', '2024/04/01 4:59:59', 0, 0, 0, 0, 1);
 insert into campaign_schedule values (5001, 81, 3000.0, 101, 82, 50, 100, '2022/12/16 5:00:00', '2023/12/16 4:59:59', 0, 0, 0, 0, 3);
 insert into campaign_schedule values (5002, 81, 5000.0, 101, 82, 101, 200, '2022/12/16 5:00:00', '2023/12/16 4:59:59', 0, 0, 0, 0, 3);
 insert into campaign_schedule values (5003, 82, 3000.0, 102, 82, 50, 100, '2022/12/16 5:00:00', '2023/12/16 4:59:59', 0, 0, 0, 0, 3);

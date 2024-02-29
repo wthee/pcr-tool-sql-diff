@@ -1,4 +1,4 @@
-CREATE TABLE 'legion_mission_reward_data' ('id' INTEGER NOT NULL, 'mission_reward_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_num' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `legion_mission_reward_data` (`id` INTEGER, `mission_reward_id` INTEGER, `reward_type` INTEGER, `reward_id` INTEGER, `reward_num` INTEGER);
 insert into legion_mission_reward_data values (100001011, 10000101, 12, 94002, 150000);
 insert into legion_mission_reward_data values (100001012, 10000101, 2, 22003, 6);
 insert into legion_mission_reward_data values (100001021, 10000102, 12, 94002, 500000);

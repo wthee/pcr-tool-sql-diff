@@ -1,4 +1,4 @@
-CREATE TABLE 'wtm_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'wtm_story_type' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_sub_story_id_1' INTEGER NOT NULL, 'condition_sub_story_id_2' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, 'emblem_id' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+CREATE TABLE `wtm_story_data` (`sub_story_id` INTEGER, `original_event_id` INTEGER, `title` TEXT, `wtm_story_type` INTEGER, `condition_quest_id` INTEGER, `condition_sub_story_id_1` INTEGER, `condition_sub_story_id_2` INTEGER, `reward_type` INTEGER, `reward_id` INTEGER, `reward_count` INTEGER, `emblem_id` INTEGER);
 insert into wtm_story_data values (5128071, 10128, '二人だけの時間', 2, 10128107, 0, 0, 8, 91002, 25, 0);
 insert into wtm_story_data values (5128072, 10128, '新居の必須条件', 2, 0, 5128071, 0, 8, 91002, 25, 0);
 insert into wtm_story_data values (5128073, 10128, '本当は誰よりも', 2, 0, 5128072, 0, 8, 91002, 25, 0);

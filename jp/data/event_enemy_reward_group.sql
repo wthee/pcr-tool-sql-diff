@@ -1,4 +1,4 @@
-CREATE TABLE 'event_enemy_reward_group' ('id' INTEGER NOT NULL, 'reward_group_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_num' INTEGER NOT NULL, 'odds' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `event_enemy_reward_group` (`id` INTEGER, `reward_group_id` INTEGER, `reward_type` INTEGER, `reward_id` INTEGER, `reward_num` INTEGER, `odds` INTEGER);
 insert into event_enemy_reward_group values (60000001, 10011001, 4, 101011, 1, 6);
 insert into event_enemy_reward_group values (60000002, 10011001, 4, 101071, 1, 6);
 insert into event_enemy_reward_group values (60000003, 10011001, 4, 101101, 1, 6);

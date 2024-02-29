@@ -1,4 +1,4 @@
-CREATE TABLE 'hatsune_boss_condition' ('boss_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'condition_quest_id_1' INTEGER NOT NULL, 'condition_quest_id_2' INTEGER NOT NULL, 'condition_boss_id_1' INTEGER NOT NULL, 'condition_boss_id_2' INTEGER NOT NULL, 'condition_gacha_step' INTEGER NOT NULL, 'force_unlock_time' TEXT NOT NULL, 'release_quest_id_1' INTEGER NOT NULL, 'release_quest_id_2' INTEGER NOT NULL, 'release_boss_id_1' INTEGER NOT NULL, 'release_boss_id_2' INTEGER NOT NULL, PRIMARY KEY('boss_id'));
+CREATE TABLE `hatsune_boss_condition` (`boss_id` INTEGER, `event_id` INTEGER, `condition_quest_id_1` INTEGER, `condition_quest_id_2` INTEGER, `condition_boss_id_1` INTEGER, `condition_boss_id_2` INTEGER, `condition_gacha_step` INTEGER, `force_unlock_time` TEXT, `release_quest_id_1` INTEGER, `release_quest_id_2` INTEGER, `release_boss_id_1` INTEGER, `release_boss_id_2` INTEGER);
 insert into hatsune_boss_condition values (1000101, 10001, 10001115, 0, 0, 0, 0, '2018/04/09 15:00:00', 10001201, 0, 1000102, 0);
 insert into hatsune_boss_condition values (1000102, 10001, 0, 0, 1000101, 0, 0, '0', 0, 0, 0, 0);
 insert into hatsune_boss_condition values (1000201, 10002, 10002115, 0, 0, 0, 0, '2018/05/08 15:00:00', 10002201, 0, 1000202, 0);
@@ -652,3 +652,9 @@ insert into hatsune_boss_condition values (1013902, 10139, 0, 0, 1013901, 0, 0, 
 insert into hatsune_boss_condition values (1013903, 10139, 0, 0, 1013902, 0, 0, '0', 0, 0, 1013904, 0);
 insert into hatsune_boss_condition values (1013904, 10139, 0, 0, 1013903, 0, 0, '0', 0, 0, 0, 0);
 insert into hatsune_boss_condition values (1013905, 10139, 0, 0, 1013904, 0, 0, '0', 0, 0, 0, 0);
+insert into hatsune_boss_condition values (1014001, 10140, 10140110, 0, 0, 0, 0, '2024/03/06 12:00:00', 10140201, 0, 1014002, 0);
+insert into hatsune_boss_condition values (1014002, 10140, 0, 0, 1014001, 0, 0, '0', 0, 0, 1014003, 0);
+insert into hatsune_boss_condition values (1014003, 10140, 0, 0, 1014002, 0, 0, '0', 0, 0, 1014004, 0);
+insert into hatsune_boss_condition values (1014004, 10140, 0, 0, 1014003, 0, 0, '0', 0, 0, 0, 0);
+insert into hatsune_boss_condition values (1014005, 10140, 0, 0, 1014004, 0, 0, '0', 0, 0, 0, 0);
+insert into hatsune_boss_condition values (1014006, 10140, 0, 0, 1014004, 0, 0, '0', 0, 0, 0, 0);

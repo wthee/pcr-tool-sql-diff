@@ -1,4 +1,4 @@
-CREATE TABLE 'campaign_freegacha_data' ('id' INTEGER NOT NULL, 'campaign_id' INTEGER NOT NULL, 'gacha_id' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `campaign_freegacha_data` (`id` INTEGER, `campaign_id` INTEGER, `gacha_id` INTEGER);
 insert into campaign_freegacha_data values (1, 1, 30007);
 insert into campaign_freegacha_data values (2, 1, 30008);
 insert into campaign_freegacha_data values (3, 2, 30012);
@@ -128,3 +128,4 @@ insert into campaign_freegacha_data values (126, 34, 50298);
 insert into campaign_freegacha_data values (127, 34, 30299);
 insert into campaign_freegacha_data values (128, 35, 40011);
 insert into campaign_freegacha_data values (129, 35, 30308);
+insert into campaign_freegacha_data values (130, 35, 50309);

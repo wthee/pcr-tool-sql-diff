@@ -1,4 +1,4 @@
-CREATE TABLE 'talent_quest_condition_data' ('quest_id' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_talent_skill_page' INTEGER NOT NULL, 'release_quest_id' INTEGER NOT NULL, PRIMARY KEY('quest_id'));
+CREATE TABLE `talent_quest_condition_data` (`quest_id` INTEGER, `condition_quest_id` INTEGER, `condition_talent_skill_page` INTEGER, `release_quest_id` INTEGER);
 insert into talent_quest_condition_data values (81001001, 0, 0, 81001002);
 insert into talent_quest_condition_data values (81001002, 81001001, 0, 81001003);
 insert into talent_quest_condition_data values (81001003, 81001002, 0, 81001004);

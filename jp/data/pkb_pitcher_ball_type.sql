@@ -1,4 +1,4 @@
-CREATE TABLE 'pkb_pitcher_ball_type' ('pitcher_id' INTEGER NOT NULL, 'ball_type' INTEGER NOT NULL, 'ball_type_name' TEXT NOT NULL, PRIMARY KEY('pitcher_id','ball_type'));
+CREATE TABLE `pkb_pitcher_ball_type` (`pitcher_id` INTEGER, `ball_type` INTEGER, `ball_type_name` TEXT);
 insert into pkb_pitcher_ball_type values (1, 1, 'ストレート');
 insert into pkb_pitcher_ball_type values (1, 2, 'カーブ');
 insert into pkb_pitcher_ball_type values (2, 3, 'ストレート');

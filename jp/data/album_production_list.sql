@@ -1,4 +1,4 @@
-CREATE TABLE 'album_production_list' ('id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `album_production_list` (`id` INTEGER, `unit_id` INTEGER, `type` INTEGER, `title` TEXT, `description` TEXT);
 insert into album_production_list values (10010101, 100101, 201, '解放演出1', '');
 insert into album_production_list values (10010102, 100101, 101, '絆ランク演出1', '');
 insert into album_production_list values (10010103, 100101, 102, '絆ランク演出2', '');
@@ -2258,6 +2258,14 @@ insert into album_production_list values (12890105, 128901, 104, '絆ランク�
 insert into album_production_list values (12890106, 128901, 105, '絆ランク演出5', '');
 insert into album_production_list values (12890107, 128901, 106, '絆ランク演出6', '');
 insert into album_production_list values (12890108, 128901, 107, '絆ランク演出7', '');
+insert into album_production_list values (12900101, 129001, 201, '解放演出1', '');
+insert into album_production_list values (12900102, 129001, 101, '絆ランク演出1', '');
+insert into album_production_list values (12900103, 129001, 102, '絆ランク演出2', '');
+insert into album_production_list values (12900104, 129001, 103, '絆ランク演出3', '');
+insert into album_production_list values (12900105, 129001, 104, '絆ランク演出4', '');
+insert into album_production_list values (12900106, 129001, 105, '絆ランク演出5', '');
+insert into album_production_list values (12900107, 129001, 106, '絆ランク演出6', '');
+insert into album_production_list values (12900108, 129001, 107, '絆ランク演出7', '');
 insert into album_production_list values (18010101, 180101, 201, '解放演出1', '');
 insert into album_production_list values (18010102, 180101, 101, '絆ランク演出1', '');
 insert into album_production_list values (18010103, 180101, 102, '絆ランク演出2', '');

@@ -1,4 +1,4 @@
-CREATE TABLE 'caravan_coin_shop_lineup' ('season_id' INTEGER NOT NULL, 'slot_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, 'currency_id' INTEGER NOT NULL, 'price' INTEGER NOT NULL, 'stock' INTEGER NOT NULL, PRIMARY KEY('slot_id'));
+CREATE TABLE `caravan_coin_shop_lineup` (`season_id` INTEGER, `slot_id` INTEGER, `reward_type` INTEGER, `reward_id` INTEGER, `reward_count` INTEGER, `currency_id` INTEGER, `price` INTEGER, `stock` INTEGER);
 insert into caravan_coin_shop_lineup values (1, 1, 2, 21952, 1, 96001, 20000, 1);
 insert into caravan_coin_shop_lineup values (1, 2, 2, 21904, 1, 96001, 10000, 1);
 insert into caravan_coin_shop_lineup values (1, 3, 2, 41000, 1, 96001, 10000, 1);

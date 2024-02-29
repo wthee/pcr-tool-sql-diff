@@ -1,4 +1,4 @@
-CREATE TABLE 'sjr_npc_action_odds' ('id' INTEGER NOT NULL, 'action_odds_id' INTEGER NOT NULL, 'distance' INTEGER NOT NULL, 'angle' INTEGER NOT NULL, 'rate' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `sjr_npc_action_odds` (`id` INTEGER, `action_odds_id` INTEGER, `distance` INTEGER, `angle` INTEGER, `rate` INTEGER);
 insert into sjr_npc_action_odds values (1, 1, 200, 30, 8500);
 insert into sjr_npc_action_odds values (2, 1, 5, 30, 1500);
 insert into sjr_npc_action_odds values (3, 2, 220, 60, 8500);

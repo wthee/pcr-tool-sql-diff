@@ -1,4 +1,4 @@
-CREATE TABLE 'odds_name_data' ('id' INTEGER NOT NULL, 'odds_file' TEXT NOT NULL, 'name' TEXT NOT NULL, 'icon_type' INTEGER NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `odds_name_data` (`id` INTEGER, `odds_file` TEXT, `name` TEXT, `icon_type` INTEGER, `description` TEXT);
 insert into odds_name_data values (1, 'box_rank_1-3', 'ランダム装備BOX', 99002, 'ランダムな装備が獲得できる。');
 insert into odds_name_data values (2, 'eq_rank_3-6', 'RANK3～6の装備アイテム', 99002, 'キャラのRANK1～4で必要となる装備アイテム');
 insert into odds_name_data values (3, 'eq_rank_4-7', 'RANK4～7の装備アイテム', 99002, 'キャラのRANK4～7で必要となる装備アイテム');
@@ -291,3 +291,5 @@ insert into odds_name_data values (1013801, '1013820101', 'カヤ（リベレイ
 insert into odds_name_data values (1013802, '1013820102', 'ノゾミのメモリーピース', 99002, '');
 insert into odds_name_data values (1013901, '1013920101', 'カヤ（リベレイター）のメモリーピース', 99002, '');
 insert into odds_name_data values (1013902, '1013920102', 'チカのメモリーピース', 99002, '');
+insert into odds_name_data values (1014001, '1014020101', 'ユニのメモリーピース', 99002, '');
+insert into odds_name_data values (1014002, '1014020102', 'ユカリのメモリーピース', 99002, '');

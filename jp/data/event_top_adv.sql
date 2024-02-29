@@ -1,4 +1,4 @@
-CREATE TABLE 'event_top_adv' ('event_top_adv_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'value_1' INTEGER NOT NULL, 'value_2' INTEGER NOT NULL, 'value_3' INTEGER NOT NULL, 'story_id' INTEGER NOT NULL, 'character_id' INTEGER NOT NULL, 'condition_type' INTEGER NOT NULL, 'condition_story_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('event_top_adv_id'));
+CREATE TABLE `event_top_adv` (`event_top_adv_id` INTEGER, `event_id` INTEGER, `type` INTEGER, `value_1` INTEGER, `value_2` INTEGER, `value_3` INTEGER, `story_id` INTEGER, `character_id` INTEGER, `condition_type` INTEGER, `condition_story_id` INTEGER, `start_time` TEXT, `end_time` TEXT);
 insert into event_top_adv values (1, 10004, 1004, 107601, 0, 0, 5004401, 107601, 0, 0, '2018/06/30 12:00:00', '2018/07/19 14:59:59');
 insert into event_top_adv values (2, 10004, 1002, 1000403, 1, 0, 5004402, 107601, 0, 0, '2018/06/30 12:00:00', '2018/07/19 14:59:59');
 insert into event_top_adv values (3, 10004, 1001, 10, 0, 0, 5004403, 107701, 0, 0, '2018/06/30 12:00:00', '2018/07/19 14:59:59');
@@ -2084,6 +2084,14 @@ insert into event_top_adv values (10139008, 10139, 1002, 1013903, 1, 0, 5111422,
 insert into event_top_adv values (10139009, 10139, 1003, 7, 0, 0, 5111426, 125001, 1, 5111005, '2024/02/09 12:00:00', '2024/02/22 20:59:59');
 insert into event_top_adv values (10139010, 10139, 1003, 8, 0, 0, 5111427, 124801, 1, 5111005, '2024/02/09 12:00:00', '2024/02/22 20:59:59');
 insert into event_top_adv values (10139011, 10139, 1003, 9, 0, 0, 5111428, 124901, 1, 5111005, '2024/02/09 12:00:00', '2024/02/22 20:59:59');
+insert into event_top_adv values (10140001, 10140, 1002, 1014003, 1, 0, 5140402, 110901, 0, 0, '2024/02/29 12:00:00', '2024/03/14 20:59:59');
+insert into event_top_adv values (10140002, 10140, 1002, 1014003, 1, 0, 5140422, 129501, 1, 5140002, '2024/02/29 12:00:00', '2024/03/14 20:59:59');
+insert into event_top_adv values (10140003, 10140, 1003, 2, 0, 0, 5140406, 129501, 1, 5140002, '2024/02/29 12:00:00', '2024/03/14 20:59:59');
+insert into event_top_adv values (10140004, 10140, 1003, 4, 0, 0, 5140407, 129301, 1, 5140002, '2024/02/29 12:00:00', '2024/03/14 20:59:59');
+insert into event_top_adv values (10140005, 10140, 1003, 7, 0, 0, 5140408, 129401, 1, 5140002, '2024/02/29 12:00:00', '2024/03/14 20:59:59');
+insert into event_top_adv values (10140006, 10140, 1003, 10, 0, 0, 5140409, 129501, 1, 5140002, '2024/02/29 12:00:00', '2024/03/14 20:59:59');
+insert into event_top_adv values (10140007, 10140, 1003, 13, 0, 0, 5140410, 129301, 1, 5140002, '2024/02/29 12:00:00', '2024/03/14 20:59:59');
+insert into event_top_adv values (10140008, 10140, 1003, 15, 0, 0, 5140411, 129301, 1, 5140002, '2024/02/29 12:00:00', '2024/03/14 20:59:59');
 insert into event_top_adv values (20004001, 20004, 1004, 107601, 0, 0, 5004401, 107601, 0, 0, '2020/06/19 15:00:00', '2030/07/22 20:59:59');
 insert into event_top_adv values (20004002, 20004, 1002, 2000403, 1, 0, 5004402, 107601, 0, 0, '2020/06/19 15:00:00', '2030/07/22 20:59:59');
 insert into event_top_adv values (20004003, 20004, 1003, 2, 0, 0, 5004406, 107501, 0, 0, '2020/06/19 15:00:00', '2030/07/22 20:59:59');

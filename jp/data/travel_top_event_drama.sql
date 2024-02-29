@@ -1,4 +1,4 @@
-CREATE TABLE 'travel_top_event_drama' ('command_id' INTEGER NOT NULL, 'drama_id' INTEGER NOT NULL, 'command_type' INTEGER NOT NULL, 'param_01' TEXT NOT NULL, 'param_02' TEXT NOT NULL, 'param_03' TEXT NOT NULL, 'param_04' TEXT NOT NULL, 'param_05' TEXT NOT NULL, 'param_06' TEXT NOT NULL, 'param_07' TEXT NOT NULL, 'param_08' TEXT NOT NULL, PRIMARY KEY('command_id'));
+CREATE TABLE `travel_top_event_drama` (`command_id` INTEGER, `drama_id` INTEGER, `command_type` INTEGER, `param_01` TEXT, `param_02` TEXT, `param_03` TEXT, `param_04` TEXT, `param_05` TEXT, `param_06` TEXT, `param_07` TEXT, `param_08` TEXT);
 insert into travel_top_event_drama values (1200110001, 20011, 1, '1', '105811', '101', '42', '-68', '0.8', '1', 'travel_topdrama_r_2000_idle_smile');
 insert into travel_top_event_drama values (1200110002, 20011, 1, '1', '106011', '102', '-42', '-68', '0.8', '0', 'travel_topdrama_r_2000_idle_sad_shy');
 insert into travel_top_event_drama values (1200110003, 20011, 5, '0', '0', '110', '0', '-75', '1', '0', 'mana');

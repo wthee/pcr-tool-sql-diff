@@ -1,4 +1,4 @@
-CREATE TABLE 'legion_battle_bonus' ('legion_battle_bonus_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'legion_boss_id' INTEGER NOT NULL, 'condition_hp' TEXT NOT NULL, 'legion_battle_effect_id' INTEGER NOT NULL, 'duration' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('legion_battle_bonus_id'));
+CREATE TABLE `legion_battle_bonus` (`legion_battle_bonus_id` INTEGER, `type` INTEGER, `legion_boss_id` INTEGER, `condition_hp` TEXT, `legion_battle_effect_id` INTEGER, `duration` INTEGER, `title` TEXT, `description` TEXT);
 insert into legion_battle_bonus values (1005, 2, 1005, '0', 1005, 0, 'ＴＰ250アップ', 'バトル開始時、味方のＴＰが250アップ');
 insert into legion_battle_bonus values (1006, 2, 1006, '0', 1006, 0, 'ＴＰ250アップ', 'バトル開始時、味方のＴＰが250アップ');
 insert into legion_battle_bonus values (1007, 2, 1007, '0', 1007, 0, 'ＴＰ250アップ', 'バトル開始時、味方のＴＰが250アップ');

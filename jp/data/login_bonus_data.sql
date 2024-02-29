@@ -1,4 +1,4 @@
-CREATE TABLE 'login_bonus_data' ('login_bonus_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'login_bonus_type' INTEGER NOT NULL, 'count_num' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'bg_id' INTEGER NOT NULL, 'stamp_id' INTEGER NOT NULL, 'odds_group_id' INTEGER NOT NULL, 'adv_play_type' INTEGER NOT NULL, 'count_type' INTEGER NOT NULL, PRIMARY KEY('login_bonus_id'));
+CREATE TABLE `login_bonus_data` (`login_bonus_id` INTEGER, `name` TEXT, `login_bonus_type` INTEGER, `count_num` INTEGER, `start_time` TEXT, `end_time` TEXT, `bg_id` INTEGER, `stamp_id` INTEGER, `odds_group_id` INTEGER, `adv_play_type` INTEGER, `count_type` INTEGER);
 insert into login_bonus_data values (20000, 'スタートダッシュログインキャンペーン', 2, 10, '2016/09/01 15:00:00', '2023/02/16 4:59:59', 530100, 0, 0, 0, 0);
 insert into login_bonus_data values (20001, 'スタートダッシュログインキャンペーン', 2, 10, '2023/02/16 5:00:00', '2099/01/01 23:59:00', 530100, 0, 0, 0, 0);
 insert into login_bonus_data values (30000, 'ログインボーナス', 3, 15, '2016/04/01 15:00:00', '2099/01/01 23:59:00', 0, 0, 0, 0, 0);

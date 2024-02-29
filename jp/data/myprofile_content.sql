@@ -1,4 +1,4 @@
-CREATE TABLE 'myprofile_content' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `myprofile_content` (`id` INTEGER, `name` TEXT, `start_time` TEXT, `end_time` TEXT, `disp_order` INTEGER);
 insert into myprofile_content values (1, 'ピンク', '2019-05-17 15:00:00', '', 17);
 insert into myprofile_content values (2, 'レッド', '2019-05-17 15:00:00', '', 18);
 insert into myprofile_content values (3, 'イエロー', '2019-05-17 15:00:00', '', 19);

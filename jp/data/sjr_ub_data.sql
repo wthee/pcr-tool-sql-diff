@@ -1,4 +1,4 @@
-CREATE TABLE 'sjr_ub_data' ('ub_id' INTEGER NOT NULL, 'top_description' TEXT NOT NULL, 'in_game_description' TEXT NOT NULL, 'ub_type' INTEGER NOT NULL, 'ub_value_1' INTEGER NOT NULL, 'ub_value_2' INTEGER NOT NULL, 'ub_value_3' INTEGER NOT NULL, 'ub_value_4' INTEGER NOT NULL, PRIMARY KEY('ub_id'));
+CREATE TABLE `sjr_ub_data` (`ub_id` INTEGER, `top_description` TEXT, `in_game_description` TEXT, `ub_type` INTEGER, `ub_value_1` INTEGER, `ub_value_2` INTEGER, `ub_value_3` INTEGER, `ub_value_4` INTEGER);
 insert into sjr_ub_data values (101, '短時間、障害物バリアを展開する\u3000（ＴＰ上昇率：大）', '短時間、障害物バリアを展開！', 2001, 3, 0, 0, 0);
 insert into sjr_ub_data values (102, '中時間、スピードとジャンプを\u3000\u3000小アップ（ＴＰ上昇率：小）', '中時間、スピードとジャンプ小アップ！', 3, 5, 5, 5, 0);
 insert into sjr_ub_data values (103, '短時間、スピードを中アップ\u3000\u3000\u3000（ＴＰ上昇率：中）', '短時間、スピード中アップ！', 1, 4, 6, 0, 0);

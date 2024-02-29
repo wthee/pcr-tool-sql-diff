@@ -1,4 +1,4 @@
-CREATE TABLE 'asm_memory_gauge' ('gauge_id' INTEGER NOT NULL, 'trigger_score' INTEGER NOT NULL, 'completion_detail' TEXT NOT NULL, 'unlock_story_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, PRIMARY KEY('gauge_id','trigger_score'));
+CREATE TABLE `asm_memory_gauge` (`gauge_id` INTEGER, `trigger_score` INTEGER, `completion_detail` TEXT, `unlock_story_id` INTEGER, `reward_type` INTEGER, `reward_id` INTEGER, `reward_count` INTEGER);
 insert into asm_memory_gauge values (1, 2500, '累計スコアを2500pt 獲得しよう', 5126700, 12, 94002, 50000);
 insert into asm_memory_gauge values (1, 5000, '累計スコアを5000pt 獲得しよう', 0, 12, 94002, 50000);
 insert into asm_memory_gauge values (1, 7500, '累計スコアを7500pt 獲得しよう', 0, 12, 94002, 50000);

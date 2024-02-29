@@ -1,4 +1,4 @@
-CREATE TABLE 'pkb_batter_condition' ('batter_id' INTEGER NOT NULL, 'pkb_score' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'detail' TEXT NOT NULL, 'meet' INTEGER NOT NULL, 'critical' INTEGER NOT NULL, 'power' INTEGER NOT NULL, 'ability_name' TEXT NOT NULL, 'ability_detail' TEXT NOT NULL, 'is_playable' INTEGER NOT NULL, PRIMARY KEY('batter_id'));
+CREATE TABLE `pkb_batter_condition` (`batter_id` INTEGER, `pkb_score` INTEGER, `name` TEXT, `detail` TEXT, `meet` INTEGER, `critical` INTEGER, `power` INTEGER, `ability_name` TEXT, `ability_detail` TEXT, `is_playable` INTEGER);
 insert into pkb_batter_condition values (1, 0, 'アヤネ', '', 1, 2, 1, '---', '', 1);
 insert into pkb_batter_condition values (2, 6000, 'アサヒ', '逆境に屈することなく、部員たちを引っ張る主将。ミート力を活かした安定感のある打撃が持ち味。', 0, 1, 3, '---', '', 1);
 insert into pkb_batter_condition values (3, 16000, '部員3', '無愛想だが仲間を大切に想う気持ちは誰よりも強い男。ケンカで鍛えた腕っぷしが自慢のパワーヒッター。', 3, 3, 0, 'アドレナリン', 'ホームランを連発すると、連発数に応じてパワーアップする', 1);

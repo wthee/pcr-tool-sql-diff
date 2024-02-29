@@ -1,4 +1,4 @@
-CREATE TABLE 'actual_unit_background' ('unit_id' INTEGER NOT NULL, 'unit_name' TEXT NOT NULL, 'bg_id' INTEGER NOT NULL, 'face_type' INTEGER NOT NULL, PRIMARY KEY('unit_id'));
+CREATE TABLE `actual_unit_background` (`unit_id` INTEGER, `unit_name` TEXT, `bg_id` INTEGER, `face_type` INTEGER);
 insert into actual_unit_background values (100131, '春咲 ひより', 510100, 4);
 insert into actual_unit_background values (100231, '草野 優衣', 510220, 2);
 insert into actual_unit_background values (100331, '士条 怜', 510350, 2);
@@ -235,6 +235,7 @@ insert into actual_unit_background values (128531, '霧原 かすみ', 510160, 2
 insert into actual_unit_background values (128731, '春咲 ひより', 510301, 9);
 insert into actual_unit_background values (128831, '士条 怜', 510150, 2);
 insert into actual_unit_background values (128931, '草野 優衣', 510240, 2);
+insert into actual_unit_background values (129031, '紫苑 エリ', 510124, 4);
 insert into actual_unit_background values (180131, '春咲 ひより', 510121, 4);
 insert into actual_unit_background values (180231, '草野 優衣', 510350, 2);
 insert into actual_unit_background values (180331, '士条 怜', 510100, 2);

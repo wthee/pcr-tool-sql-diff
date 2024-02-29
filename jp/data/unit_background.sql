@@ -1,4 +1,4 @@
-CREATE TABLE 'unit_background' ('unit_id' INTEGER NOT NULL, 'unit_name' TEXT NOT NULL, 'bg_id' INTEGER NOT NULL, 'bg_name' TEXT NOT NULL, 'position' REAL NOT NULL, 'face_type' INTEGER NOT NULL, PRIMARY KEY('unit_id'));
+CREATE TABLE `unit_background` (`unit_id` INTEGER, `unit_name` TEXT, `bg_id` INTEGER, `bg_name` TEXT, `position` REAL, `face_type` INTEGER);
 insert into unit_background values (100101, '春咲 ひより', 500040, 'ランドソル ギルドハウス', 0.0, 9);
 insert into unit_background values (100201, '草野 優衣', 500040, 'ランドソル ギルドハウス', 0.0, 4);
 insert into unit_background values (100301, '士条 怜', 500040, 'ランドソル ギルドハウス', 0.0, 3);
@@ -242,6 +242,7 @@ insert into unit_background values (128501, 'カスミ（ニューイヤー）',
 insert into unit_background values (128701, 'ヒヨリ（アストラル）', 500140, 'プラノ平原', 0.0, 2);
 insert into unit_background values (128801, 'レイ（アストラル）', 500140, 'プラノ平原', 0.0, 3);
 insert into unit_background values (128901, 'ユイ（アストラル）', 500140, 'プラノ平原', 0.0, 2);
+insert into unit_background values (129001, 'エリス', 500510, '花畑', 0.0, 2);
 insert into unit_background values (180101, 'ヒヨリ（プリンセス）', 500130, 'エステレラ街道', 0.0, 2);
 insert into unit_background values (180201, 'ユイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 4);
 insert into unit_background values (180301, 'レイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 3);

@@ -1,4 +1,4 @@
-CREATE TABLE 'kaiser_add_times_data' ('id' INTEGER NOT NULL, 'add_times' INTEGER NOT NULL, 'add_times_time' TEXT NOT NULL, 'duration' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `kaiser_add_times_data` (`id` INTEGER, `add_times` INTEGER, `add_times_time` TEXT, `duration` INTEGER);
 insert into kaiser_add_times_data values (1, 1, '2019/12/22 17:00:00', 0);
 insert into kaiser_add_times_data values (2, 1, '2019/12/22 19:00:00', 120);
 insert into kaiser_add_times_data values (3, 1, '2019/12/22 21:00:00', 120);

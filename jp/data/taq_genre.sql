@@ -1,4 +1,4 @@
-CREATE TABLE 'taq_genre' ('genre_id' INTEGER NOT NULL, 'genre_name' TEXT NOT NULL, PRIMARY KEY('genre_id'));
+CREATE TABLE `taq_genre` (`genre_id` INTEGER, `genre_name` TEXT);
 insert into taq_genre values (1, 'バトル・スポーツ');
 insert into taq_genre values (2, 'ことば・物語');
 insert into taq_genre values (3, 'カルチャー・雑学');

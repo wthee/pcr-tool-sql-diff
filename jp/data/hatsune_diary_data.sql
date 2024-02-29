@@ -1,4 +1,4 @@
-CREATE TABLE 'hatsune_diary_data' ('diary_id' INTEGER NOT NULL, 'contents_type' INTEGER NOT NULL, 'diary_date' INTEGER NOT NULL, 'sub_title' TEXT NOT NULL, 'forced_release_time' TEXT NOT NULL, 'condition_time' TEXT NOT NULL, 'condition_story_id' INTEGER NOT NULL, 'condition_boss_count' INTEGER NOT NULL, PRIMARY KEY('diary_id'));
+CREATE TABLE `hatsune_diary_data` (`diary_id` INTEGER, `contents_type` INTEGER, `diary_date` INTEGER, `sub_title` TEXT, `forced_release_time` TEXT, `condition_time` TEXT, `condition_story_id` INTEGER, `condition_boss_count` INTEGER);
 insert into hatsune_diary_data values (1, 0, 1, 'どうしてこんな\\nことに……？', '2030/01/01 1:00:00', '2020/08/16 5:00:00', 5023000, 0);
 insert into hatsune_diary_data values (2, 0, 2, 'ごきげんようが\\n言えなくて', '2030/01/01 1:00:00', '2020/08/16 5:00:00', 5023001, 0);
 insert into hatsune_diary_data values (3, 0, 3, 'やっちゃった！', '2030/01/01 1:00:00', '2020/08/16 5:00:00', 5023002, 0);

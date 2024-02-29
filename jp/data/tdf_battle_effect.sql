@@ -1,4 +1,4 @@
-CREATE TABLE 'tdf_battle_effect' ('id' INTEGER NOT NULL, 'quest_id' INTEGER NOT NULL, 'icon_name' TEXT NOT NULL, 'effect_name' TEXT NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `tdf_battle_effect` (`id` INTEGER, `quest_id` INTEGER, `icon_name` TEXT, `effect_name` TEXT, `description` TEXT);
 insert into tdf_battle_effect values (1, 74001102, 'add_shadow', 'シャドウ1体追加', 'ジータのシャドウが追加される。');
 insert into tdf_battle_effect values (2, 74001103, 'add_shadow', 'シャドウ3体追加', 'ジータ、サレン（サマー）、アメスのシャドウが追加される。');
 insert into tdf_battle_effect values (3, 74001104, 'star6_shadow', 'シャドウ★6化', 'ノゾミのシャドウが★6になる。');

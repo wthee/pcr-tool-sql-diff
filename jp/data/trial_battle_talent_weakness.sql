@@ -1,4 +1,4 @@
-CREATE TABLE 'trial_battle_talent_weakness' ('wave_group_id' INTEGER NOT NULL, 'talent_weakness' INTEGER NOT NULL, PRIMARY KEY('wave_group_id'));
+CREATE TABLE `trial_battle_talent_weakness` (`wave_group_id` INTEGER, `talent_weakness` INTEGER);
 insert into trial_battle_talent_weakness values (701000101, 150);
 insert into trial_battle_talent_weakness values (701000102, 150);
 insert into trial_battle_talent_weakness values (701000103, 150);

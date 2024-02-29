@@ -1,2 +1,2 @@
-CREATE TABLE 'hatsune_ex_plus_setting' ('id' INTEGER NOT NULL, 'limit_challenge_count' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `hatsune_ex_plus_setting` (`id` INTEGER, `limit_challenge_count` INTEGER);
 insert into hatsune_ex_plus_setting values (1, 10);

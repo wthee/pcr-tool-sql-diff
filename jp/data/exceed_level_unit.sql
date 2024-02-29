@@ -1,4 +1,4 @@
-CREATE TABLE 'exceed_level_unit' ('id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'exceed_stage' INTEGER NOT NULL, 'exceed_item_id' INTEGER NOT NULL, 'item_id_1' INTEGER NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'consume_num_1' INTEGER NOT NULL, 'item_id_2' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'consume_num_2' INTEGER NOT NULL, 'item_id_3' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'consume_num_3' INTEGER NOT NULL, 'item_id_4' INTEGER NOT NULL, 'reward_type_4' INTEGER NOT NULL, 'consume_num_4' INTEGER NOT NULL, 'item_id_5' INTEGER NOT NULL, 'reward_type_5' INTEGER NOT NULL, 'consume_num_5' INTEGER NOT NULL, PRIMARY KEY('unit_id','exceed_stage'));
+CREATE TABLE `exceed_level_unit` (`id` INTEGER, `unit_id` INTEGER, `exceed_stage` INTEGER, `exceed_item_id` INTEGER, `item_id_1` INTEGER, `reward_type_1` INTEGER, `consume_num_1` INTEGER, `item_id_2` INTEGER, `reward_type_2` INTEGER, `consume_num_2` INTEGER, `item_id_3` INTEGER, `reward_type_3` INTEGER, `consume_num_3` INTEGER, `item_id_4` INTEGER, `reward_type_4` INTEGER, `consume_num_4` INTEGER, `item_id_5` INTEGER, `reward_type_5` INTEGER, `consume_num_5` INTEGER);
 insert into exceed_level_unit values (1100101, 100101, 1, 41001, 31001, 2, 120, 94000, 12, 20000000, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into exceed_level_unit values (1100201, 100201, 1, 41002, 31002, 2, 120, 94000, 12, 20000000, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into exceed_level_unit values (1100301, 100301, 1, 41003, 31003, 2, 120, 94000, 12, 20000000, 0, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -242,6 +242,7 @@ insert into exceed_level_unit values (1128501, 128501, 1, 41285, 31285, 2, 40, 9
 insert into exceed_level_unit values (1128701, 128701, 1, 41287, 31287, 2, 40, 94000, 12, 30000000, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into exceed_level_unit values (1128801, 128801, 1, 41288, 31288, 2, 40, 94000, 12, 30000000, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into exceed_level_unit values (1128901, 128901, 1, 41289, 31289, 2, 40, 94000, 12, 30000000, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into exceed_level_unit values (1129001, 129001, 1, 41290, 31290, 2, 40, 94000, 12, 30000000, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into exceed_level_unit values (1180101, 180101, 1, 41801, 31801, 2, 40, 94000, 12, 30000000, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into exceed_level_unit values (1180201, 180201, 1, 41802, 31802, 2, 40, 94000, 12, 30000000, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into exceed_level_unit values (1180301, 180301, 1, 41803, 31803, 2, 40, 94000, 12, 30000000, 0, 0, 0, 0, 0, 0, 0, 0, 0);

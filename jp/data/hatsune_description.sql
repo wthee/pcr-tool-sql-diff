@@ -1,4 +1,4 @@
-CREATE TABLE 'hatsune_description' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `hatsune_description` (`id` INTEGER, `event_id` INTEGER, `type` INTEGER, `description` TEXT);
 insert into hatsune_description values (1, 10001, 1, 'イベントでは、特別なストーリーを楽しめます。\\nイベントストーリーは、イベントクエストを進めると解放されていきます。');
 insert into hatsune_description values (2, 10001, 1, 'イベントクエストを進めるとボスが登場します。\\nボスには、ボスチケットを使うことで挑むことができます。\\nボス撃破で、討伐証を大量にゲットできるので、思い切って挑戦しましょう。');
 insert into hatsune_description values (3, 10001, 1, '討伐証交換は、報酬ゲットのチャンスです。\\n報酬の中には、イベントに登場するキャラのメモリーピースもあります。\\nたくさん集めてキャラを仲間にしましょう。');
@@ -796,6 +796,12 @@ insert into hatsune_description values (1013902, 10139, 1, '強力なボス、VE
 insert into hatsune_description values (1013903, 10139, 1, '討伐証交換は、報酬ゲットのチャンスです。\\n報酬の中には、イベントに登場するキャラのメモリーピースもあります。\\nたくさん集めてキャラを仲間にしましょう。');
 insert into hatsune_description values (1013904, 10139, 3, 'SPECIALはバトルモードが３段階変化するバトルです。\\nより豪華な報酬やミッション報酬をゲットしましょう。\\n期間中１体しか討伐できないので編成を工夫して挑戦しましょう。');
 insert into hatsune_description values (1013905, 10139, 3, 'EXHIBITIONでは、SPECIALのボスと何度も戦えます。\\nまた、バトルのログを保存して振り返ることができるので、\\n独自の攻略法を見つけたり、様々な編成を試してみましょう。');
+insert into hatsune_description values (1014001, 10140, 1, 'イベントでは、特別なストーリーを楽しめます。\\nイベントストーリーはイベントクエストを進めると解放されていきます。');
+insert into hatsune_description values (1014002, 10140, 1, '強力なボス、VERY HARDが登場します。\\nVERY HARDボスは１日に１体討伐が可能です。\\n準備をしっかりして、気を引き締めて挑みましょう。');
+insert into hatsune_description values (1014003, 10140, 1, '討伐証交換は、報酬ゲットのチャンスです。\\nメモリーピースやプリンセスナイト強化素材もございますので、\\n主さまもお仲間の皆さまも、さらなる成長を目指せますね。');
+insert into hatsune_description values (1014004, 10140, 3, 'SPECIALはバトルモードが３段階変化するバトルです。\\nより豪華な報酬やミッション報酬をゲットしましょう。期間中１体しか討伐できないので編成を工夫して挑戦しましょう。');
+insert into hatsune_description values (1014005, 10140, 3, 'EXHIBITIONでは、SPECIALのボスと何度も戦えます。\\nまた、バトルのログを保存して振り返ることができるので、\\n独自の攻略法を見つけたり、様々な編成を試してみましょう。');
+insert into hatsune_description values (1014006, 10140, 7, 'EXHIBITION＋は、SPECIALがさらに強力になったボスバトルです。\\nボスチケットは消費されませんが、討伐までの挑戦回数に制限がござい\\nます。アドバンス効果で強化されたキャラと共に強敵に挑みましょう。');
 insert into hatsune_description values (100210105, 10021, 1, 'イベントでは、特別なストーリーを楽しめます。\\nイベントストーリーはイベントクエストを進めると解放されていきます。');
 insert into hatsune_description values (100210106, 10021, 1, 'イベント限定のミッションを達成すると解放できる\\nキャラが登場します。イベントの期間内に\\nミッションクリアを目指しましょう。');
 insert into hatsune_description values (100210107, 10021, 1, '強力なボス、VERY HARDが登場します。\\nVERY HARDボスは１日に１体討伐が可能です。\\n準備をしっかりして、気を引き締めて挑みましょう。');

@@ -1,4 +1,4 @@
-CREATE TABLE 'spskill_label_data' ('unit_id' INTEGER NOT NULL, 'normal_label_text' TEXT NOT NULL, 'sp_label_text' TEXT NOT NULL, PRIMARY KEY('unit_id'));
+CREATE TABLE `spskill_label_data` (`unit_id` INTEGER, `normal_label_text` TEXT, `sp_label_text` TEXT);
 insert into spskill_label_data values (106101, '通常時', '装備中');
 insert into spskill_label_data values (106701, '通常時', '特殊スキル');
 insert into spskill_label_data values (106801, '通常時', '権能解放中');
@@ -19,3 +19,4 @@ insert into spskill_label_data values (126101, '通常時', '特殊スキル');
 insert into spskill_label_data values (126201, '通常時', '特殊スキル');
 insert into spskill_label_data values (126401, '通常時', '【フルチャージ】中');
 insert into spskill_label_data values (126501, '通常時', '特殊スキル');
+insert into spskill_label_data values (129001, '通常時', '特殊スキル');

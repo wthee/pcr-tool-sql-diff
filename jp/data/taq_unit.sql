@@ -1,4 +1,4 @@
-CREATE TABLE 'taq_unit' ('unit_id' INTEGER NOT NULL, 'sort_order' INTEGER NOT NULL, 'personality_id' INTEGER NOT NULL, 'genre_status_1' INTEGER NOT NULL, 'genre_status_2' INTEGER NOT NULL, 'genre_status_3' INTEGER NOT NULL, 'genre_status_4' INTEGER NOT NULL, 'genre_status_5' INTEGER NOT NULL, 'genre_status_6' INTEGER NOT NULL, PRIMARY KEY('unit_id'));
+CREATE TABLE `taq_unit` (`unit_id` INTEGER, `sort_order` INTEGER, `personality_id` INTEGER, `genre_status_1` INTEGER, `genre_status_2` INTEGER, `genre_status_3` INTEGER, `genre_status_4` INTEGER, `genre_status_5` INTEGER, `genre_status_6` INTEGER);
 insert into taq_unit values (100101, 6, 2, 1, 2, 3, 3, 2, 1);
 insert into taq_unit values (100201, 5, 1, 3, 1, 2, 3, 1, 2);
 insert into taq_unit values (100301, 7, 3, 1, 1, 3, 2, 2, 3);

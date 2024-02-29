@@ -1,4 +1,4 @@
-CREATE TABLE 'psy_drama_script' ('command_id' INTEGER NOT NULL, 'drama_id' INTEGER NOT NULL, 'command_type' INTEGER NOT NULL, 'param_01' TEXT NOT NULL, 'param_02' TEXT NOT NULL, 'param_03' TEXT NOT NULL, 'param_04' TEXT NOT NULL, 'param_05' TEXT NOT NULL, 'param_06' TEXT NOT NULL, 'param_07' TEXT NOT NULL, 'param_08' TEXT NOT NULL, PRIMARY KEY('command_id'));
+CREATE TABLE `psy_drama_script` (`command_id` INTEGER, `drama_id` INTEGER, `command_type` INTEGER, `param_01` TEXT, `param_02` TEXT, `param_03` TEXT, `param_04` TEXT, `param_05` TEXT, `param_06` TEXT, `param_07` TEXT, `param_08` TEXT);
 insert into psy_drama_script values (1001, 1, 1, '1', '119931', '100', '-200', '-220', '1.7', '0', 'psy_miyako_idle');
 insert into psy_drama_script values (1002, 1, 5, '1', '1', '100', '1000', '-220', '1.7', '1', 'psy_idle_normal');
 insert into psy_drama_script values (1003, 1, 5, '1', '2', '105', '-50', '-220', '1.7', '0', 'psy_fairy_idle');

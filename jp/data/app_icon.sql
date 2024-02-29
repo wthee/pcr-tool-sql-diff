@@ -1,4 +1,4 @@
-CREATE TABLE 'app_icon' ('id' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `app_icon` (`id` INTEGER);
 insert into app_icon values (100131,);
 insert into app_icon values (100231,);
 insert into app_icon values (100331,);

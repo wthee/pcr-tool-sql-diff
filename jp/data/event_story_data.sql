@@ -1,4 +1,4 @@
-CREATE TABLE 'event_story_data' ('story_group_id' INTEGER NOT NULL, 'story_type' INTEGER NOT NULL, 'value' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'thumbnail_id' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('story_group_id'));
+CREATE TABLE `event_story_data` (`story_group_id` INTEGER, `story_type` INTEGER, `value` INTEGER, `title` TEXT, `thumbnail_id` INTEGER, `disp_order` INTEGER, `start_time` TEXT, `end_time` TEXT);
 insert into event_story_data values (5001, 5, 20001, 'ハツネのプレゼント大作戦', 0, 1, '2018/03/31 15:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5002, 5, 20002, 'リトル・リリカル・アドベンチャーズ！', 0, 1, '2018/04/30 12:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5003, 5, 20003, 'ヴァンパイアハンター\\nwithイリヤ', 0, 1, '2018/05/25 16:00:00', '2030/04/24 14:59:59');

@@ -1,4 +1,4 @@
-CREATE TABLE 'bmy_navi_comment' ('comment_id' INTEGER NOT NULL, 'where_type' INTEGER NOT NULL, 'character_id' INTEGER NOT NULL, 'face_type' INTEGER NOT NULL, 'voice_id' INTEGER NOT NULL, 'pos_x' REAL NOT NULL, 'pos_y' REAL NOT NULL, 'change_face_time' REAL NOT NULL, 'change_face_type' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, PRIMARY KEY('comment_id'));
+CREATE TABLE `bmy_navi_comment` (`comment_id` INTEGER, `where_type` INTEGER, `character_id` INTEGER, `face_type` INTEGER, `voice_id` INTEGER, `pos_x` REAL, `pos_y` REAL, `change_face_time` REAL, `change_face_type` INTEGER, `original_event_id` INTEGER);
 insert into bmy_navi_comment values (58001, 58, 126301, 1, 101, -375.0, 0.0, 10.11, 5, 10120);
 insert into bmy_navi_comment values (58002, 58, 126301, 1, 102, -375.0, 0.0, 4.53, 2, 10120);
 insert into bmy_navi_comment values (58003, 58, 126301, 5, 103, -375.0, 0.0, 0.0, 5, 10120);

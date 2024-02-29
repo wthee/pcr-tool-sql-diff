@@ -1,4 +1,4 @@
-CREATE TABLE 'enemy_enable_voice' ('unit_id' INTEGER NOT NULL, 'voice_id' INTEGER NOT NULL, PRIMARY KEY('unit_id'));
+CREATE TABLE `enemy_enable_voice` (`unit_id` INTEGER, `voice_id` INTEGER);
 insert into enemy_enable_voice values (209700, 209700);
 insert into enemy_enable_voice values (209701, 209700);
 insert into enemy_enable_voice values (209702, 209700);
@@ -141,3 +141,12 @@ insert into enemy_enable_voice values (320505, 320500);
 insert into enemy_enable_voice values (320506, 320500);
 insert into enemy_enable_voice values (320507, 320500);
 insert into enemy_enable_voice values (320508, 320500);
+insert into enemy_enable_voice values (320700, 320700);
+insert into enemy_enable_voice values (320701, 320700);
+insert into enemy_enable_voice values (320702, 320700);
+insert into enemy_enable_voice values (320703, 320700);
+insert into enemy_enable_voice values (320704, 320700);
+insert into enemy_enable_voice values (320705, 320700);
+insert into enemy_enable_voice values (320706, 320700);
+insert into enemy_enable_voice values (320707, 320700);
+insert into enemy_enable_voice values (320708, 320700);

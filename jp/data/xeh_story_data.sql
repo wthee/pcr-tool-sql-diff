@@ -1,4 +1,4 @@
-CREATE TABLE 'xeh_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+CREATE TABLE `xeh_story_data` (`sub_story_id` INTEGER, `original_event_id` INTEGER, `title` TEXT, `reward_type` INTEGER, `reward_id` INTEGER, `reward_count` INTEGER);
 insert into xeh_story_data values (5106601, 10106, '聖夜の幽霊×吸血鬼', 8, 91002, 45);
 insert into xeh_story_data values (5106602, 10106, '小さなサンタの贈り物', 8, 91002, 45);
 insert into xeh_story_data values (5106603, 10106, '嗚呼美しきクリスマス', 8, 91002, 45);

@@ -1,4 +1,4 @@
-CREATE TABLE 'event_introduction' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'introduction_number' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'maximum_chunk_size_1' INTEGER NOT NULL, 'maximum_chunk_size_loop_1' INTEGER NOT NULL, 'maximum_chunk_size_2' INTEGER NOT NULL, 'maximum_chunk_size_loop_2' INTEGER NOT NULL, 'maximum_chunk_size_3' INTEGER NOT NULL, 'maximum_chunk_size_loop_3' INTEGER NOT NULL, 'sheet_id' TEXT NOT NULL, 'que_id' TEXT NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `event_introduction` (`id` INTEGER, `event_id` INTEGER, `introduction_number` INTEGER, `start_time` TEXT, `end_time` TEXT, `maximum_chunk_size_1` INTEGER, `maximum_chunk_size_loop_1` INTEGER, `maximum_chunk_size_2` INTEGER, `maximum_chunk_size_loop_2` INTEGER, `maximum_chunk_size_3` INTEGER, `maximum_chunk_size_loop_3` INTEGER, `sheet_id` TEXT, `que_id` TEXT);
 insert into event_introduction values (1, 10001, 1, '2018/03/26 15:00:00', '2030/03/26 14:59:00', 380000, 380000, 0, 0, 0, 0, 'bgm_M33', 'bgm_M33');
 insert into event_introduction values (2, 10002, 1, '2018/04/26 15:00:00', '2030/03/26 14:59:00', 380000, 380000, 0, 0, 0, 0, 'bgm_M99', 'bgm_M99');
 insert into event_introduction values (3, 10003, 1, '2018/05/25 16:00:00', '2030/03/26 14:59:00', 380000, 380000, 0, 0, 0, 0, 'bgm_M107', 'bgm_M107');
@@ -94,3 +94,4 @@ insert into event_introduction values (132, 10132, 1, '2023/11/24 15:00:00', '20
 insert into event_introduction values (134, 10134, 1, '2023/12/27 15:00:00', '2030/03/26 14:59:00', 380000, 380000, 0, 0, 0, 0, 'bgm_MC099', 'bgm_MC099');
 insert into event_introduction values (136, 10136, 1, '2024/01/26 15:00:00', '2030/03/26 14:59:00', 380000, 380000, 0, 0, 0, 0, 'bgm_MC110', 'bgm_MC110');
 insert into event_introduction values (137, 10137, 1, '2024/01/26 15:00:00', '2030/03/26 14:59:00', 380000, 380000, 0, 0, 0, 0, 'bgm_MC111', 'bgm_MC111');
+insert into event_introduction values (140, 10140, 1, '2024/02/24 15:00:00', '2030/03/26 14:59:00', 380000, 380000, 0, 0, 0, 0, 'bgm_MC124', 'bgm_MC124');

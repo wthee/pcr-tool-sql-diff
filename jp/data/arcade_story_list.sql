@@ -1,4 +1,4 @@
-CREATE TABLE 'arcade_story_list' ('story_id' INTEGER NOT NULL, 'arcade_id' INTEGER NOT NULL, 'sub_title' TEXT NOT NULL, PRIMARY KEY('story_id'));
+CREATE TABLE `arcade_story_list` (`story_id` INTEGER, `arcade_id` INTEGER, `sub_title` TEXT);
 insert into arcade_story_list values (5021700, 1003, 'カオリと海辺で大特訓！');
 insert into arcade_story_list values (5021701, 1003, '礼に始まり礼に終わる');
 insert into arcade_story_list values (5021710, 1003, '挑め、己の限界に');

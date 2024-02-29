@@ -1,4 +1,4 @@
-CREATE TABLE 'tips' ('id' INTEGER NOT NULL, 'value' INTEGER NOT NULL, 'tips_index' INTEGER NOT NULL, 'title' TEXT NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `tips` (`id` INTEGER, `value` INTEGER, `tips_index` INTEGER, `title` TEXT);
 insert into tips values (4100101, 100101, 1, '作戦説明');
 insert into tips values (4100201, 100201, 1, 'まどろみのユイ');
 insert into tips values (4100301, 100301, 1, '実は釣り好き');
@@ -137,6 +137,7 @@ insert into tips values (4127201, 127201, 1, 'っぽいじゃない');
 insert into tips values (4127301, 127301, 1, '一緒にアオハルを');
 insert into tips values (4127501, 127501, 1, 'たくさんのお土産');
 insert into tips values (4127601, 127601, 1, '機能的だけど…');
+insert into tips values (4129001, 129001, 1, '負けられない');
 insert into tips values (4180101, 180101, 1, 'じゃんけんタイム！');
 insert into tips values (4180201, 180201, 1, 'ぺこぺこ');
 insert into tips values (4180301, 180301, 1, '守る力');

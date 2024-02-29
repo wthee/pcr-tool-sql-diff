@@ -1,4 +1,4 @@
-CREATE TABLE 'trial_battle_category' ('category_id' INTEGER NOT NULL, 'category_name' TEXT NOT NULL, 'icon_id' INTEGER NOT NULL, 'label_type_1' INTEGER NOT NULL, 'label_type_2' INTEGER NOT NULL, 'label_type_3' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'description_detail' TEXT NOT NULL, PRIMARY KEY('category_id'));
+CREATE TABLE `trial_battle_category` (`category_id` INTEGER, `category_name` TEXT, `icon_id` INTEGER, `label_type_1` INTEGER, `label_type_2` INTEGER, `label_type_3` INTEGER, `description` TEXT, `description_detail` TEXT);
 insert into trial_battle_category values (1, 'ガーゴイル', 1, 101, 0, 0, '剛力なる鳥像', '高い物理攻撃力を宿し、強力な範囲攻撃を行うよう\\nプログラムされたボスが現れる。');
 insert into trial_battle_category values (2, 'マグスガーゴイル', 2, 102, 0, 0, '魔業なる鳥像', '高い魔法攻撃力を宿し、強力な範囲攻撃を行うよう\\nプログラムされたボスが現れる。');
 insert into trial_battle_category values (3, 'ガードガーゴイル', 3, 103, 0, 0, '堅固なる鳥像', '防御力アップスキルで高い耐久力を誇り、相手の攻撃\\nを凌ぐようプログラムされたボスが現れる。');

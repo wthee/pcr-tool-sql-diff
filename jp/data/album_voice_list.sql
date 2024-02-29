@@ -1,4 +1,4 @@
-CREATE TABLE 'album_voice_list' ('id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'sheet_id' TEXT NOT NULL, 'voice_id' TEXT NOT NULL, 'title' TEXT NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `album_voice_list` (`id` INTEGER, `unit_id` INTEGER, `sheet_id` TEXT, `voice_id` TEXT, `title` TEXT, `description` TEXT);
 insert into album_voice_list values (10010101, 100101, 'vo_btl_100101', 'vo_btl_100101_win_001', '勝利1', '');
 insert into album_voice_list values (10010102, 100101, 'vo_btl_100101', 'vo_btl_100101_win_002', '勝利2', '');
 insert into album_voice_list values (10010103, 100101, 'vo_btl_100101', 'vo_btl_100101_win_003', '勝利3', '');

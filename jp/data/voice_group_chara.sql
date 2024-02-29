@@ -1,4 +1,4 @@
-CREATE TABLE 'voice_group_chara' ('group_unit_id' INTEGER NOT NULL, 'group_unit_id_comment' TEXT NOT NULL, 'unit_id_01' INTEGER NOT NULL, 'unit_id_02' INTEGER NOT NULL, 'unit_id_03' INTEGER NOT NULL, 'unit_id_04' INTEGER NOT NULL, 'unit_id_05' INTEGER NOT NULL, 'unit_id_06' INTEGER NOT NULL, 'unit_id_07' INTEGER NOT NULL, 'unit_id_08' INTEGER NOT NULL, 'unit_id_09' INTEGER NOT NULL, 'unit_id_10' INTEGER NOT NULL, PRIMARY KEY('group_unit_id'));
+CREATE TABLE `voice_group_chara` (`group_unit_id` INTEGER, `group_unit_id_comment` TEXT, `unit_id_01` INTEGER, `unit_id_02` INTEGER, `unit_id_03` INTEGER, `unit_id_04` INTEGER, `unit_id_05` INTEGER, `unit_id_06` INTEGER, `unit_id_07` INTEGER, `unit_id_08` INTEGER, `unit_id_09` INTEGER, `unit_id_10` INTEGER);
 insert into voice_group_chara values (100101001, 'トゥインクルウィッシュ（ヒヨリ）', 100101, 108701, 180101, 122401, 128701, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100201001, 'トゥインクルウィッシュ（ユイ）', 100201, 108801, 180201, 115601, 122601, 128901, 0, 0, 0, 0);
 insert into voice_group_chara values (100301001, 'トゥインクルウィッシュ（レイ）', 100301, 108901, 114001, 180301, 122501, 128801, 0, 0, 0, 0);
@@ -89,6 +89,7 @@ insert into voice_group_chara values (126001001, 'クリア（フォールン）
 insert into voice_group_chara values (126101001, 'プレシア（フォールン）', 126101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (126401001, 'クローチェ', 126401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (126501001, 'ライラエル', 126501, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (129001001, 'エリス', 129001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (180701001, 'ハツネ＆シオリ', 180701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (180801001, 'ミソギ＆ミミ＆キョウカ', 180801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (180901001, 'アキノ＆サレン', 180901, 0, 0, 0, 0, 0, 0, 0, 0, 0);

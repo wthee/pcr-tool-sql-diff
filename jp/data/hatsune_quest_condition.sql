@@ -1,4 +1,4 @@
-CREATE TABLE 'hatsune_quest_condition' ('quest_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'condition_quest_id_1' INTEGER NOT NULL, 'condition_quest_id_2' INTEGER NOT NULL, 'condition_boss_id_1' INTEGER NOT NULL, 'condition_boss_id_2' INTEGER NOT NULL, 'release_quest_id_1' INTEGER NOT NULL, 'release_quest_id_2' INTEGER NOT NULL, 'release_boss_id_1' INTEGER NOT NULL, 'release_boss_id_2' INTEGER NOT NULL, 'condition_main_quest_id' INTEGER NOT NULL, PRIMARY KEY('quest_id'));
+CREATE TABLE `hatsune_quest_condition` (`quest_id` INTEGER, `event_id` INTEGER, `condition_quest_id_1` INTEGER, `condition_quest_id_2` INTEGER, `condition_boss_id_1` INTEGER, `condition_boss_id_2` INTEGER, `release_quest_id_1` INTEGER, `release_quest_id_2` INTEGER, `release_boss_id_1` INTEGER, `release_boss_id_2` INTEGER, `condition_main_quest_id` INTEGER);
 insert into hatsune_quest_condition values (10001101, 10001, 0, 0, 0, 0, 10001102, 0, 0, 0, 11002012);
 insert into hatsune_quest_condition values (10001102, 10001, 10001101, 0, 0, 0, 10001103, 0, 0, 0, 0);
 insert into hatsune_quest_condition values (10001103, 10001, 10001102, 0, 0, 0, 10001104, 0, 0, 0, 0);
@@ -2759,3 +2759,18 @@ insert into hatsune_quest_condition values (10139202, 10139, 10139201, 0, 0, 0, 
 insert into hatsune_quest_condition values (10139203, 10139, 10139202, 0, 0, 0, 10139204, 0, 0, 0, 0);
 insert into hatsune_quest_condition values (10139204, 10139, 10139203, 0, 0, 0, 10139205, 0, 0, 0, 0);
 insert into hatsune_quest_condition values (10139205, 10139, 10139204, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into hatsune_quest_condition values (10140101, 10140, 0, 0, 0, 0, 10140102, 0, 0, 0, 11002012);
+insert into hatsune_quest_condition values (10140102, 10140, 10140101, 0, 0, 0, 10140103, 0, 0, 0, 0);
+insert into hatsune_quest_condition values (10140103, 10140, 10140102, 0, 0, 0, 10140104, 0, 0, 0, 0);
+insert into hatsune_quest_condition values (10140104, 10140, 10140103, 0, 0, 0, 10140105, 0, 0, 0, 0);
+insert into hatsune_quest_condition values (10140105, 10140, 10140104, 0, 0, 0, 10140106, 0, 0, 0, 0);
+insert into hatsune_quest_condition values (10140106, 10140, 10140105, 0, 0, 0, 10140107, 0, 0, 0, 0);
+insert into hatsune_quest_condition values (10140107, 10140, 10140106, 0, 0, 0, 10140108, 0, 0, 0, 0);
+insert into hatsune_quest_condition values (10140108, 10140, 10140107, 0, 0, 0, 10140109, 0, 0, 0, 0);
+insert into hatsune_quest_condition values (10140109, 10140, 10140108, 0, 0, 0, 10140110, 0, 0, 0, 0);
+insert into hatsune_quest_condition values (10140110, 10140, 10140109, 0, 0, 0, 0, 0, 1014001, 0, 0);
+insert into hatsune_quest_condition values (10140201, 10140, 0, 0, 1014001, 0, 10140202, 0, 0, 0, 0);
+insert into hatsune_quest_condition values (10140202, 10140, 10140201, 0, 0, 0, 10140203, 0, 0, 0, 0);
+insert into hatsune_quest_condition values (10140203, 10140, 10140202, 0, 0, 0, 10140204, 0, 0, 0, 0);
+insert into hatsune_quest_condition values (10140204, 10140, 10140203, 0, 0, 0, 10140205, 0, 0, 0, 0);
+insert into hatsune_quest_condition values (10140205, 10140, 10140204, 0, 0, 0, 0, 0, 0, 0, 0);

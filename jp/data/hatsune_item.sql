@@ -1,4 +1,4 @@
-CREATE TABLE 'hatsune_item' ('event_id' INTEGER NOT NULL, 'boss_ticket_id' INTEGER NOT NULL, 'gacha_ticket_id' INTEGER NOT NULL, 'unit_material_id_1' INTEGER NOT NULL, 'unit_material_id_2' INTEGER NOT NULL, 'unit_material_id_3' INTEGER NOT NULL, 'unit_material_id_4' INTEGER NOT NULL, 'unit_material_id_5' INTEGER NOT NULL, 'unit_material_id_6' INTEGER NOT NULL, 'unit_material_id_7' INTEGER NOT NULL, 'unit_material_id_8' INTEGER NOT NULL, 'unit_material_id_9' INTEGER NOT NULL, 'unit_material_id_10' INTEGER NOT NULL, PRIMARY KEY('event_id'));
+CREATE TABLE `hatsune_item` (`event_id` INTEGER, `boss_ticket_id` INTEGER, `gacha_ticket_id` INTEGER, `unit_material_id_1` INTEGER, `unit_material_id_2` INTEGER, `unit_material_id_3` INTEGER, `unit_material_id_4` INTEGER, `unit_material_id_5` INTEGER, `unit_material_id_6` INTEGER, `unit_material_id_7` INTEGER, `unit_material_id_8` INTEGER, `unit_material_id_9` INTEGER, `unit_material_id_10` INTEGER);
 insert into hatsune_item values (10001, 60001, 60002, 31012, 31038, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into hatsune_item values (10002, 60011, 60012, 31020, 31004, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into hatsune_item values (10003, 60021, 60022, 31010, 31017, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -138,3 +138,4 @@ insert into hatsune_item values (10136, 61351, 61352, 31288, 31002, 0, 0, 0, 0, 
 insert into hatsune_item values (10137, 61361, 61362, 31288, 31001, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into hatsune_item values (10138, 61371, 61372, 31249, 31029, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into hatsune_item values (10139, 61381, 61382, 31249, 31042, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into hatsune_item values (10140, 61391, 61392, 31110, 31034, 0, 0, 0, 0, 0, 0, 0, 0);

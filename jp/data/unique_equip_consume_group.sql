@@ -1,4 +1,4 @@
-CREATE TABLE 'unique_equip_consume_group' ('group_id' INTEGER NOT NULL, 'index_in_group' INTEGER NOT NULL, 'item_id' INTEGER NOT NULL, PRIMARY KEY('group_id','index_in_group'));
+CREATE TABLE `unique_equip_consume_group` (`group_id` INTEGER, `index_in_group` INTEGER, `item_id` INTEGER);
 insert into unique_equip_consume_group values (1, 1, 32025);
 insert into unique_equip_consume_group values (2, 1, 32046);
 insert into unique_equip_consume_group values (3, 1, 32048);

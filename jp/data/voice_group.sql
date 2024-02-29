@@ -1,4 +1,4 @@
-CREATE TABLE 'voice_group' ('group_id' INTEGER NOT NULL, 'group_id_comment' TEXT NOT NULL, 'group_unit_id_01' INTEGER NOT NULL, 'group_unit_id_02' INTEGER NOT NULL, 'group_unit_id_03' INTEGER NOT NULL, 'group_unit_id_04' INTEGER NOT NULL, 'group_unit_id_05' INTEGER NOT NULL, PRIMARY KEY('group_id'));
+CREATE TABLE `voice_group` (`group_id` INTEGER, `group_id_comment` TEXT, `group_unit_id_01` INTEGER, `group_unit_id_02` INTEGER, `group_unit_id_03` INTEGER, `group_unit_id_04` INTEGER, `group_unit_id_05` INTEGER);
 insert into voice_group values (20001, 'ハツネ＆シオリ', 101201001, 103801001, 0, 0, 0);
 insert into voice_group values (20002, 'シズル＆リノ', 101101001, 104901001, 0, 0, 0);
 insert into voice_group values (20003, 'サレン＆スズメ', 102801001, 102501001, 0, 0, 0);
@@ -173,6 +173,8 @@ insert into voice_group values (20175, 'シズルリノ＆エリコ', 181101001,
 insert into voice_group values (20176, 'プレシア＆ペコリーヌ', 126101001, 105801001, 0, 0, 0);
 insert into voice_group values (20177, 'ライラエル&ぺコリーヌ', 126501001, 105801001, 0, 0, 0);
 insert into voice_group values (20178, 'ライラエル&ミソギ', 126501001, 100401001, 0, 0, 0);
+insert into voice_group values (20183, 'エリス＆ユイ', 129001001, 100201001, 0, 0, 0);
+insert into voice_group values (20184, 'エリス＆アメス', 129001001, 123001001, 0, 0, 0);
 insert into voice_group values (30001, 'ヒヨリ（カリン掛け合い用）', 118501001, 300101001, 0, 0, 0);
 insert into voice_group values (30002, 'ユイ（カリン掛け合い用）', 118501001, 300201001, 0, 0, 0);
 insert into voice_group values (30003, 'レイ（カリン掛け合い用）', 118501001, 300301001, 0, 0, 0);

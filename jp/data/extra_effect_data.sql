@@ -1,4 +1,4 @@
-CREATE TABLE 'extra_effect_data' ('extra_effect_id' INTEGER NOT NULL, 'content_type' INTEGER NOT NULL, 'target_value_1' INTEGER NOT NULL, 'target_value_2' INTEGER NOT NULL, 'set_id' INTEGER NOT NULL, 'exec_timing_1' INTEGER NOT NULL, 'exec_timing_2' INTEGER NOT NULL, 'exec_timing_3' INTEGER NOT NULL, 'exec_timing_4' INTEGER NOT NULL, 'exec_timing_5' INTEGER NOT NULL, 'enemy_id_1' INTEGER NOT NULL, 'enemy_id_2' INTEGER NOT NULL, 'enemy_id_3' INTEGER NOT NULL, 'enemy_id_4' INTEGER NOT NULL, 'enemy_id_5' INTEGER NOT NULL, PRIMARY KEY('extra_effect_id'));
+CREATE TABLE `extra_effect_data` (`extra_effect_id` INTEGER, `content_type` INTEGER, `target_value_1` INTEGER, `target_value_2` INTEGER, `set_id` INTEGER, `exec_timing_1` INTEGER, `exec_timing_2` INTEGER, `exec_timing_3` INTEGER, `exec_timing_4` INTEGER, `exec_timing_5` INTEGER, `enemy_id_1` INTEGER, `enemy_id_2` INTEGER, `enemy_id_3` INTEGER, `enemy_id_4` INTEGER, `enemy_id_5` INTEGER);
 insert into extra_effect_data values (102311001, 16, 610132007, 0, 61013201, 1, 0, 0, 0, 0, 610132504, 0, 0, 0, 0);
 insert into extra_effect_data values (102311002, 16, 610132008, 0, 61013201, 1, 0, 0, 0, 0, 610132504, 0, 0, 0, 0);
 insert into extra_effect_data values (102311003, 16, 610132009, 0, 61013201, 1, 0, 0, 0, 0, 610132504, 0, 0, 0, 0);
@@ -14,6 +14,9 @@ insert into extra_effect_data values (102401006, 16, 610136009, 0, 61013601, 1, 
 insert into extra_effect_data values (102401007, 16, 610137007, 0, 61013601, 1, 0, 0, 0, 0, 610137504, 0, 0, 0, 0);
 insert into extra_effect_data values (102401008, 16, 610137008, 0, 61013601, 1, 0, 0, 0, 0, 610137504, 0, 0, 0, 0);
 insert into extra_effect_data values (102401009, 16, 610137009, 0, 61013601, 1, 0, 0, 0, 0, 610137504, 0, 0, 0, 0);
+insert into extra_effect_data values (102402001, 16, 610140007, 0, 61014001, 1, 0, 0, 0, 0, 610140504, 0, 0, 0, 0);
+insert into extra_effect_data values (102402002, 16, 610140008, 0, 61014001, 1, 0, 0, 0, 0, 610140504, 0, 0, 0, 0);
+insert into extra_effect_data values (102402003, 16, 610140009, 0, 61014001, 1, 0, 0, 0, 0, 610140504, 0, 0, 0, 0);
 insert into extra_effect_data values (430001001, 43, 810010011, 0, 0, 1, 1, 0, 0, 0, 810100106, 810100107, 0, 0, 0);
 insert into extra_effect_data values (430001002, 43, 810010021, 0, 0, 1, 1, 0, 0, 0, 810100106, 810100107, 0, 0, 0);
 insert into extra_effect_data values (430001003, 43, 810010031, 0, 0, 1, 1, 0, 0, 0, 810100106, 810100107, 0, 0, 0);

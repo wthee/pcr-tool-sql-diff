@@ -1,4 +1,4 @@
-CREATE TABLE 'psy_note' ('psy_product_id' INTEGER NOT NULL, 'condition_flavor_1' INTEGER NOT NULL, 'condition_flavor_2' INTEGER NOT NULL, 'psy_product_name' TEXT NOT NULL, 'flavor_1' TEXT NOT NULL, 'flavor_2' TEXT NOT NULL, 'flavor_3' TEXT NOT NULL, 'disp_order' INTEGER NOT NULL, 'init_flg' INTEGER NOT NULL, PRIMARY KEY('psy_product_id'));
+CREATE TABLE `psy_note` (`psy_product_id` INTEGER, `condition_flavor_1` INTEGER, `condition_flavor_2` INTEGER, `psy_product_name` TEXT, `flavor_1` TEXT, `flavor_2` TEXT, `flavor_3` TEXT, `disp_order` INTEGER, `init_flg` INTEGER);
 insert into psy_note values (100, 3, 5, 'ペコリーヌのプリン', 'プリンセスなプリンなの\\nお店にあったいろんな食べもの\\nを入れられるだけ入れてみたの\\nどんな味なのか楽しみなの', 'おいしすぎて食べ始めたら\\n止まらない最高のプリンなの\\n今のミヤコを止められるヤツは\\n誰もいないの', 'やばいですね☆なの！', 1, 1);
 insert into psy_note values (101, 3, 5, 'コッコロのプリン', 'いつもオマエのそばに寄りそう\\nヤツのぷりんなの。ミヤコの\\nワガママもやさしく受け入れて\\nくれそうなの', 'なんだかすごくやさしい気持ち\\nになる味なの…\\nおはようからおやすみまで\\nずっと一緒な味なの…', '主さま、なの！', 2, 1);
 insert into psy_note values (102, 3, 5, 'キャルのプリン', 'ツンツンデレデレなヤツの\\nプリンなの。砂糖とスパイスを\\n混ぜてみたの。どんな味になる\\nか楽しみなの', 'いろんな味が一度で楽しめる\\nプリンなの。ツンデレはプリン\\nにするとおいしいの。ミヤコも\\nツンデレを目指してみるの', 'ぶっ殺すぞ！なの！\\n…デレデレはどこなの？', 3, 0);

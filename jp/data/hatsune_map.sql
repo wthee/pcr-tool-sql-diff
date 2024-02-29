@@ -1,4 +1,4 @@
-CREATE TABLE 'hatsune_map' ('course_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'map_id' INTEGER NOT NULL, 'sheet_id' TEXT NOT NULL, 'que_id' TEXT NOT NULL, 'start_area_id' INTEGER NOT NULL, 'end_area_id' INTEGER NOT NULL, PRIMARY KEY('course_id'));
+CREATE TABLE `hatsune_map` (`course_id` INTEGER, `event_id` INTEGER, `name` TEXT, `map_id` INTEGER, `sheet_id` TEXT, `que_id` TEXT, `start_area_id` INTEGER, `end_area_id` INTEGER);
 insert into hatsune_map values (10001, 10001, 'タルグム地方', 10001, 'bgm_M32', 'bgm_M32', 10001101, 10001101);
 insert into hatsune_map values (10002, 10002, 'マシーナ地方', 10002, 'bgm_M98', 'bgm_M98_2', 10002101, 10002101);
 insert into hatsune_map values (10003, 10003, 'ランドソル郊外', 10003, 'bgm_M106', 'bgm_M106', 10003101, 10003101);

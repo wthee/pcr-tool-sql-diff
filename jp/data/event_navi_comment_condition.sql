@@ -1,4 +1,4 @@
-CREATE TABLE 'event_navi_comment_condition' ('comment_id' INTEGER NOT NULL, 'condition_type_1' INTEGER NOT NULL, 'condition_value_1' INTEGER NOT NULL, 'condition_type_2' INTEGER NOT NULL, 'condition_value_2' INTEGER NOT NULL, 'condition_type_3' INTEGER NOT NULL, 'condition_value_3' INTEGER NOT NULL, PRIMARY KEY('comment_id'));
+CREATE TABLE `event_navi_comment_condition` (`comment_id` INTEGER, `condition_type_1` INTEGER, `condition_value_1` INTEGER, `condition_type_2` INTEGER, `condition_value_2` INTEGER, `condition_type_3` INTEGER, `condition_value_3` INTEGER);
 insert into event_navi_comment_condition values (10042101, 4, 5042001, 0, 0, 0, 0);
 insert into event_navi_comment_condition values (10042102, 3, 5042001, 0, 0, 0, 0);
 insert into event_navi_comment_condition values (10042103, 4, 5042001, 0, 0, 0, 0);
@@ -1585,6 +1585,21 @@ insert into event_navi_comment_condition values (10139122, 3, 5111005, 0, 0, 0, 
 insert into event_navi_comment_condition values (10139123, 3, 5111005, 0, 0, 0, 0);
 insert into event_navi_comment_condition values (10139124, 3, 5111005, 0, 0, 0, 0);
 insert into event_navi_comment_condition values (10139125, 3, 5111005, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10140101, 4, 5140002, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10140102, 4, 5140002, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10140103, 4, 5140002, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10140104, 3, 5140002, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10140105, 3, 5140002, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10140106, 3, 5140002, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10140107, 3, 5140003, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10140108, 3, 5140003, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10140109, 3, 5140003, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10140110, 4, 5140002, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10140111, 3, 5140002, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10140112, 4, 5140002, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10140113, 3, 5140002, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10140114, 4, 5140002, 0, 0, 0, 0);
+insert into event_navi_comment_condition values (10140115, 3, 5140002, 0, 0, 0, 0);
 insert into event_navi_comment_condition values (20003106, 2, 5003006, 0, 0, 0, 0);
 insert into event_navi_comment_condition values (20003107, 1, 5003006, 0, 0, 0, 0);
 insert into event_navi_comment_condition values (20003110, 2, 5003006, 0, 0, 0, 0);

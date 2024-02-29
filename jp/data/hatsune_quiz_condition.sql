@@ -1,4 +1,4 @@
-CREATE TABLE 'hatsune_quiz_condition' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'quiz_id' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_quiz_id' INTEGER NOT NULL, 'condition_unit_id' INTEGER NOT NULL, 'condition_mission_id' INTEGER NOT NULL, 'condition_time_from' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `hatsune_quiz_condition` (`id` INTEGER, `event_id` INTEGER, `quiz_id` INTEGER, `condition_quest_id` INTEGER, `condition_quiz_id` INTEGER, `condition_unit_id` INTEGER, `condition_mission_id` INTEGER, `condition_time_from` INTEGER);
 insert into hatsune_quiz_condition values (1, 10012, 1001201, 10012103, 0, 0, 0, 0);
 insert into hatsune_quiz_condition values (2, 10012, 1001202, 10012107, 0, 0, 0, 0);
 insert into hatsune_quiz_condition values (3, 10012, 1001203, 10012109, 0, 0, 0, 0);

@@ -1,4 +1,4 @@
-CREATE TABLE 'wave_group_data' ('id' INTEGER NOT NULL, 'wave_group_id' INTEGER NOT NULL, 'odds' INTEGER NOT NULL, 'enemy_id_1' INTEGER NOT NULL, 'drop_gold_1' INTEGER NOT NULL, 'drop_reward_id_1' INTEGER NOT NULL, 'enemy_id_2' INTEGER NOT NULL, 'drop_gold_2' INTEGER NOT NULL, 'drop_reward_id_2' INTEGER NOT NULL, 'enemy_id_3' INTEGER NOT NULL, 'drop_gold_3' INTEGER NOT NULL, 'drop_reward_id_3' INTEGER NOT NULL, 'enemy_id_4' INTEGER NOT NULL, 'drop_gold_4' INTEGER NOT NULL, 'drop_reward_id_4' INTEGER NOT NULL, 'enemy_id_5' INTEGER NOT NULL, 'drop_gold_5' INTEGER NOT NULL, 'drop_reward_id_5' INTEGER NOT NULL, 'guest_enemy_id' INTEGER NOT NULL, 'guest_lane' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `wave_group_data` (`id` INTEGER, `wave_group_id` INTEGER, `odds` INTEGER, `enemy_id_1` INTEGER, `drop_gold_1` INTEGER, `drop_reward_id_1` INTEGER, `enemy_id_2` INTEGER, `drop_gold_2` INTEGER, `drop_reward_id_2` INTEGER, `enemy_id_3` INTEGER, `drop_gold_3` INTEGER, `drop_reward_id_3` INTEGER, `enemy_id_4` INTEGER, `drop_gold_4` INTEGER, `drop_reward_id_4` INTEGER, `enemy_id_5` INTEGER, `drop_gold_5` INTEGER, `drop_reward_id_5` INTEGER, `guest_enemy_id` INTEGER, `guest_lane` INTEGER);
 insert into wave_group_data values (100000001, 512000021, 100, 100000001, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into wave_group_data values (100000002, 512000022, 100, 100000001, 0, 0, 100000001, 0, 0, 100000002, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into wave_group_data values (101000001, 110010011, 100, 101010101, 255, 11001011, 101010101, 0, 11999091, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -7451,6 +7451,15 @@ insert into wave_group_data values (610139003, 610139003, 100, 610139301, 0, 610
 insert into wave_group_data values (610139004, 610139004, 100, 610139401, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into wave_group_data values (610139005, 610139005, 100, 610139402, 0, 0, 610139501, 0, 0, 610139502, 0, 0, 610139503, 0, 0, 0, 0, 0, 0, 0);
 insert into wave_group_data values (610139006, 610139006, 100, 610139403, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into wave_group_data values (610140001, 610140001, 100, 610140101, 0, 61014001, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into wave_group_data values (610140002, 610140002, 100, 610140201, 0, 61014002, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into wave_group_data values (610140003, 610140003, 100, 610140301, 0, 61014003, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into wave_group_data values (610140004, 610140004, 100, 610140401, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into wave_group_data values (610140005, 610140005, 100, 610140402, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into wave_group_data values (610140006, 610140006, 100, 610140403, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into wave_group_data values (610140007, 610140007, 100, 610140501, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into wave_group_data values (610140008, 610140008, 100, 610140502, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into wave_group_data values (610140009, 610140009, 100, 610140503, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into wave_group_data values (660001001, 660001001, 100, 660001101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into wave_group_data values (660001002, 660001002, 100, 660001201, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into wave_group_data values (660001003, 660001003, 100, 660001301, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);

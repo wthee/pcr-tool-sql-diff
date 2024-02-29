@@ -1,4 +1,4 @@
-CREATE TABLE 'birthday_login_bonus_drama_script' ('command_id' INTEGER NOT NULL, 'drama_id' INTEGER NOT NULL, 'command_type' INTEGER NOT NULL, 'param_01' TEXT NOT NULL, 'param_02' TEXT NOT NULL, 'param_03' TEXT NOT NULL, 'param_04' TEXT NOT NULL, 'param_05' TEXT NOT NULL, 'param_06' TEXT NOT NULL, 'param_07' TEXT NOT NULL, 'param_08' TEXT NOT NULL, PRIMARY KEY('command_id'));
+CREATE TABLE `birthday_login_bonus_drama_script` (`command_id` INTEGER, `drama_id` INTEGER, `command_type` INTEGER, `param_01` TEXT, `param_02` TEXT, `param_03` TEXT, `param_04` TEXT, `param_05` TEXT, `param_06` TEXT, `param_07` TEXT, `param_08` TEXT);
 insert into birthday_login_bonus_drama_script values (1032501001, 1032501, 1, '1', '103211', '850', '400', '-220', '1.5', '1', 'cmn_talk_def_N');
 insert into birthday_login_bonus_drama_script values (1032501002, 1032501, 31, '8', '8', '0', '0', '1', '1', '', '');
 insert into birthday_login_bonus_drama_script values (1032501003, 1032501, 31, '7', '7', '0', '0', '1', '1', '', '');
