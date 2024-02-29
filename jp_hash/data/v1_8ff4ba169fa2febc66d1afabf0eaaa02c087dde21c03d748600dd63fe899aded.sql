@@ -146,3 +146,4 @@ insert into v1_8ff4ba169fa2febc66d1afabf0eaaa02c087dde21c03d748600dd63fe899aded 
 insert into v1_8ff4ba169fa2febc66d1afabf0eaaa02c087dde21c03d748600dd63fe899aded values (171, 10139, 3, 5111005, 2, 500013);
 insert into v1_8ff4ba169fa2febc66d1afabf0eaaa02c087dde21c03d748600dd63fe899aded values (172, 20049, 3, 5090002, 2, 501541);
 insert into v1_8ff4ba169fa2febc66d1afabf0eaaa02c087dde21c03d748600dd63fe899aded values (173, 10138101, 2, 1013801, 1, 0);
+insert into v1_8ff4ba169fa2febc66d1afabf0eaaa02c087dde21c03d748600dd63fe899aded values (180, 10140, 3, 5140002, 2, 502224);
