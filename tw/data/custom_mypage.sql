@@ -23,4 +23,6 @@ insert into custom_mypage values (9000221, 40001, 0, '新年的片刻時光', 0,
 insert into custom_mypage values (9000222, 30001, 0, '回想重組 自訂主頁面', 0, 0, 1);
 insert into custom_mypage values (9000224, 40001, 0, "Valentine's Day", 0, 0, 1);
 insert into custom_mypage values (9000225, 20006, 0, '5周年紀念自訂主頁面', 0, 0, 1);
+insert into custom_mypage values (9000226, 40001, 0, '隨後，春天再次來臨', 0, 0, 1);
 insert into custom_mypage values (9000227, 30001, 0, '太鼓高手的海報', 0, 0, 1);
+insert into custom_mypage values (9000228, 40001, 0, '回憶的軌跡', 0, 0, 2);
