@@ -261,7 +261,7 @@ insert into music_content values (259, '即便在充滿不確定性的未來', '
 insert into music_content values (260, '樂園守護者', '2:12', '0:00', '故事劇情Boss戰\\n\\n時間／02:12\\n作曲／西木康智\\n編曲／佐藤遥（Cygames）', 'bgm_M664', 'bgm_M664_juke');
 insert into music_content values (261, '象徵久遠庭園之人', '3:26', '0:00', '故事劇情Boss戰\\n\\n時間／03:26\\n作曲／畑田浩孝（Cygames）\\n編曲／畑田浩孝（Cygames）', 'bgm_M665', 'bgm_M665_juke');
 insert into music_content values (262, 'Never Lose Again', '1:22', '0:42', '角色歌曲\\n\\n時間／01:22\\n演唱／矛依未（潘めぐみ）\\n作詞／稲葉エミ\\n作曲／奥井康介\\n編曲／奥井康介', 'bgm_M667', 'bgm_M667');
-insert into music_content values (263, '貓與懷舊糖果的咖啡廳\u3000歡迎光臨Café Naschkatze', '1:39', '0:00', '故事劇情主題曲\\n-《喵喵的奮力一擊》編曲-\\n\\n時間／01:39\\n作曲／TAKT（TRYTONELABO）\\n編曲／佐藤遥（Cygames）', 'bgm_M668', 'bgm_M668_juke');
+insert into music_content values (263, '貓與懷舊點心的咖啡廳\u3000歡迎光臨Café Naschkatze', '1:39', '0:00', '故事劇情主題曲\\n-《喵喵的奮力一擊》編曲-\\n\\n時間／01:39\\n作曲／TAKT（TRYTONELABO）\\n編曲／佐藤遥（Cygames）', 'bgm_M668', 'bgm_M668_juke');
 insert into music_content values (264, '祈福託災的招財貓', '1:34', '0:00', '故事劇情Boss戰\\n\\n時間／01:34\\n作曲／多田彰文\\n編曲／多田彰文', 'bgm_M671', 'bgm_M671_juke');
 insert into music_content values (265, '喵喵的奮力一擊', '1:35', '0:51', '角色歌曲\\n\\n時間／01:35\\n演唱\u3000／珠希（沼倉愛美）\\n作詞／TAKT（TRYTONELABO）\\n作曲／TAKT（TRYTONELABO）\\n編曲／TAKT（TRYTONELABO）', 'bgm_M674', 'bgm_M674');
 insert into music_content values (266, 'Dears\u3000歡迎回家與我回來了的約定', '1:21', '0:00', '故事劇情主題曲\\n-《我的色彩STORY》編曲-\\n\\n時間／01:21\\n作曲／高木龍一（Dream Monster）\\n編曲／Max Mullowney（Cygames）', 'bgm_MC017', 'bgm_MC017_juke');

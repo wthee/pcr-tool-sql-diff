@@ -1470,7 +1470,7 @@ insert into nop_drama_script values (509008, 509, 93, '3.5', '1', '', '', '', ''
 insert into nop_drama_script values (509009, 509, 3, '103311', 'nop_talk_normal', '1', '', '', '0.2', '', '');
 insert into nop_drama_script values (509010, 509, 91, '509006', '', '', '', '', '', '', '');
 insert into nop_drama_script values (509011, 509, 3, '103311', 'nop_idle_normal', '1', '', '', '0.2', '', '');
-insert into nop_drama_script values (509012, 509, 11, '102611', '真是的──我本來打算\\n要睡掉整個年假的──\\n算了，既然有人找，就來一下吧。', '7', '1', '0', '0', '0', '0.5');
+insert into nop_drama_script values (509012, 509, 11, '102611', '真是的──我本來打算\\n要睡掉年假的──\\n算了，既然有人找，就來一下吧。', '7', '1', '0', '0', '0', '0.5');
 insert into nop_drama_script values (509013, 509, 3, '102611', 'nop_talk_jitome', '1', '', '', '0.2', '', '');
 insert into nop_drama_script values (509014, 509, 93, '3.5', '1', '', '', '', '', '', '');
 insert into nop_drama_script values (509015, 509, 3, '102611', 'nop_talk_bitter', '1', '', '', '0.2', '', '');

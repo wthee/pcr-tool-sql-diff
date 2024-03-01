@@ -9,3 +9,8 @@ insert into hatsune_limit_chara values (1011202, 58);
 insert into hatsune_limit_chara values (1011203, 58);
 insert into hatsune_limit_chara values (1011204, 58);
 insert into hatsune_limit_chara values (1011205, 58);
+insert into hatsune_limit_chara values (1013001, 182);
+insert into hatsune_limit_chara values (1013002, 182);
+insert into hatsune_limit_chara values (1013003, 182);
+insert into hatsune_limit_chara values (1013004, 182);
+insert into hatsune_limit_chara values (1013005, 182);
