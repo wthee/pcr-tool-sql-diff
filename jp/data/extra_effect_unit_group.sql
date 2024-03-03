@@ -78,5 +78,6 @@ insert into extra_effect_unit_group values (76, 6101402, 110801);
 insert into extra_effect_unit_group values (77, 6101402, 116201);
 insert into extra_effect_unit_group values (78, 6101403, 111001);
 insert into extra_effect_unit_group values (79, 6101403, 116401);
+insert into extra_effect_unit_group values (80, 6101403, 129301);
 insert into extra_effect_unit_group values (81, 6101404, 110901);
 insert into extra_effect_unit_group values (82, 6101405, 116301);

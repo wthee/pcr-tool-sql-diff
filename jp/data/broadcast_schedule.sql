@@ -8,4 +8,4 @@ insert into broadcast_schedule values (2023081220, 'https://youtube.com/live/HIx
 insert into broadcast_schedule values (2023102221, 'https://youtube.com/live/pVOkcT4KsI0', '2023/10/22 20:00', '2023/10/22 20:00', '2023/10/22 22:10');
 insert into broadcast_schedule values (2023122618, 'https://www.youtube.com/@priconne_redive', '2023/12/26 18:00', '2023/12/26 18:00', '2023/12/26 22:00');
 insert into broadcast_schedule values (2024021015, 'https://www.youtube.com/channel/UCiPSajGFI4ja74nYPU1MexA', '2024/02/10 15:00', '2024/02/10 15:00', '2024/02/11 22:00');
-insert into broadcast_schedule values (2024030912, 'https://www.youtube.com/@priconne_redive', '2024/03/09 12:00', '2024/03/09 12:00', '2024/03/09 21:30');
+insert into broadcast_schedule values (2024030912, 'https://www.youtube.com/@priconne_redive', '2024/03/09 12:00', '2024/03/09 12:00', '2024/03/09 21:05');
