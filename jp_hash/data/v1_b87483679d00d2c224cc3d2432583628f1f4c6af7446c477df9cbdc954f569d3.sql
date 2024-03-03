@@ -20,3 +20,4 @@ insert into v1_b87483679d00d2c224cc3d2432583628f1f4c6af7446c477df9cbdc954f569d3 
 insert into v1_b87483679d00d2c224cc3d2432583628f1f4c6af7446c477df9cbdc954f569d3 values (126401, '通常時', '【フルチャージ】中');
 insert into v1_b87483679d00d2c224cc3d2432583628f1f4c6af7446c477df9cbdc954f569d3 values (126501, '通常時', '特殊スキル');
 insert into v1_b87483679d00d2c224cc3d2432583628f1f4c6af7446c477df9cbdc954f569d3 values (129001, '通常時', '特殊スキル');
+insert into v1_b87483679d00d2c224cc3d2432583628f1f4c6af7446c477df9cbdc954f569d3 values (129301, '通常時', '特殊スキル');
