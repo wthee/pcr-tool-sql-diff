@@ -218,6 +218,7 @@ insert into unlock_unit_condition values (125501, '吉塔（術士）', 1, 0, 1,
 insert into unlock_unit_condition values (125601, '碧卡拉', 1, 0, 1, 2, 31256, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (125701, '花凜（鍊金術師）', 1, 0, 1, 2, 31257, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (125801, '莉莉（墮落）', 1, 0, 1, 2, 31258, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
+insert into unlock_unit_condition values (126001, '可璃亞（墮落）', 1, 0, 1, 2, 31260, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (126201, '伊莉亞（祭服）', 1, 0, 1, 2, 31262, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (126301, '雪（祭服）', 1, 0, 1, 2, 31263, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (126401, '克蘿茜', 1, 0, 1, 2, 31264, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);

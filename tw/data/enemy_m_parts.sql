@@ -385,6 +385,16 @@ insert into enemy_m_parts values (502007212, '劍蛇 19層', 502007213, 50200721
 insert into enemy_m_parts values (502007312, '劍蛇 29層', 502007313, 502007314, 502007315, 0, 0);
 insert into enemy_m_parts values (502007412, '劍蛇 39層', 502007413, 502007414, 502007415, 0, 0);
 insert into enemy_m_parts values (502007512, '劍蛇 49層', 502007513, 502007514, 502007515, 0, 0);
+insert into enemy_m_parts values (502008111, '哥布林騎兵 特殊地下城第1階段', 502008112, 502008113, 0, 0, 0);
+insert into enemy_m_parts values (502008114, '雷電 特殊地下城第1階段', 502008115, 502008116, 502008117, 0, 0);
+insert into enemy_m_parts values (502008211, '哥布林騎兵 特殊地下城第2階段', 502008212, 502008213, 0, 0, 0);
+insert into enemy_m_parts values (502008214, '雷電 特殊地下城第2階段', 502008215, 502008216, 502008217, 0, 0);
+insert into enemy_m_parts values (502008311, '哥布林騎兵 特殊地下城第3階段', 502008312, 502008313, 0, 0, 0);
+insert into enemy_m_parts values (502008314, '雷電 特殊地下城第3階段', 502008315, 502008316, 502008317, 0, 0);
+insert into enemy_m_parts values (502008411, '哥布林騎兵 特殊地下城第4階段', 502008412, 502008413, 0, 0, 0);
+insert into enemy_m_parts values (502008414, '雷電 特殊地下城第4階段', 502008415, 502008416, 502008417, 0, 0);
+insert into enemy_m_parts values (502008511, '哥布林騎兵 特殊地下城第5階段', 502008512, 502008513, 0, 0, 0);
+insert into enemy_m_parts values (502008514, '雷電 特殊地下城第5階段', 502008515, 502008516, 502008517, 0, 0);
 insert into enemy_m_parts values (550103114, '黑曜飛龍 第1階段（次元斷層）', 550103115, 550103116, 550103117, 0, 0);
 insert into enemy_m_parts values (550103216, '黑曜飛龍 第2階段（次元斷層）', 550103217, 550103218, 550103219, 0, 0);
 insert into enemy_m_parts values (550103317, '黑曜飛龍 第3階段（次元斷層）', 550103318, 550103319, 550103320, 0, 0);

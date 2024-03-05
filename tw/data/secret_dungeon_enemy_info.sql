@@ -34,3 +34,8 @@ insert into secret_dungeon_enemy_info values (32007, 7, '水晶魔像');
 insert into secret_dungeon_enemy_info values (32007, 8, '沙陸樹懶');
 insert into secret_dungeon_enemy_info values (32007, 9, '劍蛇');
 insert into secret_dungeon_enemy_info values (32007, 10, '究極守護獸');
+insert into secret_dungeon_enemy_info values (32008, 6, '擲岩猴仙');
+insert into secret_dungeon_enemy_info values (32008, 7, '詛咒・奧拉姆');
+insert into secret_dungeon_enemy_info values (32008, 8, '哥布林騎兵');
+insert into secret_dungeon_enemy_info values (32008, 9, '雷電');
+insert into secret_dungeon_enemy_info values (32008, 10, '究極守護獸');

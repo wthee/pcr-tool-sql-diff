@@ -127,6 +127,7 @@ insert into tips values (4125501, 125501, 1, '魔法小巧思');
 insert into tips values (4125601, 125601, 1, '理想的我');
 insert into tips values (4125701, 125701, 1, '不可思議的包包');
 insert into tips values (4125801, 125801, 1, '不愧是哥哥');
+insert into tips values (4126001, 126001, 1, '眼睛會說話');
 insert into tips values (4126201, 126201, 1, '月下吟詠');
 insert into tips values (4126301, 126301, 1, '統御美麗之人');
 insert into tips values (4126401, 126401, 1, '電力耗盡');
