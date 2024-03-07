@@ -1,4 +1,4 @@
-CREATE TABLE 'hatsune_diary_letter_script' ('id' INTEGER NOT NULL, 'diary_id' INTEGER NOT NULL, 'seq_num' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'line_num' INTEGER NOT NULL, 'start_pos' INTEGER NOT NULL, 'end_pos' INTEGER NOT NULL, 'seek_time' REAL NOT NULL, 'sheet_name' TEXT NOT NULL, 'cue_name' TEXT NOT NULL, 'command' INTEGER NOT NULL, 'command_param' REAL NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `hatsune_diary_letter_script` (`id` INTEGER, `diary_id` INTEGER, `seq_num` INTEGER, `type` INTEGER, `line_num` INTEGER, `start_pos` INTEGER, `end_pos` INTEGER, `seek_time` REAL, `sheet_name` TEXT, `cue_name` TEXT, `command` INTEGER, `command_param` REAL);
 insert into hatsune_diary_letter_script values (1150001, 15, 1, 2, 0, 0, 0, 0.0, 'vo_10011600', 'vo_10011600_1501', 0, 0.0);
 insert into hatsune_diary_letter_script values (1150002, 15, 2, 1, 1, 0, 240, 0.997402597402597, '0', '0', 0, 0.0);
 insert into hatsune_diary_letter_script values (1150003, 15, 3, 4, 1, 0, 0, 0.0, '0', '0', 1, 2.4974025974026);

@@ -1,4 +1,4 @@
-CREATE TABLE 'taq_kanji_list' ('id' INTEGER NOT NULL, 'kanji' TEXT NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `taq_kanji_list` (`id` INTEGER, `kanji` TEXT);
 insert into taq_kanji_list values (1, '異');
 insert into taq_kanji_list values (2, '遺');
 insert into taq_kanji_list values (3, '域');

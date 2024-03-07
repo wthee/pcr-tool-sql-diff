@@ -1,4 +1,4 @@
-CREATE TABLE 'uek_drama' ('command_id' INTEGER NOT NULL, 'drama_id' INTEGER NOT NULL, 'command_type' INTEGER NOT NULL, 'param_01' TEXT NOT NULL, 'param_02' TEXT NOT NULL, 'param_03' TEXT NOT NULL, 'param_04' TEXT NOT NULL, 'param_05' TEXT NOT NULL, 'param_06' TEXT NOT NULL, 'param_07' TEXT NOT NULL, 'param_08' TEXT NOT NULL, PRIMARY KEY('command_id'));
+CREATE TABLE `uek_drama` (`command_id` INTEGER, `drama_id` INTEGER, `command_type` INTEGER, `param_01` TEXT, `param_02` TEXT, `param_03` TEXT, `param_04` TEXT, `param_05` TEXT, `param_06` TEXT, `param_07` TEXT, `param_08` TEXT);
 insert into uek_drama values (1010001, 1, 1, '1', '105831', '100', '-496', '-157', '1.3', '0', '01_uek_cmn_idol_def_N');
 insert into uek_drama values (1010002, 1, 1, '1', '105931', '110', '-355', '-178', '1.3', '0', '01_uek_cmn_idol_def_N');
 insert into uek_drama values (1010003, 1, 1, '1', '112631', '100', '410', '-124', '1.3', '1', '01_uek_cmn_idol_def_N');

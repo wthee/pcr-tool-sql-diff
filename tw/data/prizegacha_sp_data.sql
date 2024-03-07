@@ -1,4 +1,4 @@
-CREATE TABLE 'prizegacha_sp_data' ('gacha_id' INTEGER NOT NULL, 'rarity' INTEGER NOT NULL, 'disp_rarity' INTEGER NOT NULL, PRIMARY KEY('gacha_id','rarity'));
+CREATE TABLE `prizegacha_sp_data` (`gacha_id` INTEGER, `rarity` INTEGER, `disp_rarity` INTEGER);
 insert into prizegacha_sp_data values (50183, 1, 101);
 insert into prizegacha_sp_data values (50183, 2, 102);
 insert into prizegacha_sp_data values (50183, 3, 103);

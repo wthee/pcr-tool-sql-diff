@@ -1,4 +1,4 @@
-CREATE TABLE 'travel_ex_event_data' ('still_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('still_id'));
+CREATE TABLE `travel_ex_event_data` (`still_id` INTEGER, `title` TEXT, `disp_order` INTEGER);
 insert into travel_ex_event_data values (8000000, '肚子餓了就無法進行冒險！', 1);
 insert into travel_ex_event_data values (8000001, '夜晚是祕密的女孩談心時間', 2);
 insert into travel_ex_event_data values (8000002, '小小冒險！', 3);

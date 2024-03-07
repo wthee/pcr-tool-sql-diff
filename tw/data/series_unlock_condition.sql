@@ -1,4 +1,4 @@
-CREATE TABLE 'series_unlock_condition' ('sequel_event_id' INTEGER NOT NULL, 'condition_story_id_1' INTEGER NOT NULL, 'condition_story_id_2' INTEGER NOT NULL, 'condition_event_id' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_boss_id' INTEGER NOT NULL, PRIMARY KEY('sequel_event_id'));
+CREATE TABLE `series_unlock_condition` (`sequel_event_id` INTEGER, `condition_story_id_1` INTEGER, `condition_story_id_2` INTEGER, `condition_event_id` INTEGER, `condition_quest_id` INTEGER, `condition_boss_id` INTEGER);
 insert into series_unlock_condition values (10036, 5035004, 5035005, 0, 0, 0);
 insert into series_unlock_condition values (10059, 5058004, 5058005, 0, 0, 0);
 insert into series_unlock_condition values (10063, 0, 0, 10062, 10062115, 1006201);

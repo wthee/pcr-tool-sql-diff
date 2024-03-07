@@ -1,4 +1,4 @@
-CREATE TABLE 'room_character_skin_color' ('character_id' INTEGER NOT NULL, 'skin_color_id' INTEGER NOT NULL, PRIMARY KEY('character_id'));
+CREATE TABLE `room_character_skin_color` (`character_id` INTEGER, `skin_color_id` INTEGER);
 insert into room_character_skin_color values (1001, 1);
 insert into room_character_skin_color values (1002, 1);
 insert into room_character_skin_color values (1003, 1);
@@ -241,6 +241,12 @@ insert into room_character_skin_color values (1272, 2);
 insert into room_character_skin_color values (1273, 1);
 insert into room_character_skin_color values (1275, 1);
 insert into room_character_skin_color values (1276, 2);
+insert into room_character_skin_color values (1279, 1);
+insert into room_character_skin_color values (1280, 2);
+insert into room_character_skin_color values (1281, 1);
+insert into room_character_skin_color values (1282, 1);
+insert into room_character_skin_color values (1283, 1);
+insert into room_character_skin_color values (1284, 1);
 insert into room_character_skin_color values (1701, 1);
 insert into room_character_skin_color values (1801, 1);
 insert into room_character_skin_color values (1802, 1);

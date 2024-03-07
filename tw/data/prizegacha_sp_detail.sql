@@ -1,4 +1,4 @@
-CREATE TABLE 'prizegacha_sp_detail' ('disp_rarity' INTEGER NOT NULL, 'effect_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, PRIMARY KEY('disp_rarity'));
+CREATE TABLE `prizegacha_sp_detail` (`disp_rarity` INTEGER, `effect_id` INTEGER, `name` TEXT);
 insert into prizegacha_sp_detail values (101, 101, '貪吃佩可獎');
 insert into prizegacha_sp_detail values (102, 102, '可可蘿獎');
 insert into prizegacha_sp_detail values (103, 103, '凱留獎');

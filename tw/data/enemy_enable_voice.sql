@@ -1,4 +1,4 @@
-CREATE TABLE 'enemy_enable_voice' ('unit_id' INTEGER NOT NULL, 'voice_id' INTEGER NOT NULL, PRIMARY KEY('unit_id'));
+CREATE TABLE `enemy_enable_voice` (`unit_id` INTEGER, `voice_id` INTEGER);
 insert into enemy_enable_voice values (209700, 209700);
 insert into enemy_enable_voice values (209701, 209700);
 insert into enemy_enable_voice values (209702, 209700);

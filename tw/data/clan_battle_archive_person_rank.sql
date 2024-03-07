@@ -1,4 +1,4 @@
-CREATE TABLE 'clan_battle_archive_person_rank' ('id' INTEGER NOT NULL, 'rank_from' INTEGER NOT NULL, 'rank_to' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `clan_battle_archive_person_rank` (`id` INTEGER, `rank_from` INTEGER, `rank_to` INTEGER);
 insert into clan_battle_archive_person_rank values (1, 1, 1);
 insert into clan_battle_archive_person_rank values (2, 2, 2);
 insert into clan_battle_archive_person_rank values (3, 3, 3);

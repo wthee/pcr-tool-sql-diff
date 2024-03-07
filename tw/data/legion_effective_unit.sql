@@ -1,4 +1,4 @@
-CREATE TABLE 'legion_effective_unit' ('legion_boss_id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'effect_id' INTEGER NOT NULL, 'support_effect_id' INTEGER NOT NULL, PRIMARY KEY('legion_boss_id','unit_id'));
+CREATE TABLE `legion_effective_unit` (`legion_boss_id` INTEGER, `unit_id` INTEGER, `effect_id` INTEGER, `support_effect_id` INTEGER);
 insert into legion_effective_unit values (1005, 101401, 100, 200);
 insert into legion_effective_unit values (1005, 101601, 100, 200);
 insert into legion_effective_unit values (1005, 101801, 100, 200);

@@ -1,4 +1,4 @@
-CREATE TABLE 'sjr_name_later' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'name_group' INTEGER NOT NULL, 'score_from' INTEGER NOT NULL, 'score_to' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `sjr_name_later` (`id` INTEGER, `name` TEXT, `name_group` INTEGER, `score_from` INTEGER, `score_to` INTEGER);
 insert into sjr_name_later values (1, '小雞', 1, 0, 26999);
 insert into sjr_name_later values (2, '生手', 1, 0, 26999);
 insert into sjr_name_later values (3, '魚苗', 1, 0, 26999);

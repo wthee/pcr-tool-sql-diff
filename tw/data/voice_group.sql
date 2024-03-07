@@ -1,4 +1,4 @@
-CREATE TABLE 'voice_group' ('group_id' INTEGER NOT NULL, 'group_id_comment' TEXT NOT NULL, 'group_unit_id_01' INTEGER NOT NULL, 'group_unit_id_02' INTEGER NOT NULL, 'group_unit_id_03' INTEGER NOT NULL, 'group_unit_id_04' INTEGER NOT NULL, 'group_unit_id_05' INTEGER NOT NULL, PRIMARY KEY('group_id'));
+CREATE TABLE `voice_group` (`group_id` INTEGER, `group_id_comment` TEXT, `group_unit_id_01` INTEGER, `group_unit_id_02` INTEGER, `group_unit_id_03` INTEGER, `group_unit_id_04` INTEGER, `group_unit_id_05` INTEGER);
 insert into voice_group values (20001, '初音＆栞', 101201001, 103801001, 0, 0, 0);
 insert into voice_group values (20002, '靜流＆璃乃', 101101001, 104901001, 0, 0, 0);
 insert into voice_group values (20003, '咲戀＆鈴莓', 102801001, 102501001, 0, 0, 0);

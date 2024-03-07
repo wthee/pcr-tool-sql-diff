@@ -1,4 +1,4 @@
-CREATE TABLE 'hatsune_limit_chara' ('event_boss_id' INTEGER NOT NULL, 'limit_chara_type_1' INTEGER NOT NULL, PRIMARY KEY('event_boss_id'));
+CREATE TABLE `hatsune_limit_chara` (`event_boss_id` INTEGER, `limit_chara_type_1` INTEGER);
 insert into hatsune_limit_chara values (1008401, 58);
 insert into hatsune_limit_chara values (1008402, 58);
 insert into hatsune_limit_chara values (1008403, 58);

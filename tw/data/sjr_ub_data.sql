@@ -1,4 +1,4 @@
-CREATE TABLE 'sjr_ub_data' ('ub_id' INTEGER NOT NULL, 'top_description' TEXT NOT NULL, 'in_game_description' TEXT NOT NULL, 'ub_type' INTEGER NOT NULL, 'ub_value_1' INTEGER NOT NULL, 'ub_value_2' INTEGER NOT NULL, 'ub_value_3' INTEGER NOT NULL, 'ub_value_4' INTEGER NOT NULL, PRIMARY KEY('ub_id'));
+CREATE TABLE `sjr_ub_data` (`ub_id` INTEGER, `top_description` TEXT, `in_game_description` TEXT, `ub_type` INTEGER, `ub_value_1` INTEGER, `ub_value_2` INTEGER, `ub_value_3` INTEGER, `ub_value_4` INTEGER);
 insert into sjr_ub_data values (101, '短時間內，展開障礙物護盾\u3000\u3000\u3000\u3000（TP上升率：大）', '短時間內，展開障礙物護盾！', 2001, 3, 0, 0, 0);
 insert into sjr_ub_data values (102, '中時間內，小幅度提升速度與\u3000\u3000\u3000跳躍力（TP上升率：小）', '中時間內，小幅度提升速度與跳躍力！', 3, 5, 5, 5, 0);
 insert into sjr_ub_data values (103, '短時間內，中幅度提升速度\u3000\u3000\u3000\u3000（TP上升率：中）', '短時間內，中幅度提升速度！', 1, 4, 6, 0, 0);

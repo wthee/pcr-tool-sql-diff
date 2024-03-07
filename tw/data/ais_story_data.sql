@@ -1,0 +1,1 @@
+CREATE TABLE `ais_story_data` (`sub_story_id` INTEGER, `original_event_id` INTEGER, `title` TEXT, `unlock_condition_sub_story_id` INTEGER, `read_condition_story_id` INTEGER, `read_condition_sub_story_id` INTEGER, `reward_type` INTEGER, `reward_id` INTEGER, `reward_count` INTEGER);

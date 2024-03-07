@@ -1,4 +1,4 @@
-CREATE TABLE 'dear_setting' ('event_id' INTEGER NOT NULL, 'system_name' TEXT NOT NULL, 'tutorial_quest_id' INTEGER NOT NULL, 'tutorial_chara_index' INTEGER NOT NULL, 'tutorial_story_id' INTEGER NOT NULL, PRIMARY KEY('event_id'));
+CREATE TABLE `dear_setting` (`event_id` INTEGER, `system_name` TEXT, `tutorial_quest_id` INTEGER, `tutorial_chara_index` INTEGER, `tutorial_story_id` INTEGER);
 insert into dear_setting values (10053, '信賴度', 10053102, 1, 6017101);
 insert into dear_setting values (10104, '信賴度', 10104114, 1, 6104101);
 insert into dear_setting values (10114, '信賴度', 10114107, 1, 6114101);

@@ -1,4 +1,4 @@
-CREATE TABLE 'asm_data' ('asm_id' INTEGER NOT NULL, 'genre_id' INTEGER NOT NULL, 'difficulty' INTEGER NOT NULL, 'asm_type' INTEGER NOT NULL, 'image_id' INTEGER NOT NULL, 'detail' TEXT NOT NULL, 'category' INTEGER NOT NULL, PRIMARY KEY('asm_id'));
+CREATE TABLE `asm_data` (`asm_id` INTEGER, `genre_id` INTEGER, `difficulty` INTEGER, `asm_type` INTEGER, `image_id` INTEGER, `detail` TEXT, `category` INTEGER);
 insert into asm_data values (1110001, 1, 1, 2, 0, '英文「Platinum」的金屬，指的是「黃金」。', 1);
 insert into asm_data values (1110002, 1, 1, 2, 0, '要表示羅馬數字的「１」的時候，使用的英文字母是「I」。', 1);
 insert into asm_data values (1110003, 1, 1, 2, 0, '英文「Tornado」，指的是「颱風」。', 1);

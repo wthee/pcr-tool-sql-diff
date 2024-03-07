@@ -1,0 +1,1 @@
+CREATE TABLE `nyd_story_data` (`sub_story_id` INTEGER, `original_event_id` INTEGER, `title` TEXT, `is_first` INTEGER, `nyd_story_type` INTEGER, `reward_type` INTEGER, `reward_id` INTEGER, `reward_count` INTEGER);

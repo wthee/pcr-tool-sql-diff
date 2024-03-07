@@ -1,4 +1,4 @@
-CREATE TABLE 'ub_auto_define' ('skill_id' INTEGER NOT NULL, 'ub_auto_id_1' INTEGER NOT NULL, 'ub_auto_id_2' INTEGER NOT NULL, 'ub_auto_id_3' INTEGER NOT NULL, 'ub_auto_id_4' INTEGER NOT NULL, 'ub_auto_id_5' INTEGER NOT NULL, PRIMARY KEY('skill_id'));
+CREATE TABLE `ub_auto_define` (`skill_id` INTEGER, `ub_auto_id_1` INTEGER, `ub_auto_id_2` INTEGER, `ub_auto_id_3` INTEGER, `ub_auto_id_4` INTEGER, `ub_auto_id_5` INTEGER);
 insert into ub_auto_define values (1001001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1001011, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1002001, 14002, 11002, 0, 0, 0);

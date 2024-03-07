@@ -1,4 +1,4 @@
-CREATE TABLE 'quest_area_data' ('area_id' INTEGER NOT NULL, 'area_name' TEXT NOT NULL, 'area_display_name' TEXT NOT NULL, 'map_type' INTEGER NOT NULL, 'sheet_id' TEXT NOT NULL, 'que_id' TEXT NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('area_id'));
+CREATE TABLE `quest_area_data` (`area_id` INTEGER, `area_name` TEXT, `area_display_name` TEXT, `map_type` INTEGER, `sheet_id` TEXT, `que_id` TEXT, `start_time` TEXT, `end_time` TEXT);
 insert into quest_area_data values (11001, '1.朱諾平原', '1.朱諾平原', 101, 'bgm_M61', 'bgm_M61', '2015/12/17 15:00:00', '2030/12/17 14:59:59');
 insert into quest_area_data values (11002, '2.帕拉斯高原', '2.帕拉斯高原', 101, 'bgm_M61', 'bgm_M61_02', '2015/12/17 15:00:00', '2030/12/17 14:59:59');
 insert into quest_area_data values (11003, '3.赫柏丘陵', '3.赫柏丘陵', 101, 'bgm_M61', 'bgm_M61_03', '2015/12/17 15:00:00', '2030/12/17 14:59:59');

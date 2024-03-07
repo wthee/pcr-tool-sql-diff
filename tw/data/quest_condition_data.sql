@@ -1,4 +1,4 @@
-CREATE TABLE 'quest_condition_data' ('quest_id' INTEGER NOT NULL, 'condition_quest_id_1' INTEGER NOT NULL, 'condition_quest_id_2' INTEGER NOT NULL, 'condition_quest_id_3' INTEGER NOT NULL, 'condition_quest_id_4' INTEGER NOT NULL, 'condition_quest_id_5' INTEGER NOT NULL, 'release_quest_id_1' INTEGER NOT NULL, 'release_quest_id_2' INTEGER NOT NULL, 'release_quest_id_3' INTEGER NOT NULL, 'release_quest_id_4' INTEGER NOT NULL, 'release_quest_id_5' INTEGER NOT NULL, PRIMARY KEY('quest_id'));
+CREATE TABLE `quest_condition_data` (`quest_id` INTEGER, `condition_quest_id_1` INTEGER, `condition_quest_id_2` INTEGER, `condition_quest_id_3` INTEGER, `condition_quest_id_4` INTEGER, `condition_quest_id_5` INTEGER, `release_quest_id_1` INTEGER, `release_quest_id_2` INTEGER, `release_quest_id_3` INTEGER, `release_quest_id_4` INTEGER, `release_quest_id_5` INTEGER);
 insert into quest_condition_data values (11001001, 0, 0, 0, 0, 0, 11001002, 0, 0, 0, 0);
 insert into quest_condition_data values (11001002, 11001001, 0, 0, 0, 0, 11001003, 0, 0, 0, 0);
 insert into quest_condition_data values (11001003, 11001002, 0, 0, 0, 0, 11001004, 0, 0, 0, 0);

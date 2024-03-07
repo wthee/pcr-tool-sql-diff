@@ -1,4 +1,4 @@
-CREATE TABLE 'music_content' ('music_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'total_playing_time' TEXT NOT NULL, 'listen_start_time' TEXT NOT NULL, 'detail' TEXT NOT NULL, 'sheet_id' TEXT NOT NULL, 'cue_id' TEXT NOT NULL, PRIMARY KEY('music_id'));
+CREATE TABLE `music_content` (`music_id` INTEGER, `name` TEXT, `total_playing_time` TEXT, `listen_start_time` TEXT, `detail` TEXT, `sheet_id` TEXT, `cue_id` TEXT);
 insert into music_content values (1, 'Lost Princess', '01:33', '00:58', '角色歌曲\\n\\n時間 / 01:33\\n演唱\u3000 / 貪吃佩可（M‧A‧O）\\n\u3000\u3000\u3000可可蘿（伊藤美来）\\n\u3000\u3000\u3000凱留（立花理香）\\n作詞 / しほり\\n作曲 / 田中公平\\n編曲 / 根岸貴幸', 'bgm_M152', 'bgm_M152');
 insert into music_content values (2, 'Connecting Happy!!', '01:56', '01:01', '角色歌曲\\n\\n時間 / 01:56\\n演唱\u3000 / 貪吃佩可（M‧A‧O）\\n\u3000\u3000\u3000可可蘿（伊藤美来）\\n\u3000\u3000\u3000凱留（立花理香）\\n作詞 / 畑亜貴\\n作曲 / 高尾奏之介\\n編曲 / 奈良悠樹', 'bgm_M153', 'bgm_M153');
 insert into music_content values (3, '踏上旅程', '01:48', '00:00', '主線冒險\\n\\n時間 / 01:48\\n作曲 / 本田晃弘（Cygames）\\n編曲 / 伊藤翼', 'bgm_M61', 'bgm_M61_juke');
@@ -312,3 +312,9 @@ insert into music_content values (310, 'Ylide Lotus', '1:27', '0:41', '角色歌
 insert into music_content values (311, '旅行與成長（與反省）的記錄', '1:35', '0:00', '故事劇情迷你內容\\n-「Ylide Lotus」編曲-\\n\\n時間 / 01:35\\n作曲 / 宮谷礼治\\n編曲 / 田山里奈', 'bgm_MC083B', 'bgm_MC083B_02_juke');
 insert into music_content values (312, '幻變少女', '2:41', '0:00', '角色主題曲\\n\\n時間 / 02:41\\n作曲 / Enarak（Cygames）\\n編曲 / Enarak（Cygames）', 'bgm_MC002', 'bgm_MC002_juke');
 insert into music_content values (313, '探險', '1:21', '0:00', '探險\\n\\n時間 / 01:21\\n作曲 / 西村真吾\\n編曲 / 西村真吾', 'bgm_M615', 'bgm_M615_juke');
+insert into music_content values (314, '聖誕哭泣寶貝\u3000為誰存在的幸福之日', '1:06', '0:00', '故事劇情主題曲\\n-《Christmas Blessing》編曲-\\n\\n時間 / 01:06\\n作曲 / 高橋修平（SUPA LOVE）\\n編曲 / 松尾早人', 'bgm_MC091', 'bgm_MC091_juke');
+insert into music_content values (315, '巴西利斯克‧阿洛斯', '1:50', '0:00', '故事劇情Boss戰\\n\\n時間 / 01:50\\n作曲 / 田山里奈\\n編曲 / 田山里奈', 'bgm_MC094', 'bgm_MC094_juke');
+insert into music_content values (316, 'Christmas Blessing', '1:32', '0:50', '角色歌曲\\n\\n時間 / 01:32\\n演唱\u3000 / 貪吃佩可（M‧A‧O）\\n\u3000\u3000\u3000克蕾琪塔（Lynn）\\n作詞 / 藤原優樹 （SUPA LOVE）\\n作曲 / 高橋修平 （SUPA LOVE）\\n編曲 / 高橋修平 （SUPA LOVE）\\n弦樂編曲 / 曽木琢磨 （SUPA LOVE）', 'bgm_MC090', 'bgm_MC090');
+insert into music_content values (317, '降臨期日曆', '2:09', '0:00', '故事劇情迷你內容\\n-《Christmas Blessing》編曲-\\n\\n時間 / 02:09\\n作曲 / 高橋修平（SUPA LOVE）\\n編曲 / Enarak（Cygames）', 'bgm_MC095', 'bgm_MC095_juke');
+insert into music_content values (318, '業火燃燒的密林', '2:02', '0:00', 'メインクエスト\\n\\n時間 / 02:02\\n作曲 / 東大路憲太（IM.Lab）・守谷勇人（IM.Lab）・\\n\u3000\u3000\u3000中町友洋（IM.Lab）・吉川美矩（IM.Lab）\\n編曲 / 東大路憲太（IM.Lab）・守谷勇人（IM.Lab）・\\n\u3000\u3000\u3000中町友洋（IM.Lab）・吉川美矩（IM.Lab）', 'bgm_MC079', 'bgm_MC079_juke');
+insert into music_content values (319, '吉歐‧格黑納之戰', '1:38', '0:00', '主線冒險\\n\\n時間 / 01:38\\n作曲 / 植田能平\\n編曲 / 植田能平', 'bgm_MC086', 'bgm_MC086_juke');

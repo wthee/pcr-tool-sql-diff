@@ -1,4 +1,4 @@
-CREATE TABLE 'tdf_wave_group_data' ('wave_group_id' INTEGER NOT NULL, 'enemy_id_1' INTEGER NOT NULL, 'enemy_id_2' INTEGER NOT NULL, 'enemy_id_3' INTEGER NOT NULL, 'enemy_id_4' INTEGER NOT NULL, 'enemy_id_5' INTEGER NOT NULL, PRIMARY KEY('wave_group_id'));
+CREATE TABLE `tdf_wave_group_data` (`wave_group_id` INTEGER, `enemy_id_1` INTEGER, `enemy_id_2` INTEGER, `enemy_id_3` INTEGER, `enemy_id_4` INTEGER, `enemy_id_5` INTEGER);
 insert into tdf_wave_group_data values (74001101, 550101101, 550101102, 550101103, 550101104, 550101105);
 insert into tdf_wave_group_data values (74001102, 550101201, 550101202, 550101203, 550101204, 550101205);
 insert into tdf_wave_group_data values (74001103, 550101301, 550101302, 550101303, 550101304, 550101305);

@@ -1,4 +1,4 @@
-CREATE TABLE 'legion_battle_bonus_effect' ('legion_battle_effect_id' INTEGER NOT NULL, 'enemy_id' INTEGER NOT NULL, 'icon_id' INTEGER NOT NULL, 'text_id' INTEGER NOT NULL, 'skill_id' INTEGER NOT NULL, 'target_type' INTEGER NOT NULL, PRIMARY KEY('legion_battle_effect_id'));
+CREATE TABLE `legion_battle_bonus_effect` (`legion_battle_effect_id` INTEGER, `enemy_id` INTEGER, `icon_id` INTEGER, `text_id` INTEGER, `skill_id` INTEGER, `target_type` INTEGER);
 insert into legion_battle_bonus_effect values (1005, 802100290, 212, 211, 2114001, 1);
 insert into legion_battle_bonus_effect values (1006, 802100290, 212, 211, 2114002, 1);
 insert into legion_battle_bonus_effect values (1007, 802100290, 212, 211, 2114003, 1);

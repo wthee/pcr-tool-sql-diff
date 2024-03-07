@@ -1,4 +1,4 @@
-CREATE TABLE 'profile_frame' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'type' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `profile_frame` (`id` INTEGER, `name` TEXT, `type` INTEGER, `start_time` TEXT, `end_time` TEXT, `disp_order` INTEGER);
 insert into profile_frame values (1, '自動', 1, '2019/02/15 15:00:00', '', 1);
 insert into profile_frame values (2, '預設', 2, '2019/02/15 15:00:00', '', 2);
 insert into profile_frame values (3, '周年', 3, '2020/08/03 16:00:00', '', 3);

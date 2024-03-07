@@ -1,4 +1,4 @@
-CREATE TABLE 'caravan_treasure_block_real' ('id' INTEGER NOT NULL, 'odds_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `caravan_treasure_block_real` (`id` INTEGER, `odds_id` INTEGER, `reward_type` INTEGER, `reward_id` INTEGER, `reward_count` INTEGER);
 insert into caravan_treasure_block_real values (10001001, 10001, 22, 53001, 1);
 insert into caravan_treasure_block_real values (10001002, 10001, 22, 53004, 1);
 insert into caravan_treasure_block_real values (10001003, 10001, 22, 53007, 1);

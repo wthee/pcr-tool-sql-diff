@@ -1,4 +1,4 @@
-CREATE TABLE 'sjr_course' ('course_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'difficulty_level' INTEGER NOT NULL, 'feature' INTEGER NOT NULL, 'length' INTEGER NOT NULL, 'peek_pos' INTEGER NOT NULL, 'time' REAL NOT NULL, 'rail_1' INTEGER NOT NULL, 'rail_2' INTEGER NOT NULL, 'rail_3' INTEGER NOT NULL, PRIMARY KEY('course_id'));
+CREATE TABLE `sjr_course` (`course_id` INTEGER, `type` INTEGER, `difficulty_level` INTEGER, `feature` INTEGER, `length` INTEGER, `peek_pos` INTEGER, `time` REAL, `rail_1` INTEGER, `rail_2` INTEGER, `rail_3` INTEGER);
 insert into sjr_course values (1100001, 1, 1, 1, 10590, 575, 32.0, 1002, 1001, 1003);
 insert into sjr_course values (1100002, 1, 1, 1, 10590, 575, 32.0, 1005, 1004, 1006);
 insert into sjr_course values (1100003, 1, 1, 2, 10590, 575, 32.0, 1008, 1007, 1009);

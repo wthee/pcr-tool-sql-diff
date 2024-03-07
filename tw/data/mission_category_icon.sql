@@ -1,4 +1,4 @@
-CREATE TABLE 'mission_category_icon' ('id' INTEGER NOT NULL, 'icon_name' TEXT NOT NULL, 'color' TEXT NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `mission_category_icon` (`id` INTEGER, `icon_name` TEXT, `color` TEXT);
 insert into mission_category_icon values (101, 'pink', '#E24E7F');
 insert into mission_category_icon values (102, 'pink', '#E24E7F');
 insert into mission_category_icon values (103, 'pink', '#E24E7F');

@@ -1,1 +1,1 @@
-CREATE TABLE 'extra_effect_target_range' ('target_id' INTEGER NOT NULL, 'set_id' INTEGER NOT NULL, 'group_id' INTEGER NOT NULL, PRIMARY KEY('target_id'));
+CREATE TABLE `extra_effect_target_range` (`target_id` INTEGER, `set_id` INTEGER, `group_id` INTEGER);

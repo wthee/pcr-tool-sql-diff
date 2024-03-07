@@ -1,4 +1,4 @@
-CREATE TABLE 'skill_cost' ('target_level' INTEGER NOT NULL, 'cost' INTEGER NOT NULL, PRIMARY KEY('target_level'));
+CREATE TABLE `skill_cost` (`target_level` INTEGER, `cost` INTEGER);
 insert into skill_cost values (1, 0);
 insert into skill_cost values (2, 240);
 insert into skill_cost values (3, 240);

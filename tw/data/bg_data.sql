@@ -1,4 +1,4 @@
-CREATE TABLE 'bg_data' ('view_name' TEXT NOT NULL, 'bg_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, PRIMARY KEY('view_name'));
+CREATE TABLE `bg_data` (`view_name` TEXT, `bg_id` INTEGER, `event_id` INTEGER);
 insert into bg_data values ('SPLASH', 0, 0);
 insert into bg_data values ('TITLE', 0, 0);
 insert into bg_data values ('HOME', 0, 0);
@@ -177,9 +177,11 @@ insert into bg_data values ('HATSUNE_WTS', 502015, 0);
 insert into bg_data values ('HATSUNE_WTM_TOP', 502060, 0);
 insert into bg_data values ('HATSUNE_WTM_ADV', 502060, 0);
 insert into bg_data values ('HATSUNE_WTM_SECRET_ADV', 502060, 0);
+insert into bg_data values ('HATSUNE_XAC', 500038, 0);
 insert into bg_data values ('CARAVAN_TOP', 0, 0);
 insert into bg_data values ('CARAVAN_SHOP', 500370, 0);
 insert into bg_data values ('COLOSSEUM_TOP', 531300, 0);
 insert into bg_data values ('COLOSSEUM_SELECT_PARTY', 531400, 0);
 insert into bg_data values ('COLOSSEUM_BATTLE_RESULT', 0, 0);
 insert into bg_data values ('HATSUNE_ASB', 0, 0);
+insert into bg_data values ('HATSUNE_NYD', 0, 0);

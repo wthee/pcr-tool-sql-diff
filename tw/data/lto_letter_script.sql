@@ -1,4 +1,4 @@
-CREATE TABLE 'lto_letter_script' ('id' INTEGER NOT NULL, 'letter_id' INTEGER NOT NULL, 'seq_num' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'line_num' INTEGER NOT NULL, 'start_pos' INTEGER NOT NULL, 'end_pos' INTEGER NOT NULL, 'seek_time' REAL NOT NULL, 'sheet_name' TEXT NOT NULL, 'cue_name' TEXT NOT NULL, 'command' INTEGER NOT NULL, 'command_param' REAL NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `lto_letter_script` (`id` INTEGER, `letter_id` INTEGER, `seq_num` INTEGER, `type` INTEGER, `line_num` INTEGER, `start_pos` INTEGER, `end_pos` INTEGER, `seek_time` REAL, `sheet_name` TEXT, `cue_name` TEXT, `command` INTEGER, `command_param` REAL);
 insert into lto_letter_script values (1010001, 1, 1, 2, 0, 0, 0, 0.0, 'vo_10020900', 'vo_10020900_0001', 0, 0.0);
 insert into lto_letter_script values (1010002, 1, 2, 1, 1, 0, 180, 0.818181818181818, '0', '0', 0, 0.0);
 insert into lto_letter_script values (1010003, 1, 3, 4, 1, 0, 0, 0.0, '0', '0', 1, 0.818181818181818);

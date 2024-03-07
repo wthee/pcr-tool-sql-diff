@@ -1,4 +1,4 @@
-CREATE TABLE 'ex_equipment_enhance_data' ('rarity' INTEGER NOT NULL, 'enhance_level' INTEGER NOT NULL, 'needed_mana' INTEGER NOT NULL, 'needed_point' INTEGER NOT NULL, 'total_point' INTEGER NOT NULL, 'rankup_level' INTEGER NOT NULL, PRIMARY KEY('rarity','enhance_level'));
+CREATE TABLE `ex_equipment_enhance_data` (`rarity` INTEGER, `enhance_level` INTEGER, `needed_mana` INTEGER, `needed_point` INTEGER, `total_point` INTEGER, `rankup_level` INTEGER);
 insert into ex_equipment_enhance_data values (1, 1, 10, 150, 150, 0);
 insert into ex_equipment_enhance_data values (1, 2, 10, 250, 400, 0);
 insert into ex_equipment_enhance_data values (1, 3, 10, 400, 800, 0);

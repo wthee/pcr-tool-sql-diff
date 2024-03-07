@@ -1,4 +1,4 @@
-CREATE TABLE 'sjr_proper_feature' ('proper_id' INTEGER NOT NULL, 'feature_group_1' INTEGER NOT NULL, 'feature_group_2' INTEGER NOT NULL, 'feature_group_3' INTEGER NOT NULL, 'value_1' INTEGER NOT NULL, 'value_2' INTEGER NOT NULL, 'value_3' INTEGER NOT NULL, PRIMARY KEY('proper_id'));
+CREATE TABLE `sjr_proper_feature` (`proper_id` INTEGER, `feature_group_1` INTEGER, `feature_group_2` INTEGER, `feature_group_3` INTEGER, `value_1` INTEGER, `value_2` INTEGER, `value_3` INTEGER);
 insert into sjr_proper_feature values (1, 1, 2, 3, 105, 105, 105);
 insert into sjr_proper_feature values (2, 1, 2, 3, 105, 120, 120);
 insert into sjr_proper_feature values (3, 1, 2, 3, 100, 120, 100);

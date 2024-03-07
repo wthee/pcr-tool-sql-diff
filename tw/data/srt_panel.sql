@@ -1,4 +1,4 @@
-CREATE TABLE 'srt_panel' ('reading_id' INTEGER NOT NULL, 'reading' TEXT NOT NULL, 'read_type' INTEGER NOT NULL, 'panel_id' INTEGER NOT NULL, 'head_symbol' TEXT NOT NULL, 'tail_symbol' TEXT NOT NULL, 'detail_text' TEXT NOT NULL, 'version' INTEGER NOT NULL, PRIMARY KEY('reading_id'));
+CREATE TABLE `srt_panel` (`reading_id` INTEGER, `reading` TEXT, `read_type` INTEGER, `panel_id` INTEGER, `a0c848a20df13ce46a7d1e0b7afa840e21401e9046ea74a9d91909138919b456` TEXT, `e167eccfc65a5b5592b38aaf87307b5edd963eede2081ed3feaa7448ab9127e4` TEXT, `detail_text` TEXT, `version` INTEGER);
 insert into srt_panel values (1000100, '蘋果', 1, 10001, 'ㄧㄥ', 'ㄨㄛ', '紅色又酸酸甜甜的水果。', 1);
 insert into srt_panel values (1000101, '禁忌的果實', 2, 10001, 'ㄧㄣ', 'ㄕ', '據說會長成智慧之樹的水果。也有人說其實那不是蘋果之類的。', 1);
 insert into srt_panel values (1000102, '智慧之果', 2, 10001, 'ㄓ', 'ㄨㄛ', '吃了可以增強記憶力，提高智能的水果。', 1);

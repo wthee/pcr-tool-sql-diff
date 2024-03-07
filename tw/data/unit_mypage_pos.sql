@@ -1,4 +1,4 @@
-CREATE TABLE 'unit_mypage_pos' ('id' INTEGER NOT NULL, 'pos_x' REAL NOT NULL, 'pos_y' REAL NOT NULL, 'scale' REAL NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `unit_mypage_pos` (`id` INTEGER, `pos_x` REAL, `pos_y` REAL, `scale` REAL);
 insert into unit_mypage_pos values (100101, -354.0, 938.0, 1.6);
 insert into unit_mypage_pos values (100201, -499.0, 952.0, 1.6);
 insert into unit_mypage_pos values (100301, -523.0, 1014.0, 1.6);

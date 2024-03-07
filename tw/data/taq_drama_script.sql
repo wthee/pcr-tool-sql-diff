@@ -1,4 +1,4 @@
-CREATE TABLE 'taq_drama_script' ('command_id' INTEGER NOT NULL, 'drama_id' INTEGER NOT NULL, 'command_type' INTEGER NOT NULL, 'param_01' TEXT NOT NULL, 'param_02' TEXT NOT NULL, 'param_03' TEXT NOT NULL, 'param_04' TEXT NOT NULL, 'param_05' TEXT NOT NULL, 'param_06' TEXT NOT NULL, 'param_07' TEXT NOT NULL, 'param_08' TEXT NOT NULL, PRIMARY KEY('command_id'));
+CREATE TABLE `taq_drama_script` (`command_id` INTEGER, `drama_id` INTEGER, `command_type` INTEGER, `param_01` TEXT, `param_02` TEXT, `param_03` TEXT, `param_04` TEXT, `param_05` TEXT, `param_06` TEXT, `param_07` TEXT, `param_08` TEXT);
 insert into taq_drama_script values (1001, 1, 1, '1', '118511', '100', '72', '-194', '1.65', '1', 'taq_karin_idle');
 insert into taq_drama_script values (1002, 1, 21, 'vo_minigame_1009', 'vo_minigame_1009_top_001', '0', '0', '', '', '', '');
 insert into taq_drama_script values (1003, 1, 11, '118511', '有準備獎品喔，\\n請好好加油吧♪\\n', '8', '0', '0', '0', '0', '0');

@@ -1,4 +1,4 @@
-CREATE TABLE 'ttk_drama' ('command_id' INTEGER NOT NULL, 'drama_id' INTEGER NOT NULL, 'command_type' INTEGER NOT NULL, 'param_01' TEXT NOT NULL, 'param_02' TEXT NOT NULL, 'param_03' TEXT NOT NULL, 'param_04' TEXT NOT NULL, 'param_05' TEXT NOT NULL, 'param_06' TEXT NOT NULL, 'param_07' TEXT NOT NULL, 'param_08' TEXT NOT NULL, PRIMARY KEY('command_id'));
+CREATE TABLE `ttk_drama` (`command_id` INTEGER, `drama_id` INTEGER, `command_type` INTEGER, `param_01` TEXT, `param_02` TEXT, `param_03` TEXT, `param_04` TEXT, `param_05` TEXT, `param_06` TEXT, `param_07` TEXT, `param_08` TEXT);
 insert into ttk_drama values (1010001, 1, 5, '1', '102611', '1000', '100', '-120', '1', '1', 'ttk_idle_def');
 insert into ttk_drama values (1010002, 1, 31, '2', '2', '0', '0', '1', '1', '', '');
 insert into ttk_drama values (1010003, 1, 31, '1', '1', '-80', '-120', '1', '1', '', '');

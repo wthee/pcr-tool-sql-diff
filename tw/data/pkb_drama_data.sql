@@ -1,4 +1,4 @@
-CREATE TABLE 'pkb_drama_data' ('drama_id' INTEGER NOT NULL, 'condition_pitcher_id_1' INTEGER NOT NULL, 'condition_pitcher_id_2' INTEGER NOT NULL, 'condition_batter_id_1' INTEGER NOT NULL, 'condition_batter_id_2' INTEGER NOT NULL, PRIMARY KEY('drama_id'));
+CREATE TABLE `pkb_drama_data` (`drama_id` INTEGER, `condition_pitcher_id_1` INTEGER, `condition_pitcher_id_2` INTEGER, `condition_batter_id_1` INTEGER, `condition_batter_id_2` INTEGER);
 insert into pkb_drama_data values (1, 0, 0, 0, 0);
 insert into pkb_drama_data values (2, 0, 0, 0, 0);
 insert into pkb_drama_data values (3, 0, 0, 0, 0);

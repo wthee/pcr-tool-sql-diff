@@ -1,4 +1,4 @@
-CREATE TABLE 'skip_boss_data' ('boss_id' INTEGER NOT NULL, 'skip_motion_id' INTEGER NOT NULL, 'skip_bg_id' INTEGER NOT NULL, 'skip_position_x' INTEGER NOT NULL, 'skip_position_y' INTEGER NOT NULL, 'skip_scale_x' REAL NOT NULL, 'skip_scale_y' REAL NOT NULL, PRIMARY KEY('boss_id'));
+CREATE TABLE `skip_boss_data` (`boss_id` INTEGER, `skip_motion_id` INTEGER, `skip_bg_id` INTEGER, `skip_position_x` INTEGER, `skip_position_y` INTEGER, `skip_scale_x` REAL, `skip_scale_y` REAL);
 insert into skip_boss_data values (1001101, 306700, 81001105, 0, 0, 1.0, 1.0);
 insert into skip_boss_data values (1001102, 306700, 81001106, 0, 0, 1.0, 1.0);
 insert into skip_boss_data values (1001201, 306800, 81001205, 0, 0, 1.0, 1.0);

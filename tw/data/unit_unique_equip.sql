@@ -1,4 +1,4 @@
-CREATE TABLE 'unit_unique_equip' ('unit_id' INTEGER NOT NULL, 'equip_slot' INTEGER NOT NULL, 'equip_id' INTEGER NOT NULL, PRIMARY KEY('unit_id'));
+CREATE TABLE `unit_unique_equip` (`unit_id` INTEGER, `equip_slot` INTEGER, `equip_id` INTEGER);
 insert into unit_unique_equip values (100101, 1, 130011);
 insert into unit_unique_equip values (100201, 1, 130021);
 insert into unit_unique_equip values (100301, 1, 130031);

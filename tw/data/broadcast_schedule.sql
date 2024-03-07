@@ -1,1 +1,1 @@
-CREATE TABLE 'broadcast_schedule' ('broadcast_id' INTEGER NOT NULL, 'url' TEXT NOT NULL, 'teaser_time' TEXT NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('broadcast_id'));
+CREATE TABLE `broadcast_schedule` (`broadcast_id` INTEGER, `url` TEXT, `teaser_time` TEXT, `start_time` TEXT, `end_time` TEXT);

@@ -1,4 +1,4 @@
-CREATE TABLE 'mission_reward_data' ('id' INTEGER NOT NULL, 'mission_reward_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER , 'reward_num' INTEGER NOT NULL, 'lv_from' INTEGER NOT NULL, 'lv_to' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `mission_reward_data` (`id` INTEGER, `mission_reward_id` INTEGER, `reward_type` INTEGER, `reward_id` INTEGER, `reward_num` INTEGER, `lv_from` INTEGER, `lv_to` INTEGER, `start_time` TEXT, `end_time` TEXT);
 insert into mission_reward_data values (1, 18001001, 6, 93001, 100, 1, -1, '2018/01/01 05:00:00', '2030/12/31 23:59:59');
 insert into mission_reward_data values (2, 18001002, 6, 93001, 100, 1, -1, '2018/01/01 05:00:00', '2030/12/31 23:59:59');
 insert into mission_reward_data values (3, 11001001, 5, 0, 30, 1, -1, '2018/01/01 05:00:00', '2021/02/09 04:59:59');
@@ -307,6 +307,10 @@ insert into mission_reward_data values (318, 28002041, 12, 94002, 15000000, 1, -
 insert into mission_reward_data values (319, 28002041, 2, 90007, 1500, 1, -1, '2018/01/01 05:00:00', '2030/12/31 23:59:59');
 insert into mission_reward_data values (320, 26003031, 8, 91002, 50, 1, -1, '2018/01/01 05:00:00', '2030/12/31 23:59:59');
 insert into mission_reward_data values (321, 26003031, 12, 94002, 750000, 1, -1, '2018/01/01 05:00:00', '2030/12/31 23:59:59');
+insert into mission_reward_data values (328, 28002042, 8, 91002, 1100, 1, -1, '2018/01/01 05:00:00', '2030/12/31 23:59:59');
+insert into mission_reward_data values (329, 28002042, 12, 94002, 15000000, 1, -1, '2018/01/01 05:00:00', '2030/12/31 23:59:59');
+insert into mission_reward_data values (330, 28002042, 2, 90007, 1500, 1, -1, '2018/01/01 05:00:00', '2030/12/31 23:59:59');
+insert into mission_reward_data values (331, 26002035, 8, 91002, 1000, 1, -1, '2018/01/01 05:00:00', '2030/12/31 23:59:59');
 insert into mission_reward_data values (10001, 20904001, 2, 31071, 10, 1, -1, '', '');
 insert into mission_reward_data values (10002, 20904002, 2, 31071, 20, 1, -1, '', '');
 insert into mission_reward_data values (10003, 20904003, 2, 31071, 30, 1, -1, '', '');

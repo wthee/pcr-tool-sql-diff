@@ -1,4 +1,4 @@
-CREATE TABLE 'won_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'is_last' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, 'note_id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'order' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+CREATE TABLE `won_story_data` (`sub_story_id` INTEGER, `original_event_id` INTEGER, `title` TEXT, `is_last` INTEGER, `condition_quest_id` INTEGER, `reward_type` INTEGER, `reward_id` INTEGER, `reward_count` INTEGER, `note_id` INTEGER, `unit_id` INTEGER, `order` INTEGER);
 insert into won_story_data values (10116111, 10116, '岩浣熊的生態筆記①', 0, 10116105, 0, 0, 0, 1, 207300, 1);
 insert into won_story_data values (10116112, 10116, '岩浣熊的生態筆記②', 0, 0, 0, 0, 0, 1, 207300, 2);
 insert into won_story_data values (10116113, 10116, '岩浣熊的生態筆記③', 0, 0, 0, 0, 0, 1, 207300, 3);

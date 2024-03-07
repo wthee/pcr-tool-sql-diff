@@ -1,4 +1,4 @@
-CREATE TABLE 'chara_fortune_schedule' ('fortune_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('fortune_id'));
+CREATE TABLE `chara_fortune_schedule` (`fortune_id` INTEGER, `name` TEXT, `start_time` TEXT, `end_time` TEXT);
 insert into chara_fortune_schedule values (10000, '1st Anniversary 特殊登入獎勵', '2019/08/01 05:00:00', '2019/08/15 04:59:00');
 insert into chara_fortune_schedule values (10002, '1.5週年登入禮', '2020/01/21 05:00:00', '2020/02/07 04:59:59');
 insert into chara_fortune_schedule values (10003, '2nd Anniversary 特殊登入獎勵', '2020/06/22 05:00:00', '2020/07/08 04:59:59');

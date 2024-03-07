@@ -1,4 +1,4 @@
-CREATE TABLE 'music_list' ('music_id' INTEGER NOT NULL, 'list_name' TEXT NOT NULL, 'font_size' REAL NOT NULL, 'pre_shop_start' TEXT NOT NULL, 'shop_start' TEXT NOT NULL, 'shop_end' TEXT NOT NULL, 'story_id' INTEGER NOT NULL, 'cost_item_num' INTEGER NOT NULL, 'sort' INTEGER NOT NULL, 'kana' TEXT NOT NULL, 'ios_url' TEXT NOT NULL, 'android_url' TEXT NOT NULL, 'dmm_url' TEXT NOT NULL, PRIMARY KEY('music_id'));
+CREATE TABLE `music_list` (`music_id` INTEGER, `list_name` TEXT, `font_size` REAL, `pre_shop_start` TEXT, `shop_start` TEXT, `shop_end` TEXT, `story_id` INTEGER, `cost_item_num` INTEGER, `sort` INTEGER, `kana` TEXT, `ios_url` TEXT, `android_url` TEXT, `dmm_url` TEXT);
 insert into music_list values (1, 'Lost Princess', 20.0, '', '2018-10-18 15:00:00', '', -1, -1, 1, 'Lost Princess', '', '', '');
 insert into music_list values (2, 'Connecting Happy!!', 17.0, '', '2018-10-18 15:00:00', '', -1, -1, 2, 'Connecting Happy!!', '', '', '');
 insert into music_list values (3, '踏上旅程', 20.0, '', '2018-10-18 15:00:00', '', -1, 1000, 3, '踏上旅程', '', '', '');
@@ -261,7 +261,7 @@ insert into music_list values (259, '即便在充滿不確定性的未來', 20.0
 insert into music_list values (260, '樂園守護者', 20.0, '', '2023-02-15 15:00:00', '', -1, 1000, 260, '樂園守護者', '', '', '');
 insert into music_list values (261, '象徵久遠庭園之人', 20.0, '', '2023-02-15 15:00:00', '', -1, 1000, 261, '象徵久遠庭園之人', '', '', '');
 insert into music_list values (262, 'Never Lose Again', 20.0, '', '2023-02-15 15:00:00', '', -1, 1500, 262, 'Never Lose Again', '', '', '');
-insert into music_list values (263, '貓與懷舊點心的咖啡廳\u3000歡迎光臨Café Naschkatze', 20.0, '', '2023-03-15 15:00:00', '', -1, 1000, 263, '貓與懷舊糖果的咖啡廳 歡迎光臨Café Naschkatze', '', '', '');
+insert into music_list values (263, '貓與懷舊點心的咖啡廳\u3000歡迎光臨Café Naschkatze', 20.0, '', '2023-03-15 15:00:00', '', -1, 1000, 263, '貓與懷舊點心的咖啡廳 歡迎光臨Café Naschkatze', '', '', '');
 insert into music_list values (264, '祈福託災的招財貓', 20.0, '', '2023-03-15 15:00:00', '', -1, 1000, 264, '祈福託災的招財貓', '', '', '');
 insert into music_list values (265, '喵喵的奮力一擊', 20.0, '', '2023-03-15 15:00:00', '', -1, 1500, 265, '喵喵的奮力一擊', '', '', '');
 insert into music_list values (266, 'Dears\u3000歡迎回家與我回來了的約定', 20.0, '', '2023-04-15 15:00:00', '', -1, 1000, 266, 'Dears歡迎回來與我回來了的約定', '', '', '');
@@ -312,3 +312,9 @@ insert into music_list values (310, 'Ylide Lotus', 20.0, '', '2023-11-15 15:00:0
 insert into music_list values (311, '旅行與成長（與反省）的記錄', 20.0, '', '2023-11-15 15:00:00', '', -1, 1000, 311, '旅行與成長（與反省）的記錄', '', '', '');
 insert into music_list values (312, '幻變少女', 20.0, '', '2023-11-15 15:00:00', '', 2201001, 1000, 312, '幻變少女', '', '', '');
 insert into music_list values (313, '探險', 20.0, '', '2023-11-15 15:00:00', '', -1, 1000, 313, '探險', '', '', '');
+insert into music_list values (314, '聖誕哭泣寶貝\u3000為誰存在的幸福之日', 20.0, '', '2023-12-15 15:00:00', '', -1, 1000, 314, '聖誕哭泣寶貝\u3000為誰存在的幸福之日', '', '', '');
+insert into music_list values (315, '巴西利斯克‧阿洛斯', 20.0, '', '2023-12-15 15:00:00', '', -1, 1000, 315, '巴西利斯克‧阿洛斯', '', '', '');
+insert into music_list values (316, 'Christmas Blessing', 20.0, '', '2023-12-15 15:00:00', '', -1, 1500, 316, 'Christmas Blessing', '', '', '');
+insert into music_list values (317, '降臨期日曆', 20.0, '', '2023-12-15 15:00:00', '', -1, 1000, 317, '降臨期日曆', '', '', '');
+insert into music_list values (318, '業火燃燒的密林', 20.0, '', '2023-12-15 15:00:00', '', -1, 1000, 318, '業火燃燒的密林', '', '', '');
+insert into music_list values (319, '吉歐‧格黑納之戰', 20.0, '', '2023-12-15 15:00:00', '', -1, 1000, 319, '吉歐‧格黑納之戰', '', '', '');

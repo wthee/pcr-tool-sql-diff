@@ -1,4 +1,4 @@
-CREATE TABLE 'caravan_map_object' ('object_id' INTEGER NOT NULL, 'season_id' INTEGER NOT NULL, 'object_type' INTEGER NOT NULL, 'position_x' REAL NOT NULL, 'position_y' REAL NOT NULL, PRIMARY KEY('object_id'));
+CREATE TABLE `caravan_map_object` (`object_id` INTEGER, `season_id` INTEGER, `object_type` INTEGER, `position_x` REAL, `position_y` REAL);
 insert into caravan_map_object values (30010001, 1, 990001, -7.0, -4.5);
 insert into caravan_map_object values (30010003, 1, 990001, 12.0, -21.5);
 insert into caravan_map_object values (30010004, 1, 990001, -3.0, -21.5);

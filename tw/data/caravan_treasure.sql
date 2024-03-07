@@ -1,4 +1,4 @@
-CREATE TABLE 'caravan_treasure' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'new_line_name' TEXT NOT NULL, 'rarity' INTEGER NOT NULL, 'value' INTEGER NOT NULL, 'reset_value' INTEGER NOT NULL, 'appraise_flag' INTEGER NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `caravan_treasure` (`id` INTEGER, `name` TEXT, `new_line_name` TEXT, `rarity` INTEGER, `value` INTEGER, `reset_value` INTEGER, `appraise_flag` INTEGER, `description` TEXT);
 insert into caravan_treasure values (53001, '未鑑定的平凡寶物', '未鑑定的\\n平凡寶物', 1, 200, 100, 1, '內容不明的神祕寶物。拿至公會管理協會辦事處，可以請花凜協助鑑定。鑑定完後，有時候稀有度會上升。');
 insert into caravan_treasure values (53002, '未鑑定的貴重寶物', '未鑑定的\\n貴重寶物', 2, 400, 200, 1, '內容不明的神祕寶物。拿至公會管理協會辦事處，可以請花凜協助鑑定。鑑定完後，有時候稀有度會上升。');
 insert into caravan_treasure values (53003, '未鑑定的頂級寶物', '未鑑定的\\n頂級寶物', 3, 800, 400, 1, '內容不明的神祕寶物。拿至公會管理協會辦事處，可以請花凜協助鑑定。');

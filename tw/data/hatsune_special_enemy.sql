@@ -1,4 +1,4 @@
-CREATE TABLE 'hatsune_special_enemy' ('enemy_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'mode' INTEGER NOT NULL, 'enemy_point' INTEGER NOT NULL, 'initial_position' INTEGER NOT NULL, 'order' INTEGER NOT NULL, PRIMARY KEY('enemy_id'));
+CREATE TABLE `hatsune_special_enemy` (`enemy_id` INTEGER, `event_id` INTEGER, `mode` INTEGER, `enemy_point` INTEGER, `initial_position` INTEGER, `order` INTEGER);
 insert into hatsune_special_enemy values (610010501, 10010, 1, 0, 100, 0);
 insert into hatsune_special_enemy values (610010502, 10010, 1, 0, 250, 0);
 insert into hatsune_special_enemy values (610010503, 10010, 1, 0, 450, 0);

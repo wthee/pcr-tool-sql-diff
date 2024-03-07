@@ -1,4 +1,4 @@
-CREATE TABLE 'travel_quest_result' ('situation_id' INTEGER NOT NULL, 'drama_id' INTEGER NOT NULL, 'except_unit_group_id' INTEGER NOT NULL, PRIMARY KEY('situation_id'));
+CREATE TABLE `travel_quest_result` (`situation_id` INTEGER, `drama_id` INTEGER, `except_unit_group_id` INTEGER);
 insert into travel_quest_result values (101, 1011, 2);
 insert into travel_quest_result values (102, 1021, 2);
 insert into travel_quest_result values (103, 1031, 1);

@@ -1,4 +1,4 @@
-CREATE TABLE 'colosseum_score' ('quest_id' INTEGER NOT NULL, 'win_pt' INTEGER NOT NULL, 'time_pt_rate' INTEGER NOT NULL, 'bonus_pos_1' INTEGER NOT NULL, 'bonus_param_1' INTEGER NOT NULL, 'bonus_pos_2' INTEGER NOT NULL, 'bonus_param_2' INTEGER NOT NULL, 'threshold_pt_1' INTEGER NOT NULL, 'threshold_pt_2' INTEGER NOT NULL, PRIMARY KEY('quest_id'));
+CREATE TABLE `colosseum_score` (`quest_id` INTEGER, `win_pt` INTEGER, `time_pt_rate` INTEGER, `bonus_pos_1` INTEGER, `bonus_param_1` INTEGER, `bonus_pos_2` INTEGER, `bonus_param_2` INTEGER, `threshold_pt_1` INTEGER, `threshold_pt_2` INTEGER);
 insert into colosseum_score values (100111, 5000, 50, 0, 0, 0, 0, 20000, 30000);
 insert into colosseum_score values (100112, 5000, 50, 0, 0, 0, 0, 20000, 30000);
 insert into colosseum_score values (100113, 5000, 50, 0, 0, 0, 0, 20000, 30000);

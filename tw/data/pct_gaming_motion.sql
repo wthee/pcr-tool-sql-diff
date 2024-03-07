@@ -1,4 +1,4 @@
-CREATE TABLE 'pct_gaming_motion' ('motion_id' INTEGER NOT NULL, 'perfect_count' INTEGER NOT NULL, 'good_count' INTEGER NOT NULL, 'nice_count' INTEGER NOT NULL, 'point' INTEGER NOT NULL, PRIMARY KEY('motion_id'));
+CREATE TABLE `pct_gaming_motion` (`motion_id` INTEGER, `perfect_count` INTEGER, `good_count` INTEGER, `nice_count` INTEGER, `point` INTEGER);
 insert into pct_gaming_motion values (1, 2, 3, 4, 300);
 insert into pct_gaming_motion values (2, 5, 6, 7, 600);
 insert into pct_gaming_motion values (3, 8, 9, 10, 1000);

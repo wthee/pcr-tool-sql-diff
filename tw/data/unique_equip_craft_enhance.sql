@@ -1,4 +1,4 @@
-CREATE TABLE 'unique_equip_craft_enhance' ('equipment_id' INTEGER NOT NULL, 'consume_group_id' INTEGER NOT NULL, PRIMARY KEY('equipment_id'));
+CREATE TABLE `unique_equip_craft_enhance` (`equipment_id` INTEGER, `consume_group_id` INTEGER);
 insert into unique_equip_craft_enhance values (130162, 4);
 insert into unique_equip_craft_enhance values (130602, 5);
 insert into unique_equip_craft_enhance values (130772, 1);

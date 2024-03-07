@@ -1,4 +1,4 @@
-CREATE TABLE 'ex_equipment_category' ('category' INTEGER NOT NULL, 'category_name' TEXT NOT NULL, 'category_base' TEXT NOT NULL, 'outline' TEXT NOT NULL, 'recycle_item_id' INTEGER NOT NULL, PRIMARY KEY('category'));
+CREATE TABLE `ex_equipment_category` (`category` INTEGER, `category_name` TEXT, `category_base` TEXT, `outline` TEXT, `recycle_item_id` INTEGER);
 insert into ex_equipment_category values (101, '單手劍', 'red', '#D23232', 90009);
 insert into ex_equipment_category values (102, '雙手劍', 'red', '#D23232', 90009);
 insert into ex_equipment_category values (103, '短劍', 'red', '#D23232', 90009);

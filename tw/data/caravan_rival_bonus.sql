@@ -1,0 +1,1 @@
+CREATE TABLE `caravan_rival_bonus` (`id` INTEGER, `season_id` INTEGER, `level` INTEGER, `bonus_label` INTEGER, `distance_from` INTEGER, `distance_to` INTEGER, `reward_type` INTEGER, `reward_id` INTEGER, `reward_count` INTEGER, `label_text` TEXT);

@@ -1,4 +1,4 @@
-CREATE TABLE 'secret_dungeon_floor_setting' ('id' INTEGER NOT NULL, 'quest_id' INTEGER NOT NULL, 'enemy_identify' INTEGER NOT NULL, 'mode' INTEGER NOT NULL, 'enemy_id' INTEGER NOT NULL, 'floor_position_x' REAL NOT NULL, 'floor_position_y' REAL NOT NULL, 'floor_scale' REAL NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE `secret_dungeon_floor_setting` (`id` INTEGER, `quest_id` INTEGER, `enemy_identify` INTEGER, `mode` INTEGER, `enemy_id` INTEGER, `floor_position_x` REAL, `floor_position_y` REAL, `floor_scale` REAL, `disp_order` INTEGER);
 insert into secret_dungeon_floor_setting values (1, 320010106, 1, 0, 502001102, 43.5, 11.0, 0.7, 1);
 insert into secret_dungeon_floor_setting values (2, 320010106, 2, 0, 502001103, 13.0, 67.0, 0.65, 3);
 insert into secret_dungeon_floor_setting values (3, 320010106, 3, 0, 0, -74.0, 49.0, 0.65, 2);

@@ -1,4 +1,4 @@
-CREATE TABLE 'svd_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'read_condition_time' TEXT NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_boss_id' INTEGER NOT NULL, 'read_condition' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+CREATE TABLE `svd_story_data` (`sub_story_id` INTEGER, `original_event_id` INTEGER, `title` TEXT, `read_condition_time` TEXT, `condition_quest_id` INTEGER, `condition_boss_id` INTEGER, `read_condition` INTEGER);
 insert into svd_story_data values (1007001, 10070, '圖畫日記之1', '0', 20039101, 0, 0);
 insert into svd_story_data values (1007002, 10070, '圖畫日記之2', '0', 20039101, 0, 1007001);
 insert into svd_story_data values (1007003, 10070, '圖畫日記之3', '0', 20039103, 0, 1007002);
