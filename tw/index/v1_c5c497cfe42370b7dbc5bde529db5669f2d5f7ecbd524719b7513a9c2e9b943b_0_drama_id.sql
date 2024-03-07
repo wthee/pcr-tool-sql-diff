@@ -1,0 +1,1 @@
+CREATE INDEX 'v1_c5c497cfe42370b7dbc5bde529db5669f2d5f7ecbd524719b7513a9c2e9b943b_0_drama_id' on 'v1_c5c497cfe42370b7dbc5bde529db5669f2d5f7ecbd524719b7513a9c2e9b943b'('23c05ed7c3ed3ddeae13813ebd30eac5bc8cec418c9997c3b8cc9854fbc1ace4')

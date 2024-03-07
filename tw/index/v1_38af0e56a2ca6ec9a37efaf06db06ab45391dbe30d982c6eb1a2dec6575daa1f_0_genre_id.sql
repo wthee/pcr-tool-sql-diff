@@ -1,0 +1,1 @@
+CREATE INDEX 'v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f_0_genre_id' on 'v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f'('4d2730255fcc452d6e1b6aee99cb06a07728898c870f502b3fe3bb1673eca282')

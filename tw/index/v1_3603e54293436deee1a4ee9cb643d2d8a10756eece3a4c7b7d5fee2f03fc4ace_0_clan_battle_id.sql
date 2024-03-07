@@ -1,0 +1,1 @@
+CREATE INDEX 'v1_3603e54293436deee1a4ee9cb643d2d8a10756eece3a4c7b7d5fee2f03fc4ace_0_clan_battle_id' on 'v1_3603e54293436deee1a4ee9cb643d2d8a10756eece3a4c7b7d5fee2f03fc4ace'('338188c0d32d62a6ca9e3989032027eab8ba42accc8ff4d6ffcae76584edfa6c')

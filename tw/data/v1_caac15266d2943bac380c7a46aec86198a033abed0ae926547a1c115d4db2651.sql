@@ -1,0 +1,12 @@
+CREATE TABLE 'v1_caac15266d2943bac380c7a46aec86198a033abed0ae926547a1c115d4db2651' ('24da57f7fa4d647bef62e7fc40c8e8ba809f4befc3e2b0a9860e6533b03f7acd' INTEGER NOT NULL, 'f1d07d6eea1a86f0825103b1be79482bd501a4859bb5b6ceefb2342e6847c52a' TEXT NOT NULL, 'cbcbcbe5b0e3ee65236e6d04a607e57c7b7c1db0e2a12e42dfdd65b02de219a6' INTEGER NOT NULL, 'bc4f4e35ec322884d391011a904c15bdc783309d8c18df88b966355717f1bb29' TEXT NOT NULL, 'c3c302dcfe74a27132e82449743df32c3a739df8297f140bfcb94a4cbe0a2f45' TEXT NOT NULL, '4fd27359ed45b796c10a27819dfddc06bac74c188669023cb480e44228c88f0f' INTEGER NOT NULL, PRIMARY KEY('24da57f7fa4d647bef62e7fc40c8e8ba809f4befc3e2b0a9860e6533b03f7acd'));
+insert into v1_caac15266d2943bac380c7a46aec86198a033abed0ae926547a1c115d4db2651 values (1, '自動', 1, '2019/02/15 15:00:00', '', 1);
+insert into v1_caac15266d2943bac380c7a46aec86198a033abed0ae926547a1c115d4db2651 values (2, '預設', 2, '2019/02/15 15:00:00', '', 2);
+insert into v1_caac15266d2943bac380c7a46aec86198a033abed0ae926547a1c115d4db2651 values (3, '周年', 3, '2020/08/03 16:00:00', '', 3);
+insert into v1_caac15266d2943bac380c7a46aec86198a033abed0ae926547a1c115d4db2651 values (4, '粉紅色', 1, '2020/04/20 12:00:00', '', 4);
+insert into v1_caac15266d2943bac380c7a46aec86198a033abed0ae926547a1c115d4db2651 values (5, '紅色', 1, '2020/04/20 12:00:00', '', 5);
+insert into v1_caac15266d2943bac380c7a46aec86198a033abed0ae926547a1c115d4db2651 values (6, '黃色', 1, '2020/04/20 12:00:00', '', 6);
+insert into v1_caac15266d2943bac380c7a46aec86198a033abed0ae926547a1c115d4db2651 values (7, '綠色', 1, '2020/04/20 12:00:00', '', 7);
+insert into v1_caac15266d2943bac380c7a46aec86198a033abed0ae926547a1c115d4db2651 values (8, '淺藍色', 1, '2020/04/20 12:00:00', '', 8);
+insert into v1_caac15266d2943bac380c7a46aec86198a033abed0ae926547a1c115d4db2651 values (9, '藍色', 1, '2020/04/20 12:00:00', '', 9);
+insert into v1_caac15266d2943bac380c7a46aec86198a033abed0ae926547a1c115d4db2651 values (10, '紫色', 1, '2020/04/20 12:00:00', '', 10);
+insert into v1_caac15266d2943bac380c7a46aec86198a033abed0ae926547a1c115d4db2651 values (11, '灰色', 1, '2020/04/20 12:00:00', '', 11);
