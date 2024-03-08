@@ -1,4 +1,4 @@
-CREATE TABLE `nyx_story_data` (`story_id` INTEGER, `story_seq` INTEGER, `story_phase` INTEGER, `title` TEXT, `sub_title` TEXT, `read_condition_time` TEXT, `condition_quest_id` INTEGER, `condition_boss_count` INTEGER, `adv_flg` INTEGER, `adv_id` INTEGER);
+CREATE TABLE 'nyx_story_data' ('story_id' INTEGER NOT NULL, 'story_seq' INTEGER NOT NULL, 'story_phase' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'sub_title' TEXT NOT NULL, 'read_condition_time' TEXT NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_boss_count' INTEGER NOT NULL, 'adv_flg' INTEGER NOT NULL, 'adv_id' INTEGER NOT NULL, PRIMARY KEY('story_id'));
 insert into nyx_story_data values (11, 1, 1, '', '', '0', 20023105, 0, 1, 5038600);
 insert into nyx_story_data values (12, 2, 1, '高中部1年級\u3000琪愛兒', '理應繼承至次世代的新語言', '0', 20023105, 0, 0, 0);
 insert into nyx_story_data values (13, 3, 1, '高中部2年級\u3000克蘿依', '我超級不會寫作文', '0', 20023107, 0, 0, 0);

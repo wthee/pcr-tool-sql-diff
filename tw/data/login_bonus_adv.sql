@@ -1,4 +1,4 @@
-CREATE TABLE `login_bonus_adv` (`id` INTEGER, `login_bonus_id` INTEGER, `start_time` TEXT, `end_time` TEXT, `count_key` INTEGER, `adv_id` INTEGER, `read_process_flag` INTEGER);
+CREATE TABLE 'login_bonus_adv' ('id' INTEGER NOT NULL, 'login_bonus_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'count_key' INTEGER NOT NULL, 'adv_id' INTEGER NOT NULL, 'read_process_flag' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into login_bonus_adv values (21, 70004, '2021/04/23 05:00:00', '2021/04/25 04:59:59', 0, 400, 0);
 insert into login_bonus_adv values (22, 70004, '2021/04/23 05:00:00', '2021/04/25 04:59:59', 0, 401, 0);
 insert into login_bonus_adv values (23, 70005, '0', '0', 1, 416, 0);

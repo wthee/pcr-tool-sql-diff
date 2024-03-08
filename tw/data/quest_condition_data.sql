@@ -1,4 +1,4 @@
-CREATE TABLE `quest_condition_data` (`quest_id` INTEGER, `condition_quest_id_1` INTEGER, `condition_quest_id_2` INTEGER, `condition_quest_id_3` INTEGER, `condition_quest_id_4` INTEGER, `condition_quest_id_5` INTEGER, `release_quest_id_1` INTEGER, `release_quest_id_2` INTEGER, `release_quest_id_3` INTEGER, `release_quest_id_4` INTEGER, `release_quest_id_5` INTEGER);
+CREATE TABLE 'quest_condition_data' ('quest_id' INTEGER NOT NULL, 'condition_quest_id_1' INTEGER NOT NULL, 'condition_quest_id_2' INTEGER NOT NULL, 'condition_quest_id_3' INTEGER NOT NULL, 'condition_quest_id_4' INTEGER NOT NULL, 'condition_quest_id_5' INTEGER NOT NULL, 'release_quest_id_1' INTEGER NOT NULL, 'release_quest_id_2' INTEGER NOT NULL, 'release_quest_id_3' INTEGER NOT NULL, 'release_quest_id_4' INTEGER NOT NULL, 'release_quest_id_5' INTEGER NOT NULL, PRIMARY KEY('quest_id'));
 insert into quest_condition_data values (11001001, 0, 0, 0, 0, 0, 11001002, 0, 0, 0, 0);
 insert into quest_condition_data values (11001002, 11001001, 0, 0, 0, 0, 11001003, 0, 0, 0, 0);
 insert into quest_condition_data values (11001003, 11001002, 0, 0, 0, 0, 11001004, 0, 0, 0, 0);
@@ -1091,7 +1091,7 @@ insert into quest_condition_data values (12063003, 12063002, 11063010, 0, 0, 0, 
 insert into quest_condition_data values (12064001, 12063003, 11064003, 0, 0, 0, 12064002, 13064001, 0, 0, 0);
 insert into quest_condition_data values (12064002, 12064001, 11064006, 0, 0, 0, 12064003, 0, 0, 0, 0);
 insert into quest_condition_data values (12064003, 12064002, 11064010, 0, 0, 0, 12065001, 0, 0, 0, 0);
-insert into quest_condition_data values (12065001, 12064003, 11065003, 0, 0, 0, 12065002, 0, 0, 0, 0);
+insert into quest_condition_data values (12065001, 12064003, 11065003, 0, 0, 0, 12065002, 13065001, 0, 0, 0);
 insert into quest_condition_data values (12065002, 12065001, 11065006, 0, 0, 0, 12065003, 0, 0, 0, 0);
 insert into quest_condition_data values (12065003, 12065002, 11065010, 0, 0, 0, 12066001, 0, 0, 0, 0);
 insert into quest_condition_data values (12066001, 12065003, 11066003, 0, 0, 0, 12066002, 0, 0, 0, 0);
@@ -1156,7 +1156,10 @@ insert into quest_condition_data values (13063002, 13063001, 0, 0, 0, 0, 1306300
 insert into quest_condition_data values (13063003, 13063002, 0, 0, 0, 0, 13064001, 0, 0, 0, 0);
 insert into quest_condition_data values (13064001, 12064001, 13063003, 0, 0, 0, 13064002, 0, 0, 0, 0);
 insert into quest_condition_data values (13064002, 13064001, 0, 0, 0, 0, 13064003, 0, 0, 0, 0);
-insert into quest_condition_data values (13064003, 13064002, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into quest_condition_data values (13064003, 13064002, 0, 0, 0, 0, 13065001, 0, 0, 0, 0);
+insert into quest_condition_data values (13065001, 12065001, 13064003, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into quest_condition_data values (13065002, 99999999, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into quest_condition_data values (13065003, 99999999, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into quest_condition_data values (15063001, 11063002, 0, 0, 0, 0, 11063003, 0, 0, 0, 0);
 insert into quest_condition_data values (15063002, 11063003, 0, 0, 0, 0, 11063004, 0, 0, 0, 0);
 insert into quest_condition_data values (15063003, 11063004, 0, 0, 0, 0, 11063005, 0, 0, 0, 0);

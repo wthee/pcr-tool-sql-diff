@@ -1,4 +1,4 @@
-CREATE TABLE `custom_mypage` (`still_id` INTEGER, `group_id` INTEGER, `still_group_id` INTEGER, `still_name` TEXT, `vertical_still_flg` INTEGER, `scroll_direction` INTEGER, `mypage_type` INTEGER);
+CREATE TABLE 'custom_mypage' ('still_id' INTEGER NOT NULL, 'group_id' INTEGER NOT NULL, 'still_group_id' INTEGER NOT NULL, 'still_name' TEXT NOT NULL, 'vertical_still_flg' INTEGER NOT NULL, 'scroll_direction' INTEGER NOT NULL, 'mypage_type' INTEGER NOT NULL, PRIMARY KEY('still_id'));
 insert into custom_mypage values (9000092, 20001, 0, '3周年紀念自訂主頁面1', 0, 0, 1);
 insert into custom_mypage values (9000093, 20001, 0, '3周年紀念自訂主頁面2', 0, 0, 1);
 insert into custom_mypage values (9000094, 20001, 0, '3周年紀念自訂主頁面3', 0, 0, 1);

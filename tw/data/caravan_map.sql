@@ -1,4 +1,4 @@
-CREATE TABLE `caravan_map` (`block_id` INTEGER, `season_id` INTEGER, `next_1` INTEGER, `next_2` INTEGER, `next_3` INTEGER, `next_4` INTEGER, `type` INTEGER, `reference_id` INTEGER, `pre_1` INTEGER, `pre_2` INTEGER, `pre_3` INTEGER, `pre_4` INTEGER, `distance_to_goal` INTEGER);
+CREATE TABLE 'caravan_map' ('block_id' INTEGER NOT NULL, 'season_id' INTEGER NOT NULL, 'next_1' INTEGER NOT NULL, 'next_2' INTEGER NOT NULL, 'next_3' INTEGER NOT NULL, 'next_4' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'reference_id' INTEGER NOT NULL, 'pre_1' INTEGER NOT NULL, 'pre_2' INTEGER NOT NULL, 'pre_3' INTEGER NOT NULL, 'pre_4' INTEGER NOT NULL, 'distance_to_goal' INTEGER NOT NULL, PRIMARY KEY('block_id'));
 insert into caravan_map values (10010001, 1, 10010484, 0, 0, 0, 1, 0, 0, 0, 0, 0, 57);
 insert into caravan_map values (10010099, 1, 10010100, 0, 0, 0, 2, 1, 10010674, 0, 0, 0, 59);
 insert into caravan_map values (10010100, 1, 10010101, 0, 0, 0, 11, 10001, 10010099, 0, 0, 0, 58);

@@ -1,4 +1,4 @@
-CREATE TABLE `event_navi_comment_condition` (`comment_id` INTEGER, `condition_type_1` INTEGER, `condition_value_1` INTEGER, `condition_type_2` INTEGER, `condition_value_2` INTEGER, `condition_type_3` INTEGER, `condition_value_3` INTEGER);
+CREATE TABLE 'event_navi_comment_condition' ('comment_id' INTEGER NOT NULL, 'condition_type_1' INTEGER NOT NULL, 'condition_value_1' INTEGER NOT NULL, 'condition_type_2' INTEGER NOT NULL, 'condition_value_2' INTEGER NOT NULL, 'condition_type_3' INTEGER NOT NULL, 'condition_value_3' INTEGER NOT NULL, PRIMARY KEY('comment_id'));
 insert into event_navi_comment_condition values (10042101, 4, 5042001, 0, 0, 0, 0);
 insert into event_navi_comment_condition values (10042102, 3, 5042001, 0, 0, 0, 0);
 insert into event_navi_comment_condition values (10042103, 4, 5042001, 0, 0, 0, 0);

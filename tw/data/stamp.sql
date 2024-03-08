@@ -1,4 +1,4 @@
-CREATE TABLE `stamp` (`stamp_id` INTEGER, `disp_order` INTEGER, `description` TEXT, `start_date` TEXT, `end_date` TEXT);
+CREATE TABLE 'stamp' ('stamp_id' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('stamp_id'));
 insert into stamp values (100101, 28, '加油！', '2015/04/01 14:00:00', '2099/08/01 14:59:59');
 insert into stamp values (100201, 29, '謝謝', '2015/04/01 14:00:00', '2099/08/01 14:59:59');
 insert into stamp values (100301, 30, '參戰', '2015/04/01 14:00:00', '2099/08/01 14:59:59');

@@ -1,4 +1,4 @@
-CREATE TABLE `psy_note` (`psy_product_id` INTEGER, `condition_flavor_1` INTEGER, `condition_flavor_2` INTEGER, `psy_product_name` TEXT, `flavor_1` TEXT, `flavor_2` TEXT, `flavor_3` TEXT, `disp_order` INTEGER, `init_flg` INTEGER);
+CREATE TABLE 'psy_note' ('psy_product_id' INTEGER NOT NULL, 'condition_flavor_1' INTEGER NOT NULL, 'condition_flavor_2' INTEGER NOT NULL, 'psy_product_name' TEXT NOT NULL, 'flavor_1' TEXT NOT NULL, 'flavor_2' TEXT NOT NULL, 'flavor_3' TEXT NOT NULL, 'disp_order' INTEGER NOT NULL, 'init_flg' INTEGER NOT NULL, PRIMARY KEY('psy_product_id'));
 insert into psy_note values (100, 3, 5, '貪吃佩可的布丁', '公主般的布丁來的。\\n試著把店裡的各種食物\\n都盡量放進去了。\\n好期待味道如何喲。', '這是好吃到會讓人\\n吃到停不下來的布丁喲。\\n沒有人可以阻止\\n現在的宮子喲！', '太讚了吧☆喲！', 1, 1);
 insert into psy_note values (101, 3, 5, '可可蘿的布丁', '總是待在你身邊的傢伙\\n的布丁喲。\\n感覺也會溫柔接受\\n宮子的任性要求來的。', '總覺得這個味道\\n讓人好窩心喲……\\n就像從早到晚都\\n待在一起的味道……', '主人，喲！', 2, 1);
 insert into psy_note values (102, 3, 5, '凱留的布丁', '傲傲又嬌嬌的傢伙\\n的布丁。試著把糖跟\\n香料混合在一起了。\\n好期待味道會變怎樣喲。', '這是可以一次嚐到\\n很多種味道的布丁喲。\\n傲嬌變成布丁會很好吃喲。\\n宮子也要以傲嬌為目標喲。', '宰了你喔！喲！\\n……嬌嬌的點在哪裡？', 3, 0);

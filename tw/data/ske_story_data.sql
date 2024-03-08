@@ -1,4 +1,4 @@
-CREATE TABLE `ske_story_data` (`sub_story_id` INTEGER, `original_event_id` INTEGER, `title` TEXT, `unlock_condition_quest_id` INTEGER, `unlock_condition_boss_id` INTEGER, `read_condition_event_story_id` INTEGER);
+CREATE TABLE 'ske_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'unlock_condition_quest_id' INTEGER NOT NULL, 'unlock_condition_boss_id' INTEGER NOT NULL, 'read_condition_event_story_id' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
 insert into ske_story_data values (1005801, 10058, '羈絆日記之1', 20033108, 0, 5058003);
 insert into ske_story_data values (1005802, 10058, '羈絆日記之2', 20033110, 0, 5058003);
 insert into ske_story_data values (1005803, 10058, '羈絆日記之3', 20033112, 0, 5058003);

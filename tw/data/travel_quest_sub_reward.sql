@@ -1,4 +1,4 @@
-CREATE TABLE `travel_quest_sub_reward` (`id` INTEGER, `travel_quest_id` INTEGER, `reward_type` INTEGER, `reward_id` INTEGER, `disp_order` INTEGER);
+CREATE TABLE 'travel_quest_sub_reward' ('id' INTEGER NOT NULL, 'travel_quest_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into travel_quest_sub_reward values (1, 11001001, 18, 4101101, 750000);
 insert into travel_quest_sub_reward values (2, 11001001, 18, 4101201, 120000);
 insert into travel_quest_sub_reward values (3, 11001001, 18, 4101202, 120000);

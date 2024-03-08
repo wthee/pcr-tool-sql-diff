@@ -1,4 +1,4 @@
-CREATE TABLE `wave_group_data` (`id` INTEGER, `wave_group_id` INTEGER, `odds` INTEGER, `enemy_id_1` INTEGER, `drop_gold_1` INTEGER, `drop_reward_id_1` INTEGER, `enemy_id_2` INTEGER, `drop_gold_2` INTEGER, `drop_reward_id_2` INTEGER, `enemy_id_3` INTEGER, `drop_gold_3` INTEGER, `drop_reward_id_3` INTEGER, `enemy_id_4` INTEGER, `drop_gold_4` INTEGER, `drop_reward_id_4` INTEGER, `enemy_id_5` INTEGER, `drop_gold_5` INTEGER, `drop_reward_id_5` INTEGER, `guest_enemy_id` INTEGER, `guest_lane` INTEGER);
+CREATE TABLE 'wave_group_data' ('id' INTEGER NOT NULL, 'wave_group_id' INTEGER NOT NULL, 'odds' INTEGER NOT NULL, 'enemy_id_1' INTEGER NOT NULL, 'drop_gold_1' INTEGER NOT NULL, 'drop_reward_id_1' INTEGER NOT NULL, 'enemy_id_2' INTEGER NOT NULL, 'drop_gold_2' INTEGER NOT NULL, 'drop_reward_id_2' INTEGER NOT NULL, 'enemy_id_3' INTEGER NOT NULL, 'drop_gold_3' INTEGER NOT NULL, 'drop_reward_id_3' INTEGER NOT NULL, 'enemy_id_4' INTEGER NOT NULL, 'drop_gold_4' INTEGER NOT NULL, 'drop_reward_id_4' INTEGER NOT NULL, 'enemy_id_5' INTEGER NOT NULL, 'drop_gold_5' INTEGER NOT NULL, 'drop_reward_id_5' INTEGER NOT NULL, 'guest_enemy_id' INTEGER NOT NULL, 'guest_lane' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into wave_group_data values (100000001, 512000021, 100, 100000001, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into wave_group_data values (100000002, 512000022, 100, 100000001, 0, 0, 100000001, 0, 0, 100000002, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into wave_group_data values (101000001, 110010011, 100, 101010101, 255, 11001011, 101010101, 0, 11999091, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -3472,6 +3472,9 @@ insert into wave_group_data values (103000177, 130640023, 100, 103640210, 2303, 
 insert into wave_group_data values (103000178, 130640031, 100, 103640301, 2318, 13064031, 103640307, 0, 0, 103640304, 0, 13064034, 103640309, 0, 0, 0, 0, 0, 0, 0);
 insert into wave_group_data values (103000179, 130640032, 100, 103640302, 2318, 13064032, 103640303, 0, 11999591, 103640304, 0, 12999094, 103640305, 0, 0, 0, 0, 0, 0, 0);
 insert into wave_group_data values (103000180, 130640033, 100, 103640310, 2318, 13064049, 103640306, 0, 11999592, 103640307, 0, 13064033, 103640308, 0, 11999693, 103640309, 0, 0, 0, 0);
+insert into wave_group_data values (103000181, 130650011, 100, 103650106, 2333, 13065011, 103650102, 0, 0, 103650103, 0, 13065014, 103650109, 0, 0, 0, 0, 0, 0, 0);
+insert into wave_group_data values (103000182, 130650012, 100, 103650101, 2333, 13065012, 103650102, 0, 11999591, 103650104, 0, 12999101, 103650105, 0, 0, 0, 0, 0, 0, 0);
+insert into wave_group_data values (103000183, 130650013, 100, 103650110, 2333, 13065029, 103650106, 0, 11999592, 103650107, 0, 13065013, 103650108, 0, 11999693, 103650109, 0, 0, 0, 0);
 insert into wave_group_data values (105000001, 150630011, 100, 105630101, 0, 0, 105630102, 0, 0, 105630103, 0, 0, 105630104, 0, 0, 105630105, 0, 0, 0, 0);
 insert into wave_group_data values (105000002, 150630021, 100, 105630201, 0, 0, 105630202, 0, 0, 105630203, 0, 0, 105630204, 0, 0, 105630205, 0, 0, 0, 0);
 insert into wave_group_data values (105000003, 150630031, 100, 105630301, 0, 0, 105630302, 0, 0, 105630303, 0, 0, 105630304, 0, 0, 105630305, 0, 0, 0, 0);
@@ -3965,6 +3968,7 @@ insert into wave_group_data values (220000033, 220331001, 100, 220003301, 0, 0, 
 insert into wave_group_data values (220000034, 220341001, 100, 220003401, 0, 0, 220003402, 0, 0, 220003403, 0, 0, 220003404, 0, 0, 220003405, 0, 0, 0, 0);
 insert into wave_group_data values (220000036, 220361001, 100, 220003601, 0, 0, 220003602, 0, 0, 220003603, 0, 0, 220003604, 0, 0, 220003605, 0, 0, 0, 0);
 insert into wave_group_data values (220000037, 220371001, 100, 220003701, 0, 0, 220003702, 0, 0, 220003703, 0, 0, 220003704, 0, 0, 220003705, 0, 0, 0, 0);
+insert into wave_group_data values (220000038, 220381001, 100, 220003801, 0, 0, 220003802, 0, 0, 220003803, 0, 0, 220003804, 0, 0, 220003805, 0, 0, 0, 0);
 insert into wave_group_data values (220000040, 220401001, 100, 220004001, 0, 0, 220004002, 0, 0, 220004003, 0, 0, 220004005, 0, 0, 220004004, 0, 0, 0, 0);
 insert into wave_group_data values (220000042, 220421001, 100, 220004201, 0, 0, 220004202, 0, 0, 220004203, 0, 0, 220004204, 0, 0, 220004205, 0, 0, 0, 0);
 insert into wave_group_data values (220000043, 220431001, 100, 220004301, 0, 0, 220004302, 0, 0, 220004303, 0, 0, 220004304, 0, 0, 220004305, 0, 0, 0, 0);

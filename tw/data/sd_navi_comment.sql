@@ -1,4 +1,4 @@
-CREATE TABLE `sd_navi_comment` (`comment_id` INTEGER, `where_type` INTEGER, `character_id` INTEGER, `motion_type` INTEGER, `description` TEXT, `voice_id` INTEGER, `start_time` TEXT, `end_time` TEXT);
+CREATE TABLE 'sd_navi_comment' ('comment_id' INTEGER NOT NULL, 'where_type' INTEGER NOT NULL, 'character_id' INTEGER NOT NULL, 'motion_type' INTEGER NOT NULL, 'description' TEXT , 'voice_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('comment_id'));
 insert into sd_navi_comment values (1000001, 1000, 190801, 13, '準備了各式各樣的\\n小遊戲哦！\\n要遊玩哪個小遊戲呢？', 0, '2020-06-22 16:00:00', '2030-04-01 14:00:00');
 insert into sd_navi_comment values (1000002, 1000, 190801, 13, '介紹你有趣的小遊戲！\\n你要遊玩哪個\\n小遊戲呢？', 0, '2020-06-22 16:00:00', '2030-04-01 14:00:00');
 insert into sd_navi_comment values (1001001, 1001, 190801, 13, '這個賣\\n{0}盧幣！\\n請務必購買\\n遊玩哦！', 0, '2020-06-22 16:00:00', '2030-04-01 14:00:00');

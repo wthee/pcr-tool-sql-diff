@@ -1,4 +1,4 @@
-CREATE TABLE `love_chara` (`love_level` INTEGER, `total_love` INTEGER, `unlocked_class` INTEGER, `rarity` INTEGER);
+CREATE TABLE 'love_chara' ('love_level' INTEGER NOT NULL, 'total_love' INTEGER NOT NULL, 'unlocked_class' INTEGER NOT NULL, 'rarity' INTEGER NOT NULL, PRIMARY KEY('love_level'));
 insert into love_chara values (1, 0, 1, 1);
 insert into love_chara values (2, 175, 1, 1);
 insert into love_chara values (3, 420, 1, 1);

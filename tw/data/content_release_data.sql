@@ -1,4 +1,4 @@
-CREATE TABLE `content_release_data` (`system_id` INTEGER, `team_level` INTEGER, `story_id` INTEGER, `quest_id` INTEGER, `dialog` TEXT);
+CREATE TABLE 'content_release_data' ('system_id' INTEGER NOT NULL, 'team_level' INTEGER NOT NULL, 'story_id' INTEGER NOT NULL, 'quest_id' INTEGER NOT NULL, 'dialog' TEXT NOT NULL, PRIMARY KEY('system_id'));
 insert into content_release_data values (101, 1, 0, 0, '');
 insert into content_release_data values (102, 1, 0, 11002008, '主線冒險2-8（NORMAL）通關後解放');
 insert into content_release_data values (103, 1, 0, 11002005, '      主線冒險\\n      2-5（NORMAL）\\n      通關後解放');

@@ -1,4 +1,4 @@
-CREATE TABLE `actual_unit_background` (`unit_id` INTEGER, `unit_name` TEXT, `bg_id` INTEGER, `face_type` INTEGER);
+CREATE TABLE 'actual_unit_background' ('unit_id' INTEGER NOT NULL, 'unit_name' TEXT NOT NULL, 'bg_id' INTEGER NOT NULL, 'face_type' INTEGER NOT NULL, PRIMARY KEY('unit_id'));
 insert into actual_unit_background values (100131, '春咲 日和', 510100, 4);
 insert into actual_unit_background values (100231, '草野 優衣', 510220, 2);
 insert into actual_unit_background values (100331, '士条 怜', 510350, 2);

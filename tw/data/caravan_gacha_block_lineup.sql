@@ -1,2 +1,2 @@
-CREATE TABLE `caravan_gacha_block_lineup` (`group_id` INTEGER, `normal_gacha_odds` INTEGER, `normal_gacha_cost` INTEGER, `rare_gacha_odds` INTEGER, `rare_gacha_cost` INTEGER, `premium_gacha_odds` INTEGER, `premium_gacha_cost` INTEGER);
+CREATE TABLE 'caravan_gacha_block_lineup' ('group_id' INTEGER NOT NULL, 'normal_gacha_odds' INTEGER NOT NULL, 'normal_gacha_cost' INTEGER NOT NULL, 'rare_gacha_odds' INTEGER NOT NULL, 'rare_gacha_cost' INTEGER NOT NULL, 'premium_gacha_odds' INTEGER NOT NULL, 'premium_gacha_cost' INTEGER NOT NULL, PRIMARY KEY('group_id'));
 insert into caravan_gacha_block_lineup values (10001, 10001, 0, 20001, 1500, 30001, 3000);

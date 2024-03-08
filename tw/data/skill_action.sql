@@ -1,4 +1,4 @@
-CREATE TABLE `skill_action` (`action_id` INTEGER, `class_id` INTEGER, `action_type` INTEGER, `action_detail_1` INTEGER, `action_detail_2` INTEGER, `action_detail_3` INTEGER, `action_value_1` REAL, `action_value_2` REAL, `action_value_3` REAL, `action_value_4` REAL, `action_value_5` REAL, `action_value_6` REAL, `action_value_7` REAL, `target_assignment` INTEGER, `target_area` INTEGER, `target_range` INTEGER, `target_type` INTEGER, `target_number` INTEGER, `target_count` INTEGER, `description` TEXT, `level_up_disp` TEXT);
+CREATE TABLE 'skill_action' ('action_id' INTEGER NOT NULL, 'class_id' INTEGER NOT NULL, 'action_type' INTEGER NOT NULL, 'action_detail_1' INTEGER NOT NULL, 'action_detail_2' INTEGER NOT NULL, 'action_detail_3' INTEGER NOT NULL, 'action_value_1' REAL NOT NULL, 'action_value_2' REAL NOT NULL, 'action_value_3' REAL NOT NULL, 'action_value_4' REAL NOT NULL, 'action_value_5' REAL NOT NULL, 'action_value_6' REAL NOT NULL, 'action_value_7' REAL NOT NULL, 'target_assignment' INTEGER NOT NULL, 'target_area' INTEGER NOT NULL, 'target_range' INTEGER NOT NULL, 'target_type' INTEGER NOT NULL, 'target_number' INTEGER NOT NULL, 'target_count' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'level_up_disp' TEXT NOT NULL, PRIMARY KEY('action_id'));
 insert into skill_action values (100100101, 1, 1, 1, 0, 0, 30.0, 30.0, 2.4, 0.0, 0.0, 0.0, 0.0, 1, 1, -1, 3, 0, 1, '對敵方單體造成{0}的物理傷害', '單體物理傷害+{0}');
 insert into skill_action values (100100102, 1, 3, 3, 0, 0, 50.0, 0.0, 500.0, 0.0, 0.0, 0.0, 0.0, 1, 1, -1, 3, 0, 99, '', '');
 insert into skill_action values (100100103, 1, 1, 1, 0, 0, 13.5, 13.5, 1.08, 0.0, 0.0, 0.0, 0.0, 1, 2, 400, 3, 0, 99, '對範圍內的敵人造成{0}的物理傷害', '範圍物理傷害+{0}');
@@ -549,6 +549,11 @@ insert into skill_action values (103800203, 1, 1, 1, 0, 0, 4.5, 4.5, 0.36, 0.0, 
 insert into skill_action values (103800204, 1, 16, 1, 0, 0, 40.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2, 1, 0, 7, 0, 1, '回復自身{0}的TP', 'TP回復量+{0}');
 insert into skill_action values (103800301, 1, 1, 1, 0, 0, 15.0, 15.0, 1.2, 0.0, 0.0, 0.0, 0.0, 1, 1, -1, 3, 0, 1, '對敵方單體造成{0}的物理傷害', '物理傷害+{0}');
 insert into skill_action values (103800302, 1, 16, 1, 0, 0, 40.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2, 1, 0, 7, 0, 1, '回復自身{0}的TP', 'TP回復量+{0}');
+insert into skill_action values (103801101, 1, 1, 1, 0, 0, 50.0, 50.0, 4.0, 0.0, 0.0, 0.0, 0.0, 1, 1, 2160, 3, 0, 1, '對離自己第 1 近的一名敵人造成{0}的物理傷害', '物理傷害+{0}');
+insert into skill_action values (103801102, 1, 10, 21, 1, 0, 1.0, 0.2, 0.2, 18.0, 0.0, 0.0, 1.0, 1, 1, 2160, 3, 0, 1, '降低第一近的敵方單體{0}的物理防禦力', '物理防禦力降低+{0}');
+insert into skill_action values (103801103, 1, 1, 1, 0, 0, 50.0, 50.0, 4.0, 0.0, 0.0, 0.0, 0.0, 1, 1, 2160, 3, 1, 1, '對第２近的敵方單體造成{0}的物理傷害', '物理傷害+{0}');
+insert into skill_action values (103801104, 1, 10, 21, 1, 0, 1.0, 0.2, 0.2, 18.0, 0.0, 0.0, 1.0, 1, 1, 2160, 3, 1, 1, '降低第二近的敵方單體{0}的物理防禦力', '物理防禦力降低+{0}');
+insert into skill_action values (103801105, 1, 10, 10, 1, 0, 1.0, 35.0, 35.0, 180.0, 0.0, 0.0, 1.0, 2, 1, 0, 7, 0, 1, '提升自身{0}的物理攻擊力', '物理攻擊力提升+{0}');
 insert into skill_action values (103801201, 1, 1, 1, 0, 0, 4.5, 4.5, 0.54, 0.0, 0.0, 0.0, 0.0, 1, 1, 2160, 3, 0, 1, '對離自己第 1 近的一名敵人造成{0}的物理傷害', '物理傷害+{0}');
 insert into skill_action values (103801202, 1, 1, 1, 0, 0, 4.5, 4.5, 0.72, 0.0, 0.0, 0.0, 0.0, 1, 1, 2160, 3, 1, 1, '對第２近的敵方單體造成{0}的物理傷害', '物理傷害+{0}');
 insert into skill_action values (103801203, 1, 1, 1, 0, 0, 4.5, 4.5, 0.9, 0.0, 0.0, 0.0, 0.0, 1, 1, 2160, 3, 2, 1, '對離自己第 3 近的一名敵人造成{0}的物理傷害', '物理傷害+{0}');

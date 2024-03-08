@@ -1,4 +1,4 @@
-CREATE TABLE `quest_defeat_notice` (`id` INTEGER, `image_id` INTEGER, `required_team_level` INTEGER, `required_quest_id` INTEGER);
+CREATE TABLE 'quest_defeat_notice' ('id' INTEGER NOT NULL, 'image_id' INTEGER NOT NULL, 'required_team_level' INTEGER NOT NULL, 'required_quest_id' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into quest_defeat_notice values (1, 11, -1, -1);
 insert into quest_defeat_notice values (2, 12, -1, -1);
 insert into quest_defeat_notice values (3, 13, -1, 11002002);

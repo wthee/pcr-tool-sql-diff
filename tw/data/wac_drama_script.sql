@@ -1,4 +1,4 @@
-CREATE TABLE `wac_drama_script` (`command_id` INTEGER, `drama_id` INTEGER, `command_type` INTEGER, `param_01` TEXT, `param_02` TEXT, `param_03` TEXT, `param_04` TEXT, `param_05` TEXT, `param_06` TEXT, `param_07` TEXT, `param_08` TEXT);
+CREATE TABLE 'wac_drama_script' ('command_id' INTEGER NOT NULL, 'drama_id' INTEGER NOT NULL, 'command_type' INTEGER NOT NULL, 'param_01' TEXT NOT NULL, 'param_02' TEXT NOT NULL, 'param_03' TEXT NOT NULL, 'param_04' TEXT NOT NULL, 'param_05' TEXT NOT NULL, 'param_06' TEXT NOT NULL, 'param_07' TEXT NOT NULL, 'param_08' TEXT NOT NULL, PRIMARY KEY('command_id'));
 insert into wac_drama_script values (111001, 111, 1, '1', '118511', '202', '-273', '-345', '2', '0', 'wac_215_karin_idle_normal');
 insert into wac_drama_script values (111002, 111, 1, '1', '105811', '205', '170', '-355', '2', '1', 'wac_215_idle_joy1');
 insert into wac_drama_script values (111003, 111, 1, '1', '105911', '202', '50', '-325', '2', '1', 'wac_215_idle_normal_joy');

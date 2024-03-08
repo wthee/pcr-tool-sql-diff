@@ -1,4 +1,4 @@
-CREATE TABLE `still` (`still_id` INTEGER, `story_group_id` INTEGER, `story_id` INTEGER, `still_group_id` INTEGER, `vertical_still_flg` INTEGER, `position_y` INTEGER, `unit_id_1` INTEGER, `unit_id_2` INTEGER, `unit_id_3` INTEGER, `unit_id_4` INTEGER, `unit_id_5` INTEGER, `unit_id_6` INTEGER, `unit_id_7` INTEGER, `unit_id_8` INTEGER, `unit_id_9` INTEGER, `unit_id_10` INTEGER, `facial_id` INTEGER, `album_ignore` INTEGER, `my_page_flag` INTEGER, `scroll_direction` INTEGER);
+CREATE TABLE 'still' ('still_id' INTEGER NOT NULL, 'story_group_id' INTEGER NOT NULL, 'story_id' INTEGER NOT NULL, 'still_group_id' INTEGER NOT NULL, 'vertical_still_flg' INTEGER NOT NULL, 'position_y' INTEGER NOT NULL, 'unit_id_1' INTEGER NOT NULL, 'unit_id_2' INTEGER NOT NULL, 'unit_id_3' INTEGER NOT NULL, 'unit_id_4' INTEGER NOT NULL, 'unit_id_5' INTEGER NOT NULL, 'unit_id_6' INTEGER NOT NULL, 'unit_id_7' INTEGER NOT NULL, 'unit_id_8' INTEGER NOT NULL, 'unit_id_9' INTEGER NOT NULL, 'unit_id_10' INTEGER NOT NULL, 'facial_id' INTEGER NOT NULL, 'album_ignore' INTEGER NOT NULL, 'my_page_flag' INTEGER NOT NULL, 'scroll_direction' INTEGER NOT NULL, PRIMARY KEY('still_id'));
 insert into still values (100100201, 1001, 1001002, 0, 0, 0, 100111, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0);
 insert into still values (100100801, 1001, 1001008, 0, 1, -840, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0);
 insert into still values (100101101, 1001, 1001011, 1001011, 0, 0, 100131, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0);
@@ -140,6 +140,8 @@ insert into still values (103701101, 1037, 1037011, 1037011, 0, 0, 103731, 0, 0,
 insert into still values (103701102, 1037, 1037011, 1037011, 0, 0, 103731, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0);
 insert into still values (103800601, 1038, 1038006, 0, 0, 0, 103811, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0);
 insert into still values (103800801, 1038, 1038008, 0, 1, -700, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0);
+insert into still values (103801101, 1038, 1038011, 1038011, 0, 0, 103831, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0);
+insert into still values (103801102, 1038, 1038011, 1038011, 0, 0, 103831, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0);
 insert into still values (104000701, 1040, 1040007, 1040007, 0, 0, 104011, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0);
 insert into still values (104000702, 1040, 1040007, 1040007, 0, 0, 104011, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0);
 insert into still values (104000703, 1040, 1040007, 1040007, 0, 0, 104011, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0);

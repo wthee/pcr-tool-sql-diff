@@ -1,4 +1,4 @@
-CREATE TABLE `unlock_rarity_6` (`unit_id` INTEGER, `slot_id` INTEGER, `unlock_level` INTEGER, `unlock_flag` INTEGER, `consume_gold` INTEGER, `material_type` INTEGER, `material_id` INTEGER, `material_count` INTEGER, `hp` INTEGER, `atk` INTEGER, `magic_str` INTEGER, `def` INTEGER, `magic_def` INTEGER, `physical_critical` INTEGER, `magic_critical` INTEGER, `wave_hp_recovery` INTEGER, `wave_energy_recovery` INTEGER, `dodge` INTEGER, `physical_penetrate` INTEGER, `magic_penetrate` INTEGER, `life_steal` INTEGER, `hp_recovery_rate` INTEGER, `energy_recovery_rate` INTEGER, `energy_reduce_rate` INTEGER, `accuracy` INTEGER);
+CREATE TABLE 'unlock_rarity_6' ('unit_id' INTEGER NOT NULL, 'slot_id' INTEGER NOT NULL, 'unlock_level' INTEGER NOT NULL, 'unlock_flag' INTEGER NOT NULL, 'consume_gold' INTEGER NOT NULL, 'material_type' INTEGER NOT NULL, 'material_id' INTEGER NOT NULL, 'material_count' INTEGER NOT NULL, 'hp' INTEGER NOT NULL, 'atk' INTEGER NOT NULL, 'magic_str' INTEGER NOT NULL, 'def' INTEGER NOT NULL, 'magic_def' INTEGER NOT NULL, 'physical_critical' INTEGER NOT NULL, 'magic_critical' INTEGER NOT NULL, 'wave_hp_recovery' INTEGER NOT NULL, 'wave_energy_recovery' INTEGER NOT NULL, 'dodge' INTEGER NOT NULL, 'physical_penetrate' INTEGER NOT NULL, 'magic_penetrate' INTEGER NOT NULL, 'life_steal' INTEGER NOT NULL, 'hp_recovery_rate' INTEGER NOT NULL, 'energy_recovery_rate' INTEGER NOT NULL, 'energy_reduce_rate' INTEGER NOT NULL, 'accuracy' INTEGER NOT NULL, PRIMARY KEY('unit_id','slot_id','unlock_level'));
 insert into unlock_rarity_6 values (100101, 1, 1, 1, 100000, 18, 32001, 50, 0, 160, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0);
 insert into unlock_rarity_6 values (100101, 2, 1, 1, 100000, 11, 31001, 50, 0, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0);
 insert into unlock_rarity_6 values (100101, 3, 1, 0, 100000, 15, 25001, 10, 0, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -246,9 +246,13 @@ insert into unlock_rarity_6 values (103701, 3, 2, 0, 200000, 15, 25001, 15, 0, 2
 insert into unlock_rarity_6 values (103701, 3, 3, 0, 400000, 15, 25001, 20, 0, 390, 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unlock_rarity_6 values (103701, 3, 4, 0, 500000, 15, 25001, 25, 0, 520, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unlock_rarity_6 values (103701, 3, 5, 1, 600000, 15, 25001, 30, 0, 650, 0, 0, 0, 40, 0, 0, 0, 0, 0, 0, 2, 0, 2, 0, 0);
-insert into unlock_rarity_6 values (103801, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into unlock_rarity_6 values (103801, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into unlock_rarity_6 values (103801, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into unlock_rarity_6 values (103801, 1, 1, 1, 100000, 18, 32038, 50, 0, 160, 0, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into unlock_rarity_6 values (103801, 2, 1, 1, 100000, 11, 31038, 50, 0, 80, 0, 0, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0);
+insert into unlock_rarity_6 values (103801, 3, 1, 0, 100000, 15, 25001, 10, 0, 100, 0, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into unlock_rarity_6 values (103801, 3, 2, 0, 200000, 15, 25001, 15, 0, 220, 0, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into unlock_rarity_6 values (103801, 3, 3, 0, 400000, 15, 25001, 20, 0, 330, 0, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into unlock_rarity_6 values (103801, 3, 4, 0, 500000, 15, 25001, 25, 0, 440, 0, 16, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into unlock_rarity_6 values (103801, 3, 5, 1, 600000, 15, 25001, 30, 0, 550, 0, 18, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0);
 insert into unlock_rarity_6 values (103901, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unlock_rarity_6 values (103901, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unlock_rarity_6 values (103901, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);

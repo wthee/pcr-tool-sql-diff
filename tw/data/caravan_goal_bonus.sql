@@ -1,4 +1,4 @@
-CREATE TABLE `caravan_goal_bonus` (`id` INTEGER, `season_id` INTEGER, `early_level` INTEGER, `bonus_label` INTEGER, `early_from` INTEGER, `early_to` INTEGER, `reward_type` INTEGER, `reward_id` INTEGER, `reward_count` INTEGER);
+CREATE TABLE 'caravan_goal_bonus' ('id' INTEGER NOT NULL, 'season_id' INTEGER NOT NULL, 'early_level' INTEGER NOT NULL, 'bonus_label' INTEGER NOT NULL, 'early_from' INTEGER NOT NULL, 'early_to' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into caravan_goal_bonus values (10001, 1, 7, 5, 6, -1, 22, 53003, 8);
 insert into caravan_goal_bonus values (10002, 1, 7, 5, 6, -1, 22, 53002, 4);
 insert into caravan_goal_bonus values (10101, 1, 6, 4, 5, 5, 22, 53003, 6);

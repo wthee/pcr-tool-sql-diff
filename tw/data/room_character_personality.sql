@@ -1,4 +1,4 @@
-CREATE TABLE `room_character_personality` (`character_id` INTEGER, `personality_id` INTEGER);
+CREATE TABLE 'room_character_personality' ('character_id' INTEGER NOT NULL, 'personality_id' INTEGER NOT NULL, PRIMARY KEY('character_id'));
 insert into room_character_personality values (1001, 3);
 insert into room_character_personality values (1002, 1);
 insert into room_character_personality values (1003, 4);

@@ -1,4 +1,4 @@
-CREATE TABLE `cgg_goods_data` (`goods_id` INTEGER, `name` TEXT, `rarity` INTEGER, `shelf_position_id` INTEGER, `detail_scale_x` REAL, `detail_scale_y` REAL, `description` TEXT);
+CREATE TABLE 'cgg_goods_data' ('goods_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'rarity' INTEGER NOT NULL, 'shelf_position_id' INTEGER NOT NULL, 'detail_scale_x' REAL NOT NULL, 'detail_scale_y' REAL NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('goods_id'));
 insert into cgg_goods_data values (10101, '紡希的模型', 3, 1, 0.3046875, 0.478515625, '對小細節極其講究又充滿躍動感，至高無上的紡希模型。\\n能夠歷歷在目地回憶起最棒演唱會的亢奮之情與感動，\\n為每一天帶來活力。');
 insert into cgg_goods_data values (10102, '望的模型', 3, 1, 0.365234375, 0.490234375, '對小細節極其講究又充滿躍動感，至高無上的望模型。\\n能夠歷歷在目地回憶起最棒演唱會的亢奮之情與感動，\\n為每一天帶來活力。');
 insert into cgg_goods_data values (10103, '千歌的模型', 3, 1, 0.291015625, 0.478515625, '對小細節極其講究又充滿躍動感，至高無上的千歌模型。\\n能夠歷歷在目地回憶起最棒演唱會的亢奮之情與感動，\\n為每一天帶來活力。');

@@ -1,4 +1,4 @@
-CREATE TABLE `srt_top_talk` (`id` INTEGER, `talk_id` INTEGER, `chara_index` INTEGER, `talk_text` TEXT, `sheet_name` TEXT, `cue_name` TEXT, `direction` INTEGER);
+CREATE TABLE 'srt_top_talk' ('id' INTEGER NOT NULL, 'talk_id' INTEGER NOT NULL, 'chara_index' INTEGER NOT NULL, 'talk_text' TEXT NOT NULL, 'sheet_name' TEXT NOT NULL, 'cue_name' TEXT NOT NULL, 'direction' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into srt_top_talk values (1000101, 10001, 1, '呵呵呵，這樣一來就能報復嘉夜夜和老大了！', 'vo_minigame_1004', 'vo_minigame_1004_top_1_000', 2);
 insert into srt_top_talk values (1000201, 10002, 1, '接龍之戰，我要找哥哥幫忙。', 'vo_minigame_1004', 'vo_minigame_1004_top_1_003', 2);
 insert into srt_top_talk values (1000301, 10003, 2, '打手就是不管別人怎樣找碴都來者不拒！看我的！', 'vo_minigame_1004', 'vo_minigame_1004_top_1_004', 1);

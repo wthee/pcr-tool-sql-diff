@@ -1,4 +1,4 @@
-CREATE TABLE `growth_parameter` (`growth_id` INTEGER, `growth_type` INTEGER, `is_restriction` INTEGER, `unit_rarity` INTEGER, `unit_level` INTEGER, `skill_level` INTEGER, `promotion_level` INTEGER, `equipment_1` INTEGER, `equipment_2` INTEGER, `equipment_3` INTEGER, `equipment_4` INTEGER, `equipment_5` INTEGER, `equipment_6` INTEGER, `love_level` INTEGER);
+CREATE TABLE 'growth_parameter' ('growth_id' INTEGER NOT NULL, 'growth_type' INTEGER NOT NULL, 'is_restriction' INTEGER NOT NULL, 'unit_rarity' INTEGER NOT NULL, 'unit_level' INTEGER NOT NULL, 'skill_level' INTEGER NOT NULL, 'promotion_level' INTEGER NOT NULL, 'equipment_1' INTEGER NOT NULL, 'equipment_2' INTEGER NOT NULL, 'equipment_3' INTEGER NOT NULL, 'equipment_4' INTEGER NOT NULL, 'equipment_5' INTEGER NOT NULL, 'equipment_6' INTEGER NOT NULL, 'love_level' INTEGER NOT NULL, PRIMARY KEY('growth_id'));
 insert into growth_parameter values (1, 1, 1, 0, 180, 180, 19, -1, -1, -1, -1, -1, -1, 0);
 insert into growth_parameter values (2, 1, 1, 0, 180, 180, 19, -1, -1, -1, -1, -1, -1, 0);
 insert into growth_parameter values (3, 1, 1, 0, 180, 180, 19, -1, -1, -1, -1, -1, -1, 0);

@@ -1,4 +1,4 @@
-CREATE TABLE `cgg_drama` (`command_id` INTEGER, `drama_id` INTEGER, `command_type` INTEGER, `param_01` TEXT, `param_02` TEXT, `param_03` TEXT, `param_04` TEXT, `param_05` TEXT, `param_06` TEXT, `param_07` TEXT, `param_08` TEXT);
+CREATE TABLE 'cgg_drama' ('command_id' INTEGER NOT NULL, 'drama_id' INTEGER NOT NULL, 'command_type' INTEGER NOT NULL, 'param_01' TEXT NOT NULL, 'param_02' TEXT NOT NULL, 'param_03' TEXT NOT NULL, 'param_04' TEXT NOT NULL, 'param_05' TEXT NOT NULL, 'param_06' TEXT NOT NULL, 'param_07' TEXT NOT NULL, 'param_08' TEXT NOT NULL, PRIMARY KEY('command_id'));
 insert into cgg_drama values (101001, 101, 5, '1', '1', '100', '-420', '-230', '160', '0', 'cgg_idle_normal');
 insert into cgg_drama values (101002, 101, 1, '1', '105811', '100', '375', '-230', '1.6', '1', 'cgg_idle_def');
 insert into cgg_drama values (101003, 101, 1, '1', '106011', '101', '490', '-230', '1.6', '1', 'cgg_idle_def');

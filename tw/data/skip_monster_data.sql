@@ -1,4 +1,4 @@
-CREATE TABLE `skip_monster_data` (`quest_id` INTEGER, `area_id` INTEGER, `quest_name` TEXT, `wave_group_id_1` INTEGER, `bg_skip_id` INTEGER);
+CREATE TABLE 'skip_monster_data' ('quest_id' INTEGER NOT NULL, 'area_id' INTEGER NOT NULL, 'quest_name' TEXT NOT NULL, 'wave_group_id_1' INTEGER NOT NULL, 'bg_skip_id' INTEGER NOT NULL, PRIMARY KEY('quest_id'));
 insert into skip_monster_data values (10001101, 10001101, '活動01 Normal 1-1', 101020403, 100011);
 insert into skip_monster_data values (10001102, 10001101, '活動01 Normal 1-2', 101010103, 100011);
 insert into skip_monster_data values (10001103, 10001101, '活動01 Normal 1-3', 101010203, 100091);
@@ -3756,6 +3756,7 @@ insert into skip_monster_data values (13063003, 13063, '阿帕雷尤街道‧西
 insert into skip_monster_data values (13064001, 13063, '阿帕雷尤街道‧東側 64-1', 103640101, 103193);
 insert into skip_monster_data values (13064002, 13063, '阿帕雷尤街道‧東側 64-2', 103640201, 103193);
 insert into skip_monster_data values (13064003, 13063, '阿帕雷尤街道‧東側 64-3', 103640301, 103193);
+insert into skip_monster_data values (13065001, 13065, '芭菲之城城鎮 65-1', 103650101, 103193);
 insert into skip_monster_data values (18001001, 18001, '聖跡調查冒險Lv1', 108010108, 101331);
 insert into skip_monster_data values (18001002, 18001, '聖跡調查冒險Lv2', 108010208, 101341);
 insert into skip_monster_data values (18001003, 18001, '聖跡調查冒險Lv3', 108010308, 101341);

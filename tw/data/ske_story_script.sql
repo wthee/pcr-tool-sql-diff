@@ -1,4 +1,4 @@
-CREATE TABLE `ske_story_script` (`id` INTEGER, `story_id` INTEGER, `seq_num` INTEGER, `type` INTEGER, `line_num` INTEGER, `start_pos` INTEGER, `end_pos` INTEGER, `seek_time` REAL, `sheet_name` TEXT, `cue_name` TEXT, `command` INTEGER, `command_param` REAL);
+CREATE TABLE 'ske_story_script' ('id' INTEGER NOT NULL, 'story_id' INTEGER NOT NULL, 'seq_num' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'line_num' INTEGER NOT NULL, 'start_pos' INTEGER NOT NULL, 'end_pos' INTEGER NOT NULL, 'seek_time' REAL NOT NULL, 'sheet_name' TEXT NOT NULL, 'cue_name' TEXT NOT NULL, 'command' INTEGER NOT NULL, 'command_param' REAL NOT NULL, PRIMARY KEY('id'));
 insert into ske_story_script values (100580101, 1005801, 1, 4, 0, 0, 0, 0.0, '0', '0', 1, 0.8);
 insert into ske_story_script values (100580102, 1005801, 2, 2, 0, 0, 0, 0.0, 'vo_ske', 'vo_ske_0101', 0, 0.0);
 insert into ske_story_script values (100580103, 1005801, 3, 1, 1, 0, 94, 0.705, '0', '0', 0, 0.0);

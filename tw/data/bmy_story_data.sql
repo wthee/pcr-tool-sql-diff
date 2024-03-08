@@ -1,4 +1,4 @@
-CREATE TABLE `bmy_story_data` (`sub_story_id` INTEGER, `original_event_id` INTEGER, `title` TEXT, `condition_quest_id` INTEGER, `condition_boss_id` INTEGER, `reward_type` INTEGER, `reward_id` INTEGER, `reward_count` INTEGER);
+CREATE TABLE 'bmy_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_boss_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
 insert into bmy_story_data values (5120061, 10120, '我的公會夥伴的美', 10120115, 1012001, 8, 91002, 20);
 insert into bmy_story_data values (5120062, 10120, '【美食殿堂】的美', 10120115, 1012001, 8, 91002, 20);
 insert into bmy_story_data values (5120063, 10120, '【破曉之星】\\n 的美', 10120115, 1012001, 8, 91002, 20);

@@ -1,4 +1,4 @@
-CREATE TABLE `banner` (`banner_id` INTEGER, `type` INTEGER, `system_id` INTEGER, `gacha_id` INTEGER, `condition_id` INTEGER, `priority` INTEGER, `start_date` TEXT, `end_date` TEXT, `sub_banner_id_1` INTEGER, `is_show_room` INTEGER);
+CREATE TABLE 'banner' ('banner_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'system_id' INTEGER NOT NULL, 'gacha_id' INTEGER NOT NULL, 'condition_id' INTEGER NOT NULL, 'priority' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, 'sub_banner_id_1' INTEGER NOT NULL, 'is_show_room' INTEGER NOT NULL, PRIMARY KEY('banner_id'));
 insert into banner values (10000, 1, 302, 0, 0, 1, '2018/01/01 15:00:00', '2018/02/28 14:59:59', 0, 0);
 insert into banner values (10001, 1, 302, 0, 0, 1, '2018/02/28 15:00:00', '2018/03/15 14:59:59', 0, 0);
 insert into banner values (10002, 1, 302, 0, 0, 1, '2018/03/15 15:00:00', '2018/03/31 14:59:59', 0, 0);

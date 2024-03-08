@@ -1,4 +1,4 @@
-CREATE TABLE `tower_story_data` (`story_group_id` INTEGER, `story_type` INTEGER, `value` INTEGER, `title` TEXT, `thumbnail_id` INTEGER, `disp_order` INTEGER, `start_time` TEXT, `end_time` TEXT);
+CREATE TABLE 'tower_story_data' ('story_group_id' INTEGER NOT NULL, 'story_type' INTEGER NOT NULL, 'value' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'thumbnail_id' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('story_group_id'));
 insert into tower_story_data values (7001, 7, 1, '追尋失落的記憶', 0, 1, '2019/02/13 12:00:00', '2030/04/24 14:59:59');
 insert into tower_story_data values (7002, 7, 2, '姊妹羈絆與願望之塔', 0, 1, '2019/03/15 16:00:00', '2030/04/24 14:59:59');
 insert into tower_story_data values (7003, 7, 3, '眾星二重奏', 0, 1, '2019/04/17 16:00:00', '2030/04/24 14:59:59');

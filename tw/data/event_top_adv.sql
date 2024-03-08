@@ -1,4 +1,4 @@
-CREATE TABLE `event_top_adv` (`event_top_adv_id` INTEGER, `event_id` INTEGER, `type` INTEGER, `value_1` INTEGER, `value_2` INTEGER, `value_3` INTEGER, `story_id` INTEGER, `character_id` INTEGER, `condition_type` INTEGER, `condition_story_id` INTEGER, `start_time` TEXT, `end_time` TEXT);
+CREATE TABLE 'event_top_adv' ('event_top_adv_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'value_1' INTEGER NOT NULL, 'value_2' INTEGER NOT NULL, 'value_3' INTEGER NOT NULL, 'story_id' INTEGER NOT NULL, 'character_id' INTEGER NOT NULL, 'condition_type' INTEGER NOT NULL, 'condition_story_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('event_top_adv_id'));
 insert into event_top_adv values (1, 10004, 1004, 107601, 0, 0, 5004401, 107601, 0, 0, '2018/12/01 16:00:00', '2018/12/20 15:59:59');
 insert into event_top_adv values (2, 10004, 1002, 1000403, 1, 0, 5004402, 107601, 0, 0, '2018/12/01 16:00:00', '2018/12/20 15:59:59');
 insert into event_top_adv values (3, 10004, 1001, 10, 0, 0, 5004403, 107701, 0, 0, '2018/12/01 16:00:00', '2018/12/20 15:59:59');

@@ -1,4 +1,4 @@
-CREATE TABLE `recover_stamina` (`count` INTEGER, `cost` INTEGER);
+CREATE TABLE 'recover_stamina' ('count' INTEGER NOT NULL, 'cost' INTEGER NOT NULL, PRIMARY KEY('count'));
 insert into recover_stamina values (1, 40);
 insert into recover_stamina values (2, 40);
 insert into recover_stamina values (3, 40);

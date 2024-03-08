@@ -1,4 +1,4 @@
-CREATE TABLE `tdf_battle_effect` (`id` INTEGER, `quest_id` INTEGER, `icon_name` TEXT, `effect_name` TEXT, `description` TEXT);
+CREATE TABLE 'tdf_battle_effect' ('id' INTEGER NOT NULL, 'quest_id' INTEGER NOT NULL, 'icon_name' TEXT NOT NULL, 'effect_name' TEXT NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
 insert into tdf_battle_effect values (1, 74001102, 'add_shadow', '追加1隻闇影', '追加吉塔的闇影。');
 insert into tdf_battle_effect values (2, 74001103, 'add_shadow', '追加3隻闇影', '追加吉塔、咲戀（夏日）、愛梅斯的闇影。');
 insert into tdf_battle_effect values (3, 74001104, 'star6_shadow', '闇影★6化', '望的闇影變成★6。');

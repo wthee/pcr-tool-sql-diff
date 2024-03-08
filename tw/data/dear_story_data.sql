@@ -1,4 +1,4 @@
-CREATE TABLE `dear_story_data` (`story_group_id` INTEGER, `story_type` INTEGER, `value` INTEGER, `title` TEXT, `thumbnail_id` INTEGER, `disp_order` INTEGER, `start_time` TEXT, `end_time` TEXT);
+CREATE TABLE 'dear_story_data' ('story_group_id' INTEGER NOT NULL, 'story_type' INTEGER NOT NULL, 'value' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'thumbnail_id' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('story_group_id'));
 insert into dear_story_data values (6017, 6, 10053, 'Re:從零開始聚集的異世界餐桌', 0, 1, '2019/09/27 16:00:00', '2030/04/24 14:59:59');
 insert into dear_story_data values (6019, 6, 20015, '鈴奈的彩虹舞臺！', 0, 1, '2019/10/30 16:00:00', '2030/04/24 14:59:59');
 insert into dear_story_data values (6023, 6, 20017, '森林的膽小鬼與神聖學院的問題兒童', 0, 1, '2019/12/31 16:00:00', '2030/04/24 14:59:59');

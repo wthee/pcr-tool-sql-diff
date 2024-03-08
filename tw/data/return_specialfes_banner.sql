@@ -1,4 +1,4 @@
-CREATE TABLE `return_specialfes_banner` (`gacha_id` INTEGER, `banner_id_1` INTEGER, `banner_id_2` INTEGER, `banner_id_3` INTEGER, `banner_id_4` INTEGER, `banner_id_5` INTEGER, `banner_id_6` INTEGER, `banner_id_7` INTEGER, `banner_id_8` INTEGER, `banner_id_9` INTEGER, `banner_id_10` INTEGER);
+CREATE TABLE 'return_specialfes_banner' ('gacha_id' INTEGER NOT NULL, 'banner_id_1' INTEGER NOT NULL, 'banner_id_2' INTEGER NOT NULL, 'banner_id_3' INTEGER NOT NULL, 'banner_id_4' INTEGER NOT NULL, 'banner_id_5' INTEGER NOT NULL, 'banner_id_6' INTEGER NOT NULL, 'banner_id_7' INTEGER NOT NULL, 'banner_id_8' INTEGER NOT NULL, 'banner_id_9' INTEGER NOT NULL, 'banner_id_10' INTEGER NOT NULL, PRIMARY KEY('gacha_id'));
 insert into return_specialfes_banner values (50079, 10001, 10002, 10003, 10005, 10006, 0, 0, 0, 0, 0);
 insert into return_specialfes_banner values (50084, 10001, 10002, 10003, 10005, 10006, 10007, 0, 0, 0, 0);
 insert into return_specialfes_banner values (50094, 10001, 10002, 10003, 10005, 10006, 10007, 10008, 0, 0, 0);

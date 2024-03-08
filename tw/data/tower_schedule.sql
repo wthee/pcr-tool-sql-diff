@@ -1,4 +1,4 @@
-CREATE TABLE `tower_schedule` (`tower_schedule_id` INTEGER, `max_tower_area_id` INTEGER, `opening_story_id` INTEGER, `count_start_time` TEXT, `recovery_disable_time` TEXT, `start_time` TEXT, `end_time` TEXT);
+CREATE TABLE 'tower_schedule' ('tower_schedule_id' INTEGER NOT NULL, 'max_tower_area_id' INTEGER NOT NULL, 'opening_story_id' INTEGER NOT NULL, 'count_start_time' TEXT NOT NULL, 'recovery_disable_time' TEXT NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('tower_schedule_id'));
 insert into tower_schedule values (1001, 1, 7001000, '2019/02/18 15:59:59', '2019/02/19 05:00:00', '2019/02/13 16:00:00', '2019/02/19 15:59:59');
 insert into tower_schedule values (1002, 2, 7002000, '2019/03/19 15:59:59', '2019/03/20 05:00:00', '2019/03/15 16:00:00', '2019/03/20 15:59:59');
 insert into tower_schedule values (1003, 3, 7003000, '2019/04/21 15:59:59', '2019/04/22 05:00:00', '2019/04/17 16:00:00', '2019/04/22 15:59:59');
@@ -49,4 +49,4 @@ insert into tower_schedule values (1047, 47, 7025000, '2023/04/11 15:59:59', '20
 insert into tower_schedule values (1048, 48, 7025003, '2023/07/11 15:59:59', '2023/07/12 00:00:00', '2023/07/07 16:00:00', '2023/07/12 15:59:59');
 insert into tower_schedule values (1049, 49, 7026000, '2023/10/13 15:59:59', '2023/10/14 00:00:00', '2023/10/09 16:00:00', '2023/10/14 15:59:59');
 insert into tower_schedule values (1050, 50, 7026003, '2024/01/09 15:59:59', '2024/01/10 00:00:00', '2024/01/05 16:00:00', '2024/01/10 15:59:59');
-insert into tower_schedule values (1051, 51, 7027000, '2024/02/14 15:59:59', '2024/02/15 00:00:00', '2024/02/10 16:00:00', '2024/02/15 15:59:59');
+insert into tower_schedule values (1051, 51, 7027000, '2024/03/12 15:59:59', '2024/03/13 00:00:00', '2024/03/08 16:00:00', '2024/03/13 15:59:59');

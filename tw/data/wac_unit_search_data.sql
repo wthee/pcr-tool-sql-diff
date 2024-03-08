@@ -1,4 +1,4 @@
-CREATE TABLE `wac_unit_search_data` (`id` INTEGER, `unit_search_id` INTEGER, `unit_id` INTEGER);
+CREATE TABLE 'wac_unit_search_data' ('id' INTEGER NOT NULL, 'unit_search_id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into wac_unit_search_data values (1, 1, 118501);
 insert into wac_unit_search_data values (2, 1, 105801);
 insert into wac_unit_search_data values (3, 1, 105901);

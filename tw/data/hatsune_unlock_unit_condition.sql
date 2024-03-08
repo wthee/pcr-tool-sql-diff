@@ -1,4 +1,4 @@
-CREATE TABLE `hatsune_unlock_unit_condition` (`id` INTEGER, `unit_id` INTEGER, `event_id` INTEGER, `condition_mission_id` INTEGER, `top_description` TEXT, `description_1` TEXT, `description_2` TEXT);
+CREATE TABLE 'hatsune_unlock_unit_condition' ('id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'condition_mission_id' INTEGER NOT NULL, 'top_description' TEXT NOT NULL, 'description_1' TEXT NOT NULL, 'description_2' TEXT NOT NULL, PRIMARY KEY('id'));
 insert into hatsune_unlock_unit_condition values (1, 107601, 10004, 71004025, '討伐BOSS解放！\\n還有{0}隻', '[3C404E]進行活動、挑戰BOSS、\\n討伐BOSS可解放限定角色！！[-]', '[3C404E]討伐BOSS（全難易度共通）解放！\\n還有[FFBB00,CE4F00]{0}[-]隻[-]');
 insert into hatsune_unlock_unit_condition values (2, 108001, 10005, 71005025, '討伐BOSS解放！\\n還有{0}隻', '[3C404E]進行活動、挑戰BOSS、\\n討伐BOSS可解放限定角色！！[-]', '[3C404E]討伐BOSS（全難易度共通）解放！\\n還有[FFBB00,CE4F00]{0}[-]隻[-]');
 insert into hatsune_unlock_unit_condition values (3, 108201, 10007, 71007031, '討伐NORMAL BOSS解放！', '[3C404E]進行活動、挑戰BOSS、\\n討伐NORMAL BOSS可解放限定角色！！[-]', '[3C404E]討伐NORMAL BOSS解放！');

@@ -1,4 +1,4 @@
-CREATE TABLE `taq_necessary_word` (`taq_no` INTEGER, `necessary_word_1` TEXT, `unnecessary_word_1` TEXT, `necessary_word_2` TEXT, `unnecessary_word_2` TEXT, `necessary_word_3` TEXT, `unnecessary_word_3` TEXT, `necessary_word_4` TEXT, `unnecessary_word_4` TEXT, `necessary_word_5` TEXT, `unnecessary_word_5` TEXT);
+CREATE TABLE 'taq_necessary_word' ('taq_no' INTEGER NOT NULL, 'necessary_word_1' TEXT NOT NULL, 'unnecessary_word_1' TEXT NOT NULL, 'necessary_word_2' TEXT NOT NULL, 'unnecessary_word_2' TEXT NOT NULL, 'necessary_word_3' TEXT NOT NULL, 'unnecessary_word_3' TEXT NOT NULL, 'necessary_word_4' TEXT NOT NULL, 'unnecessary_word_4' TEXT NOT NULL, 'necessary_word_5' TEXT NOT NULL, 'unnecessary_word_5' TEXT NOT NULL, PRIMARY KEY('taq_no'));
 insert into taq_necessary_word values (1015, '星', '', '', '', '', '', '', '', '', '');
 insert into taq_necessary_word values (1019, '愛', '衣', '白', '', '', '', '', '', '', '');
 insert into taq_necessary_word values (1020, '', '', '', '', '綠', '', '', '', '', '');

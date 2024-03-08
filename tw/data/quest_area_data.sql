@@ -1,4 +1,4 @@
-CREATE TABLE `quest_area_data` (`area_id` INTEGER, `area_name` TEXT, `area_display_name` TEXT, `map_type` INTEGER, `sheet_id` TEXT, `que_id` TEXT, `start_time` TEXT, `end_time` TEXT);
+CREATE TABLE 'quest_area_data' ('area_id' INTEGER NOT NULL, 'area_name' TEXT NOT NULL, 'area_display_name' TEXT NOT NULL, 'map_type' INTEGER NOT NULL, 'sheet_id' TEXT NOT NULL, 'que_id' TEXT NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('area_id'));
 insert into quest_area_data values (11001, '1.朱諾平原', '1.朱諾平原', 101, 'bgm_M61', 'bgm_M61', '2015/12/17 15:00:00', '2030/12/17 14:59:59');
 insert into quest_area_data values (11002, '2.帕拉斯高原', '2.帕拉斯高原', 101, 'bgm_M61', 'bgm_M61_02', '2015/12/17 15:00:00', '2030/12/17 14:59:59');
 insert into quest_area_data values (11003, '3.赫柏丘陵', '3.赫柏丘陵', 101, 'bgm_M61', 'bgm_M61_03', '2015/12/17 15:00:00', '2030/12/17 14:59:59');
@@ -147,6 +147,7 @@ insert into quest_area_data values (13034, '34.迪克斯提亞岩崖‧西壁', 
 insert into quest_area_data values (13035, '35.迪克斯提亞岩崖‧東壁', '35.迪克斯提亞\\n\u3000\u3000\u3000\u3000\u3000岩崖‧東壁', 102, 'bgm_M374', 'bgm_M374', '2023/06/08 16:00:00', '2030/12/17 14:59:59');
 insert into quest_area_data values (13063, '63.阿帕雷尤街道‧西側', '63.阿帕雷尤\\n\u3000\u3000\u3000\u3000\u3000街道‧西側', 103, 'bgm_MC001', 'bgm_MC001', '2023/09/08 16:00:00', '2030/12/17 14:59:59');
 insert into quest_area_data values (13064, '64.阿帕雷尤街道‧東側', '64.阿帕雷尤\\n\u3000\u3000\u3000\u3000\u3000街道‧東側', 103, 'bgm_MC001', 'bgm_MC001', '2023/12/07 16:00:00', '2030/12/17 14:59:59');
+insert into quest_area_data values (13065, '65.芭菲之城\u3000城鎮', '65.芭菲之城\\n\u3000\u3000\u3000\u3000\u3000\u3000城鎮', 103, 'bgm_MC001', 'bgm_MC001', '2015/12/17 15:00:00', '2030/12/17 14:59:59');
 insert into quest_area_data values (18001, '聖跡調查冒險', '聖跡調查冒險', 0, '', '', '2019/03/06 16:00:00', '2030/12/17 14:59:59');
 insert into quest_area_data values (19001, '神殿調查冒險', '神殿調查冒險', 0, '', '', '2020/01/02 16:00:00', '2030/12/17 14:59:00');
 insert into quest_area_data values (21001, '瑪那冒險', '瑪那冒險', 0, '', '', '2015/12/17 15:00:00', '2030/12/17 14:59:59');

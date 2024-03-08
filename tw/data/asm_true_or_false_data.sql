@@ -1,4 +1,4 @@
-CREATE TABLE `asm_true_or_false_data` (`asm_id` INTEGER, `correct_answer` INTEGER);
+CREATE TABLE 'asm_true_or_false_data' ('asm_id' INTEGER NOT NULL, 'correct_answer' INTEGER NOT NULL, PRIMARY KEY('asm_id'));
 insert into asm_true_or_false_data values (1110001, 0);
 insert into asm_true_or_false_data values (1110002, 1);
 insert into asm_true_or_false_data values (1110003, 0);

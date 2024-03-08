@@ -1,4 +1,4 @@
-CREATE TABLE `gift_message` (`id` INTEGER, `discription` TEXT, `type_1` INTEGER, `type_2` INTEGER, `type_3` INTEGER, `type_4` INTEGER);
+CREATE TABLE 'gift_message' ('id' INTEGER NOT NULL, 'discription' TEXT NOT NULL, 'type_1' INTEGER NOT NULL, 'type_2' INTEGER NOT NULL, 'type_3' INTEGER NOT NULL, 'type_4' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into gift_message values (2001, '「{0}」第{1}天獲得的道具。', 1, 2, 0, 0);
 insert into gift_message values (2002, '在「{0}」中所獲得的道具。', 3, 0, 0, 0);
 insert into gift_message values (2003, '在「{0}」中所獲得的道具。', 4, 0, 0, 0);

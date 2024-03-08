@@ -1,4 +1,4 @@
-CREATE TABLE `wac_birthday_drama_script` (`command_id` INTEGER, `drama_id` INTEGER, `command_type` INTEGER, `param_01` TEXT, `param_02` TEXT, `param_03` TEXT, `param_04` TEXT, `param_05` TEXT, `param_06` TEXT, `param_07` TEXT, `param_08` TEXT);
+CREATE TABLE 'wac_birthday_drama_script' ('command_id' INTEGER NOT NULL, 'drama_id' INTEGER NOT NULL, 'command_type' INTEGER NOT NULL, 'param_01' TEXT NOT NULL, 'param_02' TEXT NOT NULL, 'param_03' TEXT NOT NULL, 'param_04' TEXT NOT NULL, 'param_05' TEXT NOT NULL, 'param_06' TEXT NOT NULL, 'param_07' TEXT NOT NULL, 'param_08' TEXT NOT NULL, PRIMARY KEY('command_id'));
 insert into wac_birthday_drama_script values (4514001, 4514, 25, 'bgm_M321', 'bgm_M321_2C', '', '', '', '', '', '');
 insert into wac_birthday_drama_script values (4514002, 4514, 1, '1', '105811', '250', '-1000', '-70', '2', '0', 'wac_birthday_idle_normal');
 insert into wac_birthday_drama_script values (4514003, 4514, 1, '1', '106011', '256', '200', '-270', '2', '1', 'wac_birthday_idle_doya');

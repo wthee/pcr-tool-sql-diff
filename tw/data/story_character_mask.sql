@@ -1,4 +1,4 @@
-CREATE TABLE `story_character_mask` (`chara_id` INTEGER, `offset` REAL, `size` REAL, `softness` REAL);
+CREATE TABLE 'story_character_mask' ('chara_id' INTEGER NOT NULL, 'offset' REAL NOT NULL, 'size' REAL NOT NULL, 'softness' REAL NOT NULL, PRIMARY KEY('chara_id'));
 insert into story_character_mask values (111, 0.0, 700.0, 50.0);
 insert into story_character_mask values (113, 0.0, 700.0, 50.0);
 insert into story_character_mask values (131, 0.0, 800.0, 50.0);

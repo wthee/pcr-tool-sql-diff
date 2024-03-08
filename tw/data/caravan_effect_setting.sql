@@ -1,4 +1,4 @@
-CREATE TABLE `caravan_effect_setting` (`id` INTEGER, `scene_type` INTEGER, `effect_type` INTEGER, `rank` INTEGER, `value` INTEGER);
+CREATE TABLE 'caravan_effect_setting' ('id' INTEGER NOT NULL, 'scene_type' INTEGER NOT NULL, 'effect_type' INTEGER NOT NULL, 'rank' INTEGER NOT NULL, 'value' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into caravan_effect_setting values (1001, 1, 0, 0, 1);
 insert into caravan_effect_setting values (1002, 1, 0, 0, 2);
 insert into caravan_effect_setting values (1003, 1, 0, 0, 3);

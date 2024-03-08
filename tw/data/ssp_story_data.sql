@@ -1,4 +1,4 @@
-CREATE TABLE `ssp_story_data` (`sub_story_id` INTEGER, `original_event_id` INTEGER, `title` TEXT, `contents_type` INTEGER, `condition_quest_id` INTEGER, `condition_boss_id` INTEGER, `read_condition` INTEGER);
+CREATE TABLE 'ssp_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'contents_type' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_boss_id' INTEGER NOT NULL, 'read_condition' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
 insert into ssp_story_data values (1006401, 10064, '開幕式', 4, 20036104, 0, 0);
 insert into ssp_story_data values (1006402, 10064, '開幕式', 3, 20036104, 0, 0);
 insert into ssp_story_data values (1006403, 10064, '賽跑', 1, 20036104, 0, 1006402);

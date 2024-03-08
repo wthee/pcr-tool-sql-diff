@@ -1,4 +1,4 @@
-CREATE TABLE `sjr_name_former` (`id` INTEGER, `name` TEXT, `constrain_group` INTEGER, `condition_type_1` INTEGER, `condition_type_2` INTEGER, `condition_type_3` INTEGER, `condition_value_1` INTEGER, `condition_value_2` INTEGER, `condition_value_3` INTEGER);
+CREATE TABLE 'sjr_name_former' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'constrain_group' INTEGER NOT NULL, 'condition_type_1' INTEGER NOT NULL, 'condition_type_2' INTEGER NOT NULL, 'condition_type_3' INTEGER NOT NULL, 'condition_value_1' INTEGER NOT NULL, 'condition_value_2' INTEGER NOT NULL, 'condition_value_3' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into sjr_name_former values (1, '獨一無二的', 0, 1, 2, 3, 1, 1, 1);
 insert into sjr_name_former values (2, '完美無缺的', 0, 1, 2, 3, 1, 1, 1);
 insert into sjr_name_former values (3, '蘭德索爾最快的', 1, 1, 2, 3, 1, 1, 1);

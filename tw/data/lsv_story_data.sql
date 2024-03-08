@@ -1,4 +1,4 @@
-CREATE TABLE `lsv_story_data` (`sub_story_id` INTEGER, `original_event_id` INTEGER, `title` TEXT, `time_condition` TEXT, `condition_quest_id` INTEGER, `read_event_story_id` INTEGER, `read_condition` INTEGER);
+CREATE TABLE 'lsv_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'time_condition' TEXT NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'read_event_story_id' INTEGER NOT NULL, 'read_condition' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
 insert into lsv_story_data values (1009801, 10098, '小繆快快長大日記之一', '2022/12/01 16:00:00', 10125103, 0, 0);
 insert into lsv_story_data values (1009802, 10098, '小繆快快長大日記之二', '2022/12/01 16:00:00', 0, 5098001, 1009801);
 insert into lsv_story_data values (1009803, 10098, '小繆快快長大日記之三', '2022/12/02 05:00:00', 0, 5098002, 1009802);
