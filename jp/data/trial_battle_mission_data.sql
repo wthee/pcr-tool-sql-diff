@@ -1,4 +1,4 @@
-CREATE TABLE `trial_battle_mission_data` (`trial_mission_id` INTEGER, `disp_group` INTEGER, `description` TEXT, `mission_condition` INTEGER, `quest_id` INTEGER, `condition_value` INTEGER, `condition_num` INTEGER, `mission_reward_id` INTEGER);
+CREATE TABLE 'trial_battle_mission_data' ('trial_mission_id' INTEGER NOT NULL, 'disp_group' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'mission_condition' INTEGER NOT NULL, 'quest_id' INTEGER NOT NULL, 'condition_value' INTEGER NOT NULL, 'condition_num' INTEGER NOT NULL, 'mission_reward_id' INTEGER NOT NULL, PRIMARY KEY('trial_mission_id'));
 insert into trial_battle_mission_data values (110001, 111, 'ガーゴイル（EASY）をクリアしよう', 70000, 90110001, 0, 1, 110001);
 insert into trial_battle_mission_data values (110002, 112, 'ガーゴイル（NORMAL）をクリアしよう', 70000, 90110002, 0, 1, 110001);
 insert into trial_battle_mission_data values (110003, 113, 'ガーゴイル（HARD）をクリアしよう', 70000, 90110003, 0, 1, 110001);

@@ -1,4 +1,4 @@
-CREATE TABLE `skill_action` (`action_id` INTEGER, `class_id` INTEGER, `action_type` INTEGER, `action_detail_1` INTEGER, `action_detail_2` INTEGER, `action_detail_3` INTEGER, `action_value_1` REAL, `action_value_2` REAL, `action_value_3` REAL, `action_value_4` REAL, `action_value_5` REAL, `action_value_6` REAL, `action_value_7` REAL, `target_assignment` INTEGER, `target_area` INTEGER, `target_range` INTEGER, `target_type` INTEGER, `target_number` INTEGER, `target_count` INTEGER, `description` TEXT, `level_up_disp` TEXT);
+CREATE TABLE 'skill_action' ('action_id' INTEGER NOT NULL, 'class_id' INTEGER NOT NULL, 'action_type' INTEGER NOT NULL, 'action_detail_1' INTEGER NOT NULL, 'action_detail_2' INTEGER NOT NULL, 'action_detail_3' INTEGER NOT NULL, 'action_value_1' REAL NOT NULL, 'action_value_2' REAL NOT NULL, 'action_value_3' REAL NOT NULL, 'action_value_4' REAL NOT NULL, 'action_value_5' REAL NOT NULL, 'action_value_6' REAL NOT NULL, 'action_value_7' REAL NOT NULL, 'target_assignment' INTEGER NOT NULL, 'target_area' INTEGER NOT NULL, 'target_range' INTEGER NOT NULL, 'target_type' INTEGER NOT NULL, 'target_number' INTEGER NOT NULL, 'target_count' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'level_up_disp' TEXT NOT NULL, PRIMARY KEY('action_id'));
 insert into skill_action values (100100101, 1, 1, 1, 0, 0, 30.0, 30.0, 2.4, 0.0, 0.0, 0.0, 0.0, 1, 1, -1, 3, 0, 1, '敵単体に{0}の物理ダメージ', '単体物理ダメージ+{0}');
 insert into skill_action values (100100102, 1, 3, 3, 0, 0, 50.0, 0.0, 500.0, 0.0, 0.0, 0.0, 0.0, 1, 1, -1, 3, 0, 99, '', '');
 insert into skill_action values (100100103, 1, 1, 1, 0, 0, 13.5, 13.5, 1.08, 0.0, 0.0, 0.0, 0.0, 1, 2, 400, 3, 0, 99, '範囲内の敵に{0}の物理ダメージ', '範囲物理ダメージ+{0}');
@@ -1424,6 +1424,10 @@ insert into skill_action values (108700103, 1, 10, 81, 1, 0, 1.0, 20.0, 0.0, 18.
 insert into skill_action values (108700201, 1, 10, 10, 1, 0, 1.0, 9.0, 9.0, 12.0, 0.0, 0.0, 1.0, 2, 1, 0, 7, 0, 1, '自分の物理攻撃力を{0}アップ', '物理攻撃力アップ+{0}');
 insert into skill_action values (108700202, 1, 10, 10, 1, 0, 1.0, 6.0, 6.0, 12.0, 0.0, 0.0, 1.0, 2, 3, 2160, 20, 0, 99, '対象の味方の物理攻撃力を{0}アップ', '物理攻撃力アップ+{0}');
 insert into skill_action values (108700301, 1, 1, 1, 0, 0, 20.0, 20.0, 1.6, 0.0, 0.0, 0.0, 0.0, 1, 1, -1, 3, 0, 1, '敵単体に{0}の物理ダメージ', '物理ダメージ+{0}');
+insert into skill_action values (108701101, 1, 1, 1, 0, 0, 100.0, 100.0, 8.0, 0.0, 0.0, 0.0, 0.0, 1, 1, -1, 3, 0, 1, '敵単体に{0}の物理ダメージ', '物理ダメージ+{0}');
+insert into skill_action values (108701102, 1, 10, 21, 1, 0, 1.0, 0.6, 0.6, 18.0, 0.0, 0.0, 1.0, 1, 1, -1, 1, 0, 1, '敵単体の物理防御力を{0}ダウン', '物理防御力ダウン+{0}');
+insert into skill_action values (108701103, 1, 10, 81, 1, 0, 1.0, 20.0, 0.0, 18.0, 0.0, 0.0, 0.0, 1, 1, -1, 1, 0, 1, '敵単体のＴＰ上昇を{0}ダウン', '');
+insert into skill_action values (108701104, 1, 10, 20, 1, 0, 1.0, 0.6, 0.6, 18.0, 0.0, 0.0, 0.0, 2, 3, -1, 20, 0, 99, '対象の味方の物理防御力を{0}アップ', '物理防御力アップ+{0}');
 insert into skill_action values (108701201, 1, 10, 10, 1, 0, 1.0, 9.0, 9.0, 12.0, 0.0, 0.0, 1.0, 2, 1, 0, 7, 0, 1, '自分の物理攻撃力を{0}アップ', '物理攻撃力アップ+{0}');
 insert into skill_action values (108701202, 1, 10, 10, 1, 0, 1.0, 24.0, 24.0, 12.0, 0.0, 0.0, 1.0, 2, 3, 2160, 20, 0, 99, '対象の味方の物理攻撃力を{0}アップ', '物理攻撃力アップ+{0}');
 insert into skill_action values (108701203, 1, 10, 60, 1, 0, 1.0, 60.0, 0.0, 12.0, 0.0, 0.0, 1.0, 2, 3, 2160, 20, 0, 99, '対象の味方の物理クリティカルを{0}アップ', '物理クリティカルアップ+{0}');
@@ -1435,6 +1439,12 @@ insert into skill_action values (108800103, 1, 10, 31, 1, 0, 2.0, 90.0, 0.0, 18.
 insert into skill_action values (108800201, 1, 10, 11, 1, 0, 1.0, 5.5, 5.5, 12.0, 0.0, 0.0, 1.0, 1, 1, 2160, 3, 1, 1, '敵単体の物理攻撃力を{0}ダウン', '物理攻撃力ダウン+{0}');
 insert into skill_action values (108800202, 1, 10, 31, 1, 0, 1.0, 5.5, 5.5, 12.0, 0.0, 0.0, 1.0, 1, 1, 2160, 3, 1, 1, '敵単体の魔法攻撃力を{0}ダウン', '魔法攻撃力ダウン+{0}');
 insert into skill_action values (108800301, 1, 10, 30, 1, 0, 1.0, 11.0, 11.0, 12.0, 0.0, 0.0, 1.0, 2, 3, 2160, 21, 0, 99, '対象の味方の魔法攻撃力を{0}アップ', '魔法攻撃力アップ+{0}');
+insert into skill_action values (108801101, 1, 6, 6, 0, 0, 45.0, 45.0, 18.0, 0.0, 0.0, 0.0, 0.0, 2, 3, 2160, 3, 0, 99, '{0}ダメージ分の物理魔法吸収バリアを展開する', '吸収ダメージ量+{0}');
+insert into skill_action values (108801102, 1, 48, 2, 1, 0, 2.0, 2.0, 0.12, 0.0, 10.5, 0.0, 0.0, 2, 3, 2160, 3, 0, 99, '毎秒ＨＰを{0}回復する', '回復量+{0}');
+insert into skill_action values (108801103, 1, 10, 31, 1, 0, 2.0, 90.0, 0.0, 18.0, 0.0, 0.0, 1.0, 2, 3, 0, 7, 0, 1, '自分の魔法攻撃力を初期値の90%ダウン', '');
+insert into skill_action values (108801104, 1, 72, 1, 0, 0, 5.0, 0.0, 18.0, 0.0, 0.0, 0.0, 0.0, 2, 3, 2160, 3, 0, 99, '味方全体が受ける物理ダメージを{0}％カット', '');
+insert into skill_action values (108801105, 1, 72, 2, 0, 0, 5.0, 0.0, 18.0, 0.0, 0.0, 0.0, 0.0, 2, 3, 2160, 3, 0, 99, '味方全体が受ける魔法ダメージを{0}％カット', '');
+insert into skill_action values (108801106, 1, 8, 2, 0, 0, 2.0, 0.0, 18.0, 0.0, 0.0, 0.0, 0.0, 2, 3, 2160, 3, 0, 99, '味方全体の行動速度をアップ', '');
 insert into skill_action values (108801201, 1, 10, 11, 1, 0, 1.0, 5.5, 5.5, 12.0, 0.0, 0.0, 1.0, 1, 1, 2160, 3, 1, 1, '敵単体の物理攻撃力を{0}ダウン', '物理攻撃力ダウン+{0}');
 insert into skill_action values (108801202, 1, 10, 31, 1, 0, 1.0, 5.5, 5.5, 12.0, 0.0, 0.0, 1.0, 1, 1, 2160, 3, 1, 1, '敵単体の魔法攻撃力を{0}ダウン', '魔法攻撃力ダウン+{0}');
 insert into skill_action values (108801203, 1, 10, 41, 1, 0, 1.0, 0.8, 0.8, 12.0, 0.0, 0.0, 1.0, 1, 1, 2160, 3, 1, 1, '敵単体の魔法防御力を{0}ダウン', '魔法防御力ダウン+{0}');
@@ -1449,6 +1459,10 @@ insert into skill_action values (108900203, 1, 1, 1, 0, 0, 3.6, 3.6, 0.29, 0.0, 
 insert into skill_action values (108900204, 1, 10, 21, 1, 0, 1.0, 0.16, 0.16, 12.0, 0.0, 0.0, 1.0, 1, 1, 280, 3, 0, 99, '範囲内の敵の物理防御力を{0}ダウン', '物理防御力ダウン+{0}');
 insert into skill_action values (108900301, 1, 6, 2, 0, 0, 10.0, 10.0, 12.0, 0.0, 0.0, 0.0, 0.0, 2, 2, 280, 3, 0, 99, '{0}ダメージ分の魔法無効バリアを展開する', '無効ダメージ量+{0}');
 insert into skill_action values (108900302, 1, 10, 40, 1, 0, 1.0, 1.0, 1.0, 12.0, 0.0, 0.0, 1.0, 2, 1, 0, 7, 0, 1, '自分の魔法防御力を{0}アップ', '魔法防御力アップ+{0}');
+insert into skill_action values (108901101, 1, 10, 21, 1, 0, 1.0, 0.8, 0.8, 18.0, 0.0, 0.0, 1.0, 1, 3, 2160, 3, 0, 99, '敵全体の物理防御力を{0}ダウン', '物理防御力ダウン+{0}');
+insert into skill_action values (108901102, 1, 1, 1, 0, 0, 30.0, 30.0, 2.4, 0.0, 0.0, 0.0, 0.0, 1, 3, 2160, 3, 0, 99, '敵全体に{0}の物理ダメージ', '物理ダメージ+{0}');
+insert into skill_action values (108901103, 1, 8, 7, 0, 0, 0.0, 0.0, 4.0, 0.0, 0.0, 0.0, 0.0, 1, 3, 2160, 3, 0, 99, '敵全体を一定時間行動不能にする', 'スタンの確定成功Ｌｖ+1');
+insert into skill_action values (108901104, 1, 6, 4, 0, 0, 45.0, 45.0, 18.0, 0.0, 0.0, 0.0, 0.0, 2, 3, 0, 7, 0, 1, '{0}ダメージ分の魔法吸収バリアを展開する', '吸収ダメージ量+{0}');
 insert into skill_action values (108901201, 1, 20, 1, 0, 0, 5.0, 0.05, 0.0, 0.0, 0.0, 0.0, 0.0, 2, 1, 0, 7, 0, 1, '敵全体を挑発する', '');
 insert into skill_action values (108901202, 1, 42, 2, 108901203, 0, 100.0, 0.0, 0.0, 2.0, 0.0, 0.0, 0.0, 2, 3, 0, 3, 0, 1, '', '');
 insert into skill_action values (108901203, 1, 1, 1, 0, 0, 14.4, 3.6, 1.2, 0.0, 0.0, 0.0, 0.0, 1, 1, 430, 3, 0, 99, '範囲内の敵に{0}の物理ダメージ', '反撃時の物理ダメージ+{0}');

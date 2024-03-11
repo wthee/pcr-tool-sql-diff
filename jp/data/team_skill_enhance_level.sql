@@ -1,4 +1,4 @@
-CREATE TABLE `team_skill_enhance_level` (`enhance_level_id` INTEGER, `enhance_id_1` INTEGER, `enhance_id_2` INTEGER, `enhance_id_3` INTEGER, `enhance_id_4` INTEGER, `enhance_id_5` INTEGER, `reward_type` INTEGER, `item_id` INTEGER, `consume_num` INTEGER, `consume_gold` INTEGER);
+CREATE TABLE 'team_skill_enhance_level' ('enhance_level_id' INTEGER NOT NULL, 'enhance_id_1' INTEGER NOT NULL, 'enhance_id_2' INTEGER NOT NULL, 'enhance_id_3' INTEGER NOT NULL, 'enhance_id_4' INTEGER NOT NULL, 'enhance_id_5' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'item_id' INTEGER NOT NULL, 'consume_num' INTEGER NOT NULL, 'consume_gold' INTEGER NOT NULL, PRIMARY KEY('enhance_level_id'));
 insert into team_skill_enhance_level values (101, 111, 0, 0, 0, 0, 2, 25101, 3, 5000000);
 insert into team_skill_enhance_level values (201, 211, 0, 0, 0, 0, 2, 25101, 3, 5000000);
 insert into team_skill_enhance_level values (301, 311, 0, 0, 0, 0, 2, 25101, 2, 5500000);

@@ -1,4 +1,4 @@
-CREATE TABLE `tower_area_data` (`tower_area_id` INTEGER, `max_floor_num` INTEGER, `area_bg` INTEGER, `tower_bgm` TEXT, `cloister_quest_id` INTEGER);
+CREATE TABLE 'tower_area_data' ('tower_area_id' INTEGER NOT NULL, 'max_floor_num' INTEGER NOT NULL, 'area_bg' INTEGER NOT NULL, 'tower_bgm' TEXT NOT NULL, 'cloister_quest_id' INTEGER NOT NULL, PRIMARY KEY('tower_area_id'));
 insert into tower_area_data values (1, 70, 81000104, 'bgm_M125', 0);
 insert into tower_area_data values (2, 110, 81000104, 'bgm_M125', 0);
 insert into tower_area_data values (3, 130, 81000104, 'bgm_M125', 0);

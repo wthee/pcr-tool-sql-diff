@@ -1,4 +1,4 @@
-CREATE TABLE `chara_e_ticket_data` (`ticket_id` INTEGER, `start_time` TEXT, `end_time` TEXT, `jewel_store_id` INTEGER, `icon_id` INTEGER);
+CREATE TABLE 'chara_e_ticket_data' ('ticket_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'jewel_store_id' INTEGER NOT NULL, 'icon_id' INTEGER NOT NULL, PRIMARY KEY('ticket_id'));
 insert into chara_e_ticket_data values (27001, '2020/02/15 15:00:00', '2020/03/02 4:59:59', 28, 27001);
 insert into chara_e_ticket_data values (27002, '2021/02/15 23:00:00', '2021/03/05 11:59:59', 33, 27001);
 insert into chara_e_ticket_data values (27003, '2021/08/15 15:00:00', '2021/09/05 11:59:59', 42, 27001);

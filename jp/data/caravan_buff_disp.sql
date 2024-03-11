@@ -1,4 +1,4 @@
-CREATE TABLE `caravan_buff_disp` (`id` INTEGER, `type` INTEGER, `effect_id` INTEGER, `category` INTEGER, `icon_id` INTEGER, `description` TEXT, `count_from` INTEGER, `count_to` INTEGER);
+CREATE TABLE 'caravan_buff_disp' ('id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'effect_id' INTEGER NOT NULL, 'category' INTEGER NOT NULL, 'icon_id' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'count_from' INTEGER NOT NULL, 'count_to' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into caravan_buff_disp values (1, 1, 52001, 1, 1, '【料理】ダイスが2個に増える', 0, 0);
 insert into caravan_buff_disp values (2, 1, 52002, 1, 1, '【料理】ダイスの目が必ず「1」になる', 0, 0);
 insert into caravan_buff_disp values (3, 1, 52002, 3, 2, '【料理】次のターン数のカウントをスキップする', 0, 0);

@@ -1,4 +1,4 @@
-CREATE TABLE `love_rankup` (`unit_id` INTEGER, `love_rank` INTEGER, `effect_unit_id` INTEGER);
+CREATE TABLE 'love_rankup' ('unit_id' INTEGER NOT NULL, 'love_rank' INTEGER NOT NULL, 'effect_unit_id' INTEGER NOT NULL, PRIMARY KEY('unit_id','love_rank'));
 insert into love_rankup values (180701, 2, 118401);
 insert into love_rankup values (180701, 3, 118301);
 insert into love_rankup values (180701, 4, 118401);

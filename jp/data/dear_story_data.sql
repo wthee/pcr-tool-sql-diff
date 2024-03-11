@@ -1,4 +1,4 @@
-CREATE TABLE `dear_story_data` (`story_group_id` INTEGER, `story_type` INTEGER, `value` INTEGER, `title` TEXT, `thumbnail_id` INTEGER, `disp_order` INTEGER, `start_time` TEXT, `end_time` TEXT);
+CREATE TABLE 'dear_story_data' ('story_group_id' INTEGER NOT NULL, 'story_type' INTEGER NOT NULL, 'value' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'thumbnail_id' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('story_group_id'));
 insert into dear_story_data values (6017, 6, 10053, 'Re:ゼロから集まる異世界食卓', 0, 1, '2019/05/25 15:00:00', '2030/04/24 14:59:59');
 insert into dear_story_data values (6019, 6, 20015, 'スズナレインボーステージ！', 0, 1, '2019/06/25 15:00:00', '2030/04/24 14:59:59');
 insert into dear_story_data values (6023, 6, 20017, '森の臆病者と聖なる学舎の異端児', 0, 1, '2019/08/25 15:00:00', '2030/04/24 14:59:59');
@@ -26,5 +26,5 @@ insert into dear_story_data values (6094, 6, 10121, 'エンジョイ＆リフレ
 insert into dear_story_data values (6100, 6, 10127, 'マホマホ・ミラクル・ジャーニー！\u3000旅する少女と最果ての大樹', 0, 1, '2022/08/31 12:00:00', '2030/04/24 14:59:59');
 insert into dear_story_data values (6102, 6, 10129, 'ファボ！ラブ！大集合！\u3000至高の祭典と少女の秘めた推し事', 0, 1, '2022/09/30 12:00:00', '2030/04/24 14:59:59');
 insert into dear_story_data values (6104, 6, 10131, 'トライバルスピリッツ\u3000掲げる剣と誇りの架け橋', 0, 1, '2022/10/31 12:00:00', '2030/04/24 14:59:59');
-insert into dear_story_data values (6114, 6, 10114, '猫と駄菓子の喫茶店\u3000カフェ・ナッシュカッツェにようこそ', 0, 1, '2023/02/28 12:00:00', '2030/04/24 14:59:59');
+insert into dear_story_data values (6114, 6, 10141, '猫と駄菓子の喫茶店\u3000カフェ・ナッシュカッツェにようこそ', 0, 1, '2023/02/28 12:00:00', '2030/04/24 14:59:59');
 insert into dear_story_data values (6124, 6, 10124, '戦慄幽奇海岸\u3000～サマーリゾートスリラーズ～', 0, 1, '2023/07/31 12:00:00', '2030/04/24 14:59:59');

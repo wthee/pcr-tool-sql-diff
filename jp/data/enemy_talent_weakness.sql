@@ -1,4 +1,4 @@
-CREATE TABLE `enemy_talent_weakness` (`enemy_id` INTEGER, `resist_id` INTEGER);
+CREATE TABLE 'enemy_talent_weakness' ('enemy_id' INTEGER NOT NULL, 'resist_id' INTEGER NOT NULL, PRIMARY KEY('enemy_id'));
 insert into enemy_talent_weakness values (401702101, 3000003);
 insert into enemy_talent_weakness values (401702102, 3000004);
 insert into enemy_talent_weakness values (401702103, 3000002);

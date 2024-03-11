@@ -1,4 +1,4 @@
-CREATE TABLE `talent_weakness` (`resist_id` INTEGER, `talent_1` INTEGER, `talent_2` INTEGER, `talent_3` INTEGER, `talent_4` INTEGER, `talent_5` INTEGER);
+CREATE TABLE 'talent_weakness' ('resist_id' INTEGER NOT NULL, 'talent_1' INTEGER NOT NULL, 'talent_2' INTEGER NOT NULL, 'talent_3' INTEGER NOT NULL, 'talent_4' INTEGER NOT NULL, 'talent_5' INTEGER NOT NULL, PRIMARY KEY('resist_id'));
 insert into talent_weakness values (1000000, 100, 100, 100, 100, 100);
 insert into talent_weakness values (2000000, 150, 100, 100, 100, 100);
 insert into talent_weakness values (2000001, 100, 150, 100, 100, 100);

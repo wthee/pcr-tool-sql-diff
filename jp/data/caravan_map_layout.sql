@@ -1,4 +1,4 @@
-CREATE TABLE `caravan_map_layout` (`block_id` INTEGER, `position_x` INTEGER, `position_y` INTEGER);
+CREATE TABLE 'caravan_map_layout' ('block_id' INTEGER NOT NULL, 'position_x' INTEGER NOT NULL, 'position_y' INTEGER NOT NULL, PRIMARY KEY('block_id'));
 insert into caravan_map_layout values (10010001, -8, -22);
 insert into caravan_map_layout values (10010099, -9, -4);
 insert into caravan_map_layout values (10010100, -10, -4);

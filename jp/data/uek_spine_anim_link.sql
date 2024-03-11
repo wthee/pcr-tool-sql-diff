@@ -1,4 +1,4 @@
-CREATE TABLE `uek_spine_anim_link` (`spine_id` INTEGER, `anim_num` INTEGER);
+CREATE TABLE 'uek_spine_anim_link' ('spine_id' INTEGER NOT NULL, 'anim_num' INTEGER NOT NULL, PRIMARY KEY('spine_id'));
 insert into uek_spine_anim_link values (100101, 1);
 insert into uek_spine_anim_link values (100201, 1);
 insert into uek_spine_anim_link values (100301, 1);

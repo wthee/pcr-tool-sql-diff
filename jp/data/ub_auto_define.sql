@@ -1,4 +1,4 @@
-CREATE TABLE `ub_auto_define` (`skill_id` INTEGER, `ub_auto_id_1` INTEGER, `ub_auto_id_2` INTEGER, `ub_auto_id_3` INTEGER, `ub_auto_id_4` INTEGER, `ub_auto_id_5` INTEGER);
+CREATE TABLE 'ub_auto_define' ('skill_id' INTEGER NOT NULL, 'ub_auto_id_1' INTEGER NOT NULL, 'ub_auto_id_2' INTEGER NOT NULL, 'ub_auto_id_3' INTEGER NOT NULL, 'ub_auto_id_4' INTEGER NOT NULL, 'ub_auto_id_5' INTEGER NOT NULL, PRIMARY KEY('skill_id'));
 insert into ub_auto_define values (1001001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1001011, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1002001, 14002, 11002, 0, 0, 0);
@@ -139,8 +139,11 @@ insert into ub_auto_define values (1084001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1085001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1086001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1087001, 1, 0, 0, 0, 0);
+insert into ub_auto_define values (1087011, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1088001, 1, 0, 0, 0, 0);
+insert into ub_auto_define values (1088011, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1089001, 23002, 0, 0, 0, 0);
+insert into ub_auto_define values (1089011, 23002, 0, 0, 0, 0);
 insert into ub_auto_define values (1090001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1091001, 1, 0, 0, 0, 0);
 insert into ub_auto_define values (1092001, 1, 0, 0, 0, 0);

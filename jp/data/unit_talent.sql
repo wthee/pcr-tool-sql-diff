@@ -1,4 +1,4 @@
-CREATE TABLE `unit_talent` (`setting_id` INTEGER, `unit_id` INTEGER, `talent_id` INTEGER);
+CREATE TABLE 'unit_talent' ('setting_id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'talent_id' INTEGER NOT NULL, PRIMARY KEY('setting_id'));
 insert into unit_talent values (10010101, 100101, 1);
 insert into unit_talent values (10020101, 100201, 4);
 insert into unit_talent values (10030101, 100301, 3);

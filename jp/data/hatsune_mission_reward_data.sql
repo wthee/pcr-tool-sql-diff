@@ -1,4 +1,4 @@
-CREATE TABLE `hatsune_mission_reward_data` (`id` INTEGER, `mission_reward_id` INTEGER, `reward_type` INTEGER, `reward_id` INTEGER, `reward_num` INTEGER);
+CREATE TABLE 'hatsune_mission_reward_data' ('id' INTEGER NOT NULL, 'mission_reward_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER , 'reward_num' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into hatsune_mission_reward_data values (10001001, 61001001, 2, 60002, 5);
 insert into hatsune_mission_reward_data values (10001002, 61001002, 2, 60002, 5);
 insert into hatsune_mission_reward_data values (10001003, 71001001, 8, 91002, 30);

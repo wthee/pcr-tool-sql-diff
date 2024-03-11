@@ -1,4 +1,4 @@
-CREATE TABLE `quest_reward_data` (`reward_group_id` INTEGER, `reward_type_1` INTEGER, `reward_id_1` INTEGER, `reward_num_1` INTEGER, `reward_type_2` INTEGER, `reward_id_2` INTEGER, `reward_num_2` INTEGER, `reward_type_3` INTEGER, `reward_id_3` INTEGER, `reward_num_3` INTEGER, `reward_type_4` INTEGER, `reward_id_4` INTEGER, `reward_num_4` INTEGER, `reward_type_5` INTEGER, `reward_id_5` INTEGER, `reward_num_5` INTEGER);
+CREATE TABLE 'quest_reward_data' ('reward_group_id' INTEGER NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_num_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_num_2' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_num_3' INTEGER NOT NULL, 'reward_type_4' INTEGER NOT NULL, 'reward_id_4' INTEGER NOT NULL, 'reward_num_4' INTEGER NOT NULL, 'reward_type_5' INTEGER NOT NULL, 'reward_id_5' INTEGER NOT NULL, 'reward_num_5' INTEGER NOT NULL, PRIMARY KEY('reward_group_id'));
 insert into quest_reward_data values (110010011, 4, 101011, 1, 4, 101281, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into quest_reward_data values (110010021, 4, 101251, 1, 4, 101521, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into quest_reward_data values (110010031, 4, 101161, 1, 4, 101431, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -1185,6 +1185,9 @@ insert into quest_reward_data values (130640031, 4, 119613, 1, 4, 119553, 1, 2, 
 insert into quest_reward_data values (130650011, 4, 119493, 1, 4, 119343, 1, 2, 32038, 5, 0, 0, 0, 0, 0, 0);
 insert into quest_reward_data values (130650021, 4, 129194, 1, 4, 119014, 1, 2, 32066, 5, 0, 0, 0, 0, 0, 0);
 insert into quest_reward_data values (130650031, 4, 119554, 1, 4, 119584, 1, 2, 32065, 5, 0, 0, 0, 0, 0, 0);
+insert into quest_reward_data values (130670011, 4, 11025032, 1, 4, 11022032, 1, 2, 32088, 5, 0, 0, 0, 0, 0, 0);
+insert into quest_reward_data values (130670021, 4, 11001032, 1, 4, 11022032, 1, 2, 32089, 5, 0, 0, 0, 0, 0, 0);
+insert into quest_reward_data values (130670031, 4, 11010032, 1, 4, 11001032, 1, 2, 32087, 5, 0, 0, 0, 0, 0, 0);
 insert into quest_reward_data values (180010011, 4, 140001, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into quest_reward_data values (180010021, 4, 140001, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into quest_reward_data values (180010031, 4, 140001, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -1293,6 +1296,9 @@ insert into quest_reward_data values (222001071, 8, 91002, 100, 2, 20004, 10, 4,
 insert into quest_reward_data values (222001075, 8, 91002, 100, 2, 20004, 10, 4, 118011, 5, 4, 118251, 5, 0, 0, 0);
 insert into quest_reward_data values (222001076, 8, 91002, 100, 2, 20004, 10, 4, 128161, 5, 4, 118221, 5, 0, 0, 0);
 insert into quest_reward_data values (222001078, 8, 91002, 100, 2, 20004, 10, 4, 118221, 5, 4, 118251, 5, 0, 0, 0);
+insert into quest_reward_data values (222001087, 8, 91002, 100, 2, 20004, 10, 4, 11010032, 5, 4, 11001032, 5, 0, 0, 0);
+insert into quest_reward_data values (222001088, 8, 91002, 100, 2, 20004, 10, 4, 11025032, 5, 4, 11022032, 5, 0, 0, 0);
+insert into quest_reward_data values (222001089, 8, 91002, 100, 2, 20004, 10, 4, 11001032, 5, 4, 11022032, 5, 0, 0, 0);
 insert into quest_reward_data values (301010011, 8, 91002, 150, 2, 90007, 1500, 2, 23001, 3, 0, 0, 0, 0, 0, 0);
 insert into quest_reward_data values (301010021, 8, 91002, 150, 2, 90007, 1500, 2, 23001, 3, 0, 0, 0, 0, 0, 0);
 insert into quest_reward_data values (301010031, 8, 91002, 150, 2, 90007, 1500, 2, 23001, 3, 0, 0, 0, 0, 0, 0);

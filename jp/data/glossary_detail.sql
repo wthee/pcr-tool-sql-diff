@@ -1,4 +1,4 @@
-CREATE TABLE `glossary_detail` (`glossary_id` INTEGER, `glossary_category_id` INTEGER, `title` TEXT, `description` TEXT, `unlock_story_id` INTEGER, `category_type` INTEGER, `disp_order` INTEGER);
+CREATE TABLE 'glossary_detail' ('glossary_id' INTEGER NOT NULL, 'glossary_category_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'description' TEXT NOT NULL, 'unlock_story_id' INTEGER NOT NULL, 'category_type' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('glossary_id'));
 insert into glossary_detail values (1001, 1, 'アクドーイ商会', '悪人「アクドーイ」を会長とする、悪徳商会。高利貸し、人さらい、違法な武器の密輸入、悪いことはなんでもやる。アクドーイは丁寧な口調だが極悪人である。本当の悪人とはしばしばそういうものなのである。', 0, 1, 1);
 insert into glossary_detail values (1002, 1, 'アストライア大陸', '世界最大の大陸。大陸の中心には巨大都市・ランドソルがあり、その上空にはソルの塔が天高くそびえ立っている。', 0, 1, 2);
 insert into glossary_detail values (1003, 1, 'アストルム', 'この世界全体を示す単語。アストライア大陸の語源ともなっている。ただ、この「アストルム」の語源は定かになっていない。', 0, 1, 3);

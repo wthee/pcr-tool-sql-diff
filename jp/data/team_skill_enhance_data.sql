@@ -1,4 +1,4 @@
-CREATE TABLE `team_skill_enhance_data` (`enhance_id` INTEGER, `talent_id_1` INTEGER, `talent_id_2` INTEGER, `talent_id_3` INTEGER, `talent_id_4` INTEGER, `talent_id_5` INTEGER, `parameter_type` INTEGER, `enhance_value` INTEGER);
+CREATE TABLE 'team_skill_enhance_data' ('enhance_id' INTEGER NOT NULL, 'talent_id_1' INTEGER NOT NULL, 'talent_id_2' INTEGER NOT NULL, 'talent_id_3' INTEGER NOT NULL, 'talent_id_4' INTEGER NOT NULL, 'talent_id_5' INTEGER NOT NULL, 'parameter_type' INTEGER NOT NULL, 'enhance_value' INTEGER NOT NULL, PRIMARY KEY('enhance_id'));
 insert into team_skill_enhance_data values (111, 1, 2, 3, 4, 5, 104, 200);
 insert into team_skill_enhance_data values (211, 1, 2, 3, 4, 5, 14, 2);
 insert into team_skill_enhance_data values (311, 1, 2, 3, 4, 5, 103, 2);

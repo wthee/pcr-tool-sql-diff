@@ -1,4 +1,4 @@
-CREATE TABLE `caravan_treasure` (`id` INTEGER, `name` TEXT, `new_line_name` TEXT, `rarity` INTEGER, `value` INTEGER, `reset_value` INTEGER, `appraise_flag` INTEGER, `description` TEXT);
+CREATE TABLE 'caravan_treasure' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'new_line_name' TEXT NOT NULL, 'rarity' INTEGER NOT NULL, 'value' INTEGER NOT NULL, 'reset_value' INTEGER NOT NULL, 'appraise_flag' INTEGER NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
 insert into caravan_treasure values (53001, '平凡な未鑑定トレジャー', '平凡な\\n未鑑定トレジャー', 1, 200, 100, 1, '正体不明な謎のお宝。ギルド管理協会出張所まで持ち込むとカリンに鑑定してもらえる。鑑定の結果、レアリティが上がる場合がある。');
 insert into caravan_treasure values (53002, '貴重な未鑑定トレジャー', '貴重な\\n未鑑定トレジャー', 2, 400, 200, 1, '正体不明な謎のお宝。ギルド管理協会出張所まで持ち込むとカリンに鑑定してもらえる。鑑定の結果、レアリティが上がる場合がある。');
 insert into caravan_treasure values (53003, '至高の未鑑定トレジャー', '至高の\\n未鑑定トレジャー', 3, 800, 400, 1, '正体不明な謎のお宝。ギルド管理協会出張所まで持ち込むとカリンに鑑定してもらえる。');

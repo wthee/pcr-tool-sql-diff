@@ -1,4 +1,4 @@
-CREATE TABLE `taq_good_unit` (`taq_no` INTEGER, `unit_id_1` INTEGER, `unit_id_2` INTEGER, `unit_id_3` INTEGER, `unit_id_4` INTEGER, `unit_id_5` INTEGER, `unit_id_6` INTEGER, `unit_id_7` INTEGER, `unit_id_8` INTEGER, `unit_id_9` INTEGER, `unit_id_10` INTEGER);
+CREATE TABLE 'taq_good_unit' ('taq_no' INTEGER NOT NULL, 'unit_id_1' INTEGER NOT NULL, 'unit_id_2' INTEGER NOT NULL, 'unit_id_3' INTEGER NOT NULL, 'unit_id_4' INTEGER NOT NULL, 'unit_id_5' INTEGER NOT NULL, 'unit_id_6' INTEGER NOT NULL, 'unit_id_7' INTEGER NOT NULL, 'unit_id_8' INTEGER NOT NULL, 'unit_id_9' INTEGER NOT NULL, 'unit_id_10' INTEGER NOT NULL, PRIMARY KEY('taq_no'));
 insert into taq_good_unit values (1001, 100701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into taq_good_unit values (1010, 100301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into taq_good_unit values (1011, 101001, 0, 0, 0, 0, 0, 0, 0, 0, 0);

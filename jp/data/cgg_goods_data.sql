@@ -1,4 +1,4 @@
-CREATE TABLE `cgg_goods_data` (`goods_id` INTEGER, `name` TEXT, `rarity` INTEGER, `shelf_position_id` INTEGER, `detail_scale_x` REAL, `detail_scale_y` REAL, `description` TEXT);
+CREATE TABLE 'cgg_goods_data' ('goods_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'rarity' INTEGER NOT NULL, 'shelf_position_id' INTEGER NOT NULL, 'detail_scale_x' REAL NOT NULL, 'detail_scale_y' REAL NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('goods_id'));
 insert into cgg_goods_data values (10101, 'ツムギのフィギュア', 3, 1, 0.3046875, 0.478515625, '細かいディテールにこだわった躍動感あふれる至高のツムギフィ\\nギュア。最高のライブの熱気と感動が鮮明に思い起こされ、日々に\\n活力を与えてくれる。');
 insert into cgg_goods_data values (10102, 'ノゾミのフィギュア', 3, 1, 0.365234375, 0.490234375, '細かいディテールにこだわった躍動感あふれる至高のノゾミフィ\\nギュア。最高のライブの熱気と感動が鮮明に思い起こされ、日々に\\n活力を与えてくれる。');
 insert into cgg_goods_data values (10103, 'チカのフィギュア', 3, 1, 0.291015625, 0.478515625, '細かいディテールにこだわった躍動感あふれる至高のチカフィ\\nギュア。最高のライブの熱気と感動が鮮明に思い起こされ、日々に\\n活力を与えてくれる。');

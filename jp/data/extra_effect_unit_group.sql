@@ -1,4 +1,4 @@
-CREATE TABLE `extra_effect_unit_group` (`target_id` INTEGER, `group_id` INTEGER, `unit_id` INTEGER);
+CREATE TABLE 'extra_effect_unit_group' ('target_id' INTEGER NOT NULL, 'group_id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, PRIMARY KEY('target_id'));
 insert into extra_effect_unit_group values (1, 6101321, 118001);
 insert into extra_effect_unit_group values (2, 6101322, 105801);
 insert into extra_effect_unit_group values (3, 6101323, 107501);

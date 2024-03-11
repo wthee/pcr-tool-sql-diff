@@ -1,4 +1,4 @@
-CREATE TABLE `lsv_drama_script` (`command_id` INTEGER, `drama_id` INTEGER, `command_type` INTEGER, `param_01` TEXT, `param_02` TEXT, `param_03` TEXT, `param_04` TEXT, `param_05` TEXT, `param_06` TEXT, `param_07` TEXT, `param_08` TEXT);
+CREATE TABLE 'lsv_drama_script' ('command_id' INTEGER NOT NULL, 'drama_id' INTEGER NOT NULL, 'command_type' INTEGER NOT NULL, 'param_01' TEXT NOT NULL, 'param_02' TEXT NOT NULL, 'param_03' TEXT NOT NULL, 'param_04' TEXT NOT NULL, 'param_05' TEXT NOT NULL, 'param_06' TEXT NOT NULL, 'param_07' TEXT NOT NULL, 'param_08' TEXT NOT NULL, PRIMARY KEY('command_id'));
 insert into lsv_drama_script values (1009801001, 1009801, 1, '1', '122711', '102', '-200', '-495', '1.95', '0', 'lsv_idle_normal');
 insert into lsv_drama_script values (1009801002, 1009801, 1, '1', '122811', '100', '100', '-480', '1.95', '1', 'lsv_idle_normal');
 insert into lsv_drama_script values (1009801003, 1009801, 1, '1', '122911', '101', '270', '-510', '1.95', '1', 'lsv_idle_normal');

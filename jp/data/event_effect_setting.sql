@@ -1,4 +1,4 @@
-CREATE TABLE `event_effect_setting` (`event_id` INTEGER, `type` INTEGER, `value` INTEGER);
+CREATE TABLE 'event_effect_setting' ('event_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'value' INTEGER NOT NULL, PRIMARY KEY('event_id','type'));
 insert into event_effect_setting values (20013, 1, 90001);
 insert into event_effect_setting values (20013, 2, 90001);
 insert into event_effect_setting values (20013, 3, 90001);

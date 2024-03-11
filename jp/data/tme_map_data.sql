@@ -1,4 +1,4 @@
-CREATE TABLE `tme_map_data` (`tme_object_id` INTEGER, `event_id` INTEGER, `condition_story_id` INTEGER, `area_difficulty_type` INTEGER, `release_effect` INTEGER, `tap_effect` INTEGER);
+CREATE TABLE 'tme_map_data' ('tme_object_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'condition_story_id' INTEGER NOT NULL, 'area_difficulty_type' INTEGER NOT NULL, 'release_effect' INTEGER NOT NULL, 'tap_effect' INTEGER NOT NULL, PRIMARY KEY('tme_object_id'));
 insert into tme_map_data values (1101, 20025, 0, 1, 0, 1);
 insert into tme_map_data values (1102, 20025, 0, 1, 0, 1);
 insert into tme_map_data values (1103, 20025, 5042002, 1, 1, 0);

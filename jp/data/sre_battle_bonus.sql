@@ -1,4 +1,4 @@
-CREATE TABLE `sre_battle_bonus` (`sre_battle_bonus_id` INTEGER, `type` INTEGER, `sre_boss_id` INTEGER, `sre_id` INTEGER, `phase` INTEGER, `condition_hp` TEXT, `condition_time` INTEGER, `sre_battle_effect_id` INTEGER, `duration` INTEGER, `title` TEXT, `description` TEXT, `battle_bonus_story_id` INTEGER);
+CREATE TABLE 'sre_battle_bonus' ('sre_battle_bonus_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'sre_boss_id' INTEGER NOT NULL, 'sre_id' INTEGER NOT NULL, 'phase' INTEGER NOT NULL, 'condition_hp' TEXT NOT NULL, 'condition_time' INTEGER NOT NULL, 'sre_battle_effect_id' INTEGER NOT NULL, 'duration' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'description' TEXT NOT NULL, 'battle_bonus_story_id' INTEGER NOT NULL, PRIMARY KEY('sre_battle_bonus_id'));
 insert into sre_battle_bonus values (3001, 2, 3001, 3, 1, '0', -1, 3001, 0, 'TP250アップ', 'バトル開始時、味方のＴＰが250アップ', 0);
 insert into sre_battle_bonus values (3002, 2, 3002, 3, 1, '0', -1, 3002, 0, 'TP250アップ', 'バトル開始時、味方のＴＰが250アップ', 0);
 insert into sre_battle_bonus values (3003, 2, 3003, 3, 1, '0', -1, 3003, 0, 'TP250アップ', 'バトル開始時、味方のＴＰが250アップ', 0);

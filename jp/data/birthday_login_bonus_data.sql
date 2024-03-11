@@ -1,4 +1,4 @@
-CREATE TABLE `birthday_login_bonus_data` (`login_bonus_id` INTEGER, `name` TEXT, `login_bonus_type` INTEGER, `start_time` TEXT, `end_time` TEXT, `adv_id` INTEGER);
+CREATE TABLE 'birthday_login_bonus_data' ('login_bonus_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'login_bonus_type' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'adv_id' INTEGER NOT NULL, PRIMARY KEY('login_bonus_id'));
 insert into birthday_login_bonus_data values (9100101, 'ヒヨリ「バースデーストーリー」', 9, '2020-08-27 05:00:00', '2020-08-28 04:59:59', 1001500);
 insert into birthday_login_bonus_data values (9100102, 'ヒヨリ「バースデーストーリー」', 9, '2021-08-27 05:00:00', '2021/08/28 4:59:59', 1001501);
 insert into birthday_login_bonus_data values (9100103, 'ヒヨリ「バースデーストーリー」', 9, '2022-08-27 05:00:00', '2022/08/28 4:59:59', 19414);

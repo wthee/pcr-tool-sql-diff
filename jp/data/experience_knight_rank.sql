@@ -1,4 +1,4 @@
-CREATE TABLE `experience_knight_rank` (`knight_rank` INTEGER, `total_exp` INTEGER);
+CREATE TABLE 'experience_knight_rank' ('knight_rank' INTEGER NOT NULL, 'total_exp' INTEGER NOT NULL, PRIMARY KEY('knight_rank'));
 insert into experience_knight_rank values (1, 0);
 insert into experience_knight_rank values (2, 53235);
 insert into experience_knight_rank values (3, 106470);

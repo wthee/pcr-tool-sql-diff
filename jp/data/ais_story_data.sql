@@ -1,4 +1,4 @@
-CREATE TABLE `ais_story_data` (`sub_story_id` INTEGER, `original_event_id` INTEGER, `title` TEXT, `unlock_condition_sub_story_id` INTEGER, `read_condition_story_id` INTEGER, `read_condition_sub_story_id` INTEGER, `reward_type` INTEGER, `reward_id` INTEGER, `reward_count` INTEGER);
+CREATE TABLE 'ais_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'unlock_condition_sub_story_id' INTEGER NOT NULL, 'read_condition_story_id' INTEGER NOT NULL, 'read_condition_sub_story_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
 insert into ais_story_data values (5136061, 10136, 'ぶらり\\n基本世界の旅', 0, 5136005, 0, 8, 91002, 20);
 insert into ais_story_data values (5136062, 10136, 'ファンの目は\\n針の穴も通す', 5136061, 0, 5136061, 8, 91002, 20);
 insert into ais_story_data values (5136063, 10136, 'あなたの名前は', 5136061, 0, 5136061, 8, 91002, 20);

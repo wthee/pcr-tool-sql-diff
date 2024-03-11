@@ -1,4 +1,4 @@
-CREATE TABLE `odds_name_data` (`id` INTEGER, `odds_file` TEXT, `name` TEXT, `icon_type` INTEGER, `description` TEXT);
+CREATE TABLE 'odds_name_data' ('id' INTEGER NOT NULL, 'odds_file' TEXT NOT NULL, 'name' TEXT NOT NULL, 'icon_type' INTEGER NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
 insert into odds_name_data values (1, 'box_rank_1-3', 'ランダム装備BOX', 99002, 'ランダムな装備が獲得できる。');
 insert into odds_name_data values (2, 'eq_rank_3-6', 'RANK3～6の装備アイテム', 99002, 'キャラのRANK1～4で必要となる装備アイテム');
 insert into odds_name_data values (3, 'eq_rank_4-7', 'RANK4～7の装備アイテム', 99002, 'キャラのRANK4～7で必要となる装備アイテム');

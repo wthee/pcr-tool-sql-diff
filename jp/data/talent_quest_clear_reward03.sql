@@ -1,4 +1,4 @@
-CREATE TABLE `talent_quest_clear_reward03` (`id` INTEGER, `reward_group_id` INTEGER, `reward_type_1` INTEGER, `reward_id_1` INTEGER, `reward_num_1` INTEGER, `reward_type_2` INTEGER, `reward_id_2` INTEGER, `reward_num_2` INTEGER, `reward_type_3` INTEGER, `reward_id_3` INTEGER, `reward_num_3` INTEGER);
+CREATE TABLE 'talent_quest_clear_reward03' ('id' INTEGER NOT NULL, 'reward_group_id' INTEGER NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_num_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_num_2' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_num_3' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into talent_quest_clear_reward03 values (1, 283001001, 8, 91002, 10, 2, 25021, 8, 2, 25013, 31);
 insert into talent_quest_clear_reward03 values (2, 283001002, 8, 91002, 10, 2, 25021, 8, 2, 25013, 31);
 insert into talent_quest_clear_reward03 values (3, 283001003, 8, 91002, 10, 2, 25021, 8, 2, 25013, 32);

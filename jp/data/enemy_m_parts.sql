@@ -1,4 +1,4 @@
-CREATE TABLE `enemy_m_parts` (`enemy_id` INTEGER, `name` TEXT, `child_enemy_parameter_1` INTEGER, `child_enemy_parameter_2` INTEGER, `child_enemy_parameter_3` INTEGER, `child_enemy_parameter_4` INTEGER, `child_enemy_parameter_5` INTEGER);
+CREATE TABLE 'enemy_m_parts' ('enemy_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'child_enemy_parameter_1' INTEGER NOT NULL, 'child_enemy_parameter_2' INTEGER NOT NULL, 'child_enemy_parameter_3' INTEGER NOT NULL, 'child_enemy_parameter_4' INTEGER NOT NULL, 'child_enemy_parameter_5' INTEGER NOT NULL, PRIMARY KEY('enemy_id'));
 insert into enemy_m_parts values (401021505, 'ツインピッグス 1段階目', 401021506, 401021507, 0, 0, 0);
 insert into enemy_m_parts values (401021905, 'グラットン 1段階目', 401021906, 401021907, 401021908, 0, 0);
 insert into enemy_m_parts values (401022105, 'サジタリウス 1段階目', 401022106, 401022107, 0, 0, 0);

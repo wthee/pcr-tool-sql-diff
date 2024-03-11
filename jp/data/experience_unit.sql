@@ -1,4 +1,4 @@
-CREATE TABLE `experience_unit` (`unit_level` INTEGER, `total_exp` INTEGER);
+CREATE TABLE 'experience_unit' ('unit_level' INTEGER NOT NULL, 'total_exp' INTEGER NOT NULL, PRIMARY KEY('unit_level'));
 insert into experience_unit values (1, 0);
 insert into experience_unit values (2, 24);
 insert into experience_unit values (3, 72);

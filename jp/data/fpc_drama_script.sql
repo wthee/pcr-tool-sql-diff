@@ -1,4 +1,4 @@
-CREATE TABLE `fpc_drama_script` (`command_id` INTEGER, `drama_id` INTEGER, `command_type` INTEGER, `param_01` TEXT, `param_02` TEXT, `param_03` TEXT, `param_04` TEXT, `param_05` TEXT, `param_06` TEXT, `param_07` TEXT, `param_08` TEXT);
+CREATE TABLE 'fpc_drama_script' ('command_id' INTEGER NOT NULL, 'drama_id' INTEGER NOT NULL, 'command_type' INTEGER NOT NULL, 'param_01' TEXT NOT NULL, 'param_02' TEXT NOT NULL, 'param_03' TEXT NOT NULL, 'param_04' TEXT NOT NULL, 'param_05' TEXT NOT NULL, 'param_06' TEXT NOT NULL, 'param_07' TEXT NOT NULL, 'param_08' TEXT NOT NULL, PRIMARY KEY('command_id'));
 insert into fpc_drama_script values (11010001, 101, 23, 'se_10053800', 'se_fpc_water_random', '', '', '', '', '', '');
 insert into fpc_drama_script values (11010002, 101, 1, '1', '<unit_id>', '23', '-850', '-180', '1.75', '0', 'cmn_swm_tread');
 insert into fpc_drama_script values (11010003, 101, 5, '1', '1', '22', '-850', '-180', '1.75', '0', 'cmn_swm_tread_pink');

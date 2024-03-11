@@ -1,4 +1,4 @@
-CREATE TABLE `item_data` (`item_id` INTEGER, `item_name` TEXT, `description` TEXT, `promotion_level` INTEGER, `item_type` INTEGER, `value` INTEGER, `price` INTEGER, `limit_num` INTEGER, `gojuon_order` INTEGER, `sell_check_disp` INTEGER, `start_time` TEXT, `end_time` TEXT);
+CREATE TABLE 'item_data' ('item_id' INTEGER NOT NULL, 'item_name' TEXT NOT NULL, 'description' TEXT NOT NULL, 'promotion_level' INTEGER NOT NULL, 'item_type' INTEGER NOT NULL, 'value' INTEGER NOT NULL, 'price' INTEGER NOT NULL, 'limit_num' INTEGER NOT NULL, 'gojuon_order' INTEGER NOT NULL, 'sell_check_disp' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('item_id'));
 insert into item_data values (20000, 'ランダムEXPポーションBOX', 'ランダムなEXPポーションが獲得できる。', 2, 6, 0, 0, 1, 0, 0, '2015/12/17 15:00:00', '2030/08/01 14:59:59');
 insert into item_data values (20001, 'ミニEXPポーション', 'キャラのLv強化に使用すると、キャラEXPが60加算される。', 1, 1, 60, 80, 999999, 0, 0, '2015/12/17 15:00:00', '2030/08/01 14:59:59');
 insert into item_data values (20002, 'EXPポーション', 'キャラのLv強化に使用すると、キャラEXPが300加算される。', 2, 1, 300, 400, 999999, 0, 0, '2015/12/17 15:00:00', '2030/08/01 14:59:59');
@@ -424,6 +424,9 @@ insert into item_data values (32071, 'クリスティーナのピュアメモリ
 insert into item_data values (32075, 'ペコリーヌ（サマー）のピュアメモリーピース', 'ペコリーヌ（サマー）の純真なる記憶の断片が封印されたアイテム。一定数集めると、キャラの最奥に秘められた真の力を解き放つ。', 1, 18, 32075, 0, 9999, 5314121, 0, '2015/12/17 15:00:00', '2030/08/01 14:59:59');
 insert into item_data values (32076, 'コッコロ（サマー）のピュアメモリーピース', 'コッコロ（サマー）の純真なる記憶の断片が封印されたアイテム。一定数集めると、キャラの最奥に秘められた真の力を解き放つ。', 1, 18, 32076, 0, 9999, 1432121, 0, '2015/12/17 15:00:00', '2030/08/01 14:59:59');
 insert into item_data values (32078, 'キャル（サマー）のピュアメモリーピース', 'キャル（サマー）の純真なる記憶の断片が封印されたアイテム。一定数集めると、キャラの最奥に秘められた真の力を解き放つ。', 1, 18, 32078, 0, 9999, 1170121, 0, '2015/12/17 15:00:00', '2030/08/01 14:59:59');
+insert into item_data values (32087, 'ヒヨリ（ニューイヤー）のピュアメモリーピース', 'ヒヨリ（ニューイヤー）の純真なる記憶の断片が封印されたアイテム。一定数集めると、キャラの最奥に秘められた真の力を解き放つ。', 1, 18, 32075, 0, 9999, 5174121, 0, '2015/12/17 15:00:00', '2030/08/01 14:59:59');
+insert into item_data values (32088, 'ユイ（ニューイヤー）のピュアメモリーピース', 'ユイ（ニューイヤー）の純真なる記憶の断片が封印されたアイテム。一定数集めると、キャラの最奥に秘められた真の力を解き放つ。', 1, 18, 32076, 0, 9999, 7201121, 0, '2015/12/17 15:00:00', '2030/08/01 14:59:59');
+insert into item_data values (32089, 'レイ（ニューイヤー）のピュアメモリーピース', 'レイ（ニューイヤー）の純真なる記憶の断片が封印されたアイテム。一定数集めると、キャラの最奥に秘められた真の力を解き放つ。', 1, 18, 32078, 0, 9999, 8301121, 0, '2015/12/17 15:00:00', '2030/08/01 14:59:59');
 insert into item_data values (41000, 'アストライアリング', '古より伝わる、装備者の力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。', 1, 22, 0, 0, 9999, 0, 0, '2015/12/17 15:00:00', '2030/08/01 14:59:00');
 insert into item_data values (41001, 'ヒヨリ専用リング', 'ヒヨリの力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。', 1, 22, 0, 0, 9999, 0, 0, '2015/12/17 15:00:00', '2030/08/01 14:59:00');
 insert into item_data values (41002, 'ユイ専用リング', 'ユイの力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。', 1, 22, 0, 0, 9999, 0, 0, '2015/12/17 15:00:00', '2030/08/01 14:59:00');

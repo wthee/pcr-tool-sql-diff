@@ -1,4 +1,4 @@
-CREATE TABLE `gacha_exchange_lineup` (`id` INTEGER, `exchange_id` INTEGER, `unit_id` INTEGER, `rarity` INTEGER, `gacha_bonus_id` INTEGER, `pickup_gacha_id` INTEGER, `start_time` TEXT, `end_time` TEXT);
+CREATE TABLE 'gacha_exchange_lineup' ('id' INTEGER NOT NULL, 'exchange_id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'rarity' INTEGER NOT NULL, 'gacha_bonus_id' INTEGER NOT NULL, 'pickup_gacha_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('id'));
 insert into gacha_exchange_lineup values (1, 27, 106101, 3, 0, 0, '2019/02/15 23:00:00', '2019/02/28 11:59:59');
 insert into gacha_exchange_lineup values (2, 28, 101401, 3, 0, 0, '2019/02/28 12:00:00', '2019/03/19 14:59:59');
 insert into gacha_exchange_lineup values (3, 29, 105501, 1, 0, 0, '2019/03/19 15:00:00', '2019/03/26 14:59:59');
@@ -728,3 +728,7 @@ insert into gacha_exchange_lineup values (726, 309, 107001, 3, 0, 0, '2024/02/29
 insert into gacha_exchange_lineup values (727, 309, 106101, 3, 0, 0, '2024/02/29 12:00:00', '2024/03/03 18:59:59');
 insert into gacha_exchange_lineup values (728, 309, 107101, 3, 0, 0, '2024/02/29 12:00:00', '2024/03/03 18:59:59');
 insert into gacha_exchange_lineup values (729, 310, 129301, 3, 1137, 30310, '2024/03/03 19:00:00', '2024/03/11 11:59:59');
+insert into gacha_exchange_lineup values (730, 311, 108801, 3, 0, 0, '2024/03/11 12:00:00', '2024/03/18 11:59:59');
+insert into gacha_exchange_lineup values (731, 311, 108701, 3, 0, 0, '2024/03/11 12:00:00', '2024/03/18 11:59:59');
+insert into gacha_exchange_lineup values (732, 311, 112001, 3, 0, 0, '2024/03/11 12:00:00', '2024/03/18 11:59:59');
+insert into gacha_exchange_lineup values (733, 311, 111901, 3, 0, 0, '2024/03/11 12:00:00', '2024/03/18 11:59:59');

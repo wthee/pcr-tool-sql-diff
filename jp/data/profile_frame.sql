@@ -1,4 +1,4 @@
-CREATE TABLE `profile_frame` (`id` INTEGER, `name` TEXT, `type` INTEGER, `start_time` TEXT, `end_time` TEXT, `disp_order` INTEGER);
+CREATE TABLE 'profile_frame' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'type' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into profile_frame values (1, 'おまかせ', 1, '2020-02-15 15:00:00', '', 1);
 insert into profile_frame values (2, 'デフォルト', 2, '2020-02-15 15:00:00', '', 2);
 insert into profile_frame values (3, 'アニバーサリー', 3, '2020-02-15 15:00:00', '', 3);

@@ -1,4 +1,4 @@
-CREATE TABLE `talent_quest_wave_group_data` (`id` INTEGER, `wave_group_id` INTEGER, `enemy_id_1` INTEGER, `enemy_id_2` INTEGER, `enemy_id_3` INTEGER, `enemy_id_4` INTEGER, `enemy_id_5` INTEGER);
+CREATE TABLE 'talent_quest_wave_group_data' ('id' INTEGER NOT NULL, 'wave_group_id' INTEGER NOT NULL, 'enemy_id_1' INTEGER NOT NULL, 'enemy_id_2' INTEGER NOT NULL, 'enemy_id_3' INTEGER NOT NULL, 'enemy_id_4' INTEGER NOT NULL, 'enemy_id_5' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into talent_quest_wave_group_data values (1, 810010011, 810100101, 810100102, 810100103, 810100104, 810100105);
 insert into talent_quest_wave_group_data values (2, 810010021, 810100201, 810100202, 810100203, 810100204, 810100205);
 insert into talent_quest_wave_group_data values (3, 810010031, 810100301, 810100302, 810100303, 810100304, 810100305);

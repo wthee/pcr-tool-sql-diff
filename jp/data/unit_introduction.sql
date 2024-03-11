@@ -1,4 +1,4 @@
-CREATE TABLE `unit_introduction` (`id` INTEGER, `gacha_id` INTEGER, `introduction_number` INTEGER, `start_time` TEXT, `end_time` TEXT, `maximum_chunk_size_1` INTEGER, `maximum_chunk_size_loop_1` INTEGER, `maximum_chunk_size_2` INTEGER, `maximum_chunk_size_loop_2` INTEGER, `maximum_chunk_size_3` INTEGER, `maximum_chunk_size_loop_3` INTEGER);
+CREATE TABLE 'unit_introduction' ('id' INTEGER NOT NULL, 'gacha_id' INTEGER NOT NULL, 'introduction_number' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'maximum_chunk_size_1' INTEGER NOT NULL, 'maximum_chunk_size_loop_1' INTEGER NOT NULL, 'maximum_chunk_size_2' INTEGER NOT NULL, 'maximum_chunk_size_loop_2' INTEGER NOT NULL, 'maximum_chunk_size_3' INTEGER NOT NULL, 'maximum_chunk_size_loop_3' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into unit_introduction values (1, 30001, 1, '2015/04/01 15:00:00', '2018/02/28 14:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (2, 30002, 1, '2018/02/28 15:00:00', '2018/03/15 14:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (3, 30003, 1, '2018/03/15 15:00:00', '2018/03/31 14:59:59', 380000, 380000, 0, 0, 0, 0);
@@ -302,3 +302,4 @@ insert into unit_introduction values (300, 40011, 1, '2024/02/15 00:00:00', '202
 insert into unit_introduction values (301, 30308, 1, '2024/02/22 12:00:00', '2024/02/29 11:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (302, 50309, 2, '2024/02/29 12:00:00', '2024/03/03 18:59:59', 380000, 0, 380000, 380000, 0, 0);
 insert into unit_introduction values (303, 30310, 1, '2024/03/03 19:00:00', '2024/03/11 11:59:59', 380000, 380000, 0, 0, 0, 0);
+insert into unit_introduction values (304, 30311, 1, '2024/03/11 12:00:00', '2024/03/18 11:59:59', 380000, 380000, 0, 0, 0, 0);

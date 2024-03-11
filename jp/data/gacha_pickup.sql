@@ -1,4 +1,4 @@
-CREATE TABLE `gacha_pickup` (`id` INTEGER, `priority` INTEGER, `reward_type` INTEGER, `reward_id` INTEGER, `name` TEXT);
+CREATE TABLE 'gacha_pickup' ('id' INTEGER NOT NULL, 'priority' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, PRIMARY KEY('id','priority'));
 insert into gacha_pickup values (1, 1, 1, 112001, 'キャル（ニューイヤー）');
 insert into gacha_pickup values (1, 2, 1, 111801, 'ペコリーヌ（ニューイヤー）');
 insert into gacha_pickup values (1, 3, 1, 111901, 'コッコロ（ニューイヤー）');
@@ -193,3 +193,7 @@ insert into gacha_pickup values (15, 30, 1, 121101, 'キャル（オーバーロ
 insert into gacha_pickup values (15, 31, 1, 124601, 'ミサト（ニューイヤー）');
 insert into gacha_pickup values (15, 32, 1, 124801, 'ノゾミ（リベレイター）');
 insert into gacha_pickup values (15, 33, 1, 125001, 'ムイミ（リベレイター）');
+insert into gacha_pickup values (16, 1, 1, 108801, 'ユイ（ニューイヤー）');
+insert into gacha_pickup values (16, 2, 1, 108701, 'ヒヨリ（ニューイヤー）');
+insert into gacha_pickup values (16, 3, 1, 112001, 'キャル（ニューイヤー）');
+insert into gacha_pickup values (16, 4, 1, 111901, 'コッコロ（ニューイヤー）');

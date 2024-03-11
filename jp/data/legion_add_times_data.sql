@@ -1,4 +1,4 @@
-CREATE TABLE `legion_add_times_data` (`id` INTEGER, `add_times` INTEGER, `add_times_time` TEXT);
+CREATE TABLE 'legion_add_times_data' ('id' INTEGER NOT NULL, 'add_times' INTEGER NOT NULL, 'add_times_time' TEXT NOT NULL, PRIMARY KEY('id'));
 insert into legion_add_times_data values (1, 1, '2021/08/17 13:00:00');
 insert into legion_add_times_data values (2, 1, '2021/08/17 14:00:00');
 insert into legion_add_times_data values (3, 1, '2021/08/17 15:00:00');

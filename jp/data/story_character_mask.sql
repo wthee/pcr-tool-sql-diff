@@ -1,4 +1,4 @@
-CREATE TABLE `story_character_mask` (`chara_id` INTEGER, `offset` REAL, `size` REAL, `softness` REAL);
+CREATE TABLE 'story_character_mask' ('chara_id' INTEGER NOT NULL, 'offset' REAL NOT NULL, 'size' REAL NOT NULL, 'softness' REAL NOT NULL, PRIMARY KEY('chara_id'));
 insert into story_character_mask values (111, 0.0, 700.0, 50.0);
 insert into story_character_mask values (113, 0.0, 700.0, 50.0);
 insert into story_character_mask values (131, 0.0, 800.0, 50.0);
@@ -508,7 +508,10 @@ insert into story_character_mask values (108411, 0.0, 650.0, 105.0);
 insert into story_character_mask values (108511, 0.0, 600.0, 60.0);
 insert into story_character_mask values (108611, -60.0, 700.0, 80.0);
 insert into story_character_mask values (108711, -50.0, 600.0, 90.0);
+insert into story_character_mask values (108732, 0.0, 800.0, 50.0);
+insert into story_character_mask values (108832, 0.0, 800.0, 50.0);
 insert into story_character_mask values (108911, 25.0, 600.0, 75.0);
+insert into story_character_mask values (108932, 0.0, 800.0, 50.0);
 insert into story_character_mask values (109011, -30.0, 680.0, 180.0);
 insert into story_character_mask values (109111, -55.0, 700.0, 105.0);
 insert into story_character_mask values (109211, 10.0, 575.0, 30.0);

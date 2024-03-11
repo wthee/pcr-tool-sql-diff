@@ -1,4 +1,4 @@
-CREATE TABLE `colosseum_mission_data` (`schedule_id` INTEGER, `mission_id` INTEGER, `difficulty` INTEGER, `disp_group` INTEGER, `description` TEXT, `mission_condition` INTEGER, `condition_value_1` INTEGER, `condition_num` INTEGER, `mission_reward_id` INTEGER);
+CREATE TABLE 'colosseum_mission_data' ('schedule_id' INTEGER NOT NULL, 'mission_id' INTEGER NOT NULL, 'difficulty' INTEGER NOT NULL, 'disp_group' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'mission_condition' INTEGER NOT NULL, 'condition_value_1' INTEGER NOT NULL, 'condition_num' INTEGER NOT NULL, 'mission_reward_id' INTEGER NOT NULL, PRIMARY KEY('mission_id'));
 insert into colosseum_mission_data values (1001, 100101, 0, 0, '全難易度合計で10000pt獲得しよう', 1001, 10000, 1, 100101);
 insert into colosseum_mission_data values (1001, 100102, 0, 0, '全難易度合計で30000pt獲得しよう', 1001, 30000, 1, 100102);
 insert into colosseum_mission_data values (1001, 100103, 0, 0, '全難易度合計で50000pt獲得しよう', 1001, 50000, 1, 100103);

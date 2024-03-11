@@ -1,4 +1,4 @@
-CREATE TABLE `sjr_rail` (`id` INTEGER, `rail_id` INTEGER, `gimmick_id` INTEGER, `gimmick_pos` INTEGER);
+CREATE TABLE 'sjr_rail' ('id' INTEGER NOT NULL, 'rail_id' INTEGER NOT NULL, 'gimmick_id' INTEGER NOT NULL, 'gimmick_pos' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into sjr_rail values (100101, 1001, 21002, 1000);
 insert into sjr_rail values (100102, 1001, 21004, 2000);
 insert into sjr_rail values (100103, 1001, 21012, 3500);

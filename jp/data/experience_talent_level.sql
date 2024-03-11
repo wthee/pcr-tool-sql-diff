@@ -1,4 +1,4 @@
-CREATE TABLE `experience_talent_level` (`talent_level` INTEGER, `total_point` INTEGER, `total_enhance_value` INTEGER);
+CREATE TABLE 'experience_talent_level' ('talent_level' INTEGER NOT NULL, 'total_point' INTEGER NOT NULL, 'total_enhance_value' INTEGER NOT NULL, PRIMARY KEY('talent_level'));
 insert into experience_talent_level values (1, 0, 0);
 insert into experience_talent_level values (2, 5, 40);
 insert into experience_talent_level values (3, 14, 60);

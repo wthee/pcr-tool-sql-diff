@@ -1,4 +1,4 @@
-CREATE TABLE `param_type` (`parameter_type` INTEGER, `parameter_name` TEXT, `is_percentage` INTEGER, `ratio` INTEGER);
+CREATE TABLE 'param_type' ('parameter_type' INTEGER NOT NULL, 'parameter_name' TEXT NOT NULL, 'is_percentage' INTEGER NOT NULL, 'ratio' INTEGER NOT NULL, PRIMARY KEY('parameter_type'));
 insert into param_type values (1, 'ＨＰ', 1, 10000);
 insert into param_type values (2, '物理攻撃力', 1, 10000);
 insert into param_type values (3, '物理防御力', 1, 10000);

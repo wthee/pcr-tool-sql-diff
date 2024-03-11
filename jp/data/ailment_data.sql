@@ -1,4 +1,4 @@
-CREATE TABLE `ailment_data` (`ailment_id` INTEGER, `ailment_action` INTEGER, `ailment_detail_1` INTEGER, `ailment_name` TEXT);
+CREATE TABLE 'ailment_data' ('ailment_id' INTEGER NOT NULL, 'ailment_action' INTEGER NOT NULL, 'ailment_detail_1' INTEGER NOT NULL, 'ailment_name' TEXT NOT NULL, PRIMARY KEY('ailment_id'));
 insert into ailment_data values (1, 8, 1, 'スロウ');
 insert into ailment_data values (2, 8, 2, 'ヘイスト');
 insert into ailment_data values (3, 8, 3, '麻痺');

@@ -1,4 +1,4 @@
-CREATE TABLE `sekai_top_story_data` (`sekai_id` INTEGER, `story_id` INTEGER, `boss_time_from` TEXT, `boss_time_to` TEXT);
+CREATE TABLE 'sekai_top_story_data' ('sekai_id' INTEGER NOT NULL, 'story_id' INTEGER NOT NULL, 'boss_time_from' TEXT NOT NULL, 'boss_time_to' TEXT NOT NULL, PRIMARY KEY('story_id'));
 insert into sekai_top_story_data values (1002, 4004105, '2020/04/01 9:00:00', '2020/04/01 11:59:59');
 insert into sekai_top_story_data values (1002, 4004106, '2020/04/01 12:00:00', '2020/04/01 14:59:59');
 insert into sekai_top_story_data values (1002, 4004107, '2020/04/01 15:00:00', '2020/04/01 18:59:59');

@@ -1,4 +1,4 @@
-CREATE TABLE `ccc_scenario` (`idx` INTEGER, `ccc_scenario_id` INTEGER, `ccc_object_id` INTEGER, `position` INTEGER, `frame` INTEGER);
+CREATE TABLE 'ccc_scenario' ('idx' INTEGER NOT NULL, 'ccc_scenario_id' INTEGER NOT NULL, 'ccc_object_id' INTEGER NOT NULL, 'position' INTEGER NOT NULL, 'frame' INTEGER NOT NULL, PRIMARY KEY('idx'));
 insert into ccc_scenario values (10001, 10, 100, 255, 30);
 insert into ccc_scenario values (10002, 10, 100, 110, 34);
 insert into ccc_scenario values (10003, 10, 100, 185, 37);

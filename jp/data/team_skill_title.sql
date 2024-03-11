@@ -1,4 +1,4 @@
-CREATE TABLE `team_skill_title` (`title_id` INTEGER, `title_text` TEXT);
+CREATE TABLE 'team_skill_title' ('title_id' INTEGER NOT NULL, 'title_text' TEXT NOT NULL, PRIMARY KEY('title_id'));
 insert into team_skill_title values (1, 'ＨＰ強化');
 insert into team_skill_title values (2, '物理攻撃力強化');
 insert into team_skill_title values (3, '物理防御力強化');

@@ -1,4 +1,4 @@
-CREATE TABLE `caravan_buddy` (`buddy_id` INTEGER, `unit_id` INTEGER, `name` TEXT, `description` TEXT, `effect_description1` TEXT, `effect_description2` TEXT, `effect_type` INTEGER, `effect_value_1` INTEGER, `effect_value_2` INTEGER, `effect_turn` INTEGER);
+CREATE TABLE 'caravan_buddy' ('buddy_id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'description' TEXT NOT NULL, 'effect_description1' TEXT NOT NULL, 'effect_description2' TEXT NOT NULL, 'effect_type' INTEGER NOT NULL, 'effect_value_1' INTEGER NOT NULL, 'effect_value_2' INTEGER NOT NULL, 'effect_turn' INTEGER NOT NULL, PRIMARY KEY('buddy_id'));
 insert into caravan_buddy values (1001, 126501, 'ライラエル', '最大50％割引確定のショップを開く（1品100％割引あり）', '', '', 1, 10001, 0, 1);
 insert into caravan_buddy values (1002, 105301, 'モニカ', '最大1000マイルを入手する', '', '', 2, 10001, 0, 2);
 insert into caravan_buddy values (1003, 126401, 'クローチェ', '料理を{0}つ入手する', '', '', 3, 1, 0, 1);

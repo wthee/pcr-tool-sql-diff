@@ -1,4 +1,4 @@
-CREATE TABLE `sre_quest_difficulty_data` (`sre_boss_id` INTEGER, `difficulty` INTEGER, `sre_id` INTEGER, `wave_group_id` INTEGER, `icon_id` INTEGER);
+CREATE TABLE 'sre_quest_difficulty_data' ('sre_boss_id' INTEGER NOT NULL, 'difficulty' INTEGER NOT NULL, 'sre_id' INTEGER NOT NULL, 'wave_group_id' INTEGER NOT NULL, 'icon_id' INTEGER NOT NULL, PRIMARY KEY('sre_boss_id','difficulty'));
 insert into sre_quest_difficulty_data values (3001, 1, 3, 803100201, 0);
 insert into sre_quest_difficulty_data values (3001, 2, 3, 803100202, 0);
 insert into sre_quest_difficulty_data values (3001, 3, 3, 803100203, 0);

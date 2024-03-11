@@ -1,4 +1,4 @@
-CREATE TABLE `ttk_story_script` (`id` INTEGER, `story_id` INTEGER, `seq_num` INTEGER, `type` INTEGER, `line_num` INTEGER, `start_pos` INTEGER, `end_pos` INTEGER, `seek_time` REAL, `sheet_name` TEXT, `cue_name` TEXT, `command` INTEGER, `command_param` REAL);
+CREATE TABLE 'ttk_story_script' ('id' INTEGER NOT NULL, 'story_id' INTEGER NOT NULL, 'seq_num' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'line_num' INTEGER NOT NULL, 'start_pos' INTEGER NOT NULL, 'end_pos' INTEGER NOT NULL, 'seek_time' REAL NOT NULL, 'sheet_name' TEXT NOT NULL, 'cue_name' TEXT NOT NULL, 'command' INTEGER NOT NULL, 'command_param' REAL NOT NULL, PRIMARY KEY('id'));
 insert into ttk_story_script values (1010001, 1, 1, 4, 0, 0, 0, 0.0, '0', '0', 3, 1.0);
 insert into ttk_story_script values (1010002, 1, 2, 2, 0, 0, 0, 0.0, 'vo_minigame_1005', 'vo_minigame_1005_nikki01_000', 0, 0.0);
 insert into ttk_story_script values (1010003, 1, 3, 1, 1, 0, 202, 1.418, '0', '0', 0, 0.0);

@@ -1,4 +1,4 @@
-CREATE TABLE `hatsune_unlock_unit_condition` (`id` INTEGER, `unit_id` INTEGER, `event_id` INTEGER, `condition_mission_id` INTEGER, `top_description` TEXT, `description_1` TEXT, `description_2` TEXT);
+CREATE TABLE 'hatsune_unlock_unit_condition' ('id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'condition_mission_id' INTEGER NOT NULL, 'top_description' TEXT NOT NULL, 'description_1' TEXT NOT NULL, 'description_2' TEXT NOT NULL, PRIMARY KEY('id'));
 insert into hatsune_unlock_unit_condition values (1, 107601, 10004, 71004025, 'BOSS討伐で解放！\\n残り{0}体', '[3C404E]イベントを進めて、BOSSに挑戦、\\nBOSS討伐を進めると限定キャラ解放！！[-]', '[3C404E]BOSS討伐（全難易度共通）で解放！\\n残り[FFBB00,CE4F00]{0}[-]体[-]');
 insert into hatsune_unlock_unit_condition values (2, 108001, 10005, 71005025, 'BOSS討伐で解放！\\n残り{0}体', '[3C404E]イベントを進めて、BOSSに挑戦、\\nBOSS討伐を進めると限定キャラ解放！！[-]', '[3C404E]BOSS討伐（全難易度共通）で解放！\\n残り[FFBB00,CE4F00]{0}[-]体[-]');
 insert into hatsune_unlock_unit_condition values (3, 108201, 10007, 71007031, 'ボスNORMAL討伐で解放！', '[3C404E]イベントを進めて、ボスに挑戦！\\nボスNORMALを討伐すると、\\n限定キャラ解放！！[-]', '[3C404E]ボスNORMAL討伐で解放！');

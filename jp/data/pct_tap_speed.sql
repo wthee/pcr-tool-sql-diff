@@ -1,4 +1,4 @@
-CREATE TABLE `pct_tap_speed` (`id` INTEGER, `combo_count` INTEGER, `speed_magnification` INTEGER);
+CREATE TABLE 'pct_tap_speed' ('id' INTEGER NOT NULL, 'combo_count' INTEGER NOT NULL, 'speed_magnification' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into pct_tap_speed values (1, 5, 1100);
 insert into pct_tap_speed values (2, 7, 1200);
 insert into pct_tap_speed values (3, 10, 1300);

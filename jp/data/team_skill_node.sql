@@ -1,4 +1,4 @@
-CREATE TABLE `team_skill_node` (`node_id` INTEGER, `pos_x` INTEGER, `pos_y` INTEGER, `pre_node_id` INTEGER, `enhance_level_id_1` INTEGER, `enhance_level_id_2` INTEGER, `enhance_level_id_3` INTEGER, `enhance_level_id_4` INTEGER, `enhance_level_id_5` INTEGER, `icon_id` INTEGER, `noise_id` INTEGER, `title_id` INTEGER);
+CREATE TABLE 'team_skill_node' ('node_id' INTEGER NOT NULL, 'pos_x' INTEGER NOT NULL, 'pos_y' INTEGER NOT NULL, 'pre_node_id' INTEGER NOT NULL, 'enhance_level_id_1' INTEGER NOT NULL, 'enhance_level_id_2' INTEGER NOT NULL, 'enhance_level_id_3' INTEGER NOT NULL, 'enhance_level_id_4' INTEGER NOT NULL, 'enhance_level_id_5' INTEGER NOT NULL, 'icon_id' INTEGER NOT NULL, 'noise_id' INTEGER NOT NULL, 'title_id' INTEGER NOT NULL, PRIMARY KEY('node_id'));
 insert into team_skill_node values (1, 2, 1, 0, 101, 0, 0, 0, 0, 11041, 4, 104);
 insert into team_skill_node values (2, 3, 2, 1, 201, 0, 0, 0, 0, 10141, 2, 14);
 insert into team_skill_node values (3, 2, 3, 2, 301, 0, 0, 0, 0, 11031, 2, 103);

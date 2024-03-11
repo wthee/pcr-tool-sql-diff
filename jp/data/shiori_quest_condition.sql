@@ -1,4 +1,4 @@
-CREATE TABLE `shiori_quest_condition` (`quest_id` INTEGER, `event_id` INTEGER, `condition_quest_id` INTEGER, `condition_boss_id` INTEGER, `release_quest_id` INTEGER, `release_boss_id` INTEGER, `condition_main_quest_id` INTEGER);
+CREATE TABLE 'shiori_quest_condition' ('quest_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_boss_id' INTEGER NOT NULL, 'release_quest_id' INTEGER NOT NULL, 'release_boss_id' INTEGER NOT NULL, 'condition_main_quest_id' INTEGER NOT NULL, PRIMARY KEY('quest_id'));
 insert into shiori_quest_condition values (20001101, 20001, 0, 0, 20001102, 0, 11002012);
 insert into shiori_quest_condition values (20001102, 20001, 20001101, 0, 20001103, 0, 0);
 insert into shiori_quest_condition values (20001103, 20001, 20001102, 0, 20001104, 0, 0);

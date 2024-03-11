@@ -1,4 +1,4 @@
-CREATE TABLE `fke_happening_list` (`happening_id` INTEGER, `happening_name` TEXT);
+CREATE TABLE 'fke_happening_list' ('happening_id' INTEGER NOT NULL, 'happening_name' TEXT NOT NULL, PRIMARY KEY('happening_id'));
 insert into fke_happening_list values (1, 'メサルティム');
 insert into fke_happening_list values (2, 'バナナジャンプ');
 insert into fke_happening_list values (3, 'バナナスライド');

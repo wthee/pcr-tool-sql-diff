@@ -1,4 +1,4 @@
-CREATE TABLE `sp_battle_voice` (`id` INTEGER, `unit_id` INTEGER, `voice_type` INTEGER, `value` INTEGER);
+CREATE TABLE 'sp_battle_voice' ('id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'voice_type' INTEGER NOT NULL, 'value' INTEGER NOT NULL, PRIMARY KEY('id','unit_id'));
 insert into sp_battle_voice values (1, 180701, 1001, 4);
 insert into sp_battle_voice values (2, 180701, 1002, 4);
 insert into sp_battle_voice values (3, 180701, 1003, 4);

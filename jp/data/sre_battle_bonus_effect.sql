@@ -1,4 +1,4 @@
-CREATE TABLE `sre_battle_bonus_effect` (`sre_battle_effect_id` INTEGER, `enemy_id` INTEGER, `icon_id` INTEGER, `text_id` INTEGER, `skill_id` INTEGER, `target_type` INTEGER);
+CREATE TABLE 'sre_battle_bonus_effect' ('sre_battle_effect_id' INTEGER NOT NULL, 'enemy_id' INTEGER NOT NULL, 'icon_id' INTEGER NOT NULL, 'text_id' INTEGER NOT NULL, 'skill_id' INTEGER NOT NULL, 'target_type' INTEGER NOT NULL, PRIMARY KEY('sre_battle_effect_id'));
 insert into sre_battle_bonus_effect values (3001, 803100263, 212, 211, 2146041, 1);
 insert into sre_battle_bonus_effect values (3002, 803100263, 212, 211, 2146042, 1);
 insert into sre_battle_bonus_effect values (3003, 803100263, 212, 211, 2146043, 1);

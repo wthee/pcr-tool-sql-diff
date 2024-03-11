@@ -1,4 +1,4 @@
-CREATE TABLE `knight_mission_data` (`mission_id` INTEGER, `disp_group` INTEGER, `category_icon` INTEGER, `description` TEXT, `mission_condition` INTEGER, `condition_value_1` INTEGER, `condition_num` INTEGER, `mission_reward_id` INTEGER, `system_id` INTEGER);
+CREATE TABLE 'knight_mission_data' ('mission_id' INTEGER NOT NULL, 'disp_group' INTEGER NOT NULL, 'category_icon' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'mission_condition' INTEGER NOT NULL, 'condition_value_1' INTEGER NOT NULL, 'condition_num' INTEGER NOT NULL, 'mission_reward_id' INTEGER NOT NULL, 'system_id' INTEGER , PRIMARY KEY('mission_id'));
 insert into knight_mission_data values (1001, 1, 1002, 'プリンセスナイトRANK5を達成しよう', 20021, 0, 5, 1001, 129);
 insert into knight_mission_data values (1002, 1, 1002, 'プリンセスナイトRANK10を達成しよう', 20021, 0, 10, 1002, 129);
 insert into knight_mission_data values (1003, 1, 1002, 'プリンセスナイトRANK30を達成しよう', 20021, 0, 30, 1003, 129);

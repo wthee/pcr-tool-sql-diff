@@ -1,4 +1,4 @@
-CREATE TABLE `hatsune_relay_data` (`relay_story_id` INTEGER, `is_enable_read` INTEGER, `condition_quest_id` INTEGER, `story_seq` INTEGER, `sub_title` TEXT);
+CREATE TABLE 'hatsune_relay_data' ('relay_story_id' INTEGER NOT NULL, 'is_enable_read' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'story_seq' INTEGER NOT NULL, 'sub_title' TEXT NOT NULL, PRIMARY KEY('relay_story_id'));
 insert into hatsune_relay_data values (1001001, 1, 20021103, 1, 'リマのインタビュー');
 insert into hatsune_relay_data values (1001002, 1, 20021103, 2, 'キャルのインタビュー');
 insert into hatsune_relay_data values (1001003, 1, 20021103, 3, 'タマキのインタビュー');

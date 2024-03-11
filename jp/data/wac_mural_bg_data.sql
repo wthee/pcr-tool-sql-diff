@@ -1,4 +1,4 @@
-CREATE TABLE `wac_mural_bg_data` (`wac_id` INTEGER, `date_id` INTEGER, `bg_id` INTEGER, `type` INTEGER, `start_offset_x` TEXT, `end_offset_x` TEXT);
+CREATE TABLE 'wac_mural_bg_data' ('wac_id' INTEGER NOT NULL, 'date_id' INTEGER NOT NULL, 'bg_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'start_offset_x' TEXT NOT NULL, 'end_offset_x' TEXT NOT NULL, PRIMARY KEY('wac_id','date_id'));
 insert into wac_mural_bg_data values (2816, 11, 1, 1, '-1480', '-1480');
 insert into wac_mural_bg_data values (2816, 21, 1, 1, '-1400', '-1302');
 insert into wac_mural_bg_data values (2816, 31, 1, 1, '-1302', '-1263');

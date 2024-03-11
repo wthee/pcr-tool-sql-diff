@@ -1,4 +1,4 @@
-CREATE TABLE `hatsune_boss_extra_effect` (`id` INTEGER, `boss_id` INTEGER, `unit_id` INTEGER, `icon_id` INTEGER, `detail` TEXT, `start_time` TEXT);
+CREATE TABLE 'hatsune_boss_extra_effect' ('id' INTEGER NOT NULL, 'boss_id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'icon_id' INTEGER NOT NULL, 'detail' TEXT NOT NULL, 'start_time' TEXT NOT NULL, PRIMARY KEY('id'));
 insert into hatsune_boss_extra_effect values (1, 1013206, 118001, 3001, 'バトル開始後90秒間物理攻撃力極大\\nアップ', '2023/11/30 12:00:00');
 insert into hatsune_boss_extra_effect values (2, 1013206, 118001, 3002, 'バトル開始後90秒間物理防御力と魔法\\n防御力極大アップ', '2023/11/30 12:00:00');
 insert into hatsune_boss_extra_effect values (3, 1013206, 118001, 3010, 'バトル開始後90秒間ＴＰ上昇大アップ', '2023/11/30 12:00:00');

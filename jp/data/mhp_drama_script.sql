@@ -1,4 +1,4 @@
-CREATE TABLE `mhp_drama_script` (`command_id` INTEGER, `drama_id` INTEGER, `command_type` INTEGER, `param_01` TEXT, `param_02` TEXT, `param_03` TEXT, `param_04` TEXT, `param_05` TEXT, `param_06` TEXT, `param_07` TEXT, `param_08` TEXT);
+CREATE TABLE 'mhp_drama_script' ('command_id' INTEGER NOT NULL, 'drama_id' INTEGER NOT NULL, 'command_type' INTEGER NOT NULL, 'param_01' TEXT NOT NULL, 'param_02' TEXT NOT NULL, 'param_03' TEXT NOT NULL, 'param_04' TEXT NOT NULL, 'param_05' TEXT NOT NULL, 'param_06' TEXT NOT NULL, 'param_07' TEXT NOT NULL, 'param_08' TEXT NOT NULL, PRIMARY KEY('command_id'));
 insert into mhp_drama_script values (1002011001, 1002011, 1, '1', '100211', '100', '0', '0', '1.7', '0', 'mhp_sit_idle');
 insert into mhp_drama_script values (1002011002, 1002011, 3, '100211', 'mhp_sit_talk_memory', '1', '', '', '0.2', '', '');
 insert into mhp_drama_script values (1002011003, 1002011, 21, 'vo_mhp', 'vo_mhp_0401', '0', '0', '', '', '', '');

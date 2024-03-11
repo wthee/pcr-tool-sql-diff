@@ -1,4 +1,4 @@
-CREATE TABLE `nyd_story_data` (`sub_story_id` INTEGER, `original_event_id` INTEGER, `title` TEXT, `is_first` INTEGER, `nyd_story_type` INTEGER, `reward_type` INTEGER, `reward_id` INTEGER, `reward_count` INTEGER);
+CREATE TABLE 'nyd_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'is_first' INTEGER NOT NULL, 'nyd_story_type' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
 insert into nyd_story_data values (5134061, 10134, 'ハツネの初夢', 1, 2, 8, 91002, 40);
 insert into nyd_story_data values (5134062, 10134, 'イノリの初夢', 0, 2, 8, 91002, 40);
 insert into nyd_story_data values (5134063, 10134, 'カスミの初夢', 0, 2, 8, 91002, 40);

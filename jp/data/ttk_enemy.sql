@@ -1,4 +1,4 @@
-CREATE TABLE `ttk_enemy` (`enemy_id` INTEGER, `score` INTEGER, `coin` INTEGER, `max` INTEGER);
+CREATE TABLE 'ttk_enemy' ('enemy_id' INTEGER NOT NULL, 'score' INTEGER NOT NULL, 'coin' INTEGER NOT NULL, 'max' INTEGER NOT NULL, PRIMARY KEY('enemy_id'));
 insert into ttk_enemy values (1, 100, 5, 1200);
 insert into ttk_enemy values (2, 200, 8, 1200);
 insert into ttk_enemy values (3, 300, 10, 1200);

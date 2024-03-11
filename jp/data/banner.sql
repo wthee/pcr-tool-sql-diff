@@ -1,4 +1,4 @@
-CREATE TABLE `banner` (`banner_id` INTEGER, `type` INTEGER, `system_id` INTEGER, `gacha_id` INTEGER, `condition_id` INTEGER, `priority` INTEGER, `start_date` TEXT, `end_date` TEXT, `sub_banner_id_1` INTEGER, `is_show_room` INTEGER);
+CREATE TABLE 'banner' ('banner_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'system_id' INTEGER NOT NULL, 'gacha_id' INTEGER NOT NULL, 'condition_id' INTEGER NOT NULL, 'priority' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, 'sub_banner_id_1' INTEGER NOT NULL, 'is_show_room' INTEGER NOT NULL, PRIMARY KEY('banner_id'));
 insert into banner values (10000, 1, 302, 0, 0, 1, '2018/01/01 15:00:00', '2018/02/28 14:59:59', 0, 0);
 insert into banner values (10001, 1, 302, 0, 0, 1, '2018/02/28 15:00:00', '2018/03/15 14:59:59', 0, 0);
 insert into banner values (10002, 1, 302, 0, 0, 1, '2018/03/15 15:00:00', '2018/03/31 14:59:59', 0, 0);
@@ -270,6 +270,7 @@ insert into banner values (10267, 1, 302, 30305, 0, 12, '2024/02/12 12:00:00', '
 insert into banner values (10268, 1, 302, 0, 0, 12, '2024/02/15', '2024/02/22 11:59:59', 0, 0);
 insert into banner values (10269, 1, 302, 0, 0, 12, '2024/02/22 12:00:00', '2024/02/29 11:59:59', 90064, 0);
 insert into banner values (10270, 1, 302, 0, 0, 12, '2024/03/03 19:00:00', '2024/03/11 11:59:59', 0, 0);
+insert into banner values (10271, 1, 302, 0, 0, 12, '2024/03/11 12:00:00', '2024/03/18 11:59:59', 0, 0);
 insert into banner values (20000, 2, 101, 0, 0, 15, '2018/01/01 15:00:00', '2030/01/01 23:59:59', 0, 0);
 insert into banner values (20001, 1, 302, 0, 0, 1, '2018/05/22 5:00:00', '2018/06/01 4:59:59', 0, 0);
 insert into banner values (20002, 1, 902, 0, 0, 17, '2018/06/15 15:00:00', '2030/01/01 23:59:59', 0, 0);

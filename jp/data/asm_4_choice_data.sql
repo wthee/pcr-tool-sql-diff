@@ -1,4 +1,4 @@
-CREATE TABLE `asm_4_choice_data` (`asm_id` INTEGER, `choice_1` TEXT, `image_id_1` INTEGER, `choice_2` TEXT, `image_id_2` INTEGER, `choice_3` TEXT, `image_id_3` INTEGER, `choice_4` TEXT, `image_id_4` INTEGER, `correct_answer` INTEGER);
+CREATE TABLE 'asm_4_choice_data' ('asm_id' INTEGER NOT NULL, 'choice_1' TEXT NOT NULL, 'image_id_1' INTEGER NOT NULL, 'choice_2' TEXT NOT NULL, 'image_id_2' INTEGER NOT NULL, 'choice_3' TEXT NOT NULL, 'image_id_3' INTEGER NOT NULL, 'choice_4' TEXT NOT NULL, 'image_id_4' INTEGER NOT NULL, 'correct_answer' INTEGER NOT NULL, PRIMARY KEY('asm_id'));
 insert into asm_4_choice_data values (2110001, 'バグ', 0, 'バク', 0, 'ハグ', 0, 'パグ', 0, 1);
 insert into asm_4_choice_data values (2110003, 'テクノロジー', 0, 'テクニック', 0, 'テイク', 0, '手首', 0, 1);
 insert into asm_4_choice_data values (2110005, 'なだれ', 0, 'ふぶき', 0, 'じひびき', 0, 'ゆきやけ', 0, 1);

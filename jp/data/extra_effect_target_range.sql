@@ -1,4 +1,4 @@
-CREATE TABLE `extra_effect_target_range` (`target_id` INTEGER, `set_id` INTEGER, `group_id` INTEGER);
+CREATE TABLE 'extra_effect_target_range' ('target_id' INTEGER NOT NULL, 'set_id' INTEGER NOT NULL, 'group_id' INTEGER NOT NULL, PRIMARY KEY('target_id'));
 insert into extra_effect_target_range values (1, 61013201, 6101321);
 insert into extra_effect_target_range values (2, 61013201, 6101322);
 insert into extra_effect_target_range values (3, 61013201, 6101323);

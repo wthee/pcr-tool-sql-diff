@@ -1,4 +1,4 @@
-CREATE TABLE `talent_formation_overwrite` (`id` INTEGER, `content_type` INTEGER, `target_value_1` INTEGER, `target_value_2` INTEGER, `formation_bonus_id_1` INTEGER, `formation_bonus_id_2` INTEGER, `formation_bonus_id_3` INTEGER, `formation_bonus_id_4` INTEGER, `formation_bonus_id_5` INTEGER);
+CREATE TABLE 'talent_formation_overwrite' ('id' INTEGER NOT NULL, 'content_type' INTEGER NOT NULL, 'target_value_1' INTEGER NOT NULL, 'target_value_2' INTEGER NOT NULL, 'formation_bonus_id_1' INTEGER NOT NULL, 'formation_bonus_id_2' INTEGER NOT NULL, 'formation_bonus_id_3' INTEGER NOT NULL, 'formation_bonus_id_4' INTEGER NOT NULL, 'formation_bonus_id_5' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into talent_formation_overwrite values (810010011, 43, 810010011, 0, 8010, 8000, 8000, 8000, 8000);
 insert into talent_formation_overwrite values (810010021, 43, 810010021, 0, 8010, 8000, 8000, 8000, 8000);
 insert into talent_formation_overwrite values (810010031, 43, 810010031, 0, 8010, 8000, 8000, 8000, 8000);

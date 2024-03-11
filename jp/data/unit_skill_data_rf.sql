@@ -1,4 +1,4 @@
-CREATE TABLE `unit_skill_data_rf` (`id` INTEGER, `skill_id` INTEGER, `rf_skill_id` INTEGER, `min_lv` INTEGER, `max_lv` INTEGER);
+CREATE TABLE 'unit_skill_data_rf' ('id' INTEGER NOT NULL, 'skill_id' INTEGER NOT NULL, 'rf_skill_id' INTEGER NOT NULL, 'min_lv' INTEGER NOT NULL, 'max_lv' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into unit_skill_data_rf values (1006001, 1006001, 1006201, 301, -1);
 insert into unit_skill_data_rf values (1006011, 1006011, 1006211, 301, -1);
 insert into unit_skill_data_rf values (1007002, 1007002, 1007202, 301, -1);

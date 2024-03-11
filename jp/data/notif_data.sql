@@ -1,4 +1,4 @@
-CREATE TABLE `notif_data` (`unit_id` INTEGER, `notif_type` INTEGER, `comment` TEXT);
+CREATE TABLE 'notif_data' ('unit_id' INTEGER NOT NULL, 'notif_type' INTEGER NOT NULL, 'comment' TEXT NOT NULL, PRIMARY KEY('unit_id','notif_type'));
 insert into notif_data values (100101, 1, 'スタミナ全回復っ！あたしも元気満タンだよ！準備が出来たら、冒険へレッツゴー！');
 insert into notif_data values (100101, 2, 'ギルドハウスのスキップチケットがいっぱいだって！パパッとやっつけちゃうよー！');
 insert into notif_data values (100101, 3, '騎士くん！ギルドハウスのスタミナがいっぱいだよ！困ってる人を助けるには体力が大事だよね！');

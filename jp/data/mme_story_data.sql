@@ -1,4 +1,4 @@
-CREATE TABLE `mme_story_data` (`sub_story_id` INTEGER, `original_event_id` INTEGER, `title` TEXT, `sub_title` TEXT, `is_puzzle_piece` INTEGER, `is_last` INTEGER, `condition_quest_id` INTEGER, `reward_type` INTEGER, `reward_id` INTEGER, `reward_count` INTEGER);
+CREATE TABLE 'mme_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'sub_title' TEXT NOT NULL, 'is_puzzle_piece' INTEGER NOT NULL, 'is_last' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
 insert into mme_story_data values (5110601, 10110, 'オープニング', '懐かしき過去の結晶', 0, 0, 10138104, 0, 0, 0);
 insert into mme_story_data values (5110602, 10110, 'オクトーの追想\u3000その1', 'リーダーはどっちだ！', 1, 0, 10138104, 8, 91002, 30);
 insert into mme_story_data values (5110603, 10110, 'オクトーの追想\u3000その2', '勝ちたい理由', 1, 0, 10138105, 8, 91002, 30);

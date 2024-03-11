@@ -1,4 +1,4 @@
-CREATE TABLE `nyx_drama_script` (`command_id` INTEGER, `drama_id` INTEGER, `command_type` INTEGER, `param_01` TEXT, `param_02` TEXT, `param_03` TEXT, `param_04` TEXT, `param_05` TEXT, `param_06` TEXT, `param_07` TEXT, `param_08` TEXT);
+CREATE TABLE 'nyx_drama_script' ('command_id' INTEGER NOT NULL, 'drama_id' INTEGER NOT NULL, 'command_type' INTEGER NOT NULL, 'param_01' TEXT NOT NULL, 'param_02' TEXT NOT NULL, 'param_03' TEXT NOT NULL, 'param_04' TEXT NOT NULL, 'param_05' TEXT NOT NULL, 'param_06' TEXT NOT NULL, 'param_07' TEXT NOT NULL, 'param_08' TEXT NOT NULL, PRIMARY KEY('command_id'));
 insert into nyx_drama_script values (11010001, 101, 1, '1', '110931', '110', '-421', '-209.3', '1.35', '0', 'nyx_idle_normal');
 insert into nyx_drama_script values (11010002, 101, 1, '1', '104831', '110', '121.8', '-182.5', '1.35', '0', 'nyx_idle_normal');
 insert into nyx_drama_script values (11010003, 101, 1, '1', '104631', '110', '227.7', '-182.5', '1.35', '0', 'nyx_idle_normal');

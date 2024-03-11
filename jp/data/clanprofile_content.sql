@@ -1,4 +1,4 @@
-CREATE TABLE `clanprofile_content` (`id` INTEGER, `name` TEXT, `start_time` TEXT, `end_time` TEXT, `disp_order` INTEGER);
+CREATE TABLE 'clanprofile_content' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into clanprofile_content values (1, '美食殿', '2019-05-17 15:00:00', '', 17);
 insert into clanprofile_content values (2, 'トゥインクルウィッシュ', '2019-05-17 15:00:00', '', 18);
 insert into clanprofile_content values (3, 'ラビリンス', '2019-05-17 15:00:00', '', 19);

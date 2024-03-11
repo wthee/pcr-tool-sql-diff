@@ -1,4 +1,4 @@
-CREATE TABLE `campaign_beginner_data` (`beginner_id` INTEGER, `id_from` INTEGER, `id_to` INTEGER);
+CREATE TABLE 'campaign_beginner_data' ('beginner_id' INTEGER NOT NULL, 'id_from' INTEGER NOT NULL, 'id_to' INTEGER NOT NULL, PRIMARY KEY('beginner_id'));
 insert into campaign_beginner_data values (1, 12001001, 12025003);
 insert into campaign_beginner_data values (2, 12026001, 12053003);
 insert into campaign_beginner_data values (3, 11001001, 11025014);
