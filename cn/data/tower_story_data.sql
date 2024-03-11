@@ -21,3 +21,4 @@ insert into tower_story_data values (7019, 7, 19, '军人们的联合任务', 0,
 insert into tower_story_data values (7020, 7, 20, '笑声和鲷鱼烧引起的风波', 0, 1, '2023/09/16 12:00:00', '2099/12/31 23:59:59');
 insert into tower_story_data values (7021, 7, 21, '年轻的正义与成年人的美学', 0, 1, '2023/11/17 12:00:00', '2099/12/31 23:59:59');
 insert into tower_story_data values (7022, 7, 22, '超能力×魔法＝超魔法少女', 0, 1, '2024/1/17 12:00:00', '2099/12/31 23:59:59');
+insert into tower_story_data values (7023, 7, 23, '振作吧，英雄们！', 0, 1, '2024/03/17 12:00:00', '2099/12/31 23:59:59');
