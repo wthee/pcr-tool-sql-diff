@@ -87,4 +87,5 @@ insert into event_gacha_data values (10086, 10086, '情相连。心相系。', 2
 insert into event_gacha_data values (10087, 10087, '情相连。心相系。', 2, 60852, 1, 6);
 insert into event_gacha_data values (10088, 10088, 'Sweet tiny stage！\u3000新人女演员与小小淑女', 2, 60872, 1, 6);
 insert into event_gacha_data values (10089, 10089, '灰姑娘课程\u3000璀璨的日子是苹果的滋味', 2, 60882, 1, 6);
+insert into event_gacha_data values (10090, 10090, '交出宝物！\u3000神出鬼没的怪盗', 2, 60892, 1, 6);
 insert into event_gacha_data values (19003, 10003, '吸血鬼猎人with伊莉亚讨伐证交换', 2, 60022, 1, 5);

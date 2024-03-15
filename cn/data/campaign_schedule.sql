@@ -1144,3 +1144,16 @@ insert into campaign_schedule values (1142, 351, 1500.0, 8004, 80, '2024/03/22 5
 insert into campaign_schedule values (1143, 352, 1500.0, 8005, 80, '2024/03/22 5:00:00', '2024/03/30 4:59:59', 0, 0, 0, 0);
 insert into campaign_schedule values (1144, 251, 1500.0, 7004, 80, '2024/03/16 12:00:00', '2024/03/23 23:59:59', 0, 0, 0, 0);
 insert into campaign_schedule values (1145, 252, 1500.0, 7005, 80, '2024/03/16 12:00:00', '2024/03/23 23:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1146, 32, 2000.0, 102, 30, '2024/04/01 5:00:00', '2024/04/06 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1147, 42, 2000.0, 102, 40, '2024/04/01 5:00:00', '2024/04/06 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1148, 31, 2000.0, 101, 30, '2024/04/06 5:00:00', '2024/04/11 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1149, 41, 2000.0, 101, 40, '2024/04/06 5:00:00', '2024/04/11 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1150, 39, 2000.0, 111, 30, '2024/04/11 5:00:00', '2024/04/15 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1151, 49, 2000.0, 111, 40, '2024/04/11 5:00:00', '2024/04/15 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1152, 37, 2000.0, 109, 30, '2024/04/12 5:00:00', '2024/04/15 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1153, 38, 2000.0, 112, 30, '2024/04/12 5:00:00', '2024/04/15 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1154, 31, 3000.0, 101, 30, '2024/04/15 5:00:00', '2024/04/20 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1155, 41, 2000.0, 101, 40, '2024/04/15 5:00:00', '2024/04/20 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1156, 45, 2000.0, 104, 40, '2024/04/15 5:00:00', '2024/04/30 4:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1157, 151, 1500.0, 6004, 80, '2024/03/29 11:00:00', '2024/04/12 23:59:59', 0, 0, 0, 0);
+insert into campaign_schedule values (1158, 152, 1500.0, 6005, 80, '2024/03/29 11:00:00', '2024/04/12 23:59:59', 0, 0, 0, 0);
