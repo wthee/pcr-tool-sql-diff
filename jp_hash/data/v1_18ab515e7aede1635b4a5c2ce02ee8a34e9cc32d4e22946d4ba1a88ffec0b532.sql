@@ -38,3 +38,16 @@ insert into v1_18ab515e7aede1635b4a5c2ce02ee8a34e9cc32d4e22946d4ba1a88ffec0b532 
 insert into v1_18ab515e7aede1635b4a5c2ce02ee8a34e9cc32d4e22946d4ba1a88ffec0b532 values (11901, 3, 2, 1, 1, 1, 22, 53003, 2);
 insert into v1_18ab515e7aede1635b4a5c2ce02ee8a34e9cc32d4e22946d4ba1a88ffec0b532 values (11902, 3, 2, 1, 1, 1, 22, 53002, 1);
 insert into v1_18ab515e7aede1635b4a5c2ce02ee8a34e9cc32d4e22946d4ba1a88ffec0b532 values (12001, 3, 1, 1, 0, 0, 22, 53002, 2);
+insert into v1_18ab515e7aede1635b4a5c2ce02ee8a34e9cc32d4e22946d4ba1a88ffec0b532 values (12101, 4, 7, 5, 6, -1, 22, 53003, 8);
+insert into v1_18ab515e7aede1635b4a5c2ce02ee8a34e9cc32d4e22946d4ba1a88ffec0b532 values (12102, 4, 7, 5, 6, -1, 22, 53002, 4);
+insert into v1_18ab515e7aede1635b4a5c2ce02ee8a34e9cc32d4e22946d4ba1a88ffec0b532 values (12201, 4, 6, 4, 5, 5, 22, 53003, 6);
+insert into v1_18ab515e7aede1635b4a5c2ce02ee8a34e9cc32d4e22946d4ba1a88ffec0b532 values (12202, 4, 6, 4, 5, 5, 22, 53002, 5);
+insert into v1_18ab515e7aede1635b4a5c2ce02ee8a34e9cc32d4e22946d4ba1a88ffec0b532 values (12301, 4, 5, 3, 4, 4, 22, 53003, 5);
+insert into v1_18ab515e7aede1635b4a5c2ce02ee8a34e9cc32d4e22946d4ba1a88ffec0b532 values (12302, 4, 5, 3, 4, 4, 22, 53002, 5);
+insert into v1_18ab515e7aede1635b4a5c2ce02ee8a34e9cc32d4e22946d4ba1a88ffec0b532 values (12401, 4, 4, 3, 3, 3, 22, 53003, 4);
+insert into v1_18ab515e7aede1635b4a5c2ce02ee8a34e9cc32d4e22946d4ba1a88ffec0b532 values (12402, 4, 4, 3, 3, 3, 22, 53002, 3);
+insert into v1_18ab515e7aede1635b4a5c2ce02ee8a34e9cc32d4e22946d4ba1a88ffec0b532 values (12501, 4, 3, 2, 2, 2, 22, 53003, 3);
+insert into v1_18ab515e7aede1635b4a5c2ce02ee8a34e9cc32d4e22946d4ba1a88ffec0b532 values (12502, 4, 3, 2, 2, 2, 22, 53002, 2);
+insert into v1_18ab515e7aede1635b4a5c2ce02ee8a34e9cc32d4e22946d4ba1a88ffec0b532 values (12601, 4, 2, 1, 1, 1, 22, 53003, 2);
+insert into v1_18ab515e7aede1635b4a5c2ce02ee8a34e9cc32d4e22946d4ba1a88ffec0b532 values (12602, 4, 2, 1, 1, 1, 22, 53002, 1);
+insert into v1_18ab515e7aede1635b4a5c2ce02ee8a34e9cc32d4e22946d4ba1a88ffec0b532 values (12701, 4, 1, 1, 0, 0, 22, 53002, 2);
