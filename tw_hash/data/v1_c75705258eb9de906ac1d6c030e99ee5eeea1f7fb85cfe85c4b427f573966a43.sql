@@ -22,3 +22,4 @@ insert into v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43 
 insert into v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43 values (21, 1, 52015, 1, 1, '【料理】骰子增加成為兩個', 0, 0);
 insert into v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43 values (22, 1, 52015, 1, 1, '【料理】下次移動時，將多移動1格。', 0, 0);
 insert into v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43 values (23, 1, 52016, 1, 1, '【料理】投擲的骰子一定會丟出「6」。', 0, 0);
+insert into v1_c75705258eb9de906ac1d6c030e99ee5eeea1f7fb85cfe85c4b427f573966a43 values (24, 1, 52017, 1, 9, '【料理】變得無法食用移動系的料理。', 0, 0);
