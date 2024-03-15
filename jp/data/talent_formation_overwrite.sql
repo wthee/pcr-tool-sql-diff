@@ -1,4 +1,14 @@
 CREATE TABLE 'talent_formation_overwrite' ('id' INTEGER NOT NULL, 'content_type' INTEGER NOT NULL, 'target_value_1' INTEGER NOT NULL, 'target_value_2' INTEGER NOT NULL, 'formation_bonus_id_1' INTEGER NOT NULL, 'formation_bonus_id_2' INTEGER NOT NULL, 'formation_bonus_id_3' INTEGER NOT NULL, 'formation_bonus_id_4' INTEGER NOT NULL, 'formation_bonus_id_5' INTEGER NOT NULL, PRIMARY KEY('id'));
+insert into talent_formation_overwrite values (740051011, 36, 74005101, 0, 8000, 8000, 8000, 8000, 8000);
+insert into talent_formation_overwrite values (740051021, 36, 74005102, 0, 8000, 8000, 8000, 8000, 8000);
+insert into talent_formation_overwrite values (740051031, 36, 74005103, 0, 8000, 8000, 8000, 8000, 8000);
+insert into talent_formation_overwrite values (740051041, 36, 74005104, 0, 8000, 8000, 8000, 8000, 8000);
+insert into talent_formation_overwrite values (740051051, 36, 74005105, 0, 8000, 8000, 8000, 8000, 8000);
+insert into talent_formation_overwrite values (740052011, 36, 74005201, 0, 8000, 8000, 8000, 8000, 8000);
+insert into talent_formation_overwrite values (740052021, 36, 74005202, 0, 8000, 8000, 8000, 8000, 8000);
+insert into talent_formation_overwrite values (740052031, 36, 74005203, 0, 8000, 8000, 8000, 8000, 8000);
+insert into talent_formation_overwrite values (740052041, 36, 74005204, 0, 8000, 8000, 8000, 8000, 8000);
+insert into talent_formation_overwrite values (740052051, 36, 74005205, 0, 8000, 8000, 8000, 8000, 8000);
 insert into talent_formation_overwrite values (810010011, 43, 810010011, 0, 8010, 8000, 8000, 8000, 8000);
 insert into talent_formation_overwrite values (810010021, 43, 810010021, 0, 8010, 8000, 8000, 8000, 8000);
 insert into talent_formation_overwrite values (810010031, 43, 810010031, 0, 8010, 8000, 8000, 8000, 8000);

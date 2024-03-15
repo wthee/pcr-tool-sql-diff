@@ -124,3 +124,5 @@ insert into shiori_quest_area values (20048201, 20048, 'エリザベスパーク
 insert into shiori_quest_area values (20049101, 20049, 'ランドソル郊外', 201, 'bgm_M574', 'bgm_M574', 1, 1, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20049102, 20049, 'カジノホール', 201, 'bgm_M574', 'bgm_M574', 1, 2, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20049201, 20049, 'カジノホール', 201, 'bgm_M574', 'bgm_M574', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20050101, 20050, '呪われた海賊島', 201, 'bgm_M582', 'bgm_M582', 1, 1, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20050201, 20050, '呪われた海賊島', 201, 'bgm_M582', 'bgm_M582', 1, 0, 0, 0, 0, '0', '0', 0);

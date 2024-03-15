@@ -5,3 +5,5 @@ insert into caravan_dish_turn_effect values (52009, 1, 1, 100901);
 insert into caravan_dish_turn_effect values (52009, 2, 2, 100902);
 insert into caravan_dish_turn_effect values (52011, 1, 1, 11521);
 insert into caravan_dish_turn_effect values (52011, 2, 2, 11522);
+insert into caravan_dish_turn_effect values (52023, 1, 1, 11512);
+insert into caravan_dish_turn_effect values (52023, 2, 2, 11511);

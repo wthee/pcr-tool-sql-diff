@@ -336,3 +336,15 @@ insert into music_content values (334, 'アナザーウィッシュ・ログ', '
 insert into music_content values (335, '灼けつく世界をゆく', '1:37', '0:00', 'キャラバン\\n-｢Precious Journey｣アレンジ-\\n\\n時間 / 01:37\\n作曲 / 東大路憲太\\n編曲 / IM.Lab', 'bgm_MC103', 'bgm_MC103_juke');
 insert into music_content values (336, '乱入！バンディ・シスターズ', '1:40', '0:00', 'キャラバン\\n-｢バンディ・シスターズ｣アレンジ-\\n\\n時間 / 01:40\\n作曲 / 関根修平（Cygames）\\n編曲 / IM.Lab', 'bgm_MC104', 'bgm_MC104_juke');
 insert into music_content values (337, 'エリス', '2:28', '0:00', 'キャラクターテーマ\\n\\n\\n時間 / 02:28\\n作曲 / 東大路憲太\\n編曲 / 東大路憲太', 'bgm_M471', 'bgm_M471_juke');
+insert into music_content values (338, '真冬の真夏と聖なる学舎の異端児', '1:18', '0:00', 'ストーリーイベントテーマ\\n-｢妄想サマーハレーション｣アレンジ-\\n\\n時間 / 01:18\\n作曲 / 出口遼\\n編曲 / 関根修平（Cygames）', 'bgm_MC124', 'bgm_MC124_juke');
+insert into music_content values (339, '奈落の聖女トミヱ', '1:42', '0:00', 'ストーリーイベントボスバトル\\n\\n時間 / 01:42\\n作曲 / 小半大\\n編曲 / 小半大', 'bgm_MC126', 'bgm_MC126_juke');
+insert into music_content values (340, '妄想サマーハレーション', '1:41', '0:59', 'キャラクターソング\\n\\n時間 / 01:41\\n歌\u3000 / チエル（佐倉綾音）\\n\u3000\u3000\u3000クロエ（種﨑敦美）\\n\u3000\u3000\u3000ユニ（小原好美）\\n作詞 / 出口遼\\n作曲 / 出口遼\\n編曲 / 出口遼、半田翼', 'bgm_MC109', 'bgm_MC109');
+insert into music_content values (341, '【LIVE】流れるプール\u3000昼', '2:10', '0:00', 'ストーリーイベントミニコンテンツ\\n-｢妄想サマーハレーション｣アレンジ-\\n\\n時間 / 02:10\\n作曲 / 出口遼\\n編曲 / 古見千桜子（Cygames）', 'bgm_MC127', 'bgm_MC127_01_juke');
+insert into music_content values (342, '【LIVE】流れるプール\u3000夜', '2:10', '0:00', 'ストーリーイベントミニコンテンツ\\n-｢妄想サマーハレーション｣アレンジ-\\n\\n時間 / 02:10\\n作曲 / 出口遼\\n編曲 / 小出大和（Cygames）', 'bgm_MC128', 'bgm_MC128_01_juke');
+insert into music_content values (343, 'プリンセスナイトの力', '3:45', '0:00', 'プリンセスナイト強化\\n-｢プリンセスナイト｣アレンジ-\\n\\n時間 / 03:45\\n作曲 / 西木康智\\n編曲 / 佐藤遥（Cygames）', 'bgm_MC129', 'bgm_MC129_juke');
+insert into music_content values (344, '深奥なる領域へ至る', '0:59', '0:00', '深域クエスト\\n-｢紅焔の深域｣アレンジ-\\n\\n時間 / 00:59\\n作曲 / 松尾早人\\n編曲 / 多田彰文', 'bgm_MC130', 'bgm_MC130_juke');
+insert into music_content values (345, '紅焔の深域', '1:41', '0:00', '深域クエスト\\n\\n時間 / 01:41\\n作曲 / 松尾早人\\n編曲 / 松尾早人', 'bgm_MC131', 'bgm_MC131_juke');
+insert into music_content values (346, '蒼波の深域', '1:41', '0:00', '深域クエスト\\n\\n時間 / 01:41\\n作曲 / 松尾早人\\n編曲 / 松尾早人', 'bgm_MC132', 'bgm_MC132_juke');
+insert into music_content values (347, '翠嵐の深域', '1:41', '0:00', '深域クエスト\\n\\n時間 / 01:41\\n作曲 / 松尾早人\\n編曲 / 松尾早人', 'bgm_MC133', 'bgm_MC133_juke');
+insert into music_content values (348, '珀天の深域', '1:41', '0:00', '深域クエスト\\n\\n時間 / 01:41\\n作曲 / 松尾早人\\n編曲 / 松尾早人', 'bgm_MC134', 'bgm_MC134_juke');
+insert into music_content values (349, '紫冥の深域', '1:41', '0:00', '深域クエスト\\n\\n時間 / 01:41\\n作曲 / 松尾早人\\n編曲 / 松尾早人', 'bgm_MC135', 'bgm_MC135_juke');
