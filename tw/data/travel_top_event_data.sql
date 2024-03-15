@@ -19,6 +19,14 @@ insert into travel_top_event_data values (2017, 2, 1, 1, 0, 7, 20171, 20172, 0, 
 insert into travel_top_event_data values (2018, 2, 1, 1, 0, 7, 20181, 20182, 0, 0, 0, 0, 0, 40001, 1);
 insert into travel_top_event_data values (2019, 2, 1, 1, 0, 7, 20191, 20192, 0, 0, 0, 0, 0, 40001, 1);
 insert into travel_top_event_data values (2020, 2, 1, 1, 0, 7, 20201, 20202, 0, 0, 0, 0, 0, 40001, 1);
+insert into travel_top_event_data values (2021, 2, 1, 1, 0, 7, 20211, 20212, 0, 0, 0, 0, 0, 40001, 1);
+insert into travel_top_event_data values (2022, 2, 1, 1, 0, 7, 20221, 20222, 0, 0, 0, 0, 0, 40001, 1);
+insert into travel_top_event_data values (2023, 2, 1, 1, 0, 7, 20231, 20232, 0, 0, 0, 0, 0, 40001, 1);
+insert into travel_top_event_data values (2024, 2, 1, 1, 0, 7, 20241, 20242, 0, 0, 0, 0, 0, 40001, 1);
+insert into travel_top_event_data values (2025, 2, 1, 1, 0, 7, 20251, 20252, 0, 0, 0, 0, 0, 40001, 1);
+insert into travel_top_event_data values (2026, 2, 1, 1, 0, 7, 20261, 20262, 0, 0, 0, 0, 0, 40001, 1);
+insert into travel_top_event_data values (2027, 2, 1, 1, 0, 7, 20271, 20272, 0, 0, 0, 0, 0, 40001, 1);
+insert into travel_top_event_data values (2028, 2, 1, 1, 0, 7, 20281, 20282, 0, 0, 0, 0, 0, 40001, 1);
 insert into travel_top_event_data values (3001, 1, 1, 1, 40, 7, 30011, 30012, 0, 0, 0, 0, 0, 40001, 1);
 insert into travel_top_event_data values (3002, 1, 1, 5, 40, 7, 30021, 30022, 0, 0, 0, 0, 0, 40001, 1);
 insert into travel_top_event_data values (3003, 1, 1, 6, 40, 7, 30031, 30032, 0, 0, 0, 0, 0, 40001, 1);
