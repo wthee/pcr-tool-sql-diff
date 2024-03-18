@@ -244,6 +244,7 @@ insert into unit_background values (128801, 'レイ（アストラル）', 50014
 insert into unit_background values (128901, 'ユイ（アストラル）', 500140, 'プラノ平原', 0.0, 2);
 insert into unit_background values (129001, 'エリス', 500510, '花畑', 0.0, 2);
 insert into unit_background values (129301, 'ユニ（ウィンター）', 502220, 'メルクリゾート_プールエリア_昼', 0.0, 2);
+insert into unit_background values (129401, 'クロエ（ウィンター）', 502220, 'メルクリゾート_プールエリア_昼', 0.0, 2);
 insert into unit_background values (180101, 'ヒヨリ（プリンセス）', 500130, 'エステレラ街道', 0.0, 2);
 insert into unit_background values (180201, 'ユイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 4);
 insert into unit_background values (180301, 'レイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 3);

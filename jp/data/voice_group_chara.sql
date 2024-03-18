@@ -70,7 +70,7 @@ insert into voice_group_chara values (109401001, 'マナリア（グレア）', 
 insert into voice_group_chara values (109701001, 'リゼロ（レム）', 109701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (109801001, 'リゼロ（ラム）', 109801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (109901001, 'リゼロ（エミリア）', 109901, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (110801001, '聖テレサ女学院（なかよし部）（クロエ）', 110801, 116201, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (110801001, '聖テレサ女学院（なかよし部）（クロエ）', 110801, 116201, 129401, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (110901001, '聖テレサ女学院（なかよし部）（チエル）', 110901, 116301, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (111001001, '聖テレサ女学院（なかよし部）（ユニ）', 111001, 116401, 129301, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (112401001, 'ニュージェネレーションズ（ウヅキ）', 112401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -308,6 +308,7 @@ insert into voice_group_chara values (328701001, 'ヒヨリ（アストラル）
 insert into voice_group_chara values (328801001, 'レイ（アストラル）（カリン掛け合い用）', 128801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (328901001, 'ユイ（アストラル）（カリン掛け合い用）', 128901, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (329301001, 'ユニ（ウィンター）（カリン掛け合い用）', 129301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (329401001, 'クロエ（ウィンター）（カリン掛け合い用）', 129401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380101001, 'ヒヨリ（プリンセス）（カリン掛け合い用）', 180101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380201001, 'ユイ（プリンセス）（カリン掛け合い用）', 180201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380301001, 'レイ（プリンセス）（カリン掛け合い用）', 180301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
