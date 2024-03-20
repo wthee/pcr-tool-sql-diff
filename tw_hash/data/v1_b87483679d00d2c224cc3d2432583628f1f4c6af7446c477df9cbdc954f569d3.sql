@@ -15,6 +15,7 @@ insert into v1_b87483679d00d2c224cc3d2432583628f1f4c6af7446c477df9cbdc954f569d3 
 insert into v1_b87483679d00d2c224cc3d2432583628f1f4c6af7446c477df9cbdc954f569d3 values (125001, '平常時', '共鬥中');
 insert into v1_b87483679d00d2c224cc3d2432583628f1f4c6af7446c477df9cbdc954f569d3 values (125801, '平常時', '特殊技能');
 insert into v1_b87483679d00d2c224cc3d2432583628f1f4c6af7446c477df9cbdc954f569d3 values (126001, '平常時', '特殊技能');
+insert into v1_b87483679d00d2c224cc3d2432583628f1f4c6af7446c477df9cbdc954f569d3 values (126101, '平常時', '特殊技能');
 insert into v1_b87483679d00d2c224cc3d2432583628f1f4c6af7446c477df9cbdc954f569d3 values (126201, '平常時', '特殊技能');
 insert into v1_b87483679d00d2c224cc3d2432583628f1f4c6af7446c477df9cbdc954f569d3 values (126401, '平常時', '【蓄電滿載】中');
 insert into v1_b87483679d00d2c224cc3d2432583628f1f4c6af7446c477df9cbdc954f569d3 values (126501, '平常時', '特殊技能');

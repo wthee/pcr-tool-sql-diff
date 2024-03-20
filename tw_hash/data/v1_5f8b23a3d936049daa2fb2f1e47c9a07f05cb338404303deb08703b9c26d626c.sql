@@ -86,6 +86,7 @@ insert into v1_5f8b23a3d936049daa2fb2f1e47c9a07f05cb338404303deb08703b9c26d626c 
 insert into v1_5f8b23a3d936049daa2fb2f1e47c9a07f05cb338404303deb08703b9c26d626c values (125601001, '碧卡拉', 125601, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_5f8b23a3d936049daa2fb2f1e47c9a07f05cb338404303deb08703b9c26d626c values (125801001, '莉莉（幻變少女）', 125801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_5f8b23a3d936049daa2fb2f1e47c9a07f05cb338404303deb08703b9c26d626c values (126001001, '可璃亞（墮落）', 126001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into v1_5f8b23a3d936049daa2fb2f1e47c9a07f05cb338404303deb08703b9c26d626c values (126101001, '普蕾西亞（墮落）', 126101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_5f8b23a3d936049daa2fb2f1e47c9a07f05cb338404303deb08703b9c26d626c values (126401001, '克蘿茜', 126401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_5f8b23a3d936049daa2fb2f1e47c9a07f05cb338404303deb08703b9c26d626c values (126501001, '萊拉耶爾', 126501, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_5f8b23a3d936049daa2fb2f1e47c9a07f05cb338404303deb08703b9c26d626c values (180701001, '初音＆栞（夏日）', 180701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -286,6 +287,7 @@ insert into v1_5f8b23a3d936049daa2fb2f1e47c9a07f05cb338404303deb08703b9c26d626c 
 insert into v1_5f8b23a3d936049daa2fb2f1e47c9a07f05cb338404303deb08703b9c26d626c values (325401001, '栞（遊俠）（花凜對話用）', 125401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_5f8b23a3d936049daa2fb2f1e47c9a07f05cb338404303deb08703b9c26d626c values (325801001, '莉莉（墮落）（花凜對話用）', 125801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_5f8b23a3d936049daa2fb2f1e47c9a07f05cb338404303deb08703b9c26d626c values (326001001, '可璃亞（墮落）（花凜對話用）', 126001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into v1_5f8b23a3d936049daa2fb2f1e47c9a07f05cb338404303deb08703b9c26d626c values (326101001, '普蕾西亞（墮落）（花凜對話用）', 126101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_5f8b23a3d936049daa2fb2f1e47c9a07f05cb338404303deb08703b9c26d626c values (326201001, '伊莉亞（祭服）（花凜對話用）', 126201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_5f8b23a3d936049daa2fb2f1e47c9a07f05cb338404303deb08703b9c26d626c values (326301001, '雪（祭服）（花凜對話用）', 126301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_5f8b23a3d936049daa2fb2f1e47c9a07f05cb338404303deb08703b9c26d626c values (326701001, '秋乃（夏日）（花凜對話用）', 126701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
