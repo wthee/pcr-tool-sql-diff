@@ -212,6 +212,7 @@ insert into actual_unit_background values (125631, '碧卡拉', 510350, 2);
 insert into actual_unit_background values (125731, '觀崎 佳凜', 510300, 2);
 insert into actual_unit_background values (125831, '德川 莉莉', 510090, 2);
 insert into actual_unit_background values (126031, '久央璃亞', 510170, 2);
+insert into actual_unit_background values (126131, '普蕾西亞‧懷茲曼', 510082, 4);
 insert into actual_unit_background values (126231, '伊莉亞・奧恩斯坦', 510300, 4);
 insert into actual_unit_background values (126331, '虹村 雪', 510090, 2);
 insert into actual_unit_background values (126431, '九朗 千惠', 510124, 4);
