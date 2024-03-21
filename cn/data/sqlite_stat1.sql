@@ -220,7 +220,7 @@ insert into sqlite_stat1 values ('pct_reward', 'pct_reward_0_pct_point_type', '1
 insert into sqlite_stat1 values ('uek_drama', 'uek_drama_0_drama_id', '379 10');
 insert into sqlite_stat1 values ('shiori_quest', 'shiori_quest_0_drop_reward_id', '500 10');
 insert into sqlite_stat1 values ('shiori_quest', 'shiori_quest_0_event_id', '500 20');
-insert into sqlite_stat1 values ('sekai_boss_fix_reward', None, '15');
+insert into sqlite_stat1 values ('sekai_boss_fix_reward', None, '10');
 insert into sqlite_stat1 values ('clan_battle_boss_fix_reward', None, '40');
 insert into sqlite_stat1 values ('room_setup', None, '397');
 insert into sqlite_stat1 values ('sp_battle_voice', 'sp_battle_voice_0_unit_id', '40 14');
