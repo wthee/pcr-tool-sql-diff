@@ -16,3 +16,4 @@ insert into unique_equip_consume_group values (12, 1, 32021);
 insert into unique_equip_consume_group values (13, 1, 32023);
 insert into unique_equip_consume_group values (14, 1, 32027);
 insert into unique_equip_consume_group values (15, 1, 32049);
+insert into unique_equip_consume_group values (16, 1, 32011);

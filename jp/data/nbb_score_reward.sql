@@ -1,0 +1,1 @@
+CREATE TABLE 'nbb_score_reward' ('id' INTEGER NOT NULL, 'nbb_chara_type' INTEGER NOT NULL, 'score' INTEGER NOT NULL, 'detail' TEXT NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, PRIMARY KEY('id','nbb_chara_type'));

@@ -1,0 +1,1 @@
+CREATE TABLE 'nbb_face_icon_action_data' ('id' INTEGER NOT NULL, 'action_type' INTEGER NOT NULL, 'action_param' INTEGER NOT NULL, 'face_icon_type' INTEGER NOT NULL, 'text_1' TEXT NOT NULL, 'text_2' TEXT NOT NULL, 'voice_cue_1' TEXT NOT NULL, 'voice_cue_2' TEXT NOT NULL, 'play_time' INTEGER NOT NULL, 'priority' INTEGER NOT NULL, PRIMARY KEY('id'));

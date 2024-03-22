@@ -34,4 +34,5 @@ insert into clan_battle_odds_data values (3100201, 250, 259, '61003_39', '61003_
 insert into clan_battle_odds_data values (3100201, 260, 269, '61003_41', '61003_42', '', '', '', '', '', '', '', '');
 insert into clan_battle_odds_data values (3100201, 270, 279, '61003_43', '61003_44', '', '', '', '', '', '', '', '');
 insert into clan_battle_odds_data values (3100201, 280, 289, '61003_45', '61003_46', '', '', '', '', '', '', '', '');
-insert into clan_battle_odds_data values (3100201, 290, -1, '61003_47', '61003_48', '', '', '', '', '', '', '', '');
+insert into clan_battle_odds_data values (3100201, 290, 299, '61003_47', '61003_48', '', '', '', '', '', '', '', '');
+insert into clan_battle_odds_data values (3100201, 300, -1, '61003_49', '61003_50', '', '', '', '', '', '', '', '');
