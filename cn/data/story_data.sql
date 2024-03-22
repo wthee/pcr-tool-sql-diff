@@ -242,3 +242,4 @@ insert into story_data values (4006, 4, 0, '机械莉玛来袭！', 0, 1, '2021/
 insert into story_data values (4007, 4, 0, '兰德索尔之战', 0, 1, '2022/04/01 0:00:00', '2099/12/31 23:59:59', 6, 0, 503411);
 insert into story_data values (9001, 9, 0, '王都终末决战', 0, 0, '2021/12/22 15:00:00', '2099/12/31 23:59:59', 6, 0, 40211);
 insert into story_data values (9002, 4, 0, '3rd Anniversary', 0, 0, '2023/04/01 5:00:00', '2099/12/31 23:59:59', 6, 0, 40211);
+insert into story_data values (9004, 4, 0, '4th Anniversary', 0, 0, '2024/04/01 5:00:00', '2099/12/31 23:59:59', 6, 0, 40211);
