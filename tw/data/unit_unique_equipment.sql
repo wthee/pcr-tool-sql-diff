@@ -208,3 +208,5 @@ insert into unit_unique_equipment values (106001, 2, 130602);
 insert into unit_unique_equipment values (108101, 2, 130812);
 insert into unit_unique_equipment values (108201, 2, 130822);
 insert into unit_unique_equipment values (108301, 2, 130832);
+insert into unit_unique_equipment values (103301, 2, 130332);
+insert into unit_unique_equipment values (105801, 2, 130582);
