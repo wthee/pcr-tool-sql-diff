@@ -110,3 +110,11 @@ insert into v1_e31a17ad037a3f8144ca06a56d5208257df02229d5d6a01dbb885d6daa386069 
 insert into v1_e31a17ad037a3f8144ca06a56d5208257df02229d5d6a01dbb885d6daa386069 values (20045103, 20045, '塔帕斯海灘 周邊', 201, 'bgm_M543', 'bgm_M543', 1, 3, 0, 0, 0, '0', '0', 0);
 insert into v1_e31a17ad037a3f8144ca06a56d5208257df02229d5d6a01dbb885d6daa386069 values (20045104, 20045, '加托羅斯山', 201, 'bgm_M543', 'bgm_M543', 1, 4, 0, 0, 0, '0', '0', 0);
 insert into v1_e31a17ad037a3f8144ca06a56d5208257df02229d5d6a01dbb885d6daa386069 values (20045201, 20045, '加托羅斯山', 201, 'bgm_M543', 'bgm_M543', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into v1_e31a17ad037a3f8144ca06a56d5208257df02229d5d6a01dbb885d6daa386069 values (20046101, 20046, '王城蘭德索爾', 201, 'bgm_M552', 'bgm_M552_03', 1, 1, 0, 0, 0, '0', '0', 0);
+insert into v1_e31a17ad037a3f8144ca06a56d5208257df02229d5d6a01dbb885d6daa386069 values (20046102, 20046, '蘭德索爾近郊', 201, 'bgm_M552', 'bgm_M552_03', 1, 2, 0, 0, 0, '0', '0', 0);
+insert into v1_e31a17ad037a3f8144ca06a56d5208257df02229d5d6a01dbb885d6daa386069 values (20046103, 20046, '伊麗絲樹海', 201, 'bgm_M552', 'bgm_M552_03', 1, 3, 0, 0, 0, '0', '0', 0);
+insert into v1_e31a17ad037a3f8144ca06a56d5208257df02229d5d6a01dbb885d6daa386069 values (20046104, 20046, '佛洛拉湖畔', 201, 'bgm_M552', 'bgm_M552_03', 1, 4, 0, 0, 0, '0', '0', 0);
+insert into v1_e31a17ad037a3f8144ca06a56d5208257df02229d5d6a01dbb885d6daa386069 values (20046201, 20046, '佛洛拉湖畔', 201, 'bgm_M552', 'bgm_M552_03', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into v1_e31a17ad037a3f8144ca06a56d5208257df02229d5d6a01dbb885d6daa386069 values (20047101, 20047, '王城蘭德索爾', 201, 'bgm_M553', 'bgm_M553', 1, 1, 40, 0, 0, '0', '0', 0);
+insert into v1_e31a17ad037a3f8144ca06a56d5208257df02229d5d6a01dbb885d6daa386069 values (20047102, 20047, '世界之間的夾縫', 201, 'bgm_M553', 'bgm_M553', 1, 2, 0, 0, 0, '0', '0', 0);
+insert into v1_e31a17ad037a3f8144ca06a56d5208257df02229d5d6a01dbb885d6daa386069 values (20047201, 20047, '世界之間的夾縫', 201, 'bgm_M553', 'bgm_M553', 1, 0, 0, 0, 0, '0', '0', 0);
