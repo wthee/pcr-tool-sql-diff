@@ -479,6 +479,9 @@ insert into enemy_m_parts values (660031301, '被操控的雪人 VERY HARD', 660
 insert into enemy_m_parts values (660037101, '爆裂‧時間儀 NORMAL', 660037102, 660037103, 660037104, 660037105, 0);
 insert into enemy_m_parts values (660037201, '爆裂‧時間儀 HARD', 660037202, 660037203, 660037204, 660037205, 0);
 insert into enemy_m_parts values (660037301, '爆裂‧時間儀 VERY HARD', 660037302, 660037303, 660037304, 660037305, 0);
+insert into enemy_m_parts values (660047101, '超載力量', 660047102, 660047103, 0, 0, 0);
+insert into enemy_m_parts values (660047201, '超載力量', 660047202, 660047203, 0, 0, 0);
+insert into enemy_m_parts values (660047301, '超載力量', 660047302, 660047303, 0, 0, 0);
 insert into enemy_m_parts values (701000401, '石像鬼‧炸裂', 701000402, 701000403, 701000404, 0, 0);
 insert into enemy_m_parts values (701000405, '石像鬼‧炸裂', 701000406, 701000407, 701000408, 0, 0);
 insert into enemy_m_parts values (701000409, '石像鬼‧炸裂', 701000410, 701000411, 701000412, 0, 0);
