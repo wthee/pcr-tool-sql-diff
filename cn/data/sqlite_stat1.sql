@@ -93,7 +93,7 @@ insert into sqlite_stat1 values ('dungeon_special_enemy_setting', 'sqlite_autoin
 insert into sqlite_stat1 values ('album_production_list', 'album_production_list_0_unit_id', '1767 10');
 insert into sqlite_stat1 values ('still', 'still_0_still_group_id', '1226 5');
 insert into sqlite_stat1 values ('still', 'still_0_story_id', '1226 2');
-insert into sqlite_stat1 values ('special_story_banner', 'special_story_banner_0_story_group_id', '1 1');
+insert into sqlite_stat1 values ('special_story_banner', 'special_story_banner_0_story_group_id', '2 1');
 insert into sqlite_stat1 values ('seasonpass_mission_reward_data', 'seasonpass_mission_reward_data_0_mission_reward_id', '18 2');
 insert into sqlite_stat1 values ('shiori_boss_condition', None, '81');
 insert into sqlite_stat1 values ('special_still', None, '2');
