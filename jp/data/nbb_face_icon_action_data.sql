@@ -1,1 +1,16 @@
 CREATE TABLE 'nbb_face_icon_action_data' ('id' INTEGER NOT NULL, 'action_type' INTEGER NOT NULL, 'action_param' INTEGER NOT NULL, 'face_icon_type' INTEGER NOT NULL, 'text_1' TEXT NOT NULL, 'text_2' TEXT NOT NULL, 'voice_cue_1' TEXT NOT NULL, 'voice_cue_2' TEXT NOT NULL, 'play_time' INTEGER NOT NULL, 'priority' INTEGER NOT NULL, PRIMARY KEY('id'));
+insert into nbb_face_icon_action_data values (1, 2, 1000, 2, '訓練はまだ\\nここからですわ', '調子が上がって\\nきたなっ', 'vo_minigame_1013_icon_1_002_001', 'vo_minigame_1013_icon_2_002_001', 3000, 2);
+insert into nbb_face_icon_action_data values (2, 2, 5000, 2, 'クスクス、悪くない\\n流れですわね', 'ほらほら、\\nまだいけるだろ？', 'vo_minigame_1013_icon_1_003_001', 'vo_minigame_1013_icon_2_003_001', 3000, 2);
+insert into nbb_face_icon_action_data values (3, 2, 10000, 3, 'すばらしい\\n記録ですわ', 'へへっ、おまえら\\nやるじゃねえか！', 'vo_minigame_1013_icon_1_004_001', 'vo_minigame_1013_icon_2_004_001', 3000, 2);
+insert into nbb_face_icon_action_data values (4, 3, 10000, 3, '乗りに乗って\\nいますわね', 'あたしたちはまだ\\n止まらねえぜ！', 'vo_minigame_1013_icon_1_005_001', 'vo_minigame_1013_icon_2_005_001', 3000, 2);
+insert into nbb_face_icon_action_data values (5, 3, 10000, 3, 'まだまだ行きます\\nついてきなさい', '見てろよ！\\nマコト班の快進撃だ！', 'vo_minigame_1013_icon_1_005_002', 'vo_minigame_1013_icon_2_005_002', 3000, 2);
+insert into nbb_face_icon_action_data values (6, 3, 10000, 3, 'エリコ班の\\n本領発揮ですわ！', 'うおぉぉっ！\\n絶好調だぜ！', 'vo_minigame_1013_icon_1_005_003', 'vo_minigame_1013_icon_2_005_003', 3000, 2);
+insert into nbb_face_icon_action_data values (7, 4, 0, 3, 'ここからは\\n前人未到の領域です！', 'どこまで行けるか\\n楽しみだなっ！', 'vo_minigame_1013_icon_1_006_001', 'vo_minigame_1013_icon_2_006_001', 3000, 2);
+insert into nbb_face_icon_action_data values (8, 5, 1, 4, '厄介でしたわ…', 'まだ諦めんなよっ', 'vo_minigame_1013_icon_1_007_001', 'vo_minigame_1013_icon_2_007_001', 1000, 3);
+insert into nbb_face_icon_action_data values (9, 5, 1, 4, '油断大敵です', '冷やっとしたぜ…！', 'vo_minigame_1013_icon_1_007_002', 'vo_minigame_1013_icon_2_007_002', 1000, 3);
+insert into nbb_face_icon_action_data values (10, 5, 1, 4, '忌々しいっ…', '弱音を吐くなっ', 'vo_minigame_1013_icon_1_007_003', 'vo_minigame_1013_icon_2_007_003', 1000, 3);
+insert into nbb_face_icon_action_data values (11, 6, 99, 3, '大所帯ですわね', 'マコト班集合！', 'vo_minigame_1013_icon_1_008_001', 'vo_minigame_1013_icon_2_008_001', 1500, 4);
+insert into nbb_face_icon_action_data values (12, 6, 99, 3, 'エリコ班へようこそ', '連携してくぞ！', 'vo_minigame_1013_icon_1_008_002', 'vo_minigame_1013_icon_2_008_002', 1500, 4);
+insert into nbb_face_icon_action_data values (13, 8, 0, 6, 'ナナカちゃんに\\nお任せあれ', 'みんなに力を！', 'vo_minigame_1013_icon_1_020_001', 'vo_minigame_1013_icon_2_020_001', 3000, 1);
+insert into nbb_face_icon_action_data values (14, 9, 0, 7, 'はっはっは！\\n任せろ！', '任せてくれたまえ', 'vo_minigame_1013_icon_1_022_001', 'vo_minigame_1013_icon_2_022_001', 3000, 1);
+insert into nbb_face_icon_action_data values (15, 10, 0, 8, 'どんどんいくわよ', 'ほな、いきまひょか', 'vo_minigame_1013_icon_1_023_001', 'vo_minigame_1013_icon_2_023_001', 3000, 1);

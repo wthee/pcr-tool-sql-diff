@@ -25,3 +25,4 @@ insert into travel_ex_event_data values (8000022, '勝利を信じて！', 23);
 insert into travel_ex_event_data values (8000023, '突撃！捕獲！？密林メイデン！！', 24);
 insert into travel_ex_event_data values (8000024, '白い狐は豪奢な都を見下ろす', 25);
 insert into travel_ex_event_data values (8000025, 'お城に採用いたしましょう♪', 26);
+insert into travel_ex_event_data values (8000026, '異世界美人三花仙～おまけ付き～', 27);
