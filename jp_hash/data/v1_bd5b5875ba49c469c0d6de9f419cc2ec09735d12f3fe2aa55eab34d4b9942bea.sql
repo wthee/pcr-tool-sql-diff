@@ -25,4 +25,7 @@ insert into v1_bd5b5875ba49c469c0d6de9f419cc2ec09735d12f3fe2aa55eab34d4b9942bea 
 insert into v1_bd5b5875ba49c469c0d6de9f419cc2ec09735d12f3fe2aa55eab34d4b9942bea values (5126711, 1012, '効果エグすぎてワロ');
 insert into v1_bd5b5875ba49c469c0d6de9f419cc2ec09735d12f3fe2aa55eab34d4b9942bea values (5126712, 1012, '好きこそものの上手なれ？');
 insert into v1_bd5b5875ba49c469c0d6de9f419cc2ec09735d12f3fe2aa55eab34d4b9942bea values (5126713, 1012, '解けない不思議');
+insert into v1_bd5b5875ba49c469c0d6de9f419cc2ec09735d12f3fe2aa55eab34d4b9942bea values (5142700, 1013, 'より高みを目指して');
+insert into v1_bd5b5875ba49c469c0d6de9f419cc2ec09735d12f3fe2aa55eab34d4b9942bea values (5142701, 1013, '限界へのチャレンジ');
+insert into v1_bd5b5875ba49c469c0d6de9f419cc2ec09735d12f3fe2aa55eab34d4b9942bea values (5142702, 1013, '素晴らしき友情');
 insert into v1_bd5b5875ba49c469c0d6de9f419cc2ec09735d12f3fe2aa55eab34d4b9942bea values (9004201, 1009, '正解目指して一致団結！');
