@@ -378,3 +378,11 @@ insert into v1_2ab3e2b4cd8a5e9bfe4df76004fe7b69ad2dfa3b277cb94f6f2341d68bb9a6ff 
 insert into v1_2ab3e2b4cd8a5e9bfe4df76004fe7b69ad2dfa3b277cb94f6f2341d68bb9a6ff values (610131501, 10131, 1, 0, -110, 0);
 insert into v1_2ab3e2b4cd8a5e9bfe4df76004fe7b69ad2dfa3b277cb94f6f2341d68bb9a6ff values (610131502, 10131, 1, 0, 0, 0);
 insert into v1_2ab3e2b4cd8a5e9bfe4df76004fe7b69ad2dfa3b277cb94f6f2341d68bb9a6ff values (610131503, 10131, 1, 0, -200, 0);
+insert into v1_2ab3e2b4cd8a5e9bfe4df76004fe7b69ad2dfa3b277cb94f6f2341d68bb9a6ff values (610132601, 10132, 1, 1, -220, 0);
+insert into v1_2ab3e2b4cd8a5e9bfe4df76004fe7b69ad2dfa3b277cb94f6f2341d68bb9a6ff values (610132602, 10132, 1, 1, -140, 0);
+insert into v1_2ab3e2b4cd8a5e9bfe4df76004fe7b69ad2dfa3b277cb94f6f2341d68bb9a6ff values (610132603, 10132, 1, 1, -60, 0);
+insert into v1_2ab3e2b4cd8a5e9bfe4df76004fe7b69ad2dfa3b277cb94f6f2341d68bb9a6ff values (610132604, 10132, 1, 1, 0, 0);
+insert into v1_2ab3e2b4cd8a5e9bfe4df76004fe7b69ad2dfa3b277cb94f6f2341d68bb9a6ff values (610132701, 10132, 1, 1, -220, 0);
+insert into v1_2ab3e2b4cd8a5e9bfe4df76004fe7b69ad2dfa3b277cb94f6f2341d68bb9a6ff values (610132702, 10132, 1, 1, -140, 0);
+insert into v1_2ab3e2b4cd8a5e9bfe4df76004fe7b69ad2dfa3b277cb94f6f2341d68bb9a6ff values (610132703, 10132, 1, 1, -60, 0);
+insert into v1_2ab3e2b4cd8a5e9bfe4df76004fe7b69ad2dfa3b277cb94f6f2341d68bb9a6ff values (610132704, 10132, 1, 1, 0, 0);
