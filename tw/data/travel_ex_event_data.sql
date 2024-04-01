@@ -23,3 +23,4 @@ insert into travel_ex_event_data values (8000020, '導遊們的攝影俱樂部',
 insert into travel_ex_event_data values (8000021, '新的朋友們', 22);
 insert into travel_ex_event_data values (8000022, '相信勝利！', 23);
 insert into travel_ex_event_data values (8000023, '突擊！捕獲！？密林少女！！', 24);
+insert into travel_ex_event_data values (8000024, '白狐俯視奢華的城市', 25);
