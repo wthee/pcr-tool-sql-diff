@@ -1,6 +1,0 @@
-CREATE TABLE 'v1_1b3b13fc5a23d0789db495c203e06bd87268bc58afb4ac4148b90733d6ed7146' ('47d5e3fa849f61cfb67159eb383d983895528de709d786f9dcc56c1d0410af98' INTEGER NOT NULL, '4477d49c27e95c2a992f2520259914437acdb06722197bcfec7364ac0c2168b2' TEXT NOT NULL, PRIMARY KEY('47d5e3fa849f61cfb67159eb383d983895528de709d786f9dcc56c1d0410af98'));
-insert into v1_1b3b13fc5a23d0789db495c203e06bd87268bc58afb4ac4148b90733d6ed7146 values (1, '123456789');
-insert into v1_1b3b13fc5a23d0789db495c203e06bd87268bc58afb4ac4148b90733d6ed7146 values (2, 'ABCDEFGHIJKLMNOPQRSTUVWXYZ');
-insert into v1_1b3b13fc5a23d0789db495c203e06bd87268bc58afb4ac4148b90733d6ed7146 values (3, 'abcdefghijklmnopqrstuvwxyz');
-insert into v1_1b3b13fc5a23d0789db495c203e06bd87268bc58afb4ac4148b90733d6ed7146 values (4, 'あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉゃゅょっ');
-insert into v1_1b3b13fc5a23d0789db495c203e06bd87268bc58afb4ac4148b90733d6ed7146 values (5, 'アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォャュョッ');

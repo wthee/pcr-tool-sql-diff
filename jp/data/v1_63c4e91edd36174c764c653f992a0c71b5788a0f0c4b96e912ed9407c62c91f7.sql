@@ -1,7 +1,0 @@
-CREATE TABLE 'v1_63c4e91edd36174c764c653f992a0c71b5788a0f0c4b96e912ed9407c62c91f7' ('65ab6a7d69f09c6228e2d5c029f38144ca81541aab9ea282e54af2c0ec667cc5' INTEGER NOT NULL, '718065a4eaa9330a49c5a56cdc72ae10274c57cc70df76b055e45125e7e6b9de' TEXT NOT NULL, PRIMARY KEY('65ab6a7d69f09c6228e2d5c029f38144ca81541aab9ea282e54af2c0ec667cc5'));
-insert into v1_63c4e91edd36174c764c653f992a0c71b5788a0f0c4b96e912ed9407c62c91f7 values (1, 'バトル・スポーツ');
-insert into v1_63c4e91edd36174c764c653f992a0c71b5788a0f0c4b96e912ed9407c62c91f7 values (2, 'ことば・物語');
-insert into v1_63c4e91edd36174c764c653f992a0c71b5788a0f0c4b96e912ed9407c62c91f7 values (3, 'カルチャー・雑学');
-insert into v1_63c4e91edd36174c764c653f992a0c71b5788a0f0c4b96e912ed9407c62c91f7 values (4, 'サイエンス・地理・数学');
-insert into v1_63c4e91edd36174c764c653f992a0c71b5788a0f0c4b96e912ed9407c62c91f7 values (5, 'グルメ・ライフ');
-insert into v1_63c4e91edd36174c764c653f992a0c71b5788a0f0c4b96e912ed9407c62c91f7 values (6, '人・生き物');
