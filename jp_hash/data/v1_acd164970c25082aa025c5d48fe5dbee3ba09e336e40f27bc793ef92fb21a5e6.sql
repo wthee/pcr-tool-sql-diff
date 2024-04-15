@@ -126,3 +126,5 @@ insert into v1_acd164970c25082aa025c5d48fe5dbee3ba09e336e40f27bc793ef92fb21a5e6 
 insert into v1_acd164970c25082aa025c5d48fe5dbee3ba09e336e40f27bc793ef92fb21a5e6 values (20049201, 20049, 'カジノホール', 201, 'bgm_M574', 'bgm_M574', 1, 0, 0, 0, 0, '0', '0', 0);
 insert into v1_acd164970c25082aa025c5d48fe5dbee3ba09e336e40f27bc793ef92fb21a5e6 values (20050101, 20050, '呪われた海賊島', 201, 'bgm_M582', 'bgm_M582', 1, 1, 0, 0, 0, '0', '0', 0);
 insert into v1_acd164970c25082aa025c5d48fe5dbee3ba09e336e40f27bc793ef92fb21a5e6 values (20050201, 20050, '呪われた海賊島', 201, 'bgm_M582', 'bgm_M582', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into v1_acd164970c25082aa025c5d48fe5dbee3ba09e336e40f27bc793ef92fb21a5e6 values (20051101, 20051, 'キャンピングフィールド', 201, 'bgm_M595', 'bgm_M595', 1, 1, 128, 0, 0, '0', '0', 0);
+insert into v1_acd164970c25082aa025c5d48fe5dbee3ba09e336e40f27bc793ef92fb21a5e6 values (20051201, 20051, 'キャンピングフィールド', 201, 'bgm_M595', 'bgm_M595', 1, 0, 0, 0, 0, '0', '0', 0);

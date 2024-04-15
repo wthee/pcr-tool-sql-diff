@@ -314,13 +314,13 @@ insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a 
 insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a values (313, 'アドベンチャー', 20.0, '', '2023-11-15 15:00:00', '', -1, 1000, 313, 'あどべんちゃー', '', '', '');
 insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a values (314, 'クライ・ベイビー・クリスマス\u3000誰が為の幸福なる日', 20.0, '', '2023-12-15 15:00:00', '', -1, 1000, 314, 'くらいべいびーくりすますたがためのこうふくなるひ', '', '', '');
 insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a values (315, 'バジリスク・アロス', 20.0, '', '2023-12-15 15:00:00', '', -1, 1000, 315, 'ばじりすくあろす', '', '', '');
-insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a values (316, 'Christmas Blessing', 20.0, '', '2023-12-15 15:00:00', '', -1, 1500, 316, 'くりすますぶれっしんぐ', '', '', '');
+insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a values (316, 'Christmas Blessing', 20.0, '', '2023-12-15 15:00:00', '', -1, 1500, 316, 'くりすますぶれっしんぐ', 'https://music.apple.com/jp/album/princess-connect-re-dive-priconne-character-song-38-ep/1737858842?app=itunes', '', 'A2004367403/');
 insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a values (317, 'アドベントカレンダー', 20.0, '', '2023-12-15 15:00:00', '', -1, 1000, 317, 'あどべんとかれんだー', '', '', '');
 insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a values (318, '業火燃え盛りし密林', 20.0, '', '2023-12-15 15:00:00', '', -1, 1000, 318, 'ごうかもえさかりしみつりん', '', '', '');
 insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a values (319, 'ジオ・ゲヘナの戦い', 20.0, '', '2023-12-15 15:00:00', '', -1, 1000, 319, 'じおげへなのたたかい', '', '', '');
 insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a values (320, '迎春ドリーマーズ！\u3000新年、あけましてお隕石（メテオ）！？', 20.0, '', '2024-01-15 15:00:00', '', -1, 1000, 320, 'げいしゅんどりーまーずしんねんあけましておめてお', '', '', '');
 insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a values (321, 'メテオ・イン・ドリーム', 20.0, '', '2024-01-15 15:00:00', '', -1, 1000, 321, 'めておいんどりーむ', '', '', '');
-insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a values (322, 'ミライノユメ', 20.0, '', '2024-01-15 15:00:00', '', -1, 1500, 322, 'みらいのゆめ', '', '', '');
+insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a values (322, 'ミライノユメ', 20.0, '', '2024-01-15 15:00:00', '', -1, 1500, 322, 'みらいのゆめ', 'https://music.apple.com/jp/album/princess-connect-re-dive-priconne-character-song-38-ep/1737858842?app=itunes', '', 'A2004367403/');
 insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a values (323, '初夢チャレンジ', 20.0, '', '2024-01-15 15:00:00', '', -1, 1000, 323, 'はつゆめちゃれんじ', '', '', '');
 insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a values (324, '灼けつく世界の強敵', 20.0, '', '2024-01-15 15:00:00', '', -1, 1000, 324, 'やけつくせかいのきょうてき', '', '', '');
 insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a values (325, '天才発明家の三女\u3000フブキ', 20.0, '', '2024-01-15 15:00:00', '', -1, 1000, 325, 'てんさいはつめいかのさんじょふぶき', '', '', '');
@@ -348,3 +348,10 @@ insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a 
 insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a values (347, '翠嵐の深域', 20.0, '', '2024-03-15 15:00:00', '', -1, 1000, 347, 'すいらんのしんいき', '', '', '');
 insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a values (348, '珀天の深域', 20.0, '', '2024-03-15 15:00:00', '', -1, 1000, 348, 'はくてんのしんいき', '', '', '');
 insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a values (349, '紫冥の深域', 20.0, '', '2024-03-15 15:00:00', '', -1, 1000, 349, 'しめいのしんいき', '', '', '');
+insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a values (350, 'クーリィ・フューリィ・ブートキャンプ\u3000鬼教官と鞭と…飴？', 20.0, '', '2024-04-15 15:00:00', '', -1, 1000, 350, 'くーりぃふゅーりぃぶーときゃんぷおにきょうかんとむちとあめ', '', '', '');
+insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a values (351, '剛雷獣・ライガホーン', 20.0, '', '2024-04-15 15:00:00', '', -1, 1000, 351, 'ごうらいじゅうらいがほーん', '', '', '');
+insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a values (352, 'Into The Trust', 20.0, '', '2024-04-15 15:00:00', '', -1, 1500, 352, 'いんとぅざとらすと', '', '', '');
+insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a values (353, 'エリコとマコトの行軍（マーチ）A-Go-Go！', 20.0, '', '2024-04-15 15:00:00', '', -1, 1000, 353, 'えりことまことのまーちあごーごー', '', '', '');
+insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a values (354, '新兵らよ、我に続け', 20.0, '', '2024-04-15 15:00:00', '', -1, 1000, 354, 'しんぺいらよわれにつづけ', '', '', '');
+insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a values (355, '決闘の舞台へ', 20.0, '', '2024-04-15 15:00:00', '', -1, 1000, 355, 'けっとうのぶたいへ', '', '', '');
+insert into v1_cbdfb31d3c65ee1ea9f1c49201b4cfec2aa6e3d891e7634587adc54e9af1027a values (356, 'バトルスタジアム、開幕！', 20.0, '', '2024-04-15 15:00:00', '', -1, 1000, 356, 'ばとるすたじあむかいまく', '', '', '');

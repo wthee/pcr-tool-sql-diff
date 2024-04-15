@@ -140,4 +140,5 @@ insert into v1_fdfdaf11b20d228b05d28965ca4df31b8a46145432a6c4b1a111b1fc2e39342e 
 insert into v1_fdfdaf11b20d228b05d28965ca4df31b8a46145432a6c4b1a111b1fc2e39342e values (10140, 10140, '真冬の真夏と聖なる学舎の異端児', 2, 61392, 1, 6);
 insert into v1_fdfdaf11b20d228b05d28965ca4df31b8a46145432a6c4b1a111b1fc2e39342e values (10141, 10141, '猫と駄菓子の喫茶店\u3000カフェ・ナッシュカッツェにようこそ', 2, 61402, 1, 6);
 insert into v1_fdfdaf11b20d228b05d28965ca4df31b8a46145432a6c4b1a111b1fc2e39342e values (10142, 10142, 'クーリィ・フューリィ・ブートキャンプ\u3000鬼教官と鞭と…飴？', 2, 61412, 1, 6);
+insert into v1_fdfdaf11b20d228b05d28965ca4df31b8a46145432a6c4b1a111b1fc2e39342e values (10143, 10143, 'Dears\u3000おかえりとただいまの約束', 2, 61422, 1, 6);
 insert into v1_fdfdaf11b20d228b05d28965ca4df31b8a46145432a6c4b1a111b1fc2e39342e values (19003, 10003, 'ヴァンパイアハンターwithイリヤ討伐証交換', 2, 60022, 1, 5);
