@@ -3551,6 +3551,11 @@ insert into skip_monster_data values (11067002, 11067, '渦炎密林 67-2', 1016
 insert into skip_monster_data values (11067003, 11067, '渦炎密林 67-3', 101670301, 103361);
 insert into skip_monster_data values (11067004, 11067, '渦炎密林 67-4', 101670401, 103331);
 insert into skip_monster_data values (11067005, 11067, '渦炎密林 67-5', 101670501, 103361);
+insert into skip_monster_data values (11067006, 11067, '渦炎密林 67-6', 101670601, 103331);
+insert into skip_monster_data values (11067007, 11067, '渦炎密林 67-7', 101670701, 103331);
+insert into skip_monster_data values (11067008, 11067, '渦炎密林 67-8', 101670801, 103361);
+insert into skip_monster_data values (11067009, 11067, '渦炎密林 67-9', 101670901, 103331);
+insert into skip_monster_data values (11067010, 11067, '渦炎密林 67-10', 101671001, 103351);
 insert into skip_monster_data values (12001001, 12001, '朱諾平原 1-1（Hard）', 101010101, 100911);
 insert into skip_monster_data values (12001002, 12001, '朱諾平原 1-2（Hard）', 101010101, 100911);
 insert into skip_monster_data values (12001003, 12001, '朱諾平原 1-3（Hard）', 101010101, 100361);
@@ -3737,6 +3742,8 @@ insert into skip_monster_data values (12065003, 12065, '芭菲之城城鎮 65-3'
 insert into skip_monster_data values (12066001, 12066, '拉摩利爾平原 66-1', 102660101, 103193);
 insert into skip_monster_data values (12066002, 12066, '拉摩利爾平原 66-2', 102660201, 103193);
 insert into skip_monster_data values (12066003, 12066, '拉摩利爾平原 66-3', 102660301, 103193);
+insert into skip_monster_data values (12067001, 12067, '渦炎密林 67-1', 102670101, 103341);
+insert into skip_monster_data values (12067002, 12067, '渦炎密林 67-2', 102670201, 103341);
 insert into skip_monster_data values (13018001, 13018, '法艾頓草原‧北部 18-1', 103180101, 101401);
 insert into skip_monster_data values (13018002, 13018, '法艾頓草原‧北部 18-2', 103180204, 100691);
 insert into skip_monster_data values (13018003, 13018, '法艾頓草原‧北部 18-3', 103180301, 101431);

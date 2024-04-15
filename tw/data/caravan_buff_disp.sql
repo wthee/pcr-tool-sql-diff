@@ -23,3 +23,4 @@ insert into caravan_buff_disp values (21, 1, 52015, 1, 1, '【料理】骰子增
 insert into caravan_buff_disp values (22, 1, 52015, 1, 1, '【料理】下次移動時，將多移動1格。', 0, 0);
 insert into caravan_buff_disp values (23, 1, 52016, 1, 1, '【料理】投擲的骰子一定會丟出「6」。', 0, 0);
 insert into caravan_buff_disp values (24, 1, 52017, 1, 9, '【料理】變得無法食用移動系的料理。', 0, 0);
+insert into caravan_buff_disp values (25, 1, 52018, 1, 1, '【料理】投擲的骰子一定會丟出「3」。', 0, 0);
