@@ -26,8 +26,14 @@ insert into v1_744e2b467ef8a08bf1732173c47cfd65000c8ada3e57a36da9d1a0cad747ed10 
 insert into v1_744e2b467ef8a08bf1732173c47cfd65000c8ada3e57a36da9d1a0cad747ed10 values (43102, 4, 3, 1, 'vo_caravan', 'vo_caravan_106001_dish_002');
 insert into v1_744e2b467ef8a08bf1732173c47cfd65000c8ada3e57a36da9d1a0cad747ed10 values (45101, 4, 100, 1, 'vo_caravan', 'vo_caravan_onigiri_dish_001');
 insert into v1_744e2b467ef8a08bf1732173c47cfd65000c8ada3e57a36da9d1a0cad747ed10 values (61101, 6, 0, 1, 'vo_caravan', 'vo_caravan_105801_goal_001');
+insert into v1_744e2b467ef8a08bf1732173c47cfd65000c8ada3e57a36da9d1a0cad747ed10 values (61201, 61, 0, 1, 'vo_caravan', 'vo_caravan_105801_win_001');
+insert into v1_744e2b467ef8a08bf1732173c47cfd65000c8ada3e57a36da9d1a0cad747ed10 values (61301, 62, 0, 1, 'vo_caravan', 'vo_caravan_105801_lose_001');
 insert into v1_744e2b467ef8a08bf1732173c47cfd65000c8ada3e57a36da9d1a0cad747ed10 values (62101, 6, 0, 1, 'vo_caravan', 'vo_caravan_105901_goal_001');
+insert into v1_744e2b467ef8a08bf1732173c47cfd65000c8ada3e57a36da9d1a0cad747ed10 values (62201, 61, 0, 1, 'vo_caravan', 'vo_caravan_105901_win_001');
+insert into v1_744e2b467ef8a08bf1732173c47cfd65000c8ada3e57a36da9d1a0cad747ed10 values (62301, 62, 0, 1, 'vo_caravan', 'vo_caravan_105901_lose_001');
 insert into v1_744e2b467ef8a08bf1732173c47cfd65000c8ada3e57a36da9d1a0cad747ed10 values (63101, 6, 0, 1, 'vo_caravan', 'vo_caravan_106001_goal_001');
+insert into v1_744e2b467ef8a08bf1732173c47cfd65000c8ada3e57a36da9d1a0cad747ed10 values (63201, 61, 0, 1, 'vo_caravan', 'vo_caravan_106001_win_001');
+insert into v1_744e2b467ef8a08bf1732173c47cfd65000c8ada3e57a36da9d1a0cad747ed10 values (63301, 62, 0, 1, 'vo_caravan', 'vo_caravan_106001_lose_001');
 insert into v1_744e2b467ef8a08bf1732173c47cfd65000c8ada3e57a36da9d1a0cad747ed10 values (64101, 6, 0, 1, 'vo_caravan', 'vo_caravan_118501_goal_001');
 insert into v1_744e2b467ef8a08bf1732173c47cfd65000c8ada3e57a36da9d1a0cad747ed10 values (71101, 7, 0, 1, 'vo_caravan', 'vo_caravan_105801_appraise_001');
 insert into v1_744e2b467ef8a08bf1732173c47cfd65000c8ada3e57a36da9d1a0cad747ed10 values (72101, 7, 0, 1, 'vo_caravan', 'vo_caravan_105901_appraise_001');
@@ -35,3 +41,9 @@ insert into v1_744e2b467ef8a08bf1732173c47cfd65000c8ada3e57a36da9d1a0cad747ed10 
 insert into v1_744e2b467ef8a08bf1732173c47cfd65000c8ada3e57a36da9d1a0cad747ed10 values (81101, 8, 0, 1, 'vo_caravan', 'vo_caravan_105801_result_001');
 insert into v1_744e2b467ef8a08bf1732173c47cfd65000c8ada3e57a36da9d1a0cad747ed10 values (82101, 8, 0, 1, 'vo_caravan', 'vo_caravan_105901_result_001');
 insert into v1_744e2b467ef8a08bf1732173c47cfd65000c8ada3e57a36da9d1a0cad747ed10 values (83101, 8, 0, 1, 'vo_caravan', 'vo_caravan_106001_result_001');
+insert into v1_744e2b467ef8a08bf1732173c47cfd65000c8ada3e57a36da9d1a0cad747ed10 values (211101, 2, 11, 1, 'vo_caravan', 'vo_caravan_319700_dice_001');
+insert into v1_744e2b467ef8a08bf1732173c47cfd65000c8ada3e57a36da9d1a0cad747ed10 values (211102, 2, 11, 1, 'vo_caravan', 'vo_caravan_319700_dice_002');
+insert into v1_744e2b467ef8a08bf1732173c47cfd65000c8ada3e57a36da9d1a0cad747ed10 values (212101, 2, 12, 1, 'vo_caravan', 'vo_caravan_319800_dice_001');
+insert into v1_744e2b467ef8a08bf1732173c47cfd65000c8ada3e57a36da9d1a0cad747ed10 values (212102, 2, 12, 1, 'vo_caravan', 'vo_caravan_319800_dice_002');
+insert into v1_744e2b467ef8a08bf1732173c47cfd65000c8ada3e57a36da9d1a0cad747ed10 values (213101, 2, 13, 1, 'vo_caravan', 'vo_caravan_319900_dice_001');
+insert into v1_744e2b467ef8a08bf1732173c47cfd65000c8ada3e57a36da9d1a0cad747ed10 values (213102, 2, 13, 1, 'vo_caravan', 'vo_caravan_319900_dice_002');

@@ -6,3 +6,6 @@ insert into v1_006a5e4e01ecbfa4eeaa364e460618cf69213347d5bbd8a1b850e7e51f25a17a 
 insert into v1_006a5e4e01ecbfa4eeaa364e460618cf69213347d5bbd8a1b850e7e51f25a17a values (5, '里程+100%', 4, 100, 0, 1, 2);
 insert into v1_006a5e4e01ecbfa4eeaa364e460618cf69213347d5bbd8a1b850e7e51f25a17a values (6, '小遊戲里程+100%', 5, 100, 0, 1, 2);
 insert into v1_006a5e4e01ecbfa4eeaa364e460618cf69213347d5bbd8a1b850e7e51f25a17a values (7, '商店打折活動', 6, 300, 0, 1, 3);
+insert into v1_006a5e4e01ecbfa4eeaa364e460618cf69213347d5bbd8a1b850e7e51f25a17a values (98001, '跳過計算回合數1', 3, 0, 2, 0, 3);
+insert into v1_006a5e4e01ecbfa4eeaa364e460618cf69213347d5bbd8a1b850e7e51f25a17a values (98011, '跳過計算回合數1', 3, 0, 1, 0, 3);
+insert into v1_006a5e4e01ecbfa4eeaa364e460618cf69213347d5bbd8a1b850e7e51f25a17a values (98012, '跳過計算回合數2', 3, 0, 2, 0, 3);
