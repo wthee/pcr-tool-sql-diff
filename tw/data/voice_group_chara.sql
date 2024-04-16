@@ -76,7 +76,7 @@ insert into voice_group_chara values (111001001, '聖德蕾莎女子學院（好
 insert into voice_group_chara values (112401001, 'new generations（卯月）', 112401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (112501001, 'new generations（凜）', 112501, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (112601001, 'new generations（未央）', 112601, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (118001001, '克蕾琪塔', 118001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (118001001, '克蕾琪塔', 118001, 128001, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (118101001, '憤怒軍團（蘭法）', 118101, 126901, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (118201001, '憤怒軍團（美空）', 118201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (118501001, '花凜', 118501, 125701, 0, 0, 0, 0, 0, 0, 0, 0);

@@ -71,3 +71,4 @@ insert into hatsune_unlock_unit_condition values (71, 122401, 10123, 71123032, '
 insert into hatsune_unlock_unit_condition values (72, 127001, 10124, 71124032, '討伐NORMAL BOSS解放！', '[3C404E]進行活動、挑戰BOSS、\\n討伐NORMAL BOSS可解放限定角色！！[-]', '[3C404E]討伐NORMAL BOSS解放！');
 insert into hatsune_unlock_unit_condition values (73, 122801, 10125, 71125032, '討伐NORMAL BOSS解放！', '[3C404E]進行活動、挑戰BOSS、\\n討伐NORMAL BOSS可解放限定角色！！[-]', '[3C404E]討伐NORMAL BOSS解放！');
 insert into hatsune_unlock_unit_condition values (74, 123501, 10129, 71129032, '討伐NORMAL BOSS解放！', '[3C404E]進行活動、挑戰BOSS、\\n討伐NORMAL BOSS可解放限定角色！！[-]', '[3C404E]討伐NORMAL BOSS解放！');
+insert into hatsune_unlock_unit_condition values (76, 124101, 10133, 71133032, '討伐NORMAL BOSS解放！', '[3C404E]進行活動、挑戰BOSS、\\n討伐NORMAL BOSS可解放限定角色！！[-]', '[3C404E]討伐NORMAL BOSS解放！');
