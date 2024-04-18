@@ -12,3 +12,14 @@ insert into growth_parameter values (10, 1, 1, 0, 215, 215, 23, -1, -1, -1, -1, 
 insert into growth_parameter values (11, 1, 0, 0, 215, 215, 23, -1, -1, -1, -1, -1, -1, 0);
 insert into growth_parameter values (12, 1, 1, 0, 215, 215, 23, -1, -1, -1, -1, -1, -1, 0);
 insert into growth_parameter values (13, 1, 1, 0, 215, 215, 23, -1, -1, -1, -1, -1, -1, 0);
+insert into growth_parameter values (14, 1, 1, 0, 215, 215, 23, -1, -1, -1, -1, -1, -1, 0);
+insert into growth_parameter values (15, 1, 1, 0, 215, 215, 23, -1, -1, -1, -1, -1, -1, 0);
+insert into growth_parameter values (16, 1, 1, 0, 215, 215, 23, -1, -1, -1, -1, -1, -1, 0);
+insert into growth_parameter values (17, 1, 1, 0, 250, 250, 26, -1, -1, -1, -1, -1, -1, 0);
+insert into growth_parameter values (18, 1, 0, 0, 250, 250, 26, -1, -1, -1, -1, -1, -1, 0);
+insert into growth_parameter values (20, 1, 1, 0, 250, 250, 26, -1, -1, -1, -1, -1, -1, 0);
+insert into growth_parameter values (21, 1, 1, 0, 250, 250, 26, -1, -1, -1, -1, -1, -1, 0);
+insert into growth_parameter values (22, 1, 1, 0, 250, 250, 26, -1, -1, -1, -1, -1, -1, 0);
+insert into growth_parameter values (23, 1, 0, 0, 260, 260, 28, -1, -1, -1, -1, -1, -1, 0);
+insert into growth_parameter values (24, 1, 1, 0, 250, 250, 26, -1, -1, -1, -1, -1, -1, 0);
+insert into growth_parameter values (25, 1, 1, 0, 250, 250, 26, -1, -1, -1, -1, -1, -1, 0);

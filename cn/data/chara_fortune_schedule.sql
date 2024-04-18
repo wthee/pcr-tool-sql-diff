@@ -2,6 +2,7 @@ CREATE TABLE 'chara_fortune_schedule' ('fortune_id' INTEGER NOT NULL, 'name' TEX
 insert into chara_fortune_schedule values (10000, '第1届 兰德索尔杯', '2020/07/11 5:00', '2020/07/25 4:59');
 insert into chara_fortune_schedule values (10003, '2周年纪念 兰德索尔杯', '2022/04/17 5:00', '2022/05/02 4:59');
 insert into chara_fortune_schedule values (10005, '3周年纪念 兰德索尔杯', '2023/04/17 5:00:00', '2023/5/1 4:59:59');
+insert into chara_fortune_schedule values (10007, '4周年纪念 兰德索尔杯', '2024/04/17 5:00:00', '2024/5/1 4:59:59');
 insert into chara_fortune_schedule values (18001, '第1.5届 兰德索尔杯', '2021/02/11 5:00', '2021/02/18 4:59');
 insert into chara_fortune_schedule values (18002, '1周年纪念 兰德索尔杯', '2021/04/18 5:00', '2021/05/02 4:59');
 insert into chara_fortune_schedule values (18003, '端午节 兰德索尔杯', '2021/06/11 5:00', '2021/06/21 4:59');

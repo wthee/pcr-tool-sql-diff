@@ -1,0 +1,16 @@
+CREATE TABLE 'lsv_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'time_condition' TEXT NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'read_event_story_id' INTEGER NOT NULL, 'read_condition' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+insert into lsv_story_data values (1009801, 10098, 'みゅ～ちゃんすくすく日記その1', '2022/07/31 12:00:00', 10125103, 0, 0);
+insert into lsv_story_data values (1009802, 10098, 'みゅ～ちゃんすくすく日記その2', '2022/07/31 12:00:00', 0, 5098001, 1009801);
+insert into lsv_story_data values (1009803, 10098, 'みゅ～ちゃんすくすく日記その3', '2022/08/01 5:00:00', 0, 5098002, 1009802);
+insert into lsv_story_data values (1009804, 10098, 'みゅ～ちゃんすくすく日記その4', '2022/08/02 5:00:00', 0, 5098002, 1009803);
+insert into lsv_story_data values (1009805, 10098, 'みゅ～ちゃんすくすく日記その5', '2022/08/03 5:00:00', 0, 5098002, 1009804);
+insert into lsv_story_data values (1009806, 10098, 'みゅ～ちゃんすくすく日記その6', '2022/08/04 5:00:00', 0, 5098002, 1009805);
+insert into lsv_story_data values (1009807, 10098, 'みゅ～ちゃんすくすく日記その7', '2022/08/05 5:00:00', 0, 5098003, 1009806);
+insert into lsv_story_data values (1009808, 10098, 'みゅ～ちゃんすくすく日記その8', '2022/08/06 5:00:00', 0, 5098003, 1009807);
+insert into lsv_story_data values (1009809, 10098, 'みゅ～ちゃんすくすく日記その9', '2022/08/07 5:00:00', 0, 5098004, 1009808);
+insert into lsv_story_data values (1009810, 10098, 'みゅ～ちゃんすくすく日記その10', '2022/08/08 5:00:00', 0, 5098005, 1009809);
+insert into lsv_story_data values (1009811, 10098, 'みゅ～ちゃんすくすく日記その11', '2022/08/09 5:00:00', 0, 5098005, 1009810);
+insert into lsv_story_data values (1009812, 10098, 'みゅ～ちゃんすくすく日記その12', '2022/08/10 5:00:00', 0, 5098005, 1009811);
+insert into lsv_story_data values (1009813, 10098, 'みゅ～ちゃんすくすく日記その13', '2022/08/11 5:00:00', 0, 5098005, 1009812);
+insert into lsv_story_data values (1009814, 10098, 'みゅ～ちゃんすくすく日記その14', '2022/08/12 5:00:00', 0, 5098006, 1009813);
+insert into lsv_story_data values (1009815, 10098, 'みゅ～ちゃんすくすく日記その15', '2022/08/14 5:00:00', 0, 5098007, 1009814);

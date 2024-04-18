@@ -1,0 +1,1 @@
+CREATE INDEX 'gacha_pickup_0_id' on 'gacha_pickup'('id')

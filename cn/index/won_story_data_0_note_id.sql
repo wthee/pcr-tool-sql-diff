@@ -1,0 +1,1 @@
+CREATE INDEX 'won_story_data_0_note_id' on 'won_story_data'('note_id')

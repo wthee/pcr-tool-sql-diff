@@ -1,0 +1,1 @@
+CREATE INDEX 'worldmap_0_map_type' on 'worldmap'('map_type')

@@ -7,10 +7,10 @@ insert into seasonpass_mission_reward_data values (5, 10020004, 12, 94002, 20000
 insert into seasonpass_mission_reward_data values (6, 10020004, 8, 91002, 80);
 insert into seasonpass_mission_reward_data values (7, 10020005, 1001, 98002, 400);
 insert into seasonpass_mission_reward_data values (8, 10020005, 12, 94002, 200000);
-insert into seasonpass_mission_reward_data values (9, 10020005, 2, 60811, 100);
+insert into seasonpass_mission_reward_data values (9, 10020005, 2, 60571, 100);
 insert into seasonpass_mission_reward_data values (10, 10020006, 1001, 98002, 400);
 insert into seasonpass_mission_reward_data values (11, 10020006, 12, 94002, 200000);
-insert into seasonpass_mission_reward_data values (12, 10020006, 2, 60831, 100);
+insert into seasonpass_mission_reward_data values (12, 10020006, 2, 60601, 100);
 insert into seasonpass_mission_reward_data values (13, 10020007, 1001, 98002, 400);
 insert into seasonpass_mission_reward_data values (14, 10020007, 2, 90005, 50);
 insert into seasonpass_mission_reward_data values (15, 10020008, 1001, 98002, 400);

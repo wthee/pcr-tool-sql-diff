@@ -75,5 +75,3 @@ insert into legion_effective_unit values (1008, 112101, 100, 200);
 insert into legion_effective_unit values (1008, 114501, 100, 200);
 insert into legion_effective_unit values (1008, 180101, 100, 200);
 insert into legion_effective_unit values (1008, 180601, 100, 200);
-insert into legion_effective_unit values (1005, 170101, 100, 200);
-insert into legion_effective_unit values (1005, 170201, 100, 200);

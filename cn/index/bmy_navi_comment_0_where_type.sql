@@ -1,0 +1,1 @@
+CREATE INDEX 'bmy_navi_comment_0_where_type' on 'bmy_navi_comment'('where_type')

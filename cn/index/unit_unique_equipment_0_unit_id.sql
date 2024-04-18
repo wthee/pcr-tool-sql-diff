@@ -1,0 +1,1 @@
+CREATE INDEX 'unit_unique_equipment_0_unit_id' on 'unit_unique_equipment'('unit_id')

@@ -4,3 +4,8 @@ insert into hatsune_limit_chara values (1008402, 58);
 insert into hatsune_limit_chara values (1008403, 58);
 insert into hatsune_limit_chara values (1008404, 58);
 insert into hatsune_limit_chara values (1008405, 58);
+insert into hatsune_limit_chara values (1011201, 58);
+insert into hatsune_limit_chara values (1011202, 58);
+insert into hatsune_limit_chara values (1011203, 58);
+insert into hatsune_limit_chara values (1011204, 58);
+insert into hatsune_limit_chara values (1011205, 58);

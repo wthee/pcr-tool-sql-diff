@@ -1,0 +1,1 @@
+CREATE INDEX 'ccc_scenario_0_ccc_scenario_id' on 'ccc_scenario'('ccc_scenario_id')

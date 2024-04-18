@@ -1,0 +1,1 @@
+CREATE INDEX 'unique_equip_craft_enhance_0_consume_group_id' on 'unique_equip_craft_enhance'('consume_group_id')
