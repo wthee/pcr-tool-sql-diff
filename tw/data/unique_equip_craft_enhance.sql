@@ -9,3 +9,6 @@ insert into unique_equip_craft_enhance values (130802, 3);
 insert into unique_equip_craft_enhance values (130812, 6);
 insert into unique_equip_craft_enhance values (130822, 7);
 insert into unique_equip_craft_enhance values (130832, 8);
+insert into unique_equip_craft_enhance values (130842, 11);
+insert into unique_equip_craft_enhance values (130852, 12);
+insert into unique_equip_craft_enhance values (130862, 13);
