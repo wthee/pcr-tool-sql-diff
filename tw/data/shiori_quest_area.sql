@@ -118,3 +118,6 @@ insert into shiori_quest_area values (20046201, 20046, '佛洛拉湖畔', 201, '
 insert into shiori_quest_area values (20047101, 20047, '王城蘭德索爾', 201, 'bgm_M553', 'bgm_M553', 1, 1, 40, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20047102, 20047, '世界之間的夾縫', 201, 'bgm_M553', 'bgm_M553', 1, 2, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20047201, 20047, '世界之間的夾縫', 201, 'bgm_M553', 'bgm_M553', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20048101, 20048, '咲戀育幼院內', 201, 'bgm_M565', 'bgm_M565', 1, 1, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20048102, 20048, '伊麗莎白牧場\u3000牧場溫泉', 201, 'bgm_M565', 'bgm_M565', 1, 2, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20048201, 20048, '伊麗莎白牧場\u3000牧場溫泉', 201, 'bgm_M565', 'bgm_M565', 1, 0, 0, 0, 0, '0', '0', 0);
