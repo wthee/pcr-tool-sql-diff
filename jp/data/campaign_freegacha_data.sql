@@ -129,3 +129,5 @@ insert into campaign_freegacha_data values (127, 34, 30299);
 insert into campaign_freegacha_data values (128, 35, 40011);
 insert into campaign_freegacha_data values (129, 35, 30308);
 insert into campaign_freegacha_data values (130, 35, 50309);
+insert into campaign_freegacha_data values (131, 36, 30319);
+insert into campaign_freegacha_data values (132, 36, 30320);
