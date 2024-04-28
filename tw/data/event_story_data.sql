@@ -72,3 +72,4 @@ insert into event_story_data values (5126, 5, 10126, '魔法師的青春時日\u
 insert into event_story_data values (5128, 5, 10128, '浪漫薩拉薩利亞\u3000\\n～沙漠的新娘與不可思議的神燈～', 0, 1, '2024/01/29 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5130, 5, 10130, 'Criminal Rookie\u3000\\n天使們的悖論', 0, 1, '2024/02/27 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5132, 5, 10132, '聖誕哭泣寶貝\u3000為誰存在的幸福之日', 0, 1, '2024/03/30 16:00:00', '2030/04/24 14:59:59');
+insert into event_story_data values (5134, 5, 10134, '迎春夢想家們！\u3000新年隕石碎碎平安！？', 0, 1, '2024/04/29 16:00:00', '2030/04/24 14:59:59');
