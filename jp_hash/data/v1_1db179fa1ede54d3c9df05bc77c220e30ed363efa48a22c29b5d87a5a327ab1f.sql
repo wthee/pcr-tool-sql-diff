@@ -77,3 +77,5 @@ insert into v1_1db179fa1ede54d3c9df05bc77c220e30ed363efa48a22c29b5d87a5a327ab1f 
 insert into v1_1db179fa1ede54d3c9df05bc77c220e30ed363efa48a22c29b5d87a5a327ab1f values (10124, 2, 'クウカ', 1000, 1, 127001, 0, 0, 0, 0, 0);
 insert into v1_1db179fa1ede54d3c9df05bc77c220e30ed363efa48a22c29b5d87a5a327ab1f values (10124, 3, 'ランファ', 1000, 1, 126901, 0, 0, 0, 0, 0);
 insert into v1_1db179fa1ede54d3c9df05bc77c220e30ed363efa48a22c29b5d87a5a327ab1f values (10124, 4, 'ドクロ親父', 1000, 1, 427101, 0, 0, 0, 0, 0);
+insert into v1_1db179fa1ede54d3c9df05bc77c220e30ed363efa48a22c29b5d87a5a327ab1f values (10144, 1, 'スズメ', 1000, 1, 130801, 0, 0, 0, 0, 0);
+insert into v1_1db179fa1ede54d3c9df05bc77c220e30ed363efa48a22c29b5d87a5a327ab1f values (10144, 2, 'キョウカ', 1000, 1, 130701, 0, 0, 0, 0, 0);

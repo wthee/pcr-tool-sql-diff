@@ -101,6 +101,8 @@ insert into v1_07f993a686270fae4f0dcc85c411b730ed5073b5c8074e7bc1f7c8c6e880909c 
 insert into v1_07f993a686270fae4f0dcc85c411b730ed5073b5c8074e7bc1f7c8c6e880909c values (9431, 'コラボパックを購入して獲得したアイテムです。', 0, 0, 0, 0);
 insert into v1_07f993a686270fae4f0dcc85c411b730ed5073b5c8074e7bc1f7c8c6e880909c values (9432, 'スフィアパックを購入して獲得したアイテムです。', 0, 0, 0, 0);
 insert into v1_07f993a686270fae4f0dcc85c411b730ed5073b5c8074e7bc1f7c8c6e880909c values (9433, 'プリンセスナイト強化パックを購入して獲得したアイテムです。', 0, 0, 0, 0);
+insert into v1_07f993a686270fae4f0dcc85c411b730ed5073b5c8074e7bc1f7c8c6e880909c values (9434, '★6キャラ育成パックを購入して獲得したアイテムです。', 0, 0, 0, 0);
+insert into v1_07f993a686270fae4f0dcc85c411b730ed5073b5c8074e7bc1f7c8c6e880909c values (9435, '★4EX装備パックを購入して獲得したアイテムです。', 0, 0, 0, 0);
 insert into v1_07f993a686270fae4f0dcc85c411b730ed5073b5c8074e7bc1f7c8c6e880909c values (9501, '「イベントログインボーナス」{1}日目で獲得したアイテムです。', 13, 2, 0, 0);
 insert into v1_07f993a686270fae4f0dcc85c411b730ed5073b5c8074e7bc1f7c8c6e880909c values (9502, 'イベントクエスト初回クリアで獲得したアイテムです。', 13, 0, 0, 0);
 insert into v1_07f993a686270fae4f0dcc85c411b730ed5073b5c8074e7bc1f7c8c6e880909c values (9503, 'イベントクエスト{1}クリアで獲得したアイテムです。', 13, 14, 0, 0);

@@ -245,6 +245,7 @@ insert into v1_894220cbe2a75fb4f05a421849abd60edbb1ea4c279d7ffdb1999261a5cd7299 
 insert into v1_894220cbe2a75fb4f05a421849abd60edbb1ea4c279d7ffdb1999261a5cd7299 values (129001, 'エリス', 500510, '花畑', 0.0, 2);
 insert into v1_894220cbe2a75fb4f05a421849abd60edbb1ea4c279d7ffdb1999261a5cd7299 values (129301, 'ユニ（ウィンター）', 502220, 'メルクリゾート_プールエリア_昼', 0.0, 2);
 insert into v1_894220cbe2a75fb4f05a421849abd60edbb1ea4c279d7ffdb1999261a5cd7299 values (129401, 'クロエ（ウィンター）', 502220, 'メルクリゾート_プールエリア_昼', 0.0, 2);
+insert into v1_894220cbe2a75fb4f05a421849abd60edbb1ea4c279d7ffdb1999261a5cd7299 values (129601, 'アネモネ', 502071, 'ジオ・ゲヘナ_ジャングル_夜', 0.0, 2);
 insert into v1_894220cbe2a75fb4f05a421849abd60edbb1ea4c279d7ffdb1999261a5cd7299 values (129801, 'マコト（コマンダー）', 501680, '平原_昼', 0.0, 2);
 insert into v1_894220cbe2a75fb4f05a421849abd60edbb1ea4c279d7ffdb1999261a5cd7299 values (129901, 'エリコ（コマンダー）', 500030, 'ランドソル 繁華街', 0.0, 4);
 insert into v1_894220cbe2a75fb4f05a421849abd60edbb1ea4c279d7ffdb1999261a5cd7299 values (180101, 'ヒヨリ（プリンセス）', 500130, 'エステレラ街道', 0.0, 2);
