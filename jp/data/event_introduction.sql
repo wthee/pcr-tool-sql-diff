@@ -96,3 +96,4 @@ insert into event_introduction values (136, 10136, 1, '2024/01/26 15:00:00', '20
 insert into event_introduction values (137, 10137, 1, '2024/01/26 15:00:00', '2030/03/26 14:59:00', 380000, 380000, 0, 0, 0, 0, 'bgm_MC111', 'bgm_MC111');
 insert into event_introduction values (140, 10140, 1, '2024/02/24 15:00:00', '2030/03/26 14:59:00', 380000, 380000, 0, 0, 0, 0, 'bgm_MC124', 'bgm_MC124');
 insert into event_introduction values (142, 10142, 1, '2024/03/26 15:00:00', '2030/03/26 14:59:00', 380000, 380000, 0, 0, 0, 0, 'bgm_MC136', 'bgm_MC136');
+insert into event_introduction values (144, 10144, 1, '2024/04/27 21:00:00', '2030/03/26 14:59:00', 380000, 380000, 0, 0, 0, 0, 'bgm_MC143', 'bgm_MC143');

@@ -245,6 +245,7 @@ insert into unlock_unit_condition values (128901, 'ユイ（アストラル）',
 insert into unlock_unit_condition values (129001, 'エリス', 1, 0, 1, 2, 31290, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (129301, 'ユニ（ウィンター）', 1, 0, 1, 2, 31293, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (129401, 'クロエ（ウィンター）', 1, 0, 1, 2, 31294, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
+insert into unlock_unit_condition values (129601, 'アネモネ', 1, 0, 1, 2, 31296, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (129801, 'マコト（コマンダー）', 1, 0, 1, 2, 31298, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (129901, 'エリコ（コマンダー）', 1, 0, 1, 2, 31299, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);
 insert into unlock_unit_condition values (180101, 'ヒヨリ（プリンセス）', 1, 0, 1, 2, 31801, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2);

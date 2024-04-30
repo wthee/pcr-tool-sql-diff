@@ -138,6 +138,7 @@ insert into tips values (4127301, 127301, 1, '一緒にアオハルを');
 insert into tips values (4127501, 127501, 1, 'たくさんのお土産');
 insert into tips values (4127601, 127601, 1, '機能的だけど…');
 insert into tips values (4129001, 129001, 1, '負けられない');
+insert into tips values (4129601, 129601, 1, '隙なし');
 insert into tips values (4129801, 129801, 1, '教官命令！');
 insert into tips values (4129901, 129901, 1, 'ご褒美に');
 insert into tips values (4180101, 180101, 1, 'じゃんけんタイム！');

@@ -38,3 +38,4 @@ insert into define_spskill values (1265001, 1265101, 1265001, 2);
 insert into define_spskill values (1290001, 1290101, 1290001, 2);
 insert into define_spskill values (1293001, 1293101, 1293001, 2);
 insert into define_spskill values (1294001, 1294101, 1294001, 2);
+insert into define_spskill values (1296001, 1296101, 1296001, 2);
