@@ -403,3 +403,4 @@ insert into login_bonus_detail values (433, 80009, 15, 8, 91002, 100, 0, '', '',
 insert into login_bonus_detail values (434, 49021, 1, 8, 91002, 1500, 0, '', '', 0, 0);
 insert into login_bonus_detail values (443, 70010, 1, 8, 91002, 500, 0, '', '', 0, 0);
 insert into login_bonus_detail values (444, 70012, 1, 2, 41000, 1, 0, '', '', 0, 0);
+insert into login_bonus_detail values (445, 70011, 1, 8, 91002, 1000, 0, '', '', 0, 0);

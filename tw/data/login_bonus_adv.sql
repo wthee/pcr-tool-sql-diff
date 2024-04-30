@@ -94,3 +94,4 @@ insert into login_bonus_adv values (112, 80009, '2024/02/06 05:00:00', '2024/02/
 insert into login_bonus_adv values (113, 80009, '2024/02/07 05:00:00', '2024/02/08 04:59:59', 3, 9007015, 1);
 insert into login_bonus_adv values (114, 70010, '2024/04/04 05:00:00', '2024/04/06 04:59:59', 0, 400, 0);
 insert into login_bonus_adv values (115, 70012, '2024/04/06 05:00:00', '2024/04/08 04:59:59', 0, 401, 0);
+insert into login_bonus_adv values (116, 70011, '0', '0', 1, 440, 0);
