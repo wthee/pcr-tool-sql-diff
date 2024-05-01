@@ -619,3 +619,9 @@ insert into hatsune_boss_condition values (1013302, 10133, 0, 0, 1013301, 0, 0, 
 insert into hatsune_boss_condition values (1013303, 10133, 0, 0, 1013302, 0, 0, '0', 0, 0, 1013304, 0);
 insert into hatsune_boss_condition values (1013304, 10133, 0, 0, 1013303, 0, 0, '0', 0, 0, 0, 0);
 insert into hatsune_boss_condition values (1013305, 10133, 0, 0, 1013304, 0, 0, '0', 0, 0, 0, 0);
+insert into hatsune_boss_condition values (1013401, 10134, 10134110, 0, 0, 0, 0, '2024/05/07 12:00:00', 10134201, 0, 1013402, 0);
+insert into hatsune_boss_condition values (1013402, 10134, 0, 0, 1013401, 0, 0, '0', 0, 0, 1013403, 0);
+insert into hatsune_boss_condition values (1013403, 10134, 0, 0, 1013402, 0, 0, '0', 0, 0, 1013404, 0);
+insert into hatsune_boss_condition values (1013404, 10134, 0, 0, 1013403, 0, 0, '0', 0, 0, 0, 0);
+insert into hatsune_boss_condition values (1013405, 10134, 0, 0, 1013404, 0, 0, '0', 0, 0, 0, 0);
+insert into hatsune_boss_condition values (1013406, 10134, 0, 0, 1013404, 0, 0, '0', 0, 0, 0, 0);

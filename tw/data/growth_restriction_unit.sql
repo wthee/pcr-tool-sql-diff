@@ -19,3 +19,4 @@ insert into growth_restriction_unit values (17, 21, 124901);
 insert into growth_restriction_unit values (18, 22, 125701);
 insert into growth_restriction_unit values (19, 24, 126701);
 insert into growth_restriction_unit values (20, 25, 127001);
+insert into growth_restriction_unit values (21, 27, 128301);

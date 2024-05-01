@@ -2,3 +2,6 @@ CREATE TABLE 'extra_effect_data' ('extra_effect_id' INTEGER NOT NULL, 'content_t
 insert into extra_effect_data values (102311001, 16, 610132007, 0, 61013201, 1, 0, 0, 0, 0, 610132504, 0, 0, 0, 0);
 insert into extra_effect_data values (102311002, 16, 610132008, 0, 61013201, 1, 0, 0, 0, 0, 610132504, 0, 0, 0, 0);
 insert into extra_effect_data values (102311003, 16, 610132009, 0, 61013201, 1, 0, 0, 0, 0, 610132504, 0, 0, 0, 0);
+insert into extra_effect_data values (102312001, 16, 610134007, 0, 61013401, 1, 0, 0, 0, 0, 610134504, 0, 0, 0, 0);
+insert into extra_effect_data values (102312002, 16, 610134008, 0, 61013401, 1, 0, 0, 0, 0, 610134504, 0, 0, 0, 0);
+insert into extra_effect_data values (102312003, 16, 610134009, 0, 61013401, 1, 0, 0, 0, 0, 610134504, 0, 0, 0, 0);
