@@ -147,3 +147,4 @@ insert into tips values (4180701, 180701, 1, '我的顏色');
 insert into tips values (4180801, 180801, 1, '總是三人一起');
 insert into tips values (4180901, 180901, 1, '只要兩人一起');
 insert into tips values (4181001, 181001, 1, '不變的事物');
+insert into tips values (4181101, 181101, 1, '姐妹會做的事');
