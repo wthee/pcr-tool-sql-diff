@@ -3,3 +3,4 @@ insert into v1_b38897bbe868296534c9525bedfcb1d3e4d2139cf44caebdbbe6032da4943fc0 
 insert into v1_b38897bbe868296534c9525bedfcb1d3e4d2139cf44caebdbbe6032da4943fc0 values (180801, 'vo_cmn_180811_mypage_001', 'vo_cmn_180811_mypage_004', 'vo_cmn_180811_mypage_007', '', '');
 insert into v1_b38897bbe868296534c9525bedfcb1d3e4d2139cf44caebdbbe6032da4943fc0 values (180901, 'vo_cmn_180911_mypage_001', 'vo_cmn_180911_mypage_004', '', '', '');
 insert into v1_b38897bbe868296534c9525bedfcb1d3e4d2139cf44caebdbbe6032da4943fc0 values (181001, 'vo_cmn_181011_mypage_001', 'vo_cmn_181011_mypage_004', '', '', '');
+insert into v1_b38897bbe868296534c9525bedfcb1d3e4d2139cf44caebdbbe6032da4943fc0 values (181101, 'vo_cmn_181111_mypage_001', 'vo_cmn_181111_mypage_004', '', '', '');

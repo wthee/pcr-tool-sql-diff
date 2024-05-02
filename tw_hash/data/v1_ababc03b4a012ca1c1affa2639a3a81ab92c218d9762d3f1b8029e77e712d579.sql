@@ -36,3 +36,5 @@ insert into v1_ababc03b4a012ca1c1affa2639a3a81ab92c218d9762d3f1b8029e77e712d579 
 insert into v1_ababc03b4a012ca1c1affa2639a3a81ab92c218d9762d3f1b8029e77e712d579 values (35, 10, 35);
 insert into v1_ababc03b4a012ca1c1affa2639a3a81ab92c218d9762d3f1b8029e77e712d579 values (36, 11, 36);
 insert into v1_ababc03b4a012ca1c1affa2639a3a81ab92c218d9762d3f1b8029e77e712d579 values (37, 11, 37);
+insert into v1_ababc03b4a012ca1c1affa2639a3a81ab92c218d9762d3f1b8029e77e712d579 values (38, 12, 38);
+insert into v1_ababc03b4a012ca1c1affa2639a3a81ab92c218d9762d3f1b8029e77e712d579 values (39, 12, 39);

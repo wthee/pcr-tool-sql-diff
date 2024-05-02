@@ -239,3 +239,4 @@ insert into v1_6b2471a015c32552ef172d09006dbb5e5bd6df52ddd50d7ad933de1003402e96 
 insert into v1_6b2471a015c32552ef172d09006dbb5e5bd6df52ddd50d7ad933de1003402e96 values (180731, '柏崎 初音&柏崎 栞', 510070, 2);
 insert into v1_6b2471a015c32552ef172d09006dbb5e5bd6df52ddd50d7ad933de1003402e96 values (180831, '穗高 禊＆茜 美美＆冰川 鏡華', 510400, 2);
 insert into v1_6b2471a015c32552ef172d09006dbb5e5bd6df52ddd50d7ad933de1003402e96 values (180931, '藤堂 秋乃＆佐佐木 咲戀', 510202, 2);
+insert into v1_6b2471a015c32552ef172d09006dbb5e5bd6df52ddd50d7ad933de1003402e96 values (181131, '星野 靜流＆衣之咲 璃乃', 510100, 2);

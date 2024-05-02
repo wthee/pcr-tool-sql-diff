@@ -1597,5 +1597,6 @@ insert into v1_2ea2fbd558f287f6d0d6d1e203f2c4a6c8ae75ae282f01bef2082bd007c47de8 
 insert into v1_2ea2fbd558f287f6d0d6d1e203f2c4a6c8ae75ae282f01bef2082bd007c47de8 values (680801, '禊＆美美＆鏡華的闇影', 180801, 0, 0, 450, 465, 1, 1.5, 0, 0, 1, '有著禊＆美美＆鏡華樣貌的特殊魔物');
 insert into v1_2ea2fbd558f287f6d0d6d1e203f2c4a6c8ae75ae282f01bef2082bd007c47de8 values (680901, '秋乃&咲戀的闇影', 180901, 0, 0, 450, 421, 1, 2.09, 0, 0, 1, '有著秋乃＆咲戀樣貌的特殊魔物');
 insert into v1_2ea2fbd558f287f6d0d6d1e203f2c4a6c8ae75ae282f01bef2082bd007c47de8 values (681001, '安＆古蕾婭的闇影', 181001, 0, 0, 450, 577, 2, 2.09, 0, 0, 1, '有著安＆古蕾婭樣貌的特殊魔物');
+insert into v1_2ea2fbd558f287f6d0d6d1e203f2c4a6c8ae75ae282f01bef2082bd007c47de8 values (681101, '靜流＆璃乃的闇影', 181101, 0, 0, 450, 551, 1, 1.92, 0, 0, 1, '有著靜流＆璃乃樣貌的特殊魔物');
 insert into v1_2ea2fbd558f287f6d0d6d1e203f2c4a6c8ae75ae282f01bef2082bd007c47de8 values (902801, '咲戀的闇影', 902801, 0, 4, 600, 350, 1, 2.0, 0, 0, 1, '有著咲戀樣貌的特殊魔物');
 insert into v1_2ea2fbd558f287f6d0d6d1e203f2c4a6c8ae75ae282f01bef2082bd007c47de8 values (912401, '岩石蜥蜴', 912401, 0, 14, 270, 200, 1, 3.0, 0, 0, 0, '【物理】近距離攻擊\\n那頭部的外層就如同鎧甲般堅硬，\\n是一種岩石巨蜥魔物。');

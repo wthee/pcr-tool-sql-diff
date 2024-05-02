@@ -22,3 +22,4 @@ insert into v1_33877a6da52b69dcd0e2834be49dd9cfc9fa6f41ac5088b819c474e2c6b8393b 
 insert into v1_33877a6da52b69dcd0e2834be49dd9cfc9fa6f41ac5088b819c474e2c6b8393b values (50267, 10020, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_33877a6da52b69dcd0e2834be49dd9cfc9fa6f41ac5088b819c474e2c6b8393b values (50278, 10021, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_33877a6da52b69dcd0e2834be49dd9cfc9fa6f41ac5088b819c474e2c6b8393b values (50291, 10006, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into v1_33877a6da52b69dcd0e2834be49dd9cfc9fa6f41ac5088b819c474e2c6b8393b values (50298, 10022, 0, 0, 0, 0, 0, 0, 0, 0, 0);
