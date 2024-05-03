@@ -1,0 +1,18 @@
+CREATE TABLE 'v1_6a674ac2fa6fa20333f82485dc2aa4dfd675a1222531d639b52c229aeef405e6' ('a648f77ed28cb420872192f17ee0ab6d8f09344fbfc7b91d1427fd7fed4ba108' INTEGER NOT NULL, 'f2e44d7312e9a9371f3711baa79ee82629cf1786557d8b5578e9adb1ff019062' INTEGER NOT NULL, 'ff572a2685f82c3922ddd28a1c147ddf723a61efc50fff8b1cf5bd3d57f283c1' TEXT NOT NULL, PRIMARY KEY('a648f77ed28cb420872192f17ee0ab6d8f09344fbfc7b91d1427fd7fed4ba108','f2e44d7312e9a9371f3711baa79ee82629cf1786557d8b5578e9adb1ff019062'));
+insert into v1_6a674ac2fa6fa20333f82485dc2aa4dfd675a1222531d639b52c229aeef405e6 values (1, 1, 'ストレート');
+insert into v1_6a674ac2fa6fa20333f82485dc2aa4dfd675a1222531d639b52c229aeef405e6 values (1, 2, 'カーブ');
+insert into v1_6a674ac2fa6fa20333f82485dc2aa4dfd675a1222531d639b52c229aeef405e6 values (2, 3, 'ストレート');
+insert into v1_6a674ac2fa6fa20333f82485dc2aa4dfd675a1222531d639b52c229aeef405e6 values (2, 4, 'シンカー');
+insert into v1_6a674ac2fa6fa20333f82485dc2aa4dfd675a1222531d639b52c229aeef405e6 values (2, 6, 'Sカーブ');
+insert into v1_6a674ac2fa6fa20333f82485dc2aa4dfd675a1222531d639b52c229aeef405e6 values (3, 7, 'ストレート');
+insert into v1_6a674ac2fa6fa20333f82485dc2aa4dfd675a1222531d639b52c229aeef405e6 values (3, 8, 'カーブ');
+insert into v1_6a674ac2fa6fa20333f82485dc2aa4dfd675a1222531d639b52c229aeef405e6 values (3, 9, 'スライダー');
+insert into v1_6a674ac2fa6fa20333f82485dc2aa4dfd675a1222531d639b52c229aeef405e6 values (3, 5, 'シンカー');
+insert into v1_6a674ac2fa6fa20333f82485dc2aa4dfd675a1222531d639b52c229aeef405e6 values (3, 16, 'シュート');
+insert into v1_6a674ac2fa6fa20333f82485dc2aa4dfd675a1222531d639b52c229aeef405e6 values (3, 10, 'ハツネ☆イリュージョン');
+insert into v1_6a674ac2fa6fa20333f82485dc2aa4dfd675a1222531d639b52c229aeef405e6 values (3, 11, 'ハツネ☆バニッシュ');
+insert into v1_6a674ac2fa6fa20333f82485dc2aa4dfd675a1222531d639b52c229aeef405e6 values (4, 12, 'ストレート');
+insert into v1_6a674ac2fa6fa20333f82485dc2aa4dfd675a1222531d639b52c229aeef405e6 values (4, 13, 'カーブ');
+insert into v1_6a674ac2fa6fa20333f82485dc2aa4dfd675a1222531d639b52c229aeef405e6 values (4, 14, 'シンカー');
+insert into v1_6a674ac2fa6fa20333f82485dc2aa4dfd675a1222531d639b52c229aeef405e6 values (4, 17, 'ドラゴンズエンドボール');
+insert into v1_6a674ac2fa6fa20333f82485dc2aa4dfd675a1222531d639b52c229aeef405e6 values (4, 18, 'ドラゴンズテイル');

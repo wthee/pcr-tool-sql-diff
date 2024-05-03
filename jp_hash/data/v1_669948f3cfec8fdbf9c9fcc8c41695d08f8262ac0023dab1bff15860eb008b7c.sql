@@ -239,6 +239,7 @@ insert into v1_669948f3cfec8fdbf9c9fcc8c41695d08f8262ac0023dab1bff15860eb008b7c 
 insert into v1_669948f3cfec8fdbf9c9fcc8c41695d08f8262ac0023dab1bff15860eb008b7c values (129631, '一華 ぼたん', 510440, 2);
 insert into v1_669948f3cfec8fdbf9c9fcc8c41695d08f8262ac0023dab1bff15860eb008b7c values (129831, '安芸 真琴', 510220, 1);
 insert into v1_669948f3cfec8fdbf9c9fcc8c41695d08f8262ac0023dab1bff15860eb008b7c values (129931, '倉石 恵理子', 510240, 4);
+insert into v1_669948f3cfec8fdbf9c9fcc8c41695d08f8262ac0023dab1bff15860eb008b7c values (130731, '氷川 鏡華', 510390, 4);
 insert into v1_669948f3cfec8fdbf9c9fcc8c41695d08f8262ac0023dab1bff15860eb008b7c values (180131, '春咲 ひより', 510121, 4);
 insert into v1_669948f3cfec8fdbf9c9fcc8c41695d08f8262ac0023dab1bff15860eb008b7c values (180231, '草野 優衣', 510350, 2);
 insert into v1_669948f3cfec8fdbf9c9fcc8c41695d08f8262ac0023dab1bff15860eb008b7c values (180331, '士条 怜', 510100, 2);

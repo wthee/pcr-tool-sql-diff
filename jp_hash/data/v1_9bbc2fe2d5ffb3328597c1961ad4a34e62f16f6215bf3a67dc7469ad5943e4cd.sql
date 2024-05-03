@@ -2321,6 +2321,14 @@ insert into v1_9bbc2fe2d5ffb3328597c1961ad4a34e62f16f6215bf3a67dc7469ad5943e4cd 
 insert into v1_9bbc2fe2d5ffb3328597c1961ad4a34e62f16f6215bf3a67dc7469ad5943e4cd values (12990106, 129901, 105, '絆ランク演出5', '');
 insert into v1_9bbc2fe2d5ffb3328597c1961ad4a34e62f16f6215bf3a67dc7469ad5943e4cd values (12990107, 129901, 106, '絆ランク演出6', '');
 insert into v1_9bbc2fe2d5ffb3328597c1961ad4a34e62f16f6215bf3a67dc7469ad5943e4cd values (12990108, 129901, 107, '絆ランク演出7', '');
+insert into v1_9bbc2fe2d5ffb3328597c1961ad4a34e62f16f6215bf3a67dc7469ad5943e4cd values (13070101, 130701, 201, '解放演出1', '');
+insert into v1_9bbc2fe2d5ffb3328597c1961ad4a34e62f16f6215bf3a67dc7469ad5943e4cd values (13070102, 130701, 101, '絆ランク演出1', '');
+insert into v1_9bbc2fe2d5ffb3328597c1961ad4a34e62f16f6215bf3a67dc7469ad5943e4cd values (13070103, 130701, 102, '絆ランク演出2', '');
+insert into v1_9bbc2fe2d5ffb3328597c1961ad4a34e62f16f6215bf3a67dc7469ad5943e4cd values (13070104, 130701, 103, '絆ランク演出3', '');
+insert into v1_9bbc2fe2d5ffb3328597c1961ad4a34e62f16f6215bf3a67dc7469ad5943e4cd values (13070105, 130701, 104, '絆ランク演出4', '');
+insert into v1_9bbc2fe2d5ffb3328597c1961ad4a34e62f16f6215bf3a67dc7469ad5943e4cd values (13070106, 130701, 105, '絆ランク演出5', '');
+insert into v1_9bbc2fe2d5ffb3328597c1961ad4a34e62f16f6215bf3a67dc7469ad5943e4cd values (13070107, 130701, 106, '絆ランク演出6', '');
+insert into v1_9bbc2fe2d5ffb3328597c1961ad4a34e62f16f6215bf3a67dc7469ad5943e4cd values (13070108, 130701, 107, '絆ランク演出7', '');
 insert into v1_9bbc2fe2d5ffb3328597c1961ad4a34e62f16f6215bf3a67dc7469ad5943e4cd values (18010101, 180101, 201, '解放演出1', '');
 insert into v1_9bbc2fe2d5ffb3328597c1961ad4a34e62f16f6215bf3a67dc7469ad5943e4cd values (18010102, 180101, 101, '絆ランク演出1', '');
 insert into v1_9bbc2fe2d5ffb3328597c1961ad4a34e62f16f6215bf3a67dc7469ad5943e4cd values (18010103, 180101, 102, '絆ランク演出2', '');

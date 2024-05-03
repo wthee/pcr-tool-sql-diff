@@ -141,6 +141,7 @@ insert into v1_7138cef70e70fa49d5f98cdfb41e6ef7bffdca2f81223e0aa6d8c881ef40da43 
 insert into v1_7138cef70e70fa49d5f98cdfb41e6ef7bffdca2f81223e0aa6d8c881ef40da43 values (4129601, 129601, 1, '隙なし');
 insert into v1_7138cef70e70fa49d5f98cdfb41e6ef7bffdca2f81223e0aa6d8c881ef40da43 values (4129801, 129801, 1, '教官命令！');
 insert into v1_7138cef70e70fa49d5f98cdfb41e6ef7bffdca2f81223e0aa6d8c881ef40da43 values (4129901, 129901, 1, 'ご褒美に');
+insert into v1_7138cef70e70fa49d5f98cdfb41e6ef7bffdca2f81223e0aa6d8c881ef40da43 values (4130701, 130701, 1, 'お花のようせいさん');
 insert into v1_7138cef70e70fa49d5f98cdfb41e6ef7bffdca2f81223e0aa6d8c881ef40da43 values (4180101, 180101, 1, 'じゃんけんタイム！');
 insert into v1_7138cef70e70fa49d5f98cdfb41e6ef7bffdca2f81223e0aa6d8c881ef40da43 values (4180201, 180201, 1, 'ぺこぺこ');
 insert into v1_7138cef70e70fa49d5f98cdfb41e6ef7bffdca2f81223e0aa6d8c881ef40da43 values (4180301, 180301, 1, '守る力');
