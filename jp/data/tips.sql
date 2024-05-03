@@ -141,6 +141,7 @@ insert into tips values (4129001, 129001, 1, '負けられない');
 insert into tips values (4129601, 129601, 1, '隙なし');
 insert into tips values (4129801, 129801, 1, '教官命令！');
 insert into tips values (4129901, 129901, 1, 'ご褒美に');
+insert into tips values (4130701, 130701, 1, 'お花のようせいさん');
 insert into tips values (4180101, 180101, 1, 'じゃんけんタイム！');
 insert into tips values (4180201, 180201, 1, 'ぺこぺこ');
 insert into tips values (4180301, 180301, 1, '守る力');

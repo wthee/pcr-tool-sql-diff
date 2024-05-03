@@ -165,6 +165,9 @@ insert into hatsune_boss_extra_effect values (10144009, 1014406, 111101, 3010, '
 insert into hatsune_boss_extra_effect values (10144010, 1014406, 122701, 3003, 'バトル開始後90秒間魔法攻撃力極大\\nアップ', '2024/04/30 12:00:00');
 insert into hatsune_boss_extra_effect values (10144011, 1014406, 122701, 3004, 'バトル開始後90秒間魔法防御力極大\\nアップ', '2024/04/30 12:00:00');
 insert into hatsune_boss_extra_effect values (10144012, 1014406, 122701, 3010, 'バトル開始後90秒間ＴＰ上昇大アップ', '2024/04/30 12:00:00');
+insert into hatsune_boss_extra_effect values (10144013, 1014406, 130701, 3003, 'バトル開始後90秒間魔法攻撃力極大\\nアップ', '2024/05/03 19:00:00');
+insert into hatsune_boss_extra_effect values (10144014, 1014406, 130701, 3004, 'バトル開始後90秒間魔法防御力極大\\nアップ', '2024/05/03 19:00:00');
+insert into hatsune_boss_extra_effect values (10144015, 1014406, 130701, 3010, 'バトル開始後90秒間ＴＰ上昇大アップ', '2024/05/03 19:00:00');
 insert into hatsune_boss_extra_effect values (10144016, 1014406, 180801, 3001, 'バトル開始後90秒間物理攻撃力極大\\nアップ', '2024/04/30 12:00:00');
 insert into hatsune_boss_extra_effect values (10144017, 1014406, 180801, 3002, 'バトル開始後90秒間物理防御力と魔法\\n防御力極大アップ', '2024/04/30 12:00:00');
 insert into hatsune_boss_extra_effect values (10144018, 1014406, 107701, 3003, 'バトル開始後90秒間魔法攻撃力絶大\\nアップ', '2024/04/30 12:00:00');

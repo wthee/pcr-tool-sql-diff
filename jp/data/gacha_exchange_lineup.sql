@@ -765,3 +765,4 @@ insert into gacha_exchange_lineup values (763, 321, 180401, 3, 0, 0, '2024/04/30
 insert into gacha_exchange_lineup values (764, 321, 107001, 3, 0, 0, '2024/04/30 12:00:00', '2024/05/03 18:59:59');
 insert into gacha_exchange_lineup values (765, 321, 106101, 3, 0, 0, '2024/04/30 12:00:00', '2024/05/03 18:59:59');
 insert into gacha_exchange_lineup values (766, 321, 107101, 3, 0, 0, '2024/04/30 12:00:00', '2024/05/03 18:59:59');
+insert into gacha_exchange_lineup values (767, 322, 130701, 3, 1142, 30322, '2024/05/03 19:00:00', '2024/05/15 14:59:59');

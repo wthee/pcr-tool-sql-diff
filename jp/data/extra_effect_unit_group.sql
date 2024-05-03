@@ -92,6 +92,7 @@ insert into extra_effect_unit_group values (90, 6101422, 102701);
 insert into extra_effect_unit_group values (91, 6101423, 104301);
 insert into extra_effect_unit_group values (92, 6101424, 109001);
 insert into extra_effect_unit_group values (93, 6101441, 103601);
+insert into extra_effect_unit_group values (94, 6101441, 130701);
 insert into extra_effect_unit_group values (95, 6101442, 111101);
 insert into extra_effect_unit_group values (96, 6101442, 122701);
 insert into extra_effect_unit_group values (97, 6101443, 102501);

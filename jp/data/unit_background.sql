@@ -248,6 +248,7 @@ insert into unit_background values (129401, 'クロエ（ウィンター）', 50
 insert into unit_background values (129601, 'アネモネ', 502071, 'ジオ・ゲヘナ_ジャングル_夜', 0.0, 2);
 insert into unit_background values (129801, 'マコト（コマンダー）', 501680, '平原_昼', 0.0, 2);
 insert into unit_background values (129901, 'エリコ（コマンダー）', 500030, 'ランドソル 繁華街', 0.0, 4);
+insert into unit_background values (130701, 'キョウカ（スプリング）', 500020, 'ランドソル_郊外', 0.0, 20);
 insert into unit_background values (180101, 'ヒヨリ（プリンセス）', 500130, 'エステレラ街道', 0.0, 2);
 insert into unit_background values (180201, 'ユイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 4);
 insert into unit_background values (180301, 'レイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 3);
