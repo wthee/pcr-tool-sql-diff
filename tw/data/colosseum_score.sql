@@ -26,3 +26,12 @@ insert into colosseum_score values (100323, 12500, 125, 0, 0, 0, 0, 30000, 45000
 insert into colosseum_score values (100331, 20000, 200, 0, 0, 0, 0, 40000, 60000);
 insert into colosseum_score values (100332, 20000, 200, 0, 0, 0, 0, 40000, 60000);
 insert into colosseum_score values (100333, 20000, 200, 0, 0, 0, 0, 40000, 60000);
+insert into colosseum_score values (100411, 5000, 50, 0, 0, 0, 0, 20000, 30000);
+insert into colosseum_score values (100412, 5000, 50, 0, 0, 0, 0, 20000, 30000);
+insert into colosseum_score values (100413, 5000, 50, 0, 0, 0, 0, 20000, 30000);
+insert into colosseum_score values (100421, 12500, 125, 0, 0, 0, 0, 30000, 45000);
+insert into colosseum_score values (100422, 12500, 125, 0, 0, 0, 0, 30000, 45000);
+insert into colosseum_score values (100423, 12500, 125, 0, 0, 0, 0, 30000, 45000);
+insert into colosseum_score values (100431, 20000, 200, 0, 0, 0, 0, 40000, 60000);
+insert into colosseum_score values (100432, 20000, 200, 0, 0, 0, 0, 40000, 60000);
+insert into colosseum_score values (100433, 20000, 200, 0, 0, 0, 0, 40000, 60000);
