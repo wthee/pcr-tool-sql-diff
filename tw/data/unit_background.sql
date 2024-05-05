@@ -237,6 +237,7 @@ insert into unit_background values (127601, '流夏（薩拉薩利亞）', 50137
 insert into unit_background values (127901, '貪吃佩可（聖誕節）', 500036, '蘭德索爾_鬧區_聖誕節_白天', 0.0, 2);
 insert into unit_background values (128001, '克蕾琪塔（聖誕節）', 500036, '蘭德索爾_鬧區_聖誕節_白天', 0.0, 2);
 insert into unit_background values (128301, '祈梨（新年）', 500893, '暗巷_雪_白天', 0.0, 4);
+insert into unit_background values (128401, '初音（新年）', 501470, '蘭德索爾_鬧區_新年_白天', 0.0, 4);
 insert into unit_background values (180101, '日和（公主）', 500130, '埃斯特雷拉街道', 0.0, 2);
 insert into unit_background values (180201, '優衣（公主）', 500130, '埃斯特雷拉街道', 0.0, 4);
 insert into unit_background values (180301, '怜（公主）', 500130, '埃斯特雷拉街道', 0.0, 3);
