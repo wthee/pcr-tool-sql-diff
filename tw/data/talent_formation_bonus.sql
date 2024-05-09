@@ -1,0 +1,1 @@
+CREATE TABLE 'talent_formation_bonus' ('formation_bonus_id' INTEGER NOT NULL, 'talent_bonus_1' INTEGER NOT NULL, 'talent_bonus_2' INTEGER NOT NULL, 'talent_bonus_3' INTEGER NOT NULL, 'talent_bonus_4' INTEGER NOT NULL, 'talent_bonus_5' INTEGER NOT NULL, PRIMARY KEY('formation_bonus_id'));

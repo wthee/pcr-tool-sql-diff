@@ -1,0 +1,1 @@
+CREATE TABLE 'talent_skill_enhance_data' ('enhance_id' INTEGER NOT NULL, 'talent_id_1' INTEGER NOT NULL, 'talent_id_2' INTEGER NOT NULL, 'talent_id_3' INTEGER NOT NULL, 'talent_id_4' INTEGER NOT NULL, 'talent_id_5' INTEGER NOT NULL, 'parameter_type' INTEGER NOT NULL, 'enhance_value' INTEGER NOT NULL, PRIMARY KEY('enhance_id'));

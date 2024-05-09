@@ -1,0 +1,1 @@
+CREATE TABLE 'talent_quest_condition_data' ('quest_id' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_talent_skill_page' INTEGER NOT NULL, 'release_quest_id' INTEGER NOT NULL, PRIMARY KEY('quest_id'));

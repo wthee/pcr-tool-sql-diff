@@ -1,0 +1,1 @@
+CREATE TABLE 'talent_quest_area_data' ('area_id' INTEGER NOT NULL, 'talent_id' INTEGER NOT NULL, 'area_name' TEXT NOT NULL, 'area_display_name' TEXT NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('area_id'));

@@ -1,0 +1,1 @@
+CREATE TABLE 'nbb_frame_lottery' ('id' INTEGER NOT NULL, 'mode' INTEGER NOT NULL, 'score' INTEGER NOT NULL, 'difficulty_1' INTEGER NOT NULL, 'difficulty_2' INTEGER NOT NULL, 'difficulty_3' INTEGER NOT NULL, 'difficulty_4' INTEGER NOT NULL, PRIMARY KEY('id'));

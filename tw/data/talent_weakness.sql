@@ -1,0 +1,1 @@
+CREATE TABLE 'talent_weakness' ('resist_id' INTEGER NOT NULL, 'talent_1' INTEGER NOT NULL, 'talent_2' INTEGER NOT NULL, 'talent_3' INTEGER NOT NULL, 'talent_4' INTEGER NOT NULL, 'talent_5' INTEGER NOT NULL, PRIMARY KEY('resist_id'));

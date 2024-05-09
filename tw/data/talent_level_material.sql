@@ -1,0 +1,1 @@
+CREATE TABLE 'talent_level_material' ('talent_id' INTEGER NOT NULL, 'idx' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'item_id' INTEGER NOT NULL, 'point' INTEGER NOT NULL, PRIMARY KEY('talent_id','idx'));
