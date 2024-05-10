@@ -6994,3 +6994,5 @@ insert into room_unit_comments values (7867, 128401, 3, 4, 1, 0, 1, '好香～\\
 insert into room_unit_comments values (7868, 128401, 3, 5, 1, 0, 1, '好溫暖好舒服～\\n不禁讓人想起\\n新年日出的溫暖啊～♪', 0);
 insert into room_unit_comments values (7870, 128401, 3, 7, 1, 0, 1, '嚼嚼，好好吃～\\n但吃了這麼多之後，\\n就變得想睡了……', 0);
 insert into room_unit_comments values (7871, 128401, 3, 8, 1, 0, 1, '嗯嗯，\\n新年料理也有很多\\n不同類型呢～\\n下次做看看好了。', 0);
+insert into room_unit_comments values (7873, 106501, 1, 103, 12, 0, 1, '最近不知道為什麼，\\n變得看到他\\n就覺得好像很好吃……', 0);
+insert into room_unit_comments values (7874, 106501, 2, 103, 12, 0, 1, '你可以握住我的手嗎？\\n不然我……\\n無法完全抑制力量……', 0);
