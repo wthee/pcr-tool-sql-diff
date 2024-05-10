@@ -1826,7 +1826,7 @@ insert into hatsune_quest_condition values (10092104, 10092, 10092103, 0, 0, 0, 
 insert into hatsune_quest_condition values (10092105, 10092, 10092104, 0, 0, 0, 10092106, 0, 0, 0, 0);
 insert into hatsune_quest_condition values (10092106, 10092, 10092105, 0, 0, 0, 10092107, 0, 0, 0, 0);
 insert into hatsune_quest_condition values (10092107, 10092, 10092106, 0, 0, 0, 10092108, 0, 0, 0, 0);
-insert into hatsune_quest_condition values (10092108, 10092, 10092107, 0, 0, 0, 10092111, 0, 0, 0, 0);
+insert into hatsune_quest_condition values (10092108, 10092, 10092107, 0, 0, 0, 10092109, 0, 0, 0, 0);
 insert into hatsune_quest_condition values (10092109, 10092, 10092108, 0, 0, 0, 10092110, 0, 0, 0, 0);
 insert into hatsune_quest_condition values (10092110, 10092, 10092109, 0, 0, 0, 10092111, 0, 0, 0, 0);
 insert into hatsune_quest_condition values (10092111, 10092, 10092110, 0, 0, 0, 10092112, 0, 0, 0, 0);
