@@ -403,3 +403,4 @@ insert into v1_fda81b52d5ecd633b1938ae3f54c6dda29f8267d01edbd45be0072e55b7533fb 
 insert into v1_fda81b52d5ecd633b1938ae3f54c6dda29f8267d01edbd45be0072e55b7533fb values (30223, 'マコト（コマンダー）（カリン掛け合い用）', 118501001, 329801001, 0, 0, 0);
 insert into v1_fda81b52d5ecd633b1938ae3f54c6dda29f8267d01edbd45be0072e55b7533fb values (30224, 'エリコ（コマンダー）（カリン掛け合い用）', 118501001, 329901001, 0, 0, 0);
 insert into v1_fda81b52d5ecd633b1938ae3f54c6dda29f8267d01edbd45be0072e55b7533fb values (30225, 'キョウカ（スプリング）（カリン掛け合い用）', 118501001, 330701001, 0, 0, 0);
+insert into v1_fda81b52d5ecd633b1938ae3f54c6dda29f8267d01edbd45be0072e55b7533fb values (30226, 'スズメ（スプリング）（カリン掛け合い用）', 118501001, 330801001, 0, 0, 0);

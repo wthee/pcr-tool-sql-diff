@@ -142,4 +142,5 @@ insert into v1_1ccda05dd9b5d40a6e9c6ba083bc1e20793c4e34af14524a7d71bfdd79453104 
 insert into v1_1ccda05dd9b5d40a6e9c6ba083bc1e20793c4e34af14524a7d71bfdd79453104 values (10142, 10142, 'クーリィ・フューリィ・ブートキャンプ\u3000鬼教官と鞭と…飴？', 2, 61412, 1, 6);
 insert into v1_1ccda05dd9b5d40a6e9c6ba083bc1e20793c4e34af14524a7d71bfdd79453104 values (10143, 10143, 'Dears\u3000おかえりとただいまの約束', 2, 61422, 1, 6);
 insert into v1_1ccda05dd9b5d40a6e9c6ba083bc1e20793c4e34af14524a7d71bfdd79453104 values (10144, 10144, '花咲く季節のサンセリテ', 2, 61432, 1, 6);
+insert into v1_1ccda05dd9b5d40a6e9c6ba083bc1e20793c4e34af14524a7d71bfdd79453104 values (10145, 10145, 'コネクト・ウィズ・ブルー\u3000少女が空に至るまで', 2, 61442, 1, 6);
 insert into v1_1ccda05dd9b5d40a6e9c6ba083bc1e20793c4e34af14524a7d71bfdd79453104 values (19003, 10003, 'ヴァンパイアハンターwithイリヤ討伐証交換', 2, 60022, 1, 5);
