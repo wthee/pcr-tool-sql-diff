@@ -142,4 +142,5 @@ insert into event_gacha_data values (10141, 10141, '猫と駄菓子の喫茶店\
 insert into event_gacha_data values (10142, 10142, 'クーリィ・フューリィ・ブートキャンプ\u3000鬼教官と鞭と…飴？', 2, 61412, 1, 6);
 insert into event_gacha_data values (10143, 10143, 'Dears\u3000おかえりとただいまの約束', 2, 61422, 1, 6);
 insert into event_gacha_data values (10144, 10144, '花咲く季節のサンセリテ', 2, 61432, 1, 6);
+insert into event_gacha_data values (10145, 10145, 'コネクト・ウィズ・ブルー\u3000少女が空に至るまで', 2, 61442, 1, 6);
 insert into event_gacha_data values (19003, 10003, 'ヴァンパイアハンターwithイリヤ討伐証交換', 2, 60022, 1, 5);

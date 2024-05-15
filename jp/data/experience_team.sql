@@ -304,3 +304,6 @@ insert into experience_team values (302, 1042759, 360, 999, 30);
 insert into experience_team values (303, 1047184, 361, 999, 30);
 insert into experience_team values (304, 1051609, 362, 999, 30);
 insert into experience_team values (305, 1056034, 363, 999, 30);
+insert into experience_team values (306, 1060459, 364, 999, 30);
+insert into experience_team values (307, 1064884, 365, 999, 30);
+insert into experience_team values (308, 1069309, 366, 999, 30);
