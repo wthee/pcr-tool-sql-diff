@@ -5,3 +5,4 @@ insert into v1_26dded76e0c06536f3c1ef54870d8f3da96f1bbb6bfbc33750e4c276ed3f17be 
 insert into v1_26dded76e0c06536f3c1ef54870d8f3da96f1bbb6bfbc33750e4c276ed3f17be values (4, 21, 99007, 800);
 insert into v1_26dded76e0c06536f3c1ef54870d8f3da96f1bbb6bfbc33750e4c276ed3f17be values (5, 21, 99007, 2000);
 insert into v1_26dded76e0c06536f3c1ef54870d8f3da96f1bbb6bfbc33750e4c276ed3f17be values (6, 21, 99007, 1000);
+insert into v1_26dded76e0c06536f3c1ef54870d8f3da96f1bbb6bfbc33750e4c276ed3f17be values (7, 22, 53001, 2);
