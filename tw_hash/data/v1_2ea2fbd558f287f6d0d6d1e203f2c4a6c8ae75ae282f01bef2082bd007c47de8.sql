@@ -1588,6 +1588,7 @@ insert into v1_2ea2fbd558f287f6d0d6d1e203f2c4a6c8ae75ae282f01bef2082bd007c47de8 
 insert into v1_2ea2fbd558f287f6d0d6d1e203f2c4a6c8ae75ae282f01bef2082bd007c47de8 values (628001, '克蕾琪塔（聖誕節）的闇影', 128001, 35, 35, 450, 723, 1, 2.09, 0, 0, 1, '有著克蕾琪塔（聖誕節）樣貌的特殊魔物');
 insert into v1_2ea2fbd558f287f6d0d6d1e203f2c4a6c8ae75ae282f01bef2082bd007c47de8 values (628301, '祈梨（新年）的闇影', 128301, 38, 3, 450, 191, 1, 2.09, 0, 0, 1, '有著祈梨（新年）樣貌的特殊魔物');
 insert into v1_2ea2fbd558f287f6d0d6d1e203f2c4a6c8ae75ae282f01bef2082bd007c47de8 values (628401, '初音（新年）的闇影', 128401, 21, 7, 450, 801, 2, 2.09, 0, 0, 1, '有著初音（新年）樣貌的特殊魔物');
+insert into v1_2ea2fbd558f287f6d0d6d1e203f2c4a6c8ae75ae282f01bef2082bd007c47de8 values (628501, '霞（新年）的闇影', 128501, 21, 7, 450, 739, 2, 2.09, 0, 0, 1, '有著霞（新年）樣貌的特殊魔物');
 insert into v1_2ea2fbd558f287f6d0d6d1e203f2c4a6c8ae75ae282f01bef2082bd007c47de8 values (670101, '吉塔的闇影', 170101, 34, 34, 450, 245, 1, 1.965, 0, 0, 1, '有著吉塔樣貌的特殊魔物');
 insert into v1_2ea2fbd558f287f6d0d6d1e203f2c4a6c8ae75ae282f01bef2082bd007c47de8 values (680101, '日和（公主）的闇影', 180101, 0, 0, 450, 199, 1, 1.62, 0, 0, 1, '有著日和（公主）樣貌的特殊魔物');
 insert into v1_2ea2fbd558f287f6d0d6d1e203f2c4a6c8ae75ae282f01bef2082bd007c47de8 values (680201, '優衣（公主）的闇影', 180201, 0, 0, 450, 767, 2, 1.92, 0, 0, 1, '有著優衣（公主）樣貌的特殊魔物');
