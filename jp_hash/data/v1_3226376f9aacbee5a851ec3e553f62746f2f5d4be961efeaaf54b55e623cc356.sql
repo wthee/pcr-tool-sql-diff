@@ -133,3 +133,4 @@ insert into v1_3226376f9aacbee5a851ec3e553f62746f2f5d4be961efeaaf54b55e623cc356 
 insert into v1_3226376f9aacbee5a851ec3e553f62746f2f5d4be961efeaaf54b55e623cc356 values (23, 0, 0, 0, 0, 1, 0, '4999999999', '14999999999');
 insert into v1_3226376f9aacbee5a851ec3e553f62746f2f5d4be961efeaaf54b55e623cc356 values (25, 1, 6, 93001, 48, 12, 21600, '', '');
 insert into v1_3226376f9aacbee5a851ec3e553f62746f2f5d4be961efeaaf54b55e623cc356 values (28, 1, 6, 93001, 48, 12, 21600, '', '');
+insert into v1_3226376f9aacbee5a851ec3e553f62746f2f5d4be961efeaaf54b55e623cc356 values (30, 1, 6, 93001, 48, 12, 21600, '', '');
