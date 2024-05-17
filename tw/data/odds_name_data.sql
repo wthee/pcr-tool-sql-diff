@@ -280,3 +280,5 @@ insert into odds_name_data values (1013301, '1013320101', '依里（聖誕節）
 insert into odds_name_data values (1013302, '1013320102', '純的記憶碎片', 99002, '');
 insert into odds_name_data values (1013401, '1013420101', '祈梨（新年）的記憶碎片', 99002, '');
 insert into odds_name_data values (1013402, '1013420102', '霞的記憶碎片', 99002, '');
+insert into odds_name_data values (1013501, '1013520101', '深月（新年）的記憶碎片', 99002, '');
+insert into odds_name_data values (1013502, '1013520102', '祈梨的記憶碎片', 99002, '');

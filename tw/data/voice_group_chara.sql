@@ -12,7 +12,7 @@ insert into voice_group_chara values (101001001, '哞哞自衛隊（真步）', 
 insert into voice_group_chara values (101101001, '拉比林斯（璃乃）', 101101, 112901, 119301, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (101201001, '森林守衛（初音）', 101201, 113401, 128401, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (101301001, '暮光流星群（七七香）', 101301, 113301, 123701, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (101401001, '哞哞自衛隊（霞）', 101401, 112201, 115701, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (101401001, '哞哞自衛隊（霞）', 101401, 112201, 115701, 128501, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (101501001, '森林守衛（美里）', 101501, 113501, 124601, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (101601001, '月光學院（鈴奈）', 101601, 110001, 117901, 127301, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (101701001, '哞哞自衛隊（香織）', 101701, 110501, 117701, 0, 0, 0, 0, 0, 0, 0);
@@ -302,6 +302,7 @@ insert into voice_group_chara values (327601001, '流夏（薩拉薩利亞）（
 insert into voice_group_chara values (327901001, '貪吃佩可（聖誕節）（花凜對話用）', 127901, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (328301001, '祈梨（新年）（花凜對話用）', 128301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (328401001, '初音（新年）（花凜對話用）', 128401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (328501001, '霞（新年）（花凜對話用）', 128501, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380101001, '日和（公主）（花凜對話用）', 180101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380201001, '優衣（公主）（花凜對話用）', 180201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380301001, '怜（公主）（花凜對話用）', 180301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
