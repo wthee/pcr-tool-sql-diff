@@ -1,0 +1,9 @@
+CREATE TABLE 'v1_f6d09aca7061703217edfa8abdca46503567d98b62cba92fba9f2f66a82aae32' ('a56a31986f1a3b6485c45155e3d645ddfaf4f2a8c611a4c42e32dc083fd9bc9b' INTEGER NOT NULL, '2b3df0ad41d331622965d485e6fcbd3896320e45d84d83ff4f384e782ed1ece0' INTEGER NOT NULL, PRIMARY KEY('a56a31986f1a3b6485c45155e3d645ddfaf4f2a8c611a4c42e32dc083fd9bc9b'));
+insert into v1_f6d09aca7061703217edfa8abdca46503567d98b62cba92fba9f2f66a82aae32 values (11511, 100);
+insert into v1_f6d09aca7061703217edfa8abdca46503567d98b62cba92fba9f2f66a82aae32 values (11512, 100);
+insert into v1_f6d09aca7061703217edfa8abdca46503567d98b62cba92fba9f2f66a82aae32 values (11521, 100);
+insert into v1_f6d09aca7061703217edfa8abdca46503567d98b62cba92fba9f2f66a82aae32 values (11522, 107);
+insert into v1_f6d09aca7061703217edfa8abdca46503567d98b62cba92fba9f2f66a82aae32 values (20007, 108);
+insert into v1_f6d09aca7061703217edfa8abdca46503567d98b62cba92fba9f2f66a82aae32 values (100901, 108);
+insert into v1_f6d09aca7061703217edfa8abdca46503567d98b62cba92fba9f2f66a82aae32 values (100902, 100);
+insert into v1_f6d09aca7061703217edfa8abdca46503567d98b62cba92fba9f2f66a82aae32 values (400001, 2001);
