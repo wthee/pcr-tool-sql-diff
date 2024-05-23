@@ -171,3 +171,7 @@ insert into clan_battle_training_data values (169, 1075, 0, 1, 353);
 insert into clan_battle_training_data values (170, 1075, 0, 2, 355);
 insert into clan_battle_training_data values (171, 1075, 0, 3, 356);
 insert into clan_battle_training_data values (172, 1075, 0, 4, 357);
+insert into clan_battle_training_data values (173, 1076, 0, 1, 358);
+insert into clan_battle_training_data values (174, 1076, 0, 2, 360);
+insert into clan_battle_training_data values (175, 1076, 0, 3, 361);
+insert into clan_battle_training_data values (176, 1076, 0, 4, 362);

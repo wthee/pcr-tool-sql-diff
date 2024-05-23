@@ -1,5 +1,6 @@
 CREATE TABLE 'unique_equip_craft_enhance' ('equipment_id' INTEGER NOT NULL, 'consume_group_id' INTEGER NOT NULL, PRIMARY KEY('equipment_id'));
 insert into unique_equip_craft_enhance values (130112, 16);
+insert into unique_equip_craft_enhance values (130132, 19);
 insert into unique_equip_craft_enhance values (130162, 4);
 insert into unique_equip_craft_enhance values (130332, 9);
 insert into unique_equip_craft_enhance values (130492, 15);
@@ -18,3 +19,4 @@ insert into unique_equip_craft_enhance values (130902, 14);
 insert into unique_equip_craft_enhance values (130912, 15);
 insert into unique_equip_craft_enhance values (130952, 17);
 insert into unique_equip_craft_enhance values (130962, 18);
+insert into unique_equip_craft_enhance values (131072, 20);
