@@ -50,7 +50,7 @@ insert into event_story_data values (5082, 5, 20045, '新春美食回憶\u3000\\
 insert into event_story_data values (5084, 5, 20046, 'Re:member\u3000我的心願編織出的未來', 0, 1, '2022/05/30 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5085, 5, 20047, 'Re:member\u3000我的心願編織出的未來', 0, 1, '2022/05/30 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5088, 5, 20048, 'Sweet Tiny Stage！\u3000\\n初出茅廬的女演員與小小淑女', 0, 1, '2022/06/28 16:00:00', '2030/04/24 14:59:59');
-insert into event_story_data values (5090, 5, 10117, '交出寶物！透明怪盜雙人組', 0, 1, '2022/07/29 16:00:00', '2030/04/24 14:59:59');
+insert into event_story_data values (5090, 5, 20049, '交出寶物！透明怪盜雙人組', 0, 1, '2022/07/29 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5092, 5, 10119, 'Episode of Pirate\u3000\\n海盜島上被詛咒的遺寶', 0, 1, '2022/08/29 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5094, 5, 10121, 'Enjoy＆Refresh！\u3000\\n天差地遠的女孩露營', 0, 1, '2022/09/29 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5096, 5, 10123, '破曉之星的夏日遊戲\u3000\\n於夏海閃耀的三份心意', 0, 1, '2022/10/30 16:00:00', '2030/04/24 14:59:59');
