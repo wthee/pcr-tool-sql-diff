@@ -46,3 +46,7 @@ insert into gacha_pickup values (9, 2, 1, 108601, '綾音（聖誕節）');
 insert into gacha_pickup values (9, 3, 1, 111501, '克莉絲提娜（聖誕節）');
 insert into gacha_pickup values (9, 4, 1, 114401, '秋乃（聖誕節）');
 insert into gacha_pickup values (9, 5, 1, 119901, '宮子（聖誕節）');
+insert into gacha_pickup values (10, 1, 1, 111801, '貪吃佩可（新年）');
+insert into gacha_pickup values (10, 2, 1, 115001, '似似花（新年）');
+insert into gacha_pickup values (10, 3, 1, 120701, '雪菲（新年）');
+insert into gacha_pickup values (10, 4, 1, 120901, '伊莉亞（新年）');
