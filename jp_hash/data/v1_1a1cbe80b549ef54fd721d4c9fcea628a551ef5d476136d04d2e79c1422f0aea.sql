@@ -250,6 +250,7 @@ insert into v1_1a1cbe80b549ef54fd721d4c9fcea628a551ef5d476136d04d2e79c1422f0aea 
 insert into v1_1a1cbe80b549ef54fd721d4c9fcea628a551ef5d476136d04d2e79c1422f0aea values (129901, 'エリコ（コマンダー）', 500030, 'ランドソル 繁華街', 0.0, 4);
 insert into v1_1a1cbe80b549ef54fd721d4c9fcea628a551ef5d476136d04d2e79c1422f0aea values (130701, 'キョウカ（スプリング）', 500020, 'ランドソル_郊外', 0.0, 20);
 insert into v1_1a1cbe80b549ef54fd721d4c9fcea628a551ef5d476136d04d2e79c1422f0aea values (130801, 'スズメ（スプリング）', 500351, 'サレンディア救護院_庭', 0.0, 2);
+insert into v1_1a1cbe80b549ef54fd721d4c9fcea628a551ef5d476136d04d2e79c1422f0aea values (131001, 'マホ（ドリームパーク）', 502280, 'グランドリームパーク_園内_昼', 0.0, 2);
 insert into v1_1a1cbe80b549ef54fd721d4c9fcea628a551ef5d476136d04d2e79c1422f0aea values (180101, 'ヒヨリ（プリンセス）', 500130, 'エステレラ街道', 0.0, 2);
 insert into v1_1a1cbe80b549ef54fd721d4c9fcea628a551ef5d476136d04d2e79c1422f0aea values (180201, 'ユイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 4);
 insert into v1_1a1cbe80b549ef54fd721d4c9fcea628a551ef5d476136d04d2e79c1422f0aea values (180301, 'レイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 3);

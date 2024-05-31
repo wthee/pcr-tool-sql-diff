@@ -143,6 +143,7 @@ insert into v1_53045ec7c1aafed962eb301df472fccd64f917dfcde51e1ed2881ec5e6a5fae7 
 insert into v1_53045ec7c1aafed962eb301df472fccd64f917dfcde51e1ed2881ec5e6a5fae7 values (4129901, 129901, 1, 'ご褒美に');
 insert into v1_53045ec7c1aafed962eb301df472fccd64f917dfcde51e1ed2881ec5e6a5fae7 values (4130701, 130701, 1, 'お花のようせいさん');
 insert into v1_53045ec7c1aafed962eb301df472fccd64f917dfcde51e1ed2881ec5e6a5fae7 values (4130801, 130801, 1, 'じゃない私');
+insert into v1_53045ec7c1aafed962eb301df472fccd64f917dfcde51e1ed2881ec5e6a5fae7 values (4131001, 131001, 1, 'マホマホ王国ショー');
 insert into v1_53045ec7c1aafed962eb301df472fccd64f917dfcde51e1ed2881ec5e6a5fae7 values (4180101, 180101, 1, 'じゃんけんタイム！');
 insert into v1_53045ec7c1aafed962eb301df472fccd64f917dfcde51e1ed2881ec5e6a5fae7 values (4180201, 180201, 1, 'ぺこぺこ');
 insert into v1_53045ec7c1aafed962eb301df472fccd64f917dfcde51e1ed2881ec5e6a5fae7 values (4180301, 180301, 1, '守る力');
