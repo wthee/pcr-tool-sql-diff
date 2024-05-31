@@ -253,6 +253,7 @@ insert into uek_spine_anim_link values (129901, 1);
 insert into uek_spine_anim_link values (130601, 1);
 insert into uek_spine_anim_link values (130701, 1);
 insert into uek_spine_anim_link values (130801, 1);
+insert into uek_spine_anim_link values (131001, 1);
 insert into uek_spine_anim_link values (180101, 1);
 insert into uek_spine_anim_link values (180201, 1);
 insert into uek_spine_anim_link values (180301, 1);

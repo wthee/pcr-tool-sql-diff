@@ -997,6 +997,13 @@ insert into hatsune_special_mission_data values (81145001, 10145101, 601, 'SPECI
 insert into hatsune_special_mission_data values (81145002, 10145102, 601, 'SPECIALのMODE2をクリアしよう', 0, 9016, 2, 0, 0, 1, 81145002, 6011, 10145, '2024/05/16 12:00:00', '2024/05/25 14:59:59');
 insert into hatsune_special_mission_data values (81145003, 10145103, 601, 'SPECIALのボスを討伐しよう', 0, 9016, 3, 0, 0, 1, 81145003, 6011, 10145, '2024/05/16 12:00:00', '2024/05/25 14:59:59');
 insert into hatsune_special_mission_data values (81145004, 10145104, 601, 'SPECIALかEXHIBITIONでボスを5回以内に討伐しよう', 0, 9015, 5, 0, 0, 1, 81145004, 6011, 10145, '2024/05/16 12:00:00', '2024/05/25 14:59:59');
+insert into hatsune_special_mission_data values (81146001, 10146101, 601, 'SPECIALのMODE1をクリアしよう', 0, 9016, 1, 0, 0, 1, 81146001, 6011, 10146, '2024/05/31 12:00:00', '2024/06/18 14:59:59');
+insert into hatsune_special_mission_data values (81146002, 10146102, 601, 'SPECIALのMODE2をクリアしよう', 0, 9016, 2, 0, 0, 1, 81146002, 6011, 10146, '2024/05/31 12:00:00', '2024/06/18 14:59:59');
+insert into hatsune_special_mission_data values (81146003, 10146103, 601, 'SPECIALのボスを討伐しよう', 0, 9016, 3, 0, 0, 1, 81146003, 6011, 10146, '2024/05/31 12:00:00', '2024/06/18 14:59:59');
+insert into hatsune_special_mission_data values (81146004, 10146104, 601, 'SPECIALかEXHIBITIONでボスを5回以内に討伐しよう', 0, 9015, 5, 0, 0, 1, 81146004, 6011, 10146, '2024/05/31 12:00:00', '2024/06/18 14:59:59');
+insert into hatsune_special_mission_data values (81146011, 10146111, 601, 'EXHIBITION＋のMODE1をクリアしよう', 0, 9023, 1, 0, 0, 1, 81146011, 6013, 10146, '2024/05/31 12:00:00', '2024/06/18 14:59:59');
+insert into hatsune_special_mission_data values (81146012, 10146112, 601, 'EXHIBITION＋のMODE2をクリアしよう', 0, 9023, 2, 0, 0, 1, 81146012, 6013, 10146, '2024/05/31 12:00:00', '2024/06/18 14:59:59');
+insert into hatsune_special_mission_data values (81146013, 10146113, 601, 'EXHIBITION＋でボスを5回以内に討伐しよう', 0, 9022, 5, 0, 0, 1, 81146013, 6013, 10146, '2024/05/31 12:00:00', '2024/06/18 14:59:59');
 insert into hatsune_special_mission_data values (81181001, 10118103, 601, 'スペシャルバトルのボスのHPを86500000まで減らそう', 1, 9018, 1, 0, 0, 10000000, 81181001, 6011, 10118, '2023/04/30 12:00:00', '2023/05/18 14:59:59');
 insert into hatsune_special_mission_data values (81181002, 10118104, 601, 'スペシャルバトルのボスのHPを76500000まで減らそう', 1, 9018, 1, 0, 0, 20000000, 81181002, 6011, 10118, '2023/04/30 12:00:00', '2023/05/18 14:59:59');
 insert into hatsune_special_mission_data values (81181003, 10118105, 601, 'スペシャルバトルのMODE1をクリアしよう', 0, 9016, 1, 0, 0, 1, 81181003, 6011, 10118, '2023/04/30 12:00:00', '2023/05/18 14:59:59');
