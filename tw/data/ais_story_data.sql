@@ -1,1 +1,10 @@
 CREATE TABLE 'ais_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'unlock_condition_sub_story_id' INTEGER NOT NULL, 'read_condition_story_id' INTEGER NOT NULL, 'read_condition_sub_story_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+insert into ais_story_data values (5136061, 10136, '漫無目的的\\n基礎世界之旅', 0, 5136005, 0, 8, 91002, 20);
+insert into ais_story_data values (5136062, 10136, '粉絲的眼睛\\n堪比放大鏡', 5136061, 0, 5136061, 8, 91002, 20);
+insert into ais_story_data values (5136063, 10136, '你的名字是', 5136061, 0, 5136061, 8, 91002, 20);
+insert into ais_story_data values (5136064, 10136, '擦身而過的\\n午後', 5136061, 0, 5136061, 8, 91002, 20);
+insert into ais_story_data values (5136065, 10136, '因為是姐姐\\n所以沒問題！', 5136061, 0, 5136061, 8, 91002, 20);
+insert into ais_story_data values (5136066, 10136, '妳是\\n忍者嗎？', 5136061, 0, 5136061, 8, 91002, 20);
+insert into ais_story_data values (5136067, 10136, '在不同世界中\\n依然是大壞蛋', 5136061, 0, 5136061, 8, 91002, 20);
+insert into ais_story_data values (5136068, 10136, '風與冥風', 5136061, 0, 5136061, 8, 91002, 20);
+insert into ais_story_data values (5136069, 10136, '和別人神似的\\n恐～怖故事', 5136061, 0, 5136061, 8, 91002, 20);
