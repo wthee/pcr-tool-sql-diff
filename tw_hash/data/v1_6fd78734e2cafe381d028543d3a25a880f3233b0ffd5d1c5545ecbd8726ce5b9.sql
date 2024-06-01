@@ -74,3 +74,4 @@ insert into v1_6fd78734e2cafe381d028543d3a25a880f3233b0ffd5d1c5545ecbd8726ce5b9 
 insert into v1_6fd78734e2cafe381d028543d3a25a880f3233b0ffd5d1c5545ecbd8726ce5b9 values (75, 128301, 10134, 71134032, '討伐NORMAL BOSS解放！', '[3C404E]進行活動、挑戰BOSS、\\n討伐NORMAL BOSS可解放限定角色！！[-]', '[3C404E]討伐NORMAL BOSS解放！');
 insert into v1_6fd78734e2cafe381d028543d3a25a880f3233b0ffd5d1c5545ecbd8726ce5b9 values (76, 124101, 10133, 71133032, '討伐NORMAL BOSS解放！', '[3C404E]進行活動、挑戰BOSS、\\n討伐NORMAL BOSS可解放限定角色！！[-]', '[3C404E]討伐NORMAL BOSS解放！');
 insert into v1_6fd78734e2cafe381d028543d3a25a880f3233b0ffd5d1c5545ecbd8726ce5b9 values (77, 124701, 10135, 71135032, '討伐NORMAL BOSS解放！', '[3C404E]進行活動、挑戰BOSS、\\n討伐NORMAL BOSS可解放限定角色！！[-]', '[3C404E]討伐NORMAL BOSS解放！');
+insert into v1_6fd78734e2cafe381d028543d3a25a880f3233b0ffd5d1c5545ecbd8726ce5b9 values (78, 128801, 10136, 71136032, '討伐NORMAL BOSS解放！', '[3C404E]進行活動、挑戰BOSS、\\n討伐NORMAL BOSS可解放限定角色！！[-]', '[3C404E]討伐NORMAL BOSS解放！');
