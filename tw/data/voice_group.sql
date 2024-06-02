@@ -390,4 +390,5 @@ insert into voice_group values (30214, '初音（新年）（花凜對話用）'
 insert into voice_group values (30215, '祈梨（新年）（花凜對話用）', 118501001, 328301001, 0, 0, 0);
 insert into voice_group values (30216, '靜流＆璃乃（花凜對話用）', 118501001, 381101001, 0, 0, 0);
 insert into voice_group values (30217, '霞（新年）（花凜對話用）', 118501001, 328501001, 0, 0, 0);
+insert into voice_group values (30218, '優衣（星素）（花凜對話用）', 118501001, 328901001, 0, 0, 0);
 insert into voice_group values (30219, '怜（星素）（花凜對話用）', 118501001, 328801001, 0, 0, 0);
