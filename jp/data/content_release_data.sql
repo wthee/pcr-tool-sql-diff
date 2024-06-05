@@ -19,6 +19,7 @@ insert into content_release_data values (125, 1, 0, 0, 'ルナの塔オープニ
 insert into content_release_data values (127, 1, 0, 11010001, 'メインクエスト10-1\\n（NORMAL）クリアで解放');
 insert into content_release_data values (129, 1, 0, 11002006, 'メインクエスト2-6（NORMAL）クリアで解放');
 insert into content_release_data values (130, 1, 0, 11063001, 'メインクエスト\\n63-1（NORMAL）\\nクリアで解放');
+insert into content_release_data values (131, 1, 0, 11010001, 'メインクエスト10-1\\n（NORMAL）クリアで解放');
 insert into content_release_data values (201, 1, 0, 0, '');
 insert into content_release_data values (202, 1, 0, 11004006, 'メインクエスト4-6（NORMAL）クリアで解放');
 insert into content_release_data values (203, 1, 0, 11008015, 'メインクエスト8-15（NORMAL）クリアで解放');

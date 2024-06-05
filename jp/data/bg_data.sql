@@ -193,4 +193,6 @@ insert into bg_data values ('QUEST_SPECIAL_AND_UNIT_EXPAND', 500240, 0);
 insert into bg_data values ('HATSUNE_FPC', 0, 0);
 insert into bg_data values ('HATSUNE_FPC_GALLERY', 0, 0);
 insert into bg_data values ('HATSUNE_FPC_REPLAY', 0, 0);
+insert into bg_data values ('DOME_TOP', 531400, 0);
+insert into bg_data values ('DOME_BATTLE_RESULT', 0, 0);
 insert into bg_data values ('HATSUNE_APG', 0, 0);
