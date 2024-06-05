@@ -1,1 +1,17 @@
 CREATE TABLE 'v1_4d5abef3cbf5eec009e8884cbe9646f038c4e54dc9b24dc50d9ca81bdc9d5e71' ('401f308124b87e9f82eedc01db11943988c94eab25360ab55c2639a5ade18c41' INTEGER NOT NULL, '1fe3702a61c49b0e1ebfc7cf27a6a5a124db8e85bf269864908990a7ec20f83e' TEXT NOT NULL, '9a3ca2b7dcddabd944d757c369f8b023886adb33aa73931afa013839ebea728d' INTEGER NOT NULL, '7e12f4aa9009ad3852cfcf97c766022a954f945e9eba1dc4892322d48865fb95' INTEGER NOT NULL, PRIMARY KEY('401f308124b87e9f82eedc01db11943988c94eab25360ab55c2639a5ade18c41'));
+insert into v1_4d5abef3cbf5eec009e8884cbe9646f038c4e54dc9b24dc50d9ca81bdc9d5e71 values (100101, '戦闘不能になったキャラが0人以下で勝利', 1001, 0);
+insert into v1_4d5abef3cbf5eec009e8884cbe9646f038c4e54dc9b24dc50d9ca81bdc9d5e71 values (100102, '戦闘不能になったキャラが1人以下で勝利', 1001, 1);
+insert into v1_4d5abef3cbf5eec009e8884cbe9646f038c4e54dc9b24dc50d9ca81bdc9d5e71 values (100103, '戦闘不能になったキャラが2人以下で勝利', 1001, 2);
+insert into v1_4d5abef3cbf5eec009e8884cbe9646f038c4e54dc9b24dc50d9ca81bdc9d5e71 values (100201, 'バトルの残り時間が1:15以上で勝利', 1002, 74001);
+insert into v1_4d5abef3cbf5eec009e8884cbe9646f038c4e54dc9b24dc50d9ca81bdc9d5e71 values (100202, 'バトルの残り時間が1:10以上で勝利', 1002, 69001);
+insert into v1_4d5abef3cbf5eec009e8884cbe9646f038c4e54dc9b24dc50d9ca81bdc9d5e71 values (100203, 'バトルの残り時間が1:00以上で勝利', 1002, 59001);
+insert into v1_4d5abef3cbf5eec009e8884cbe9646f038c4e54dc9b24dc50d9ca81bdc9d5e71 values (100204, 'バトルの残り時間が0:50以上で勝利', 1002, 49001);
+insert into v1_4d5abef3cbf5eec009e8884cbe9646f038c4e54dc9b24dc50d9ca81bdc9d5e71 values (100205, 'バトルの残り時間が0:45以上で勝利', 1002, 44001);
+insert into v1_4d5abef3cbf5eec009e8884cbe9646f038c4e54dc9b24dc50d9ca81bdc9d5e71 values (100206, 'バトルの残り時間が0:40以上で勝利', 1002, 39001);
+insert into v1_4d5abef3cbf5eec009e8884cbe9646f038c4e54dc9b24dc50d9ca81bdc9d5e71 values (100207, 'バトルの残り時間が0:30以上で勝利', 1002, 29001);
+insert into v1_4d5abef3cbf5eec009e8884cbe9646f038c4e54dc9b24dc50d9ca81bdc9d5e71 values (100301, '味方のTotal HPが100%以上で勝利', 1003, 1000);
+insert into v1_4d5abef3cbf5eec009e8884cbe9646f038c4e54dc9b24dc50d9ca81bdc9d5e71 values (100302, '味方のTotal HPが90%以上で勝利', 1003, 900);
+insert into v1_4d5abef3cbf5eec009e8884cbe9646f038c4e54dc9b24dc50d9ca81bdc9d5e71 values (100303, '味方のTotal HPが80%以上で勝利', 1003, 800);
+insert into v1_4d5abef3cbf5eec009e8884cbe9646f038c4e54dc9b24dc50d9ca81bdc9d5e71 values (100304, '味方のTotal HPが70%以上で勝利', 1003, 700);
+insert into v1_4d5abef3cbf5eec009e8884cbe9646f038c4e54dc9b24dc50d9ca81bdc9d5e71 values (100305, '味方のTotal HPが60%以上で勝利', 1003, 600);
+insert into v1_4d5abef3cbf5eec009e8884cbe9646f038c4e54dc9b24dc50d9ca81bdc9d5e71 values (100306, '味方のTotal HPが50%以上で勝利', 1003, 500);

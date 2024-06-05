@@ -1,0 +1,7 @@
+CREATE TABLE 'v1_fd0f71fe755d97c3e3ceef1f2bcb947b7416c58deac561bd01e789ec43d89271' ('1ac7aba39b72dc6f5487e2564c2702645860f05db6522140477a988e22f9ae4e' INTEGER NOT NULL, 'f98c8c0948039fabbdf656478a1c03992211d0efac1a6e1fb5ce404d32fbcc00' INTEGER NOT NULL, 'ba13a9961546e7aebc0a4cdf1f9ab7d4e486a4c0a75c529970396c5554422caf' INTEGER NOT NULL, PRIMARY KEY('1ac7aba39b72dc6f5487e2564c2702645860f05db6522140477a988e22f9ae4e'));
+insert into v1_fd0f71fe755d97c3e3ceef1f2bcb947b7416c58deac561bd01e789ec43d89271 values (1, 1, 1);
+insert into v1_fd0f71fe755d97c3e3ceef1f2bcb947b7416c58deac561bd01e789ec43d89271 values (2, 2, 2);
+insert into v1_fd0f71fe755d97c3e3ceef1f2bcb947b7416c58deac561bd01e789ec43d89271 values (3, 3, 3);
+insert into v1_fd0f71fe755d97c3e3ceef1f2bcb947b7416c58deac561bd01e789ec43d89271 values (4, 4, 10);
+insert into v1_fd0f71fe755d97c3e3ceef1f2bcb947b7416c58deac561bd01e789ec43d89271 values (5, 11, 15);
+insert into v1_fd0f71fe755d97c3e3ceef1f2bcb947b7416c58deac561bd01e789ec43d89271 values (6, 16, -1);

@@ -1,0 +1,13 @@
+CREATE TABLE 'v1_bbc60ede2e3681a81cdb7b3ffd4addbd320eb555e7d5fd6e191a6d31539a1423' ('84ad0db1296e34a282d0dafeeca612fe8d3e00a1325d78e54dd4fce659c6f12e' INTEGER NOT NULL, 'f25b023cc24971e70fe36b97ac5cfbbbb443f47806e376d03b99c025bd0608d7' INTEGER NOT NULL, '04649c0d339d9508c81ffabed774be947a89d8e37ca0c24e13f3cbdf3ad70377' TEXT NOT NULL, '24a8bae4d6541787908ef9be876a83f8b01e4b419e82ccba5c74cf4598a544c1' INTEGER NOT NULL, 'e73d3406bf80ee800020e704d4ff8ca00f6d6467cc04c8ee2fb5b6dee8ef54db' INTEGER NOT NULL, '9c460541c72ba833e9b5f5833ba79d3669001ca601f1d28872a9e34ae676adf2' INTEGER NOT NULL, PRIMARY KEY('84ad0db1296e34a282d0dafeeca612fe8d3e00a1325d78e54dd4fce659c6f12e'));
+insert into v1_bbc60ede2e3681a81cdb7b3ffd4addbd320eb555e7d5fd6e191a6d31539a1423 values (1005801, 10058, '絆ダイアリーその1', 20033108, 0, 5058003);
+insert into v1_bbc60ede2e3681a81cdb7b3ffd4addbd320eb555e7d5fd6e191a6d31539a1423 values (1005802, 10058, '絆ダイアリーその2', 20033110, 0, 5058003);
+insert into v1_bbc60ede2e3681a81cdb7b3ffd4addbd320eb555e7d5fd6e191a6d31539a1423 values (1005803, 10058, '絆ダイアリーその3', 20033112, 0, 5058003);
+insert into v1_bbc60ede2e3681a81cdb7b3ffd4addbd320eb555e7d5fd6e191a6d31539a1423 values (1005804, 10058, '絆ダイアリーその4', 20033115, 0, 5058004);
+insert into v1_bbc60ede2e3681a81cdb7b3ffd4addbd320eb555e7d5fd6e191a6d31539a1423 values (1005805, 10058, '絆ダイアリーその5', 0, 2003301, 5058005);
+insert into v1_bbc60ede2e3681a81cdb7b3ffd4addbd320eb555e7d5fd6e191a6d31539a1423 values (1005901, 10059, '絆ダイアリーその6', 20034103, 0, 5059001);
+insert into v1_bbc60ede2e3681a81cdb7b3ffd4addbd320eb555e7d5fd6e191a6d31539a1423 values (1005902, 10059, '絆ダイアリーその7', 20034106, 0, 5059002);
+insert into v1_bbc60ede2e3681a81cdb7b3ffd4addbd320eb555e7d5fd6e191a6d31539a1423 values (1005903, 10059, '絆ダイアリーその8', 20034109, 0, 5059004);
+insert into v1_bbc60ede2e3681a81cdb7b3ffd4addbd320eb555e7d5fd6e191a6d31539a1423 values (1005904, 10059, '絆ダイアリーその9', 20034112, 0, 5059005);
+insert into v1_bbc60ede2e3681a81cdb7b3ffd4addbd320eb555e7d5fd6e191a6d31539a1423 values (1005905, 10059, '絆ダイアリーその10', 20034115, 0, 5059006);
+insert into v1_bbc60ede2e3681a81cdb7b3ffd4addbd320eb555e7d5fd6e191a6d31539a1423 values (1005906, 10059, '絆ダイアリーその11', 0, 2003401, 5059007);
+insert into v1_bbc60ede2e3681a81cdb7b3ffd4addbd320eb555e7d5fd6e191a6d31539a1423 values (1005907, 10059, 'エクストラページ', 0, 0, 0);
