@@ -4,5 +4,6 @@ insert into v1_4ec9a23b15ccab29fa107c2b452cf57d55a05f86f0431ac041bb43897c1f0ee4 
 insert into v1_4ec9a23b15ccab29fa107c2b452cf57d55a05f86f0431ac041bb43897c1f0ee4 values (20004, '公主連結！Re:Dive 4周年紀念');
 insert into v1_4ec9a23b15ccab29fa107c2b452cf57d55a05f86f0431ac041bb43897c1f0ee4 values (20005, '公主連結！Re:Dive 4.5周年紀念');
 insert into v1_4ec9a23b15ccab29fa107c2b452cf57d55a05f86f0431ac041bb43897c1f0ee4 values (20006, '公主連結！Re:Dive 5周年紀念');
+insert into v1_4ec9a23b15ccab29fa107c2b452cf57d55a05f86f0431ac041bb43897c1f0ee4 values (20007, '公主連結！Re:Dive 6周年紀念');
 insert into v1_4ec9a23b15ccab29fa107c2b452cf57d55a05f86f0431ac041bb43897c1f0ee4 values (30001, '小遊戲‧迷你內容');
 insert into v1_4ec9a23b15ccab29fa107c2b452cf57d55a05f86f0431ac041bb43897c1f0ee4 values (40001, '大家的日曆');

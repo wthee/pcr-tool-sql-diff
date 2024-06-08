@@ -27,3 +27,5 @@ insert into v1_a336c3cc6433d3c39628032f7349af9e25987c3dfa2a87ca83d2dc0e4d55e201 
 insert into v1_a336c3cc6433d3c39628032f7349af9e25987c3dfa2a87ca83d2dc0e4d55e201 values (9000227, 30001, 0, '太鼓高手的海報', 0, 0, 1);
 insert into v1_a336c3cc6433d3c39628032f7349af9e25987c3dfa2a87ca83d2dc0e4d55e201 values (9000228, 40001, 0, '回憶的軌跡', 0, 0, 2);
 insert into v1_a336c3cc6433d3c39628032f7349af9e25987c3dfa2a87ca83d2dc0e4d55e201 values (9000230, 30001, 0, '降臨期日曆\u3000自訂主頁面', 0, 0, 1);
+insert into v1_a336c3cc6433d3c39628032f7349af9e25987c3dfa2a87ca83d2dc0e4d55e201 values (9000233, 20007, 0, '「I Wish\u3000緊握的這雙手」主視覺 自訂主頁面', 0, 0, 1);
+insert into v1_a336c3cc6433d3c39628032f7349af9e25987c3dfa2a87ca83d2dc0e4d55e201 values (9000240, 30001, 0, 'Another Wish‧Log 自訂主頁面', 0, 0, 1);
