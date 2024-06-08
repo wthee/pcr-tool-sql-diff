@@ -537,4 +537,7 @@ insert into movie values (513400601, 5134, 5134006, '', '', 1, 1, 1.0);
 insert into movie values (513400701, 5134, 5134007, '', '', 1, 1, 1.0);
 insert into movie values (513450101, 5134, 5134501, '', '', 0, 1, 1.0);
 insert into movie values (513600101, 5136, 5136001, '', '', 1, 1, 1.0);
+insert into movie values (513700201, 5137, 5137002, '', '', 1, 1, 1.0);
+insert into movie values (513700401, 5137, 5137004, '', '', 1, 1, 1.0);
+insert into movie values (513700501, 5137, 5137005, '', '', 1, 1, 1.0);
 insert into movie values (700100001, 7001, 7001000, '', '', 0, 1, 1.0);
