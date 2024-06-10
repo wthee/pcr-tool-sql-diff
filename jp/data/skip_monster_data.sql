@@ -4087,6 +4087,7 @@ insert into skip_monster_data values (13065003, 13065, 'キャッスル・オブ
 insert into skip_monster_data values (13067001, 13067, '渦炎密林 67-1', 103670101, 103341);
 insert into skip_monster_data values (13067002, 13067, '渦炎密林 67-2', 103670201, 103341);
 insert into skip_monster_data values (13067003, 13067, '渦炎密林 67-3', 103670301, 103341);
+insert into skip_monster_data values (13068001, 13068, '思索樹海 68-1', 103680101, 103341);
 insert into skip_monster_data values (18001001, 18001, '聖跡調査クエストLv1', 108010108, 101331);
 insert into skip_monster_data values (18001002, 18001, '聖跡調査クエストLv2', 108010208, 101341);
 insert into skip_monster_data values (18001003, 18001, '聖跡調査クエストLv3', 108010308, 101341);
