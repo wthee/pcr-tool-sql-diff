@@ -287,3 +287,5 @@ insert into odds_name_data values (1013602, '1013620102', '優衣的記憶碎片
 insert into odds_name_data values (1013603, 'box_rank_14-22', '隨機裝備箱', 99002, '能夠獲得隨機的裝備。');
 insert into odds_name_data values (1013701, '1013720101', '怜（星素）的記憶碎片', 99002, '');
 insert into odds_name_data values (1013702, '1013720102', '日和的記憶碎片', 99002, '');
+insert into odds_name_data values (1013801, '1013820101', '嘉夜（解放者）的記憶碎片', 99002, '');
+insert into odds_name_data values (1013802, '1013820102', '望的記憶碎片', 99002, '');
