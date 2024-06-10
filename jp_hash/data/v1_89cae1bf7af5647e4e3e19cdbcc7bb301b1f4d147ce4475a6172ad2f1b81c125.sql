@@ -7304,3 +7304,5 @@ insert into v1_89cae1bf7af5647e4e3e19cdbcc7bb301b1f4d147ce4475a6172ad2f1b81c125 
 insert into v1_89cae1bf7af5647e4e3e19cdbcc7bb301b1f4d147ce4475a6172ad2f1b81c125 values (8205, 131001, 3, 5, 1, 0, 1, 'このあったかい感じ…\\nスポットライトの熱を\\n思い出すわぁ', 0);
 insert into v1_89cae1bf7af5647e4e3e19cdbcc7bb301b1f4d147ce4475a6172ad2f1b81c125 values (8207, 131001, 3, 7, 1, 0, 1, 'ちゃんと食べへんと\\nいい演技はできまへん\\n団長はんも言うてたわ', 0);
 insert into v1_89cae1bf7af5647e4e3e19cdbcc7bb301b1f4d147ce4475a6172ad2f1b81c125 values (8208, 131001, 3, 8, 1, 0, 1, '動物さんたちのことも\\nもっと勉強せな\\n大事な仲間やさかい', 0);
+insert into v1_89cae1bf7af5647e4e3e19cdbcc7bb301b1f4d147ce4475a6172ad2f1b81c125 values (8210, 105601, 1, 103, 12, 0, 1, '器用じゃないが、\\n情には厚いよ\\nこういう女を「一途」\\nってそう言うんだろ？', 0);
+insert into v1_89cae1bf7af5647e4e3e19cdbcc7bb301b1f4d147ce4475a6172ad2f1b81c125 values (8211, 105601, 2, 103, 12, 0, 1, '斬れないものはないと\\n思ってきたさ。だけど\\n…この気持ちだけは\\n斬れないね、絶対に', 0);

@@ -657,6 +657,11 @@ insert into v1_ccaeba943cf0a4432e09cd49aafa077e3add44cf2c3cb0c9bfa042c257f6279b 
 insert into v1_ccaeba943cf0a4432e09cd49aafa077e3add44cf2c3cb0c9bfa042c257f6279b values (10560106, 105601, 105, '絆ランク演出5', '');
 insert into v1_ccaeba943cf0a4432e09cd49aafa077e3add44cf2c3cb0c9bfa042c257f6279b values (10560107, 105601, 106, '絆ランク演出6', '');
 insert into v1_ccaeba943cf0a4432e09cd49aafa077e3add44cf2c3cb0c9bfa042c257f6279b values (10560108, 105601, 107, '絆ランク演出7', '');
+insert into v1_ccaeba943cf0a4432e09cd49aafa077e3add44cf2c3cb0c9bfa042c257f6279b values (10560109, 105601, 202, '★6才能開花演出', '');
+insert into v1_ccaeba943cf0a4432e09cd49aafa077e3add44cf2c3cb0c9bfa042c257f6279b values (10560110, 105601, 108, '絆ランク演出8', '');
+insert into v1_ccaeba943cf0a4432e09cd49aafa077e3add44cf2c3cb0c9bfa042c257f6279b values (10560111, 105601, 109, '絆ランク演出9', '');
+insert into v1_ccaeba943cf0a4432e09cd49aafa077e3add44cf2c3cb0c9bfa042c257f6279b values (10560112, 105601, 110, '絆ランク演出10', '');
+insert into v1_ccaeba943cf0a4432e09cd49aafa077e3add44cf2c3cb0c9bfa042c257f6279b values (10560113, 105601, 111, '絆ランク演出11', '');
 insert into v1_ccaeba943cf0a4432e09cd49aafa077e3add44cf2c3cb0c9bfa042c257f6279b values (10570101, 105701, 201, '解放演出1', '');
 insert into v1_ccaeba943cf0a4432e09cd49aafa077e3add44cf2c3cb0c9bfa042c257f6279b values (10570102, 105701, 101, '絆ランク演出1', '');
 insert into v1_ccaeba943cf0a4432e09cd49aafa077e3add44cf2c3cb0c9bfa042c257f6279b values (10570103, 105701, 102, '絆ランク演出2', '');
