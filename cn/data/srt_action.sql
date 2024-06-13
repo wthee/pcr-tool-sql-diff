@@ -36,7 +36,7 @@ insert into srt_action values ('WIN_HP', 'srt_inori_win_1', 'srt_dragon_win', 's
 insert into srt_action values ('WIN_N', 'srt_inori_win_1', 'srt_dragon_win', '', '', 1, '是我们赢了哦！', 'win_005-win_006,win_012-win_013');
 insert into srt_action values ('LOSE_MISS', 'srt_inori_lose', 'srt_dragon_lose', 'srt_kaya_win', '', 1, '啊呜呜……是我输了……', 'lose_017,lose_019,lose_023');
 insert into srt_action values ('LOSE_N', '', 'srt_dragon_miss', '', '', 1, '啊呜呜……是我输了……', 'lose_017,lose_019,lose_023');
-insert into srt_action values ('TIMEUP', 'srt_inori_lose', 'srt_dragon_lose', 'srt_kaya_win', '', 1, '时、时间到了吗！？是我大意了…… ', 'lose_025/lose_026-boss_emote_068,lose_021');
+insert into srt_action values ('TIMEUP', 'srt_inori_lose', 'srt_dragon_lose', 'srt_kaya_win', '', 1, '时、时间到了吗！？是我大意了……', 'lose_025/lose_026-boss_emote_068,lose_021');
 insert into srt_action values ('LOSE_MISS2', 'srt_inori_lose', 'srt_dragon_lose', 'srt_kaya_win', '', 1, '啊呜呜……我输了……\\n已经出现过“{0}”了……', 'lose_017,lose_019,lose_023');
 insert into srt_action values ('LOSE_N2', '', 'srt_dragon_miss', '', '', 1, '啊呜呜……我输了……\\n已经出现过“{0}”了……', 'lose_017,lose_019,lose_023');
 insert into srt_action values ('TIMEUP2', 'srt_inori_lose', 'srt_dragon_lose', 'srt_kaya_win', '', 1, '时、时间到了吗！？我太大意了…… \\n已经出现过“{0}”了……', 'lose_025/lose_026-boss_emote_068,lose_021');

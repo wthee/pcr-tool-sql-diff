@@ -13,7 +13,7 @@ insert into character_love_rankup_text values (1012, '柏崎 初音', 2, 1.4, 0,
 insert into character_love_rankup_text values (1016, '美波 鈴奈', 2, 1.4, 0, 0, 0, 1, 'ちょす！\\n美波鈴奈だよ～♪', 0, 1, '一応カリスマ読モJKやってまっす！', 0, 1, 'ヒデサイまぢ\\nGF（グッドフィーリング）～♪');
 insert into character_love_rankup_text values (1017, '喜屋武 香織', 2, 1.4, 0, 0, 0, 1, 'はいたーい。\\n喜屋武香織さー。', 0, 1, '東京は遊園地みたいなところさー', 0, 1, 'でも、沖縄もとってもいいとこさー');
 insert into character_love_rankup_text values (1018, '支倉 伊緒', 2, 1.4, 0, 0, 0, 1, '支倉伊緒です。', 0, 1, '先生って呼ばれるのは\\nくすぐったいから', 0, 1, 'イオちゃんって呼んでね。');
-insert into character_love_rankup_text values (1020, '茜 ミミ', 2, 1.5, 0, 0, 0, 1, 'ふえ…？\\nミミ、むずかしいこと\\nよくわかんない…', 0, 1, 'あ！/\\お兄ちゃ～ん\\nまってよ～', 0, 1, 'ミミをおいてかないでぇ～');
+insert into character_love_rankup_text values (1020, '茜 ミミ', 2, 1.5, 0, 0, 0, 1, 'ふえ…？\\nミミ、むずかしいこと\\nよくわかんない…', 0, 1, 'あ！/お兄ちゃ～ん\\nまってよ～', 0, 1, 'ミミをおいてかないでぇ～');
 insert into character_love_rankup_text values (1021, '栗林 くるみ', 2, 1.5, 0, 0, 0, 1, 'あ…あの…えっと…\\n栗…林…くるみ…です……', 0, 1, 'あの……\\nふぇ……', 0, 1, 'ふぇぇぇぇぇん……');
 insert into character_love_rankup_text values (1022, '風宮 より', 2, 1.4, 0, 0, 0, 1, '風宮よりです。\\nあああああ！', 0, 1, 'こんな私に貴重な時間を\\n割いていただき、', 0, 1, 'なんてありがとうございます！');
 insert into character_love_rankup_text values (1023, '北条 綾音', 2, 1.5, 0, 0, 0, 1, '私、アヤネ！\\nぷうきちと一緒についてってあげるね！', 0, 1, 'おにいちゃんどこいくの？\\nえ？', 0, 1, '私こっち行きたいー\\nね、早く早くー');

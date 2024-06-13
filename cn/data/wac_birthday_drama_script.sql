@@ -4374,7 +4374,7 @@ insert into wac_birthday_drama_script values (31314054, 31314, 3, '104011', 'wac
 insert into wac_birthday_drama_script values (31314055, 31314, 93, '2', '', '', '', '', '', '', '');
 insert into wac_birthday_drama_script values (31314056, 31314, 131, '1', '', '', '', '', '', '', '');
 insert into wac_birthday_drama_script values (31314057, 31314, 21, 'vo_wac_31314', 'vo_wac_31314_000', '0', '0', '', '', '', '');
-insert into wac_birthday_drama_script values (31314058, 31314, 11, '101211', '生日☆快乐☆小初音！\\还能收到这么大的蛋糕，\\n真是最棒的生日了哦～闪亮☆', '10', '1', '1', '0', '0', '0.5');
+insert into wac_birthday_drama_script values (31314058, 31314, 11, '101211', '生日☆快乐☆小初音！还能收到这么大的蛋糕，\\n真是最棒的生日了哦～闪亮☆', '10', '1', '1', '0', '0', '0.5');
 insert into wac_birthday_drama_script values (31314059, 31314, 91, '0', '', '', '', '', '', '', '');
 insert into wac_birthday_drama_script values (31314060, 31314, 3, '101211', 'wac_birthday_hatsune_wish_to_idle_kyapi', '0', 'wac_birthday_idle_kyapi', '1', '0.2', '', '');
 insert into wac_birthday_drama_script values (31314061, 31314, 3, '101511', 'wac_birthday_talk_smile', '1', '', '', '0.2', '', '');

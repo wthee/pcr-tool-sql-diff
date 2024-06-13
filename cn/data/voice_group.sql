@@ -153,9 +153,9 @@ insert into voice_group values (20155, '霸瞳皇帝＆似似花', 106901001, 10
 insert into voice_group values (20156, '美空＆兰法', 118201001, 118101001, 0, 0, 0);
 insert into voice_group values (20157, '美空＆矛依未', 118201001, 106101001, 0, 0, 0);
 insert into voice_group values (20160, '莉莉＆可可萝', 125801001, 105901001, 0, 0, 0);
-insert into voice_group values (20161, '碧卡拉＆姬塔', 125601001, 105701001, 0, 0, 0);
-insert into voice_group values (20162, '碧卡拉＆花凛', 125601001, 118501001, 0, 0, 0);
-insert into voice_group values (20163, '碧卡拉＆流夏', 125601001, 105601001, 0, 0, 0);
+insert into voice_group values (20161, '毗伽菈＆姬塔', 125601001, 105701001, 0, 0, 0);
+insert into voice_group values (20162, '毗伽菈＆花凛', 125601001, 118501001, 0, 0, 0);
+insert into voice_group values (20163, '毗伽菈＆流夏', 125601001, 105601001, 0, 0, 0);
 insert into voice_group values (20164, '克萝茜＆莱拉耶尔', 126401001, 126501001, 0, 0, 0);
 insert into voice_group values (20165, '克萝茜&七七香', 126401001, 101301001, 0, 0, 0);
 insert into voice_group values (20166, '克萝茜＆可可萝', 126401001, 105901001, 0, 0, 0);

@@ -3,4 +3,4 @@ insert into serial_group_data values (101, 'アニメ Season1 全巻購入特典
 insert into serial_group_data values (102, 'アニメ Season2 全巻購入特典', 10201, 10202, 10203, 0, 0, 0, '2022-05-16 00:00:00', '2030/12/31 23:59:59');
 insert into serial_group_data values (201, '週刊ファミ通', 0, 0, 0, 0, 0, 0, '2021-05-19 00:00:00', '2022/05/19 23:59:59');
 insert into serial_group_data values (202, '公式アートワークス Vol.3', 0, 0, 0, 0, 0, 0, '2021-07-30 00:00:00', '2030/07/30 23:59:59');
-insert into serial_group_data values (203, 'プリコネフェス2023\u3000リアルガチャ', 0, 0, 0, 0, 0, 0, '2023-01-15 15:00:00', '2024/01/31 23:59:59');
+insert into serial_group_data values (203, '公主连结庆典2023\u3000真实扭蛋', 0, 0, 0, 0, 0, 0, '2023-01-15 15:00:00', '2024/01/31 23:59:59');

@@ -83,8 +83,8 @@ insert into voice_group_chara values (118501001, '花凛', 118501, 125701, 0, 0,
 insert into voice_group_chara values (122301001, '斑比', 122301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (123001001, '爱梅斯', 123001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (123301001, '涅亚', 123301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (125601001, '碧卡拉', 125601, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (125801001, '莉莉（圣坛少女）', 125801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (125601001, '毗伽菈', 125601, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (125801001, '莉莉（幻变少女）', 125801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (126401001, '克萝茜', 126401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (126501001, '莱拉耶尔', 126501, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (180701001, '初音＆栞', 180701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
