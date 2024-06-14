@@ -554,3 +554,7 @@ insert into enemy_m_parts values (802100245, '卡里莎', 802100246, 802100247, 
 insert into enemy_m_parts values (803100201, '黑之王賈巴沃克', 803100202, 803100203, 803100204, 0, 0);
 insert into enemy_m_parts values (803100205, '黑之王賈巴沃克', 803100206, 803100207, 803100208, 0, 0);
 insert into enemy_m_parts values (803100209, '黑之王賈巴沃克', 803100210, 803100211, 803100212, 0, 0);
+insert into enemy_m_parts values (820103001, '深域泰坦龍龜', 820103002, 820103003, 820103004, 0, 0);
+insert into enemy_m_parts values (830102001, '深域哥布林騎兵', 830102002, 830102003, 0, 0, 0);
+insert into enemy_m_parts values (840102001, '深域冰霜獵犬', 840102002, 840102003, 840102004, 0, 0);
+insert into enemy_m_parts values (850103001, '深域雷電', 850103002, 850103003, 850103004, 0, 0);

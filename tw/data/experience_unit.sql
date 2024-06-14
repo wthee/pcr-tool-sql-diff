@@ -305,3 +305,6 @@ insert into experience_unit values (303, 19547642);
 insert into experience_unit values (304, 19700994);
 insert into experience_unit values (305, 19854946);
 insert into experience_unit values (306, 20009498);
+insert into experience_unit values (307, 20164650);
+insert into experience_unit values (308, 20320402);
+insert into experience_unit values (309, 20476754);
