@@ -1544,7 +1544,7 @@ insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f 
 insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f values (2510059, 5, 1, 2, 0, '在台灣的習俗中，哪一種水果被視為醫護人員的禁忌？', 2);
 insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f values (2510060, 5, 1, 2, 0, '被認為是因為有幽靈在，所以在家中發出的不自然的聲音被稱為什麼？', 2);
 insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f values (2511001, 5, 1, 1, 0, '被美空藏在月光學院內的洗腦魔法裝置是在哪裡發現的？', 2);
-insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f values (2511002, 5, 1, 1, 0, '到2023年12月為止，是《超異域公主連結☆Re:Dive》的幾週年？', 2);
+insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f values (2511002, 5, 1, 1, 0, '到2023年12月為止，是《超異域公主連結☆Re:Dive》的幾周年？', 2);
 insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f values (2511003, 5, 1, 1, 0, '冒險頁面中的「戰鬥競技場」圖示上，畫著的以下哪位角色？', 2);
 insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f values (2511004, 5, 1, 1, 0, '下列選項中，哪一個是琪愛兒的口頭禪？', 2);
 insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f values (2511005, 5, 1, 1, 0, '被卡里莎破壞的【里士滿工商會】，其新的公會小屋名稱是什麼？', 2);
@@ -1577,7 +1577,7 @@ insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f 
 insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f values (2520039, 5, 2, 2, 0, '撲克牌「K」的國王之中，哪一位沒有鬍子？', 2);
 insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f values (2520040, 5, 2, 2, 0, '下列哪一個是代表２月誕生石？', 2);
 insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f values (2520042, 5, 2, 2, 0, '哪種曆法是以地球公轉為標準所制定的？ ', 2);
-insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f values (2520043, 5, 2, 2, 0, '「紙婚」指的是結婚幾週年的紀念日？', 2);
+insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f values (2520043, 5, 2, 2, 0, '「紙婚」指的是結婚幾周年的紀念日？', 2);
 insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f values (2520044, 5, 2, 2, 0, '用棒針編織時，上針下針連續交錯的基本編織法稱為什麼？', 2);
 insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f values (2520045, 5, 2, 2, 0, '日本麻將中，役滿時只有莊家能和牌的牌型是？', 2);
 insert into v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f values (2520047, 5, 2, 2, 0, '在撲克遊戲中，湊齊５張相同花色的是什麼牌型？', 2);

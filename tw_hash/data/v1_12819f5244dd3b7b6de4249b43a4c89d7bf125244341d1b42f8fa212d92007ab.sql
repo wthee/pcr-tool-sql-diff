@@ -17,8 +17,8 @@ insert into v1_12819f5244dd3b7b6de4249b43a4c89d7bf125244341d1b42f8fa212d92007ab 
 insert into v1_12819f5244dd3b7b6de4249b43a4c89d7bf125244341d1b42f8fa212d92007ab values (124, 1, 0, 11003001, '主線冒險3-1（NORMAL）通關後解放');
 insert into v1_12819f5244dd3b7b6de4249b43a4c89d7bf125244341d1b42f8fa212d92007ab values (125, 1, 0, 0, '閱覽露娜之塔序幕劇情後解放');
 insert into v1_12819f5244dd3b7b6de4249b43a4c89d7bf125244341d1b42f8fa212d92007ab values (127, 1, 0, 11010001, '主線冒險\\n10-1（NORMAL）\\n通關後解放');
-insert into v1_12819f5244dd3b7b6de4249b43a4c89d7bf125244341d1b42f8fa212d92007ab values (129, 999, 0, 11002006, 'メインクエスト2-6（NORMAL）クリアで解放');
-insert into v1_12819f5244dd3b7b6de4249b43a4c89d7bf125244341d1b42f8fa212d92007ab values (130, 999, 0, 11063001, 'メインクエスト\\n63-1（NORMAL）\\nクリアで解放');
+insert into v1_12819f5244dd3b7b6de4249b43a4c89d7bf125244341d1b42f8fa212d92007ab values (129, 1, 0, 11002006, '主線冒險2-6（NORMAL）通關後解放');
+insert into v1_12819f5244dd3b7b6de4249b43a4c89d7bf125244341d1b42f8fa212d92007ab values (130, 1, 0, 11063001, '主線冒險\\n63-1（NORMAL）\\n通關後解放');
 insert into v1_12819f5244dd3b7b6de4249b43a4c89d7bf125244341d1b42f8fa212d92007ab values (201, 1, 0, 0, '');
 insert into v1_12819f5244dd3b7b6de4249b43a4c89d7bf125244341d1b42f8fa212d92007ab values (202, 1, 0, 11004006, '主線冒險4-6（NORMAL）通關後解放');
 insert into v1_12819f5244dd3b7b6de4249b43a4c89d7bf125244341d1b42f8fa212d92007ab values (203, 1, 0, 11008015, '主線冒險8-15（NORMAL）通關後解放');
