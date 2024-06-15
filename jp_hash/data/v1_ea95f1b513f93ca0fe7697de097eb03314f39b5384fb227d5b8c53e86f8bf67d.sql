@@ -91,6 +91,7 @@ insert into v1_ea95f1b513f93ca0fe7697de097eb03314f39b5384fb227d5b8c53e86f8bf67d 
 insert into v1_ea95f1b513f93ca0fe7697de097eb03314f39b5384fb227d5b8c53e86f8bf67d values (126501001, 'ライラエル', 126501, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_ea95f1b513f93ca0fe7697de097eb03314f39b5384fb227d5b8c53e86f8bf67d values (129001001, 'エリス', 129001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_ea95f1b513f93ca0fe7697de097eb03314f39b5384fb227d5b8c53e86f8bf67d values (129601001, 'アネモネ', 129601, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into v1_ea95f1b513f93ca0fe7697de097eb03314f39b5384fb227d5b8c53e86f8bf67d values (130901001, 'クルル', 130901, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_ea95f1b513f93ca0fe7697de097eb03314f39b5384fb227d5b8c53e86f8bf67d values (180701001, 'ハツネ＆シオリ', 180701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_ea95f1b513f93ca0fe7697de097eb03314f39b5384fb227d5b8c53e86f8bf67d values (180801001, 'ミソギ＆ミミ＆キョウカ', 180801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_ea95f1b513f93ca0fe7697de097eb03314f39b5384fb227d5b8c53e86f8bf67d values (180901001, 'アキノ＆サレン', 180901, 0, 0, 0, 0, 0, 0, 0, 0, 0);

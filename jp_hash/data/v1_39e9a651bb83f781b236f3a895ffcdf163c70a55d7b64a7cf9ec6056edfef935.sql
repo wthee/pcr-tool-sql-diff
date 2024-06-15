@@ -27,3 +27,4 @@ insert into v1_39e9a651bb83f781b236f3a895ffcdf163c70a55d7b64a7cf9ec6056edfef935 
 insert into v1_39e9a651bb83f781b236f3a895ffcdf163c70a55d7b64a7cf9ec6056edfef935 values (41, 120801, 20045, 72045021, 'ボスNORMAL討伐で解放！', '[3C404E]イベントを進めて、ボスに挑戦！\\nボスNORMALを討伐すると、\\n限定キャラ解放！！[-]', '[3C404E]ボスNORMAL討伐で解放！');
 insert into v1_39e9a651bb83f781b236f3a895ffcdf163c70a55d7b64a7cf9ec6056edfef935 values (42, 121201, 20047, 72047021, 'ボスNORMAL討伐で解放！', '[3C404E]イベントを進めて、ボスに挑戦！\\nボスNORMALを討伐すると、\\n限定キャラ解放！！[-]', '[3C404E]ボスNORMAL討伐で解放！');
 insert into v1_39e9a651bb83f781b236f3a895ffcdf163c70a55d7b64a7cf9ec6056edfef935 values (43, 122101, 20051, 72051021, 'ボスNORMAL討伐で解放！', '[3C404E]イベントを進めて、ボスに挑戦！\\nボスNORMALを討伐すると、\\n限定キャラ解放！！[-]', '[3C404E]ボスNORMAL討伐で解放！');
+insert into v1_39e9a651bb83f781b236f3a895ffcdf163c70a55d7b64a7cf9ec6056edfef935 values (44, 122401, 20052, 72052021, 'ボスNORMAL討伐で解放！', '[3C404E]イベントを進めて、ボスに挑戦！\\nボスNORMALを討伐すると、\\n限定キャラ解放！！[-]', '[3C404E]ボスNORMAL討伐で解放！');
