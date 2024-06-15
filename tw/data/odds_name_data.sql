@@ -289,3 +289,5 @@ insert into odds_name_data values (1013701, '1013720101', '怜（星素）的記
 insert into odds_name_data values (1013702, '1013720102', '日和的記憶碎片', 99002, '');
 insert into odds_name_data values (1013801, '1013820101', '嘉夜（解放者）的記憶碎片', 99002, '');
 insert into odds_name_data values (1013802, '1013820102', '望的記憶碎片', 99002, '');
+insert into odds_name_data values (1013901, '1013920101', '嘉夜（解放者）的記憶碎片', 99002, '');
+insert into odds_name_data values (1013902, '1013920102', '千歌的記憶碎片', 99002, '');

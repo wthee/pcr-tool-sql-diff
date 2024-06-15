@@ -136,4 +136,5 @@ insert into event_gacha_data values (10135, 10135, '煙霧繚繞忘年奇譚\u30
 insert into event_gacha_data values (10136, 10136, 'I Wish\u3000緊握的這雙手', 2, 61352, 1, 6);
 insert into event_gacha_data values (10137, 10137, 'I Wish\u3000緊握的這雙手', 2, 61362, 1, 6);
 insert into event_gacha_data values (10138, 10138, '解放自由的伊甸園\u3000有朝一日重逢的未來', 2, 61372, 1, 6);
+insert into event_gacha_data values (10139, 10139, '解放自由的伊甸園\u3000有朝一日重逢的未來', 2, 61382, 1, 6);
 insert into event_gacha_data values (19003, 10003, '吸血鬼獵人 with伊莉亞', 2, 60022, 1, 5);
