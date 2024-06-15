@@ -412,3 +412,6 @@ insert into v1_2ab3e2b4cd8a5e9bfe4df76004fe7b69ad2dfa3b277cb94f6f2341d68bb9a6ff 
 insert into v1_2ab3e2b4cd8a5e9bfe4df76004fe7b69ad2dfa3b277cb94f6f2341d68bb9a6ff values (610138502, 10138, 1, 0, -100, 0);
 insert into v1_2ab3e2b4cd8a5e9bfe4df76004fe7b69ad2dfa3b277cb94f6f2341d68bb9a6ff values (610138503, 10138, 1, 0, 0, 0);
 insert into v1_2ab3e2b4cd8a5e9bfe4df76004fe7b69ad2dfa3b277cb94f6f2341d68bb9a6ff values (610138504, 10138, 1, 0, 100, 0);
+insert into v1_2ab3e2b4cd8a5e9bfe4df76004fe7b69ad2dfa3b277cb94f6f2341d68bb9a6ff values (610139501, 10139, 2, 0, -120, 0);
+insert into v1_2ab3e2b4cd8a5e9bfe4df76004fe7b69ad2dfa3b277cb94f6f2341d68bb9a6ff values (610139502, 10139, 2, 0, -40, 0);
+insert into v1_2ab3e2b4cd8a5e9bfe4df76004fe7b69ad2dfa3b277cb94f6f2341d68bb9a6ff values (610139503, 10139, 2, 0, 40, 0);
