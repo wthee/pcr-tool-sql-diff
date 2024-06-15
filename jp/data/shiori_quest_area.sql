@@ -128,3 +128,6 @@ insert into shiori_quest_area values (20050101, 20050, '呪われた海賊島', 
 insert into shiori_quest_area values (20050201, 20050, '呪われた海賊島', 201, 'bgm_M582', 'bgm_M582', 1, 0, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20051101, 20051, 'キャンピングフィールド', 201, 'bgm_M595', 'bgm_M595', 1, 1, 128, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20051201, 20051, 'キャンピングフィールド', 201, 'bgm_M595', 'bgm_M595', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20052101, 20052, '王都ランドソル', 201, 'bgm_M601', 'bgm_M601', 1, 1, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20052102, 20052, 'サマーゲームリゾート', 201, 'bgm_M601', 'bgm_M601', 1, 2, 80, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20052201, 20052, 'サマーゲームリゾート', 201, 'bgm_M601', 'bgm_M601', 1, 0, 0, 0, 0, '0', '0', 0);

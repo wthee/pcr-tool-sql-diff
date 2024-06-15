@@ -178,6 +178,9 @@ insert into voice_group values (20181, 'アネモネ＆クリア', 129601001, 12
 insert into voice_group values (20182, 'アネモネ＆ミツキ', 129601001, 105101001, 0, 0, 0);
 insert into voice_group values (20183, 'エリス＆ユイ', 129001001, 100201001, 0, 0, 0);
 insert into voice_group values (20184, 'エリス＆アメス', 129001001, 123001001, 0, 0, 0);
+insert into voice_group values (20189, 'クルル＆ライラエル', 130901001, 126501001, 0, 0, 0);
+insert into voice_group values (20190, 'クルル＆クローチェ', 130901001, 126401001, 0, 0, 0);
+insert into voice_group values (20191, 'クルル＆マホ', 130901001, 101001001, 0, 0, 0);
 insert into voice_group values (30001, 'ヒヨリ（カリン掛け合い用）', 118501001, 300101001, 0, 0, 0);
 insert into voice_group values (30002, 'ユイ（カリン掛け合い用）', 118501001, 300201001, 0, 0, 0);
 insert into voice_group values (30003, 'レイ（カリン掛け合い用）', 118501001, 300301001, 0, 0, 0);

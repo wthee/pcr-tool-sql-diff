@@ -2,6 +2,7 @@ CREATE TABLE 'enemy_ignore_skill_rf' ('enemy_id' INTEGER NOT NULL, PRIMARY KEY('
 insert into enemy_ignore_skill_rf values (102350210,);
 insert into enemy_ignore_skill_rf values (103280210,);
 insert into enemy_ignore_skill_rf values (105690604,);
+insert into enemy_ignore_skill_rf values (105700603,);
 insert into enemy_ignore_skill_rf values (550101402,);
 insert into enemy_ignore_skill_rf values (550101403,);
 insert into enemy_ignore_skill_rf values (550101408,);
