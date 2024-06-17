@@ -239,6 +239,7 @@ insert into unit_talent values (12800101, 128001, 4);
 insert into unit_talent values (12830101, 128301, 1);
 insert into unit_talent values (12840101, 128401, 4);
 insert into unit_talent values (12850101, 128501, 1);
+insert into unit_talent values (12870101, 128701, 1);
 insert into unit_talent values (12880101, 128801, 3);
 insert into unit_talent values (12890101, 128901, 4);
 insert into unit_talent values (17010101, 170101, 4);

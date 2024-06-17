@@ -1,5 +1,5 @@
 CREATE TABLE 'voice_group_chara' ('group_unit_id' INTEGER NOT NULL, 'group_unit_id_comment' TEXT NOT NULL, 'unit_id_01' INTEGER NOT NULL, 'unit_id_02' INTEGER NOT NULL, 'unit_id_03' INTEGER NOT NULL, 'unit_id_04' INTEGER NOT NULL, 'unit_id_05' INTEGER NOT NULL, 'unit_id_06' INTEGER NOT NULL, 'unit_id_07' INTEGER NOT NULL, 'unit_id_08' INTEGER NOT NULL, 'unit_id_09' INTEGER NOT NULL, 'unit_id_10' INTEGER NOT NULL, PRIMARY KEY('group_unit_id'));
-insert into voice_group_chara values (100101001, '破曉之星（日和）', 100101, 108701, 180101, 122401, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (100101001, '破曉之星（日和）', 100101, 108701, 180101, 122401, 128701, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (100201001, '破曉之星（優衣）', 100201, 108801, 180201, 115601, 122601, 128901, 0, 0, 0, 0);
 insert into voice_group_chara values (100301001, '破曉之星（怜）', 100301, 108901, 114001, 180301, 122501, 128801, 0, 0, 0, 0);
 insert into voice_group_chara values (100401001, '小小甜心（禊）', 100401, 111201, 122801, 0, 0, 0, 0, 0, 0, 0);
@@ -303,6 +303,7 @@ insert into voice_group_chara values (327901001, '貪吃佩可（聖誕節）（
 insert into voice_group_chara values (328301001, '祈梨（新年）（花凜對話用）', 128301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (328401001, '初音（新年）（花凜對話用）', 128401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (328501001, '霞（新年）（花凜對話用）', 128501, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (328701001, '日和（星素）（花凜對話用）', 128701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (328801001, '怜（星素）（花凜對話用）', 128801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (328901001, '優衣（星素）（花凜對話用）', 128901, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (380101001, '日和（公主）（花凜對話用）', 180101, 0, 0, 0, 0, 0, 0, 0, 0, 0);

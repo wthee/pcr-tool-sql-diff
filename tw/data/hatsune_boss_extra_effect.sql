@@ -56,6 +56,8 @@ insert into hatsune_boss_extra_effect values (56, 1013606, 180101, 3001, '戰鬥
 insert into hatsune_boss_extra_effect values (57, 1013606, 180101, 3010, '戰鬥開始90秒內，\\n特大幅度提升TP上升。', '2024/06/01 16:00:00');
 insert into hatsune_boss_extra_effect values (58, 1013606, 122401, 3001, '戰鬥開始90秒內，\\n超大幅度提升物理攻擊力。', '2024/06/01 16:00:00');
 insert into hatsune_boss_extra_effect values (59, 1013606, 122401, 3010, '戰鬥開始90秒內，\\n特大幅度提升TP上升。', '2024/06/01 16:00:00');
+insert into hatsune_boss_extra_effect values (60, 1013606, 128701, 3001, '戰鬥開始90秒內，\\n超大幅度提升物理攻擊力。', '2024/06/17 16:00:00');
+insert into hatsune_boss_extra_effect values (61, 1013606, 128701, 3010, '戰鬥開始90秒內，\\n特大幅度提升TP上升。', '2024/06/17 16:00:00');
 insert into hatsune_boss_extra_effect values (62, 1013606, 108801, 3003, '戰鬥開始90秒內，\\n極大幅度提升魔法攻擊力。', '2024/06/01 16:00:00');
 insert into hatsune_boss_extra_effect values (63, 1013606, 108801, 3004, '戰鬥開始90秒內，\\n極大幅度提升魔法防禦力。', '2024/06/01 16:00:00');
 insert into hatsune_boss_extra_effect values (64, 1013606, 108801, 3010, '戰鬥開始90秒內，\\n特大幅度提升TP上升。', '2024/06/01 16:00:00');
@@ -91,6 +93,8 @@ insert into hatsune_boss_extra_effect values (93, 1013706, 180101, 3001, '戰鬥
 insert into hatsune_boss_extra_effect values (94, 1013706, 180101, 3002, '戰鬥開始90秒內，\\n極大幅度提升物理防禦力。', '2024/06/08 16:00:00');
 insert into hatsune_boss_extra_effect values (95, 1013706, 122401, 3001, '戰鬥開始90秒內，\\n超大幅度提升物理攻擊力。', '2024/06/08 16:00:00');
 insert into hatsune_boss_extra_effect values (96, 1013706, 122401, 3002, '戰鬥開始90秒內，\\n極大幅度提升物理防禦力。', '2024/06/08 16:00:00');
+insert into hatsune_boss_extra_effect values (97, 1013706, 128701, 3001, '戰鬥開始90秒內，\\n超大幅度提升物理攻擊力。', '2024/06/17 16:00:00');
+insert into hatsune_boss_extra_effect values (98, 1013706, 128701, 3002, '戰鬥開始90秒內，\\n極大幅度提升物理防禦力。', '2024/06/17 16:00:00');
 insert into hatsune_boss_extra_effect values (99, 1013706, 108801, 3003, '戰鬥開始90秒內，\\n超大幅度提升魔法攻擊力。', '2024/06/08 16:00:00');
 insert into hatsune_boss_extra_effect values (100, 1013706, 108801, 3002, '戰鬥開始90秒內，極大幅度提升\\n物理防禦力，並使無法行動效果無效。', '2024/06/08 16:00:00');
 insert into hatsune_boss_extra_effect values (101, 1013706, 115601, 3003, '戰鬥開始90秒內，\\n超大幅度提升魔法攻擊力。', '2024/06/08 16:00:00');
