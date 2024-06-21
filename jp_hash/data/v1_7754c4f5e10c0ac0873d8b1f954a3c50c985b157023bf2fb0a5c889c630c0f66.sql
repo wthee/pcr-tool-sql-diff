@@ -197,3 +197,9 @@ insert into v1_7754c4f5e10c0ac0873d8b1f954a3c50c985b157023bf2fb0a5c889c630c0f66 
 insert into v1_7754c4f5e10c0ac0873d8b1f954a3c50c985b157023bf2fb0a5c889c630c0f66 values (16, 2, 1, 108701, 'ヒヨリ（ニューイヤー）');
 insert into v1_7754c4f5e10c0ac0873d8b1f954a3c50c985b157023bf2fb0a5c889c630c0f66 values (16, 3, 1, 112001, 'キャル（ニューイヤー）');
 insert into v1_7754c4f5e10c0ac0873d8b1f954a3c50c985b157023bf2fb0a5c889c630c0f66 values (16, 4, 1, 111901, 'コッコロ（ニューイヤー）');
+insert into v1_7754c4f5e10c0ac0873d8b1f954a3c50c985b157023bf2fb0a5c889c630c0f66 values (17, 1, 1, 110301, 'サレン（サマー）');
+insert into v1_7754c4f5e10c0ac0873d8b1f954a3c50c985b157023bf2fb0a5c889c630c0f66 values (17, 2, 1, 110001, 'スズナ（サマー）');
+insert into v1_7754c4f5e10c0ac0873d8b1f954a3c50c985b157023bf2fb0a5c889c630c0f66 values (17, 3, 1, 107501, 'ペコリーヌ（サマー）');
+insert into v1_7754c4f5e10c0ac0873d8b1f954a3c50c985b157023bf2fb0a5c889c630c0f66 values (17, 4, 1, 107801, 'キャル（サマー）');
+insert into v1_7754c4f5e10c0ac0873d8b1f954a3c50c985b157023bf2fb0a5c889c630c0f66 values (17, 5, 1, 107701, 'スズメ（サマー）');
+insert into v1_7754c4f5e10c0ac0873d8b1f954a3c50c985b157023bf2fb0a5c889c630c0f66 values (17, 6, 1, 107901, 'タマキ（サマー）');
