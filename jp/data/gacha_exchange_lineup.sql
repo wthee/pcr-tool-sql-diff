@@ -773,3 +773,11 @@ insert into gacha_exchange_lineup values (771, 325, 127901, 3, 0, 0, '2024/05/27
 insert into gacha_exchange_lineup values (772, 326, 131001, 3, 1144, 30326, '2024/05/31 12:00:00', '2024/06/10 11:59:59');
 insert into gacha_exchange_lineup values (773, 327, 126201, 3, 0, 0, '2024/06/10 12:00:00', '2024/06/15 14:59:59');
 insert into gacha_exchange_lineup values (774, 328, 130901, 3, 1145, 30328, '2024/06/15 15:00:00', '2024/06/26 11:59:59');
+insert into gacha_exchange_lineup values (775, 329, 110301, 3, 0, 0, '2024/06/21 12:00:00', '2024/06/26 11:59:59');
+insert into gacha_exchange_lineup values (776, 329, 110001, 3, 0, 0, '2024/06/21 12:00:00', '2024/06/26 11:59:59');
+insert into gacha_exchange_lineup values (777, 329, 107501, 3, 0, 0, '2024/06/21 12:00:00', '2024/06/26 11:59:59');
+insert into gacha_exchange_lineup values (778, 329, 107801, 3, 0, 0, '2024/06/21 12:00:00', '2024/06/26 11:59:59');
+insert into gacha_exchange_lineup values (779, 329, 107701, 3, 0, 0, '2024/06/21 12:00:00', '2024/06/26 11:59:59');
+insert into gacha_exchange_lineup values (780, 329, 107901, 3, 0, 0, '2024/06/21 12:00:00', '2024/06/26 11:59:59');
+insert into gacha_exchange_lineup values (781, 330, 128401, 3, 0, 0, '2024/06/26 12:00:00', '2024/06/30 11:59:59');
+insert into gacha_exchange_lineup values (782, 330, 128501, 3, 0, 0, '2024/06/26 12:00:00', '2024/06/30 11:59:59');
