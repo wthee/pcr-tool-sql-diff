@@ -164,7 +164,7 @@ insert into asm_many_answers_data values (3430011, '烧酒', 0, '威士忌', 0, 
 insert into asm_many_answers_data values (3430012, '酱油', 0, '醋', 0, '里脊', 0, '酒', 0, 1, 1, 0, 0);
 insert into asm_many_answers_data values (3430013, '芜菁', 0, '繁缕', 0, '荠菜', 0, '牛蒡', 0, 1, 1, 1, 0);
 insert into asm_many_answers_data values (3430015, '玉米片', 0, '格兰诺拉麦片', 0, '燕麦片', 0, '意式香肠', 0, 1, 1, 1, 0);
-insert into asm_many_answers_data values (3431001, '绝不让步的夏日游戏', 0, '夏日游戏称霸者', 0, '旗帜不能让', 0, '沙滩公主', 0, 1, 1, 0, 0);
+insert into asm_many_answers_data values (3431001, '不认输的夏日游戏', 0, '夏日游戏的称霸者', 0, '旗帜不能让', 0, '沙滩公主', 0, 1, 1, 0, 0);
 insert into asm_many_answers_data values (3431002, '海岛的4号位见习生', 0, '海岛的强打者', 0, '海岛坚不可摧的4号位', 0, '噗吉好球', 0, 1, 1, 1, 0);
 insert into asm_many_answers_data values (3510001, '黑白棋', 0, '围棋', 0, '西洋棋', 0, '日本将棋', 0, 1, 1, 1, 0);
 insert into asm_many_answers_data values (3510002, '箫', 0, '长笛', 0, '竖笛', 0, '小提琴', 0, 1, 1, 1, 0);

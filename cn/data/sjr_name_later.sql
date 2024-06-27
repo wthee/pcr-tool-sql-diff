@@ -42,7 +42,7 @@ insert into sjr_name_later values (40, '海豚', 1, 60000, 69999);
 insert into sjr_name_later values (41, '工匠', 1, 60000, 69999);
 insert into sjr_name_later values (42, '赛车手', 1, 60000, 69999);
 insert into sjr_name_later values (43, '吞拿鱼', 1, 60000, 69999);
-insert into sjr_name_later values (44, '中游的中游', 1, 60000, 69999);
+insert into sjr_name_later values (44, '中游', 1, 60000, 69999);
 insert into sjr_name_later values (45, '知名人士', 2, 60000, 69999);
 insert into sjr_name_later values (46, '异才', 1, 60000, 69999);
 insert into sjr_name_later values (47, '精英', 1, 60000, 69999);
