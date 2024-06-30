@@ -196,3 +196,4 @@ insert into bg_data values ('HATSUNE_FPC_REPLAY', 0, 0);
 insert into bg_data values ('DOME_TOP', 531400, 0);
 insert into bg_data values ('DOME_BATTLE_RESULT', 0, 0);
 insert into bg_data values ('HATSUNE_APG', 0, 0);
+insert into bg_data values ('HATSUNE_TPR', 0, 0);

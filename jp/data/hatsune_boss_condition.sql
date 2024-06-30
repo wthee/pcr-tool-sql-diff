@@ -696,3 +696,9 @@ insert into hatsune_boss_condition values (1014702, 10147, 0, 0, 1014701, 0, 0, 
 insert into hatsune_boss_condition values (1014703, 10147, 0, 0, 1014702, 0, 0, '0', 0, 0, 1014704, 0);
 insert into hatsune_boss_condition values (1014704, 10147, 0, 0, 1014703, 0, 0, '0', 0, 0, 0, 0);
 insert into hatsune_boss_condition values (1014705, 10147, 0, 0, 1014704, 0, 0, '0', 0, 0, 0, 0);
+insert into hatsune_boss_condition values (1014801, 10148, 10148110, 0, 0, 0, 0, '0', 10148201, 0, 1014802, 0);
+insert into hatsune_boss_condition values (1014802, 10148, 0, 0, 1014801, 0, 0, '0', 0, 0, 1014803, 0);
+insert into hatsune_boss_condition values (1014803, 10148, 0, 0, 1014802, 0, 0, '0', 0, 0, 1014804, 0);
+insert into hatsune_boss_condition values (1014804, 10148, 0, 0, 1014803, 0, 0, '0', 0, 0, 0, 0);
+insert into hatsune_boss_condition values (1014805, 10148, 0, 0, 1014804, 0, 0, '0', 0, 0, 0, 0);
+insert into hatsune_boss_condition values (1014806, 10148, 0, 0, 1014804, 0, 0, '0', 0, 0, 0, 0);

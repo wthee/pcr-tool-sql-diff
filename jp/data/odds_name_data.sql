@@ -302,3 +302,5 @@ insert into odds_name_data values (1014402, '1014420102', 'スズメのメモリ
 insert into odds_name_data values (1014403, 'box_rank_15-23', 'ランダム装備BOX', 99002, 'ランダムな装備が獲得できる。');
 insert into odds_name_data values (1014601, '1014620101', 'マホのメモリーピース', 99002, '');
 insert into odds_name_data values (1014602, '1014620102', 'クルミのメモリーピース', 99002, '');
+insert into odds_name_data values (1014801, '1014820101', 'ノゾミのメモリーピース', 99002, '');
+insert into odds_name_data values (1014802, '1014820102', 'チカのメモリーピース', 99002, '');

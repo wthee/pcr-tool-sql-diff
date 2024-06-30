@@ -41,3 +41,8 @@ insert into extra_effect_target_range values (39, 61014601, 6101466);
 insert into extra_effect_target_range values (40, 61014601, 6101467);
 insert into extra_effect_target_range values (41, 61014601, 6101468);
 insert into extra_effect_target_range values (42, 61014601, 6101469);
+insert into extra_effect_target_range values (43, 61014801, 6101481);
+insert into extra_effect_target_range values (44, 61014801, 6101482);
+insert into extra_effect_target_range values (45, 61014801, 6101483);
+insert into extra_effect_target_range values (46, 61014801, 6101484);
+insert into extra_effect_target_range values (47, 61014801, 6101485);

@@ -82,7 +82,7 @@ insert into voice_group_chara values (118201001, 'レイジレギオン（ミソ
 insert into voice_group_chara values (118501001, 'カリン', 118501, 125701, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (122301001, 'ヴァンピィ', 122301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (123001001, 'アメス', 123001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into voice_group_chara values (123301001, 'ネア', 123301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (123301001, 'ネア', 123301, 131101, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (125601001, 'ビカラ', 125601, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (125801001, 'リリ（フォールン）', 125801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (126001001, 'クリア（フォールン）', 126001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -91,6 +91,7 @@ insert into voice_group_chara values (126401001, 'クローチェ', 126401, 0, 0
 insert into voice_group_chara values (126501001, 'ライラエル', 126501, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (129001001, 'エリス', 129001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (129601001, 'アネモネ', 129601, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (129701001, 'ネフィ＝ネラ', 129701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (130901001, 'クルル', 130901, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (180701001, 'ハツネ＆シオリ', 180701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (180801001, 'ミソギ＆ミミ＆キョウカ', 180801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
