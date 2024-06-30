@@ -246,12 +246,14 @@ insert into v1_7533174d860a88721fd6bd9bf1262fc4b4f8f9abdcc85d9ace4a94208fdca2fd 
 insert into v1_7533174d860a88721fd6bd9bf1262fc4b4f8f9abdcc85d9ace4a94208fdca2fd values (129301, 'ユニ（ウィンター）', 502220, 'メルクリゾート_プールエリア_昼', 0.0, 2);
 insert into v1_7533174d860a88721fd6bd9bf1262fc4b4f8f9abdcc85d9ace4a94208fdca2fd values (129401, 'クロエ（ウィンター）', 502220, 'メルクリゾート_プールエリア_昼', 0.0, 2);
 insert into v1_7533174d860a88721fd6bd9bf1262fc4b4f8f9abdcc85d9ace4a94208fdca2fd values (129601, 'アネモネ', 502071, 'ジオ・ゲヘナ_ジャングル_夜', 0.0, 2);
+insert into v1_7533174d860a88721fd6bd9bf1262fc4b4f8f9abdcc85d9ace4a94208fdca2fd values (129701, 'ネフィ＝ネラ', 502170, 'ジオ・ゲヘナ_鬼岩城塞_王座の間_昼', 0.0, 2);
 insert into v1_7533174d860a88721fd6bd9bf1262fc4b4f8f9abdcc85d9ace4a94208fdca2fd values (129801, 'マコト（コマンダー）', 501680, '平原_昼', 0.0, 2);
 insert into v1_7533174d860a88721fd6bd9bf1262fc4b4f8f9abdcc85d9ace4a94208fdca2fd values (129901, 'エリコ（コマンダー）', 500030, 'ランドソル 繁華街', 0.0, 4);
 insert into v1_7533174d860a88721fd6bd9bf1262fc4b4f8f9abdcc85d9ace4a94208fdca2fd values (130701, 'キョウカ（スプリング）', 500020, 'ランドソル_郊外', 0.0, 20);
 insert into v1_7533174d860a88721fd6bd9bf1262fc4b4f8f9abdcc85d9ace4a94208fdca2fd values (130801, 'スズメ（スプリング）', 500351, 'サレンディア救護院_庭', 0.0, 2);
 insert into v1_7533174d860a88721fd6bd9bf1262fc4b4f8f9abdcc85d9ace4a94208fdca2fd values (130901, 'クルル', 502270, 'グランドリームパーク_エントランス_昼', 0.0, 4);
 insert into v1_7533174d860a88721fd6bd9bf1262fc4b4f8f9abdcc85d9ace4a94208fdca2fd values (131001, 'マホ（ドリームパーク）', 502280, 'グランドリームパーク_園内_昼', 0.0, 2);
+insert into v1_7533174d860a88721fd6bd9bf1262fc4b4f8f9abdcc85d9ace4a94208fdca2fd values (131101, 'ネア（サマー）', 501030, 'ウィッシュビーチ', 0.0, 3);
 insert into v1_7533174d860a88721fd6bd9bf1262fc4b4f8f9abdcc85d9ace4a94208fdca2fd values (180101, 'ヒヨリ（プリンセス）', 500130, 'エステレラ街道', 0.0, 2);
 insert into v1_7533174d860a88721fd6bd9bf1262fc4b4f8f9abdcc85d9ace4a94208fdca2fd values (180201, 'ユイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 4);
 insert into v1_7533174d860a88721fd6bd9bf1262fc4b4f8f9abdcc85d9ace4a94208fdca2fd values (180301, 'レイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 3);

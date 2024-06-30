@@ -302,3 +302,5 @@ insert into v1_8c93802c11adf4d6a9ed5eff0281ce682d83cbdc84cebc543bf60813f1f931d8 
 insert into v1_8c93802c11adf4d6a9ed5eff0281ce682d83cbdc84cebc543bf60813f1f931d8 values (1014403, 'box_rank_15-23', 'ランダム装備BOX', 99002, 'ランダムな装備が獲得できる。');
 insert into v1_8c93802c11adf4d6a9ed5eff0281ce682d83cbdc84cebc543bf60813f1f931d8 values (1014601, '1014620101', 'マホのメモリーピース', 99002, '');
 insert into v1_8c93802c11adf4d6a9ed5eff0281ce682d83cbdc84cebc543bf60813f1f931d8 values (1014602, '1014620102', 'クルミのメモリーピース', 99002, '');
+insert into v1_8c93802c11adf4d6a9ed5eff0281ce682d83cbdc84cebc543bf60813f1f931d8 values (1014801, '1014820101', 'ノゾミのメモリーピース', 99002, '');
+insert into v1_8c93802c11adf4d6a9ed5eff0281ce682d83cbdc84cebc543bf60813f1f931d8 values (1014802, '1014820102', 'チカのメモリーピース', 99002, '');
