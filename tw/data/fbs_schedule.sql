@@ -15,3 +15,11 @@ insert into fbs_schedule values (13, 4010013, '2024/06/09 05:00:00', '2024/06/10
 insert into fbs_schedule values (14, 4010014, '2024/06/13 05:00:00', '2024/06/14 04:59:59');
 insert into fbs_schedule values (15, 4010015, '2024/06/17 05:00:00', '2024/06/18 04:59:59');
 insert into fbs_schedule values (16, 4010016, '2024/06/25 05:00:00', '2024/06/26 04:59:59');
+insert into fbs_schedule values (17, 4010017, '2024/07/01 05:00:00', '2024/07/02 04:59:59');
+insert into fbs_schedule values (18, 4010018, '2024/07/02 05:00:00', '2024/07/03 04:59:59');
+insert into fbs_schedule values (19, 4010019, '2024/07/05 05:00:00', '2024/07/06 04:59:59');
+insert into fbs_schedule values (20, 4010020, '2024/07/07 05:00:00', '2024/07/08 04:59:59');
+insert into fbs_schedule values (21, 4010021, '2024/07/11 05:00:00', '2024/07/12 04:59:59');
+insert into fbs_schedule values (22, 4010022, '2024/07/25 05:00:00', '2024/07/26 04:59:59');
+insert into fbs_schedule values (23, 4010023, '2024/07/28 05:00:00', '2024/07/29 04:59:59');
+insert into fbs_schedule values (24, 4010024, '2024/07/30 05:00:00', '2024/07/31 04:59:59');
