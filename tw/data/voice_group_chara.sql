@@ -89,6 +89,7 @@ insert into voice_group_chara values (126001001, '可璃亞（墮落）', 126001
 insert into voice_group_chara values (126101001, '普蕾西亞（墮落）', 126101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (126401001, '克蘿茜', 126401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (126501001, '萊拉耶爾', 126501, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into voice_group_chara values (129001001, '厄莉絲', 129001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (180701001, '初音＆栞（夏日）', 180701, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (180801001, '禊＆美美＆鏡華', 180801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into voice_group_chara values (180901001, '秋乃＆咲戀', 180901, 0, 0, 0, 0, 0, 0, 0, 0, 0);

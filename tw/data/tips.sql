@@ -137,6 +137,7 @@ insert into tips values (4127201, 127201, 1, '感覺好像不是這樣');
 insert into tips values (4127301, 127301, 1, '一起享受青春');
 insert into tips values (4127501, 127501, 1, '許多伴手禮');
 insert into tips values (4127601, 127601, 1, '雖然很方便……');
+insert into tips values (4129001, 129001, 1, '不能輸');
 insert into tips values (4180101, 180101, 1, '猜拳時間！');
 insert into tips values (4180201, 180201, 1, '肚子咕咕叫');
 insert into tips values (4180301, 180301, 1, '守護之力');
