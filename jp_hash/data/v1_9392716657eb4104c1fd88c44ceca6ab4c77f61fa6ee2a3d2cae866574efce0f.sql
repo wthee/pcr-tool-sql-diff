@@ -24,3 +24,4 @@ insert into v1_9392716657eb4104c1fd88c44ceca6ab4c77f61fa6ee2a3d2cae866574efce0f 
 insert into v1_9392716657eb4104c1fd88c44ceca6ab4c77f61fa6ee2a3d2cae866574efce0f values (129401, '通常時', '特殊スキル');
 insert into v1_9392716657eb4104c1fd88c44ceca6ab4c77f61fa6ee2a3d2cae866574efce0f values (129601, '通常時', '特殊スキル');
 insert into v1_9392716657eb4104c1fd88c44ceca6ab4c77f61fa6ee2a3d2cae866574efce0f values (129701, '通常時', '特殊スキル');
+insert into v1_9392716657eb4104c1fd88c44ceca6ab4c77f61fa6ee2a3d2cae866574efce0f values (131201, '通常時', '特殊スキル');

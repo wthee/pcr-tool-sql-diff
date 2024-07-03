@@ -78,7 +78,7 @@ insert into v1_ea95f1b513f93ca0fe7697de097eb03314f39b5384fb227d5b8c53e86f8bf67d 
 insert into v1_ea95f1b513f93ca0fe7697de097eb03314f39b5384fb227d5b8c53e86f8bf67d values (112601001, 'ニュージェネレーションズ（ミオ）', 112601, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_ea95f1b513f93ca0fe7697de097eb03314f39b5384fb227d5b8c53e86f8bf67d values (118001001, 'クレジッタ', 118001, 128001, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_ea95f1b513f93ca0fe7697de097eb03314f39b5384fb227d5b8c53e86f8bf67d values (118101001, 'レイジレギオン（ランファ）', 118101, 126901, 0, 0, 0, 0, 0, 0, 0, 0);
-insert into v1_ea95f1b513f93ca0fe7697de097eb03314f39b5384fb227d5b8c53e86f8bf67d values (118201001, 'レイジレギオン（ミソラ）', 118201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into v1_ea95f1b513f93ca0fe7697de097eb03314f39b5384fb227d5b8c53e86f8bf67d values (118201001, 'レイジレギオン（ミソラ）', 118201, 131201, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_ea95f1b513f93ca0fe7697de097eb03314f39b5384fb227d5b8c53e86f8bf67d values (118501001, 'カリン', 118501, 125701, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_ea95f1b513f93ca0fe7697de097eb03314f39b5384fb227d5b8c53e86f8bf67d values (122301001, 'ヴァンピィ', 122301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_ea95f1b513f93ca0fe7697de097eb03314f39b5384fb227d5b8c53e86f8bf67d values (123001001, 'アメス', 123001, 0, 0, 0, 0, 0, 0, 0, 0, 0);
