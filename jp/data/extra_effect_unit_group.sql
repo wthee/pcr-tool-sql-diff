@@ -122,6 +122,7 @@ insert into extra_effect_unit_group values (120, 6101481, 125801);
 insert into extra_effect_unit_group values (121, 6101481, 131101);
 insert into extra_effect_unit_group values (122, 6101482, 118201);
 insert into extra_effect_unit_group values (123, 6101482, 118101);
+insert into extra_effect_unit_group values (124, 6101482, 131201);
 insert into extra_effect_unit_group values (125, 6101482, 126901);
 insert into extra_effect_unit_group values (126, 6101483, 123301);
 insert into extra_effect_unit_group values (127, 6101483, 131101);

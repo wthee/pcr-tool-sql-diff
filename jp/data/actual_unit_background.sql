@@ -245,6 +245,7 @@ insert into actual_unit_background values (130831, '天野 すずめ', 510170, 4
 insert into actual_unit_background values (130931, '卯中 枢', 510070, 4);
 insert into actual_unit_background values (131031, '姫宮 真歩', 510320, 4);
 insert into actual_unit_background values (131131, '志木場 寝亜', 510030, 2);
+insert into actual_unit_background values (131231, '流 魅空', 510360, 2);
 insert into actual_unit_background values (180131, '春咲 ひより', 510121, 4);
 insert into actual_unit_background values (180231, '草野 優衣', 510350, 2);
 insert into actual_unit_background values (180331, '士条 怜', 510100, 2);

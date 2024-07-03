@@ -218,5 +218,7 @@ insert into hatsune_boss_extra_effect values (10148013, 1014806, 131101, 3001, '
 insert into hatsune_boss_extra_effect values (10148014, 1014806, 131101, 3002, 'バトル開始後90秒間物理防御力極大\\nアップ', '2024/06/30 12:00:00');
 insert into hatsune_boss_extra_effect values (10148015, 1014806, 131101, 3014, 'バトル開始後90秒間継続ＴＰ回復状態\\n付与', '2024/06/30 12:00:00');
 insert into hatsune_boss_extra_effect values (10148016, 1014806, 131101, 3013, 'ボスのフィールド効果無効', '2024/06/30 12:00:00');
+insert into hatsune_boss_extra_effect values (10148017, 1014806, 131201, 3003, 'バトル開始後90秒間魔法攻撃力絶大\\nアップ', '2024/07/03 19:00:00');
+insert into hatsune_boss_extra_effect values (10148018, 1014806, 131201, 3002, 'バトル開始後90秒間物理防御力極大\\nアップ', '2024/07/03 19:00:00');
 insert into hatsune_boss_extra_effect values (10148019, 1014806, 126901, 3003, 'バトル開始後90秒間魔法攻撃力絶大\\nアップ', '2024/06/30 12:00:00');
 insert into hatsune_boss_extra_effect values (10148020, 1014806, 126901, 3002, 'バトル開始後90秒間物理防御力と魔法\\n防御力極大アップ', '2024/06/30 12:00:00');

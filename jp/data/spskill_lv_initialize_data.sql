@@ -43,3 +43,4 @@ insert into spskill_lv_initialize_data values (1294101, 1294001);
 insert into spskill_lv_initialize_data values (1296101, 1296001);
 insert into spskill_lv_initialize_data values (1297101, 1297001);
 insert into spskill_lv_initialize_data values (1311101, 1311003);
+insert into spskill_lv_initialize_data values (1312101, 1312001);

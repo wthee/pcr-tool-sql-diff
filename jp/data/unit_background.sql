@@ -254,6 +254,7 @@ insert into unit_background values (130801, 'スズメ（スプリング）', 50
 insert into unit_background values (130901, 'クルル', 502270, 'グランドリームパーク_エントランス_昼', 0.0, 4);
 insert into unit_background values (131001, 'マホ（ドリームパーク）', 502280, 'グランドリームパーク_園内_昼', 0.0, 2);
 insert into unit_background values (131101, 'ネア（サマー）', 501030, 'ウィッシュビーチ', 0.0, 3);
+insert into unit_background values (131201, 'ミソラ（サマー）', 500690, '海辺の店_昼', 0.0, 4);
 insert into unit_background values (180101, 'ヒヨリ（プリンセス）', 500130, 'エステレラ街道', 0.0, 2);
 insert into unit_background values (180201, 'ユイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 4);
 insert into unit_background values (180301, 'レイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 3);
