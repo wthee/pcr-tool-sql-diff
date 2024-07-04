@@ -5,6 +5,7 @@ insert into talent_weakness values (2000001, 100, 150, 100, 100, 100);
 insert into talent_weakness values (2000002, 100, 100, 150, 100, 100);
 insert into talent_weakness values (2000003, 100, 100, 100, 150, 100);
 insert into talent_weakness values (2000004, 100, 100, 100, 100, 150);
+insert into talent_weakness values (2000005, 300, 100, 100, 100, 100);
 insert into talent_weakness values (2000010, 250, 100, 100, 100, 100);
 insert into talent_weakness values (2000011, 100, 250, 100, 100, 100);
 insert into talent_weakness values (2000012, 100, 100, 250, 100, 100);

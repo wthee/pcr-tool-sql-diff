@@ -42,3 +42,4 @@ insert into mission_category_icon values (1003, 'pink', '#E24E7F');
 insert into mission_category_icon values (1004, 'lightblue', '#3290D4');
 insert into mission_category_icon values (1005, 'yellow', '#C09825');
 insert into mission_category_icon values (1006, 'yellow', '#C09825');
+insert into mission_category_icon values (1007, 'yellow', '#C09825');

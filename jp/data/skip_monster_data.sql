@@ -5569,3 +5569,6 @@ insert into skip_monster_data values (85001047, 85001, '紫冥の深域5-7', 850
 insert into skip_monster_data values (85001048, 85001, '紫冥の深域5-8', 850104801, 101191);
 insert into skip_monster_data values (85001049, 85001, '紫冥の深域5-9', 850104901, 101191);
 insert into skip_monster_data values (85001050, 85001, '紫冥の深域5-10', 850105001, 101191);
+insert into skip_monster_data values (92407010, 92407, '前哨クエスト', 924070101, 100198);
+insert into skip_monster_data values (92407020, 92407, '前哨クエスト', 924070201, 100198);
+insert into skip_monster_data values (92407030, 92407, '前哨クエスト', 924070301, 100198);
