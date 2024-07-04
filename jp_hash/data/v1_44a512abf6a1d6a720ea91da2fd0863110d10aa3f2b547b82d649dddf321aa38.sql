@@ -188,6 +188,7 @@ insert into v1_44a512abf6a1d6a720ea91da2fd0863110d10aa3f2b547b82d649dddf321aa38 
 insert into v1_44a512abf6a1d6a720ea91da2fd0863110d10aa3f2b547b82d649dddf321aa38 values ('HATSUNE_ASB', 0, 0);
 insert into v1_44a512abf6a1d6a720ea91da2fd0863110d10aa3f2b547b82d649dddf321aa38 values ('TALENT_QUEST_TOP', 502200, 0);
 insert into v1_44a512abf6a1d6a720ea91da2fd0863110d10aa3f2b547b82d649dddf321aa38 values ('TALENT_QUEST_AREA', 0, 0);
+insert into v1_44a512abf6a1d6a720ea91da2fd0863110d10aa3f2b547b82d649dddf321aa38 values ('ABYSS_TOP', 500220, 0);
 insert into v1_44a512abf6a1d6a720ea91da2fd0863110d10aa3f2b547b82d649dddf321aa38 values ('HATSUNE_NYD', 0, 0);
 insert into v1_44a512abf6a1d6a720ea91da2fd0863110d10aa3f2b547b82d649dddf321aa38 values ('QUEST_SPECIAL_AND_UNIT_EXPAND', 500240, 0);
 insert into v1_44a512abf6a1d6a720ea91da2fd0863110d10aa3f2b547b82d649dddf321aa38 values ('HATSUNE_FPC', 0, 0);

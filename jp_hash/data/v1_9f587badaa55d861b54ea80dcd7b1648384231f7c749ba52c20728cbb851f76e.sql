@@ -20,6 +20,7 @@ insert into v1_9f587badaa55d861b54ea80dcd7b1648384231f7c749ba52c20728cbb851f76e 
 insert into v1_9f587badaa55d861b54ea80dcd7b1648384231f7c749ba52c20728cbb851f76e values (129, 1, 0, 11002006, 'メインクエスト2-6（NORMAL）クリアで解放');
 insert into v1_9f587badaa55d861b54ea80dcd7b1648384231f7c749ba52c20728cbb851f76e values (130, 1, 0, 11063001, 'メインクエスト\\n63-1（NORMAL）\\nクリアで解放');
 insert into v1_9f587badaa55d861b54ea80dcd7b1648384231f7c749ba52c20728cbb851f76e values (131, 1, 0, 11010001, 'メインクエスト10-1\\n（NORMAL）クリアで解放');
+insert into v1_9f587badaa55d861b54ea80dcd7b1648384231f7c749ba52c20728cbb851f76e values (132, 1, 0, 11064001, 'メインクエスト64-1（NORMAL）クリアで解放');
 insert into v1_9f587badaa55d861b54ea80dcd7b1648384231f7c749ba52c20728cbb851f76e values (201, 1, 0, 0, '');
 insert into v1_9f587badaa55d861b54ea80dcd7b1648384231f7c749ba52c20728cbb851f76e values (202, 1, 0, 11004006, 'メインクエスト4-6（NORMAL）クリアで解放');
 insert into v1_9f587badaa55d861b54ea80dcd7b1648384231f7c749ba52c20728cbb851f76e values (203, 1, 0, 11008015, 'メインクエスト8-15（NORMAL）クリアで解放');
