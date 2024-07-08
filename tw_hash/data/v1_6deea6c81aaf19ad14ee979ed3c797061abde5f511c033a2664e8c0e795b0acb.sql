@@ -1,0 +1,13 @@
+CREATE TABLE 'v1_6deea6c81aaf19ad14ee979ed3c797061abde5f511c033a2664e8c0e795b0acb' ('f80d1f0347c77b0bade977bc4cc8b95fb4c68b6395be10592e2c6027a63e5cca' INTEGER NOT NULL, '5e6493b7e1ed6b7f7ed8e2025ecbbc7e2fb80ffe35c47cd2a21471485dea809c' INTEGER NOT NULL, '9aee729d65c6b13d1903ba8754eaf6968f52b60e2c44fb83dce344122de8624e' INTEGER NOT NULL, 'f65a63fd8bb42e6d6dddc9895d85e4348d380cdb79a036ee236d29dafb93399d' INTEGER NOT NULL, PRIMARY KEY('f80d1f0347c77b0bade977bc4cc8b95fb4c68b6395be10592e2c6027a63e5cca'));
+insert into v1_6deea6c81aaf19ad14ee979ed3c797061abde5f511c033a2664e8c0e795b0acb values (1, 0, 1, 1);
+insert into v1_6deea6c81aaf19ad14ee979ed3c797061abde5f511c033a2664e8c0e795b0acb values (2, 175, 1, 1);
+insert into v1_6deea6c81aaf19ad14ee979ed3c797061abde5f511c033a2664e8c0e795b0acb values (3, 420, 1, 1);
+insert into v1_6deea6c81aaf19ad14ee979ed3c797061abde5f511c033a2664e8c0e795b0acb values (4, 700, 1, 1);
+insert into v1_6deea6c81aaf19ad14ee979ed3c797061abde5f511c033a2664e8c0e795b0acb values (5, 1400, 1, 3);
+insert into v1_6deea6c81aaf19ad14ee979ed3c797061abde5f511c033a2664e8c0e795b0acb values (6, 2100, 1, 3);
+insert into v1_6deea6c81aaf19ad14ee979ed3c797061abde5f511c033a2664e8c0e795b0acb values (7, 2800, 1, 3);
+insert into v1_6deea6c81aaf19ad14ee979ed3c797061abde5f511c033a2664e8c0e795b0acb values (8, 4200, 1, 3);
+insert into v1_6deea6c81aaf19ad14ee979ed3c797061abde5f511c033a2664e8c0e795b0acb values (9, 6300, 1, 6);
+insert into v1_6deea6c81aaf19ad14ee979ed3c797061abde5f511c033a2664e8c0e795b0acb values (10, 9100, 1, 6);
+insert into v1_6deea6c81aaf19ad14ee979ed3c797061abde5f511c033a2664e8c0e795b0acb values (11, 12600, 1, 6);
+insert into v1_6deea6c81aaf19ad14ee979ed3c797061abde5f511c033a2664e8c0e795b0acb values (12, 16800, 1, 6);

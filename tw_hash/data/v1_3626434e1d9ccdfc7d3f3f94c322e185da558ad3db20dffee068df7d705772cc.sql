@@ -1,0 +1,11 @@
+CREATE TABLE 'v1_3626434e1d9ccdfc7d3f3f94c322e185da558ad3db20dffee068df7d705772cc' ('1cd58bc0828d7b3ffd278508ced512872ac75faba23ef94ee287f6516429e732' INTEGER NOT NULL, 'dedd8e8d0d1f0d8c080650a7e92792b726d1d508e34fd5d804922406558259a8' INTEGER NOT NULL, 'b7a28d40ebcb2906ecf8e6442ce23c71b4ed102417bc0382b6a1e6a08146aa85' TEXT NOT NULL, '3942981423c535829ca5bee42e02c8c7eccc72456be57f03b5d6a95b9fb65be2' TEXT NOT NULL, '181966d26923f415c386056ef6936dd5ef3730eab2d033bc21e6a13c4fd26c8f' INTEGER NOT NULL, '6fec03863c0276724ad90f3785ca0307798c7a8a54641543abae2c8e74bbbac4' INTEGER NOT NULL, PRIMARY KEY('1cd58bc0828d7b3ffd278508ced512872ac75faba23ef94ee287f6516429e732'));
+insert into v1_3626434e1d9ccdfc7d3f3f94c322e185da558ad3db20dffee068df7d705772cc values (101, 1, '特別講座發表報告', '切嚕嚕衝擊', 12, 13);
+insert into v1_3626434e1d9ccdfc7d3f3f94c322e185da558ad3db20dffee068df7d705772cc values (102, 1, '特別講座發表報告', '克蘿依明察秋毫', 13, 14);
+insert into v1_3626434e1d9ccdfc7d3f3f94c322e185da558ad3db20dffee068df7d705772cc values (103, 1, '特別講座發表報告', '消失吧學姐架子', 14, 22);
+insert into v1_3626434e1d9ccdfc7d3f3f94c322e185da558ad3db20dffee068df7d705772cc values (201, 2, '墨丘利財團活動日誌', '秋乃的領導力', 22, 23);
+insert into v1_3626434e1d9ccdfc7d3f3f94c322e185da558ad3db20dffee068df7d705772cc values (202, 2, '墨丘利財團活動日誌', '燃燒吧鯛魚燒之魂', 23, 24);
+insert into v1_3626434e1d9ccdfc7d3f3f94c322e185da558ad3db20dffee068df7d705772cc values (203, 2, '墨丘利財團活動日誌', '麥酒沒有不可能', 24, 25);
+insert into v1_3626434e1d9ccdfc7d3f3f94c322e185da558ad3db20dffee068df7d705772cc values (204, 2, '墨丘利財團活動日誌', '美冬的1日說教課程', 25, 32);
+insert into v1_3626434e1d9ccdfc7d3f3f94c322e185da558ad3db20dffee068df7d705772cc values (301, 3, '優妮的筆記本', '起泡與生菓子的哲學', 32, 33);
+insert into v1_3626434e1d9ccdfc7d3f3f94c322e185da558ad3db20dffee068df7d705772cc values (302, 3, '優妮的筆記本', '不入虎穴', 33, 34);
+insert into v1_3626434e1d9ccdfc7d3f3f94c322e185da558ad3db20dffee068df7d705772cc values (303, 3, '優妮的筆記本', '動作測試與破滅的誘惑', 34, 0);

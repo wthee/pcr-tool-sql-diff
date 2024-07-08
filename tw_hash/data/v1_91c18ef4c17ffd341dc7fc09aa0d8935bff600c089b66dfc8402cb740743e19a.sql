@@ -1,0 +1,6 @@
+CREATE TABLE 'v1_91c18ef4c17ffd341dc7fc09aa0d8935bff600c089b66dfc8402cb740743e19a' ('efd18f1723b79400c0b85564d20f47d801df36ad90e95603699c8bb7ce589e71' INTEGER NOT NULL, '207d989922c061ca3d782d499ee526f1ab3c55e1157d431c8eeb2245d2906a60' TEXT NOT NULL, PRIMARY KEY('efd18f1723b79400c0b85564d20f47d801df36ad90e95603699c8bb7ce589e71'));
+insert into v1_91c18ef4c17ffd341dc7fc09aa0d8935bff600c089b66dfc8402cb740743e19a values (1, '123456789');
+insert into v1_91c18ef4c17ffd341dc7fc09aa0d8935bff600c089b66dfc8402cb740743e19a values (2, 'ABCDEFGHIJKLMNOPQRSTUVWXYZ');
+insert into v1_91c18ef4c17ffd341dc7fc09aa0d8935bff600c089b66dfc8402cb740743e19a values (3, 'abcdefghijklmnopqrstuvwxyz');
+insert into v1_91c18ef4c17ffd341dc7fc09aa0d8935bff600c089b66dfc8402cb740743e19a values (4, 'あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉゃゅょっ');
+insert into v1_91c18ef4c17ffd341dc7fc09aa0d8935bff600c089b66dfc8402cb740743e19a values (5, 'アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォャュョッ');
