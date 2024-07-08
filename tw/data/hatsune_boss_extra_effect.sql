@@ -133,3 +133,6 @@ insert into hatsune_boss_extra_effect values (10140015, 1014006, 116301, 3010, '
 insert into hatsune_boss_extra_effect values (10140016, 1014006, 116401, 3002, '戰鬥開始90秒內，\\n極大幅度提升物理防禦力。', '2024/07/01 16:00:00');
 insert into hatsune_boss_extra_effect values (10140017, 1014006, 116401, 3005, '戰鬥開始90秒內，賦予持續恢復HP\\n的狀態', '2024/07/01 16:00:00');
 insert into hatsune_boss_extra_effect values (10140018, 1014006, 116401, 3010, '戰鬥開始90秒內，\\n特大幅度提升TP上升。', '2024/07/01 16:00:00');
+insert into hatsune_boss_extra_effect values (10140019, 1014006, 129301, 3002, '戰鬥開始90秒內，\\n極大幅度提升物理防禦力。', '2024/07/04 16:00:00');
+insert into hatsune_boss_extra_effect values (10140020, 1014006, 129301, 3005, '戰鬥開始90秒內，賦予持續恢復HP\\n的狀態', '2024/07/04 16:00:00');
+insert into hatsune_boss_extra_effect values (10140021, 1014006, 129301, 3010, '戰鬥開始90秒內，\\n特大幅度提升TP上升。', '2024/07/04 16:00:00');

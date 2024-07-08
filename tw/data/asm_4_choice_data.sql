@@ -645,7 +645,7 @@ insert into asm_4_choice_data values (2510058, 'Brass Band', 0, 'Big Band', 0, '
 insert into asm_4_choice_data values (2510059, '鳳梨', 0, '葡萄', 0, '西瓜', 0, '榴槤', 0, 1);
 insert into asm_4_choice_data values (2510060, '靈異聲音', 0, '爵士聲', 0, '上鎖聲', 0, '遭遇聲', 0, 1);
 insert into asm_4_choice_data values (2511001, '游泳池', 0, '教職員室', 0, '保健室', 0, '體育館', 0, 1);
-insert into asm_4_choice_data values (2511002, '５週年', 0, '４週年', 0, '６週年', 0, '３週年', 0, 1);
+insert into asm_4_choice_data values (2511002, '５周年', 0, '４周年', 0, '６周年', 0, '３周年', 0, 1);
 insert into asm_4_choice_data values (2511003, '日和', 0, '怜', 0, '栞', 0, '咲戀', 0, 1);
 insert into asm_4_choice_data values (2511004, '切嚕～☆', 0, '咕嚕靈波～', 0, '嘟嚕嚕嚕嚕～★', 0, '凱留凱留～♪', 0, 1);
 insert into asm_4_choice_data values (2511005, '克蕾琪塔之塔', 0, '里士滿工之塔', 0, '克蕾琪塔大廈', 0, 'Tower Of 克蕾琪塔', 0, 1);
@@ -678,7 +678,7 @@ insert into asm_4_choice_data values (2520038, 'Speech Balloons', 0, 'Cloud Ball
 insert into asm_4_choice_data values (2520039, '紅心國王', 0, '鑽石國王', 0, '黑桃魔王', 0, '梅花國王', 0, 1);
 insert into asm_4_choice_data values (2520040, '紫水晶', 0, '紅寶石', 0, '綠松色', 0, '青金岩', 0, 1);
 insert into asm_4_choice_data values (2520042, '太陽曆 ', 0, '地球曆 ', 0, '太陰曆', 0, '御化曆', 0, 1);
-insert into asm_4_choice_data values (2520043, '１週年', 0, '11週年', 0, '21週年', 0, '31週年', 0, 1);
+insert into asm_4_choice_data values (2520043, '１周年', 0, '11周年', 0, '21周年', 0, '31周年', 0, 1);
 insert into asm_4_choice_data values (2520044, '平針編織', 0, '長針編織', 0, '短針編織', 0, '鎖針編織', 0, 1);
 insert into asm_4_choice_data values (2520045, '天和', 0, '字一色', 0, '大三元', 0, '四暗刻', 0, 1);
 insert into asm_4_choice_data values (2520047, '同花', 0, '順子', 0, '葫蘆', 0, '五同點', 0, 1);
