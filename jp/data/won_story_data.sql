@@ -1,5 +1,5 @@
-CREATE TABLE 'won_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'is_last' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, 'note_id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'order' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
-insert into won_story_data values (10116111, 10116, 'イワアライグマの生態メモ①', 0, 10116105, 0, 0, 0, 1, 207300, 1);
+CREATE TABLE 'won_story_data' ('ed775b98f9c591cb49345ca510bb33615d22522f7d572d807c0af718619278e6' INTEGER NOT NULL, '26846cc53658ec7a32546dbfb25fd111f82d0eeddea00f867b4248c1aec1ca70' INTEGER NOT NULL, '50270c2935957e526d9f4b2e11d6774fdde5462885aea4ab60f3b67b56e881ac' TEXT NOT NULL, '201027c2fb2daba63400aa4e2709cedaddfccf5affa152ad49d132e5d4f20c2a' INTEGER NOT NULL, '2f40f7685917f4160e001b19e82114318054443603e6da5e005dca03e1a1caa4' INTEGER NOT NULL, 'df5a6309fd5c4edd79d8d2e7135d31808fa040d1f80ad7f86b84defd5fb433e2' INTEGER NOT NULL, '0e4b533573f4d48096a81c3d142702cb702a3495681c9c93e74f21873efef027' INTEGER NOT NULL, '671acf2b33300d6b5feb5a540e8be29cc66e2b0870c6afff2fabf438dfa7197b' INTEGER NOT NULL, '2c55708b179f3821a7067e278d0fa7ee2e985fce07d3cb49d81865e36dbd0d19' INTEGER NOT NULL, 'c636d03aa42c9c3f5c0119ac8776e2d9bd0fdecc6e157d6d48afeea44ce93bff' INTEGER NOT NULL, '1e19c07dd01f1af1bfa9d4da72b0d8b3a38d7dab8ebaa7b1393e9eb221d34542' INTEGER NOT NULL, PRIMARY KEY('ed775b98f9c591cb49345ca510bb33615d22522f7d572d807c0af718619278e6'));
+insert into won_story_data values (10116111, 10116, 'イワアライグマの生態メモ①', 0, 10143105, 0, 0, 0, 1, 207300, 1);
 insert into won_story_data values (10116112, 10116, 'イワアライグマの生態メモ②', 0, 0, 0, 0, 0, 1, 207300, 2);
 insert into won_story_data values (10116113, 10116, 'イワアライグマの生態メモ③', 0, 0, 0, 0, 0, 1, 207300, 3);
 insert into won_story_data values (10116114, 10116, 'イワアライグマの生態メモ④', 0, 0, 0, 0, 0, 1, 207300, 4);
@@ -14,7 +14,7 @@ insert into won_story_data values (10116132, 10116, 'ゴブリングレートの
 insert into won_story_data values (10116133, 10116, 'ゴブリングレートの生態メモ③', 0, 0, 0, 0, 0, 1, 305700, 3);
 insert into won_story_data values (10116134, 10116, 'ゴブリングレートの生態メモ④', 0, 0, 0, 0, 0, 1, 305700, 4);
 insert into won_story_data values (10116135, 10116, '学びはまず形から', 1, 0, 8, 91002, 75, 1, 305700, 5);
-insert into won_story_data values (10116211, 10116, 'スリーピィオウルの生態メモ①', 0, 10116105, 0, 0, 0, 2, 206900, 1);
+insert into won_story_data values (10116211, 10116, 'スリーピィオウルの生態メモ①', 0, 10143105, 0, 0, 0, 2, 206900, 1);
 insert into won_story_data values (10116212, 10116, 'スリーピィオウルの生態メモ②', 0, 0, 0, 0, 0, 2, 206900, 2);
 insert into won_story_data values (10116213, 10116, 'スリーピィオウルの生態メモ③', 0, 0, 0, 0, 0, 2, 206900, 3);
 insert into won_story_data values (10116214, 10116, 'スリーピィオウルの生態メモ④', 0, 0, 0, 0, 0, 2, 206900, 4);
