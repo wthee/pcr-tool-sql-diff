@@ -239,3 +239,4 @@ insert into v1_bf2d3c271faa29ecd8f3a4c3a1e65ea448d67a61b9d213ff5719a1a2590549d2 
 insert into v1_bf2d3c271faa29ecd8f3a4c3a1e65ea448d67a61b9d213ff5719a1a2590549d2 values (9000238, 40004, 0, '2024年バレンタイン記念カスタムマイページ\u3000キャル', 0, 0, 1);
 insert into v1_bf2d3c271faa29ecd8f3a4c3a1e65ea448d67a61b9d213ff5719a1a2590549d2 values (9000239, 40004, 0, '2024年バレンタイン記念カスタムマイページ\u3000シェフィ', 0, 0, 1);
 insert into v1_bf2d3c271faa29ecd8f3a4c3a1e65ea448d67a61b9d213ff5719a1a2590549d2 values (9000240, 30001, 0, 'アナザーウィッシュ・ログ カスタムマイページ', 0, 0, 1);
+insert into v1_bf2d3c271faa29ecd8f3a4c3a1e65ea448d67a61b9d213ff5719a1a2590549d2 values (9000241, 30001, 0, 'サマーフォトフィックス カスタムマイページ', 0, 0, 1);
