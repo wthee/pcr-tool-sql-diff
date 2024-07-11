@@ -193,3 +193,7 @@ insert into v1_9a486633a69adf4cbf571ec44e78fa871b7cf83b3de5af0d0e82ee13d637ce74 
 insert into v1_9a486633a69adf4cbf571ec44e78fa871b7cf83b3de5af0d0e82ee13d637ce74 values (15, 31, 1, 124601, '美里（新年）');
 insert into v1_9a486633a69adf4cbf571ec44e78fa871b7cf83b3de5af0d0e82ee13d637ce74 values (15, 32, 1, 124801, '望（解放者）');
 insert into v1_9a486633a69adf4cbf571ec44e78fa871b7cf83b3de5af0d0e82ee13d637ce74 values (15, 33, 1, 125001, '矛依未（解放者）');
+insert into v1_9a486633a69adf4cbf571ec44e78fa871b7cf83b3de5af0d0e82ee13d637ce74 values (16, 1, 1, 108801, '優衣（新年）');
+insert into v1_9a486633a69adf4cbf571ec44e78fa871b7cf83b3de5af0d0e82ee13d637ce74 values (16, 2, 1, 108701, '日和（新年）');
+insert into v1_9a486633a69adf4cbf571ec44e78fa871b7cf83b3de5af0d0e82ee13d637ce74 values (16, 3, 1, 112001, '凱留（新年）');
+insert into v1_9a486633a69adf4cbf571ec44e78fa871b7cf83b3de5af0d0e82ee13d637ce74 values (16, 4, 1, 111901, '可可蘿（新年）');

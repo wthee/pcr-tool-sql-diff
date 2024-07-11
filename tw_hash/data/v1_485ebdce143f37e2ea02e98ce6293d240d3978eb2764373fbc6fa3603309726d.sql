@@ -31,7 +31,7 @@ insert into v1_485ebdce143f37e2ea02e98ce6293d240d3978eb2764373fbc6fa3603309726d 
 insert into v1_485ebdce143f37e2ea02e98ce6293d240d3978eb2764373fbc6fa3603309726d values (30, 8, 11, '時間停止');
 insert into v1_485ebdce143f37e2ea02e98ce6293d240d3978eb2764373fbc6fa3603309726d values (31, 76, -1, 'HP回復量減少');
 insert into v1_485ebdce143f37e2ea02e98ce6293d240d3978eb2764373fbc6fa3603309726d values (32, 78, -1, '虛弱個體受到的傷害上升');
-insert into v1_485ebdce143f37e2ea02e98ce6293d240d3978eb2764373fbc6fa3603309726d values (33, 79, -1, '行動時毒傷');
+insert into v1_485ebdce143f37e2ea02e98ce6293d240d3978eb2764373fbc6fa3603309726d values (33, 79, 1, '行動時毒傷');
 insert into v1_485ebdce143f37e2ea02e98ce6293d240d3978eb2764373fbc6fa3603309726d values (34, 8, 14, '暈眩（另計）');
 insert into v1_485ebdce143f37e2ea02e98ce6293d240d3978eb2764373fbc6fa3603309726d values (35, 9, 7, '毒（另計）');
 insert into v1_485ebdce143f37e2ea02e98ce6293d240d3978eb2764373fbc6fa3603309726d values (36, 9, 8, '詛咒（另計）');

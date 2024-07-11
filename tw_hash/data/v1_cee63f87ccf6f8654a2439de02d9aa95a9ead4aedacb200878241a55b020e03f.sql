@@ -938,6 +938,11 @@ insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f 
 insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10870106, 108701, 105, '羈絆Rank表演5', '');
 insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10870107, 108701, 106, '羈絆Rank表演6', '');
 insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10870108, 108701, 107, '羈絆Rank表演7', '');
+insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10870109, 108701, 202, '★6才能開花演出', '');
+insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10870110, 108701, 108, '羈絆Rank表演8', '');
+insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10870111, 108701, 109, '羈絆Rank表演9', '');
+insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10870112, 108701, 110, '羈絆Rank表演10', '');
+insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10870113, 108701, 111, '羈絆Rank表演11', '');
 insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10880101, 108801, 201, '解放表演1', '');
 insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10880102, 108801, 101, '羈絆Rank表演1', '');
 insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10880103, 108801, 102, '羈絆Rank表演2', '');
@@ -946,6 +951,11 @@ insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f 
 insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10880106, 108801, 105, '羈絆Rank表演5', '');
 insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10880107, 108801, 106, '羈絆Rank表演6', '');
 insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10880108, 108801, 107, '羈絆Rank表演7', '');
+insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10880109, 108801, 202, '★6才能開花演出', '');
+insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10880110, 108801, 108, '羈絆Rank表演8', '');
+insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10880111, 108801, 109, '羈絆Rank表演9', '');
+insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10880112, 108801, 110, '羈絆Rank表演10', '');
+insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10880113, 108801, 111, '羈絆Rank表演11', '');
 insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10890101, 108901, 201, '解放表演1', '');
 insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10890102, 108901, 101, '羈絆Rank表演1', '');
 insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10890103, 108901, 102, '羈絆Rank表演2', '');
@@ -954,6 +964,11 @@ insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f 
 insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10890106, 108901, 105, '羈絆Rank表演5', '');
 insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10890107, 108901, 106, '羈絆Rank表演6', '');
 insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10890108, 108901, 107, '羈絆Rank表演7', '');
+insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10890109, 108901, 202, '★6才能開花演出', '');
+insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10890110, 108901, 108, '羈絆Rank表演8', '');
+insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10890111, 108901, 109, '羈絆Rank表演9', '');
+insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10890112, 108901, 110, '羈絆Rank表演10', '');
+insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10890113, 108901, 111, '羈絆Rank表演11', '');
 insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10900101, 109001, 201, '解放表演1', '');
 insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10900102, 109001, 101, '羈絆Rank表演1', '');
 insert into v1_cee63f87ccf6f8654a2439de02d9aa95a9ead4aedacb200878241a55b020e03f values (10900103, 109001, 102, '羈絆Rank表演2', '');

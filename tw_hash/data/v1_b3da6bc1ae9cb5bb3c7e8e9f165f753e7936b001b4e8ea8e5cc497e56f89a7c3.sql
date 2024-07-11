@@ -7130,3 +7130,9 @@ insert into v1_b3da6bc1ae9cb5bb3c7e8e9f165f753e7936b001b4e8ea8e5cc497e56f89a7c3 
 insert into v1_b3da6bc1ae9cb5bb3c7e8e9f165f753e7936b001b4e8ea8e5cc497e56f89a7c3 values (8023, 129301, 3, 8, 1, 0, 1, '書本果然只屬於文科。\\n多麼舒心的文筆啊……\\n呃啊突然出現理科文！\\n咿，眼睛要變理科了！', 0);
 insert into v1_b3da6bc1ae9cb5bb3c7e8e9f165f753e7936b001b4e8ea8e5cc497e56f89a7c3 values (8025, 129301, 3, 10, 1, 0, 1, '呼啊啊～！\\n知性的海上騎士優妮！\\n這是新的可能性！', 0);
 insert into v1_b3da6bc1ae9cb5bb3c7e8e9f165f753e7936b001b4e8ea8e5cc497e56f89a7c3 values (8026, 129301, 3, 11, 1, 0, 1, '這是……什麼？\\n哪裡有趣了？\\n還真難啊……', 0);
+insert into v1_b3da6bc1ae9cb5bb3c7e8e9f165f753e7936b001b4e8ea8e5cc497e56f89a7c3 values (8027, 108901, 1, 103, 12, 0, 1, '和重要的人\\n一起過新年的回憶嗎……\\n這是以前的我\\n無法想像的。', 0);
+insert into v1_b3da6bc1ae9cb5bb3c7e8e9f165f753e7936b001b4e8ea8e5cc497e56f89a7c3 values (8028, 108901, 2, 103, 12, 0, 1, '我有很多\\n想實現的願望喔。\\n如果要選一個最想實現的，\\n果然還是跟你……', 0);
+insert into v1_b3da6bc1ae9cb5bb3c7e8e9f165f753e7936b001b4e8ea8e5cc497e56f89a7c3 values (8029, 108801, 1, 103, 12, 0, 1, '神殿的\\n戀愛詩籤……\\n要不要抽看看呢……', 0);
+insert into v1_b3da6bc1ae9cb5bb3c7e8e9f165f753e7936b001b4e8ea8e5cc497e56f89a7c3 values (8030, 108801, 2, 103, 12, 0, 1, '騎士先生，\\n明年也要一起綁詩籤喔。\\n約好囉。', 0);
+insert into v1_b3da6bc1ae9cb5bb3c7e8e9f165f753e7936b001b4e8ea8e5cc497e56f89a7c3 values (8031, 108701, 1, 103, 12, 0, 1, '下次我要把\\n跟騎士先生\\n一起拍的照片\\n送給婆婆♪', 0);
+insert into v1_b3da6bc1ae9cb5bb3c7e8e9f165f753e7936b001b4e8ea8e5cc497e56f89a7c3 values (8032, 108701, 2, 103, 12, 0, 1, '啊，騎士先生！\\n今年也……不對，\\n今後也請\\n多多指教♪', 0);
