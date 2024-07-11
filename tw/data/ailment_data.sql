@@ -31,7 +31,7 @@ insert into ailment_data values (29, 70, -1, 'HP變化');
 insert into ailment_data values (30, 8, 11, '時間停止');
 insert into ailment_data values (31, 76, -1, 'HP回復量減少');
 insert into ailment_data values (32, 78, -1, '虛弱個體受到的傷害上升');
-insert into ailment_data values (33, 79, -1, '行動時毒傷');
+insert into ailment_data values (33, 79, 1, '行動時毒傷');
 insert into ailment_data values (34, 8, 14, '暈眩（另計）');
 insert into ailment_data values (35, 9, 7, '毒（另計）');
 insert into ailment_data values (36, 9, 8, '詛咒（另計）');
