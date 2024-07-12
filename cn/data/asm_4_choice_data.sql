@@ -897,5 +897,5 @@ insert into asm_4_choice_data values (2630061, 'pocket', 0, 'nugget', 0, 'socket
 insert into asm_4_choice_data values (2631001, '爆破尖牙', 0, '冰牙蛮咬', 0, '爆裂尖牙', 0, '钻石尖牙', 0, 1);
 insert into asm_4_choice_data values (2631002, '海神之杖', 0, '岚击之枪', 0, '雷击之枪', 0, '激波之拳', 0, 1);
 insert into asm_4_choice_data values (2631003, '龙族长尾', 0, '龙族死球', 0, '龙族之剪', 0, '龙族之翼', 0, 1);
-insert into asm_4_choice_data values (2631004, '划船', 0, '沙滩排球', 0, '沙滩旗帜争夺', 0, '沙滩棒球', 0, 1);
+insert into asm_4_choice_data values (2631004, '划船', 0, '沙滩排球', 0, '沙滩旗帜争夺战', 0, '沙滩棒球', 0, 1);
 insert into asm_4_choice_data values (2631005, '七界霸王晦冥喝破之装', 0, '七界究极晦冥喝破之装', 0, '大海帝王晦冥喝破之装', 0, '七海霸者晦冥喝破之装', 0, 1);

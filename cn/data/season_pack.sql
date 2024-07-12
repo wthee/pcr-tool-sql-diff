@@ -39,3 +39,5 @@ insert into season_pack values (10051, 0, 26, 0, '', '', 9427, 0, 0, 0, 0, 0, 13
 insert into season_pack values (10052, 0, 27, 0, '', '', 9428, 0, 0, 0, 0, 0, 14, 0, 0, 4);
 insert into season_pack values (10053, 0, 28, 0, '', '', 9429, 0, 0, 0, 0, 0, 19, 0, 0, 4);
 insert into season_pack values (10054, 0, 29, 0, '', '', 9430, 0, 0, 0, 0, 0, 20, 0, 0, 4);
+insert into season_pack values (11055, 17001104, 0, 405, '公主招募月度凭证中的第{1}天的道具包', '', 0, 30, 0, 0, 0, 0, 21, 0, 0, 4);
+insert into season_pack values (11056, 17001105, 0, 405, '公主进阶月度凭证中的第{1}天的道具包', '', 0, 30, 0, 0, 0, 0, 22, 0, 0, 4);

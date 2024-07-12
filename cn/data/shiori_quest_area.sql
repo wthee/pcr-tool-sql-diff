@@ -65,3 +65,5 @@ insert into shiori_quest_area values (20027101, 20027, '沙滩球公园', 201, '
 insert into shiori_quest_area values (20027201, 20027, '沙滩球公园', 201, 'bgm_M393', 'bgm_M393', 1, 0, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20028101, 20028, '王都兰德索尔', 201, 'bgm_M403', 'bgm_M403', 1, 1, 80, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20028201, 20028, '王都兰德索尔', 201, 'bgm_M403', 'bgm_M403', 1, 1, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20029101, 20029, '万圣节公园', 201, 'bgm_M413', 'bgm_M413', 1, 0, 128, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20029201, 20029, '万圣节公园', 201, 'bgm_M413', 'bgm_M413', 1, 0, 0, 0, 0, '0', '0', 0);

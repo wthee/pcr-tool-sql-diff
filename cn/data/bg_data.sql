@@ -180,3 +180,4 @@ insert into bg_data values ('COLOSSEUM_TOP', 531300, 0);
 insert into bg_data values ('COLOSSEUM_SELECT_PARTY', 531400, 0);
 insert into bg_data values ('COLOSSEUM_BATTLE_RESULT', 0, 0);
 insert into bg_data values ('SEASONPASS', 980001, 0);
+insert into bg_data values ('MONTHLY_GACHA', 530030, 0);

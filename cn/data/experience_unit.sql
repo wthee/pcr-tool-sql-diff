@@ -248,3 +248,6 @@ insert into experience_unit values (246, 11798378);
 insert into experience_unit values (247, 11917530);
 insert into experience_unit values (248, 12037282);
 insert into experience_unit values (249, 12157634);
+insert into experience_unit values (250, 12278586);
+insert into experience_unit values (251, 12400138);
+insert into experience_unit values (252, 12522290);
