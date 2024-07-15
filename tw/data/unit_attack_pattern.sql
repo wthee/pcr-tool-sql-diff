@@ -449,6 +449,7 @@ insert into unit_attack_pattern values (20710201, 207102, 1, 3, 1001, 1001, 1, 1
 insert into unit_attack_pattern values (20720001, 207200, 2, 2, 1001, 1001, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unit_attack_pattern values (20720101, 207201, 2, 2, 1001, 1001, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unit_attack_pattern values (20730001, 207300, 1, 2, 1001, 1001, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into unit_attack_pattern values (20730101, 207301, 1, 2, 1001, 1001, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unit_attack_pattern values (20750001, 207500, 2, 3, 1001, 1002, 1001, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unit_attack_pattern values (20750101, 207501, 2, 3, 1002, 1002, 1001, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unit_attack_pattern values (20750201, 207502, 2, 3, 1001, 1002, 1002, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
@@ -2104,6 +2105,7 @@ insert into unit_attack_pattern values (60650101, 606501, 8, 16, 1002, 1001, 100
 insert into unit_attack_pattern values (60660101, 606601, 3, 9, 1001, 1002, 1, 1, 1001, 1, 1002, 1, 1002, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unit_attack_pattern values (60660201, 606602, 3, 9, 1001, 1002, 1, 1, 1001, 1, 1002, 1, 1002, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unit_attack_pattern values (60670101, 606701, 3, 9, 2001, 1, 1001, 1, 1002, 1, 1001, 1, 1002, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into unit_attack_pattern values (60680101, 606801, 3, 9, 1002, 1001, 1, 1002, 1, 1001, 1, 1002, 1001, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into unit_attack_pattern values (60690101, 606901, 3, 13, 1002, 1001, 2001, 1001, 2001, 1002, 1001, 2001, 2001, 1001, 1002, 2001, 1001, 0, 0, 0, 0, 0, 0, 0);
 insert into unit_attack_pattern values (60700101, 607001, 3, 13, 1002, 1001, 1, 1001, 1, 1002, 1001, 1, 1, 1001, 1002, 1, 1001, 0, 0, 0, 0, 0, 0, 0);
 insert into unit_attack_pattern values (60710101, 607101, 3, 13, 1001, 1002, 1, 1002, 1, 1001, 1002, 1, 1, 1002, 1001, 1, 1002, 0, 0, 0, 0, 0, 0, 0);
