@@ -31,6 +31,7 @@ insert into v1_833d42fa217bc559091cde211928da493204035377dcc10677e76d53bd2f5c5e 
 insert into v1_833d42fa217bc559091cde211928da493204035377dcc10677e76d53bd2f5c5e values (30, 1, 52020, 1, 1, '【料理】下次移動時，將多移動1格。', 2, 2);
 insert into v1_833d42fa217bc559091cde211928da493204035377dcc10677e76d53bd2f5c5e values (31, 1, 52021, 1, 10, '【料理】移動時可以跳過寶物格。', 0, 0);
 insert into v1_833d42fa217bc559091cde211928da493204035377dcc10677e76d53bd2f5c5e values (32, 1, 52022, 1, 1, '【料理】投擲的骰子丟出「5和6」的\\n機率變成3倍。', 0, 0);
+insert into v1_833d42fa217bc559091cde211928da493204035377dcc10677e76d53bd2f5c5e values (33, 1, 52023, 1, 1, '【料理】第1次投擲骰子一定會丟出「6」，第2次一定會丟出「3」', 0, 0);
 insert into v1_833d42fa217bc559091cde211928da493204035377dcc10677e76d53bd2f5c5e values (1001, 3, 1, 1, 99, '取得最大n里程', 0, 0);
 insert into v1_833d42fa217bc559091cde211928da493204035377dcc10677e76d53bd2f5c5e values (1002, 3, 2, 1, 99, '重新擲1次骰子', 0, 0);
 insert into v1_833d42fa217bc559091cde211928da493204035377dcc10677e76d53bd2f5c5e values (1003, 3, 3, 1, 99, '重新擲1次骰子_有效回合2', 0, 0);

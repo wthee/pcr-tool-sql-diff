@@ -334,6 +334,8 @@ insert into v1_bb1e709f479589063767b9de86832ebb7db4aaf2d758fa7aaed5fcdf05bf0db0 
 insert into v1_bb1e709f479589063767b9de86832ebb7db4aaf2d758fa7aaed5fcdf05bf0db0 values (220600502, 2206, 2206005, '', '', 1, 1, 1.0);
 insert into v1_bb1e709f479589063767b9de86832ebb7db4aaf2d758fa7aaed5fcdf05bf0db0 values (220600680, 2206, 2206006, '', '', 1, 1, 1.0);
 insert into v1_bb1e709f479589063767b9de86832ebb7db4aaf2d758fa7aaed5fcdf05bf0db0 values (220600681, 2206, 2206006, '', '', 0, 1, 1.0);
+insert into v1_bb1e709f479589063767b9de86832ebb7db4aaf2d758fa7aaed5fcdf05bf0db0 values (220700101, 2207, 2207001, '', '', 1, 1, 1.0);
+insert into v1_bb1e709f479589063767b9de86832ebb7db4aaf2d758fa7aaed5fcdf05bf0db0 values (220700301, 2207, 2207003, '', '', 1, 1, 1.0);
 insert into v1_bb1e709f479589063767b9de86832ebb7db4aaf2d758fa7aaed5fcdf05bf0db0 values (301000301, 3010, 3010003, '', '', 1, 1, 1.0);
 insert into v1_bb1e709f479589063767b9de86832ebb7db4aaf2d758fa7aaed5fcdf05bf0db0 values (500100701, 5001, 5001007, '', '', 1, 1, 1.0);
 insert into v1_bb1e709f479589063767b9de86832ebb7db4aaf2d758fa7aaed5fcdf05bf0db0 values (500200701, 5002, 5002007, '', '', 1, 1, 1.0);
