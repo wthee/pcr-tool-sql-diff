@@ -131,3 +131,7 @@ insert into shiori_quest_area values (20051201, 20051, 'キャンピングフィ
 insert into shiori_quest_area values (20052101, 20052, '王都ランドソル', 201, 'bgm_M601', 'bgm_M601', 1, 1, 0, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20052102, 20052, 'サマーゲームリゾート', 201, 'bgm_M601', 'bgm_M601', 1, 2, 80, 0, 0, '0', '0', 0);
 insert into shiori_quest_area values (20052201, 20052, 'サマーゲームリゾート', 201, 'bgm_M601', 'bgm_M601', 1, 0, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20053101, 20053, 'ちいさな出会いの海岸', 201, 'bgm_M608', 'bgm_M608', 1, 1, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20053102, 20053, 'リトルリリカル秘密基地近辺', 201, 'bgm_M608', 'bgm_M608', 1, 2, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20053103, 20053, 'ちいさな出会いの海岸', 201, 'bgm_M608', 'bgm_M608', 1, 3, 0, 0, 0, '0', '0', 0);
+insert into shiori_quest_area values (20053201, 20053, 'ちいさな出会いの海岸', 201, 'bgm_M608', 'bgm_M608', 1, 0, 0, 0, 0, '0', '0', 0);

@@ -320,3 +320,6 @@ insert into experience_unit values (318, 21910922);
 insert into experience_unit values (319, 22073274);
 insert into experience_unit values (320, 22236226);
 insert into experience_unit values (321, 22399778);
+insert into experience_unit values (322, 22563930);
+insert into experience_unit values (323, 22728682);
+insert into experience_unit values (324, 22894034);

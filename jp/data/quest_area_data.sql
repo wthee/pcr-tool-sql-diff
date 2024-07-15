@@ -69,6 +69,7 @@ insert into quest_area_data values (11067, '67.渦炎密林', '67.渦炎密林',
 insert into quest_area_data values (11068, '68.思索樹海', '68.思索樹海', 104, 'bgm_MC079', 'bgm_MC079', '2015/12/17 15:00:00', '2030/12/17 14:59:59');
 insert into quest_area_data values (11069, '69.鬼ノ膝元', '69.鬼ノ膝元', 104, 'bgm_MC079', 'bgm_MC079', '2015/12/17 15:00:00', '2030/12/17 14:59:59');
 insert into quest_area_data values (11070, '70.炎縄河', '70.炎縄河', 104, 'bgm_MC079', 'bgm_MC079', '2015/12/17 15:00:00', '2030/12/17 14:59:59');
+insert into quest_area_data values (11071, '71.崩豹峠', '71.崩豹峠', 104, 'bgm_MC079', 'bgm_MC079', '2015/12/17 15:00:00', '2030/12/17 14:59:59');
 insert into quest_area_data values (12001, '1.ジュノー平野', '1.ジュノー平野', 101, 'bgm_M61', 'bgm_M61', '2015/12/17 15:00:00', '2030/12/17 14:59:59');
 insert into quest_area_data values (12002, '2.パラス高原', '2.パラス高原', 101, 'bgm_M61', 'bgm_M61_02', '2015/12/17 15:00:00', '2030/12/17 14:59:59');
 insert into quest_area_data values (12003, '3.ヘーベ丘陵', '3.ヘーベ丘陵', 101, 'bgm_M61', 'bgm_M61_03', '2015/12/17 15:00:00', '2030/12/17 14:59:59');

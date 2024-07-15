@@ -530,11 +530,17 @@ insert into equipment_craft values (10022033, 110000, 11022033, 25, 0, 0, 0, 0, 
 insert into equipment_craft values (10025032, 110000, 11025032, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into equipment_craft values (10025033, 110000, 11025033, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into equipment_craft values (10028032, 110000, 12028032, 15, 108074, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into equipment_craft values (10028033, 110000, 12028033, 15, 108614, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into equipment_craft values (10031032, 110000, 12031032, 15, 108164, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into equipment_craft values (10031033, 110000, 12031033, 15, 108584, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into equipment_craft values (10034032, 110000, 11034032, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into equipment_craft values (10037032, 110000, 12037032, 15, 108104, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into equipment_craft values (10037033, 110000, 12037033, 15, 108554, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into equipment_craft values (10040032, 110000, 11040032, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into equipment_craft values (10040033, 110000, 12040033, 15, 108524, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into equipment_craft values (10043033, 110000, 11043033, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into equipment_craft values (10046032, 110000, 11046032, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into equipment_craft values (10046033, 110000, 11046033, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into equipment_craft values (10055032, 110000, 11055032, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into equipment_craft values (10055033, 110000, 11055033, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into equipment_craft values (10058032, 110000, 11058032, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);

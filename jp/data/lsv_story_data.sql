@@ -1,5 +1,5 @@
 CREATE TABLE 'lsv_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'time_condition' TEXT NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'read_event_story_id' INTEGER NOT NULL, 'read_condition' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
-insert into lsv_story_data values (1009801, 10098, 'みゅ～ちゃんすくすく日記その1', '2022/07/31 12:00:00', 10125103, 0, 0);
+insert into lsv_story_data values (1009801, 10098, 'みゅ～ちゃんすくすく日記その1', '2022/07/31 12:00:00', 20053103, 0, 0);
 insert into lsv_story_data values (1009802, 10098, 'みゅ～ちゃんすくすく日記その2', '2022/07/31 12:00:00', 0, 5098001, 1009801);
 insert into lsv_story_data values (1009803, 10098, 'みゅ～ちゃんすくすく日記その3', '2022/08/01 5:00:00', 0, 5098002, 1009802);
 insert into lsv_story_data values (1009804, 10098, 'みゅ～ちゃんすくすく日記その4', '2022/08/02 5:00:00', 0, 5098002, 1009803);
