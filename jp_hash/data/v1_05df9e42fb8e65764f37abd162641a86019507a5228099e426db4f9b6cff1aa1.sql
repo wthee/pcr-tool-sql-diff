@@ -34,6 +34,7 @@ insert into v1_05df9e42fb8e65764f37abd162641a86019507a5228099e426db4f9b6cff1aa1 
 insert into v1_05df9e42fb8e65764f37abd162641a86019507a5228099e426db4f9b6cff1aa1 values (33, 1, 52023, 1, 1, '【料理】ダイスの目が1回目は必ず「6」に、2回目は必ず「3」になる', 0, 0);
 insert into v1_05df9e42fb8e65764f37abd162641a86019507a5228099e426db4f9b6cff1aa1 values (34, 1, 52024, 1, 1, '【料理】次回移動時に3マス分多く進める', 0, 0);
 insert into v1_05df9e42fb8e65764f37abd162641a86019507a5228099e426db4f9b6cff1aa1 values (35, 1, 52025, 2, 10, '【料理】移動時に「マイルマス」「トレジャーマス」をスキップできる', 0, 0);
+insert into v1_05df9e42fb8e65764f37abd162641a86019507a5228099e426db4f9b6cff1aa1 values (36, 1, 52027, 1, 1, '【料理】ダイスの目が必ず「5」になる', 0, 0);
 insert into v1_05df9e42fb8e65764f37abd162641a86019507a5228099e426db4f9b6cff1aa1 values (1001, 3, 1, 1, 99, '最大ｎマイルを入手する', 0, 0);
 insert into v1_05df9e42fb8e65764f37abd162641a86019507a5228099e426db4f9b6cff1aa1 values (1002, 3, 2, 1, 99, 'ダイスを1回振りなおせる', 0, 0);
 insert into v1_05df9e42fb8e65764f37abd162641a86019507a5228099e426db4f9b6cff1aa1 values (1003, 3, 3, 1, 99, 'ダイスを1回振りなおせる_有効ターン2', 0, 0);

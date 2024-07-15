@@ -30,5 +30,6 @@ insert into v1_4d43fb53dab1d21f6d844ec12f7b51d5c5def19c2ae63d1d2fe071c0736dff1d 
 insert into v1_4d43fb53dab1d21f6d844ec12f7b51d5c5def19c2ae63d1d2fe071c0736dff1d values (20047, 29, 'ミッションを達成すると解放できるキャラが登場します。\\nミッションクリアを目指しましょう。');
 insert into v1_4d43fb53dab1d21f6d844ec12f7b51d5c5def19c2ae63d1d2fe071c0736dff1d values (20051, 30, 'ミッションを達成すると解放できるキャラが登場します。\\nミッションクリアを目指しましょう。');
 insert into v1_4d43fb53dab1d21f6d844ec12f7b51d5c5def19c2ae63d1d2fe071c0736dff1d values (20052, 31, 'ミッションを達成すると解放できるキャラが登場します。\\nミッションクリアを目指しましょう。');
+insert into v1_4d43fb53dab1d21f6d844ec12f7b51d5c5def19c2ae63d1d2fe071c0736dff1d values (20053, 32, 'ミッションを達成すると解放できるキャラが登場します。\\nミッションクリアを目指しましょう。');
 insert into v1_4d43fb53dab1d21f6d844ec12f7b51d5c5def19c2ae63d1d2fe071c0736dff1d values (2003201, 2003201, 'VERY HARDでカズマサさまが援護してくれるようです。\\n強力なスタン効果のユニオンバーストで、サポートしてくださいますよ。\\nボスが身動きを取れなくなっている間に、一気に倒しましょう。');
 insert into v1_4d43fb53dab1d21f6d844ec12f7b51d5c5def19c2ae63d1d2fe071c0736dff1d values (2003901, 2003901, '主さまが宿題に励んでおられるようです。\\n宿題が終わるまでモンスターの攻撃を耐え抜けば勝利となりますよ。\\n宿題がどこまで進んでいるかは画面のゲージを確認しましょう。\t');

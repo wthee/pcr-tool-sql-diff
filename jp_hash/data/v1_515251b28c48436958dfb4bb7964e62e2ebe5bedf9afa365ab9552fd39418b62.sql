@@ -4,4 +4,4 @@ insert into v1_515251b28c48436958dfb4bb7964e62e2ebe5bedf9afa365ab9552fd39418b62 
 insert into v1_515251b28c48436958dfb4bb7964e62e2ebe5bedf9afa365ab9552fd39418b62 values (3, 'イベントマップ', 1, 0, '', '', 7001, 7008, 0, 0);
 insert into v1_515251b28c48436958dfb4bb7964e62e2ebe5bedf9afa365ab9552fd39418b62 values (4, 'エルピス島', 2, 102, 'bgm_M179', 'bgm_M179_00', 11018, 11062, 0, 0);
 insert into v1_515251b28c48436958dfb4bb7964e62e2ebe5bedf9afa365ab9552fd39418b62 values (5, 'ジオ・\\nテオゴニア', 3, 103, 'bgm_MC001', 'bgm_MC001', 11063, 11066, 1, 322);
-insert into v1_515251b28c48436958dfb4bb7964e62e2ebe5bedf9afa365ab9552fd39418b62 values (6, 'ジオ・\\nゲヘナ', 4, 104, 'bgm_MC079', 'bgm_MC079', 11067, 11070, 1, 324);
+insert into v1_515251b28c48436958dfb4bb7964e62e2ebe5bedf9afa365ab9552fd39418b62 values (6, 'ジオ・\\nゲヘナ', 4, 104, 'bgm_MC079', 'bgm_MC079', 11067, 11071, 1, 324);
