@@ -329,3 +329,4 @@ insert into story_data values (9004, 4, 0, '4th Anniversary', 0, 0, '2022/07/16 
 insert into story_data values (9005, 4, 0, '4.5th Anniversary', 0, 0, '2023/01/06 05:00:00', '2030/12/17 14:59:59', 6, 0, 40211);
 insert into story_data values (9006, 4, 0, '5th Anniversary', 0, 0, '2023/07/17 05:00:00', '2030/12/17 14:59:59', 6, 0, 40211);
 insert into story_data values (9007, 4, 0, '5.5 Year Anniversary', 0, 0, '2024/01/24 05:00:00', '2030/12/17 14:59:59', 6, 0, 40211);
+insert into story_data values (9008, 4, 0, '6th Anniversary', 0, 0, '2024/07/17 05:00:00', '2030/12/17 14:59:59', 6, 0, 40211);

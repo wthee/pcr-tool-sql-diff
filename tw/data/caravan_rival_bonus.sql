@@ -2,3 +2,6 @@ CREATE TABLE 'caravan_rival_bonus' ('id' INTEGER NOT NULL, 'season_id' INTEGER N
 insert into caravan_rival_bonus values (10001, 3, 2, 2, 15, -1, 22, 53003, 8, '');
 insert into caravan_rival_bonus values (10002, 3, 1, 1, 1, 14, 22, 53003, 5, '');
 insert into caravan_rival_bonus values (10003, 3, 0, 0, 0, 0, 23, 52019, 2, '若菜的施捨');
+insert into caravan_rival_bonus values (10004, 4, 2, 2, 15, -1, 22, 53003, 8, '');
+insert into caravan_rival_bonus values (10005, 4, 1, 1, 1, 14, 22, 53003, 5, '');
+insert into caravan_rival_bonus values (10006, 4, 0, 0, 0, 0, 23, 52019, 2, '若菜的施捨');

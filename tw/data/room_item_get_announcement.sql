@@ -19,6 +19,10 @@ insert into room_item_get_announcement values (17, 2834, '2023/09/01 16:00', '20
 insert into room_item_get_announcement values (18, 2835, '2023/09/01 16:00', '2030/12/31 23:59:59', '', '');
 insert into room_item_get_announcement values (19, 2836, '2023/09/01 16:00', '2030/12/31 23:59:59', '', '');
 insert into room_item_get_announcement values (20, 2837, '2023/09/01 16:00', '2030/12/31 23:59:59', '', '');
-insert into room_item_get_announcement values (21, 2839, '2024/01/01 12:00', '2030/12/31 23:59:59', '', '');
-insert into room_item_get_announcement values (22, 2840, '2024/01/01 12:00', '2030/12/31 23:59:59', '', '');
-insert into room_item_get_announcement values (26, 2843, '2024/06/14 16:00', '2024/06/14 23:59:59', '', '');
+insert into room_item_get_announcement values (21, 2839, '2024/01/01 16:00', '2030/12/31 23:59:59', '', '');
+insert into room_item_get_announcement values (22, 2840, '2024/01/01 16:00', '2030/12/31 23:59:59', '', '');
+insert into room_item_get_announcement values (23, 2844, '2024/07/28 05:00', '2030/12/31 23:59:59', '', '');
+insert into room_item_get_announcement values (24, 2846, '2024/07/29 05:00', '2030/12/31 23:59:59', '', '');
+insert into room_item_get_announcement values (25, 2845, '2024/07/30 05:00', '2030/12/31 23:59:59', '', '');
+insert into room_item_get_announcement values (26, 2843, '2024/07/31 05:00', '2030/12/31 23:59:59', '', '');
+insert into room_item_get_announcement values (27, 2842, '2024/08/01 05:00', '2030/12/31 23:59:59', '', '');

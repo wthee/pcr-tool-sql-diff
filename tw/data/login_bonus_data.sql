@@ -48,3 +48,4 @@ insert into login_bonus_data values (80006, '4th Year Anniversary倒數登入獎
 insert into login_bonus_data values (80007, '四周年半倒數登入獎勵', 10, 15, '2023/01/06 05:00:00', '2023/01/21 04:59:59', 0, 0, 0, 1, 1);
 insert into login_bonus_data values (80008, '5周年倒數登入獎勵', 10, 16, '2023/07/17 05:00:00', '2023/08/02 04:59:59', 0, 0, 0, 1, 1);
 insert into login_bonus_data values (80009, '5.5 Year Anniversary 倒數登入獎勵', 10, 15, '2024/01/24 05:00:00', '2024/02/08 04:59:59', 0, 0, 0, 1, 1);
+insert into login_bonus_data values (80010, '6周年倒數登入獎勵', 10, 16, '2024/07/17 05:00:00', '2024/08/02 04:59:59', 0, 0, 0, 1, 1);
