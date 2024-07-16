@@ -2,3 +2,6 @@ CREATE TABLE 'v1_1892ebdd63860f462ae83d8ef86a5cdf0beaced1af5e87bd328b9bd23a932fb
 insert into v1_1892ebdd63860f462ae83d8ef86a5cdf0beaced1af5e87bd328b9bd23a932fb9 values (10001, 3, 2, 2, 15, -1, 22, 53003, 8, '');
 insert into v1_1892ebdd63860f462ae83d8ef86a5cdf0beaced1af5e87bd328b9bd23a932fb9 values (10002, 3, 1, 1, 1, 14, 22, 53003, 5, '');
 insert into v1_1892ebdd63860f462ae83d8ef86a5cdf0beaced1af5e87bd328b9bd23a932fb9 values (10003, 3, 0, 0, 0, 0, 23, 52019, 2, '若菜的施捨');
+insert into v1_1892ebdd63860f462ae83d8ef86a5cdf0beaced1af5e87bd328b9bd23a932fb9 values (10004, 4, 2, 2, 15, -1, 22, 53003, 8, '');
+insert into v1_1892ebdd63860f462ae83d8ef86a5cdf0beaced1af5e87bd328b9bd23a932fb9 values (10005, 4, 1, 1, 1, 14, 22, 53003, 5, '');
+insert into v1_1892ebdd63860f462ae83d8ef86a5cdf0beaced1af5e87bd328b9bd23a932fb9 values (10006, 4, 0, 0, 0, 0, 23, 52019, 2, '若菜的施捨');
