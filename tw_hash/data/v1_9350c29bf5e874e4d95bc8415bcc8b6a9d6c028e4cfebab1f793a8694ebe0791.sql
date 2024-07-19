@@ -21,3 +21,4 @@ insert into v1_9350c29bf5e874e4d95bc8415bcc8b6a9d6c028e4cfebab1f793a8694ebe0791 
 insert into v1_9350c29bf5e874e4d95bc8415bcc8b6a9d6c028e4cfebab1f793a8694ebe0791 values (126501, '平常時', '特殊技能');
 insert into v1_9350c29bf5e874e4d95bc8415bcc8b6a9d6c028e4cfebab1f793a8694ebe0791 values (129001, '平常時', '特殊技能');
 insert into v1_9350c29bf5e874e4d95bc8415bcc8b6a9d6c028e4cfebab1f793a8694ebe0791 values (129301, '平常時', '特殊技能');
+insert into v1_9350c29bf5e874e4d95bc8415bcc8b6a9d6c028e4cfebab1f793a8694ebe0791 values (129401, '平常時', '特殊技能');

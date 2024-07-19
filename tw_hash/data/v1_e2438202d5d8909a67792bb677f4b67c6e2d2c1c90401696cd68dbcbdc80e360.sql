@@ -244,6 +244,7 @@ insert into v1_e2438202d5d8909a67792bb677f4b67c6e2d2c1c90401696cd68dbcbdc80e360 
 insert into v1_e2438202d5d8909a67792bb677f4b67c6e2d2c1c90401696cd68dbcbdc80e360 values (128901, '優衣（星素）', 500140, '普拉諾平原', 0.0, 2);
 insert into v1_e2438202d5d8909a67792bb677f4b67c6e2d2c1c90401696cd68dbcbdc80e360 values (129001, '厄莉絲', 500510, '花田', 0.0, 2);
 insert into v1_e2438202d5d8909a67792bb677f4b67c6e2d2c1c90401696cd68dbcbdc80e360 values (129301, '優妮（冬日）', 502220, '墨丘利度假村_泳池區域_白天', 0.0, 2);
+insert into v1_e2438202d5d8909a67792bb677f4b67c6e2d2c1c90401696cd68dbcbdc80e360 values (129401, '克蘿依（冬日）', 502220, '墨丘利度假村_泳池區域_白天', 0.0, 2);
 insert into v1_e2438202d5d8909a67792bb677f4b67c6e2d2c1c90401696cd68dbcbdc80e360 values (180101, '日和（公主）', 500130, '埃斯特雷拉街道', 0.0, 2);
 insert into v1_e2438202d5d8909a67792bb677f4b67c6e2d2c1c90401696cd68dbcbdc80e360 values (180201, '優衣（公主）', 500130, '埃斯特雷拉街道', 0.0, 4);
 insert into v1_e2438202d5d8909a67792bb677f4b67c6e2d2c1c90401696cd68dbcbdc80e360 values (180301, '怜（公主）', 500130, '埃斯特雷拉街道', 0.0, 3);
