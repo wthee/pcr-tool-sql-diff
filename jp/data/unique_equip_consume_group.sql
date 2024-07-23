@@ -23,3 +23,6 @@ insert into unique_equip_consume_group values (19, 1, 32013);
 insert into unique_equip_consume_group values (20, 1, 32040);
 insert into unique_equip_consume_group values (21, 1, 32018);
 insert into unique_equip_consume_group values (22, 1, 32028);
+insert into unique_equip_consume_group values (23, 1, 32043);
+insert into unique_equip_consume_group values (24, 1, 32017);
+insert into unique_equip_consume_group values (25, 1, 32010);

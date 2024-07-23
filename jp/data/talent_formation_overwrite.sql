@@ -1,4 +1,5 @@
 CREATE TABLE 'talent_formation_overwrite' ('id' INTEGER NOT NULL, 'content_type' INTEGER NOT NULL, 'target_value_1' INTEGER NOT NULL, 'target_value_2' INTEGER NOT NULL, 'formation_bonus_id_1' INTEGER NOT NULL, 'formation_bonus_id_2' INTEGER NOT NULL, 'formation_bonus_id_3' INTEGER NOT NULL, 'formation_bonus_id_4' INTEGER NOT NULL, 'formation_bonus_id_5' INTEGER NOT NULL, PRIMARY KEY('id'));
+insert into talent_formation_overwrite values (401707405, 9, 401707405, 0, 1, 8010, 1, 1, 1);
 insert into talent_formation_overwrite values (740051011, 36, 74005101, 0, 8000, 8000, 8000, 8000, 8000);
 insert into talent_formation_overwrite values (740051021, 36, 74005102, 0, 8000, 8000, 8000, 8000, 8000);
 insert into talent_formation_overwrite values (740051031, 36, 74005103, 0, 8000, 8000, 8000, 8000, 8000);

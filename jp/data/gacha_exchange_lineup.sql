@@ -809,3 +809,7 @@ insert into gacha_exchange_lineup values (807, 331, 107101, 3, 0, 0, '2024/06/30
 insert into gacha_exchange_lineup values (808, 332, 131201, 3, 1147, 30332, '2024/07/03 19:00:00', '2024/07/15 14:59:59');
 insert into gacha_exchange_lineup values (809, 333, 126601, 3, 0, 0, '2024/07/11 12:00:00', '2024/07/15 14:59:59');
 insert into gacha_exchange_lineup values (810, 334, 131601, 3, 1148, 30334, '2024/07/15 15:00:00', '2024/07/26 11:59:59');
+insert into gacha_exchange_lineup values (811, 335, 110601, 3, 0, 0, '2024/07/23 12:00:00', '2024/07/31 11:59:59');
+insert into gacha_exchange_lineup values (812, 335, 110401, 3, 0, 0, '2024/07/23 12:00:00', '2024/07/31 11:59:59');
+insert into gacha_exchange_lineup values (813, 335, 113101, 3, 0, 0, '2024/07/23 12:00:00', '2024/07/31 11:59:59');
+insert into gacha_exchange_lineup values (814, 335, 113401, 3, 0, 0, '2024/07/23 12:00:00', '2024/07/31 11:59:59');
