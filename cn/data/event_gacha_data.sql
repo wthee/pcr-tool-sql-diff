@@ -95,4 +95,5 @@ insert into event_gacha_data values (10094, 10094, 'Enjoy&Refresh！性格迥异
 insert into event_gacha_data values (10095, 10095, '心电感应！碧与她的玩具朋友', 2, 60942, 1, 6);
 insert into event_gacha_data values (10096, 10096, '破晓之星夏日游戏\u3000\\n闪耀于夏天海边的三份思念', 2, 60952, 1, 6);
 insert into event_gacha_data values (10097, 10097, '无限夏日计划\u3000两人独占的盛夏乐园', 2, 60962, 1, 6);
+insert into event_gacha_data values (10098, 10098, '点滴夏日回忆\u3000在海边发现的小小幸福', 2, 60972, 1, 6);
 insert into event_gacha_data values (19003, 10003, '吸血鬼猎人with伊莉亚讨伐证交换', 2, 60022, 1, 5);
