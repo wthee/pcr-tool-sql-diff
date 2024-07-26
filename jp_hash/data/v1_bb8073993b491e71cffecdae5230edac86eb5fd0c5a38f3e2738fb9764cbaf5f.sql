@@ -80,3 +80,4 @@ insert into v1_bb8073993b491e71cffecdae5230edac86eb5fd0c5a38f3e2738fb9764cbaf5f 
 insert into v1_bb8073993b491e71cffecdae5230edac86eb5fd0c5a38f3e2738fb9764cbaf5f values (5144, 5, 10144, '花咲く季節のサンセリテ', 0, 1, '2024/04/27 21:00:00', '2030/04/24 14:59:59');
 insert into v1_bb8073993b491e71cffecdae5230edac86eb5fd0c5a38f3e2738fb9764cbaf5f values (5146, 5, 10146, 'グランドリーム・オンパレード\u3000\\n宝石兎と秘密の仲間たち', 0, 1, '2024/05/23 15:00:00', '2030/04/24 14:59:59');
 insert into v1_bb8073993b491e71cffecdae5230edac86eb5fd0c5a38f3e2738fb9764cbaf5f values (5148, 5, 10148, 'あつまれイイコトクラブ！\u3000\\nミソラの愉快な夏休み', 0, 1, '2024/06/25 15:00:00', '2030/04/24 14:59:59');
+insert into v1_bb8073993b491e71cffecdae5230edac86eb5fd0c5a38f3e2738fb9764cbaf5f values (5150, 5, 10150, '幻惑の妖精\u3000\\n‐真夏の園で舞踊る影‐', 0, 1, '2024/07/26 15:00:00', '2030/04/24 14:59:59');
