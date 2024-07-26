@@ -7,9 +7,9 @@
 
 ## 数据库文件
 
-> .db为原文件
-> .br为压缩后的文件，需自行解压
-> XXXredive_xx.db.br 为 [PCR Tool](https://github.com/wthee/pcr-tool) 版本更新时的备份文件
+> .db为原文件；
+> .br为压缩后的文件，需自行解压；
+> XXXredive_xx.db.br 为 [PCR Tool](https://github.com/wthee/pcr-tool) 版本更新时的备份文件。
 
 - [查看文件列表](http://wthee.xyz/db/)
 
