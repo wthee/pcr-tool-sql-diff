@@ -76,3 +76,4 @@ insert into event_story_data values (5134, 5, 10134, '迎春夢想家們！\u300
 insert into event_story_data values (5136, 5, 10136, 'I Wish\u3000\\n緊握的這雙手', 0, 1, '2024/05/29 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5137, 5, 10137, 'I Wish\u3000\\n緊握的這雙手', 0, 1, '2024/05/29 16:00:00', '2030/04/24 14:59:59');
 insert into event_story_data values (5140, 5, 10140, '寒冬的盛夏與神聖學院的問題兒童', 0, 1, '2024/06/28 16:00:00', '2030/04/24 14:59:59');
+insert into event_story_data values (5142, 5, 10142, '冷酷・火爆・新兵訓練營\u3000魔鬼教官和鞭子與……糖果？', 0, 1, '2024/07/29 16:00:00', '2030/04/24 14:59:59');
