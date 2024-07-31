@@ -694,7 +694,7 @@ insert into v1_32a8c8b864be078cb7f0cfdca77914590ed2be634f53b7445f6e107f5b95550d 
 insert into v1_32a8c8b864be078cb7f0cfdca77914590ed2be634f53b7445f6e107f5b95550d values (2520059, ' Quartet ', 0, 'Trio', 0, 'Quintet', 0, 'Solo', 0, 1);
 insert into v1_32a8c8b864be078cb7f0cfdca77914590ed2be634f53b7445f6e107f5b95550d values (2520060, '節拍器', 0, '計時碼錶', 0, '氣壓錶', 0, '示波器', 0, 1);
 insert into v1_32a8c8b864be078cb7f0cfdca77914590ed2be634f53b7445f6e107f5b95550d values (2520061, '飛龍', 0, '王將', 0, '角行', 0, '金將', 0, 1);
-insert into v1_32a8c8b864be078cb7f0cfdca77914590ed2be634f53b7445f6e107f5b95550d values (2521001, '黃金無限飯糰', 0, '天露金甘水', 0, '雲海的魔物肉', 0, '極上龍尾關東煮', 0, 1);
+insert into v1_32a8c8b864be078cb7f0cfdca77914590ed2be634f53b7445f6e107f5b95550d values (2521001, '黃金無限飯糰', 0, '天露金甘水', 0, '雲海的魔物肉', 0, '頂級的龍尾關東煮', 0, 1);
 insert into v1_32a8c8b864be078cb7f0cfdca77914590ed2be634f53b7445f6e107f5b95550d values (2521002, '蛋', 0, '白飯', 0, '肉', 0, '蜜', 0, 1);
 insert into v1_32a8c8b864be078cb7f0cfdca77914590ed2be634f53b7445f6e107f5b95550d values (2521003, '陶鍋', 0, '露營道具', 0, '有我在喔好朋友1號', 0, '弓', 0, 1);
 insert into v1_32a8c8b864be078cb7f0cfdca77914590ed2be634f53b7445f6e107f5b95550d values (2521004, '龍之卵', 0, '隆之卵', 0, '龍之翼', 0, '隆之翼', 0, 1);

@@ -82,7 +82,7 @@ insert into sqlite_stat1 values ('v1_625ac8810d43f8977f594e631b1de39308f047e4f0b
 insert into sqlite_stat1 values ('v1_9afea829c4199bc187b623a14a8a2e66cf4c6b89f4bed84041965a2eb81d5b58', None, '3');
 insert into sqlite_stat1 values ('v1_4fcf3c510d67ca6353a0ef33623cd1a696658286283c422412eaa3f8c4d85686', None, '118');
 insert into sqlite_stat1 values ('v1_bb1e709f479589063767b9de86832ebb7db4aaf2d758fa7aaed5fcdf05bf0db0', 'v1_bb1e709f479589063767b9de86832ebb7db4aaf2d758fa7aaed5fcdf05bf0db0_0_bdcdca8fa6fb30f723aefc3698fa41d198150b832c6c4158d2e064ddcc75ea89', '553 2');
-insert into sqlite_stat1 values ('v1_6d16ab510a22e00ed45b0680a625f597ebec66268b895f78abdda2b79953bafe', None, '44');
+insert into sqlite_stat1 values ('v1_6d16ab510a22e00ed45b0680a625f597ebec66268b895f78abdda2b79953bafe', None, '48');
 insert into sqlite_stat1 values ('v1_489f189d73112db66cd4d83205e344c6100354461fc1896e7780eac9b892c5dd', None, '186');
 insert into sqlite_stat1 values ('v1_05a283c7d61a1439360adec41cbba6327496a03fb1f28abebb4b4d1fd0ba2339', None, '3');
 insert into sqlite_stat1 values ('v1_c4a036888628fc9ea151fa995f498d65bcb4eb56a38d876795e58aecb5500d1e', None, '101');
@@ -287,7 +287,7 @@ insert into sqlite_stat1 values ('v1_3e430f37d534584f32afd6c6ef636a20b91554aca65
 insert into sqlite_stat1 values ('v1_5d1c835966c7eacc976efa7ecc527211a9522019cfd650e9625eb4903e7d582f', None, '25');
 insert into sqlite_stat1 values ('v1_f5ec3fb5c45b91c0b5fa63f50002b6079845b4f303a766aff267882a5067b2d0', None, '1');
 insert into sqlite_stat1 values ('v1_0f25db021fa897b7e51c76bc468009db72f5be8e5fe952a8d72ea75e7dc56bd7', None, '7');
-insert into sqlite_stat1 values ('v1_5850cb930d4ae8d8c78e15dd16b56bce7a9004c59b66050393a91d7b78a5b4e2', None, '24');
+insert into sqlite_stat1 values ('v1_5850cb930d4ae8d8c78e15dd16b56bce7a9004c59b66050393a91d7b78a5b4e2', None, '33');
 insert into sqlite_stat1 values ('v1_fcac0333d43805fd1060df437b5837dabb582b8f6a7aada59ff97482666c08bf', 'v1_fcac0333d43805fd1060df437b5837dabb582b8f6a7aada59ff97482666c08bf_0_d4888fc4956ebc097443fa9c073a3c7eef80846507bdd9150d25acc4c6593601', '739 68');
 insert into sqlite_stat1 values ('v1_5db2188ca42bddd1a992ab4b7400cfda3b0c20da6aa5e02a2ac459a3ca714cd5', 'v1_5db2188ca42bddd1a992ab4b7400cfda3b0c20da6aa5e02a2ac459a3ca714cd5_0_3f18dff30704d698a59f3722b675ffe2a7d1b2386153f4ce11ef3cfb19b34150', '15 5');
 insert into sqlite_stat1 values ('v1_5db2188ca42bddd1a992ab4b7400cfda3b0c20da6aa5e02a2ac459a3ca714cd5', 'v1_5db2188ca42bddd1a992ab4b7400cfda3b0c20da6aa5e02a2ac459a3ca714cd5_0_da00b3067a31c9dcb179d7be0b253fe5ceec71a319a7aa326331fd8a963e43b5', '15 1');
@@ -382,7 +382,7 @@ insert into sqlite_stat1 values ('v1_7e6d1de4e66217fb10bb791948a6a4e943dc43bc734
 insert into sqlite_stat1 values ('v1_6d03470a9a88b5b6eaea558d17780274804af00180b0ec0fc06467a7202b8005', 'v1_6d03470a9a88b5b6eaea558d17780274804af00180b0ec0fc06467a7202b8005_0_c6266120d0fcd025a0da7eef6870068fe059e4c083163cfed6b7765378dd974e', '427 31');
 insert into sqlite_stat1 values ('v1_08fc11df217b2f717be508366ec3b14c548f4acef1b1e85afe8213e2f0f67bc2', 'v1_08fc11df217b2f717be508366ec3b14c548f4acef1b1e85afe8213e2f0f67bc2_0_ddd3974b761fd900e684f7ad850cd2503a983a6e6d914966e042fc85a20d7a10', '5 5');
 insert into sqlite_stat1 values ('v1_08fc11df217b2f717be508366ec3b14c548f4acef1b1e85afe8213e2f0f67bc2', 'v1_08fc11df217b2f717be508366ec3b14c548f4acef1b1e85afe8213e2f0f67bc2_0_ddd3974b761fd900e684f7ad850cd2503a983a6e6d914966e042fc85a20d7a10_1_ba727842099ac81275461001c56ccd8ef2865522c4a000bf14213d065699cfcb', '5 5 1');
-insert into sqlite_stat1 values ('v1_29adebc0462d693c0d10766f22c55f8543adc4af44440c4319201200efe84eca', None, '10');
+insert into sqlite_stat1 values ('v1_29adebc0462d693c0d10766f22c55f8543adc4af44440c4319201200efe84eca', None, '11');
 insert into sqlite_stat1 values ('v1_27e0a17a0f86882dc1b466b945502f4a68407e372c8b1bf89d571df56ae202b8', None, '311');
 insert into sqlite_stat1 values ('v1_15aeb8ed8da805451652f75a88f3955aaf4b26971c73618989201c52c74d2f33', None, '182');
 insert into sqlite_stat1 values ('v1_14ba5271916311196bb0622ad777e6ce5dbffbaeda6bfc73e8b06272dc8654d4', None, '10');
@@ -428,7 +428,7 @@ insert into sqlite_stat1 values ('v1_032fcba9e35c17ca6e1c1f0882946e72752211a8604
 insert into sqlite_stat1 values ('v1_51d5132ab2ebcbc73eded16b24cedb1511b02ca875e72b46d9afa68ae197776b', 'v1_51d5132ab2ebcbc73eded16b24cedb1511b02ca875e72b46d9afa68ae197776b_0_4171b56c8c4eb48f92d49aa4abc0f79d644233e4748c8f5beaa862a50874a2db', '12 6');
 insert into sqlite_stat1 values ('v1_60cf76aa931097d9e9875a4b6e3f5171cbe25261e7537354b4b5c37e1a65437b', 'v1_60cf76aa931097d9e9875a4b6e3f5171cbe25261e7537354b4b5c37e1a65437b_0_c73ce8d0fe66d0e722c1b1b92c59971cf8ba5c6480e70260dd63198a21084824', '1 1');
 insert into sqlite_stat1 values ('v1_d55b770189fddc0589238d1ae831b22da0043e461c745923b424a46198eb63de', 'v1_d55b770189fddc0589238d1ae831b22da0043e461c745923b424a46198eb63de_0_abf99c65db9ec0fc1a24d95491596164125473dc491b61de0227ee681b99b72b', '12 12');
-insert into sqlite_stat1 values ('v1_efca7b034a5bac19bdf3a10a7444362845bc0f228c01728b71865cabf330d60e', None, '1945');
+insert into sqlite_stat1 values ('v1_efca7b034a5bac19bdf3a10a7444362845bc0f228c01728b71865cabf330d60e', None, '1956');
 insert into sqlite_stat1 values ('v1_5654eb0e4cbee77f539233e7289dbfc4059a207a85639132a2cc53f3ba34026d', 'v1_5654eb0e4cbee77f539233e7289dbfc4059a207a85639132a2cc53f3ba34026d_0_c93a69f9c16f2f19522ecca0220a53d1f5c208c98a8aac47767e42268509adcf', '5 2');
 insert into sqlite_stat1 values ('v1_5654eb0e4cbee77f539233e7289dbfc4059a207a85639132a2cc53f3ba34026d', 'v1_5654eb0e4cbee77f539233e7289dbfc4059a207a85639132a2cc53f3ba34026d_0_c93a69f9c16f2f19522ecca0220a53d1f5c208c98a8aac47767e42268509adcf_1_942a443879529af5c6723dcd45c23a5d53c3dad3be7b30affc8318a64882072f', '5 2 1');
 insert into sqlite_stat1 values ('v1_5654eb0e4cbee77f539233e7289dbfc4059a207a85639132a2cc53f3ba34026d', 'sqlite_autoindex_v1_5654eb0e4cbee77f539233e7289dbfc4059a207a85639132a2cc53f3ba34026d_1', '5 2 1');
@@ -476,7 +476,7 @@ insert into sqlite_stat1 values ('v1_a52faf09d3d14234924b9f8c33fde876987b47824fc
 insert into sqlite_stat1 values ('v1_a52faf09d3d14234924b9f8c33fde876987b47824fcb83e030c6b64b9cdd8388', 'v1_a52faf09d3d14234924b9f8c33fde876987b47824fcb83e030c6b64b9cdd8388_0_97438a1d851d9bd70194aeacea67782b2385661ef6a48df7148ed38a2dc2ebda_1_17da4fad2ea085d9e8369d27611d601e0b6a214f0ef83d79925102ade4dc8e70', '50 50 13');
 insert into sqlite_stat1 values ('v1_9cdff2eea56a6e798ebe47d2c4d108a3807947d874a038fe061ca21b3ae6f6c7', None, '131');
 insert into sqlite_stat1 values ('v1_7d5ba1cddfba4ff8b04e2a30e3928a1f314e9a0f1131e7159e1466581b5754a5', 'v1_7d5ba1cddfba4ff8b04e2a30e3928a1f314e9a0f1131e7159e1466581b5754a5_0_aac4aa42a3b2ac6e9a8e655df083c0b53d8fcdf4c04d82572c4716783babf5d4', '9 9');
-insert into sqlite_stat1 values ('v1_8e75e602dc66021674516c0e0abac9a3e5e0df0c8e21e1dd933c97df21f014b8', None, '33');
+insert into sqlite_stat1 values ('v1_8e75e602dc66021674516c0e0abac9a3e5e0df0c8e21e1dd933c97df21f014b8', None, '32');
 insert into sqlite_stat1 values ('v1_6ad39239284ba0d85cc697c7652f5d3d399efef6151ec3237194ef19ab289b45', 'v1_6ad39239284ba0d85cc697c7652f5d3d399efef6151ec3237194ef19ab289b45_0_6ccaffdbfc3d92a6161104749e969ac7dc28ff93252e2755ebb670f9c06a13e9', '112 8');
 insert into sqlite_stat1 values ('v1_2ef44e27a1099b4d39f609d699ab68c3da5e52bc9f109904f17c49810c62135b', 'sqlite_autoindex_v1_2ef44e27a1099b4d39f609d699ab68c3da5e52bc9f109904f17c49810c62135b_1', '194 1');
 insert into sqlite_stat1 values ('v1_294658480c4807a2645241448785d10c1b6ae115f68bce8f70a969240d2ca2f8', None, '150');
@@ -719,7 +719,7 @@ insert into sqlite_stat1 values ('v1_33e8b025253d169ab87fa6634e59688e7bf251ef5fc
 insert into sqlite_stat1 values ('v1_23a65b100f610bb8faea824c04d92443a02c68d46ee1442c8035114fbfbd06d1', None, '5');
 insert into sqlite_stat1 values ('v1_3ed51b680298a7d3fd3ed649bba1dc7c48dc698cfdc981fc7a91b5fd1cba7ee4', None, '9');
 insert into sqlite_stat1 values ('v1_62fbbc9cb418e985db012b2310d1a787cf1e9abdf242644c8ba347be15794ad3', 'v1_62fbbc9cb418e985db012b2310d1a787cf1e9abdf242644c8ba347be15794ad3_0_2e6f0a8d67b4cd8b49fa11871bef4f114e6c9414cf3d1f69e7d0aa3d4568c177', '213 1');
-insert into sqlite_stat1 values ('v1_24eacec1c40cdfdeaf6aa26fcd4d0187a0d8e0d19ac033b7b1a0f6048971d667', 'v1_24eacec1c40cdfdeaf6aa26fcd4d0187a0d8e0d19ac033b7b1a0f6048971d667_0_c11ef53e3b56ad6b4296d17d833225c11ec507af0549504e4981c253cf2fffe7', '2182 7');
+insert into sqlite_stat1 values ('v1_24eacec1c40cdfdeaf6aa26fcd4d0187a0d8e0d19ac033b7b1a0f6048971d667', 'v1_24eacec1c40cdfdeaf6aa26fcd4d0187a0d8e0d19ac033b7b1a0f6048971d667_0_c11ef53e3b56ad6b4296d17d833225c11ec507af0549504e4981c253cf2fffe7', '2191 7');
 insert into sqlite_stat1 values ('v1_0ab13159d99905266114b91d5cb408e0f85358b742aba5e6b02d1c91b2a00f53', None, '312');
 insert into sqlite_stat1 values ('v1_4b6aac7f320b6bbc364a3fd56180894d8ab2e6b66288e0c39fd01c17faa53156', None, '151');
 insert into sqlite_stat1 values ('v1_ca6cc6c81650532c1e250741941706e45404a57ce4c9af1831e9567e7b534355', 'v1_ca6cc6c81650532c1e250741941706e45404a57ce4c9af1831e9567e7b534355_0_5bc2ab4803f09f9ea2c64ba69de20be4a0a04f4c92fcbfbd0855c9fc749d0a29', '30 1');

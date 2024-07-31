@@ -9,3 +9,4 @@ insert into v1_29adebc0462d693c0d10766f22c55f8543adc4af44440c4319201200efe84eca 
 insert into v1_29adebc0462d693c0d10766f22c55f8543adc4af44440c4319201200efe84eca values (10008, '4.5 Year Anniversary 特殊登入獎勵', '2023/01/20 05:00:00', '2023/02/06 04:59:59');
 insert into v1_29adebc0462d693c0d10766f22c55f8543adc4af44440c4319201200efe84eca values (10009, '5th Anniversary 特殊登入獎勵', '2023/08/01 05:00:00', '2023/08/15 04:59:59');
 insert into v1_29adebc0462d693c0d10766f22c55f8543adc4af44440c4319201200efe84eca values (10010, '5.5 Year Anniversary 特殊登入獎勵', '2024/02/07 05:00:00', '2024/02/24 04:59:59');
+insert into v1_29adebc0462d693c0d10766f22c55f8543adc4af44440c4319201200efe84eca values (10011, '6th Anniversary 特殊登入獎勵', '2024/08/01 05:00:00', '2024/08/16 04:59:59');

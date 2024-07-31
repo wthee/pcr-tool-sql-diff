@@ -43,3 +43,7 @@ insert into v1_6d16ab510a22e00ed45b0680a625f597ebec66268b895f78abdda2b79953bafe 
 insert into v1_6d16ab510a22e00ed45b0680a625f597ebec66268b895f78abdda2b79953bafe values (42, 10010, 2, 8, 91002, 400, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_6d16ab510a22e00ed45b0680a625f597ebec66268b895f78abdda2b79953bafe values (43, 10010, 3, 8, 91002, 300, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_6d16ab510a22e00ed45b0680a625f597ebec66268b895f78abdda2b79953bafe values (44, 10010, 4, 8, 91002, 250, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into v1_6d16ab510a22e00ed45b0680a625f597ebec66268b895f78abdda2b79953bafe values (45, 10011, 1, 8, 91002, 500, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into v1_6d16ab510a22e00ed45b0680a625f597ebec66268b895f78abdda2b79953bafe values (46, 10011, 2, 8, 91002, 400, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into v1_6d16ab510a22e00ed45b0680a625f597ebec66268b895f78abdda2b79953bafe values (47, 10011, 3, 8, 91002, 300, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into v1_6d16ab510a22e00ed45b0680a625f597ebec66268b895f78abdda2b79953bafe values (48, 10011, 4, 8, 91002, 250, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
