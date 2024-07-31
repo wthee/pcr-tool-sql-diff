@@ -43,6 +43,12 @@ insert into extra_effect_data values (102406003, 16, 610148006, 0, 61014801, 1, 
 insert into extra_effect_data values (102406004, 16, 610148007, 0, 61014801, 1, 0, 0, 0, 0, 610148504, 0, 0, 0, 0);
 insert into extra_effect_data values (102406005, 16, 610148008, 0, 61014801, 1, 0, 0, 0, 0, 610148505, 0, 0, 0, 0);
 insert into extra_effect_data values (102406006, 16, 610148009, 0, 61014801, 1, 0, 0, 0, 0, 610148506, 0, 0, 0, 0);
+insert into extra_effect_data values (102407001, 16, 610150004, 0, 61015001, 4, 0, 0, 0, 0, 610150404, 0, 0, 0, 0);
+insert into extra_effect_data values (102407002, 16, 610150005, 0, 61015001, 4, 0, 0, 0, 0, 610150405, 0, 0, 0, 0);
+insert into extra_effect_data values (102407003, 16, 610150006, 0, 61015001, 4, 0, 0, 0, 0, 610150406, 0, 0, 0, 0);
+insert into extra_effect_data values (102407004, 16, 610150007, 0, 61015001, 4, 0, 0, 0, 0, 610150504, 0, 0, 0, 0);
+insert into extra_effect_data values (102407005, 16, 610150008, 0, 61015001, 4, 0, 0, 0, 0, 610150505, 0, 0, 0, 0);
+insert into extra_effect_data values (102407006, 16, 610150009, 0, 61015001, 4, 0, 0, 0, 0, 610150506, 0, 0, 0, 0);
 insert into extra_effect_data values (102691001, 0, 120690033, 0, 0, 1, 0, 0, 0, 0, 102690311, 0, 0, 0, 0);
 insert into extra_effect_data values (102701001, 0, 120700033, 0, 0, 1, 0, 0, 0, 0, 102700311, 0, 0, 0, 0);
 insert into extra_effect_data values (401705101, 9, 401705101, 0, 0, 1, 0, 0, 0, 0, 401705112, 0, 0, 0, 0);

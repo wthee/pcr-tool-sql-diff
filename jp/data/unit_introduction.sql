@@ -327,3 +327,4 @@ insert into unit_introduction values (325, 30332, 1, '2024/07/03 19:00:00', '202
 insert into unit_introduction values (326, 30333, 1, '2024/07/11 12:00:00', '2024/07/15 14:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (327, 30334, 1, '2024/07/15 15:00:00', '2024/07/26 11:59:59', 380000, 380000, 0, 0, 0, 0);
 insert into unit_introduction values (328, 30335, 1, '2024/07/23 12:00:00', '2024/07/31 11:59:59', 380000, 380000, 0, 0, 0, 0);
+insert into unit_introduction values (329, 30337, 1, '2024/07/31 12:00:00', '2024/08/12 11:59:59', 380000, 380000, 0, 0, 0, 0);
