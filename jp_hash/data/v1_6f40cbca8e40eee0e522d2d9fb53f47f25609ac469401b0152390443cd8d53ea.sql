@@ -26,3 +26,4 @@ insert into v1_6f40cbca8e40eee0e522d2d9fb53f47f25609ac469401b0152390443cd8d53ea 
 insert into v1_6f40cbca8e40eee0e522d2d9fb53f47f25609ac469401b0152390443cd8d53ea values (8000024, '白い狐は豪奢な都を見下ろす', 25);
 insert into v1_6f40cbca8e40eee0e522d2d9fb53f47f25609ac469401b0152390443cd8d53ea values (8000025, 'お城に採用いたしましょう♪', 26);
 insert into v1_6f40cbca8e40eee0e522d2d9fb53f47f25609ac469401b0152390443cd8d53ea values (8000026, '異世界美人三花仙～おまけ付き～', 27);
+insert into v1_6f40cbca8e40eee0e522d2d9fb53f47f25609ac469401b0152390443cd8d53ea values (8000027, 'サラサリアのミソランファ★', 28);

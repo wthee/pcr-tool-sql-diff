@@ -256,6 +256,7 @@ insert into v1_7533174d860a88721fd6bd9bf1262fc4b4f8f9abdcc85d9ace4a94208fdca2fd 
 insert into v1_7533174d860a88721fd6bd9bf1262fc4b4f8f9abdcc85d9ace4a94208fdca2fd values (131101, 'ネア（サマー）', 501030, 'ウィッシュビーチ', 0.0, 3);
 insert into v1_7533174d860a88721fd6bd9bf1262fc4b4f8f9abdcc85d9ace4a94208fdca2fd values (131201, 'ミソラ（サマー）', 500690, '海辺の店_昼', 0.0, 4);
 insert into v1_7533174d860a88721fd6bd9bf1262fc4b4f8f9abdcc85d9ace4a94208fdca2fd values (131601, 'リリ（サマー）', 500163, '海_パラソル_昼', 0.0, 2);
+insert into v1_7533174d860a88721fd6bd9bf1262fc4b4f8f9abdcc85d9ace4a94208fdca2fd values (131701, 'アメス（サマー）', 500160, 'マルジェン海岸_昼', 0.0, 4);
 insert into v1_7533174d860a88721fd6bd9bf1262fc4b4f8f9abdcc85d9ace4a94208fdca2fd values (180101, 'ヒヨリ（プリンセス）', 500130, 'エステレラ街道', 0.0, 2);
 insert into v1_7533174d860a88721fd6bd9bf1262fc4b4f8f9abdcc85d9ace4a94208fdca2fd values (180201, 'ユイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 4);
 insert into v1_7533174d860a88721fd6bd9bf1262fc4b4f8f9abdcc85d9ace4a94208fdca2fd values (180301, 'レイ（プリンセス）', 500130, 'エステレラ街道', 0.0, 3);

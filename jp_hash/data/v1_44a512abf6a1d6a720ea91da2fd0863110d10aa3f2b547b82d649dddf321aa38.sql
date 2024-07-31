@@ -198,3 +198,4 @@ insert into v1_44a512abf6a1d6a720ea91da2fd0863110d10aa3f2b547b82d649dddf321aa38 
 insert into v1_44a512abf6a1d6a720ea91da2fd0863110d10aa3f2b547b82d649dddf321aa38 values ('DOME_BATTLE_RESULT', 0, 0);
 insert into v1_44a512abf6a1d6a720ea91da2fd0863110d10aa3f2b547b82d649dddf321aa38 values ('HATSUNE_APG', 0, 0);
 insert into v1_44a512abf6a1d6a720ea91da2fd0863110d10aa3f2b547b82d649dddf321aa38 values ('HATSUNE_TPR', 0, 0);
+insert into v1_44a512abf6a1d6a720ea91da2fd0863110d10aa3f2b547b82d649dddf321aa38 values ('HATSUNE_LSS', 502320, 0);

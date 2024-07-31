@@ -75,6 +75,7 @@ insert into v1_bec744e8fa9cb73fe1521c29bf6e4d5815cbeca0bec005d9fd3c80d0e0bfc1ab 
 insert into v1_bec744e8fa9cb73fe1521c29bf6e4d5815cbeca0bec005d9fd3c80d0e0bfc1ab values (1014401, 5144, 5144000, 'bgm_MC143', '', 0, 1, 1.0);
 insert into v1_bec744e8fa9cb73fe1521c29bf6e4d5815cbeca0bec005d9fd3c80d0e0bfc1ab values (1014601, 5146, 5146000, 'bgm_MC147', '', 0, 1, 1.0);
 insert into v1_bec744e8fa9cb73fe1521c29bf6e4d5815cbeca0bec005d9fd3c80d0e0bfc1ab values (1014801, 5148, 5148000, 'bgm_MC156', '', 0, 1, 1.0);
+insert into v1_bec744e8fa9cb73fe1521c29bf6e4d5815cbeca0bec005d9fd3c80d0e0bfc1ab values (1015001, 5150, 5150000, 'bgm_MC162', '', 0, 1, 1.0);
 insert into v1_bec744e8fa9cb73fe1521c29bf6e4d5815cbeca0bec005d9fd3c80d0e0bfc1ab values (180100301, 1801, 1801003, '', '', 1, 1, 1.0);
 insert into v1_bec744e8fa9cb73fe1521c29bf6e4d5815cbeca0bec005d9fd3c80d0e0bfc1ab values (180200301, 1802, 1802003, '', '', 1, 1, 1.0);
 insert into v1_bec744e8fa9cb73fe1521c29bf6e4d5815cbeca0bec005d9fd3c80d0e0bfc1ab values (180300301, 1803, 1803003, '', '', 1, 1, 1.0);
@@ -582,4 +583,7 @@ insert into v1_bec744e8fa9cb73fe1521c29bf6e4d5815cbeca0bec005d9fd3c80d0e0bfc1ab 
 insert into v1_bec744e8fa9cb73fe1521c29bf6e4d5815cbeca0bec005d9fd3c80d0e0bfc1ab values (514800301, 5148, 5148003, '', '', 1, 1, 1.0);
 insert into v1_bec744e8fa9cb73fe1521c29bf6e4d5815cbeca0bec005d9fd3c80d0e0bfc1ab values (514800601, 5148, 5148006, '', '', 1, 1, 1.0);
 insert into v1_bec744e8fa9cb73fe1521c29bf6e4d5815cbeca0bec005d9fd3c80d0e0bfc1ab values (514800701, 5148, 5148007, '', '', 1, 1, 1.0);
+insert into v1_bec744e8fa9cb73fe1521c29bf6e4d5815cbeca0bec005d9fd3c80d0e0bfc1ab values (515000101, 5150, 5150001, '', '', 1, 1, 1.0);
+insert into v1_bec744e8fa9cb73fe1521c29bf6e4d5815cbeca0bec005d9fd3c80d0e0bfc1ab values (515000601, 5150, 5150006, '', '', 1, 1, 1.0);
+insert into v1_bec744e8fa9cb73fe1521c29bf6e4d5815cbeca0bec005d9fd3c80d0e0bfc1ab values (515000701, 5150, 5150007, '', '', 1, 1, 1.0);
 insert into v1_bec744e8fa9cb73fe1521c29bf6e4d5815cbeca0bec005d9fd3c80d0e0bfc1ab values (700100001, 7001, 7001000, '', '', 0, 1, 1.0);
