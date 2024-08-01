@@ -808,6 +808,12 @@ insert into v1_ccc5bb632708d31b1ef771f8d7c01ccb7e7f865c3e664c51e824e3c64f488c59 
 insert into v1_ccc5bb632708d31b1ef771f8d7c01ccb7e7f865c3e664c51e824e3c64f488c59 values (1014104, 10141, 3, 'SPECIAL是有著 3 階段變化的戰鬥模式。\\n去取得更豪華的獎勵與任務獎勵吧。\\n由於期間中只能挑戰 1 隻，請多花點心思編組隊伍挑戰吧。');
 insert into v1_ccc5bb632708d31b1ef771f8d7c01ccb7e7f865c3e664c51e824e3c64f488c59 values (1014105, 10141, 3, '在EXHIBITION中，可以重複和SPECIAL的Boss對戰。\\n另外，將戰鬥的記錄存檔後就可以回顧戰鬥內容，\\n可以用來找尋您專屬的攻略法或嘗試各種編組不同的隊伍對戰。');
 insert into v1_ccc5bb632708d31b1ef771f8d7c01ccb7e7f865c3e664c51e824e3c64f488c59 values (1014106, 10141, 4, '挑戰活動任務和BOSS時，有時候會進入\\n信賴度章節。依照對話的內容將會提升信賴度，\\n達到特定的信賴度時可獲得禮物。');
+insert into v1_ccc5bb632708d31b1ef771f8d7c01ccb7e7f865c3e664c51e824e3c64f488c59 values (1014201, 10142, 1, '可透過活動，體驗特別的劇情。\\n活動劇情將於進入活動冒險後解放。');
+insert into v1_ccc5bb632708d31b1ef771f8d7c01ccb7e7f865c3e664c51e824e3c64f488c59 values (1014202, 10142, 1, '強大的VERY HARD Boss登場。\\nVERY HARD Boss１天能夠討伐１隻。\\n做好萬全準備後，小心地進行挑戰吧。');
+insert into v1_ccc5bb632708d31b1ef771f8d7c01ccb7e7f865c3e664c51e824e3c64f488c59 values (1014203, 10142, 1, '討伐證交換是獲得獎勵的機會。\\n其中也有記憶碎片跟公主騎士強化素材，\\n無論是主人還是各位夥伴，都能有更進一步的成長呢。');
+insert into v1_ccc5bb632708d31b1ef771f8d7c01ccb7e7f865c3e664c51e824e3c64f488c59 values (1014204, 10142, 3, 'SPECIAL是有著 3 階段變化的戰鬥模式。\\n去取得更豪華的獎勵與任務獎勵吧。\\n由於期間中只能挑戰 1 隻，請多花點心思編組隊伍挑戰吧。');
+insert into v1_ccc5bb632708d31b1ef771f8d7c01ccb7e7f865c3e664c51e824e3c64f488c59 values (1014205, 10142, 3, '在EXHIBITION中，可以重複和SPECIAL的Boss對戰。\\n另外，將戰鬥的記錄存檔後就可以回顧戰鬥內容，\\n可以用來找尋您專屬的攻略法或嘗試各種編組不同的隊伍對戰。');
+insert into v1_ccc5bb632708d31b1ef771f8d7c01ccb7e7f865c3e664c51e824e3c64f488c59 values (1014206, 10142, 7, 'EXHIBITION＋是比SPECIAL更強力的Boss戰。\\n挑戰時不會消耗Boss挑戰券，但有限制挑戰次數。\\n和有附加氣勢效果的角色一起挑戰強敵吧。');
 insert into v1_ccc5bb632708d31b1ef771f8d7c01ccb7e7f865c3e664c51e824e3c64f488c59 values (100210105, 10021, 1, '可透過活動，體驗特別的劇情。\\n活動劇情將於進入活動冒險後解放。');
 insert into v1_ccc5bb632708d31b1ef771f8d7c01ccb7e7f865c3e664c51e824e3c64f488c59 values (100210106, 10021, 1, '達成活動限定的任務後，可解放的角色\\n即會登場。在活動期間內\\n以完成任務為目標吧。');
 insert into v1_ccc5bb632708d31b1ef771f8d7c01ccb7e7f865c3e664c51e824e3c64f488c59 values (100210107, 10021, 1, '強大的VERY HARD Boss登場。\\nVERY HARD Boss１天能夠討伐１隻。\\n做好萬全準備後，小心地進行挑戰吧。');

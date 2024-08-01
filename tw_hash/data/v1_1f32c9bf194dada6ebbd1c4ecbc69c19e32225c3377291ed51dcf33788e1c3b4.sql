@@ -25,4 +25,7 @@ insert into v1_1f32c9bf194dada6ebbd1c4ecbc69c19e32225c3377291ed51dcf33788e1c3b4 
 insert into v1_1f32c9bf194dada6ebbd1c4ecbc69c19e32225c3377291ed51dcf33788e1c3b4 values (5126711, 1012, '效果驚人到笑出來');
 insert into v1_1f32c9bf194dada6ebbd1c4ecbc69c19e32225c3377291ed51dcf33788e1c3b4 values (5126712, 1012, '熟能生巧？');
 insert into v1_1f32c9bf194dada6ebbd1c4ecbc69c19e32225c3377291ed51dcf33788e1c3b4 values (5126713, 1012, '解不開的不可思議');
+insert into v1_1f32c9bf194dada6ebbd1c4ecbc69c19e32225c3377291ed51dcf33788e1c3b4 values (5142700, 1013, '以更高的境界為目標');
+insert into v1_1f32c9bf194dada6ebbd1c4ecbc69c19e32225c3377291ed51dcf33788e1c3b4 values (5142701, 1013, '挑戰極限');
+insert into v1_1f32c9bf194dada6ebbd1c4ecbc69c19e32225c3377291ed51dcf33788e1c3b4 values (5142702, 1013, '美好的友情');
 insert into v1_1f32c9bf194dada6ebbd1c4ecbc69c19e32225c3377291ed51dcf33788e1c3b4 values (9004201, 1009, '團結一致以答對為目標！');

@@ -295,3 +295,5 @@ insert into v1_593b14cfc54f5b646fdfc10a6d7df92f3bc8462f140dce3d95cb188dc367d38e 
 insert into v1_593b14cfc54f5b646fdfc10a6d7df92f3bc8462f140dce3d95cb188dc367d38e values (1014002, '1014020102', '優花梨的記憶碎片', 99002, '');
 insert into v1_593b14cfc54f5b646fdfc10a6d7df92f3bc8462f140dce3d95cb188dc367d38e values (1014101, '1014120101', '珠希的記憶碎片', 99002, '');
 insert into v1_593b14cfc54f5b646fdfc10a6d7df92f3bc8462f140dce3d95cb188dc367d38e values (1014102, '1014120102', '莫妮卡的記憶碎片', 99002, '');
+insert into v1_593b14cfc54f5b646fdfc10a6d7df92f3bc8462f140dce3d95cb188dc367d38e values (1014201, '1014220101', '真琴的記憶碎片', 99002, '');
+insert into v1_593b14cfc54f5b646fdfc10a6d7df92f3bc8462f140dce3d95cb188dc367d38e values (1014202, '1014220102', '惠理子的記憶碎片', 99002, '');

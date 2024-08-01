@@ -36,7 +36,7 @@ insert into v1_17a08b046d60215d0c803068c1cfd9a4f08c19fe7c2b536c4855b8ccf5ddccd2 
 insert into v1_17a08b046d60215d0c803068c1cfd9a4f08c19fe7c2b536c4855b8ccf5ddccd2 values (103801001, '伊麗莎白牧場（栞）', 103801, 112301, 125401, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_17a08b046d60215d0c803068c1cfd9a4f08c19fe7c2b536c4855b8ccf5ddccd2 values (104001001, '森林守衛（碧）', 104001, 110701, 116701, 122101, 0, 0, 0, 0, 0, 0);
 insert into v1_17a08b046d60215d0c803068c1cfd9a4f08c19fe7c2b536c4855b8ccf5ddccd2 values (104201001, '慈樂之音（千歌）', 104201, 108401, 117301, 0, 0, 0, 0, 0, 0, 0);
-insert into v1_17a08b046d60215d0c803068c1cfd9a4f08c19fe7c2b536c4855b8ccf5ddccd2 values (104301001, '哞哞自衛隊（真琴）', 104301, 110401, 115901, 0, 0, 0, 0, 0, 0, 0);
+insert into v1_17a08b046d60215d0c803068c1cfd9a4f08c19fe7c2b536c4855b8ccf5ddccd2 values (104301001, '哞哞自衛隊（真琴）', 104301, 110401, 115901, 129801, 0, 0, 0, 0, 0, 0);
 insert into v1_17a08b046d60215d0c803068c1cfd9a4f08c19fe7c2b536c4855b8ccf5ddccd2 values (104401001, '惡魔偽王國軍（伊莉亞）', 104401, 111701, 120901, 126201, 0, 0, 0, 0, 0, 0);
 insert into v1_17a08b046d60215d0c803068c1cfd9a4f08c19fe7c2b536c4855b8ccf5ddccd2 values (104501001, '純白之翼（空花）', 104501, 109501, 119101, 127001, 0, 0, 0, 0, 0, 0);
 insert into v1_17a08b046d60215d0c803068c1cfd9a4f08c19fe7c2b536c4855b8ccf5ddccd2 values (104601001, '墨丘利財團（珠希）', 104601, 107901, 116801, 125101, 0, 0, 0, 0, 0, 0);
@@ -309,6 +309,7 @@ insert into v1_17a08b046d60215d0c803068c1cfd9a4f08c19fe7c2b536c4855b8ccf5ddccd2 
 insert into v1_17a08b046d60215d0c803068c1cfd9a4f08c19fe7c2b536c4855b8ccf5ddccd2 values (328901001, '優衣（星素）（花凜對話用）', 128901, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_17a08b046d60215d0c803068c1cfd9a4f08c19fe7c2b536c4855b8ccf5ddccd2 values (329301001, '優妮（冬日）（花凜對話用）', 129301, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_17a08b046d60215d0c803068c1cfd9a4f08c19fe7c2b536c4855b8ccf5ddccd2 values (329401001, '克蘿依（冬日）（花凜對話用）', 129401, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into v1_17a08b046d60215d0c803068c1cfd9a4f08c19fe7c2b536c4855b8ccf5ddccd2 values (329801001, '真琴（指揮官）（花凜對話用）', 129801, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_17a08b046d60215d0c803068c1cfd9a4f08c19fe7c2b536c4855b8ccf5ddccd2 values (380101001, '日和（公主）（花凜對話用）', 180101, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_17a08b046d60215d0c803068c1cfd9a4f08c19fe7c2b536c4855b8ccf5ddccd2 values (380201001, '優衣（公主）（花凜對話用）', 180201, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 insert into v1_17a08b046d60215d0c803068c1cfd9a4f08c19fe7c2b536c4855b8ccf5ddccd2 values (380301001, '怜（公主）（花凜對話用）', 180301, 0, 0, 0, 0, 0, 0, 0, 0, 0);

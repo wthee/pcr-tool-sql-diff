@@ -397,3 +397,4 @@ insert into v1_fda81b52d5ecd633b1938ae3f54c6dda29f8267d01edbd45be0072e55b7533fb 
 insert into v1_fda81b52d5ecd633b1938ae3f54c6dda29f8267d01edbd45be0072e55b7533fb values (30220, '日和（星素）（花凜對話用）', 118501001, 328701001, 0, 0, 0);
 insert into v1_fda81b52d5ecd633b1938ae3f54c6dda29f8267d01edbd45be0072e55b7533fb values (30221, '優妮（冬日）（花凜對話用）', 118501001, 329301001, 0, 0, 0);
 insert into v1_fda81b52d5ecd633b1938ae3f54c6dda29f8267d01edbd45be0072e55b7533fb values (30222, '克蘿依（冬日）（花凜對話用）', 118501001, 329401001, 0, 0, 0);
+insert into v1_fda81b52d5ecd633b1938ae3f54c6dda29f8267d01edbd45be0072e55b7533fb values (30223, '真琴（指揮官）（花凜對話用）', 118501001, 329801001, 0, 0, 0);
