@@ -25,3 +25,4 @@ insert into travel_ex_event_data values (8000022, '相信勝利！', 23);
 insert into travel_ex_event_data values (8000023, '突擊！捕獲！？密林少女！！', 24);
 insert into travel_ex_event_data values (8000024, '白狐俯視奢華的城市', 25);
 insert into travel_ex_event_data values (8000025, '採用於城堡中吧♪', 26);
+insert into travel_ex_event_data values (8000026, '異世界美人三花仙～附帶跟屁蟲～', 27);

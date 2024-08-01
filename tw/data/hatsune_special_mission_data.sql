@@ -975,6 +975,13 @@ insert into hatsune_special_mission_data values (81141005, 10141107, 601, '將SP
 insert into hatsune_special_mission_data values (81141006, 10141108, 601, '將SPECIAL的Boss的 HP 降低至 3660000', 1, 9018, 1, 0, 0, 15340000, 81141007, 6011, 10141, '2024/07/18 16:00:00', '2024/07/28 15:59:59');
 insert into hatsune_special_mission_data values (81141007, 10141109, 601, '討伐SPECIAL的Boss', 0, 9016, 3, 0, 0, 1, 81141008, 6011, 10141, '2024/07/18 16:00:00', '2024/07/28 15:59:59');
 insert into hatsune_special_mission_data values (81141008, 10141110, 601, '在5次以內討伐SPECIAL或EXHIBITION的Boss', 0, 9015, 5, 0, 0, 1, 81141009, 6011, 10141, '2024/07/18 16:00:00', '2024/07/28 15:59:59');
+insert into hatsune_special_mission_data values (81142001, 10142101, 601, '通過SPECIAL的MODE1', 0, 9016, 1, 0, 0, 1, 81142001, 6011, 10142, '2024/08/01 16:00:00', '2024/08/17 15:59:59');
+insert into hatsune_special_mission_data values (81142002, 10142102, 601, '通過SPECIAL的MODE2', 0, 9016, 2, 0, 0, 1, 81142002, 6011, 10142, '2024/08/01 16:00:00', '2024/08/17 15:59:59');
+insert into hatsune_special_mission_data values (81142003, 10142103, 601, '討伐SPECIAL的Boss', 0, 9016, 3, 0, 0, 1, 81142003, 6011, 10142, '2024/08/01 16:00:00', '2024/08/17 15:59:59');
+insert into hatsune_special_mission_data values (81142004, 10142104, 601, '在5次以內討伐SPECIAL或EXHIBITION的Boss', 0, 9015, 5, 0, 0, 1, 81142004, 6011, 10142, '2024/08/01 16:00:00', '2024/08/17 15:59:59');
+insert into hatsune_special_mission_data values (81142011, 10142111, 601, '通過EXHIBITION＋的MODE1', 0, 9023, 1, 0, 0, 1, 81142011, 6013, 10142, '2024/08/01 16:00:00', '2024/08/17 15:59:59');
+insert into hatsune_special_mission_data values (81142012, 10142112, 601, '通過EXHIBITION＋的MODE2', 0, 9023, 2, 0, 0, 1, 81142012, 6013, 10142, '2024/08/01 16:00:00', '2024/08/17 15:59:59');
+insert into hatsune_special_mission_data values (81142013, 10142113, 601, '在5次以內討伐EXHIBITION＋的Boss', 0, 9022, 5, 0, 0, 1, 81142013, 6013, 10142, '2024/08/01 16:00:00', '2024/08/17 15:59:59');
 insert into hatsune_special_mission_data values (81181001, 10118103, 601, '將特別戰鬥的Boss的HP降低至86500000', 1, 9018, 1, 0, 0, 10000000, 81181001, 6011, 10118, '2023/09/01 16:00:00', '2023/09/18 15:59:59');
 insert into hatsune_special_mission_data values (81181002, 10118104, 601, '將特別戰鬥的Boss的HP降低至76500000', 1, 9018, 1, 0, 0, 20000000, 81181002, 6011, 10118, '2023/09/01 16:00:00', '2023/09/18 15:59:59');
 insert into hatsune_special_mission_data values (81181003, 10118105, 601, '完成特別戰鬥的模式1', 0, 9016, 1, 0, 0, 1, 81181003, 6011, 10118, '2023/09/01 16:00:00', '2023/09/18 15:59:59');

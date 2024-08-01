@@ -397,3 +397,4 @@ insert into voice_group values (30219, '怜（星素）（花凜對話用）', 1
 insert into voice_group values (30220, '日和（星素）（花凜對話用）', 118501001, 328701001, 0, 0, 0);
 insert into voice_group values (30221, '優妮（冬日）（花凜對話用）', 118501001, 329301001, 0, 0, 0);
 insert into voice_group values (30222, '克蘿依（冬日）（花凜對話用）', 118501001, 329401001, 0, 0, 0);
+insert into voice_group values (30223, '真琴（指揮官）（花凜對話用）', 118501001, 329801001, 0, 0, 0);
