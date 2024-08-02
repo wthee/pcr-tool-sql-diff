@@ -1,0 +1,16 @@
+CREATE TABLE 'v1_be376ddb8b5239bc22312a061dc5efded7fb2855281f976b6fa27d00809fdf14' ('b75ea92d58a110bfe15481471b275464bddaed7ff67625361fbeff056d915a6a' INTEGER NOT NULL, 'a5d0180ea4c8e99e2b7c859503789eec5b069de2fa51d4b83a12afd458cc7e77' INTEGER NOT NULL, '4fc84ddbaf7c076a5cc15d8b72f1ab4e3802c95cb2f2bc2d288f0e0edcc73de6' INTEGER NOT NULL, '786bd3741b9075e6cb11bef9f075f39887c4bed7557e1656517c829e1a741c4e' INTEGER NOT NULL, '55aaca5b94e72a49c8a6e59192f6733257238bb0f6c92f72ebfa93fcbe050bbc' INTEGER NOT NULL, PRIMARY KEY('4fc84ddbaf7c076a5cc15d8b72f1ab4e3802c95cb2f2bc2d288f0e0edcc73de6'));
+insert into v1_be376ddb8b5239bc22312a061dc5efded7fb2855281f976b6fa27d00809fdf14 values (1, 1, 1, 300, 135);
+insert into v1_be376ddb8b5239bc22312a061dc5efded7fb2855281f976b6fa27d00809fdf14 values (1, 1, 2, -100, 425);
+insert into v1_be376ddb8b5239bc22312a061dc5efded7fb2855281f976b6fa27d00809fdf14 values (2, 1, 3, 125, -100);
+insert into v1_be376ddb8b5239bc22312a061dc5efded7fb2855281f976b6fa27d00809fdf14 values (2, 1, 4, -415, 375);
+insert into v1_be376ddb8b5239bc22312a061dc5efded7fb2855281f976b6fa27d00809fdf14 values (3, 1, 5, -50, 25);
+insert into v1_be376ddb8b5239bc22312a061dc5efded7fb2855281f976b6fa27d00809fdf14 values (3, 1, 6, -300, -25);
+insert into v1_be376ddb8b5239bc22312a061dc5efded7fb2855281f976b6fa27d00809fdf14 values (4, 1, 7, -335, -195);
+insert into v1_be376ddb8b5239bc22312a061dc5efded7fb2855281f976b6fa27d00809fdf14 values (4, 1, 8, -415, 105);
+insert into v1_be376ddb8b5239bc22312a061dc5efded7fb2855281f976b6fa27d00809fdf14 values (5, 1, 9, -160, 135);
+insert into v1_be376ddb8b5239bc22312a061dc5efded7fb2855281f976b6fa27d00809fdf14 values (6, 1, 10, -40, 345);
+insert into v1_be376ddb8b5239bc22312a061dc5efded7fb2855281f976b6fa27d00809fdf14 values (7, 1, 11, 90, -230);
+insert into v1_be376ddb8b5239bc22312a061dc5efded7fb2855281f976b6fa27d00809fdf14 values (8, 1, 12, -420, 230);
+insert into v1_be376ddb8b5239bc22312a061dc5efded7fb2855281f976b6fa27d00809fdf14 values (9, 1, 13, 250, 30);
+insert into v1_be376ddb8b5239bc22312a061dc5efded7fb2855281f976b6fa27d00809fdf14 values (10, 1, 14, -245, 280);
+insert into v1_be376ddb8b5239bc22312a061dc5efded7fb2855281f976b6fa27d00809fdf14 values (11, 1, 15, -110, -150);
