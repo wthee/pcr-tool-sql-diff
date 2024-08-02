@@ -1,6 +1,6 @@
-CREATE TABLE 'tdf_top_offset' ('slot_id' INTEGER NOT NULL, 'position_x' INTEGER NOT NULL, 'position_y' INTEGER NOT NULL, PRIMARY KEY('slot_id'));
-insert into tdf_top_offset values (1, -470, 20);
-insert into tdf_top_offset values (2, -235, 0);
-insert into tdf_top_offset values (3, 0, 10);
-insert into tdf_top_offset values (4, 235, 20);
-insert into tdf_top_offset values (5, 470, 10);
+CREATE TABLE 'tdf_top_offset' ('position_y' INTEGER NOT NULL, 'position_x' INTEGER NOT NULL, 'slot_id' INTEGER NOT NULL, PRIMARY KEY('slot_id'));
+insert into tdf_top_offset values (20, -470, 1);
+insert into tdf_top_offset values (0, -235, 2);
+insert into tdf_top_offset values (10, 0, 3);
+insert into tdf_top_offset values (20, 235, 4);
+insert into tdf_top_offset values (10, 470, 5);

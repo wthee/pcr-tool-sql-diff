@@ -1,8 +1,8 @@
-CREATE TABLE 'ccc_object' ('ccc_object_id' INTEGER NOT NULL, 'resource_id' INTEGER NOT NULL, 'is_report' INTEGER NOT NULL, 'ccc_object_type' INTEGER NOT NULL, 'fall_speed' INTEGER NOT NULL, 'absorb_frame' INTEGER NOT NULL, 'value_1' INTEGER NOT NULL, 'value_2' INTEGER NOT NULL, PRIMARY KEY('ccc_object_id'));
-insert into ccc_object values (100, 0, 1, 1, 80, 10, 5, 0);
-insert into ccc_object values (101, 0, 1, 1, 90, 10, 25, 0);
-insert into ccc_object values (200, 0, 1, 2, 80, 10, 0, 0);
-insert into ccc_object values (300, 0, 0, 4, 80, 0, 180, 0);
-insert into ccc_object values (400, 0, 0, 3, 100, 0, 0, 0);
-insert into ccc_object values (500, 500, 0, 5, 100, 0, 1, 1);
-insert into ccc_object values (510, 500, 0, 5, 130, 0, 2, 2);
+CREATE TABLE 'ccc_object' ('fall_speed' INTEGER NOT NULL, 'ccc_object_type' INTEGER NOT NULL, 'absorb_frame' INTEGER NOT NULL, 'is_report' INTEGER NOT NULL, 'ccc_object_id' INTEGER NOT NULL, 'value_2' INTEGER NOT NULL, 'value_1' INTEGER NOT NULL, 'resource_id' INTEGER NOT NULL, PRIMARY KEY('ccc_object_id'));
+insert into ccc_object values (80, 1, 10, 1, 100, 0, 5, 0);
+insert into ccc_object values (90, 1, 10, 1, 101, 0, 25, 0);
+insert into ccc_object values (80, 2, 10, 1, 200, 0, 0, 0);
+insert into ccc_object values (80, 4, 0, 0, 300, 0, 180, 0);
+insert into ccc_object values (100, 3, 0, 0, 400, 0, 0, 0);
+insert into ccc_object values (100, 5, 0, 0, 500, 1, 1, 500);
+insert into ccc_object values (130, 5, 0, 0, 510, 2, 2, 500);

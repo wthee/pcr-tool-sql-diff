@@ -1,5 +1,5 @@
-CREATE TABLE 'pct_result' ('id' INTEGER NOT NULL, 'character_id' INTEGER NOT NULL, 'score_from' INTEGER NOT NULL, 'score_to' INTEGER NOT NULL, 'comment_id_1' INTEGER NOT NULL, 'comment_id_2' INTEGER NOT NULL, 'comment_id_3' INTEGER NOT NULL, 'comment_id_4' INTEGER NOT NULL, 'comment_id_5' INTEGER NOT NULL, PRIMARY KEY('id'));
-insert into pct_result values (1, 109001, 0, 5000, 24001, 24002, 24003, 24004, 24005);
-insert into pct_result values (2, 109001, 5001, -1, 24006, 24007, 24008, 24009, 24010);
-insert into pct_result values (3, 109101, 0, 5000, 24011, 24012, 24013, 24017, 24015);
-insert into pct_result values (4, 109101, 5001, -1, 24016, 24014, 24018, 24019, 24020);
+CREATE TABLE 'pct_result' ('comment_id_1' INTEGER NOT NULL, 'comment_id_4' INTEGER NOT NULL, 'comment_id_2' INTEGER NOT NULL, 'score_to' INTEGER NOT NULL, 'comment_id_5' INTEGER NOT NULL, 'character_id' INTEGER NOT NULL, 'score_from' INTEGER NOT NULL, 'id' INTEGER NOT NULL, 'comment_id_3' INTEGER NOT NULL, PRIMARY KEY('id'));
+insert into pct_result values (24001, 24004, 24002, 5000, 24005, 109001, 0, 1, 24003);
+insert into pct_result values (24006, 24009, 24007, -1, 24010, 109001, 5001, 2, 24008);
+insert into pct_result values (24011, 24017, 24012, 5000, 24015, 109101, 0, 3, 24013);
+insert into pct_result values (24016, 24019, 24014, -1, 24020, 109101, 5001, 4, 24018);
