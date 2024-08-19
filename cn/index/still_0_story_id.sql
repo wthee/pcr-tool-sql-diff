@@ -1,0 +1,1 @@
+CREATE INDEX 'still_0_story_id' on 'still'('story_id')

@@ -1,0 +1,1 @@
+CREATE INDEX 'ex_equipment_restriction_unit_0_restriction_id' on 'ex_equipment_restriction_unit'('restriction_id')

@@ -1,0 +1,15 @@
+CREATE TABLE 'clan_battle_archive_clan_rank' ('id' INTEGER NOT NULL, 'rank_from' INTEGER NOT NULL, 'rank_to' INTEGER NOT NULL, PRIMARY KEY('id'));
+insert into clan_battle_archive_clan_rank values (1, 1, 1);
+insert into clan_battle_archive_clan_rank values (2, 2, 2);
+insert into clan_battle_archive_clan_rank values (3, 3, 3);
+insert into clan_battle_archive_clan_rank values (4, 4, 10);
+insert into clan_battle_archive_clan_rank values (5, 11, 50);
+insert into clan_battle_archive_clan_rank values (6, 51, 100);
+insert into clan_battle_archive_clan_rank values (7, 101, 1000);
+insert into clan_battle_archive_clan_rank values (8, 1001, 2000);
+insert into clan_battle_archive_clan_rank values (9, 2001, 5000);
+insert into clan_battle_archive_clan_rank values (10, 5001, 7000);
+insert into clan_battle_archive_clan_rank values (11, 7001, 10000);
+insert into clan_battle_archive_clan_rank values (12, 10001, 15000);
+insert into clan_battle_archive_clan_rank values (13, 15001, 20000);
+insert into clan_battle_archive_clan_rank values (14, 20001, -1);

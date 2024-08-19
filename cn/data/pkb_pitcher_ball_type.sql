@@ -1,0 +1,18 @@
+CREATE TABLE 'pkb_pitcher_ball_type' ('pitcher_id' INTEGER NOT NULL, 'ball_type' INTEGER NOT NULL, 'ball_type_name' TEXT NOT NULL, PRIMARY KEY('pitcher_id','ball_type'));
+insert into pkb_pitcher_ball_type values (1, 1, '直球');
+insert into pkb_pitcher_ball_type values (1, 2, '曲线球');
+insert into pkb_pitcher_ball_type values (2, 3, '直球');
+insert into pkb_pitcher_ball_type values (2, 4, '沉球');
+insert into pkb_pitcher_ball_type values (2, 6, 'S曲球');
+insert into pkb_pitcher_ball_type values (3, 7, '直球');
+insert into pkb_pitcher_ball_type values (3, 8, '曲线球');
+insert into pkb_pitcher_ball_type values (3, 9, '滑球');
+insert into pkb_pitcher_ball_type values (3, 5, '沉球');
+insert into pkb_pitcher_ball_type values (3, 16, '喷射球');
+insert into pkb_pitcher_ball_type values (3, 10, '初音☆幻象');
+insert into pkb_pitcher_ball_type values (3, 11, '初音☆遁形');
+insert into pkb_pitcher_ball_type values (4, 12, '直球');
+insert into pkb_pitcher_ball_type values (4, 13, '曲线球');
+insert into pkb_pitcher_ball_type values (4, 14, '沉球');
+insert into pkb_pitcher_ball_type values (4, 17, '龙族终结球');
+insert into pkb_pitcher_ball_type values (4, 18, '龙族长尾');

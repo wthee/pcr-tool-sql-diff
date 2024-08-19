@@ -1,0 +1,1 @@
+CREATE INDEX 'caravan_schedule_0_coin_id' on 'caravan_schedule'('coin_id')

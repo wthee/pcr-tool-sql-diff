@@ -1,0 +1,13 @@
+CREATE TABLE 'ske_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'unlock_condition_quest_id' INTEGER NOT NULL, 'unlock_condition_boss_id' INTEGER NOT NULL, 'read_condition_event_story_id' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+insert into ske_story_data values (1005801, 10058, '情谊日记1', 10086108, 0, 5058003);
+insert into ske_story_data values (1005802, 10058, '情谊日记2', 10086110, 0, 5058003);
+insert into ske_story_data values (1005803, 10058, '情谊日记3', 10086112, 0, 5058003);
+insert into ske_story_data values (1005804, 10058, '情谊日记4', 10086115, 0, 5058004);
+insert into ske_story_data values (1005805, 10058, '情谊日记5', 10086115, 1008601, 5058005);
+insert into ske_story_data values (1005901, 10059, '情谊日记6', 10087103, 0, 5059001);
+insert into ske_story_data values (1005902, 10059, '情谊日记7', 10087106, 0, 5059002);
+insert into ske_story_data values (1005903, 10059, '情谊日记8', 10087109, 0, 5059004);
+insert into ske_story_data values (1005904, 10059, '情谊日记9', 10087112, 0, 5059005);
+insert into ske_story_data values (1005905, 10059, '情谊日记10', 10087115, 0, 5059006);
+insert into ske_story_data values (1005906, 10059, '情谊日记11', 10087115, 1008701, 5059007);
+insert into ske_story_data values (1005907, 10059, '特别页面', 0, 0, 0);

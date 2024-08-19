@@ -1,0 +1,18 @@
+CREATE TABLE 'ex_equipment_enhance_data' ('rarity' INTEGER NOT NULL, 'enhance_level' INTEGER NOT NULL, 'needed_mana' INTEGER NOT NULL, 'needed_point' INTEGER NOT NULL, 'total_point' INTEGER NOT NULL, 'rankup_level' INTEGER NOT NULL, PRIMARY KEY('rarity','enhance_level'));
+insert into ex_equipment_enhance_data values (1, 1, 10, 150, 150, 0);
+insert into ex_equipment_enhance_data values (1, 2, 10, 250, 400, 0);
+insert into ex_equipment_enhance_data values (1, 3, 10, 400, 800, 0);
+insert into ex_equipment_enhance_data values (2, 1, 20, 150, 150, 0);
+insert into ex_equipment_enhance_data values (2, 2, 20, 250, 400, 0);
+insert into ex_equipment_enhance_data values (2, 3, 20, 400, 800, 0);
+insert into ex_equipment_enhance_data values (2, 4, 20, 500, 1300, 1);
+insert into ex_equipment_enhance_data values (3, 1, 30, 800, 800, 0);
+insert into ex_equipment_enhance_data values (3, 2, 30, 1000, 1800, 0);
+insert into ex_equipment_enhance_data values (3, 3, 30, 1200, 3000, 0);
+insert into ex_equipment_enhance_data values (3, 4, 30, 1400, 4400, 1);
+insert into ex_equipment_enhance_data values (3, 5, 30, 1600, 6000, 2);
+insert into ex_equipment_enhance_data values (4, 1, 40, 800, 800, 0);
+insert into ex_equipment_enhance_data values (4, 2, 40, 1000, 1800, 0);
+insert into ex_equipment_enhance_data values (4, 3, 40, 1200, 3000, 0);
+insert into ex_equipment_enhance_data values (4, 4, 40, 1400, 4400, 1);
+insert into ex_equipment_enhance_data values (4, 5, 40, 1600, 6000, 2);

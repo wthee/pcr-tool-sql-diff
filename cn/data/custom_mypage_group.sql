@@ -1,0 +1,18 @@
+CREATE TABLE 'custom_mypage_group' ('group_id' INTEGER NOT NULL, 'group_name' TEXT NOT NULL, PRIMARY KEY('group_id'));
+insert into custom_mypage_group values (10001, '公主连结！Re:Dive 1');
+insert into custom_mypage_group values (10002, '公主连结！Re:Dive 2');
+insert into custom_mypage_group values (10003, '公主连结！Re:Dive 3');
+insert into custom_mypage_group values (10004, '公主连结！Re:Dive 4');
+insert into custom_mypage_group values (10005, '公主连结！Re:Dive 第2季 1');
+insert into custom_mypage_group values (10006, '公主连结！Re:Dive 第2季 2');
+insert into custom_mypage_group values (10007, '公主连结！Re:Dive 第2季 3');
+insert into custom_mypage_group values (10008, '公主连结！Re:Dive 第2季 全卷购买特典');
+insert into custom_mypage_group values (20001, '公主连结！Re:Dive 3周年纪念');
+insert into custom_mypage_group values (20002, '官方插画 第3卷 发售纪念道具');
+insert into custom_mypage_group values (20003, '公主连结！Re:Dive 3.5周年纪念');
+insert into custom_mypage_group values (20004, '公主连结！Re:Dive 4周年纪念');
+insert into custom_mypage_group values (20005, '公主连结！Re:Dive 4.5周年纪念');
+insert into custom_mypage_group values (20006, '公主连结！Re:Dive 5周年纪念');
+insert into custom_mypage_group values (30001, '小游戏·迷你内容');
+insert into custom_mypage_group values (40001, '大家的日历');
+insert into custom_mypage_group values (40002, '罗森联动纪念');

@@ -1,0 +1,1 @@
+CREATE INDEX 'ssp_story_data_0_original_event_id' on 'ssp_story_data'('original_event_id')

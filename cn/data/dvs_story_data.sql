@@ -1,0 +1,14 @@
+CREATE TABLE 'dvs_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'sub_title' TEXT NOT NULL, 'detail_title' TEXT NOT NULL, 'detail_description' TEXT NOT NULL, 'dvs_story_type' INTEGER NOT NULL, 'is_last' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_count_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_count_2' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+insert into dvs_story_data values (5118061, 10118, '与佩可莉姆的相遇', '在蓝天下谒见', '跳蚤市场', '来到跳蚤市场的姬塔遇到了\\n从城里偷偷溜出来的佩可莉姆。', 2, 0, 0, 7, 2834, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118062, 10118, '与真步的相遇', '未来的骑空团\\n吉祥物？', '跳蚤市场', '姬塔一行人在逛跳蚤市场的时候，\\n被摆摊的真步叫住了。', 2, 0, 0, 7, 2835, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118063, 10118, '与秋乃的相遇', '大小姐的\\n紧急委托', '兰德索尔市区', '姬塔正在确认骑空团的委托，\\n秋乃就大笑着出现了。', 2, 0, 0, 7, 2837, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118064, 10118, '与纯的相遇', '金黄色的烦恼', '跳蚤市场', '姬塔一行人在跳蚤市场\\n看到了有些为难的纯。', 2, 0, 0, 18, 4108402, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118065, 10118, '与香织的相遇', '白热！\u3000格斗大赛！', '跳蚤市场', '跳蚤市场一角举行的格斗大赛——\\n香织也在那里？', 2, 0, 0, 18, 4107402, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118066, 10118, '与妮侬的相遇', '庆典太鼓是大江户的精华', '大江户镇', '在太鼓庆典即将到来的大江户镇──\\n姬塔遇到了一脸为难的妮侬。', 2, 1, 0, 16, 9000227, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118067, 10118, '与铃奈的相遇', '受欢迎的人\\n姗姗来迟', '跳蚤市场', '毗伽菈在活动上看到了出演中的铃奈。\\n但是，铃奈好像有些为难？', 3, 0, 0, 19, 2101181, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118068, 10118, '与七七香的相遇', '巫女遇到魔法少女', '兰德索尔市区', '毗伽菈他们在街上散步时，路过的\\n七七香一脸兴奋地走了过来？', 3, 0, 0, 18, 4109402, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118069, 10118, '与凯露＆可可萝的相遇', '鼠耳再次消失', '跳蚤市场', '毗伽菈因为失去鼠耳十分绝望。同时，\\n凯露与可可萝捡到了失物……', 3, 0, 0, 18, 4305402, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118070, 10118, '与由加莉的相遇', '为这次相遇干杯！', '兰德索尔市区', '在市郊休息的毗伽菈等人，\\n遇到了看上去心情非常好的由加莉。', 3, 0, 0, 18, 4101402, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118071, 10118, '与碧的相遇', '阴阳合奏', '兰德索尔市区', '毗伽菈担心害怕人群的碧，\\n于是爽朗地打招呼……', 3, 0, 0, 18, 4106402, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118072, 10118, '与忍的相遇', '比运气十次决胜负！', '跳蚤市场', '毗伽菈在逛跳蚤市场的时候，\\n被正在占卜的忍叫住了。', 3, 1, 0, 7, 2836, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118600, 10118, '序章', '她们的新日常', '0', '0', 1, 0, 10118115, 0, 0, 0, 0, 0, 0);

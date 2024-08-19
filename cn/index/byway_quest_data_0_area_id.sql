@@ -1,0 +1,1 @@
+CREATE INDEX 'byway_quest_data_0_area_id' on 'byway_quest_data'('area_id')

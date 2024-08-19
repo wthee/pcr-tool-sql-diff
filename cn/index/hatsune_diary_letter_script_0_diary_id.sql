@@ -1,0 +1,1 @@
+CREATE INDEX 'hatsune_diary_letter_script_0_diary_id' on 'hatsune_diary_letter_script'('diary_id')

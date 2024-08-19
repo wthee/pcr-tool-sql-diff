@@ -1,0 +1,16 @@
+CREATE TABLE 'nyx_story_data' ('story_id' INTEGER NOT NULL, 'story_seq' INTEGER NOT NULL, 'story_phase' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'sub_title' TEXT NOT NULL, 'read_condition_time' TEXT NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_boss_count' INTEGER NOT NULL, 'adv_flg' INTEGER NOT NULL, 'adv_id' INTEGER NOT NULL, PRIMARY KEY('story_id'));
+insert into nyx_story_data values (11, 1, 1, '', '', '0', 20023105, 0, 1, 5038600);
+insert into nyx_story_data values (12, 2, 1, '高中1年级\u3000千爱瑠', '应该流传至下世纪的新言语', '0', 20023105, 0, 0, 0);
+insert into nyx_story_data values (13, 3, 1, '高中2年级\u3000克罗依', '我非常不擅长写作文', '0', 20023107, 0, 0, 0);
+insert into nyx_story_data values (14, 4, 1, '高中3年级\u3000优妮', '自由飞翔', '0', 20023109, 0, 0, 0);
+insert into nyx_story_data values (21, 5, 2, '', '', '0', 20023111, 0, 2, 5038601);
+insert into nyx_story_data values (22, 6, 2, '记录负责人\u3000秋乃', '我想到了！', '0', 20023111, 0, 0, 0);
+insert into nyx_story_data values (23, 7, 2, '记录负责人\u3000珠希', '组装喵！', '0', 20023112, 0, 0, 0);
+insert into nyx_story_data values (24, 8, 2, '记录负责人\u3000由加莉', '我写过这个吗？', '0', 20023113, 0, 0, 0);
+insert into nyx_story_data values (25, 9, 2, '记录负责人\u3000美冬', '不能放着不管', '0', 20023114, 0, 0, 0);
+insert into nyx_story_data values (26, 10, 2, '总结', '特别讲座结束', '0', 20023115, 0, 0, 0);
+insert into nyx_story_data values (31, 11, 3, '', '', '0', 20023115, 1, 2, 5038602);
+insert into nyx_story_data values (32, 12, 3, '浪漫继承计划', '开发记录 - 考察', '0', 20023115, 1, 0, 0);
+insert into nyx_story_data values (33, 13, 3, '未全充溢计划', '开发记录 - 试作机完成', '0', 20023115, 2, 0, 0);
+insert into nyx_story_data values (34, 14, 3, '画龙点睛计划', '开发记录 - 最终工程', '0', 20023115, 3, 0, 0);
+insert into nyx_story_data values (35, 15, 3, '', '', '2023/04/23 23:59:59', 20023115, 3, 3, 5038603);

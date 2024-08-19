@@ -1,0 +1,1 @@
+CREATE INDEX 'hatsune_schedule_0_series_event_id' on 'hatsune_schedule'('series_event_id')

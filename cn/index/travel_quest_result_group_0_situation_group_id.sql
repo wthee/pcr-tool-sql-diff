@@ -1,0 +1,1 @@
+CREATE INDEX 'travel_quest_result_group_0_situation_group_id' on 'travel_quest_result_group'('situation_group_id')

@@ -1,0 +1,1 @@
+CREATE INDEX 'room_item_detail_0_lvup_trigger_type_2_1_lvup_trigger_id_2' on 'room_item_detail'('lvup_trigger_type_2','lvup_trigger_id_2')

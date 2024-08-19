@@ -1,0 +1,1 @@
+CREATE INDEX 'legion_battle_bonus_0_type_1_legion_boss_id' on 'legion_battle_bonus'('type','legion_boss_id')

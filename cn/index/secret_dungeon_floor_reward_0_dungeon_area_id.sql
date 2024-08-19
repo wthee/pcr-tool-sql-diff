@@ -1,0 +1,1 @@
+CREATE INDEX 'secret_dungeon_floor_reward_0_dungeon_area_id' on 'secret_dungeon_floor_reward'('dungeon_area_id')

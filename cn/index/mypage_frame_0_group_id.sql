@@ -1,0 +1,1 @@
+CREATE INDEX 'mypage_frame_0_group_id' on 'mypage_frame'('group_id')

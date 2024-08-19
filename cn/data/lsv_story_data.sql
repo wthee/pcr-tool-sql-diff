@@ -1,0 +1,16 @@
+CREATE TABLE 'lsv_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'time_condition' TEXT NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'read_event_story_id' INTEGER NOT NULL, 'read_condition' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+insert into lsv_story_data values (1009801, 10098, '小缪茁壮成长日记1', '2024/07/31 11:00:00', 10098103, 0, 0);
+insert into lsv_story_data values (1009802, 10098, '小缪茁壮成长日记2', '2024/07/31 11:00:00', 0, 5098001, 1009801);
+insert into lsv_story_data values (1009803, 10098, '小缪茁壮成长日记3', '2024/08/01 05:00:00', 0, 5098002, 1009802);
+insert into lsv_story_data values (1009804, 10098, '小缪茁壮成长日记4', '2024/08/02 05:00:00', 0, 5098002, 1009803);
+insert into lsv_story_data values (1009805, 10098, '小缪茁壮成长日记5', '2024/08/03 05:00:00', 0, 5098002, 1009804);
+insert into lsv_story_data values (1009806, 10098, '小缪茁壮成长日记6', '2024/08/04 05:00:00', 0, 5098002, 1009805);
+insert into lsv_story_data values (1009807, 10098, '小缪茁壮成长日记7', '2024/08/05 05:00:00', 0, 5098003, 1009806);
+insert into lsv_story_data values (1009808, 10098, '小缪茁壮成长日记8', '2024/08/06 05:00:00', 0, 5098003, 1009807);
+insert into lsv_story_data values (1009809, 10098, '小缪茁壮成长日记9', '2024/08/07 05:00:00', 0, 5098004, 1009808);
+insert into lsv_story_data values (1009810, 10098, '小缪茁壮成长日记10', '2024/08/08 05:00:00', 0, 5098005, 1009809);
+insert into lsv_story_data values (1009811, 10098, '小缪茁壮成长日记11', '2024/08/09 05:00:00', 0, 5098005, 1009810);
+insert into lsv_story_data values (1009812, 10098, '小缪茁壮成长日记12', '2024/08/10 05:00:00', 0, 5098005, 1009811);
+insert into lsv_story_data values (1009813, 10098, '小缪茁壮成长日记13', '2024/08/11 05:00:00', 0, 5098005, 1009812);
+insert into lsv_story_data values (1009814, 10098, '小缪茁壮成长日记14', '2024/08/12 05:00:00', 0, 5098006, 1009813);
+insert into lsv_story_data values (1009815, 10098, '小缪茁壮成长日记15', '2024/08/14 05:00:00', 0, 5098007, 1009814);

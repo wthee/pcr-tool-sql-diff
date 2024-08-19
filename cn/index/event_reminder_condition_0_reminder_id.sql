@@ -1,0 +1,1 @@
+CREATE INDEX 'event_reminder_condition_0_reminder_id' on 'event_reminder_condition'('reminder_id')

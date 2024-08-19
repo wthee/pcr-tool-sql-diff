@@ -1,0 +1,1 @@
+CREATE INDEX 'lto_letter_script_0_letter_id' on 'lto_letter_script'('letter_id')

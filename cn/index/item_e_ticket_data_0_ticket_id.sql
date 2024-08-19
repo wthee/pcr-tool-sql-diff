@@ -1,0 +1,1 @@
+CREATE INDEX 'item_e_ticket_data_0_ticket_id' on 'item_e_ticket_data'('ticket_id')

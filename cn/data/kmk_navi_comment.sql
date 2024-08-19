@@ -1,0 +1,12 @@
+CREATE TABLE 'kmk_navi_comment' ('comment_id' INTEGER NOT NULL, 'where_type' INTEGER NOT NULL, 'character_id' INTEGER NOT NULL, 'face_type' INTEGER NOT NULL, 'character_name' TEXT NOT NULL, 'description' TEXT , 'voice_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'pos_x' REAL NOT NULL, 'pos_y' REAL NOT NULL, 'change_face_time' REAL NOT NULL, 'change_face_type' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, PRIMARY KEY('comment_id'));
+insert into kmk_navi_comment values (24015, 24, 110501, 4, '香织（夏日）', '啊呜～真遗憾～\\n是被奄美魔物\\n夺去灵魂了吗？', 1, '2019/07/31 12:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 0.0, 4, 10021);
+insert into kmk_navi_comment values (24016, 24, 110501, 4, '香织（夏日）', '今天的舞跳起来也没什么劲呢～\\n吃些类似苦瓜的东西，打起精神来吧！', 2, '2019/07/31 12:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 4.0, 1, 10021);
+insert into kmk_navi_comment values (24017, 24, 110501, 4, '香织（夏日）', '到处都是奄美魔物，眼睛都花了～\\n晕乎乎的～', 3, '2019/07/31 12:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 0.0, 4, 10021);
+insert into kmk_navi_comment values (24018, 24, 110501, 1, '香织（夏日）', '总会好的、总会好的。\\n下次加油就好！\\n在海里游会儿泳，\\n振作起来吧！', 4, '2019/07/31 12:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 5.2, 2, 10021);
+insert into kmk_navi_comment values (24019, 24, 110501, 5, '香织（夏日）', '我这么丢人的样子\\n都被你看到了～\\n泳装？我不是指泳装哦？', 5, '2019/07/31 12:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 4.2, 6, 10021);
+insert into kmk_navi_comment values (24020, 24, 110501, 2, '香织（夏日）', '状态超棒！就这样\\n让大海恢复和平吧！\\n快乐的夏天近在眼前！', 6, '2019/07/31 12:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 0.0, 2, 10021);
+insert into kmk_navi_comment values (24021, 24, 110501, 1, '香织（夏日）', '不管有几只来袭，\\n我都不会被吓到哦！\\n啊嚏！啊……\\n不过好像被刚才的喷嚏吓了一跳～', 7, '2019/07/31 12:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 6.4, 6, 10021);
+insert into kmk_navi_comment values (24022, 24, 110501, 2, '香织（夏日）', '咿～呀～萨～萨♪\\n在战斗结束后尽情跳舞，\\n心情都舒畅起来了！', 8, '2019/07/31 12:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 0.0, 2, 10021);
+insert into kmk_navi_comment values (24023, 24, 110501, 6, '香织（夏日）', '咦？在战斗的时候\\n泳装不知道跑哪儿去了？\\n我说，你有看到吗？\\n为什么要远离我啊？', 9, '2019/07/31 12:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 10.08, 3, 10021);
+insert into kmk_navi_comment values (24024, 24, 110501, 1, '香织（夏日）', '我还很有精神呢！\\n不管是奄美魔物还是别的，\\n都尽管冲我来吧♪', 10, '2019/07/31 12:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 5.0, 2, 10021);
+insert into kmk_navi_comment values (24025, 24, 110501, 2, '香织（夏日）', '我的空手道是世上最强的！\\n再配上夏日的阳光与碧蓝的大海，\\n可谓所向披靡了！', 11, '2019/07/31 12:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 0.0, 2, 10021);

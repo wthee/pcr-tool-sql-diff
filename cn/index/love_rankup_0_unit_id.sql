@@ -1,0 +1,1 @@
+CREATE INDEX 'love_rankup_0_unit_id' on 'love_rankup'('unit_id')

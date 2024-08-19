@@ -1,0 +1,1 @@
+CREATE INDEX 'wac_unit_search_data_0_unit_search_id' on 'wac_unit_search_data'('unit_search_id')

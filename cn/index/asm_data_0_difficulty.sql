@@ -1,0 +1,1 @@
+CREATE INDEX 'asm_data_0_difficulty' on 'asm_data'('difficulty')

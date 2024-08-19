@@ -1,0 +1,1 @@
+CREATE INDEX 'travel_quest_sub_reward_0_travel_quest_id' on 'travel_quest_sub_reward'('travel_quest_id')

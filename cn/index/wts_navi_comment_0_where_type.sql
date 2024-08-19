@@ -1,0 +1,1 @@
+CREATE INDEX 'wts_navi_comment_0_where_type' on 'wts_navi_comment'('where_type')

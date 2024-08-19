@@ -1,0 +1,11 @@
+CREATE TABLE 'xeh_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+insert into xeh_story_data values (5106601, 10106, '圣夜的幽灵×吸血鬼', 8, 91002, 45);
+insert into xeh_story_data values (5106602, 10106, '小小圣诞老人的礼物', 8, 91002, 45);
+insert into xeh_story_data values (5106603, 10106, '啊多么美丽的圣诞节', 8, 91002, 45);
+insert into xeh_story_data values (5106604, 10106, '闪耀吧！\u3000圣诞节演唱会', 8, 91002, 45);
+insert into xeh_story_data values (5106605, 10106, '小心天使占卜', 8, 91002, 45);
+insert into xeh_story_data values (5106606, 10106, '圣诞老人和毛茸茸驯鹿', 8, 91002, 45);
+insert into xeh_story_data values (5106607, 10106, '只要有姐姐的爱', 8, 91002, 45);
+insert into xeh_story_data values (5106608, 10106, '无法坦诚的圣诞节', 8, 91002, 45);
+insert into xeh_story_data values (5106609, 10106, '目标！\u3000新事业！', 8, 91002, 45);
+insert into xeh_story_data values (5106610, 10106, '纯真心灵的圣诞节', 8, 91002, 45);

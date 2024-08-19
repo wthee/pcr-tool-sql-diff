@@ -1,0 +1,14 @@
+CREATE TABLE 'ttk_navi_comment' ('comment_id' INTEGER NOT NULL, 'where_type' INTEGER NOT NULL, 'character_id' INTEGER NOT NULL, 'face_type' INTEGER NOT NULL, 'character_name' TEXT NOT NULL, 'description' TEXT , 'voice_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'pos_x' REAL NOT NULL, 'pos_y' REAL NOT NULL, 'change_face_time' REAL NOT NULL, 'change_face_type' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, PRIMARY KEY('comment_id'));
+insert into ttk_navi_comment values (24001, 24, 102601, 1, '铃', '我该出手的时候\\n也是会出手的！', 0, '2022/04/30 11:00:00', '2099/12/31 23:59:59', 0.0, 0.0, 0.0, 1, 10040);
+insert into ttk_navi_comment values (24002, 24, 102601, 1, '铃', '呼……\\n这样一来我的工作\\n就结束了。', 1, '2022/04/30 11:00:00', '2099/12/31 23:59:59', 0.0, 0.0, 0.0, 1, 10040);
+insert into ttk_navi_comment values (24003, 24, 102601, 1, '铃', '结束了结束了。\\n就算只有一个人，\\n也是能做到的呢。', 2, '2022/04/30 11:00:00', '2099/12/31 23:59:59', 0.0, 0.0, 0.0, 1, 10040);
+insert into ttk_navi_comment values (24004, 24, 102601, 2, '铃', '太好了！\\n这样一来\\n就能偷懒了……', 3, '2022/04/30 11:00:00', '2099/12/31 23:59:59', 0.0, 0.0, 0.0, 2, 10040);
+insert into ttk_navi_comment values (24005, 24, 102601, 1, '铃', '想要奶酪的话，\\n就好好工作\\n用钱来买吧。', 4, '2022/04/30 11:00:00', '2099/12/31 23:59:59', 0.0, 0.0, 0.0, 1, 10040);
+insert into ttk_navi_comment values (24006, 24, 102601, 2, '铃', '知道和我为敌\\n有多可怕\\n了吧！', 5, '2022/04/30 11:00:00', '2099/12/31 23:59:59', 0.0, 0.0, 0.0, 2, 10040);
+insert into ttk_navi_comment values (24007, 24, 102601, 2, '铃', '没想到\\n我也挺能干的嘛？', 6, '2022/04/30 11:00:00', '2099/12/31 23:59:59', 0.0, 0.0, 0.0, 2, 10040);
+insert into ttk_navi_comment values (24008, 24, 102601, 4, '铃', '好累……\\n老鼠逃得\\n也太快了……', 7, '2022/04/30 11:00:00', '2099/12/31 23:59:59', 0.0, 0.0, 0.0, 4, 10040);
+insert into ttk_navi_comment values (24009, 24, 102601, 4, '铃', '这样下去，\\n要被真阳阳\\n骂了。', 8, '2022/04/30 11:00:00', '2099/12/31 23:59:59', 0.0, 0.0, 0.0, 4, 10040);
+insert into ttk_navi_comment values (24010, 24, 102601, 4, '铃', '我明明\\n有认真做的……\\n不甘心～', 9, '2022/04/30 11:00:00', '2099/12/31 23:59:59', 0.0, 0.0, 0.0, 4, 10040);
+insert into ttk_navi_comment values (24011, 24, 102601, 4, '铃', '失败了……\\n没想到老鼠\\n竟然这么棘手。', 10, '2022/04/30 11:00:00', '2099/12/31 23:59:59', 0.0, 0.0, 0.0, 4, 10040);
+insert into ttk_navi_comment values (24012, 24, 102601, 4, '铃', '可恶～\\n竟然敢偷\\n我的奶酪！', 11, '2022/04/30 11:00:00', '2099/12/31 23:59:59', 0.0, 0.0, 0.0, 4, 10040);
+insert into ttk_navi_comment values (24013, 24, 102601, 4, '铃', '好累……\\n但是这次一定\\n要保护成功……', 12, '2022/04/30 11:00:00', '2099/12/31 23:59:59', 0.0, 0.0, 1.81, 1, 10040);

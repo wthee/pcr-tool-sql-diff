@@ -1,0 +1,1 @@
+CREATE INDEX 'shiori_quest_area_0_event_id' on 'shiori_quest_area'('event_id')

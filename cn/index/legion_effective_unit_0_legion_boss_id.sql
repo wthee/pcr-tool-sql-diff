@@ -1,0 +1,1 @@
+CREATE INDEX 'legion_effective_unit_0_legion_boss_id' on 'legion_effective_unit'('legion_boss_id')

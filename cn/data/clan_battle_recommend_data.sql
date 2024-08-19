@@ -1,0 +1,10 @@
+CREATE TABLE 'clan_battle_recommend_data' ('level_id' INTEGER NOT NULL, 'recommend_group' INTEGER NOT NULL, 'level_from' INTEGER NOT NULL, 'level_to' INTEGER NOT NULL, 'atack_party_count' INTEGER NOT NULL, 'magic_party_count' INTEGER NOT NULL, PRIMARY KEY('level_id'));
+insert into clan_battle_recommend_data values (1, 1, 10, 60, 2, 2);
+insert into clan_battle_recommend_data values (2, 1, 61, 80, 2, 2);
+insert into clan_battle_recommend_data values (3, 1, 81, 100, 2, 2);
+insert into clan_battle_recommend_data values (4, 2, 101, 120, 2, 2);
+insert into clan_battle_recommend_data values (5, 2, 121, 140, 2, 2);
+insert into clan_battle_recommend_data values (6, 2, 141, 160, 2, 2);
+insert into clan_battle_recommend_data values (7, 3, 196, 215, 2, 2);
+insert into clan_battle_recommend_data values (8, 3, 216, 225, 2, 2);
+insert into clan_battle_recommend_data values (9, 3, 226, 235, 2, 2);

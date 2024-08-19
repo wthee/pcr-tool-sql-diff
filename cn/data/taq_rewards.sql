@@ -1,0 +1,14 @@
+CREATE TABLE 'taq_rewards' ('id' INTEGER NOT NULL, 'score' INTEGER NOT NULL, 'mission_detail' TEXT NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_count_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_count_2' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_count_3' INTEGER NOT NULL, 'reward_type_4' INTEGER NOT NULL, 'reward_id_4' INTEGER NOT NULL, 'reward_count_4' INTEGER NOT NULL, 'reward_type_5' INTEGER NOT NULL, 'reward_id_5' INTEGER NOT NULL, 'reward_count_5' INTEGER NOT NULL, PRIMARY KEY('id'));
+insert into taq_rewards values (1, 10000, '获得10000点累积点数', 12, 94002, 100000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into taq_rewards values (2, 20000, '获得20000点累积点数', 8, 91002, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into taq_rewards values (3, 30000, '获得30000点累积点数', 12, 94002, 100000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into taq_rewards values (4, 50000, '获得50000点累积点数', 8, 91002, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into taq_rewards values (5, 80000, '获得80000点累积点数', 12, 94002, 100000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into taq_rewards values (6, 100000, '获得100000点累积点数', 12, 94002, 100000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into taq_rewards values (7, 120000, '获得120000点累积点数', 8, 91002, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into taq_rewards values (8, 150000, '获得150000点累积点数', 12, 94002, 200000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into taq_rewards values (9, 200000, '获得200000点累积点数', 12, 94002, 200000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into taq_rewards values (10, 250000, '获得250000点累积点数', 8, 91002, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into taq_rewards values (11, 300000, '获得300000点累积点数', 12, 94002, 200000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into taq_rewards values (12, 350000, '获得350000点累积点数', 12, 94002, 200000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into taq_rewards values (13, 400000, '获得400000点累积点数', 8, 91002, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);

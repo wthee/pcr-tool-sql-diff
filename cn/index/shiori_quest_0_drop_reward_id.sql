@@ -1,0 +1,1 @@
+CREATE INDEX 'shiori_quest_0_drop_reward_id' on 'shiori_quest'('drop_reward_id')

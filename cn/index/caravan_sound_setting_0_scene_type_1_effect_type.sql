@@ -1,0 +1,1 @@
+CREATE INDEX 'caravan_sound_setting_0_scene_type_1_effect_type' on 'caravan_sound_setting'('scene_type','effect_type')

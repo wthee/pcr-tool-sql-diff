@@ -1,0 +1,1 @@
+CREATE INDEX 'notif_data_0_unit_id' on 'notif_data'('unit_id')

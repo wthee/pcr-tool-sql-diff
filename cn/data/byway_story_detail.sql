@@ -1,0 +1,16 @@
+CREATE TABLE 'byway_story_detail' ('story_id' INTEGER NOT NULL, 'story_type' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'sub_title' TEXT NOT NULL, 'visible_type' INTEGER NOT NULL, 'pre_story_id' INTEGER NOT NULL, 'unlock_quest_id' INTEGER NOT NULL, 'lock_all_text' INTEGER NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_value_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_value_2' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_value_3' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('story_id'));
+insert into byway_story_detail values (2201101, 8, '支线剧情Ⅰ', '地下社会公会，前往地下社会', 5, 2201008, 15063001, 0, 8, 91002, 20, 0, 0, 0, 0, 0, 0, '2030/4/1 15:00:00', '2030/12/17 14:59:00');
+insert into byway_story_detail values (2201102, 8, '支线剧情Ⅱ', '锻炼起来吧！ 幻变少女', 5, 2201008, 15063002, 0, 8, 91002, 20, 0, 0, 0, 0, 0, 0, '2030/4/1 15:00:00', '2030/12/17 14:59:00');
+insert into byway_story_detail values (2201103, 8, '支线剧情Ⅲ', '奇怪国家的社会课参观', 5, 2201008, 15063003, 0, 8, 91002, 20, 0, 0, 0, 0, 0, 0, '2030/4/1 15:00:00', '2030/12/17 14:59:00');
+insert into byway_story_detail values (2202101, 8, '支线剧情Ⅳ', '互相推挤的公主！', 5, 2202003, 15063005, 0, 8, 91002, 20, 0, 0, 0, 0, 0, 0, '2030/4/1 15:00:00', '2030/12/17 14:59:00');
+insert into byway_story_detail values (2202102, 8, '支线剧情Ⅴ', '布丁怪物和点心之城', 5, 2202003, 15063006, 0, 8, 91002, 20, 0, 0, 0, 0, 0, 0, '2030/4/1 15:00:00', '2030/12/17 14:59:00');
+insert into byway_story_detail values (2202103, 8, '支线剧情Ⅵ', '女仆·在·龙族', 5, 2202006, 15064001, 0, 8, 91002, 20, 0, 0, 0, 0, 0, 0, '2030/4/1 15:00:00', '2030/12/17 14:59:00');
+insert into byway_story_detail values (2202104, 8, '支线剧情Ⅶ', '看招！ 鲷鱼烧', 5, 2202006, 15064002, 0, 8, 91002, 20, 0, 0, 0, 0, 0, 0, '2030/4/1 15:00:00', '2030/12/17 14:59:00');
+insert into byway_story_detail values (2203101, 8, '支线剧情Ⅷ', '机械人族和骑士先生', 5, 2203003, 15064004, 0, 8, 91002, 20, 0, 0, 0, 0, 0, 0, '2030/4/1 15:00:00', '2030/12/17 14:59:00');
+insert into byway_story_detail values (2203102, 8, '支线剧情Ⅸ', '好玩有趣的野餐♪', 5, 2203003, 15064005, 0, 8, 91002, 20, 0, 0, 0, 0, 0, 0, '2030/4/1 15:00:00', '2030/12/17 14:59:00');
+insert into byway_story_detail values (2203103, 8, '支线剧情Ⅹ', '爆发！？妹妹大战', 5, 2203006, 15065001, 0, 8, 91002, 20, 0, 0, 0, 0, 0, 0, '2030/4/1 15:00:00', '2030/12/17 14:59:00');
+insert into byway_story_detail values (2203104, 8, '支线剧情Ⅺ', '软绵绵的恋爱之路是草莓味', 5, 2203006, 15065002, 0, 8, 91002, 20, 0, 0, 0, 0, 0, 0, '2030/4/1 15:00:00', '2030/12/17 14:59:00');
+insert into byway_story_detail values (2204101, 8, '支线剧情Ⅻ', '魔法少女和蘑菇之乱', 5, 2204001, 15065004, 0, 8, 91002, 20, 0, 0, 0, 0, 0, 0, '2030/4/1 15:00:00', '2030/12/17 14:59:00');
+insert into byway_story_detail values (2204102, 8, '支线剧情ⅩⅢ', '“地下”的吞拿鱼', 5, 2204002, 15065005, 0, 8, 91002, 20, 0, 0, 0, 0, 0, 0, '2030/4/1 15:00:00', '2030/12/17 14:59:00');
+insert into byway_story_detail values (2204103, 8, '支线剧情ⅩⅣ', '闪耀的石头和商人之魂', 5, 2204005, 15066001, 0, 8, 91002, 20, 0, 0, 0, 0, 0, 0, '2030/4/1 15:00:00', '2030/12/17 14:59:00');
+insert into byway_story_detail values (2204104, 8, '支线剧情ⅩⅤ', '公主·泡澡时间', 5, 2204005, 15066002, 0, 8, 91002, 20, 0, 0, 0, 0, 0, 0, '2030/4/1 15:00:00', '2030/12/17 14:59:00');

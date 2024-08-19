@@ -1,0 +1,1 @@
+CREATE INDEX 'srt_panel_0_version' on 'srt_panel'('version')

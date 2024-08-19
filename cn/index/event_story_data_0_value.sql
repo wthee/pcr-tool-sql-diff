@@ -1,0 +1,1 @@
+CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value')

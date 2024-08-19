@@ -1,0 +1,1 @@
+CREATE INDEX 'event_story_detail_0_story_group_id' on 'event_story_detail'('story_group_id')

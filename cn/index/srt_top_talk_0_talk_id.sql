@@ -1,0 +1,1 @@
+CREATE INDEX 'srt_top_talk_0_talk_id' on 'srt_top_talk'('talk_id')

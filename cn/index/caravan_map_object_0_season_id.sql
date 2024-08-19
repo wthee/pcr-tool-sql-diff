@@ -1,0 +1,1 @@
+CREATE INDEX 'caravan_map_object_0_season_id' on 'caravan_map_object'('season_id')

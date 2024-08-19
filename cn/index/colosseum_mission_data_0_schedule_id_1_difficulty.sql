@@ -1,0 +1,1 @@
+CREATE INDEX 'colosseum_mission_data_0_schedule_id_1_difficulty' on 'colosseum_mission_data'('schedule_id','difficulty')

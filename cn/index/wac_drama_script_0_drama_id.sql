@@ -1,0 +1,1 @@
+CREATE INDEX 'wac_drama_script_0_drama_id' on 'wac_drama_script'('drama_id')

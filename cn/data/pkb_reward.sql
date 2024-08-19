@@ -1,0 +1,15 @@
+CREATE TABLE 'pkb_reward' ('id' INTEGER NOT NULL, 'pkb_score' INTEGER NOT NULL, 'mission_detail' TEXT NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_count_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_count_2' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_count_3' INTEGER NOT NULL, 'reward_type_4' INTEGER NOT NULL, 'reward_id_4' INTEGER NOT NULL, 'reward_count_4' INTEGER NOT NULL, 'reward_type_5' INTEGER NOT NULL, 'reward_id_5' INTEGER NOT NULL, 'reward_count_5' INTEGER NOT NULL, PRIMARY KEY('id'));
+insert into pkb_reward values (1, 2000, '累计获得2000以上的分数吧', 12, 94002, 20000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pkb_reward values (2, 4000, '累计获得4000以上的分数吧', 12, 94002, 30000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pkb_reward values (3, 8000, '累计获得8000以上的分数吧', 8, 91002, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pkb_reward values (4, 10000, '累计获得10000以上的分数吧', 12, 94002, 40000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pkb_reward values (5, 12000, '累计获得12000以上的分数吧', 12, 94002, 50000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pkb_reward values (6, 14000, '累计获得14000以上的分数吧', 2, 23001, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pkb_reward values (7, 18000, '累计获得18000以上的分数吧', 8, 91002, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pkb_reward values (8, 21000, '累计获得21000以上的分数吧', 12, 94002, 70000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pkb_reward values (9, 24000, '累计获得24000以上的分数吧', 12, 94002, 80000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pkb_reward values (10, 27000, '累计获得27000以上的分数吧', 8, 91002, 75, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pkb_reward values (11, 35000, '累计获得35000以上的分数吧', 2, 23001, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pkb_reward values (12, 40000, '累计获得40000以上的分数吧', 8, 91002, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pkb_reward values (13, 45000, '累计获得45000以上的分数吧', 12, 94002, 100000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pkb_reward values (14, 50000, '累计获得50000以上的分数吧', 15, 11001086, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);

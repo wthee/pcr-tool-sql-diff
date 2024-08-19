@@ -1,0 +1,1 @@
+CREATE INDEX 'nyx_story_script_0_story_id' on 'nyx_story_script'('story_id')

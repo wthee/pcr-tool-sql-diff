@@ -1,0 +1,18 @@
+CREATE TABLE 'mme_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'sub_title' TEXT NOT NULL, 'is_puzzle_piece' INTEGER NOT NULL, 'is_last' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+insert into mme_story_data values (5110601, 10110, '序章', '怀念的过去结晶', 0, 0, 10110104, 0, 0, 0);
+insert into mme_story_data values (5110602, 10110, '尾狗刀的追忆1', '谁是队长！', 1, 0, 10110104, 8, 91002, 30);
+insert into mme_story_data values (5110603, 10110, '尾狗刀的追忆2', '想赢的理由', 1, 0, 10110105, 8, 91002, 30);
+insert into mme_story_data values (5110604, 10110, '克莉丝提娜的追忆1', '善于倾听的誓约女君', 1, 0, 10110108, 8, 91002, 30);
+insert into mme_story_data values (5110605, 10110, '大吾的追忆1', '隐藏的真正实力？', 1, 0, 10110109, 8, 91002, 30);
+insert into mme_story_data values (5110606, 10110, '菈比莉斯塔的追忆1', '写成朋友，读作对手', 1, 0, 10110110, 8, 91002, 30);
+insert into mme_story_data values (5110607, 10110, '真崎的追忆', '邪恶与正义的狂笑', 1, 0, 10110112, 8, 91002, 30);
+insert into mme_story_data values (5110608, 10110, '拉基拉基的追忆1', '所谓公主骑士', 1, 0, 10110113, 8, 91002, 30);
+insert into mme_story_data values (5110609, 10110, '尾狗刀的追忆3', '追忆未曾谋面的日子', 1, 0, 10110114, 8, 91002, 30);
+insert into mme_story_data values (5111602, 10111, '拉基拉基的追忆2', '跳跃王的惩罚', 1, 0, 10111103, 8, 91002, 30);
+insert into mme_story_data values (5111603, 10111, '克莉丝提娜的追忆2', '两个人一定行', 1, 0, 10111105, 8, 91002, 30);
+insert into mme_story_data values (5111604, 10111, '大吾的追忆2', '如履薄冰', 1, 0, 10111108, 8, 91002, 30);
+insert into mme_story_data values (5111605, 10111, '菈比莉斯塔的追忆2', '最可疑的七冠是谁', 1, 0, 10111109, 8, 91002, 30);
+insert into mme_story_data values (5111606, 10111, '似似花的追忆', '过于简单的问题', 1, 0, 10111110, 8, 91002, 30);
+insert into mme_story_data values (5111607, 10111, '尾狗刀的追忆4', '魔物使者有话说', 1, 0, 10111113, 8, 91002, 30);
+insert into mme_story_data values (5111608, 10111, '尾狗刀的追忆5', '恶徒们向往的未来', 1, 0, 10111113, 8, 91002, 30);
+insert into mme_story_data values (5111609, 10111, '终章', '超越过去的回忆', 0, 1, 0, 16, 9000222, 1);

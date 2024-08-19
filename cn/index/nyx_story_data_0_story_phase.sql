@@ -1,0 +1,1 @@
+CREATE INDEX 'nyx_story_data_0_story_phase' on 'nyx_story_data'('story_phase')

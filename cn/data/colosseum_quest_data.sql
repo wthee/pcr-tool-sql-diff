@@ -1,0 +1,10 @@
+CREATE TABLE 'colosseum_quest_data' ('quest_id' INTEGER NOT NULL, 'schedule_id' INTEGER NOT NULL, 'difficulty' INTEGER NOT NULL, 'slot_id' INTEGER NOT NULL, 'display_unit_id' INTEGER NOT NULL, 'unit_id_1' INTEGER NOT NULL, 'unit_id_2' INTEGER NOT NULL, 'unit_id_3' INTEGER NOT NULL, 'unit_id_4' INTEGER NOT NULL, 'unit_id_5' INTEGER NOT NULL, 'enhance_id_1' INTEGER NOT NULL, 'enhance_id_2' INTEGER NOT NULL, 'enhance_id_3' INTEGER NOT NULL, 'enhance_id_4' INTEGER NOT NULL, 'enhance_id_5' INTEGER NOT NULL, 'limit_time' INTEGER NOT NULL, 'background' INTEGER NOT NULL, 'bg_position' INTEGER NOT NULL, PRIMARY KEY('quest_id'));
+insert into colosseum_quest_data values (100111, 1001, 1, 1, 100701, 100701, 103401, 105501, 112201, 123001, 6, 6, 6, 6, 6, 90, 100003, -100);
+insert into colosseum_quest_data values (100112, 1001, 1, 2, 103401, 106601, 103401, 100901, 105101, 123001, 6, 6, 6, 6, 6, 90, 100003, -100);
+insert into colosseum_quest_data values (100113, 1001, 1, 3, 110301, 112701, 113401, 110301, 106901, 101801, 6, 6, 6, 6, 6, 90, 100003, -100);
+insert into colosseum_quest_data values (100121, 1001, 2, 1, 100201, 102901, 103401, 117301, 123001, 100201, 4, 4, 4, 5, 4, 90, 100003, -100);
+insert into colosseum_quest_data values (100122, 1001, 2, 2, 104001, 104801, 117301, 105101, 110301, 104001, 4, 4, 4, 4, 4, 90, 100003, -100);
+insert into colosseum_quest_data values (100123, 1001, 2, 3, 101401, 101401, 118001, 118501, 100801, 111001, 4, 4, 5, 4, 4, 90, 100003, -100);
+insert into colosseum_quest_data values (100131, 1001, 3, 1, 112201, 100701, 117301, 112201, 123001, 100801, 1, 2, 2, 3, 1, 90, 100003, -100);
+insert into colosseum_quest_data values (100132, 1001, 3, 2, 105501, 100501, 106601, 103401, 105501, 112201, 1, 2, 1, 1, 2, 90, 100003, -100);
+insert into colosseum_quest_data values (100133, 1001, 3, 3, 124501, 105401, 104801, 113401, 110301, 124501, 1, 1, 2, 2, 3, 90, 100003, -100);

@@ -1,0 +1,1 @@
+CREATE INDEX 'sp_battle_voice_0_unit_id' on 'sp_battle_voice'('unit_id')

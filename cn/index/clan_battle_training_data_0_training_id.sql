@@ -1,0 +1,1 @@
+CREATE INDEX 'clan_battle_training_data_0_training_id' on 'clan_battle_training_data'('training_id')
