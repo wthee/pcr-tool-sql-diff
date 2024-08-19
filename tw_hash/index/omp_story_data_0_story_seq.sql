@@ -1,0 +1,1 @@
+CREATE INDEX 'omp_story_data_0_story_seq' on 'omp_story_data'('story_seq')

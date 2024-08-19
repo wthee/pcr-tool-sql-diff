@@ -1,0 +1,1 @@
+CREATE INDEX 'travel_top_event_data_0_top_event_id' on 'travel_top_event_data'('top_event_id')

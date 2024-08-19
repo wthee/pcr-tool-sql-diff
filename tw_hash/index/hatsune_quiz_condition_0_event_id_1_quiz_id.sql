@@ -1,0 +1,1 @@
+CREATE INDEX 'hatsune_quiz_condition_0_event_id_1_quiz_id' on 'hatsune_quiz_condition'('event_id','quiz_id')

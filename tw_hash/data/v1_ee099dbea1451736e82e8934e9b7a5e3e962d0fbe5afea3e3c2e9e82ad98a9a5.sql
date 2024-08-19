@@ -1,0 +1,10 @@
+CREATE TABLE 'v1_ee099dbea1451736e82e8934e9b7a5e3e962d0fbe5afea3e3c2e9e82ad98a9a5' ('81eb8006cc98368d86e54b531311e71fbe433a61768d1bc0dca6f4d60b7c3d81' INTEGER NOT NULL, '3938107c2185690b14d430abb6a0f42aeca788e47b842dfb5281960a23e99b78' INTEGER NOT NULL, 'bad749e4c3f3207eb98ed83d81d7736f91caa787362eb54ce25799f5b8754324' INTEGER NOT NULL, 'c8afc1af60c9e300fafc79bbe196124083664a19ed026db9375a3b21bcc66da2' INTEGER NOT NULL, '6050f6d593e89ed615faaea4ab1af7ccaa95ff360ac47651e646335362d75a34' INTEGER NOT NULL, '04dbde9636e1fc431141446d0f1b1bfed45301972adf7dbede047b1195ae5d53' INTEGER NOT NULL, PRIMARY KEY('81eb8006cc98368d86e54b531311e71fbe433a61768d1bc0dca6f4d60b7c3d81'));
+insert into v1_ee099dbea1451736e82e8934e9b7a5e3e962d0fbe5afea3e3c2e9e82ad98a9a5 values (1, 1, 10, 60, 2, 2);
+insert into v1_ee099dbea1451736e82e8934e9b7a5e3e962d0fbe5afea3e3c2e9e82ad98a9a5 values (2, 1, 61, 80, 2, 2);
+insert into v1_ee099dbea1451736e82e8934e9b7a5e3e962d0fbe5afea3e3c2e9e82ad98a9a5 values (3, 1, 81, 100, 2, 2);
+insert into v1_ee099dbea1451736e82e8934e9b7a5e3e962d0fbe5afea3e3c2e9e82ad98a9a5 values (4, 2, 101, 120, 2, 2);
+insert into v1_ee099dbea1451736e82e8934e9b7a5e3e962d0fbe5afea3e3c2e9e82ad98a9a5 values (5, 2, 121, 140, 2, 2);
+insert into v1_ee099dbea1451736e82e8934e9b7a5e3e962d0fbe5afea3e3c2e9e82ad98a9a5 values (6, 2, 141, 160, 2, 2);
+insert into v1_ee099dbea1451736e82e8934e9b7a5e3e962d0fbe5afea3e3c2e9e82ad98a9a5 values (7, 3, 262, 281, 2, 2);
+insert into v1_ee099dbea1451736e82e8934e9b7a5e3e962d0fbe5afea3e3c2e9e82ad98a9a5 values (8, 3, 282, 291, 2, 2);
+insert into v1_ee099dbea1451736e82e8934e9b7a5e3e962d0fbe5afea3e3c2e9e82ad98a9a5 values (9, 3, 292, 301, 2, 2);

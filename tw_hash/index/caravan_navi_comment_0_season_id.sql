@@ -1,0 +1,1 @@
+CREATE INDEX 'caravan_navi_comment_0_season_id' on 'caravan_navi_comment'('season_id')

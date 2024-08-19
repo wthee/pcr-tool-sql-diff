@@ -1,0 +1,1 @@
+CREATE INDEX 'omp_drama_0_drama_id' on 'omp_drama'('drama_id')

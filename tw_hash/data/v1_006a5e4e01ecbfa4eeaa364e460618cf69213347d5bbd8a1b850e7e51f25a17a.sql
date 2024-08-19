@@ -1,0 +1,11 @@
+CREATE TABLE 'v1_006a5e4e01ecbfa4eeaa364e460618cf69213347d5bbd8a1b850e7e51f25a17a' ('448684dae7ded0b0fc0d235dba40ce4eea131204db3735498ce342aabcf9ae81' INTEGER NOT NULL, '6432219f9578ab1b27c56f7e9697bc5f92fa29153b95e04fddc39a9beca0a341' TEXT NOT NULL, 'fc063d3899959f0b9f37a5aaa83cb38515470ad22bd35c9836f8ec79b0d8a626' INTEGER NOT NULL, 'f80d8f3b21ab02f15d9cbc11b498f098d6ecd1a9d8a904aaae6f5c1f130e3051' INTEGER NOT NULL, '93e4e456378ffd59a16a531629442c1d0206abac3914b8a2212a121e1cd01f17' INTEGER NOT NULL, '1d15d79235ced5cd548bdb832c5459bc3fac3722a89dd5348f3d8eeec1084932' INTEGER NOT NULL, '2253b7a699dfb0aa460c7c2ca78f5ba4ac8877fd8218922850f2bf15037a21b8' INTEGER NOT NULL, PRIMARY KEY('448684dae7ded0b0fc0d235dba40ce4eea131204db3735498ce342aabcf9ae81'));
+insert into v1_006a5e4e01ecbfa4eeaa364e460618cf69213347d5bbd8a1b850e7e51f25a17a values (1, '獲得料理活動', 1, 3, 0, 0, 0);
+insert into v1_006a5e4e01ecbfa4eeaa364e460618cf69213347d5bbd8a1b850e7e51f25a17a values (2, '獲得骰子活動1', 2, 1, 0, 0, 0);
+insert into v1_006a5e4e01ecbfa4eeaa364e460618cf69213347d5bbd8a1b850e7e51f25a17a values (3, '獲得骰子活動2', 2, 2, 0, 0, 0);
+insert into v1_006a5e4e01ecbfa4eeaa364e460618cf69213347d5bbd8a1b850e7e51f25a17a values (4, '跳過計算回合數', 3, 0, 1, 0, 3);
+insert into v1_006a5e4e01ecbfa4eeaa364e460618cf69213347d5bbd8a1b850e7e51f25a17a values (5, '里程+100%', 4, 100, 0, 1, 2);
+insert into v1_006a5e4e01ecbfa4eeaa364e460618cf69213347d5bbd8a1b850e7e51f25a17a values (6, '小遊戲里程+100%', 5, 100, 0, 1, 2);
+insert into v1_006a5e4e01ecbfa4eeaa364e460618cf69213347d5bbd8a1b850e7e51f25a17a values (7, '商店打折活動', 6, 300, 0, 1, 3);
+insert into v1_006a5e4e01ecbfa4eeaa364e460618cf69213347d5bbd8a1b850e7e51f25a17a values (98001, '跳過計算回合數1', 3, 0, 2, 0, 3);
+insert into v1_006a5e4e01ecbfa4eeaa364e460618cf69213347d5bbd8a1b850e7e51f25a17a values (98011, '跳過計算回合數1', 3, 0, 1, 0, 3);
+insert into v1_006a5e4e01ecbfa4eeaa364e460618cf69213347d5bbd8a1b850e7e51f25a17a values (98012, '跳過計算回合數2', 3, 0, 2, 0, 3);

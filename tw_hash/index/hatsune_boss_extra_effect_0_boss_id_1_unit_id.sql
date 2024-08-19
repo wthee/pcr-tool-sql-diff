@@ -1,0 +1,1 @@
+CREATE INDEX 'hatsune_boss_extra_effect_0_boss_id_1_unit_id' on 'hatsune_boss_extra_effect'('boss_id','unit_id')

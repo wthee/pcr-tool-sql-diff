@@ -1,0 +1,1 @@
+CREATE INDEX 'hatsune_description_0_event_id_1_type' on 'hatsune_description'('event_id','type')

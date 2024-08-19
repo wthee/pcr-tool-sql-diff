@@ -1,0 +1,1 @@
+CREATE INDEX 'dear_story_detail_0_story_group_id_1_chara_index' on 'dear_story_detail'('story_group_id','chara_index')

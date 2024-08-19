@@ -1,0 +1,1 @@
+CREATE INDEX 'custom_mypage_0_still_group_id' on 'custom_mypage'('still_group_id')

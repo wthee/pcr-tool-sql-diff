@@ -1,0 +1,1 @@
+CREATE INDEX 'unlock_rarity_6_0_unit_id_1_unlock_level' on 'unlock_rarity_6'('unit_id','unlock_level')

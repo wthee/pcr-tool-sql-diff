@@ -1,0 +1,1 @@
+CREATE INDEX 'growth_restriction_unit_0_growth_id' on 'growth_restriction_unit'('growth_id')

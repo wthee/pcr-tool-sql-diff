@@ -1,0 +1,1 @@
+CREATE INDEX 'movie_0_story_id' on 'movie'('story_id')

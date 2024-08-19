@@ -1,0 +1,1 @@
+CREATE INDEX 'v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f_0_difficulty' on 'v1_38af0e56a2ca6ec9a37efaf06db06ab45391dbe30d982c6eb1a2dec6575daa1f'('0a882aa522f29bf154ec18d10e2d35bb0269ca21c719998f47a7a0aa6f3fe1cc')

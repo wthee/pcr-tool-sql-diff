@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX 'unit_conversion_0_unit_id' on 'unit_conversion'('unit_id')

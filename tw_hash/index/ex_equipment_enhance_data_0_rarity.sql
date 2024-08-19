@@ -1,0 +1,1 @@
+CREATE INDEX 'ex_equipment_enhance_data_0_rarity' on 'ex_equipment_enhance_data'('rarity')

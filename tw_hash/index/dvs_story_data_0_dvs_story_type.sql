@@ -1,0 +1,1 @@
+CREATE INDEX 'dvs_story_data_0_dvs_story_type' on 'dvs_story_data'('dvs_story_type')

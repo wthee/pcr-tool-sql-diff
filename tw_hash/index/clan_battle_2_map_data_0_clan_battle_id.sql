@@ -1,0 +1,1 @@
+CREATE INDEX 'clan_battle_2_map_data_0_clan_battle_id' on 'clan_battle_2_map_data'('clan_battle_id')

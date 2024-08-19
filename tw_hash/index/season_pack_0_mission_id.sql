@@ -1,0 +1,1 @@
+CREATE INDEX 'season_pack_0_mission_id' on 'season_pack'('mission_id')

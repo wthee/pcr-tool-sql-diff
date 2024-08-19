@@ -1,0 +1,1 @@
+CREATE INDEX 'event_top_adv_0_event_id_1_type' on 'event_top_adv'('event_id','type')

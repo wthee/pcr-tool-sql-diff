@@ -1,0 +1,1 @@
+CREATE INDEX 'sre_mission_data_0_sre_id' on 'sre_mission_data'('sre_id')

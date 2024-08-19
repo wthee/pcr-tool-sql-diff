@@ -1,0 +1,1 @@
+CREATE INDEX 'metamorphose_0_type_id' on 'metamorphose'('type_id')

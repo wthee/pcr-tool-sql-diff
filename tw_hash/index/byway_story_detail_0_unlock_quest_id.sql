@@ -1,0 +1,1 @@
+CREATE INDEX 'byway_story_detail_0_unlock_quest_id' on 'byway_story_detail'('unlock_quest_id')

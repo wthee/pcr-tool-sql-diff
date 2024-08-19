@@ -1,0 +1,1 @@
+CREATE INDEX 'ske_story_data_0_original_event_id' on 'ske_story_data'('original_event_id')

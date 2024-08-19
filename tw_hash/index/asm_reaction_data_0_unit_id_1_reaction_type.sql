@@ -1,0 +1,1 @@
+CREATE INDEX 'asm_reaction_data_0_unit_id_1_reaction_type' on 'asm_reaction_data'('unit_id','reaction_type')

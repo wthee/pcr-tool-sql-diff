@@ -1,0 +1,10 @@
+CREATE TABLE 'v1_777952938535c4400e5fa0f136ee61813cc74b7f7b0a3f07fd0dfca01269d0d9' ('df2026acdffdaf7cfc94630a8133ceefd4439f87b041e261bd6cae7fa9331fcc' INTEGER NOT NULL, '6fa740a15d942c597d25711a1589b81957b3d7d732b6e379a277b7b8bdeec8b3' TEXT NOT NULL, PRIMARY KEY('df2026acdffdaf7cfc94630a8133ceefd4439f87b041e261bd6cae7fa9331fcc'));
+insert into v1_777952938535c4400e5fa0f136ee61813cc74b7f7b0a3f07fd0dfca01269d0d9 values (20001, '公主連結！Re:Dive 3周年紀念');
+insert into v1_777952938535c4400e5fa0f136ee61813cc74b7f7b0a3f07fd0dfca01269d0d9 values (20003, '公主連結！Re:Dive 3.5周年紀念');
+insert into v1_777952938535c4400e5fa0f136ee61813cc74b7f7b0a3f07fd0dfca01269d0d9 values (20004, '公主連結！Re:Dive 4周年紀念');
+insert into v1_777952938535c4400e5fa0f136ee61813cc74b7f7b0a3f07fd0dfca01269d0d9 values (20005, '公主連結！Re:Dive 4.5周年紀念');
+insert into v1_777952938535c4400e5fa0f136ee61813cc74b7f7b0a3f07fd0dfca01269d0d9 values (20006, '公主連結！Re:Dive 5周年紀念');
+insert into v1_777952938535c4400e5fa0f136ee61813cc74b7f7b0a3f07fd0dfca01269d0d9 values (20007, '公主連結！Re:Dive 6周年紀念');
+insert into v1_777952938535c4400e5fa0f136ee61813cc74b7f7b0a3f07fd0dfca01269d0d9 values (30001, '小遊戲‧迷你內容');
+insert into v1_777952938535c4400e5fa0f136ee61813cc74b7f7b0a3f07fd0dfca01269d0d9 values (40001, '大家的日曆');
+insert into v1_777952938535c4400e5fa0f136ee61813cc74b7f7b0a3f07fd0dfca01269d0d9 values (40004, '2024年情人節紀念');

@@ -1,0 +1,1 @@
+CREATE INDEX 'tower_quest_odds_group_0_odds_group_id' on 'tower_quest_odds_group'('odds_group_id')

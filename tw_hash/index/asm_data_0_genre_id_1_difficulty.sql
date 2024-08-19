@@ -1,0 +1,1 @@
+CREATE INDEX 'asm_data_0_genre_id_1_difficulty' on 'asm_data'('genre_id','difficulty')

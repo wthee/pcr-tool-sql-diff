@@ -1,0 +1,1 @@
+CREATE INDEX 'mme_story_data_0_original_event_id' on 'mme_story_data'('original_event_id')

@@ -1,0 +1,6 @@
+CREATE TABLE 'v1_afb8ba934c80d471294a0f3d2ed617d91be041f9ddc6f17f67cca0237f4abb96' ('14f639fc7e4ebfa741da448a0aea7d2da9e14f72c5bce6b6c5921f8723397d37' INTEGER NOT NULL, 'd77165c5c2f51a173aa4c9a866246d091dc462d00108776ed83967be5e50ed38' INTEGER NOT NULL, PRIMARY KEY('14f639fc7e4ebfa741da448a0aea7d2da9e14f72c5bce6b6c5921f8723397d37'));
+insert into v1_afb8ba934c80d471294a0f3d2ed617d91be041f9ddc6f17f67cca0237f4abb96 values (10085, 1);
+insert into v1_afb8ba934c80d471294a0f3d2ed617d91be041f9ddc6f17f67cca0237f4abb96 values (10111, 1);
+insert into v1_afb8ba934c80d471294a0f3d2ed617d91be041f9ddc6f17f67cca0237f4abb96 values (10113, 1);
+insert into v1_afb8ba934c80d471294a0f3d2ed617d91be041f9ddc6f17f67cca0237f4abb96 values (10137, 1);
+insert into v1_afb8ba934c80d471294a0f3d2ed617d91be041f9ddc6f17f67cca0237f4abb96 values (10139, 1);

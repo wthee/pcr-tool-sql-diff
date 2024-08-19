@@ -1,0 +1,1 @@
+CREATE INDEX 'v1_70dc26ca9e43fdba7af93d1125b7c1a297e4c10a982acfe4e3e938b7902ca59c_0_equipment_id' on 'v1_70dc26ca9e43fdba7af93d1125b7c1a297e4c10a982acfe4e3e938b7902ca59c'('54a747aaf82fcac672ff9f85069cef9b3f5b38aff34b8802d4f6ebb3b63df4e2')

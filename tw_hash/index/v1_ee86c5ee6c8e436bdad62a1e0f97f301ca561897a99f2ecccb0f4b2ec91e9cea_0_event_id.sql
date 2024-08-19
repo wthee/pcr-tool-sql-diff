@@ -1,0 +1,1 @@
+CREATE INDEX 'v1_ee86c5ee6c8e436bdad62a1e0f97f301ca561897a99f2ecccb0f4b2ec91e9cea_0_event_id' on 'v1_ee86c5ee6c8e436bdad62a1e0f97f301ca561897a99f2ecccb0f4b2ec91e9cea'('ca79328d97b773dce04fbe3b9bd3863e1f4ee91470da55d1830d6d70db794a5d')

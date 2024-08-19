@@ -1,0 +1,1 @@
+CREATE INDEX 'extra_effect_data_0_content_type_1_target_value_1' on 'extra_effect_data'('content_type','target_value_1')

@@ -1,0 +1,1 @@
+CREATE INDEX 'clan_battle_training_schedule_0_clan_battle_id' on 'clan_battle_training_schedule'('clan_battle_id')

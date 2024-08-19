@@ -1,0 +1,5 @@
+CREATE TABLE 'v1_6dd6359e3aeaea714c16e49f8b7d04037da5de6392def2ba485ae9d4e7b43007' ('0cf65c2de6e26a32587be9b67356914d70ab3f437a89ad7024ea12d57fd2869c' INTEGER NOT NULL, '3a501b53a6b39b3f151c7fde2c45c7f82ff0f3fb0fb261b13914c13bb3532c41' INTEGER NOT NULL, '6b01eabd598ccc5097f8dad6103c9e70ca75abaa3fb7d65a510e4a2da88a8923' TEXT NOT NULL, PRIMARY KEY('0cf65c2de6e26a32587be9b67356914d70ab3f437a89ad7024ea12d57fd2869c'));
+insert into v1_6dd6359e3aeaea714c16e49f8b7d04037da5de6392def2ba485ae9d4e7b43007 values (1, 0, '木槌');
+insert into v1_6dd6359e3aeaea714c16e49f8b7d04037da5de6392def2ba485ae9d4e7b43007 values (2, 64000, '魔法小槌');
+insert into v1_6dd6359e3aeaea714c16e49f8b7d04037da5de6392def2ba485ae9d4e7b43007 values (3, 256000, '真陽親手製作的摺扇');
+insert into v1_6dd6359e3aeaea714c16e49f8b7d04037da5de6392def2ba485ae9d4e7b43007 values (4, 480000, '萬寶槌');

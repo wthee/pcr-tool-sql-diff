@@ -1,0 +1,1 @@
+CREATE INDEX 'sre_boss_data_0_sre_id_1_phase' on 'sre_boss_data'('sre_id','phase')

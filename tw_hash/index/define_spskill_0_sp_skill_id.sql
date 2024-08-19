@@ -1,0 +1,1 @@
+CREATE INDEX 'define_spskill_0_sp_skill_id' on 'define_spskill'('sp_skill_id')

@@ -1,0 +1,1 @@
+CREATE INDEX 'omp_story_data_0_event_id' on 'omp_story_data'('event_id')

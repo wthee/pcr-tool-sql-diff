@@ -1,0 +1,1 @@
+CREATE INDEX 'ttk_weapon_0_ttk_score' on 'ttk_weapon'('ttk_score')

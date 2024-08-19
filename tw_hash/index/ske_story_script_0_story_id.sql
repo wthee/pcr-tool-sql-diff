@@ -1,0 +1,1 @@
+CREATE INDEX 'ske_story_script_0_story_id' on 'ske_story_script'('story_id')

@@ -1,0 +1,1 @@
+CREATE INDEX 'dear_story_data_0_value' on 'dear_story_data'('value')

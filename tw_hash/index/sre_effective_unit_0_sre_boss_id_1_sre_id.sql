@@ -1,0 +1,1 @@
+CREATE INDEX 'sre_effective_unit_0_sre_boss_id_1_sre_id' on 'sre_effective_unit'('sre_boss_id','sre_id')

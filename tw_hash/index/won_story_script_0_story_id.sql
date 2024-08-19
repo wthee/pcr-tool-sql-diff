@@ -1,0 +1,1 @@
+CREATE INDEX 'won_story_script_0_story_id' on 'won_story_script'('story_id')

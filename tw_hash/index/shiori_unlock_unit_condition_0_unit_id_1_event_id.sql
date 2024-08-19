@@ -1,0 +1,1 @@
+CREATE INDEX 'shiori_unlock_unit_condition_0_unit_id_1_event_id' on 'shiori_unlock_unit_condition'('unit_id','event_id')

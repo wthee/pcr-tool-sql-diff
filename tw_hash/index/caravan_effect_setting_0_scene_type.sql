@@ -1,0 +1,1 @@
+CREATE INDEX 'caravan_effect_setting_0_scene_type' on 'caravan_effect_setting'('scene_type')

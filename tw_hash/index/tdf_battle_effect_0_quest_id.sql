@@ -1,0 +1,1 @@
+CREATE INDEX 'tdf_battle_effect_0_quest_id' on 'tdf_battle_effect'('quest_id')

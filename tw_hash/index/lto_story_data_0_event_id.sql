@@ -1,0 +1,1 @@
+CREATE INDEX 'lto_story_data_0_event_id' on 'lto_story_data'('event_id')

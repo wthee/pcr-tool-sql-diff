@@ -1,0 +1,1 @@
+CREATE INDEX 'clan_battle_odds_data_0_odds_group_id' on 'clan_battle_odds_data'('odds_group_id')
