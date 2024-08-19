@@ -1,0 +1,13 @@
+CREATE TABLE 'ske_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'unlock_condition_quest_id' INTEGER NOT NULL, 'unlock_condition_boss_id' INTEGER NOT NULL, 'read_condition_event_story_id' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+insert into ske_story_data values (1005801, 10058, '羈絆日記之1', 20033108, 0, 5058003);
+insert into ske_story_data values (1005802, 10058, '羈絆日記之2', 20033110, 0, 5058003);
+insert into ske_story_data values (1005803, 10058, '羈絆日記之3', 20033112, 0, 5058003);
+insert into ske_story_data values (1005804, 10058, '羈絆日記之4', 20033115, 0, 5058004);
+insert into ske_story_data values (1005805, 10058, '羈絆日記之5', 0, 2003301, 5058005);
+insert into ske_story_data values (1005901, 10059, '羈絆日記之6', 20034103, 0, 5059001);
+insert into ske_story_data values (1005902, 10059, '羈絆日記之7', 20034106, 0, 5059002);
+insert into ske_story_data values (1005903, 10059, '羈絆日記之8', 20034109, 0, 5059004);
+insert into ske_story_data values (1005904, 10059, '羈絆日記之9', 20034112, 0, 5059005);
+insert into ske_story_data values (1005905, 10059, '羈絆日記之10', 20034115, 0, 5059006);
+insert into ske_story_data values (1005906, 10059, '羈絆日記之11', 0, 2003401, 5059007);
+insert into ske_story_data values (1005907, 10059, '額外頁數', 0, 0, 0);

@@ -1,0 +1,14 @@
+CREATE TABLE 'wtm_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'wtm_story_type' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_sub_story_id_1' INTEGER NOT NULL, 'condition_sub_story_id_2' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, 'emblem_id' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+insert into wtm_story_data values (5128071, 10128, '只有兩人的元旦日出', 2, 10128107, 0, 0, 8, 91002, 25, 0);
+insert into wtm_story_data values (5128072, 10128, '新家的必備條件', 2, 0, 5128071, 0, 8, 91002, 25, 0);
+insert into wtm_story_data values (5128073, 10128, '其實比誰都還要', 2, 0, 5128072, 0, 8, 91002, 25, 0);
+insert into wtm_story_data values (5128074, 10128, '想要一家人\\n一起珍惜的事', 2, 0, 5128073, 0, 8, 91002, 25, 0);
+insert into wtm_story_data values (5128075, 10128, '誓約的諾言', 2, 0, 5128074, 0, 8, 91002, 50, 0);
+insert into wtm_story_data values (5128081, 10128, '染血的訂婚通知', 3, 10128107, 0, 0, 8, 91002, 25, 0);
+insert into wtm_story_data values (5128082, 10128, '漂泊之人的尋家路', 3, 0, 5128081, 0, 8, 91002, 25, 0);
+insert into wtm_story_data values (5128083, 10128, '珍愛時光', 3, 0, 5128082, 0, 8, 91002, 25, 0);
+insert into wtm_story_data values (5128084, 10128, '東國的\\n家族文化', 3, 0, 5128083, 0, 8, 91002, 25, 0);
+insert into wtm_story_data values (5128085, 10128, '傳達真誠的愛', 3, 0, 5128084, 0, 8, 91002, 50, 0);
+insert into wtm_story_data values (5128091, 10128, '口頭約定是禍端', 4, 0, 5128075, 5128085, 0, 0, 0, 0);
+insert into wtm_story_data values (5128092, 10128, '不容退讓的家庭味道', 4, 0, 5128091, 0, 0, 0, 0, 11001271);
+insert into wtm_story_data values (5128161, 10128, '夢境說書人的邀請', 1, 10128107, 0, 0, 0, 0, 0, 0);

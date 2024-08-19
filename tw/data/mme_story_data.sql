@@ -1,0 +1,18 @@
+CREATE TABLE 'mme_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'sub_title' TEXT NOT NULL, 'is_puzzle_piece' INTEGER NOT NULL, 'is_last' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+insert into mme_story_data values (5110601, 10110, '序幕', '令人懷念的往日結晶', 0, 0, 10138104, 0, 0, 0);
+insert into mme_story_data values (5110602, 10110, '尾狗刀的懷想\u3000其一', '誰才是隊長！', 1, 0, 10138104, 8, 91002, 30);
+insert into mme_story_data values (5110603, 10110, '尾狗刀的懷想\u3000其二', '想獲勝的理由', 1, 0, 10138105, 8, 91002, 30);
+insert into mme_story_data values (5110604, 10110, '克莉絲提娜的懷想\u3000其一', '善於傾聽的誓約女君', 1, 0, 10138108, 8, 91002, 30);
+insert into mme_story_data values (5110605, 10110, '大吾的懷想\u3000其一', '隱藏的真正實力……？', 1, 0, 10138109, 8, 91002, 30);
+insert into mme_story_data values (5110606, 10110, '拉比林斯達的懷想\u3000其一', '寫作朋友，讀作對手', 1, 0, 10138110, 8, 91002, 30);
+insert into mme_story_data values (5110607, 10110, '真軌的懷想', '惡與正義的放聲大笑', 1, 0, 10138112, 8, 91002, 30);
+insert into mme_story_data values (5110608, 10110, '拉基拉基的懷想\u3000其一', '所謂的公主騎士', 1, 0, 10138113, 8, 91002, 30);
+insert into mme_story_data values (5110609, 10110, '尾狗刀的懷想\u3000其三', '遙想未來的日子', 1, 0, 10138114, 8, 91002, 30);
+insert into mme_story_data values (5111602, 10111, '拉基拉基的懷想\u3000其二', '跳躍王的懲罰', 1, 0, 10139103, 8, 91002, 30);
+insert into mme_story_data values (5111603, 10111, '克莉絲提娜的懷想\u3000其二', '兩人一起絕對能做到', 1, 0, 10139105, 8, 91002, 30);
+insert into mme_story_data values (5111604, 10111, '大吾的懷想\u3000其二', '踩虎尾', 1, 0, 10139108, 8, 91002, 30);
+insert into mme_story_data values (5111605, 10111, '拉比林斯達的懷想\u3000其二', '最可疑的七冠是誰', 1, 0, 10139109, 8, 91002, 30);
+insert into mme_story_data values (5111606, 10111, '似似花的懷想', '過於簡單的問題', 1, 0, 10139110, 8, 91002, 30);
+insert into mme_story_data values (5111607, 10111, '尾狗刀的懷想\u3000其四', '魔物使如是說', 1, 0, 10139113, 8, 91002, 30);
+insert into mme_story_data values (5111608, 10111, '尾狗刀的懷想\u3000其五', '惡徒們追尋的未來', 1, 0, 10139113, 8, 91002, 30);
+insert into mme_story_data values (5111609, 10111, '終幕', '超越過去，創造回憶', 0, 1, 0, 16, 9000222, 1);

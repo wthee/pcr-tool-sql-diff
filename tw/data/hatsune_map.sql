@@ -1,0 +1,16 @@
+CREATE TABLE 'hatsune_map' ('course_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'map_id' INTEGER NOT NULL, 'sheet_id' TEXT NOT NULL, 'que_id' TEXT NOT NULL, 'start_area_id' INTEGER NOT NULL, 'end_area_id' INTEGER NOT NULL, PRIMARY KEY('course_id'));
+insert into hatsune_map values (10001, 10001, '塔爾格姆地區', 10001, 'bgm_M32', 'bgm_M32', 10001101, 10001101);
+insert into hatsune_map values (10002, 10002, '馬席納地區', 10002, 'bgm_M98', 'bgm_M98_2', 10002101, 10002101);
+insert into hatsune_map values (10003, 10003, '蘭德索爾郊外', 10003, 'bgm_M106', 'bgm_M106', 10003101, 10003101);
+insert into hatsune_map values (10004, 10004, '塔帕斯海灘 周邊', 10004, 'bgm_M112', 'bgm_M112', 10004101, 10004101);
+insert into hatsune_map values (10005, 10005, '伊爾席翁的孤島', 10005, 'bgm_M121', 'bgm_M121', 10005101, 10005101);
+insert into hatsune_map values (10006, 10006, '王城蘭德索爾', 10006, 'bgm_M128', 'bgm_M128', 10006101, 10006101);
+insert into hatsune_map values (10007, 10007, '蘭德索爾近郊', 10007, 'bgm_M135', 'bgm_M135', 10007101, 10007101);
+insert into hatsune_map values (10008, 10008, '蘭德索爾近郊', 10008, 'bgm_M121', 'bgm_M121', 10008101, 10008101);
+insert into hatsune_map values (10009, 10009, '聖誕節', 10009, 'bgm_M171', 'bgm_M171', 10009101, 10009101);
+insert into hatsune_map values (10010, 10010, '往神殿的參道', 10010, 'bgm_M121', 'bgm_M121', 10010101, 10010101);
+insert into hatsune_map values (10011, 10011, '情人節', 10011, 'bgm_M189', 'bgm_M189', 10011101, 10011101);
+insert into hatsune_map values (10012, 10012, '王城蘭德索爾', 10012, 'bgm_M206', 'bgm_M206', 10012101, 10012101);
+insert into hatsune_map values (10013, 10013, '馬納歷亞', 10013, 'bgm_M215', 'bgm_M215', 10013101, 10013101);
+insert into hatsune_map values (10014, 10014, '塔爾格姆地區', 10014, 'bgm_M32', 'bgm_M32', 10014101, 10014101);
+insert into hatsune_map values (10015, 10015, '大江戶大街', 10015, 'bgm_M189', 'bgm_M189', 10015101, 10015101);

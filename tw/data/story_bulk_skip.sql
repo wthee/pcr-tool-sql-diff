@@ -1,0 +1,2 @@
+CREATE TABLE 'story_bulk_skip' ('bulk_skip_id' INTEGER NOT NULL, 'story_id_from' INTEGER NOT NULL, 'story_id_to' INTEGER NOT NULL, 'release_level' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'balloon_sprite_name' TEXT NOT NULL, 'label_sprite_name' TEXT NOT NULL, 'button_sprite_name' TEXT NOT NULL, PRIMARY KEY('bulk_skip_id'));
+insert into story_bulk_skip values (1, 2001000, 2116099, 50, '2023/09/15 16:00:00', 'balloon_story_2nd_16_skip', 'common_label_release_2_16_skip', 'common_btn_2_16_skip');

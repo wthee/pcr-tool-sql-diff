@@ -1,0 +1,12 @@
+CREATE TABLE 'chara_fortune_schedule' ('fortune_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('fortune_id'));
+insert into chara_fortune_schedule values (10000, '1st Anniversary 特殊登入獎勵', '2019/08/01 05:00:00', '2019/08/15 04:59:00');
+insert into chara_fortune_schedule values (10002, '1.5週年登入禮', '2020/01/21 05:00:00', '2020/02/07 04:59:59');
+insert into chara_fortune_schedule values (10003, '2nd Anniversary 特殊登入獎勵', '2020/06/22 05:00:00', '2020/07/08 04:59:59');
+insert into chara_fortune_schedule values (10004, '2.5 Anniversary 特殊登入獎勵', '2021/02/09 05:00:00', '2021/02/26 04:59:59');
+insert into chara_fortune_schedule values (10005, '3rd Anniversary 特殊登入獎勵', '2021/08/01 05:00:00', '2021/08/15 04:59:59');
+insert into chara_fortune_schedule values (10006, '3.5 Anniversary 特殊登入獎勵', '2022/02/01 05:00:00', '2022/02/18 04:59:59');
+insert into chara_fortune_schedule values (10007, '4th Anniversary 特殊登入獎勵', '2022/08/01 05:00:00', '2022/08/15 04:59:59');
+insert into chara_fortune_schedule values (10008, '4.5 Year Anniversary 特殊登入獎勵', '2023/01/20 05:00:00', '2023/02/06 04:59:59');
+insert into chara_fortune_schedule values (10009, '5th Anniversary 特殊登入獎勵', '2023/08/01 05:00:00', '2023/08/15 04:59:59');
+insert into chara_fortune_schedule values (10010, '5.5 Year Anniversary 特殊登入獎勵', '2024/02/07 05:00:00', '2024/02/24 04:59:59');
+insert into chara_fortune_schedule values (10011, '6th Anniversary 特殊登入獎勵', '2024/08/01 05:00:00', '2024/08/16 04:59:59');

@@ -1,0 +1,10 @@
+CREATE TABLE 'nyd_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'is_first' INTEGER NOT NULL, 'nyd_story_type' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+insert into nyd_story_data values (5134061, 10134, '初音的初夢', 1, 2, 8, 91002, 40);
+insert into nyd_story_data values (5134062, 10134, '祈梨的初夢', 0, 2, 8, 91002, 40);
+insert into nyd_story_data values (5134063, 10134, '霞的初夢', 0, 2, 8, 91002, 40);
+insert into nyd_story_data values (5134064, 10134, '鈴的初夢', 0, 2, 8, 91002, 40);
+insert into nyd_story_data values (5134065, 10134, '栞的初夢', 0, 2, 8, 91002, 40);
+insert into nyd_story_data values (5134066, 10134, '深月的初夢', 0, 2, 8, 91002, 40);
+insert into nyd_story_data values (5134067, 10134, '惠理子的初夢', 0, 2, 8, 91002, 40);
+insert into nyd_story_data values (5134601, 10134, '序幕', 1, 1, 0, 0, 0);
+insert into nyd_story_data values (5134602, 10134, '終幕', 0, 3, 0, 0, 0);

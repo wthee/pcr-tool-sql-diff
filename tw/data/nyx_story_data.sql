@@ -1,0 +1,16 @@
+CREATE TABLE 'nyx_story_data' ('story_id' INTEGER NOT NULL, 'story_seq' INTEGER NOT NULL, 'story_phase' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'sub_title' TEXT NOT NULL, 'read_condition_time' TEXT NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_boss_count' INTEGER NOT NULL, 'adv_flg' INTEGER NOT NULL, 'adv_id' INTEGER NOT NULL, PRIMARY KEY('story_id'));
+insert into nyx_story_data values (11, 1, 1, '', '', '0', 20023105, 0, 1, 5038600);
+insert into nyx_story_data values (12, 2, 1, '高中部1年級\u3000琪愛兒', '理應繼承至次世代的新語言', '0', 20023105, 0, 0, 0);
+insert into nyx_story_data values (13, 3, 1, '高中部2年級\u3000克蘿依', '我超級不會寫作文', '0', 20023107, 0, 0, 0);
+insert into nyx_story_data values (14, 4, 1, '高中部3年級\u3000優妮', '直至飛翔為止', '0', 20023109, 0, 0, 0);
+insert into nyx_story_data values (21, 5, 2, '', '', '0', 20023111, 0, 2, 5038601);
+insert into nyx_story_data values (22, 6, 2, '紀錄人\u3000秋乃', '靈光一閃了呢！', '0', 20023111, 0, 0, 0);
+insert into nyx_story_data values (23, 7, 2, '紀錄人\u3000珠希', '組合喵！', '0', 20023112, 0, 0, 0);
+insert into nyx_story_data values (24, 8, 2, '紀錄人\u3000優花梨', '我寫過這種東西嗎…？', '0', 20023113, 0, 0, 0);
+insert into nyx_story_data values (25, 9, 2, '紀錄人\u3000美冬', '不能放任繼續這樣下去了', '0', 20023114, 0, 0, 0);
+insert into nyx_story_data values (26, 10, 2, '總結', '特別講座結束了', '0', 20023115, 0, 0, 0);
+insert into nyx_story_data values (31, 11, 3, '', '', '0', 20023115, 1, 2, 5038602);
+insert into nyx_story_data values (32, 12, 3, '浪漫繼承計畫', '開發記—考察', '0', 20023115, 1, 0, 0);
+insert into nyx_story_data values (33, 13, 3, '彌補不足計畫', '開發記—試作機完成', '0', 20023115, 2, 0, 0);
+insert into nyx_story_data values (34, 14, 3, '畫龍點睛計畫', '開發記—最終工程', '0', 20023115, 3, 0, 0);
+insert into nyx_story_data values (35, 15, 3, '', '', '2022/05/25 16:00:00', 20023115, 3, 3, 5038603);

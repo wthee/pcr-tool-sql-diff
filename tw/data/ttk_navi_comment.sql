@@ -1,0 +1,14 @@
+CREATE TABLE 'ttk_navi_comment' ('comment_id' INTEGER NOT NULL, 'where_type' INTEGER NOT NULL, 'character_id' INTEGER NOT NULL, 'face_type' INTEGER NOT NULL, 'character_name' TEXT NOT NULL, 'description' TEXT , 'voice_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'pos_x' REAL NOT NULL, 'pos_y' REAL NOT NULL, 'change_face_time' REAL NOT NULL, 'change_face_type' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, PRIMARY KEY('comment_id'));
+insert into ttk_navi_comment values (24001, 24, 102601, 1, '鈴', '就算是我\\n該做的時候還是會做的！', 0, '2020/08/01 16:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 0.0, 1, 10040);
+insert into ttk_navi_comment values (24002, 24, 102601, 1, '鈴', '呼…\\n這樣子我的工作\\n就結束了呢', 1, '2020/08/01 16:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 0.0, 1, 10040);
+insert into ttk_navi_comment values (24003, 24, 102601, 1, '鈴', '結束了結束了\\n即使一個人\\n也會有辦法的', 2, '2020/08/01 16:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 0.0, 1, 10040);
+insert into ttk_navi_comment values (24004, 24, 102601, 2, '鈴', '太棒了！\\n這麼一來\\n我終於可以偷懶了…', 3, '2020/08/01 16:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 0.0, 2, 10040);
+insert into ttk_navi_comment values (24005, 24, 102601, 1, '鈴', '想要吃起司的話\\n就好好工作\\n自己買來吃啦', 4, '2020/08/01 16:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 0.0, 1, 10040);
+insert into ttk_navi_comment values (24006, 24, 102601, 2, '鈴', '你們終於知道\\n與我為敵的\\n恐怖了吧！', 5, '2020/08/01 16:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 0.0, 2, 10040);
+insert into ttk_navi_comment values (24007, 24, 102601, 2, '鈴', '我意外地\\n還蠻行的嘛？', 6, '2020/08/01 16:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 0.0, 2, 10040);
+insert into ttk_navi_comment values (24008, 24, 102601, 4, '鈴', '好累喔…\\n老鼠逃跑的速度\\n實在太快了啦…', 7, '2020/08/01 16:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 0.0, 4, 10040);
+insert into ttk_navi_comment values (24009, 24, 102601, 4, '鈴', '再這樣下去\\n會被\\n真陽罵的', 8, '2020/08/01 16:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 0.0, 4, 10040);
+insert into ttk_navi_comment values (24010, 24, 102601, 4, '鈴', '我明明\\n就很認真做啊…\\n真不甘心～', 9, '2020/08/01 16:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 0.0, 4, 10040);
+insert into ttk_navi_comment values (24011, 24, 102601, 4, '鈴', '被擺了一道…\\n老鼠還真是意外的\\n難纏啊', 10, '2020/08/01 16:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 0.0, 4, 10040);
+insert into ttk_navi_comment values (24012, 24, 102601, 4, '鈴', '你這傢伙～\\n竟然敢偷\\n我的起司～！', 11, '2020/08/01 16:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 0.0, 4, 10040);
+insert into ttk_navi_comment values (24013, 24, 102601, 4, '鈴', '好累喔…\\n不過，下次\\n我一定會守住的…', 12, '2020/08/01 16:00:00', '2030/12/17 14:59:59', 0.0, 0.0, 1.81, 1, 10040);

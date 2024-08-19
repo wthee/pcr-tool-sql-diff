@@ -1,0 +1,16 @@
+CREATE TABLE 'pct_reward' ('id' INTEGER NOT NULL, 'pct_point_type' INTEGER NOT NULL, 'pct_point' INTEGER NOT NULL, 'mission_detail' TEXT NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_count_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_count_2' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_count_3' INTEGER NOT NULL, 'reward_type_4' INTEGER NOT NULL, 'reward_id_4' INTEGER NOT NULL, 'reward_count_4' INTEGER NOT NULL, 'reward_type_5' INTEGER NOT NULL, 'reward_id_5' INTEGER NOT NULL, 'reward_count_5' INTEGER NOT NULL, PRIMARY KEY('id'));
+insert into pct_reward values (1, 2, 10000, '幫忙靜流時獲得 10000pt', 12, 94002, 5000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pct_reward values (2, 2, 20000, '幫忙靜流時獲得 20000pt', 12, 94002, 10000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pct_reward values (3, 2, 30000, '幫忙靜流時獲得 30000pt', 8, 91002, 50, 2, 23001, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pct_reward values (4, 1, 10000, '幫忙惠理子時獲得 10000pt', 12, 94002, 5000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pct_reward values (5, 1, 20000, '幫忙惠理子時獲得 20000pt', 12, 94002, 10000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pct_reward values (6, 1, 30000, '幫忙惠理子時獲得 30000pt', 8, 91002, 50, 2, 23001, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pct_reward values (7, 0, 70000, '幫忙兩人合計獲得 70000pt', 12, 94002, 15000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pct_reward values (8, 0, 80000, '幫忙兩人合計獲得 80000pt', 12, 94002, 20000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pct_reward values (9, 0, 90000, '幫忙兩人合計獲得 90000pt', 12, 94002, 25000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pct_reward values (10, 0, 100000, '幫忙兩人合計獲得 100000pt', 12, 94002, 30000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pct_reward values (11, 0, 110000, '幫忙兩人合計獲得 110000pt', 12, 94002, 35000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pct_reward values (12, 0, 120000, '幫忙兩人合計獲得 120000pt', 12, 94002, 40000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pct_reward values (13, 0, 130000, '幫忙兩人合計獲得 130000pt', 12, 94002, 45000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pct_reward values (14, 0, 150000, '幫忙兩人合計獲得 150000pt', 12, 94002, 50000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into pct_reward values (15, 0, 200000, '幫忙兩人合計獲得 200000pt', 7, 1113, 1, 8, 91002, 150, 2, 23001, 10, 0, 0, 0, 0, 0, 0);

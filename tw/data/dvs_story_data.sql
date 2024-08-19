@@ -1,0 +1,14 @@
+CREATE TABLE 'dvs_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'sub_title' TEXT NOT NULL, 'detail_title' TEXT NOT NULL, 'detail_description' TEXT NOT NULL, 'dvs_story_type' INTEGER NOT NULL, 'is_last' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_count_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_count_2' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+insert into dvs_story_data values (5118061, 10118, '與貪吃佩可的相遇', '在藍天下的謁見', '跳蚤市場會場', '吉塔去到跳蚤市場，\\n遇見了從城裡偷溜出來的貪吃佩可。', 2, 0, 0, 7, 2834, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118062, 10118, '與真步的相遇', '未來的騎空團\\n吉祥物？', '跳蚤市場會場', '吉塔等人在逛跳蚤市場之際，\\n出來擺攤的真步叫住他們。', 2, 0, 0, 7, 2835, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118063, 10118, '與秋乃的相遇', '來自大小姐的\\n緊急委託', '蘭德索爾市中心', '吉塔在確認要給騎空團的委託時，\\n揚聲高笑的秋乃現身。', 2, 0, 0, 7, 2837, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118064, 10118, '與純的相遇', '金黃色的煩惱', '跳蚤市場會場', '吉塔等人在跳蚤市場會場\\n看到略顯困擾的純。', 2, 0, 0, 18, 4108402, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118065, 10118, '與香織的相遇', '白熱化！格鬥大會！', '跳蚤市場會場', '在跳蚤市場一角舉行的格鬥大會──\\n香織她人也在那裡……？', 2, 0, 0, 18, 4107402, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118066, 10118, '與妮諾的相遇', '祭典太鼓是大江戶之花', '大江戶町', '正在準備太鼓祭典的大江戶町──\\n吉塔遇見看似一臉困擾的妮諾。', 2, 1, 0, 16, 9000227, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118067, 10118, '與鈴奈的相遇', '受歡迎的人\\n總是姍姍來遲', '跳蚤市場會場', '碧卡拉看到參與活動演出的鈴奈。\\n不過，鈴奈看起來好像很困擾的樣子……？', 3, 0, 0, 19, 2101181, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118068, 10118, '與七七香的相遇', '當巫女遇上魔法少女', '蘭德索爾市中心', '碧卡拉等人在街上散步時，\\n路過的七七香一臉興奮地靠了過來……？', 3, 0, 0, 18, 4109402, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118069, 10118, '與凱留＆可可蘿的相遇', '老鼠耳朵再次消失', '跳蚤市場會場', '碧卡拉因為鼠耳不見了而感到絕望。同一時段，\\n凱留和可可蘿撿到了有人掉在路上的東西……', 3, 0, 0, 18, 4305402, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118070, 10118, '與優花梨的相遇', '為這次的相遇乾杯！', '蘭德索爾市中心', '在郊外休息片刻的碧卡拉等人，\\n遇見超級好心情的優花梨。', 3, 0, 0, 18, 4101402, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118071, 10118, '與碧的相遇', '陰陽合奏', '蘭德索爾市中心', '碧卡拉擔心著害怕混雜人群的碧，\\n開朗地向她搭話……', 3, 0, 0, 18, 4106402, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118072, 10118, '與忍的相遇', '試手氣十戰決勝負！', '跳蚤市場會場', '碧卡拉走過跳蚤市場會場，\\n正在占卜的忍出聲喊住她。', 3, 1, 0, 7, 2836, 1, 8, 91002, 40);
+insert into dvs_story_data values (5118600, 10118, '序幕', '她們的嶄新日常', '0', '0', 1, 0, 10118115, 0, 0, 0, 0, 0, 0);

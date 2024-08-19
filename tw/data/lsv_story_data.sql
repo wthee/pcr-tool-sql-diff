@@ -1,0 +1,16 @@
+CREATE TABLE 'lsv_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'time_condition' TEXT NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'read_event_story_id' INTEGER NOT NULL, 'read_condition' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+insert into lsv_story_data values (1009801, 10098, '小繆快快長大日記之一', '2022/12/01 16:00:00', 10125103, 0, 0);
+insert into lsv_story_data values (1009802, 10098, '小繆快快長大日記之二', '2022/12/01 16:00:00', 0, 5098001, 1009801);
+insert into lsv_story_data values (1009803, 10098, '小繆快快長大日記之三', '2022/12/02 05:00:00', 0, 5098002, 1009802);
+insert into lsv_story_data values (1009804, 10098, '小繆快快長大日記之四', '2022/12/03 05:00:00', 0, 5098002, 1009803);
+insert into lsv_story_data values (1009805, 10098, '小繆快快長大日記之五', '2022/12/04 05:00:00', 0, 5098002, 1009804);
+insert into lsv_story_data values (1009806, 10098, '小繆快快長大日記之六', '2022/12/05 05:00:00', 0, 5098002, 1009805);
+insert into lsv_story_data values (1009807, 10098, '小繆快快長大日記之七', '2022/12/06 05:00:00', 0, 5098003, 1009806);
+insert into lsv_story_data values (1009808, 10098, '小繆快快長大日記之八', '2022/12/07 05:00:00', 0, 5098003, 1009807);
+insert into lsv_story_data values (1009809, 10098, '小繆快快長大日記之九', '2022/12/08 05:00:00', 0, 5098004, 1009808);
+insert into lsv_story_data values (1009810, 10098, '小繆快快長大日記之十', '2022/12/09 05:00:00', 0, 5098005, 1009809);
+insert into lsv_story_data values (1009811, 10098, '小繆快快長大日記之十一', '2022/12/10 05:00:00', 0, 5098005, 1009810);
+insert into lsv_story_data values (1009812, 10098, '小繆快快長大日記之十二', '2022/12/11 05:00:00', 0, 5098005, 1009811);
+insert into lsv_story_data values (1009813, 10098, '小繆快快長大日記之十三', '2022/12/12 05:00:00', 0, 5098005, 1009812);
+insert into lsv_story_data values (1009814, 10098, '小繆快快長大日記之十四', '2022/12/13 05:00:00', 0, 5098006, 1009813);
+insert into lsv_story_data values (1009815, 10098, '小繆快快長大日記之十五', '2022/12/15 05:00:00', 0, 5098007, 1009814);

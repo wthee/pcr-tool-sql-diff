@@ -1,0 +1,16 @@
+CREATE TABLE 'fke_reward' ('id' INTEGER NOT NULL, 'fke_point' INTEGER NOT NULL, 'mission_detail' TEXT NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_count_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_count_2' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_count_3' INTEGER NOT NULL, 'reward_type_4' INTEGER NOT NULL, 'reward_id_4' INTEGER NOT NULL, 'reward_count_4' INTEGER NOT NULL, 'reward_type_5' INTEGER NOT NULL, 'reward_id_5' INTEGER NOT NULL, 'reward_count_5' INTEGER NOT NULL, PRIMARY KEY('id'));
+insert into fke_reward values (1, 2000, '用空花大旋轉飛行共2000ｍ吧', 12, 94002, 5000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into fke_reward values (2, 4000, '用空花大旋轉飛行共4000ｍ吧', 12, 94002, 10000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into fke_reward values (3, 6000, '用空花大旋轉飛行共6000ｍ吧', 12, 94002, 15000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into fke_reward values (4, 8000, '用空花大旋轉飛行共8000ｍ吧', 12, 94002, 20000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into fke_reward values (5, 10000, '用空花大旋轉飛行共10000ｍ吧', 8, 91002, 50, 2, 23001, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into fke_reward values (6, 12000, '用空花大旋轉飛行共12000ｍ吧', 12, 94002, 25000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into fke_reward values (7, 14000, '用空花大旋轉飛行共14000ｍ吧', 12, 94002, 30000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into fke_reward values (8, 16000, '用空花大旋轉飛行共16000ｍ吧', 12, 94002, 35000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into fke_reward values (9, 18000, '用空花大旋轉飛行共18000ｍ吧', 12, 94002, 40000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into fke_reward values (10, 20000, '用空花大旋轉飛行共20000ｍ吧', 8, 91002, 50, 2, 23001, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into fke_reward values (11, 22000, '用空花大旋轉飛行共22000ｍ吧', 12, 94002, 55000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into fke_reward values (12, 24000, '用空花大旋轉飛行共24000ｍ吧', 12, 94002, 35000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into fke_reward values (13, 26000, '用空花大旋轉飛行共26000ｍ吧', 12, 94002, 40000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into fke_reward values (14, 28000, '用空花大旋轉飛行共28000ｍ吧', 12, 94002, 45000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into fke_reward values (15, 30000, '用空花大旋轉飛行共30000ｍ吧', 7, 1405, 1, 8, 91002, 150, 2, 23001, 10, 0, 0, 0, 0, 0, 0);

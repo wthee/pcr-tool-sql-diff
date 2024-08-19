@@ -1,0 +1,18 @@
+CREATE TABLE 'mhp_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'sub_title' TEXT NOT NULL, 'unit_id' INTEGER NOT NULL, 'read_condition_time' TEXT NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_boss_id' INTEGER NOT NULL, 'read_condition' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+insert into mhp_story_data values (1007401, 10074, '年輕與低燒', '優衣的病歷\u3000其一', 100201, '2022/01/03 12:00:00', 20041106, 0, 0, 8, 91002, 20);
+insert into mhp_story_data values (1007402, 10074, '感受內心的激烈鼓動', '優衣的病歷\u3000其二', 100201, '2022/01/03 12:00:00', 20041112, 0, 1007401, 8, 91002, 20);
+insert into mhp_story_data values (1007403, 10074, '心煩意亂的病名是', '優衣的病歷\u3000其三', 100201, '2022/01/05 05:00:00', 20041115, 0, 1007402, 8, 91002, 30);
+insert into mhp_story_data values (1007404, 10074, '預料之外的訪客', '優妮的病歷\u3000其一', 111001, '2022/01/03 12:00:00', 20041106, 0, 0, 8, 91002, 20);
+insert into mhp_story_data values (1007405, 10074, '服藥的時間', '優妮的病歷\u3000其二', 111001, '2022/01/03 12:00:00', 20041112, 0, 1007404, 8, 91002, 20);
+insert into mhp_story_data values (1007406, 10074, '致親愛的你', '優妮的病歷\u3000其三', 111001, '2022/01/06 05:00:00', 20041115, 0, 1007405, 8, 91002, 30);
+insert into mhp_story_data values (1007407, 10074, '奇妙的外來患者', '鈴莓的病歷\u3000其一', 102501, '2022/01/03 12:00:00', 20041108, 0, 0, 8, 91002, 20);
+insert into mhp_story_data values (1007408, 10074, '可怕的病症', '鈴莓的病歷\u3000其二', 102501, '2022/01/03 12:00:00', 20041114, 0, 1007407, 8, 91002, 20);
+insert into mhp_story_data values (1007409, 10074, '現代醫學的極限', '鈴莓的病歷\u3000其三', 102501, '2022/01/07 05:00:00', 20041115, 0, 1007408, 8, 91002, 30);
+insert into mhp_story_data values (1007410, 10074, '統御黑夜之人的苦難', '伊莉亞的病歷\u3000其一', 104401, '2022/01/03 12:00:00', 20041108, 0, 0, 8, 91002, 20);
+insert into mhp_story_data values (1007411, 10074, '美麗計畫', '伊莉亞的病歷\u3000其二', 104401, '2022/01/03 12:00:00', 20041114, 0, 1007410, 8, 91002, 20);
+insert into mhp_story_data values (1007412, 10074, '華麗課程', '伊莉亞的病歷\u3000其三', 104401, '2022/01/08 05:00:00', 20041115, 0, 1007411, 8, 91002, 30);
+insert into mhp_story_data values (1007413, 10074, '不可視之敵', '杏奈的病歷\u3000其一', 100901, '2022/01/03 12:00:00', 20041110, 0, 0, 8, 91002, 20);
+insert into mhp_story_data values (1007414, 10074, '被封印的魔法', '杏奈的病歷\u3000其二', 100901, '2022/01/03 12:00:00', 0, 2004101, 1007413, 8, 91002, 20);
+insert into mhp_story_data values (1007415, 10074, '獨眼惡魔的特別治療', '杏奈的病歷\u3000其三', 100901, '2022/01/09 05:00:00', 0, 2004101, 1007414, 8, 91002, 30);
+insert into mhp_story_data values (1007416, 10074, '骷髏驚喜', '忍的病歷\u3000其一', 103101, '2022/01/03 12:00:00', 20041110, 0, 0, 8, 91002, 20);
+insert into mhp_story_data values (1007417, 10074, '向迷惘少女伸出援手', '忍的病歷\u3000其二', 103101, '2022/01/05 05:00:00', 0, 2004101, 1007416, 8, 91002, 30);

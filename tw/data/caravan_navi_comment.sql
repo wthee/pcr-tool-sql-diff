@@ -1,0 +1,17 @@
+CREATE TABLE 'caravan_navi_comment' ('comment_id' INTEGER NOT NULL, 'where_type' INTEGER NOT NULL, 'character_id' INTEGER NOT NULL, 'face_type' INTEGER NOT NULL, 'character_name' TEXT NOT NULL, 'description' TEXT , 'voice_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'pos_x' REAL NOT NULL, 'pos_y' REAL NOT NULL, 'change_face_time' REAL NOT NULL, 'change_face_type' INTEGER NOT NULL, 'season_id' INTEGER NOT NULL, PRIMARY KEY('comment_id'));
+insert into caravan_navi_comment values (10001, 2002, 126401, 2, '克蘿茜', '歡迎光臨♪\\n可以利用巡遊幣\\n來購物喔！', 1, '2023/11/01 16:00:00', '2024/01/16 15:59:59', -470.0, 0.0, 1.47, 1, 1);
+insert into caravan_navi_comment values (10002, 2002, 126401, 1, '克蘿茜', '這邊有許多很棒的商品\\n還請在這裡\\n盡情購買喔♪', 2, '2023/11/01 16:00:00', '2024/01/16 15:59:59', -470.0, 0.0, 2.15, 2, 1);
+insert into caravan_navi_comment values (10003, 2002, 126501, 2, '萊拉耶爾', '歡迎來到商店\\n在這裡可以使用巡遊幣\\n來進行購物喔', 1, '2023/11/01 16:00:00', '2024/01/16 15:59:59', -470.0, 0.0, 0.0, 2, 1);
+insert into caravan_navi_comment values (10004, 2002, 126501, 1, '萊拉耶爾', '還請在此商店\\n購買東西，\\n享受愉快的旅途吧', 2, '2023/11/01 16:00:00', '2024/01/16 15:59:59', -470.0, 0.0, 0.0, 1, 1);
+insert into caravan_navi_comment values (10005, 2002, 127702, 2, '琳德', '歡迎光臨\\n可以利用巡遊幣\\n來買東西喔', 1, '2024/01/16 16:00:00', '2024/04/23 15:59:59', -470.0, 0.0, 0.0, 2, 2);
+insert into caravan_navi_comment values (10006, 2002, 127702, 2, '琳德', '商店內都打掃乾淨了\\n作為公主殿下直屬的商店\\n這點小事也是理所當然的', 2, '2024/01/16 16:00:00', '2024/04/23 15:59:59', -470.0, 0.0, 0.0, 2, 2);
+insert into caravan_navi_comment values (10007, 2002, 127802, 1, '烏爾姆', '歡迎來到商店\\n可以利用巡遊幣交換物品\\n如果可以的話，還請蒞臨使用', 1, '2024/01/16 16:00:00', '2024/04/23 15:59:59', -470.0, 0.0, 0.0, 1, 2);
+insert into caravan_navi_comment values (10008, 2002, 127802, 1, '烏爾姆', '為什麼要來看店…\\n算了，我做就是了\\n請選擇喜歡的東西吧', 2, '2024/01/16 16:00:00', '2024/04/23 15:59:59', -470.0, 0.0, 6.5, 2, 2);
+insert into caravan_navi_comment values (10009, 2002, 129602, 1, '安涅默涅', '──歡迎光臨\\n要買東西也可以\\n只要有足夠的巡遊幣', 1, '2024/04/16 16:00:00', '2024/07/23 15:59:59', -470.0, 0.0, 0.0, 2, 3);
+insert into caravan_navi_comment values (10010, 2002, 129602, 1, '安涅默涅', '──想看我多笑一點？\\n這世上可是有花多少錢也買不到的東西', 2, '2024/04/16 16:00:00', '2024/07/23 15:59:59', -470.0, 0.0, 0.0, 2, 3);
+insert into caravan_navi_comment values (10011, 2002, 129701, 1, '涅妃‧涅羅', '歡迎光臨\\n用巡遊幣在這裡進行交換吧', 1, '2024/04/16 16:00:00', '2024/07/23 15:59:59', -470.0, 0.0, 0.0, 1, 3);
+insert into caravan_navi_comment values (10012, 2002, 129701, 1, '涅妃‧涅羅', '話說回來，\\n要花多少錢才能買到你呢？\\n──呵呵，開玩笑的', 2, '2024/04/16 16:00:00', '2024/07/23 15:59:59', -470.0, 0.0, 6.2, 2, 3);
+insert into caravan_navi_comment values (10013, 2002, 130301, 5, '華音', '歡、歡迎光臨！\\n……唔……本小姐\\n竟然要顧店……真是屈辱。', 1, '2024/07/16 16:00:00', '2024/10/23 15:59:59', -470.0, 0.0, 3.1, 3, 4);
+insert into caravan_navi_comment values (10014, 2002, 130301, 2, '華音', '哎呀，你需要我嗎？\\n真遺憾，用那點錢\\n……就可以買了嗎！？', 2, '2024/07/16 16:00:00', '2024/10/23 15:59:59', -470.0, 0.0, 6.15, 3, 4);
+insert into caravan_navi_comment values (10015, 2002, 130401, 2, '拿娜', '歡迎光臨～♪\\n聽說可以交換\\n巡遊幣──？', 1, '2024/07/16 16:00:00', '2024/10/23 15:59:59', -470.0, 0.0, 0.0, 2, 4);
+insert into caravan_navi_comment values (10016, 2002, 130401, 1, '拿娜', '要是給我甜食，\\n就給你拿娜撿到的\\n松果作為謝禮喔！', 2, '2024/07/16 16:00:00', '2024/10/23 15:59:59', -470.0, 0.0, 3.35, 2, 4);

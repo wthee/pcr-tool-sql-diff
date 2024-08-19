@@ -1,0 +1,11 @@
+CREATE TABLE 'caravan_event_effect' ('event_id' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'effect_type' INTEGER NOT NULL, 'effect_value' INTEGER NOT NULL, 'effect_turn' INTEGER NOT NULL, 'effect_times' INTEGER NOT NULL, 'category' INTEGER NOT NULL, PRIMARY KEY('event_id'));
+insert into caravan_event_effect values (1, '獲得料理活動', 1, 3, 0, 0, 0);
+insert into caravan_event_effect values (2, '獲得骰子活動1', 2, 1, 0, 0, 0);
+insert into caravan_event_effect values (3, '獲得骰子活動2', 2, 2, 0, 0, 0);
+insert into caravan_event_effect values (4, '跳過計算回合數', 3, 0, 1, 0, 3);
+insert into caravan_event_effect values (5, '里程+100%', 4, 100, 0, 1, 2);
+insert into caravan_event_effect values (6, '小遊戲里程+100%', 5, 100, 0, 1, 2);
+insert into caravan_event_effect values (7, '商店打折活動', 6, 300, 0, 1, 3);
+insert into caravan_event_effect values (98001, '跳過計算回合數1', 3, 0, 2, 0, 3);
+insert into caravan_event_effect values (98011, '跳過計算回合數1', 3, 0, 1, 0, 3);
+insert into caravan_event_effect values (98012, '跳過計算回合數2', 3, 0, 2, 0, 3);

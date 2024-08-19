@@ -1,0 +1,10 @@
+CREATE TABLE 'custom_mypage_group' ('group_id' INTEGER NOT NULL, 'group_name' TEXT NOT NULL, PRIMARY KEY('group_id'));
+insert into custom_mypage_group values (20001, '公主連結！Re:Dive 3周年紀念');
+insert into custom_mypage_group values (20003, '公主連結！Re:Dive 3.5周年紀念');
+insert into custom_mypage_group values (20004, '公主連結！Re:Dive 4周年紀念');
+insert into custom_mypage_group values (20005, '公主連結！Re:Dive 4.5周年紀念');
+insert into custom_mypage_group values (20006, '公主連結！Re:Dive 5周年紀念');
+insert into custom_mypage_group values (20007, '公主連結！Re:Dive 6周年紀念');
+insert into custom_mypage_group values (30001, '小遊戲‧迷你內容');
+insert into custom_mypage_group values (40001, '大家的日曆');
+insert into custom_mypage_group values (40004, '2024年情人節紀念');

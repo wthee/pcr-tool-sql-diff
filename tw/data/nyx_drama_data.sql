@@ -1,0 +1,11 @@
+CREATE TABLE 'nyx_drama_data' ('drama_id' INTEGER NOT NULL, 'story_phase' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'sub_title' TEXT NOT NULL, 'condition_unlocked_story_id' INTEGER NOT NULL, 'condition_locked_story_id' INTEGER NOT NULL, PRIMARY KEY('drama_id'));
+insert into nyx_drama_data values (101, 1, '特別講座發表報告', '切嚕嚕衝擊', 12, 13);
+insert into nyx_drama_data values (102, 1, '特別講座發表報告', '克蘿依明察秋毫', 13, 14);
+insert into nyx_drama_data values (103, 1, '特別講座發表報告', '消失吧學姐架子', 14, 22);
+insert into nyx_drama_data values (201, 2, '墨丘利財團活動日誌', '秋乃的領導力', 22, 23);
+insert into nyx_drama_data values (202, 2, '墨丘利財團活動日誌', '燃燒吧鯛魚燒之魂', 23, 24);
+insert into nyx_drama_data values (203, 2, '墨丘利財團活動日誌', '麥酒沒有不可能', 24, 25);
+insert into nyx_drama_data values (204, 2, '墨丘利財團活動日誌', '美冬的1日說教課程', 25, 32);
+insert into nyx_drama_data values (301, 3, '優妮的筆記本', '起泡與生菓子的哲學', 32, 33);
+insert into nyx_drama_data values (302, 3, '優妮的筆記本', '不入虎穴', 33, 34);
+insert into nyx_drama_data values (303, 3, '優妮的筆記本', '動作測試與破滅的誘惑', 34, 0);

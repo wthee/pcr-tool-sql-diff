@@ -1,0 +1,16 @@
+CREATE TABLE 'ttk_reward' ('id' INTEGER NOT NULL, 'ttk_score' INTEGER NOT NULL, 'mission_detail' TEXT NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_count_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_count_2' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_count_3' INTEGER NOT NULL, 'reward_type_4' INTEGER NOT NULL, 'reward_id_4' INTEGER NOT NULL, 'reward_count_4' INTEGER NOT NULL, 'reward_type_5' INTEGER NOT NULL, 'reward_id_5' INTEGER NOT NULL, 'reward_count_5' INTEGER NOT NULL, PRIMARY KEY('id'));
+insert into ttk_reward values (1, 32000, '分數累積獲得 32000 分', 12, 94002, 20000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into ttk_reward values (2, 64000, '分數累積獲得 64000 分', 12, 94002, 30000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into ttk_reward values (3, 96000, '分數累積獲得 96000 分', 12, 94002, 40000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into ttk_reward values (4, 128000, '分數累積獲得 128000 分', 12, 94002, 50000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into ttk_reward values (5, 160000, '分數累積獲得 160000 分', 8, 91002, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into ttk_reward values (6, 192000, '分數累積獲得 192000 分', 15, 11001071, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into ttk_reward values (7, 224000, '分數累積獲得 224000 分', 2, 23001, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into ttk_reward values (8, 256000, '分數累積獲得 256000 分', 8, 91002, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into ttk_reward values (9, 288000, '分數累積獲得 288000 分', 12, 94002, 70000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into ttk_reward values (10, 320000, '分數累積獲得 320000 分', 12, 94002, 80000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into ttk_reward values (11, 352000, '分數累積獲得 352000 分', 8, 91002, 75, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into ttk_reward values (12, 384000, '分數累積獲得 384000 分', 12, 94002, 100000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into ttk_reward values (13, 416000, '分數累積獲得 416000 分', 2, 23001, 45, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into ttk_reward values (14, 448000, '分數累積獲得 448000 分', 8, 91002, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+insert into ttk_reward values (15, 480000, '分數累積獲得 480000 分', 15, 11001072, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);

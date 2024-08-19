@@ -1,0 +1,10 @@
+CREATE TABLE 'secret_dungeon_schedule' ('dungeon_area_id' INTEGER NOT NULL, 'teaser_time' TEXT NOT NULL, 'start_time' TEXT NOT NULL, 'count_start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'close_time' TEXT NOT NULL, PRIMARY KEY('dungeon_area_id'));
+insert into secret_dungeon_schedule values (32001, '2022/10/05 16:00:00', '2022/10/07 05:00:00', '2022/10/11 04:59:59', '2022/10/12 04:59:59', '2022/10/15 14:59:59');
+insert into secret_dungeon_schedule values (32002, '2022/12/07 16:00:00', '2022/12/09 05:00:00', '2022/12/13 04:59:59', '2022/12/14 04:59:59', '2022/12/17 14:59:59');
+insert into secret_dungeon_schedule values (32003, '2023/02/08 16:00:00', '2023/02/10 05:00:00', '2023/02/14 04:59:59', '2023/02/15 04:59:59', '2023/02/18 14:59:59');
+insert into secret_dungeon_schedule values (32004, '2023/04/05 16:00:00', '2023/04/07 05:00:00', '2023/04/11 04:59:59', '2023/04/12 04:59:59', '2023/04/15 14:59:59');
+insert into secret_dungeon_schedule values (32005, '2023/06/16 16:00:00', '2023/06/19 05:00:00', '2023/06/23 04:59:59', '2023/06/24 04:59:59', '2023/06/27 14:59:59');
+insert into secret_dungeon_schedule values (32006, '2023/09/05 16:00:00', '2023/09/08 05:00:00', '2023/09/12 04:59:59', '2023/09/13 04:59:59', '2023/09/16 14:59:59');
+insert into secret_dungeon_schedule values (32007, '2023/12/08 16:00:00', '2023/12/11 05:00:00', '2023/12/15 04:59:59', '2023/12/16 04:59:59', '2023/12/19 14:59:59');
+insert into secret_dungeon_schedule values (32008, '2024/03/05 16:00:00', '2024/03/08 05:00:00', '2024/03/12 04:59:59', '2024/03/13 04:59:59', '2024/03/16 14:59:59');
+insert into secret_dungeon_schedule values (32009, '2024/06/04 16:00:00', '2024/06/07 05:00:00', '2024/06/11 04:59:59', '2024/06/12 04:59:59', '2024/06/15 14:59:59');

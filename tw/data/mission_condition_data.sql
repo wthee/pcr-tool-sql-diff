@@ -1,0 +1,12 @@
+CREATE TABLE 'mission_condition_data' ('id' INTEGER NOT NULL, 'condition_group_id' INTEGER NOT NULL, 'relation_id' INTEGER NOT NULL, 'condition_value' INTEGER , PRIMARY KEY('id'));
+insert into mission_condition_data values (1, 9040001, 11100, 0);
+insert into mission_condition_data values (2, 9050001, 107101, 5);
+insert into mission_condition_data values (3, 9050001, 108101, 5);
+insert into mission_condition_data values (4, 9050001, 108301, 5);
+insert into mission_condition_data values (5, 9040002, 11100, 0);
+insert into mission_condition_data values (6, 9040003, 11100, 0);
+insert into mission_condition_data values (7, 9010001, 91001, 0);
+insert into mission_condition_data values (8, 9020001, 91001, 0);
+insert into mission_condition_data values (9, 9020001, 91002, 0);
+insert into mission_condition_data values (10, 9040004, 11101, 0);
+insert into mission_condition_data values (11, 9040005, 11102, 0);

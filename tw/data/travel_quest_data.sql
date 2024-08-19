@@ -1,0 +1,15 @@
+CREATE TABLE 'travel_quest_data' ('travel_quest_id' INTEGER NOT NULL, 'travel_area_id' INTEGER NOT NULL, 'travel_quest_name' TEXT NOT NULL, 'limit_unit_num' INTEGER NOT NULL, 'need_power' INTEGER NOT NULL, 'travel_time' INTEGER NOT NULL, 'travel_time_decrease_limit' INTEGER NOT NULL, 'travel_decrease_flag' INTEGER NOT NULL, 'main_reward_1' INTEGER NOT NULL, 'main_reward_2' INTEGER NOT NULL, 'main_reward_3' INTEGER NOT NULL, 'main_reward_4' INTEGER NOT NULL, 'main_reward_5' INTEGER NOT NULL, 'icon_id' INTEGER NOT NULL, 'icon_x' INTEGER NOT NULL, 'icon_y' INTEGER NOT NULL, 'situation_group_id' INTEGER NOT NULL, PRIMARY KEY('travel_quest_id'));
+insert into travel_quest_data values (11001001, 11001, '克梅利亞洞窟', 10, 100000, 43200, 7200, 1, 4101351, 4104351, 4101401, 4104401, 4201401, 11001001, -470, 108, 1);
+insert into travel_quest_data values (11001002, 11001, '盧可拉諾大瀑布', 10, 100000, 43200, 7200, 1, 4106351, 4110351, 4106401, 4110401, 4203401, 11001002, -235, 90, 2);
+insert into travel_quest_data values (11001003, 11001, '艾里巨木', 10, 100000, 43200, 7200, 1, 4102351, 4105351, 4102401, 4105401, 4201401, 11001003, 0, 108, 3);
+insert into travel_quest_data values (11001004, 11001, '伊雷亞溪谷', 10, 100000, 43200, 7200, 1, 4108351, 4109351, 4108401, 4109401, 4203401, 11001004, 235, 90, 4);
+insert into travel_quest_data values (11001005, 11001, '史達爾斷崖', 10, 100000, 43200, 7200, 1, 4103351, 4107351, 4103401, 4107401, 4201401, 11001005, 470, 108, 5);
+insert into travel_quest_data values (11002001, 11002, '阿爾巴岸堤', 10, 100000, 43200, 7200, 1, 4301351, 4101401, 4104401, 4201401, 4301401, 11002003, -470, 108, 6);
+insert into travel_quest_data values (11002002, 11002, '撒達爾史朵\\n沙灘', 10, 100000, 43200, 7200, 1, 4305351, 4106401, 4110401, 4203401, 4305401, 11002002, -235, 90, 7);
+insert into travel_quest_data values (11002003, 11002, '達爾里克\\n巨岩', 10, 100000, 43200, 7200, 1, 4302351, 4102401, 4105401, 4201401, 4302401, 11002001, 0, 108, 8);
+insert into travel_quest_data values (11002004, 11002, '安卡爾川', 10, 100000, 43200, 7200, 1, 4304351, 4108401, 4109401, 4203401, 4304401, 11001005, 235, 90, 9);
+insert into travel_quest_data values (11002005, 11002, '達克比亞\\n森林', 10, 100000, 43200, 7200, 1, 4303351, 4103401, 4107401, 4201401, 4303401, 11001001, 470, 108, 10);
+insert into travel_quest_data values (11003001, 11003, '密瑪斯\\n洞穴', 10, 100000, 43200, 7200, 1, 4201351, 4201401, 4101401, 4104401, 4109401, 11003001, -470, 108, 11);
+insert into travel_quest_data values (11003002, 11003, '雷安特河', 10, 100000, 43200, 7200, 1, 4202351, 4202401, 4108401, 4102401, 4110401, 11003002, -155, 90, 11);
+insert into travel_quest_data values (11003003, 11003, '刻蘭德\\n廢墟', 10, 100000, 43200, 7200, 1, 4203351, 4203401, 4103401, 4105401, 4109401, 11003003, 160, 108, 11);
+insert into travel_quest_data values (11003004, 11003, '迪歐涅加\\n冰海', 10, 100000, 43200, 7200, 1, 4204351, 4204401, 4106401, 4107401, 4110401, 11003004, 470, 90, 11);
