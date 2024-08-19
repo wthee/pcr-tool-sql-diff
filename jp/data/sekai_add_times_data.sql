@@ -1,0 +1,13 @@
+CREATE TABLE 'sekai_add_times_data' ('id' INTEGER NOT NULL, 'add_times' INTEGER NOT NULL, 'add_times_limit' INTEGER NOT NULL, 'duration' INTEGER NOT NULL, 'add_times_time' TEXT NOT NULL, 'sekai_id' INTEGER NOT NULL, PRIMARY KEY('id'));
+insert into sekai_add_times_data values (1, 6, 10, 0, '2020/04/01', 1002);
+insert into sekai_add_times_data values (2, 2, 10, 120, '2020/04/01 2:00:00', 1002);
+insert into sekai_add_times_data values (3, 2, 10, 120, '2020/04/01 4:00:00', 1002);
+insert into sekai_add_times_data values (4, 2, 10, 120, '2020/04/01 6:00:00', 1002);
+insert into sekai_add_times_data values (5, 2, 10, 120, '2020/04/01 8:00:00', 1002);
+insert into sekai_add_times_data values (6, 2, 10, 120, '2020/04/01 10:00:00', 1002);
+insert into sekai_add_times_data values (7, 2, 10, 120, '2020/04/01 12:00:00', 1002);
+insert into sekai_add_times_data values (8, 2, 10, 120, '2020/04/01 14:00:00', 1002);
+insert into sekai_add_times_data values (9, 2, 10, 120, '2020/04/01 16:00:00', 1002);
+insert into sekai_add_times_data values (10, 2, 10, 120, '2020/04/01 18:00:00', 1002);
+insert into sekai_add_times_data values (11, 2, 10, 120, '2020/04/01 20:00:00', 1002);
+insert into sekai_add_times_data values (12, 2, 10, 120, '2020/04/01 22:00:00', 1002);

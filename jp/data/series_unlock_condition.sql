@@ -1,0 +1,12 @@
+CREATE TABLE 'series_unlock_condition' ('condition_story_id_2' INTEGER NOT NULL, 'condition_event_id' INTEGER NOT NULL, 'condition_story_id_1' INTEGER NOT NULL, 'condition_boss_id' INTEGER NOT NULL, 'sequel_event_id' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, PRIMARY KEY('sequel_event_id'));
+insert into series_unlock_condition values (5035005, 0, 5035004, 0, 10036, 0);
+insert into series_unlock_condition values (5058005, 0, 5058004, 0, 10059, 0);
+insert into series_unlock_condition values (0, 10062, 0, 1006201, 10063, 10062115);
+insert into series_unlock_condition values (0, 10084, 0, 1008401, 10085, 10084115);
+insert into series_unlock_condition values (0, 10086, 0, 1008601, 10087, 10086115);
+insert into series_unlock_condition values (0, 10110, 0, 1011001, 10111, 10110115);
+insert into series_unlock_condition values (0, 10112, 0, 1011201, 10113, 10112115);
+insert into series_unlock_condition values (0, 10136, 0, 1013601, 10137, 10136110);
+insert into series_unlock_condition values (0, 10138, 0, 1013801, 10139, 10138115);
+insert into series_unlock_condition values (0, 20033, 0, 2003301, 20034, 20033115);
+insert into series_unlock_condition values (0, 20046, 0, 2004601, 20047, 20046115);

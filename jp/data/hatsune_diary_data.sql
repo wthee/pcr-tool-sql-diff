@@ -1,0 +1,18 @@
+CREATE TABLE 'hatsune_diary_data' ('diary_id' INTEGER NOT NULL, 'condition_story_id' INTEGER NOT NULL, 'contents_type' INTEGER NOT NULL, 'forced_release_time' TEXT NOT NULL, 'condition_boss_count' INTEGER NOT NULL, 'condition_time' TEXT NOT NULL, 'diary_date' INTEGER NOT NULL, 'sub_title' TEXT NOT NULL, PRIMARY KEY('diary_id'));
+insert into hatsune_diary_data values (1, 5023000, 0, '2030/01/01 1:00:00', 0, '2020/08/16 5:00:00', 1, 'どうしてこんな\\nことに……？');
+insert into hatsune_diary_data values (2, 5023001, 0, '2030/01/01 1:00:00', 0, '2020/08/16 5:00:00', 2, 'ごきげんようが\\n言えなくて');
+insert into hatsune_diary_data values (3, 5023002, 0, '2030/01/01 1:00:00', 0, '2020/08/16 5:00:00', 3, 'やっちゃった！');
+insert into hatsune_diary_data values (4, 5023002, 0, '2030/01/01 1:00:00', 0, '2020/08/17 5:00:00', 4, 'ユニさんは\\nこんな人');
+insert into hatsune_diary_data values (5, 5023002, 0, '2030/01/01 1:00:00', 0, '2020/08/17 5:00:00', 5, 'クロエさんは\\nこんな人');
+insert into hatsune_diary_data values (6, 5023002, 0, '2030/01/01 1:00:00', 0, '2020/08/17 5:00:00', 6, 'チエルさんは\\nこんな人');
+insert into hatsune_diary_data values (7, 5023003, 0, '2030/01/01 1:00:00', 0, '2020/08/18 5:00:00', 7, '知的な\\nユニさん');
+insert into hatsune_diary_data values (8, 5023003, 0, '2030/01/01 1:00:00', 0, '2020/08/18 5:00:00', 8, '優しい\\nクロエさん');
+insert into hatsune_diary_data values (9, 5023003, 0, '2030/01/01 1:00:00', 0, '2020/08/18 5:00:00', 9, '憧れの\\nチエルさん');
+insert into hatsune_diary_data values (10, 5023003, 0, '2030/01/01 1:00:00', 0, '2020/08/19 5:00:00', 10, '特別講座の\\n練習');
+insert into hatsune_diary_data values (11, 5023004, 0, '2030/01/01 1:00:00', 0, '2020/08/19 5:00:00', 11, 'いよいよ\\n特別講座');
+insert into hatsune_diary_data values (12, 5023005, 0, '2030/01/01 1:00:00', 0, '2020/08/19 5:00:00', 12, 'さすがBB団の\\n団長さん！');
+insert into hatsune_diary_data values (13, 5023006, 0, '2030/01/01 1:00:00', 0, '2020/08/19 5:00:00', 13, 'マンドラゴラで\\nパニック');
+insert into hatsune_diary_data values (14, 5023007, 0, '2030/01/01 1:00:00', 0, '2020/08/23 5:00:00', 14, '最終日');
+insert into hatsune_diary_data values (15, 5023000, 1, '2030/01/01 1:00:00', 0, '2020/08/23 21:00:00', 0, '');
+insert into hatsune_diary_data values (16, 5023000, 1, '2030/01/01 1:00:00', 0, '2020/08/23 21:00:00', 0, '');
+insert into hatsune_diary_data values (17, 5023000, 1, '2030/01/01 1:00:00', 0, '2020/08/23 21:00:00', 0, '');

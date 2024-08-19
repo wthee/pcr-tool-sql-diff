@@ -1,0 +1,10 @@
+CREATE TABLE 'redeem_unit' ('id' INTEGER NOT NULL, 'unit_id' INTEGER NOT NULL, 'condition_id' INTEGER NOT NULL, 'condition_category' INTEGER NOT NULL, 'consume_num' TEXT NOT NULL, 'slot_id' INTEGER NOT NULL, PRIMARY KEY('id'));
+insert into redeem_unit values (1185011, 118501, -1, 5, '3000', 1);
+insert into redeem_unit values (1185012, 118501, 94000, 3, '500000000', 2);
+insert into redeem_unit values (21069011, 106901, -1, 5, '3000', 1);
+insert into redeem_unit values (21069012, 106901, 94000, 3, '500000000', 2);
+insert into redeem_unit values (21069013, 106901, 118501, 1, '0', 3);
+insert into redeem_unit values (21069014, 106901, 2015009, 2, '0', 4);
+insert into redeem_unit values (31186011, 118601, -1, 5, '3000', 1);
+insert into redeem_unit values (31186012, 118601, 94000, 3, '500000000', 2);
+insert into redeem_unit values (31186013, 118601, 4001004, 2, '0', 3);

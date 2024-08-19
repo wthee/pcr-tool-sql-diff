@@ -1,0 +1,10 @@
+CREATE TABLE 'pkb_batter_condition' ('is_playable' INTEGER NOT NULL, 'pkb_score' INTEGER NOT NULL, 'batter_id' INTEGER NOT NULL, 'detail' TEXT NOT NULL, 'ability_detail' TEXT NOT NULL, 'name' TEXT NOT NULL, 'meet' INTEGER NOT NULL, 'critical' INTEGER NOT NULL, 'power' INTEGER NOT NULL, 'ability_name' TEXT NOT NULL, PRIMARY KEY('batter_id'));
+insert into pkb_batter_condition values (1, 0, 1, '', '', 'アヤネ', 1, 2, 1, '---');
+insert into pkb_batter_condition values (1, 6000, 2, '逆境に屈することなく、部員たちを引っ張る主将。ミート力を活かした安定感のある打撃が持ち味。', '', 'アサヒ', 0, 1, 3, '---');
+insert into pkb_batter_condition values (1, 16000, 3, '無愛想だが仲間を大切に想う気持ちは誰よりも強い男。ケンカで鍛えた腕っぷしが自慢のパワーヒッター。', 'ホームランを連発すると、連発数に応じてパワーアップする', '部員3', 3, 3, 0, 'アドレナリン');
+insert into pkb_batter_condition values (1, 30000, 4, 'みんなからの厚い信頼を集める期待の助っ人部員。実力は未知数だが幸運なハプニングを呼び込む。', '幸運のハプニングを呼び込む', '{0}', 2, 2, 2, 'ラッキー');
+insert into pkb_batter_condition values (0, 50000, 5, 'みんなの知らない極秘情報がのっているおまけページ。決して誰かに見せてはいけない。', '', '選手名鑑 おまけページ', 1, 0, 1, '');
+insert into pkb_batter_condition values (0, 50000, 6, '', '', '選手名鑑 おまけページ', 0, 1, 1, '');
+insert into pkb_batter_condition values (0, 50000, 7, '', '', '選手名鑑 おまけページ', 0, 0, 0, '');
+insert into pkb_batter_condition values (0, 50000, 8, '', '', '選手名鑑 おまけページ', 1, 0, 0, '');
+insert into pkb_batter_condition values (0, 50000, 9, '', '', '選手名鑑 おまけページ', 0, 0, 0, '');

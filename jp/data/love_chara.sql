@@ -1,0 +1,13 @@
+CREATE TABLE 'love_chara' ('love_level' INTEGER NOT NULL, 'rarity' INTEGER NOT NULL, 'total_love' INTEGER NOT NULL, 'unlocked_class' INTEGER NOT NULL, PRIMARY KEY('love_level'));
+insert into love_chara values (1, 1, 0, 1);
+insert into love_chara values (2, 1, 175, 1);
+insert into love_chara values (3, 1, 420, 1);
+insert into love_chara values (4, 1, 700, 1);
+insert into love_chara values (5, 3, 1400, 1);
+insert into love_chara values (6, 3, 2100, 1);
+insert into love_chara values (7, 3, 2800, 1);
+insert into love_chara values (8, 3, 4200, 1);
+insert into love_chara values (9, 6, 6300, 1);
+insert into love_chara values (10, 6, 9100, 1);
+insert into love_chara values (11, 6, 12600, 1);
+insert into love_chara values (12, 6, 16800, 1);

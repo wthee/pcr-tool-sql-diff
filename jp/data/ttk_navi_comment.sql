@@ -1,0 +1,14 @@
+CREATE TABLE 'ttk_navi_comment' ('description' TEXT , 'comment_id' INTEGER NOT NULL, 'pos_x' REAL NOT NULL, 'change_face_type' INTEGER NOT NULL, 'character_name' TEXT NOT NULL, 'voice_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'where_type' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'pos_y' REAL NOT NULL, 'character_id' INTEGER NOT NULL, 'end_time' TEXT NOT NULL, 'face_type' INTEGER NOT NULL, 'change_face_time' REAL NOT NULL, PRIMARY KEY('comment_id'));
+insert into ttk_navi_comment values ('あたしだって\\nやるときはやるよ！', 24001, 0.0, 1, 'リン', 0, 10040, 24, '2020/04/30 12:00:00', 0.0, 102601, '2030/12/17 14:59:59', 1, 0.0);
+insert into ttk_navi_comment values ('ふぅ…\\nこれであたしの仕事は\\n終わりだね', 24002, 0.0, 1, 'リン', 1, 10040, 24, '2020/04/30 12:00:00', 0.0, 102601, '2030/12/17 14:59:59', 1, 0.0);
+insert into ttk_navi_comment values ('終わった終わった\\n一人でもなんとか\\nなるもんだね', 24003, 0.0, 1, 'リン', 2, 10040, 24, '2020/04/30 12:00:00', 0.0, 102601, '2030/12/17 14:59:59', 1, 0.0);
+insert into ttk_navi_comment values ('やったね！\\nこれでようやく\\nサボれるよ…', 24004, 0.0, 2, 'リン', 3, 10040, 24, '2020/04/30 12:00:00', 0.0, 102601, '2030/12/17 14:59:59', 2, 0.0);
+insert into ttk_navi_comment values ('チーズが欲しいなら\\nきちんと働いて\\n買いに来なよ', 24005, 0.0, 1, 'リン', 4, 10040, 24, '2020/04/30 12:00:00', 0.0, 102601, '2030/12/17 14:59:59', 1, 0.0);
+insert into ttk_navi_comment values ('あたしを敵に回した\\n恐ろしさ\\n思い知ったか！', 24006, 0.0, 2, 'リン', 5, 10040, 24, '2020/04/30 12:00:00', 0.0, 102601, '2030/12/17 14:59:59', 2, 0.0);
+insert into ttk_navi_comment values ('あたしも意外と\\nやるもんでしょ？', 24007, 0.0, 2, 'リン', 6, 10040, 24, '2020/04/30 12:00:00', 0.0, 102601, '2030/12/17 14:59:59', 2, 0.0);
+insert into ttk_navi_comment values ('疲れた…\\nねずみの逃げ足\\n速すぎるよ…', 24008, 0.0, 4, 'リン', 7, 10040, 24, '2020/04/30 12:00:00', 0.0, 102601, '2030/12/17 14:59:59', 4, 0.0);
+insert into ttk_navi_comment values ('このままじゃ\\nまっひ～に\\n叱られちゃうよ', 24009, 0.0, 4, 'リン', 8, 10040, 24, '2020/04/30 12:00:00', 0.0, 102601, '2030/12/17 14:59:59', 4, 0.0);
+insert into ttk_navi_comment values ('まじめに\\nやったんだけどな…\\n悔しいな～', 24010, 0.0, 4, 'リン', 9, 10040, 24, '2020/04/30 12:00:00', 0.0, 102601, '2030/12/17 14:59:59', 4, 0.0);
+insert into ttk_navi_comment values ('やられた…\\nねずみって意外と\\nてごわいね', 24011, 0.0, 4, 'リン', 10, 10040, 24, '2020/04/30 12:00:00', 0.0, 102601, '2030/12/17 14:59:59', 4, 0.0);
+insert into ttk_navi_comment values ('おのれ～\\nあたしのチーズを\\n盗みやがって～！', 24012, 0.0, 4, 'リン', 11, 10040, 24, '2020/04/30 12:00:00', 0.0, 102601, '2030/12/17 14:59:59', 4, 0.0);
+insert into ttk_navi_comment values ('疲れた…\\nけど、次こそは\\n守り抜くよ…', 24013, 0.0, 1, 'リン', 12, 10040, 24, '2020/04/30 12:00:00', 0.0, 102601, '2030/12/17 14:59:59', 4, 1.81);

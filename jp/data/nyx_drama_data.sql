@@ -1,0 +1,11 @@
+CREATE TABLE 'nyx_drama_data' ('condition_unlocked_story_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'drama_id' INTEGER NOT NULL, 'condition_locked_story_id' INTEGER NOT NULL, 'story_phase' INTEGER NOT NULL, 'sub_title' TEXT NOT NULL, PRIMARY KEY('drama_id'));
+insert into nyx_drama_data values (12, '特別講座プレゼンレポート', 101, 13, 1, 'ちぇるるんインパクト');
+insert into nyx_drama_data values (13, '特別講座プレゼンレポート', 102, 14, 1, 'クロエご明察');
+insert into nyx_drama_data values (14, '特別講座プレゼンレポート', 103, 22, 1, '吹き散らせ先輩風');
+insert into nyx_drama_data values (22, 'メルクリウス財団活動日誌', 201, 23, 2, 'アキノのリーダーシップ');
+insert into nyx_drama_data values (23, 'メルクリウス財団活動日誌', 202, 24, 2, '燃えろたい焼き魂');
+insert into nyx_drama_data values (24, 'メルクリウス財団活動日誌', 203, 25, 2, '麦しゅわに不可能なし');
+insert into nyx_drama_data values (25, 'メルクリウス財団活動日誌', 204, 32, 2, 'ミフユの説教１日コース');
+insert into nyx_drama_data values (32, 'ユニのメモ帳', 301, 33, 3, '発泡と生菓子の哲学');
+insert into nyx_drama_data values (33, 'ユニのメモ帳', 302, 34, 3, '虎穴に潜らずんば');
+insert into nyx_drama_data values (34, 'ユニのメモ帳', 303, 0, 3, '動作試験と破滅の誘惑');

@@ -1,0 +1,16 @@
+CREATE TABLE 'wac_present_still_data' ('still_id' INTEGER NOT NULL, 'date_id' INTEGER NOT NULL, 'wac_id' INTEGER NOT NULL, PRIMARY KEY('wac_id','date_id'));
+insert into wac_present_still_data values (9000169, 421, 2816);
+insert into wac_present_still_data values (9000170, 751, 2816);
+insert into wac_present_still_data values (9000210, 1061, 2816);
+insert into wac_present_still_data values (9000211, 1361, 2816);
+insert into wac_present_still_data values (9000212, 1671, 2816);
+insert into wac_present_still_data values (9000213, 1801, 2816);
+insert into wac_present_still_data values (9000214, 1981, 2816);
+insert into wac_present_still_data values (9000217, 2281, 2816);
+insert into wac_present_still_data values (9000218, 2591, 2816);
+insert into wac_present_still_data values (9000219, 2891, 2816);
+insert into wac_present_still_data values (9000220, 3201, 2816);
+insert into wac_present_still_data values (9000221, 3511, 2816);
+insert into wac_present_still_data values (9000224, 3791, 2816);
+insert into wac_present_still_data values (9000226, 4091, 2816);
+insert into wac_present_still_data values (9000228, 4092, 2816);

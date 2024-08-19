@@ -1,0 +1,10 @@
+CREATE TABLE 'caravan_dish_reward' ('reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_group_id' INTEGER NOT NULL, PRIMARY KEY('reward_group_id'));
+insert into caravan_dish_reward values (53001, 1, 22, 1);
+insert into caravan_dish_reward values (99007, 500, 21, 2);
+insert into caravan_dish_reward values (99008, 1, 21, 3);
+insert into caravan_dish_reward values (99007, 800, 21, 4);
+insert into caravan_dish_reward values (99007, 2000, 21, 5);
+insert into caravan_dish_reward values (99007, 1000, 21, 6);
+insert into caravan_dish_reward values (53001, 2, 22, 7);
+insert into caravan_dish_reward values (99008, 2, 21, 8);
+insert into caravan_dish_reward values (99008, 3, 21, 9);

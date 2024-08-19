@@ -1,0 +1,18 @@
+CREATE TABLE 'pkb_pitcher_ball_type' ('pitcher_id' INTEGER NOT NULL, 'ball_type_name' TEXT NOT NULL, 'ball_type' INTEGER NOT NULL, PRIMARY KEY('pitcher_id','ball_type'));
+insert into pkb_pitcher_ball_type values (1, 'ストレート', 1);
+insert into pkb_pitcher_ball_type values (1, 'カーブ', 2);
+insert into pkb_pitcher_ball_type values (2, 'ストレート', 3);
+insert into pkb_pitcher_ball_type values (2, 'シンカー', 4);
+insert into pkb_pitcher_ball_type values (2, 'Sカーブ', 6);
+insert into pkb_pitcher_ball_type values (3, 'ストレート', 7);
+insert into pkb_pitcher_ball_type values (3, 'カーブ', 8);
+insert into pkb_pitcher_ball_type values (3, 'スライダー', 9);
+insert into pkb_pitcher_ball_type values (3, 'シンカー', 5);
+insert into pkb_pitcher_ball_type values (3, 'シュート', 16);
+insert into pkb_pitcher_ball_type values (3, 'ハツネ☆イリュージョン', 10);
+insert into pkb_pitcher_ball_type values (3, 'ハツネ☆バニッシュ', 11);
+insert into pkb_pitcher_ball_type values (4, 'ストレート', 12);
+insert into pkb_pitcher_ball_type values (4, 'カーブ', 13);
+insert into pkb_pitcher_ball_type values (4, 'シンカー', 14);
+insert into pkb_pitcher_ball_type values (4, 'ドラゴンズエンドボール', 17);
+insert into pkb_pitcher_ball_type values (4, 'ドラゴンズテイル', 18);

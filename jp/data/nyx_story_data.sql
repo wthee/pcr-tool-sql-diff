@@ -1,0 +1,16 @@
+CREATE TABLE 'nyx_story_data' ('story_seq' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'adv_id' INTEGER NOT NULL, 'adv_flg' INTEGER NOT NULL, 'condition_boss_count' INTEGER NOT NULL, 'read_condition_time' TEXT NOT NULL, 'story_id' INTEGER NOT NULL, 'story_phase' INTEGER NOT NULL, 'sub_title' TEXT NOT NULL, 'condition_quest_id' INTEGER NOT NULL, PRIMARY KEY('story_id'));
+insert into nyx_story_data values (1, '', 5038600, 1, 0, '0', 11, 1, '', 20023105);
+insert into nyx_story_data values (2, '高等部１年\u3000チエル', 0, 0, 0, '0', 12, 1, '次世代へ継承すべき新言語', 20023105);
+insert into nyx_story_data values (3, '高等部２年\u3000クロエ', 0, 0, 0, '0', 13, 1, '私はとても作文が苦手です', 20023107);
+insert into nyx_story_data values (4, '高等部３年\u3000ユニ', 0, 0, 0, '0', 14, 1, '飛翔へと至るまで', 20023109);
+insert into nyx_story_data values (5, '', 5038601, 2, 0, '0', 21, 2, '', 20023111);
+insert into nyx_story_data values (6, '記入担当\u3000アキノ', 0, 0, 0, '0', 22, 2, '閃きましたわ！', 20023111);
+insert into nyx_story_data values (7, '記入担当\u3000タマキ', 0, 0, 0, '0', 23, 2, '組み立てにゃ！', 20023112);
+insert into nyx_story_data values (8, '記入担当\u3000ユカリ', 0, 0, 0, '0', 24, 2, '私こんなの書いたっけ…？', 20023113);
+insert into nyx_story_data values (9, '記入担当\u3000ミフユ', 0, 0, 0, '0', 25, 2, 'このままにしておけないわ', 20023114);
+insert into nyx_story_data values (10, '総括', 0, 0, 0, '0', 26, 2, '特別講座を終えて', 20023115);
+insert into nyx_story_data values (11, '', 5038602, 2, 1, '0', 31, 3, '', 20023115);
+insert into nyx_story_data values (12, '浪漫継承計画', 0, 0, 1, '0', 32, 3, '開発記－考察', 20023115);
+insert into nyx_story_data values (13, '未全充溢計画', 0, 0, 2, '0', 33, 3, '開発記－試作機完成', 20023115);
+insert into nyx_story_data values (14, '画竜点睛計画', 0, 0, 3, '0', 34, 3, '開発記－最終工程', 20023115);
+insert into nyx_story_data values (15, '', 5038603, 3, 3, '2022/01/17 15:00:00', 35, 3, '', 20023115);

@@ -1,0 +1,16 @@
+CREATE TABLE 'arena_daily_rank_reward' ('reward_num_3' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'id' INTEGER NOT NULL, 'reward_type_5' INTEGER NOT NULL, 'reward_id_4' INTEGER NOT NULL, 'reward_num_1' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_num_4' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'rank_from' INTEGER NOT NULL, 'reward_id_5' INTEGER NOT NULL, 'rank_to' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_num_2' INTEGER NOT NULL, 'reward_type_4' INTEGER NOT NULL, 'reward_num_5' INTEGER NOT NULL, PRIMARY KEY('id'));
+insert into arena_daily_rank_reward values (20, 94002, 1, 0, 22003, 150, 2, 5, 12, 1, 0, 5, 91002, 20003, 8, 150000, 2, 0);
+insert into arena_daily_rank_reward values (15, 94002, 2, 0, 22003, 145, 2, 2, 12, 6, 0, 9, 91002, 20003, 8, 100000, 2, 0);
+insert into arena_daily_rank_reward values (11, 94002, 3, 0, 22002, 140, 2, 5, 12, 10, 0, 19, 91002, 20003, 8, 80000, 2, 0);
+insert into arena_daily_rank_reward values (10, 94002, 4, 0, 22002, 130, 2, 5, 12, 20, 0, 29, 91002, 20003, 8, 80000, 2, 0);
+insert into arena_daily_rank_reward values (9, 94002, 5, 0, 22002, 120, 2, 4, 12, 30, 0, 39, 91002, 20003, 8, 70000, 2, 0);
+insert into arena_daily_rank_reward values (8, 94002, 6, 0, 22002, 110, 2, 4, 12, 40, 0, 49, 91002, 20003, 8, 70000, 2, 0);
+insert into arena_daily_rank_reward values (7, 94002, 7, 0, 22002, 100, 2, 3, 12, 50, 0, 99, 91002, 20003, 8, 60000, 2, 0);
+insert into arena_daily_rank_reward values (2, 94002, 8, 0, 22002, 80, 2, 2, 12, 100, 0, 499, 91002, 20003, 8, 40000, 2, 0);
+insert into arena_daily_rank_reward values (7, 94002, 9, 0, 22002, 50, 2, 1, 12, 500, 0, 999, 91002, 20002, 8, 20000, 2, 0);
+insert into arena_daily_rank_reward values (4, 94002, 10, 0, 22001, 20, 2, 3, 12, 1000, 0, 4999, 91002, 20002, 8, 16000, 2, 0);
+insert into arena_daily_rank_reward values (3, 94002, 11, 0, 22001, 15, 2, 2, 12, 5000, 0, 9999, 91002, 20002, 8, 9000, 2, 0);
+insert into arena_daily_rank_reward values (8, 94002, 12, 0, 22001, 10, 2, 1, 12, 10000, 0, 11999, 91002, 20001, 8, 4000, 2, 0);
+insert into arena_daily_rank_reward values (7, 94002, 13, 0, 22001, 5, 2, 1, 12, 12000, 0, 13999, 91002, 20001, 8, 3000, 2, 0);
+insert into arena_daily_rank_reward values (6, 94002, 14, 0, 22001, 4, 2, 1, 12, 14000, 0, 14999, 91002, 20001, 8, 2000, 2, 0);
+insert into arena_daily_rank_reward values (5, 94002, 15, 0, 22001, 3, 2, 1, 12, 15000, 0, 30000, 91002, 20001, 8, 1800, 2, 0);

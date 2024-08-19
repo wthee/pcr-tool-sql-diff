@@ -1,0 +1,2 @@
+CREATE TABLE 'pct_system' ('fever_point_max' INTEGER NOT NULL, 'pct_time' INTEGER NOT NULL, 'chara1' INTEGER NOT NULL, 'fever_revention_time' INTEGER NOT NULL, 'chara1_gauge_choice' INTEGER NOT NULL, 'fever_time' INTEGER NOT NULL, 'chara2' INTEGER NOT NULL, 'chara2_gauge_choice' INTEGER NOT NULL, 'id' INTEGER NOT NULL, 'pct_base_speed' INTEGER NOT NULL, PRIMARY KEY('chara2_gauge_choice'));
+insert into pct_system values (60, 30, 109101, 500, 1, 2, 109001, 1, 1, 600);

@@ -1,0 +1,13 @@
+CREATE TABLE 'tme_map_data' ('event_id' INTEGER NOT NULL, 'tme_object_id' INTEGER NOT NULL, 'release_effect' INTEGER NOT NULL, 'area_difficulty_type' INTEGER NOT NULL, 'condition_story_id' INTEGER NOT NULL, 'tap_effect' INTEGER NOT NULL, PRIMARY KEY('tme_object_id'));
+insert into tme_map_data values (20025, 1101, 0, 1, 0, 1);
+insert into tme_map_data values (20025, 1102, 0, 1, 0, 1);
+insert into tme_map_data values (20025, 1103, 1, 1, 5042002, 0);
+insert into tme_map_data values (20025, 1104, 0, 1, 0, 1);
+insert into tme_map_data values (20025, 1105, 1, 1, 5042003, 0);
+insert into tme_map_data values (20025, 1106, 0, 1, 0, 1);
+insert into tme_map_data values (20025, 1107, 2, 1, 5042005, 0);
+insert into tme_map_data values (20025, 1201, 1, 2, 5042007, 0);
+insert into tme_map_data values (20025, 1202, 2, 2, 5042007, 0);
+insert into tme_map_data values (20025, 1203, 0, 2, 0, 1);
+insert into tme_map_data values (20025, 1204, 0, 2, 0, 1);
+insert into tme_map_data values (20025, 1301, 0, 1, 0, 0);

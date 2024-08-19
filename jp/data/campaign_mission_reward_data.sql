@@ -1,0 +1,13 @@
+CREATE TABLE 'campaign_mission_reward_data' ('reward_num' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'campaign_mission_reward_id' INTEGER NOT NULL, 'id' INTEGER NOT NULL, 'reward_id' INTEGER , PRIMARY KEY('id'));
+insert into campaign_mission_reward_data values (100, 8, 30109001, 1, 91002);
+insert into campaign_mission_reward_data values (10, 2, 30109001, 2, 20002);
+insert into campaign_mission_reward_data values (100, 8, 30109002, 3, 91002);
+insert into campaign_mission_reward_data values (40000, 12, 30109002, 4, 94002);
+insert into campaign_mission_reward_data values (300, 8, 30109003, 5, 91002);
+insert into campaign_mission_reward_data values (500, 8, 30109004, 6, 91002);
+insert into campaign_mission_reward_data values (500, 8, 30109005, 7, 91002);
+insert into campaign_mission_reward_data values (1000000, 12, 30109005, 8, 94002);
+insert into campaign_mission_reward_data values (500, 8, 30109006, 9, 91002);
+insert into campaign_mission_reward_data values (500000, 12, 30109006, 10, 94002);
+insert into campaign_mission_reward_data values (600, 8, 30110001, 11, 91002);
+insert into campaign_mission_reward_data values (200000, 12, 30110006, 12, 94002);

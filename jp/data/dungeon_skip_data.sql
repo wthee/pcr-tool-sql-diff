@@ -1,0 +1,11 @@
+CREATE TABLE 'dungeon_skip_data' ('skip_position_y' INTEGER NOT NULL, 'skip_scale_y' REAL NOT NULL, 'skip_scale_x' REAL NOT NULL, 'skip_bg_id' INTEGER NOT NULL, 'area_id' INTEGER NOT NULL, 'skip_motion_id' INTEGER NOT NULL, 'skip_position_x' INTEGER NOT NULL, PRIMARY KEY('area_id'));
+insert into dungeon_skip_data values (-10, 0.8, 0.8, 100721, 31001, 300900, 0);
+insert into dungeon_skip_data values (-40, 0.7, 0.7, 100722, 31002, 302300, 0);
+insert into dungeon_skip_data values (-40, 0.8, 0.8, 100261, 31003, 302400, 0);
+insert into dungeon_skip_data values (-20, 0.9, 0.9, 100283, 31004, 302500, 0);
+insert into dungeon_skip_data values (-10, 0.9, 0.9, 101611, 31005, 301700, 0);
+insert into dungeon_skip_data values (-40, 0.7, 0.7, 102174, 31006, 310100, 0);
+insert into dungeon_skip_data values (-60, 0.3, 0.3, 102751, 31007, 399800, -80);
+insert into dungeon_skip_data values (20, 0.9, 0.9, 103001, 31008, 314901, -20);
+insert into dungeon_skip_data values (-110, 0.7, 0.7, 103232, 31009, 318405, 30);
+insert into dungeon_skip_data values (-10, 1.0, 1.0, 103371, 31010, 320100, 0);

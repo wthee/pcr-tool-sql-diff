@@ -1,0 +1,13 @@
+CREATE TABLE 'sekai_boss_mode' ('limit_time' INTEGER NOT NULL, 'quest_detail_monster_height' INTEGER NOT NULL, 'limited_mana' INTEGER NOT NULL, 'sekai_enemy_level' TEXT NOT NULL, 'background' INTEGER NOT NULL, 'score_coefficient' INTEGER NOT NULL, 'reward_gold_coefficient' INTEGER NOT NULL, 'quest_detail_bg_position' INTEGER NOT NULL, 'sekai_boss_mode_id' INTEGER NOT NULL, 'quest_detail_monster_size' REAL NOT NULL, 'sekai_enemy_id' INTEGER NOT NULL, 'sheet_id' TEXT NOT NULL, 'result_boss_position_y' INTEGER NOT NULL, 'quest_detail_bg_id' INTEGER NOT NULL, 'que_id' TEXT NOT NULL, PRIMARY KEY('sekai_boss_mode_id'));
+insert into sekai_boss_mode values (90, -75, 100000, '？？？', 100584, 1, 0, -30, 1001001, 2.0, 800100101, 'bgm_M220', 350, 100584, 'bgm_M220');
+insert into sekai_boss_mode values (90, -75, 100000, '？？？', 100584, 1, 0, -30, 1001002, 2.0, 800100102, 'bgm_M220', 350, 100584, 'bgm_M220');
+insert into sekai_boss_mode values (90, -75, 100000, '？？？', 100584, 1, 0, -30, 1001003, 2.0, 800100103, 'bgm_M220', 350, 100584, 'bgm_M220');
+insert into sekai_boss_mode values (90, -75, 100000, '？？？', 100584, 1, 0, -30, 1001004, 2.0, 800100101, 'bgm_M221', 350, 100584, 'bgm_M221');
+insert into sekai_boss_mode values (90, -75, 100000, '？？？', 100584, 1, 0, -30, 1001005, 2.0, 800100102, 'bgm_M221', 350, 100584, 'bgm_M221');
+insert into sekai_boss_mode values (90, -75, 100000, '？？？', 100584, 1, 0, -30, 1001006, 2.0, 800100103, 'bgm_M221', 350, 100584, 'bgm_M221');
+insert into sekai_boss_mode values (90, -75, 100000, '？？？', 100584, 1, 0, -30, 1002001, 2.0, 800100201, 'bgm_M220', 350, 100584, 'bgm_M220');
+insert into sekai_boss_mode values (90, -75, 100000, '？？？', 100584, 1, 0, -30, 1002002, 2.0, 800100202, 'bgm_M220', 350, 100584, 'bgm_M220');
+insert into sekai_boss_mode values (90, -75, 100000, '？？？', 100584, 1, 0, -30, 1002003, 2.0, 800100203, 'bgm_M220', 350, 100584, 'bgm_M220');
+insert into sekai_boss_mode values (90, -75, 100000, '？？？', 100584, 1, 0, -30, 1002004, 2.0, 800100201, 'bgm_M221', 350, 100584, 'bgm_M221');
+insert into sekai_boss_mode values (90, -75, 100000, '？？？', 100584, 1, 0, -30, 1002005, 2.0, 800100202, 'bgm_M221', 350, 100584, 'bgm_M221');
+insert into sekai_boss_mode values (90, -75, 100000, '？？？', 100584, 1, 0, -30, 1002006, 2.0, 800100203, 'bgm_M221', 350, 100584, 'bgm_M221');

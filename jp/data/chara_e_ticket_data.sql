@@ -1,0 +1,15 @@
+CREATE TABLE 'chara_e_ticket_data' ('icon_id' INTEGER NOT NULL, 'ticket_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'jewel_store_id' INTEGER NOT NULL, PRIMARY KEY('ticket_id'));
+insert into chara_e_ticket_data values (27001, 27001, '2020/02/15 15:00:00', '2020/03/02 4:59:59', 28);
+insert into chara_e_ticket_data values (27001, 27002, '2021/02/15 23:00:00', '2021/03/05 11:59:59', 33);
+insert into chara_e_ticket_data values (27001, 27003, '2021/08/15 15:00:00', '2021/09/05 11:59:59', 42);
+insert into chara_e_ticket_data values (27001, 27004, '2021/12/31 12:00:00', '2022/01/21 11:59:59', 43);
+insert into chara_e_ticket_data values (27005, 27005, '2022/02/15 15:00:00', '2022/03/05 14:59:59', 44);
+insert into chara_e_ticket_data values (27001, 27006, '2022/08/15 15:00:00', '2022/09/05 11:59:59', 55);
+insert into chara_e_ticket_data values (27001, 27007, '2022/12/31 12:00:00', '2023/01/21 11:59:59', 81);
+insert into chara_e_ticket_data values (27005, 27008, '2023/02/15 15:00:00', '2023/03/05 14:59:59', 82);
+insert into chara_e_ticket_data values (27009, 27009, '2023/04/30 12:00:00', '2023/05/25 14:59:59', 85);
+insert into chara_e_ticket_data values (27001, 27010, '2023/08/15 15:00:00', '2023/09/04 14:59:59', 113);
+insert into chara_e_ticket_data values (27012, 27012, '2023/12/31 12:00:00', '2024/01/21 11:59:59', 115);
+insert into chara_e_ticket_data values (27005, 27013, '2024/02/15 00:00:00', '2024/03/05 14:59:59', 118);
+insert into chara_e_ticket_data values (27012, 27014, '2024/04/30 12:00:00', '2024/05/30 23:59:59', 119);
+insert into chara_e_ticket_data values (27012, 27015, '2024/08/15 15:00:00', '2024/09/10 23:59:59', 127);

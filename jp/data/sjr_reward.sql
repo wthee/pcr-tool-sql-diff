@@ -1,0 +1,16 @@
+CREATE TABLE 'sjr_reward' ('reward_type_4' INTEGER NOT NULL, 'reward_count_1' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_count_3' INTEGER NOT NULL, 'reward_type_5' INTEGER NOT NULL, 'id' INTEGER NOT NULL, 'sjr_score' INTEGER NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_count_5' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'mission_detail' TEXT NOT NULL, 'reward_id_5' INTEGER NOT NULL, 'reward_count_2' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_id_4' INTEGER NOT NULL, 'reward_count_4' INTEGER NOT NULL, PRIMARY KEY('id'));
+insert into sjr_reward values (0, 5000, 0, 0, 0, 1, 20000, 12, 0, 94002, 'スコアを累計で20000獲得しよう', 0, 0, 0, 0, 0, 0, 0);
+insert into sjr_reward values (0, 10000, 0, 0, 0, 2, 40000, 12, 0, 94002, 'スコアを累計で40000獲得しよう', 0, 0, 0, 0, 0, 0, 0);
+insert into sjr_reward values (0, 15000, 0, 0, 0, 3, 60000, 12, 0, 94002, 'スコアを累計で60000獲得しよう', 0, 0, 0, 0, 0, 0, 0);
+insert into sjr_reward values (0, 20000, 0, 0, 0, 4, 80000, 12, 0, 94002, 'スコアを累計で80000獲得しよう', 0, 0, 0, 0, 0, 0, 0);
+insert into sjr_reward values (0, 50, 0, 0, 0, 5, 100000, 8, 0, 91002, 'スコアを累計で100000獲得しよう', 0, 5, 2, 23001, 0, 0, 0);
+insert into sjr_reward values (0, 25000, 0, 0, 0, 6, 120000, 12, 0, 94002, 'スコアを累計で120000獲得しよう', 0, 0, 0, 0, 0, 0, 0);
+insert into sjr_reward values (0, 30000, 0, 0, 0, 7, 140000, 12, 0, 94002, 'スコアを累計で140000獲得しよう', 0, 0, 0, 0, 0, 0, 0);
+insert into sjr_reward values (0, 35000, 0, 0, 0, 8, 160000, 12, 0, 94002, 'スコアを累計で160000獲得しよう', 0, 0, 0, 0, 0, 0, 0);
+insert into sjr_reward values (0, 40000, 0, 0, 0, 9, 180000, 12, 0, 94002, 'スコアを累計で180000獲得しよう', 0, 0, 0, 0, 0, 0, 0);
+insert into sjr_reward values (0, 50, 0, 0, 0, 10, 200000, 8, 0, 91002, 'スコアを累計で200000獲得しよう', 0, 5, 2, 23001, 0, 0, 0);
+insert into sjr_reward values (0, 55000, 0, 0, 0, 11, 220000, 12, 0, 94002, 'スコアを累計で220000獲得しよう', 0, 0, 0, 0, 0, 0, 0);
+insert into sjr_reward values (0, 35000, 0, 0, 0, 12, 240000, 12, 0, 94002, 'スコアを累計で240000獲得しよう', 0, 0, 0, 0, 0, 0, 0);
+insert into sjr_reward values (0, 40000, 0, 0, 0, 13, 260000, 12, 0, 94002, 'スコアを累計で260000獲得しよう', 0, 0, 0, 0, 0, 0, 0);
+insert into sjr_reward values (0, 45000, 0, 0, 0, 14, 280000, 12, 0, 94002, 'スコアを累計で280000獲得しよう', 0, 0, 0, 0, 0, 0, 0);
+insert into sjr_reward values (0, 150, 0, 0, 0, 15, 300000, 8, 0, 91002, 'スコアを累計で300000獲得しよう', 0, 10, 2, 23001, 0, 0, 0);

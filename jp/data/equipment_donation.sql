@@ -1,0 +1,10 @@
+CREATE TABLE 'equipment_donation' ('donation_num_once' INTEGER NOT NULL, 'request_num_once' INTEGER NOT NULL, 'team_level' INTEGER NOT NULL, 'donation_num_daily' INTEGER NOT NULL, PRIMARY KEY('team_level'));
+insert into equipment_donation values (2, 10, 10, 10);
+insert into equipment_donation values (2, 10, 20, 10);
+insert into equipment_donation values (2, 10, 30, 10);
+insert into equipment_donation values (2, 10, 40, 10);
+insert into equipment_donation values (2, 10, 50, 10);
+insert into equipment_donation values (2, 10, 60, 10);
+insert into equipment_donation values (2, 10, 70, 10);
+insert into equipment_donation values (2, 10, 80, 10);
+insert into equipment_donation values (2, 10, 999, 10);

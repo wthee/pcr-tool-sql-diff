@@ -1,0 +1,10 @@
+CREATE TABLE 'sjr_score' ('type' INTEGER NOT NULL, 'third_score' INTEGER NOT NULL, 'action_score' INTEGER NOT NULL, 'extra_bonus' REAL NOT NULL, 'first_score' INTEGER NOT NULL, 'normal_bonus' REAL NOT NULL, 'time_score' INTEGER NOT NULL, 'round' INTEGER NOT NULL, 'second_score' INTEGER NOT NULL, 'hard_bonus' REAL NOT NULL, PRIMARY KEY('round','type'));
+insert into sjr_score values (1, 7000, 115, 4.0, 8000, 1.2, 130, 1, 7500, 2.4);
+insert into sjr_score values (1, 7000, 115, 4.0, 8000, 1.2, 130, 2, 7500, 2.4);
+insert into sjr_score values (1, 7000, 115, 4.0, 8000, 1.2, 130, 3, 7500, 2.4);
+insert into sjr_score values (2, 7000, 155, 4.0, 8000, 1.2, 140, 1, 7500, 2.4);
+insert into sjr_score values (2, 7000, 155, 4.0, 8000, 1.2, 140, 2, 7500, 2.4);
+insert into sjr_score values (2, 7000, 155, 4.0, 8000, 1.2, 140, 3, 7500, 2.4);
+insert into sjr_score values (3, 7000, 110, 4.0, 8000, 1.2, 140, 1, 7500, 2.4);
+insert into sjr_score values (3, 7000, 110, 4.0, 8000, 1.2, 140, 2, 7500, 2.4);
+insert into sjr_score values (3, 7000, 110, 4.0, 8000, 1.2, 140, 3, 7500, 2.4);

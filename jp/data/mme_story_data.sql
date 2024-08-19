@@ -1,0 +1,18 @@
+CREATE TABLE 'mme_story_data' ('reward_id' INTEGER NOT NULL, 'is_puzzle_piece' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'sub_title' TEXT NOT NULL, 'is_last' INTEGER NOT NULL, 'sub_story_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'reward_type' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+insert into mme_story_data values (0, 0, 10110, '懐かしき過去の結晶', 0, 5110601, 0, 'オープニング', 0, 10138104);
+insert into mme_story_data values (91002, 1, 10110, 'リーダーはどっちだ！', 0, 5110602, 30, 'オクトーの追想\u3000その1', 8, 10138104);
+insert into mme_story_data values (91002, 1, 10110, '勝ちたい理由', 0, 5110603, 30, 'オクトーの追想\u3000その2', 8, 10138105);
+insert into mme_story_data values (91002, 1, 10110, '聞き上手な誓約女君', 0, 5110604, 30, 'クリスティーナの追想\u3000その1', 8, 10138108);
+insert into mme_story_data values (91002, 1, 10110, '秘めたる本当の実力……？', 0, 5110605, 30, 'ダイゴの追想\u3000その1', 8, 10138109);
+insert into mme_story_data values (91002, 1, 10110, '友と書いてライバルと読む', 0, 5110606, 30, 'ラビリスタの追想\u3000その1', 8, 10138110);
+insert into mme_story_data values (91002, 1, 10110, '悪と正義の高笑い', 0, 5110607, 30, 'マサキの追想', 8, 10138112);
+insert into mme_story_data values (91002, 1, 10110, 'プリンセスナイトとは', 0, 5110608, 30, 'ラジラジの追想\u3000その1', 8, 10138113);
+insert into mme_story_data values (91002, 1, 10110, 'まだ見ぬ日々に想い馳せて', 0, 5110609, 30, 'オクトーの追想\u3000その3', 8, 10138114);
+insert into mme_story_data values (91002, 1, 10111, '跳躍王のお仕置き', 0, 5111602, 30, 'ラジラジの追想\u3000その2', 8, 10139103);
+insert into mme_story_data values (91002, 1, 10111, '二人なら絶対だって', 0, 5111603, 30, 'クリスティーナの追想\u3000その2', 8, 10139105);
+insert into mme_story_data values (91002, 1, 10111, '虎の尾を踏む', 0, 5111604, 30, 'ダイゴの追想\u3000その2', 8, 10139108);
+insert into mme_story_data values (91002, 1, 10111, '一番怪しい七冠は誰だ', 0, 5111605, 30, 'ラビリスタの追想\u3000その2', 8, 10139109);
+insert into mme_story_data values (91002, 1, 10111, '簡単すぎる問題', 0, 5111606, 30, 'ネネカの追想', 8, 10139110);
+insert into mme_story_data values (91002, 1, 10111, '魔物使いは語る', 0, 5111607, 30, 'オクトーの追想\u3000その4', 8, 10139113);
+insert into mme_story_data values (91002, 1, 10111, '悪党たちの目指す未来', 0, 5111608, 30, 'オクトーの追想\u3000その5', 8, 10139113);
+insert into mme_story_data values (9000222, 0, 10111, '過去を超える思い出を', 1, 5111609, 1, 'エンディング', 16, 0);

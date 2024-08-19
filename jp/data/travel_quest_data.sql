@@ -1,0 +1,15 @@
+CREATE TABLE 'travel_quest_data' ('main_reward_2' INTEGER NOT NULL, 'icon_y' INTEGER NOT NULL, 'main_reward_1' INTEGER NOT NULL, 'main_reward_5' INTEGER NOT NULL, 'main_reward_4' INTEGER NOT NULL, 'main_reward_3' INTEGER NOT NULL, 'travel_quest_id' INTEGER NOT NULL, 'limit_unit_num' INTEGER NOT NULL, 'icon_id' INTEGER NOT NULL, 'icon_x' INTEGER NOT NULL, 'travel_time' INTEGER NOT NULL, 'travel_time_decrease_limit' INTEGER NOT NULL, 'travel_area_id' INTEGER NOT NULL, 'situation_group_id' INTEGER NOT NULL, 'travel_quest_name' TEXT NOT NULL, 'need_power' INTEGER NOT NULL, 'travel_decrease_flag' INTEGER NOT NULL, PRIMARY KEY('travel_quest_id'));
+insert into travel_quest_data values (4104351, 108, 4101351, 4201401, 4104401, 4101401, 11001001, 10, 11001001, -470, 43200, 7200, 11001, 1, 'スィオネ\\n樹林', 100000, 1);
+insert into travel_quest_data values (4110351, 90, 4106351, 4203401, 4110401, 4106401, 11001002, 10, 11001002, -235, 43200, 7200, 11001, 2, 'ヘリケ巨木', 100000, 1);
+insert into travel_quest_data values (4105351, 108, 4102351, 4201401, 4105401, 4102401, 11001003, 10, 11001003, 0, 43200, 7200, 11001, 3, 'イオカステ\\n岩山', 100000, 1);
+insert into travel_quest_data values (4109351, 90, 4108351, 4203401, 4109401, 4108401, 11001004, 10, 11001004, 235, 43200, 7200, 11001, 4, 'ハルパリ\\n大滝', 100000, 1);
+insert into travel_quest_data values (4107351, 108, 4103351, 4201401, 4107401, 4103401, 11001005, 10, 11001005, 470, 43200, 7200, 11001, 5, 'ムネメー川', 100000, 1);
+insert into travel_quest_data values (4101401, 108, 4301351, 4301401, 4201401, 4104401, 11002001, 10, 11002003, -470, 43200, 7200, 11002, 6, 'アルバ浜堤', 100000, 1);
+insert into travel_quest_data values (4106401, 90, 4305351, 4305401, 4203401, 4110401, 11002002, 10, 11002002, -235, 43200, 7200, 11002, 7, 'サダルスド\\n砂浜', 100000, 1);
+insert into travel_quest_data values (4102401, 108, 4302351, 4302401, 4201401, 4105401, 11002003, 10, 11002001, 0, 43200, 7200, 11002, 8, 'ダルリク\\n巨岩', 100000, 1);
+insert into travel_quest_data values (4108401, 90, 4304351, 4304401, 4203401, 4109401, 11002004, 10, 11001005, 235, 43200, 7200, 11002, 9, 'アンカル川', 100000, 1);
+insert into travel_quest_data values (4103401, 108, 4303351, 4303401, 4201401, 4107401, 11002005, 10, 11001001, 470, 43200, 7200, 11002, 10, 'ダクビア\\n森林', 100000, 1);
+insert into travel_quest_data values (4201401, 108, 4201351, 4109401, 4104401, 4101401, 11003001, 10, 11003001, -470, 43200, 7200, 11003, 11, 'ミーマス\\n洞穴', 100000, 1);
+insert into travel_quest_data values (4202401, 90, 4202351, 4110401, 4102401, 4108401, 11003002, 10, 11003002, -155, 43200, 7200, 11003, 11, 'レアント川', 100000, 1);
+insert into travel_quest_data values (4203401, 108, 4203351, 4109401, 4105401, 4103401, 11003003, 10, 11003003, 160, 43200, 7200, 11003, 11, 'ケランド\\n廃墟', 100000, 1);
+insert into travel_quest_data values (4204401, 90, 4204351, 4110401, 4107401, 4106401, 11003004, 10, 11003004, 470, 43200, 7200, 11003, 11, 'デオネカ\\n氷海', 100000, 1);

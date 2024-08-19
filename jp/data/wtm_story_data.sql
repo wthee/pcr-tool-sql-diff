@@ -1,0 +1,14 @@
+CREATE TABLE 'wtm_story_data' ('wtm_story_type' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'condition_sub_story_id_1' INTEGER NOT NULL, 'condition_sub_story_id_2' INTEGER NOT NULL, 'emblem_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, PRIMARY KEY('sub_story_id'));
+insert into wtm_story_data values (2, 25, 10128107, 0, 0, 0, 8, 91002, 5128071, 10128, '二人だけの時間');
+insert into wtm_story_data values (2, 25, 0, 5128071, 0, 0, 8, 91002, 5128072, 10128, '新居の必須条件');
+insert into wtm_story_data values (2, 25, 0, 5128072, 0, 0, 8, 91002, 5128073, 10128, '本当は誰よりも');
+insert into wtm_story_data values (2, 25, 0, 5128073, 0, 0, 8, 91002, 5128074, 10128, '家族で大切に\\nしたいこと');
+insert into wtm_story_data values (2, 50, 0, 5128074, 0, 0, 8, 91002, 5128075, 10128, '誓いの言葉');
+insert into wtm_story_data values (3, 25, 10128107, 0, 0, 0, 8, 91002, 5128081, 10128, '血の婚約報告');
+insert into wtm_story_data values (3, 25, 0, 5128081, 0, 0, 8, 91002, 5128082, 10128, '風来人の家探し');
+insert into wtm_story_data values (3, 25, 0, 5128082, 0, 0, 8, 91002, 5128083, 10128, '愛おしい時間');
+insert into wtm_story_data values (3, 25, 0, 5128083, 0, 0, 8, 91002, 5128084, 10128, 'トーゴクの\\n家族文化');
+insert into wtm_story_data values (3, 50, 0, 5128084, 0, 0, 8, 91002, 5128085, 10128, '飾らない愛を');
+insert into wtm_story_data values (4, 0, 0, 5128075, 5128085, 0, 0, 0, 5128091, 10128, '口約束は災いのもと');
+insert into wtm_story_data values (4, 0, 0, 5128091, 0, 11001271, 0, 0, 5128092, 10128, '譲れない家庭の味');
+insert into wtm_story_data values (1, 0, 10128107, 0, 0, 0, 0, 0, 5128161, 10128, '夢の語り部に誘われて');

@@ -1,0 +1,13 @@
+CREATE TABLE 'hatsune_quiz_condition' ('condition_time_from' INTEGER NOT NULL, 'condition_quest_id' INTEGER NOT NULL, 'id' INTEGER NOT NULL, 'condition_unit_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'condition_quiz_id' INTEGER NOT NULL, 'condition_mission_id' INTEGER NOT NULL, 'quiz_id' INTEGER NOT NULL, PRIMARY KEY('id'));
+insert into hatsune_quiz_condition values (0, 10012103, 1, 0, 10012, 0, 0, 1001201);
+insert into hatsune_quiz_condition values (0, 10012107, 2, 0, 10012, 0, 0, 1001202);
+insert into hatsune_quiz_condition values (0, 10012109, 3, 0, 10012, 0, 0, 1001203);
+insert into hatsune_quiz_condition values (0, 10012114, 4, 0, 10012, 1001201, 0, 1001204);
+insert into hatsune_quiz_condition values (0, 10012114, 5, 0, 10012, 1001202, 0, 1001204);
+insert into hatsune_quiz_condition values (0, 10012114, 6, 0, 10012, 1001203, 0, 1001204);
+insert into hatsune_quiz_condition values (0, 20012103, 7, 0, 20012, 0, 0, 2001201);
+insert into hatsune_quiz_condition values (0, 20012107, 8, 0, 20012, 0, 0, 2001202);
+insert into hatsune_quiz_condition values (0, 20012109, 9, 0, 20012, 0, 0, 2001203);
+insert into hatsune_quiz_condition values (0, 20012114, 10, 0, 20012, 2001201, 0, 2001204);
+insert into hatsune_quiz_condition values (0, 20012114, 11, 0, 20012, 2001202, 0, 2001204);
+insert into hatsune_quiz_condition values (0, 20012114, 12, 0, 20012, 2001203, 0, 2001204);

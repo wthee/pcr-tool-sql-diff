@@ -1,0 +1,4 @@
+CREATE TABLE 'srt_score' ('constant_turn_bonus' INTEGER NOT NULL, 'constant_wrong_num' INTEGER NOT NULL, 'coefficient_wrong_num' INTEGER NOT NULL, 'coefficient_avg_answer_time' INTEGER NOT NULL, 'coefficient_turn_bonus' INTEGER NOT NULL, 'coefficient_count_priconne_panel' INTEGER NOT NULL, 'difficulty_level' INTEGER NOT NULL, 'coefficient_read_type_2' INTEGER NOT NULL, 'coefficient_read_type_3' INTEGER NOT NULL, 'coefficient_read_type_1' INTEGER NOT NULL, 'coefficient_fever' INTEGER NOT NULL, PRIMARY KEY('difficulty_level'));
+insert into srt_score values (3000, 1200, 400000, 1000000, 400000, 200, 1, 300, 300, 200, 50);
+insert into srt_score values (4000, 1800, 600000, 2000000, 400000, 300, 2, 400, 400, 300, 100);
+insert into srt_score values (5000, 2400, 800000, 3000000, 400000, 400, 3, 600, 600, 400, 150);
