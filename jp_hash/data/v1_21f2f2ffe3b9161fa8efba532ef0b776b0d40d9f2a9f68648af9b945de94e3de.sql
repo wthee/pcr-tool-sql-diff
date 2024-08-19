@@ -1,0 +1,18 @@
+CREATE TABLE 'v1_21f2f2ffe3b9161fa8efba532ef0b776b0d40d9f2a9f68648af9b945de94e3de' ('204d7d8cb1f7232dd6dba95998a815fe5ddc9592163702f19496a6acc024989d' INTEGER NOT NULL, '577215da99652ee3e2f8b9ad6eb6dc2b5f88bc945f9469c430211642087635cf' INTEGER NOT NULL, '5b149039c290c2f130c0cf9c622917a66eed61fc6c94cd87082fb20a371e747c' INTEGER NOT NULL, '667faea8e80829ad39a51209a49b7afa13394fb82f83d0dd28852c764d663189' TEXT NOT NULL, '08571e7e20c2213e34a2abb609ec5903de9fe4abf7f53df991e7d68b1c453bc3' INTEGER NOT NULL, '5f378e8b40279bedd4458db0115fa0ff5475c0a7f5d9348f9924cb8f3bc874a0' TEXT NOT NULL, '4a313517fe179e399c61c91035e2011d71c32dc7e520f5e71b528374b37f895e' INTEGER NOT NULL, '5974d024b6aa666891ee9b8135b41ab74e56421ec4e24c52c5ce2aee12734648' TEXT NOT NULL, PRIMARY KEY('204d7d8cb1f7232dd6dba95998a815fe5ddc9592163702f19496a6acc024989d'));
+insert into v1_21f2f2ffe3b9161fa8efba532ef0b776b0d40d9f2a9f68648af9b945de94e3de values (1, 5023000, 0, '2030/01/01 1:00:00', 0, '2020/08/16 5:00:00', 1, 'どうしてこんな\\nことに……？');
+insert into v1_21f2f2ffe3b9161fa8efba532ef0b776b0d40d9f2a9f68648af9b945de94e3de values (2, 5023001, 0, '2030/01/01 1:00:00', 0, '2020/08/16 5:00:00', 2, 'ごきげんようが\\n言えなくて');
+insert into v1_21f2f2ffe3b9161fa8efba532ef0b776b0d40d9f2a9f68648af9b945de94e3de values (3, 5023002, 0, '2030/01/01 1:00:00', 0, '2020/08/16 5:00:00', 3, 'やっちゃった！');
+insert into v1_21f2f2ffe3b9161fa8efba532ef0b776b0d40d9f2a9f68648af9b945de94e3de values (4, 5023002, 0, '2030/01/01 1:00:00', 0, '2020/08/17 5:00:00', 4, 'ユニさんは\\nこんな人');
+insert into v1_21f2f2ffe3b9161fa8efba532ef0b776b0d40d9f2a9f68648af9b945de94e3de values (5, 5023002, 0, '2030/01/01 1:00:00', 0, '2020/08/17 5:00:00', 5, 'クロエさんは\\nこんな人');
+insert into v1_21f2f2ffe3b9161fa8efba532ef0b776b0d40d9f2a9f68648af9b945de94e3de values (6, 5023002, 0, '2030/01/01 1:00:00', 0, '2020/08/17 5:00:00', 6, 'チエルさんは\\nこんな人');
+insert into v1_21f2f2ffe3b9161fa8efba532ef0b776b0d40d9f2a9f68648af9b945de94e3de values (7, 5023003, 0, '2030/01/01 1:00:00', 0, '2020/08/18 5:00:00', 7, '知的な\\nユニさん');
+insert into v1_21f2f2ffe3b9161fa8efba532ef0b776b0d40d9f2a9f68648af9b945de94e3de values (8, 5023003, 0, '2030/01/01 1:00:00', 0, '2020/08/18 5:00:00', 8, '優しい\\nクロエさん');
+insert into v1_21f2f2ffe3b9161fa8efba532ef0b776b0d40d9f2a9f68648af9b945de94e3de values (9, 5023003, 0, '2030/01/01 1:00:00', 0, '2020/08/18 5:00:00', 9, '憧れの\\nチエルさん');
+insert into v1_21f2f2ffe3b9161fa8efba532ef0b776b0d40d9f2a9f68648af9b945de94e3de values (10, 5023003, 0, '2030/01/01 1:00:00', 0, '2020/08/19 5:00:00', 10, '特別講座の\\n練習');
+insert into v1_21f2f2ffe3b9161fa8efba532ef0b776b0d40d9f2a9f68648af9b945de94e3de values (11, 5023004, 0, '2030/01/01 1:00:00', 0, '2020/08/19 5:00:00', 11, 'いよいよ\\n特別講座');
+insert into v1_21f2f2ffe3b9161fa8efba532ef0b776b0d40d9f2a9f68648af9b945de94e3de values (12, 5023005, 0, '2030/01/01 1:00:00', 0, '2020/08/19 5:00:00', 12, 'さすがBB団の\\n団長さん！');
+insert into v1_21f2f2ffe3b9161fa8efba532ef0b776b0d40d9f2a9f68648af9b945de94e3de values (13, 5023006, 0, '2030/01/01 1:00:00', 0, '2020/08/19 5:00:00', 13, 'マンドラゴラで\\nパニック');
+insert into v1_21f2f2ffe3b9161fa8efba532ef0b776b0d40d9f2a9f68648af9b945de94e3de values (14, 5023007, 0, '2030/01/01 1:00:00', 0, '2020/08/23 5:00:00', 14, '最終日');
+insert into v1_21f2f2ffe3b9161fa8efba532ef0b776b0d40d9f2a9f68648af9b945de94e3de values (15, 5023000, 1, '2030/01/01 1:00:00', 0, '2020/08/23 21:00:00', 0, '');
+insert into v1_21f2f2ffe3b9161fa8efba532ef0b776b0d40d9f2a9f68648af9b945de94e3de values (16, 5023000, 1, '2030/01/01 1:00:00', 0, '2020/08/23 21:00:00', 0, '');
+insert into v1_21f2f2ffe3b9161fa8efba532ef0b776b0d40d9f2a9f68648af9b945de94e3de values (17, 5023000, 1, '2030/01/01 1:00:00', 0, '2020/08/23 21:00:00', 0, '');

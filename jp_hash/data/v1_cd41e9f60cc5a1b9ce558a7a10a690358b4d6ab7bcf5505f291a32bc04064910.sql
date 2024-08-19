@@ -1,0 +1,16 @@
+CREATE TABLE 'v1_cd41e9f60cc5a1b9ce558a7a10a690358b4d6ab7bcf5505f291a32bc04064910' ('606d935bd570e8b2567e4dcfe1c07df7c9dc5a41f006d8e8df94915770e7a29c' INTEGER NOT NULL, '0afc1047bceff82b2cd9d21d8206de4fc87fc0440fa3039adcae630085475add' TEXT NOT NULL, 'a3af3f4ee7def2dad49c228c2e2c24980734f6def870f44abdf6105200c4f4b6' INTEGER NOT NULL, '2657ad0f993aa69361d48afaa660076d1743fc186a9c9eb793e19f2a31eea2b9' INTEGER NOT NULL, 'c0c3307606b7303056cd5f5b6129880da3a73cff68ef048f5468eb2400384e38' INTEGER NOT NULL, '4fe3eb7f28418097b9f05e182aeb65fdc4ac927e78342278a58c54b87f56eeeb' TEXT NOT NULL, '6787ecf8a3858645d1b998a5de82e740bb3d59b14076e501173ff3d4706796e6' INTEGER NOT NULL, '332078e77175a88cdd9bf95b2b3d527e01c622a1090e9f28788f848dd697b41d' INTEGER NOT NULL, 'afb767c146df44668228b64aa93ee4b02b2b7fa7d42153d90103c26eb231fb52' TEXT NOT NULL, '0a56cbe1b0e26120e04a6eb295476b15ea8fc9b4663afac06dbaa19a22a81b27' INTEGER NOT NULL, PRIMARY KEY('6787ecf8a3858645d1b998a5de82e740bb3d59b14076e501173ff3d4706796e6'));
+insert into v1_cd41e9f60cc5a1b9ce558a7a10a690358b4d6ab7bcf5505f291a32bc04064910 values (1, '', 5038600, 1, 0, '0', 11, 1, '', 20023105);
+insert into v1_cd41e9f60cc5a1b9ce558a7a10a690358b4d6ab7bcf5505f291a32bc04064910 values (2, '高等部１年\u3000チエル', 0, 0, 0, '0', 12, 1, '次世代へ継承すべき新言語', 20023105);
+insert into v1_cd41e9f60cc5a1b9ce558a7a10a690358b4d6ab7bcf5505f291a32bc04064910 values (3, '高等部２年\u3000クロエ', 0, 0, 0, '0', 13, 1, '私はとても作文が苦手です', 20023107);
+insert into v1_cd41e9f60cc5a1b9ce558a7a10a690358b4d6ab7bcf5505f291a32bc04064910 values (4, '高等部３年\u3000ユニ', 0, 0, 0, '0', 14, 1, '飛翔へと至るまで', 20023109);
+insert into v1_cd41e9f60cc5a1b9ce558a7a10a690358b4d6ab7bcf5505f291a32bc04064910 values (5, '', 5038601, 2, 0, '0', 21, 2, '', 20023111);
+insert into v1_cd41e9f60cc5a1b9ce558a7a10a690358b4d6ab7bcf5505f291a32bc04064910 values (6, '記入担当\u3000アキノ', 0, 0, 0, '0', 22, 2, '閃きましたわ！', 20023111);
+insert into v1_cd41e9f60cc5a1b9ce558a7a10a690358b4d6ab7bcf5505f291a32bc04064910 values (7, '記入担当\u3000タマキ', 0, 0, 0, '0', 23, 2, '組み立てにゃ！', 20023112);
+insert into v1_cd41e9f60cc5a1b9ce558a7a10a690358b4d6ab7bcf5505f291a32bc04064910 values (8, '記入担当\u3000ユカリ', 0, 0, 0, '0', 24, 2, '私こんなの書いたっけ…？', 20023113);
+insert into v1_cd41e9f60cc5a1b9ce558a7a10a690358b4d6ab7bcf5505f291a32bc04064910 values (9, '記入担当\u3000ミフユ', 0, 0, 0, '0', 25, 2, 'このままにしておけないわ', 20023114);
+insert into v1_cd41e9f60cc5a1b9ce558a7a10a690358b4d6ab7bcf5505f291a32bc04064910 values (10, '総括', 0, 0, 0, '0', 26, 2, '特別講座を終えて', 20023115);
+insert into v1_cd41e9f60cc5a1b9ce558a7a10a690358b4d6ab7bcf5505f291a32bc04064910 values (11, '', 5038602, 2, 1, '0', 31, 3, '', 20023115);
+insert into v1_cd41e9f60cc5a1b9ce558a7a10a690358b4d6ab7bcf5505f291a32bc04064910 values (12, '浪漫継承計画', 0, 0, 1, '0', 32, 3, '開発記－考察', 20023115);
+insert into v1_cd41e9f60cc5a1b9ce558a7a10a690358b4d6ab7bcf5505f291a32bc04064910 values (13, '未全充溢計画', 0, 0, 2, '0', 33, 3, '開発記－試作機完成', 20023115);
+insert into v1_cd41e9f60cc5a1b9ce558a7a10a690358b4d6ab7bcf5505f291a32bc04064910 values (14, '画竜点睛計画', 0, 0, 3, '0', 34, 3, '開発記－最終工程', 20023115);
+insert into v1_cd41e9f60cc5a1b9ce558a7a10a690358b4d6ab7bcf5505f291a32bc04064910 values (15, '', 5038603, 3, 3, '2022/01/17 15:00:00', 35, 3, '', 20023115);
