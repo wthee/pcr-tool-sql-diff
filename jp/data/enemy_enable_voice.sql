@@ -164,4 +164,6 @@ insert into enemy_enable_voice values (321207, 321200);
 insert into enemy_enable_voice values (321208, 321200);
 insert into enemy_enable_voice values (321500, 321500);
 insert into enemy_enable_voice values (321600, 321600);
+insert into enemy_enable_voice values (321601, 321601);
+insert into enemy_enable_voice values (321602, 321602);
 insert into enemy_enable_voice values (321603, 321600);
