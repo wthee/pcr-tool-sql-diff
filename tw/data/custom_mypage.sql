@@ -28,6 +28,8 @@ insert into custom_mypage values (9000227, 30001, 0, '太鼓高手的海報', 0,
 insert into custom_mypage values (9000228, 40001, 0, '回憶的軌跡', 0, 0, 2);
 insert into custom_mypage values (9000230, 30001, 0, '降臨期日曆\u3000自訂主頁面', 0, 0, 1);
 insert into custom_mypage values (9000233, 20007, 0, '「I Wish\u3000緊握的這雙手」主視覺 自訂主頁面', 0, 0, 1);
+insert into custom_mypage values (9000234, 20007, 0, '6周年紀念自訂主頁面\u3000有logo', 0, 0, 1);
+insert into custom_mypage values (9000235, 20007, 0, '6周年紀念自訂主頁面\u3000無logo', 0, 0, 1);
 insert into custom_mypage values (9000236, 40004, 0, '2024年情人節紀念自訂主頁面\u3000貪吃佩可', 0, 0, 1);
 insert into custom_mypage values (9000237, 40004, 0, '2024年情人節紀念自訂主頁面\u3000可可蘿', 0, 0, 1);
 insert into custom_mypage values (9000238, 40004, 0, '2024年情人節紀念自訂主頁面\u3000凱留', 0, 0, 1);
