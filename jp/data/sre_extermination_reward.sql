@@ -1,9 +1,9 @@
-CREATE TABLE 'sre_extermination_reward' ('reward_id_4' INTEGER NOT NULL, 'reward_id_5' INTEGER NOT NULL, 'reward_type_5' INTEGER NOT NULL, 'reward_count_4' INTEGER NOT NULL, 'extermination_reward_group_id' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_count_3' INTEGER NOT NULL, 'reward_count_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_count_5' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_count_2' INTEGER NOT NULL, 'reward_type_4' INTEGER NOT NULL, PRIMARY KEY('extermination_reward_group_id'));
-insert into sre_extermination_reward values (23001, 0, 0, 20, 3001, 20004, 20, 500, 12, 8, 0, 94002, 2, 91002, 625000, 2);
-insert into sre_extermination_reward values (23001, 0, 0, 20, 3002, 20004, 20, 500, 12, 8, 0, 94002, 2, 91002, 625000, 2);
-insert into sre_extermination_reward values (23001, 0, 0, 20, 3003, 20004, 20, 500, 12, 8, 0, 94002, 2, 91002, 625000, 2);
-insert into sre_extermination_reward values (23001, 0, 0, 20, 3004, 20004, 20, 500, 12, 8, 0, 94002, 2, 91002, 625000, 2);
-insert into sre_extermination_reward values (23001, 21901, 2, 20, 3005, 20004, 20, 1000, 12, 8, 1, 94002, 2, 91002, 1250000, 2);
-insert into sre_extermination_reward values (23001, 0, 0, 20, 3006, 20004, 20, 500, 12, 8, 0, 94002, 2, 91002, 625000, 2);
-insert into sre_extermination_reward values (23001, 0, 0, 20, 3007, 20004, 20, 500, 12, 8, 0, 94002, 2, 91002, 625000, 2);
-insert into sre_extermination_reward values (23001, 21951, 2, 50, 3008, 20005, 10, 1500, 12, 8, 1, 94002, 2, 91002, 5000000, 2);
+CREATE TABLE 'sre_extermination_reward' ('reward_id_5' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_id_4' INTEGER NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_count_2' INTEGER NOT NULL, 'reward_count_1' INTEGER NOT NULL, 'reward_count_4' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'extermination_reward_group_id' INTEGER NOT NULL, 'reward_count_3' INTEGER NOT NULL, 'reward_type_4' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_type_5' INTEGER NOT NULL, 'reward_count_5' INTEGER NOT NULL, PRIMARY KEY('extermination_reward_group_id'));
+insert into sre_extermination_reward values (0, 2, 23001, 8, 625000, 500, 20, 94002, 12, 3001, 20, 2, 20004, 91002, 0, 0);
+insert into sre_extermination_reward values (0, 2, 23001, 8, 625000, 500, 20, 94002, 12, 3002, 20, 2, 20004, 91002, 0, 0);
+insert into sre_extermination_reward values (0, 2, 23001, 8, 625000, 500, 20, 94002, 12, 3003, 20, 2, 20004, 91002, 0, 0);
+insert into sre_extermination_reward values (0, 2, 23001, 8, 625000, 500, 20, 94002, 12, 3004, 20, 2, 20004, 91002, 0, 0);
+insert into sre_extermination_reward values (21901, 2, 23001, 8, 1250000, 1000, 20, 94002, 12, 3005, 20, 2, 20004, 91002, 2, 1);
+insert into sre_extermination_reward values (0, 2, 23001, 8, 625000, 500, 20, 94002, 12, 3006, 20, 2, 20004, 91002, 0, 0);
+insert into sre_extermination_reward values (0, 2, 23001, 8, 625000, 500, 20, 94002, 12, 3007, 20, 2, 20004, 91002, 0, 0);
+insert into sre_extermination_reward values (21951, 2, 23001, 8, 5000000, 1500, 50, 94002, 12, 3008, 10, 2, 20005, 91002, 2, 1);

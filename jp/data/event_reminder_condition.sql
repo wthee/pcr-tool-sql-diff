@@ -1,4 +1,4 @@
-CREATE TABLE 'event_reminder_condition' ('condition_type' INTEGER NOT NULL, 'reminder_id' INTEGER NOT NULL, 'condition_id' INTEGER NOT NULL, 'id' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE 'event_reminder_condition' ('condition_type' INTEGER NOT NULL, 'id' INTEGER NOT NULL, 'condition_id' INTEGER NOT NULL, 'reminder_id' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into event_reminder_condition values (1, 1004601, 5046601, 1004601);
 insert into event_reminder_condition values (1, 1004801, 5048007, 1004801);
 insert into event_reminder_condition values (2, 1004802, 1004801, 1004802);

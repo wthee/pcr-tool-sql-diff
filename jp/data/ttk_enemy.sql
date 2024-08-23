@@ -1,9 +1,9 @@
-CREATE TABLE 'ttk_enemy' ('max' INTEGER NOT NULL, 'coin' INTEGER NOT NULL, 'score' INTEGER NOT NULL, 'enemy_id' INTEGER NOT NULL, PRIMARY KEY('enemy_id'));
-insert into ttk_enemy values (1200, 5, 100, 1);
-insert into ttk_enemy values (1200, 8, 200, 2);
-insert into ttk_enemy values (1200, 10, 300, 3);
-insert into ttk_enemy values (1500, 20, 1000, 4);
-insert into ttk_enemy values (1000, 0, 0, 5);
-insert into ttk_enemy values (1200, 100, 10000, 6);
-insert into ttk_enemy values (1200, 200, 15000, 7);
-insert into ttk_enemy values (2000, 150, 5000, 8);
+CREATE TABLE 'ttk_enemy' ('max' INTEGER NOT NULL, 'coin' INTEGER NOT NULL, 'enemy_id' INTEGER NOT NULL, 'score' INTEGER NOT NULL, PRIMARY KEY('enemy_id'));
+insert into ttk_enemy values (1200, 5, 1, 100);
+insert into ttk_enemy values (1200, 8, 2, 200);
+insert into ttk_enemy values (1200, 10, 3, 300);
+insert into ttk_enemy values (1500, 20, 4, 1000);
+insert into ttk_enemy values (1000, 0, 5, 0);
+insert into ttk_enemy values (1200, 100, 6, 10000);
+insert into ttk_enemy values (1200, 200, 7, 15000);
+insert into ttk_enemy values (2000, 150, 8, 5000);

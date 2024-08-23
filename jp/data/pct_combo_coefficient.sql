@@ -1,7 +1,7 @@
-CREATE TABLE 'pct_combo_coefficient' ('id' INTEGER NOT NULL, 'combo_coefficient' INTEGER NOT NULL, 'combo_max' INTEGER NOT NULL, 'combo_min' INTEGER NOT NULL, PRIMARY KEY('id'));
-insert into pct_combo_coefficient values (1, 1010, 9, 1);
-insert into pct_combo_coefficient values (2, 1030, 19, 10);
-insert into pct_combo_coefficient values (3, 1050, 29, 20);
-insert into pct_combo_coefficient values (4, 1070, 39, 30);
-insert into pct_combo_coefficient values (5, 1100, 49, 40);
-insert into pct_combo_coefficient values (6, 1200, 999, 50);
+CREATE TABLE 'pct_combo_coefficient' ('combo_max' INTEGER NOT NULL, 'combo_coefficient' INTEGER NOT NULL, 'combo_min' INTEGER NOT NULL, 'id' INTEGER NOT NULL, PRIMARY KEY('id'));
+insert into pct_combo_coefficient values (9, 1010, 1, 1);
+insert into pct_combo_coefficient values (19, 1030, 10, 2);
+insert into pct_combo_coefficient values (29, 1050, 20, 3);
+insert into pct_combo_coefficient values (39, 1070, 30, 4);
+insert into pct_combo_coefficient values (49, 1100, 40, 5);
+insert into pct_combo_coefficient values (999, 1200, 50, 6);

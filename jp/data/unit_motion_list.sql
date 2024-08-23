@@ -273,3 +273,4 @@ insert into unit_motion_list values (1, 180801);
 insert into unit_motion_list values (1, 180901);
 insert into unit_motion_list values (1, 181001);
 insert into unit_motion_list values (1, 181101);
+insert into unit_motion_list values (1, 181201);

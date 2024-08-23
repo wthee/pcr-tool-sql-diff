@@ -27,3 +27,4 @@ insert into spskill_label_data values ('特殊スキル', 129601, '通常時');
 insert into spskill_label_data values ('特殊スキル', 129701, '通常時');
 insert into spskill_label_data values ('特殊スキル', 131201, '通常時');
 insert into spskill_label_data values ('特殊スキル', 131801, '通常時');
+insert into spskill_label_data values ('特殊スキル', 181201, '通常時');
