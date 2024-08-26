@@ -21,3 +21,4 @@ insert into v1_a376fc3b54daade9a41aa269a34289496270ccddd57cc301db2b32fad0135738 
 insert into v1_a376fc3b54daade9a41aa269a34289496270ccddd57cc301db2b32fad0135738 values (40003, 'TANITAコラボ記念');
 insert into v1_a376fc3b54daade9a41aa269a34289496270ccddd57cc301db2b32fad0135738 values (40004, '2024年バレンタイン記念');
 insert into v1_a376fc3b54daade9a41aa269a34289496270ccddd57cc301db2b32fad0135738 values (40005, '銀だこハイボール酒場コラボ記念');
+insert into v1_a376fc3b54daade9a41aa269a34289496270ccddd57cc301db2b32fad0135738 values (40006, '煉獄のリベリオン');
