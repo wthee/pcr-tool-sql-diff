@@ -28,5 +28,6 @@ insert into shiori_description values (20042, 26, '完成任務後可解放的�
 insert into shiori_description values (20044, 27, '完成任務後可解放的角色將會登場。\\n以完成任務為目標吧。');
 insert into shiori_description values (20045, 28, '完成任務後可解放的角色將會登場。\\n以完成任務為目標吧。');
 insert into shiori_description values (20047, 29, '完成任務後可解放的角色將會登場。\\n以完成任務為目標吧。');
+insert into shiori_description values (20051, 30, '完成任務後可解放的角色將會登場。\\n以完成任務為目標吧。');
 insert into shiori_description values (2003201, 2003201, '在VERY HARD和正先生會給予支援的樣子。\\n使用給予暈眩效果的必殺技，為我們提供支援唷。\\n在Boss無法動彈的瞬間，一口氣打倒它吧。');
 insert into shiori_description values (2003901, 2003901, '主人似乎很努力地在做作業。\\n若能耐過怪物攻擊直到作業做完就勝利囉。\\n作業進度可於畫面上的計量表確認喔。\t');

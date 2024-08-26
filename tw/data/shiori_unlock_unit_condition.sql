@@ -26,3 +26,4 @@ insert into shiori_unlock_unit_condition values (39, 117801, 20042, 72042021, '�
 insert into shiori_unlock_unit_condition values (40, 119201, 20044, 72044021, '討伐NORMAL BOSS解放！', '[3C404E]進行活動、挑戰BOSS、\\n討伐NORMAL BOSS可解放限定角色！！[-]', '[3C404E]討伐NORMAL BOSS解放！');
 insert into shiori_unlock_unit_condition values (41, 120801, 20045, 72045021, '討伐NORMAL BOSS解放！', '[3C404E]進行活動、挑戰BOSS、\\n討伐NORMAL BOSS可解放限定角色！！[-]', '[3C404E]討伐NORMAL BOSS解放！');
 insert into shiori_unlock_unit_condition values (42, 121201, 20047, 72047021, '討伐NORMAL BOSS解放！', '[3C404E]進行活動、挑戰BOSS、\\n討伐NORMAL BOSS可解放限定角色！！[-]', '[3C404E]討伐NORMAL BOSS解放！');
+insert into shiori_unlock_unit_condition values (43, 122101, 20051, 72051021, '討伐NORMAL BOSS解放！', '[3C404E]進行活動、挑戰BOSS、\\n討伐NORMAL BOSS可解放限定角色！！[-]', '[3C404E]討伐NORMAL BOSS解放！');
