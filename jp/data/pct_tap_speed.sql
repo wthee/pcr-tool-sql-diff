@@ -1,9 +1,9 @@
-CREATE TABLE 'pct_tap_speed' ('id' INTEGER NOT NULL, 'combo_count' INTEGER NOT NULL, 'speed_magnification' INTEGER NOT NULL, PRIMARY KEY('id'));
-insert into pct_tap_speed values (1, 5, 1100);
-insert into pct_tap_speed values (2, 7, 1200);
-insert into pct_tap_speed values (3, 10, 1300);
-insert into pct_tap_speed values (4, 13, 1400);
-insert into pct_tap_speed values (5, 18, 1500);
-insert into pct_tap_speed values (6, 23, 1600);
-insert into pct_tap_speed values (7, 30, 1700);
-insert into pct_tap_speed values (8, 40, 1800);
+CREATE TABLE 'pct_tap_speed' ('combo_count' INTEGER NOT NULL, 'id' INTEGER NOT NULL, 'speed_magnification' INTEGER NOT NULL, PRIMARY KEY('id'));
+insert into pct_tap_speed values (5, 1, 1100);
+insert into pct_tap_speed values (7, 2, 1200);
+insert into pct_tap_speed values (10, 3, 1300);
+insert into pct_tap_speed values (13, 4, 1400);
+insert into pct_tap_speed values (18, 5, 1500);
+insert into pct_tap_speed values (23, 6, 1600);
+insert into pct_tap_speed values (30, 7, 1700);
+insert into pct_tap_speed values (40, 8, 1800);

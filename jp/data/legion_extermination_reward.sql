@@ -1,6 +1,6 @@
-CREATE TABLE 'legion_extermination_reward' ('reward_type_3' INTEGER NOT NULL, 'reward_count_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_type_4' INTEGER NOT NULL, 'reward_count_1' INTEGER NOT NULL, 'reward_count_5' INTEGER NOT NULL, 'reward_count_3' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'extermination_reward_group_id' INTEGER NOT NULL, 'reward_count_4' INTEGER NOT NULL, 'reward_id_4' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_type_5' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_5' INTEGER NOT NULL, PRIMARY KEY('extermination_reward_group_id'));
-insert into legion_extermination_reward values (2, 1250000, 94002, 2, 1000, 0, 25, 20003, 1005, 20, 23001, 91002, 8, 0, 12, 0);
-insert into legion_extermination_reward values (2, 1250000, 94002, 2, 1000, 0, 25, 20003, 1006, 20, 23001, 91002, 8, 0, 12, 0);
-insert into legion_extermination_reward values (2, 1250000, 94002, 2, 1000, 0, 25, 20003, 1007, 20, 23001, 91002, 8, 0, 12, 0);
-insert into legion_extermination_reward values (2, 1250000, 94002, 2, 1000, 0, 25, 20003, 1008, 20, 23001, 91002, 8, 0, 12, 0);
-insert into legion_extermination_reward values (2, 5000000, 94002, 2, 1500, 0, 10, 20004, 2002, 50, 23001, 91002, 8, 0, 12, 0);
+CREATE TABLE 'legion_extermination_reward' ('reward_type_3' INTEGER NOT NULL, 'reward_type_4' INTEGER NOT NULL, 'extermination_reward_group_id' INTEGER NOT NULL, 'reward_count_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_count_2' INTEGER NOT NULL, 'reward_count_4' INTEGER NOT NULL, 'reward_id_4' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_count_3' INTEGER NOT NULL, 'reward_type_5' INTEGER NOT NULL, 'reward_id_5' INTEGER NOT NULL, 'reward_count_5' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_type_1' INTEGER NOT NULL, PRIMARY KEY('extermination_reward_group_id'));
+insert into legion_extermination_reward values (2, 2, 1005, 1000, 12, 1250000, 20, 23001, 91002, 25, 0, 0, 0, 94002, 20003, 8);
+insert into legion_extermination_reward values (2, 2, 1006, 1000, 12, 1250000, 20, 23001, 91002, 25, 0, 0, 0, 94002, 20003, 8);
+insert into legion_extermination_reward values (2, 2, 1007, 1000, 12, 1250000, 20, 23001, 91002, 25, 0, 0, 0, 94002, 20003, 8);
+insert into legion_extermination_reward values (2, 2, 1008, 1000, 12, 1250000, 20, 23001, 91002, 25, 0, 0, 0, 94002, 20003, 8);
+insert into legion_extermination_reward values (2, 2, 2002, 1500, 12, 5000000, 50, 23001, 91002, 10, 0, 0, 0, 94002, 20004, 8);

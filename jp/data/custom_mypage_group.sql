@@ -21,3 +21,4 @@ insert into custom_mypage_group values (40002, 'ローソンコラボ記念');
 insert into custom_mypage_group values (40003, 'TANITAコラボ記念');
 insert into custom_mypage_group values (40004, '2024年バレンタイン記念');
 insert into custom_mypage_group values (40005, '銀だこハイボール酒場コラボ記念');
+insert into custom_mypage_group values (40006, '煉獄のリベリオン');

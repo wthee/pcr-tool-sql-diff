@@ -1,6 +1,6 @@
-CREATE TABLE 'talent' ('talent_name' TEXT NOT NULL, 'talent_id' INTEGER NOT NULL, 'talent_color' TEXT NOT NULL, PRIMARY KEY('talent_id'));
-insert into talent values ('火', 1, '#e65d49');
-insert into talent values ('水', 2, '#1a78a7');
-insert into talent values ('風', 3, '#628d2e');
-insert into talent values ('光', 4, '#c7a004');
-insert into talent values ('闇', 5, '#b86ada');
+CREATE TABLE 'talent' ('talent_color' TEXT NOT NULL, 'talent_name' TEXT NOT NULL, 'talent_id' INTEGER NOT NULL, PRIMARY KEY('talent_id'));
+insert into talent values ('#e65d49', '火', 1);
+insert into talent values ('#1a78a7', '水', 2);
+insert into talent values ('#628d2e', '風', 3);
+insert into talent values ('#c7a004', '光', 4);
+insert into talent values ('#b86ada', '闇', 5);

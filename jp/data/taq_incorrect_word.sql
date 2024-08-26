@@ -1,6 +1,6 @@
-CREATE TABLE 'taq_incorrect_word' ('incorrect_word' TEXT NOT NULL, 'word_id' INTEGER NOT NULL, PRIMARY KEY('word_id'));
-insert into taq_incorrect_word values ('123456789', 1);
-insert into taq_incorrect_word values ('ABCDEFGHIJKLMNOPQRSTUVWXYZ', 2);
-insert into taq_incorrect_word values ('abcdefghijklmnopqrstuvwxyz', 3);
-insert into taq_incorrect_word values ('あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉゃゅょっ', 4);
-insert into taq_incorrect_word values ('アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォャュョッ', 5);
+CREATE TABLE 'taq_incorrect_word' ('word_id' INTEGER NOT NULL, 'incorrect_word' TEXT NOT NULL, PRIMARY KEY('word_id'));
+insert into taq_incorrect_word values (1, '123456789');
+insert into taq_incorrect_word values (2, 'ABCDEFGHIJKLMNOPQRSTUVWXYZ');
+insert into taq_incorrect_word values (3, 'abcdefghijklmnopqrstuvwxyz');
+insert into taq_incorrect_word values (4, 'あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉゃゅょっ');
+insert into taq_incorrect_word values (5, 'アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォャュョッ');

@@ -1,4 +1,4 @@
-CREATE TABLE 'kaiser_special_battle' ('recommended_level' INTEGER NOT NULL, 'wave_group_id' INTEGER NOT NULL, 'trigger_hp' INTEGER NOT NULL, 'mode' INTEGER NOT NULL, 'unnecessary_defeat_chara' INTEGER NOT NULL, 'purpose_count' INTEGER NOT NULL, 'purpose_type' INTEGER NOT NULL, 'story_id_mode_start' INTEGER NOT NULL, 'action_start_second' REAL NOT NULL, 'story_id_mode_end' INTEGER NOT NULL, 'start_idle_trigger' INTEGER NOT NULL, 'hp_gauge_color_flag' INTEGER NOT NULL, 'story_start_second' REAL NOT NULL, 'appear_time' REAL NOT NULL, PRIMARY KEY('mode'));
-insert into kaiser_special_battle values (140, 801100321, 0, 1, 610019401, 280, 4, 432, 6.0, 433, 0, 1, 1.5, 0.0);
-insert into kaiser_special_battle values (140, 801100322, 50, 2, 0, 0, 1, 0, 5.0, 434, 0, 1, 1.5, 0.0);
-insert into kaiser_special_battle values (140, 801100323, 0, 3, 0, 0, 1, 0, 5.0, 435, 0, 1, 1.5, 0.0);
+CREATE TABLE 'kaiser_special_battle' ('trigger_hp' INTEGER NOT NULL, 'story_id_mode_end' INTEGER NOT NULL, 'recommended_level' INTEGER NOT NULL, 'wave_group_id' INTEGER NOT NULL, 'mode' INTEGER NOT NULL, 'story_id_mode_start' INTEGER NOT NULL, 'story_start_second' REAL NOT NULL, 'hp_gauge_color_flag' INTEGER NOT NULL, 'start_idle_trigger' INTEGER NOT NULL, 'action_start_second' REAL NOT NULL, 'unnecessary_defeat_chara' INTEGER NOT NULL, 'purpose_count' INTEGER NOT NULL, 'appear_time' REAL NOT NULL, 'purpose_type' INTEGER NOT NULL, PRIMARY KEY('mode'));
+insert into kaiser_special_battle values (0, 433, 140, 801100321, 1, 432, 1.5, 1, 0, 6.0, 610019401, 280, 0.0, 4);
+insert into kaiser_special_battle values (50, 434, 140, 801100322, 2, 0, 1.5, 1, 0, 5.0, 0, 0, 0.0, 1);
+insert into kaiser_special_battle values (0, 435, 140, 801100323, 3, 0, 1.5, 1, 0, 5.0, 0, 0, 0.0, 1);
