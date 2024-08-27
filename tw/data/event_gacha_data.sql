@@ -141,4 +141,5 @@ insert into event_gacha_data values (10140, 10140, '寒冬的盛夏與神聖學�
 insert into event_gacha_data values (10141, 10141, '貓與懷舊點心的咖啡廳 歡迎光臨Café Naschkatze', 2, 61402, 1, 6);
 insert into event_gacha_data values (10142, 10142, '冷酷・火爆・新兵訓練營\u3000魔鬼教官和鞭子與……糖果？', 2, 61412, 1, 6);
 insert into event_gacha_data values (10143, 10143, 'Dears\u3000歡迎回家與我回來了的約定', 2, 61422, 1, 6);
+insert into event_gacha_data values (10144, 10144, '花開季節的真心', 2, 61432, 1, 6);
 insert into event_gacha_data values (19003, 10003, '吸血鬼獵人 with伊莉亞', 2, 60022, 1, 5);

@@ -34,3 +34,4 @@ insert into campaign_freegacha values (32, 32, 0, 1, '2023/12/16 05:00:00', '202
 insert into campaign_freegacha values (33, 33, 0, 1, '2024/02/29 05:00:00', '2024/03/06 04:59:59', 1, 0, 0);
 insert into campaign_freegacha values (34, 34, 0, 1, '2024/04/23 05:00:00', '2024/05/06 04:59:59', 2, 0, 0);
 insert into campaign_freegacha values (35, 35, 0, 1, '2024/06/17 05:00:00', '2024/07/02 04:59:59', 2, 0, 0);
+insert into campaign_freegacha values (36, 36, 0, 1, '2024/08/28 05:00:00', '2024/09/02 04:59:59', 2, 0, 0);

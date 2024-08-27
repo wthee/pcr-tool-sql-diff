@@ -777,3 +777,4 @@ insert into gacha_exchange_lineup values (781, 316, 129801, 3, 1139, 30316, '202
 insert into gacha_exchange_lineup values (782, 317, 121501, 3, 0, 0, '2024/08/13 16:00:00', '2024/08/16 15:59:59');
 insert into gacha_exchange_lineup values (783, 318, 125301, 3, 0, 0, '2024/08/13 16:00:00', '2024/08/16 15:59:59');
 insert into gacha_exchange_lineup values (784, 319, 129901, 3, 1140, 30319, '2024/08/16 16:00:00', '2024/08/28 15:59:59');
+insert into gacha_exchange_lineup values (785, 320, 127501, 3, 0, 0, '2024/08/28 16:00:00', '2024/09/01 15:59:59');
