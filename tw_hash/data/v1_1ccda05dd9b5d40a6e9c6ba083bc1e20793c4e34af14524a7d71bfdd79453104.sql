@@ -141,4 +141,5 @@ insert into v1_1ccda05dd9b5d40a6e9c6ba083bc1e20793c4e34af14524a7d71bfdd79453104 
 insert into v1_1ccda05dd9b5d40a6e9c6ba083bc1e20793c4e34af14524a7d71bfdd79453104 values (10141, 10141, '貓與懷舊點心的咖啡廳 歡迎光臨Café Naschkatze', 2, 61402, 1, 6);
 insert into v1_1ccda05dd9b5d40a6e9c6ba083bc1e20793c4e34af14524a7d71bfdd79453104 values (10142, 10142, '冷酷・火爆・新兵訓練營\u3000魔鬼教官和鞭子與……糖果？', 2, 61412, 1, 6);
 insert into v1_1ccda05dd9b5d40a6e9c6ba083bc1e20793c4e34af14524a7d71bfdd79453104 values (10143, 10143, 'Dears\u3000歡迎回家與我回來了的約定', 2, 61422, 1, 6);
+insert into v1_1ccda05dd9b5d40a6e9c6ba083bc1e20793c4e34af14524a7d71bfdd79453104 values (10144, 10144, '花開季節的真心', 2, 61432, 1, 6);
 insert into v1_1ccda05dd9b5d40a6e9c6ba083bc1e20793c4e34af14524a7d71bfdd79453104 values (19003, 10003, '吸血鬼獵人 with伊莉亞', 2, 60022, 1, 5);
