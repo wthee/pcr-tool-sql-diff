@@ -1,2 +1,2 @@
-CREATE TABLE 'pct_system' ('id' INTEGER NOT NULL, 'chara1_gauge_choice' INTEGER NOT NULL, 'fever_revention_time' INTEGER NOT NULL, 'pct_base_speed' INTEGER NOT NULL, 'chara2_gauge_choice' INTEGER NOT NULL, 'fever_time' INTEGER NOT NULL, 'pct_time' INTEGER NOT NULL, 'fever_point_max' INTEGER NOT NULL, 'chara2' INTEGER NOT NULL, 'chara1' INTEGER NOT NULL, PRIMARY KEY('chara2_gauge_choice'));
-insert into pct_system values (1, 1, 500, 600, 1, 2, 30, 60, 109001, 109101);
+CREATE TABLE 'pct_system' ('chara2_gauge_choice' INTEGER NOT NULL, 'id' INTEGER NOT NULL, 'fever_time' INTEGER NOT NULL, 'fever_point_max' INTEGER NOT NULL, 'chara2' INTEGER NOT NULL, 'chara1' INTEGER NOT NULL, 'pct_time' INTEGER NOT NULL, 'pct_base_speed' INTEGER NOT NULL, 'chara1_gauge_choice' INTEGER NOT NULL, 'fever_revention_time' INTEGER NOT NULL, PRIMARY KEY('chara2_gauge_choice'));
+insert into pct_system values (1, 1, 2, 60, 109001, 109101, 30, 600, 1, 500);

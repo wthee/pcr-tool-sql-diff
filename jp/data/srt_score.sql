@@ -1,4 +1,4 @@
-CREATE TABLE 'srt_score' ('coefficient_wrong_num' INTEGER NOT NULL, 'coefficient_read_type_1' INTEGER NOT NULL, 'coefficient_read_type_3' INTEGER NOT NULL, 'coefficient_read_type_2' INTEGER NOT NULL, 'coefficient_turn_bonus' INTEGER NOT NULL, 'coefficient_avg_answer_time' INTEGER NOT NULL, 'coefficient_count_priconne_panel' INTEGER NOT NULL, 'difficulty_level' INTEGER NOT NULL, 'coefficient_fever' INTEGER NOT NULL, 'constant_wrong_num' INTEGER NOT NULL, 'constant_turn_bonus' INTEGER NOT NULL, PRIMARY KEY('difficulty_level'));
-insert into srt_score values (400000, 200, 300, 300, 400000, 1000000, 200, 1, 50, 1200, 3000);
-insert into srt_score values (600000, 300, 400, 400, 400000, 2000000, 300, 2, 100, 1800, 4000);
-insert into srt_score values (800000, 400, 600, 600, 400000, 3000000, 400, 3, 150, 2400, 5000);
+CREATE TABLE 'srt_score' ('coefficient_read_type_3' INTEGER NOT NULL, 'coefficient_read_type_1' INTEGER NOT NULL, 'coefficient_wrong_num' INTEGER NOT NULL, 'difficulty_level' INTEGER NOT NULL, 'coefficient_count_priconne_panel' INTEGER NOT NULL, 'constant_turn_bonus' INTEGER NOT NULL, 'coefficient_fever' INTEGER NOT NULL, 'coefficient_read_type_2' INTEGER NOT NULL, 'coefficient_avg_answer_time' INTEGER NOT NULL, 'constant_wrong_num' INTEGER NOT NULL, 'coefficient_turn_bonus' INTEGER NOT NULL, PRIMARY KEY('difficulty_level'));
+insert into srt_score values (300, 200, 400000, 1, 200, 3000, 50, 300, 1000000, 1200, 400000);
+insert into srt_score values (400, 300, 600000, 2, 300, 4000, 100, 400, 2000000, 1800, 400000);
+insert into srt_score values (600, 400, 800000, 3, 400, 5000, 150, 600, 3000000, 2400, 400000);

@@ -1,4 +1,4 @@
-CREATE TABLE 'room_emotion_icon' ('enable_tap' INTEGER NOT NULL, 'enable_auto' INTEGER NOT NULL, 'id' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE 'room_emotion_icon' ('enable_auto' INTEGER NOT NULL, 'enable_tap' INTEGER NOT NULL, 'id' INTEGER NOT NULL, PRIMARY KEY('id'));
 insert into room_emotion_icon values (0, 0, 0);
 insert into room_emotion_icon values (0, 0, 1);
 insert into room_emotion_icon values (0, 0, 2);
