@@ -97,4 +97,5 @@ insert into event_gacha_data values (10096, 10096, '破晓之星夏日游戏\u30
 insert into event_gacha_data values (10097, 10097, '无限夏日计划\u3000两人独占的盛夏乐园', 2, 60962, 1, 6);
 insert into event_gacha_data values (10098, 10098, '点滴夏日回忆\u3000在海边发现的小小幸福', 2, 60972, 1, 6);
 insert into event_gacha_data values (10099, 10099, '慈乐之音的夏日演唱会\u3000转瞬即逝的时光！ ', 2, 60982, 1, 6);
+insert into event_gacha_data values (10100, 10100, '真步真步奇妙之旅！\u3000旅行的少女与世界尽头的大树', 2, 60992, 1, 6);
 insert into event_gacha_data values (19003, 10003, '吸血鬼猎人with伊莉亚讨伐证交换', 2, 60022, 1, 5);

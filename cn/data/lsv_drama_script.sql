@@ -747,7 +747,7 @@ insert into lsv_drama_script values (1009805049, 1009805, 3, '100411', 'lsv_idle
 insert into lsv_drama_script values (1009805050, 1009805, 3, '102011', 'lsv_idle_bitter', '1', '', '', '0.2', '', '');
 insert into lsv_drama_script values (1009805051, 1009805, 3, '103611', 'lsv_talk_tsun_sad', '1', '', '', '0.2', '', '');
 insert into lsv_drama_script values (1009805052, 1009805, 21, 'vo_lsv', 'vo_lsv_0526', '0', '0', '', '', '', '');
-insert into lsv_drama_script values (1009805053, 1009805, 11, '103611', '咦咦？\\n未奏希听说是为了自由研究\\n才来帮忙的！', '10', '1', '1', '0', '0', '0');
+insert into lsv_drama_script values (1009805053, 1009805, 11, '103611', '咦咦？\\n听说是为了自由研究\\n才来帮忙的！', '10', '1', '1', '0', '0', '0');
 insert into lsv_drama_script values (1009805054, 1009805, 91, '0', '', '', '', '', '', '', '');
 insert into lsv_drama_script values (1009805055, 1009805, 3, '103611', 'lsv_idle_wish_sad', '1', '', '', '0.2', '', '');
 insert into lsv_drama_script values (1009805056, 1009805, 3, '100411', 'lsv_talk_cool_bitter_loop', '1', '', '', '0.2', '', '');

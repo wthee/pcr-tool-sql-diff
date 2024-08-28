@@ -5,7 +5,7 @@ insert into campaign_beginner_data values (3, 11001001, 11025014);
 insert into campaign_beginner_data values (4, 11026001, 11057014);
 insert into campaign_beginner_data values (5, 12001001, 12053002);
 insert into campaign_beginner_data values (6, 11001001, 11057014);
-insert into campaign_beginner_data values (7, 12026001, 12055003);
+insert into campaign_beginner_data values (7, 12026001, 12055002);
 insert into campaign_beginner_data values (8, 11026001, 11059014);
 insert into campaign_beginner_data values (9, 12026001, 12056003);
 insert into campaign_beginner_data values (10, 11026001, 11060014);

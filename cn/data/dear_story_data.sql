@@ -23,3 +23,4 @@ insert into dear_story_data values (6078, 6, 10078, '魔法少女外传\u3000黑
 insert into dear_story_data values (6088, 6, 10088, 'Sweet tiny stage！\u3000新人女演员与小小淑女', 0, 1, '2024/02/29 11:00:00', '2099/12/31/ 23:59:59');
 insert into dear_story_data values (6090, 6, 10090, '交出宝物！\u3000神出鬼没的怪盗', 0, 1, '2024/03/29 11:00:00', '2099/12/31/ 23:59:59');
 insert into dear_story_data values (6094, 6, 10094, 'Enjoy&Refresh！性格迥异的女子露营', 0, 1, '2024/05/31 11:00:00', '2099/12/31/ 23:59:59');
+insert into dear_story_data values (6100, 6, 10100, '真步真步奇妙之旅！\u3000旅行的少女与世界尽头的大树', 0, 1, '2024/08/30 11:00:00', '2099/12/31/ 23:59:59');

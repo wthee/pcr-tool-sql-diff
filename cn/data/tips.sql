@@ -110,6 +110,8 @@ insert into tips values (4122001, 122001, 1, '看得清楚');
 insert into tips values (4122101, 122101, 1, '营地大师');
 insert into tips values (4122201, 122201, 1, '奢侈的时光');
 insert into tips values (4122301, 122301, 1, '最强了♪');
+insert into tips values (4123001, 123001, 1, '软乎乎软乎乎');
+insert into tips values (4123101, 123101, 1, '轻飘飘咕噜灵');
 insert into tips values (4170101, 170101, 1, '闪亮登场');
 insert into tips values (4170201, 170201, 1, '努力打年糕');
 insert into tips values (4180101, 180101, 1, '猜拳时间！');
